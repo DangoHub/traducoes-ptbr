@@ -1,0 +1,42 @@
+[
+ {
+  "k": "PhoneCall_Nobody.000",
+  "en": "Ring... ring..."
+ },
+ {
+  "k": "PhoneCall_Nobody.001",
+  "en": "...No one is answering."
+ },
+ {
+  "k": "PhoneCall_Cancel.000",
+  "en": "Hmm, never mind."
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.000",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.001",
+  "en": "...And that's all I have for you today."
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.002",
+  "en": "I hope you enjoyed the story."
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.003",
+  "en": "*sigh*"
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.004",
+  "en": "Now you'll know not to panic if you run into any other witches."
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.005",
+  "en": "I should be going. Everyone is waiting for me."
+ },
+ {
+  "k": "ChapterE3_Outro_End.Cut_0.006",
+  "en": "Well then, goodbye."
+ }
+]

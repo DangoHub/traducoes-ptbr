@@ -1,0 +1,1126 @@
+[
+ {
+  "k": "Magic_Name||Magic.SpawnOrb",
+  "en": "Gem Shards"
+ },
+ {
+  "k": "Magic_Name||Magic.ReaperSwing",
+  "en": "Slash"
+ },
+ {
+  "k": "Magic_Name||Magic.Ambush",
+  "en": "Ambush"
+ },
+ {
+  "k": "Magic_Name||Magic.CounterAttack",
+  "en": "Counter"
+ },
+ {
+  "k": "Magic_Name||Magic.SpawnFamiliar",
+  "en": "Summon Doll"
+ },
+ {
+  "k": "Magic_Name||Magic.SpawnTrap",
+  "en": "Sewing Wheel"
+ },
+ {
+  "k": "Magic_Name||Magic.Rush",
+  "en": "Rush"
+ },
+ {
+  "k": "Magic_Name||Magic.Boost",
+  "en": "Butterfly Walk"
+ },
+ {
+  "k": "Magic_Name||Magic.SpawnCrow",
+  "en": "Shadow Surge"
+ },
+ {
+  "k": "Magic_Name||Magic.Leech",
+  "en": "Blood Marble"
+ },
+ {
+  "k": "Magic_Name||Magic.SpawnFireball",
+  "en": "Fireball"
+ },
+ {
+  "k": "MirrorSelectorUI||Title_SelectAddon",
+  "en": "Select an Imprint."
+ },
+ {
+  "k": "MirrorSelectorUI||Title_SelectRelic",
+  "en": "Select a Relic."
+ },
+ {
+  "k": "MirrorSelectorUI||Title_SelectMagic",
+  "en": "Select Spell."
+ },
+ {
+  "k": "MirrorSelectorUI||Title_SelectWeapon",
+  "en": "Select a Weapon."
+ },
+ {
+  "k": "MirrorSelectorUI||Title_SelectSpecial",
+  "en": "Select a Special Skill."
+ },
+ {
+  "k": "PhoneCall||SelectPhoneCallTo",
+  "en": "Who should I call?"
+ },
+ {
+  "k": "PhoneCall||Cancel",
+  "en": "Never mind."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.NonCriticalDamage",
+  "en": "`Weapon` DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.MoreMagicLessWeapon",
+  "en": "All `Spells` DMG increases by `{$Magic_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.Duration",
+  "en": "All Durations increase by `{$All_Duration_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.ProjectileDamage",
+  "en": "All Projectiles DMG increases by `{$All_Projectile_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.SummonDamage",
+  "en": "All `Summons` DMG increases by `{$All_Summon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.CooltimeRecPerStack",
+  "en": "Whenever a `Stack` is consumed, all Cooldowns of Cooldown Skills recover by `{$OnAnyStackUse_All_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.ChargeSpeed",
+  "en": "The `Charge SPD` of each `Charge` skill increases by `{$All_Charge_Speed_More_PerMaxStack:0.##%}` per Max `Stack`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.0.CooltimeRecover",
+  "en": "When `Scissors` hit, all Cooldowns of Cooldown Skills recover by `{$OnWeaponHit_All_Cooltime_RecoverSec:0.##}s`. On a Critical Hit, Cooldown Recovery Amount increases by `{$OnWeaponHit_All_Cooltime_RecoverSec_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.0.MagicRage",
+  "en": "When `Scissors` hit, gain `{$OnWeaponHit_MagicRage_StackAmount:0.##}%` `Spell Rampage`. On a Critical Hit, `Gain` increases by `{$OnWeaponHit_MagicRage_StackAmount_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.0.AttackSpeedOnMagic",
+  "en": "When using a `Spell`, gain `{$OnMagicUse_IncreaseAttackSpeed_StackAmount:0.##}%` `Swiftness`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.1.CooltimeRecover",
+  "en": "When `Giant Scissors` lands a Critical Hit, all Cooldowns of Cooldown Skills recover by `{$OnCriticalHit_All_Cooltime_RecoverSec:0.##}s`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.1.RemoveCritical",
+  "en": "When `Giant Scissors` lands a Critical Hit, remove all `Guaranteed Crits`. For every `1` `Guaranteed Crit` removed, DMG increases by `{$Weapon_Damage_More_PerRemovedForceCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.1.RemoveSummoned",
+  "en": "When `Giant Scissors` hit, gain `{$OnWeaponHit_MagicRage_StackAmount:0.##}%` `Spell Rampage`. On a Critical Hit, `Gain` increases by `{$OnWeaponHit_MagicRage_StackAmount_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.2.MagicCoolRecover",
+  "en": "When `Magic Scissors` lands a Critical Hit, the Cooldowns of other Cooldown Skills recover by `{$OnCriticalHit_OtherSkills_Cooltime_RecoverSec:0.##}s`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.2.MagicRage",
+  "en": "When `Magic Scissors` lands a Critical Hit, gain `{$OnCriticalHit_MagicRage_StackAmount:0}%` `Spell Rampage`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.2.IncreaseChargeSpeed",
+  "en": "When `Magic Scissors` lands a Critical Hit, gain `{$OnCriticalHit_IncreaseChargeSpeed_StackAmount:0}%` `Charge Acceleration`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.3.CoolRecLessWE",
+  "en": "When `Broken Scissors` hit, all Cooldowns of Cooldown Skills recover by `{$OnWeaponHit_All_Cooltime_RecoverSec:0.##}s`. On a Critical Hit, Cooldown Recovery Amount increases by `{$OnWeaponHit_All_Cooltime_RecoverSec_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.3.GetWEOnMagic",
+  "en": "When using a `Spell`, gain `{$OnMagicUse_WeaponEnhancement_StackAmount:0.##}%` `Sharpness`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.3.MoreCritical",
+  "en": "All `Guaranteed Crit` Gain Amount increases by `{$ForceCritical_StackAmount_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.4.CooltimeRecover",
+  "en": "When `Singing Scissors` hit, all Cooldowns of Cooldown Skills recover by `{$OnWeaponHit_All_Cooltime_RecoverSec:0.##}s`. On a Critical Hit, Cooldown Recovery Amount increases by `{$OnWeaponHit_All_Cooltime_RecoverSec_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.4.MagicRage",
+  "en": "When `Singing Scissors` hit, gain `{$OnWeaponHit_Rampage_StackAmount:0.##}%` `Power Boost`. On a Critical Hit, `Gain` increases by `{$OnWeaponHit_Rampage_StackAmount_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.4.CoolRecoverOnReload",
+  "en": "When reloading `Singing Scissors`, gain `{$Weapon_Type4_OnReload_MagicRage_StackAmount:0}%` `Spell Rampage`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.5.OtherCoolRecover",
+  "en": "When `Lapis Scissors` lands a Critical Hit, the Cooldowns of other Cooldown Skills recover by `{$OnCriticalHit_OtherSkills_Cooltime_RecoverSec:0.##}s`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.5.WeaponCoolRecover",
+  "en": "When `Lapis Scissors` hit, gain `{$OnWeaponHit_Rampage_StackAmount:0.##}%` `Power Boost`. On a Critical Hit, Gain increases by `{$OnWeaponHit_Rampage_StackAmount_More_IfCritical:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Weapon.Scissor.5.IncreaseChargeSpeed",
+  "en": "When `Lapis Scissors` lands a Critical Hit, gain `{$OnCriticalHit_IncreaseChargeSpeed_StackAmount:0}%` `Charge Acceleration`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.ReaperSwing.ReaperSwingCoolRec",
+  "en": "When using a Cooldown Skill, `Slash` Cooldown recovers by `{$OnCooltimeSkillUse_ReaperSwing_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.ReaperSwing.RemoveSummoned",
+  "en": "When using `Slash`, all `Summons` and `Threads` are removed. For every `1` removed, DMG increases by `{$ReaperSwing_Damage_More_PerRemoveTS:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.ReaperSwing.Critical",
+  "en": "When `Slash` hits, gain `{$OnReaperSwingHit_ForceCritical_StackAmount:0.##}` `Guaranteed Crit`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Ambush.Critical",
+  "en": "When `Ambush` hits, gain `{$OnAmbushHit_CriticalHit_StackAmount:0.##}` `Guaranteed Crit`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Ambush.RemoveSummoned",
+  "en": "When using `Ambush`, remove all `Summons` and `Threads`. For every `1` removed, `Ambush` Cooldown recovers by `{$OnAmbushHit_Ambush_Cooltime_RecoverPercent_PerRemovedTS:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Ambush.CooltimeRecover",
+  "en": "When `Ambush` hits, the Cooldowns of other Cooldown Skills recover by `{$OnAmbushHit_OtherCooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.CounterAttack.RemoveSummoned",
+  "en": "On a successful `Counter`, all `Summons` and `Threads` are removed. For every `1` removed, `Counter` DMG increases by `{$CounterAttack_Damage_More_PerRemoveTS:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.CounterAttack.Critical",
+  "en": "On a successful `Counter`, gain `{$OnCounterAttackHit_CriticalHit_StackAmount:0.##}` `Guaranteed Crit`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.CounterAttack.Rampage",
+  "en": "On a successful `Counter`, gain `{$OnCounterAttackHit_Rampage_StackAmount:0.##}%` `Power Boost`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnFamiliar.COCAndCoolRec",
+  "en": "`Summon Doll` can no longer be used directly. Instead, it is cast automatically on the `Strongest Enemy` when a `Weapon` Critical Hits. `Summon Doll` Cooldown decreases by `{|$SpawnFamiliar_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnFamiliar.GhostFamiliar",
+  "en": "When using `Summon Doll`, remove all `Summons` except `Dolls`. For every `{$OnSpawnFamiliarAfterPostCast_RemoveSummonsExceptFamiliar_SpawnGhost_RequiredRemovedSummonCount:0}` `Summon` removed, summon `1` `Phantom Doll`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnFamiliar.DamagePerFamiliar",
+  "en": "`Dolls` no longer attack enemies. All DMG increases by `{$All_Damage_More_PerFamiliar:0.##%}` for every `1` summoned `Doll`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnTrap.CoolRecoverOnTrap",
+  "en": "While at least one `Sewing Wheel` is hitting an enemy, the Cooldown Recovery SPD of Cooldown Skills other than `Sewing Wheel` increases by `{$OnTrapAttacking_OtherCooltime_RecoverSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnTrap.Critical",
+  "en": "When `Sewing Wheel` is removed, gain `{$OnSpawnTrapRemove_ForceCritical_StackAmount:0.##}` `Guaranteed Crit`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnTrap.COCAndCoolRec",
+  "en": "`Sewing Wheel` can no longer be used directly. Instead, it is cast automatically when a `Weapon` Critical Hits. `Sewing Wheel` Cooldown decreases by `{|$SpawnTrap_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Rush.MoreDamagePerThread",
+  "en": "For every `1` `Thread` connected to the target, All DMG taken by that target increases by `{$DamageTaken_Add_PerThreaded:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Rush.Critical",
+  "en": "When `Rush` pulls an enemy, gain `{$OnRushPull_CriticalHit_StackAmount:0}` `Guaranteed Crit`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Rush.CoolRecoverPerNeedle",
+  "en": "When `Rush` hits, the Cooldowns of other Cooldown Skills recover by `{$OnRushHit_OtherCooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Boost.CoolRecoverPerFlower",
+  "en": "When `Flower` is removed, the Cooldowns of Cooldown Skills except `Butterfly Walk` recover by `{$OnFlowerRemove_OtherCooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Boost.CriticalPerCharge",
+  "en": "When `Butterfly Walk` hits, gain `{$OnBoostHit_ForceCritical_StackAmount_PerCharge:0.##}` `Guaranteed Crit` per `Charged Gauge`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Boost.RampagePerCharge",
+  "en": "When `Butterfly Walk` hits, gain `{$OnBoostHit_Rampage_StackAmount_PerCharge:0.##}%` `Power Boost` per `Charged Gauge`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnCrow.COCAndCoolRec",
+  "en": "`Shadow Surge` can no longer be used directly. Instead, it is cast automatically on the `Strongest Enemy` when a `Weapon` Critical Hits. `Shadow Surge` Cooldown decreases by `{|$SpawnCrow_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnCrow.DamagePerCrow",
+  "en": "For every `1` summoned `Crow`, all DMG increases by `{$All_Damage_More_PerCrow:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnCrow.RemoveCrow",
+  "en": "When `Crow` is removed, the Cooldowns of Cooldown Skills except `Shadow Surge` recover by `{$OnCrowRemove_OtherCooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Leech.COCAndDurationRec",
+  "en": "`Blood Marble` can no longer be used directly. Instead, it is cast automatically when a `Weapon` Critical Hits. `Blood Marble` Cooldown decreases by `{|$Leech_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Leech.DamagePerUsedBlood",
+  "en": "Max `Blood Gauge` `{$Blood_GaugeMax_Add:+0;-0;}`. When using a Cooldown Skill, that skill's damage increases by `{$Magic_Damage_More_PerUsedBlood:0.##%}` for `every 1 Blood Gauge` consumed."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.Leech.CoolRecOnLeech",
+  "en": "While `Blood Marble` is hitting enemies, the Cooldown Recovery SPD of other Cooldown Skills increases by `{$OnLeechActive_OtherCooltime_RecoverSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnFireball.RemoveSummoned",
+  "en": "When using `Fireball`, all `Summons` and `Threads` are removed. For every `1` removed, DMG increases by `{$SpawnFireball_Damage_More_PerRemoveTS:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnFireball.DamageConvertToFire",
+  "en": "All DMG additionally applies `Burn` to Enemy HP equal to `{$OnAllHit_FireDamage_PerDamage:0.##%}` of its damage."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnFireball.CoolRecOnFireball",
+  "en": "Each time `Fireball` hits, the Cooldowns of other Cooldown Skills recover by `{$OnSpawnFireballHit_OtherCooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnOrb.ForceCritical",
+  "en": "Each time `{$OnSpawnOrbReturn_RequiredOrbCount_ForForceCriticalStack:0.##}` projectiles from `Gem Shards` are recalled, gain `1` `Guaranteed Crit`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnOrb.Rampage",
+  "en": "Each time `{$OnSpawnOrbReturn_RequiredOrbCount_ForRampageStack:0}` projectiles from `Gem Shards` are recalled, gain `{$OnSpawnOrbReturn_RampageStack_FromOrbs:0}%` `Power Boost`."
+ },
+ {
+  "k": "Relic_Info||Relic.Magic.SpawnOrb.CooltimeRecover",
+  "en": "`Gem Shards` Cooldown Recovery Effect increases by `{|$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More|:0.##%}`."
+ },
+ {
+  "k": "Relic_Info||Relic.Common.Stack",
+  "en": "All Cooldown Skills Max `Stack` `{$All_MaxStack_Add:+0;-0;}`."
+ },
+ {
+  "k": "Relic_Name||Relic.Common.NonCriticalDamage",
+  "en": "Ritual Hammer"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.MoreMagicLessWeapon",
+  "en": "Mana Parasite"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.Duration",
+  "en": "Empty Hourglass"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.ProjectileDamage",
+  "en": "Needle Crossbow"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.SummonDamage",
+  "en": "Cat Bell"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.Stack",
+  "en": "Pocket Monster"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.CooltimeRecPerStack",
+  "en": "Magic Sweeper"
+ },
+ {
+  "k": "Relic_Name||Relic.Common.ChargeSpeed",
+  "en": "Dreamcatcher"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.0.CooltimeRecover",
+  "en": "Sewing Kit"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.0.MagicRage",
+  "en": "Magic Oil"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.0.AttackSpeedOnMagic",
+  "en": "Feather Ornament"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.1.CooltimeRecover",
+  "en": "Heavy Shackles"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.1.RemoveCritical",
+  "en": "Bone Necklace"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.1.RemoveSummoned",
+  "en": "Seal Hammer"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.2.MagicCoolRecover",
+  "en": "Rune Bracelet"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.2.MagicRage",
+  "en": "Blue Chakram"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.2.IncreaseChargeSpeed",
+  "en": "Mana Cylinder"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.3.CoolRecLessWE",
+  "en": "Beast Mask"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.3.GetWEOnMagic",
+  "en": "Cat's Eye Ring"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.3.MoreCritical",
+  "en": "Bone Talisman"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.4.CooltimeRecover",
+  "en": "Forgotten Score"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.4.MagicRage",
+  "en": "Magic Bell"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.4.CoolRecoverOnReload",
+  "en": "Sleeping Ocarina"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.5.OtherCoolRecover",
+  "en": "Mana Conductor"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.5.WeaponCoolRecover",
+  "en": "Snake Statue"
+ },
+ {
+  "k": "Relic_Name||Relic.Weapon.Scissor.5.IncreaseChargeSpeed",
+  "en": "Gem Cube"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.ReaperSwing.RemoveSummoned",
+  "en": "Cursed Doll \"Kiki\""
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.ReaperSwing.Critical",
+  "en": "Bone Totem"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.ReaperSwing.ReaperSwingCoolRec",
+  "en": "Blue Ribbon"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Ambush.Critical",
+  "en": "Bone Hand"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Ambush.RemoveSummoned",
+  "en": "Cursed Doll \"Pipi\""
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Ambush.CooltimeRecover",
+  "en": "Red Shoes"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.CounterAttack.RemoveSummoned",
+  "en": "Cursed Doll \"Lulu\""
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.CounterAttack.Critical",
+  "en": "Bone Dagger"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.CounterAttack.Rampage",
+  "en": "Binoculars"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnFamiliar.COCAndCoolRec",
+  "en": "Cat-Sigil Key"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnFamiliar.GhostFamiliar",
+  "en": "Old Locket"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnFamiliar.DamagePerFamiliar",
+  "en": "Automatic Feeder"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnTrap.CoolRecoverOnTrap",
+  "en": "Toy Top"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnTrap.Critical",
+  "en": "Bone Staff"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnTrap.COCAndCoolRec",
+  "en": "Spinning-Wheel Key"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Rush.MoreDamagePerThread",
+  "en": "Surgical Gloves"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Rush.Critical",
+  "en": "Bone Bracelet"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Rush.CoolRecoverPerNeedle",
+  "en": "Shock Guard"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Boost.CoolRecoverPerFlower",
+  "en": "Fairy Seed"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Boost.CriticalPerCharge",
+  "en": "Bone Earrings"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Boost.RampagePerCharge",
+  "en": "Swollen Bud"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnCrow.COCAndCoolRec",
+  "en": "Crow-Sigil Key"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnCrow.DamagePerCrow",
+  "en": "Harvest Sickle"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnCrow.RemoveCrow",
+  "en": "Mechanical Bird"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Leech.COCAndDurationRec",
+  "en": "Bat-Sigil Key"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Leech.DamagePerUsedBlood",
+  "en": "Champagne Bottle"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.Leech.CoolRecOnLeech",
+  "en": "Horned Heart"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnFireball.RemoveSummoned",
+  "en": "Cursed Doll \"Mimi\""
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnFireball.DamageConvertToFire",
+  "en": "Scorched Grimoire"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnFireball.CoolRecOnFireball",
+  "en": "Blue Candle"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnOrb.ForceCritical",
+  "en": "Bone Ring"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnOrb.Rampage",
+  "en": "Gem Scarab"
+ },
+ {
+  "k": "Relic_Name||Relic.Magic.SpawnOrb.CooltimeRecover",
+  "en": "Obsidian Brooch"
+ },
+ {
+  "k": "RewardUI||Title_SelectTrait",
+  "en": "Select a new Attribute."
+ },
+ {
+  "k": "RewardUI||ShowList",
+  "en": "View All"
+ },
+ {
+  "k": "RewardUI||Title_SelectAddon",
+  "en": "Select a new Imprint."
+ },
+ {
+  "k": "RewardUI||Title_SelectCurse",
+  "en": "Select a curse."
+ },
+ {
+  "k": "RewardUI||Title_SelectRelic",
+  "en": "Select a new relic."
+ },
+ {
+  "k": "Special_Info||Special.AutoCast",
+  "en": "When used, increases `All DMG` by `{$SE_Special_AutoCast_StackAmount:0.##}%` for `{$SE_Special_AutoCast_Duration:0.##}s`."
+ },
+ {
+  "k": "Special_Info||Special.RestoreStack",
+  "en": "When used, the `Cooldowns` of all Cooldown Skills recover by `{$All_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Special_Info||Special.FastCast",
+  "en": "When used, increases the `Cooldown Recovery SPD` of All Skills, as well as `Attack, Cast, Charge, and Channeling SPD`, by `{$SE_Special_FastCast_StackAmount:0.##}%` for `{$SE_Special_FastCast_Duration:0.##}s`."
+ },
+ {
+  "k": "Special_Info||Special.Mirror",
+  "en": "When used, deals damage by firing projectiles at all enemies for a set duration."
+ },
+ {
+  "k": "Special_Name||Special.AutoCast",
+  "en": "Swamp Echo"
+ },
+ {
+  "k": "Special_Name||Special.RestoreStack",
+  "en": "Swamp Breath"
+ },
+ {
+  "k": "Special_Name||Special.FastCast",
+  "en": "Swamp Flow"
+ },
+ {
+  "k": "Special_Name||Special.Mirror",
+  "en": "Broken Dream"
+ },
+ {
+  "k": "StartUp||LanguageSettings",
+  "en": "Language Settings"
+ },
+ {
+  "k": "StartUp||RecommendGamePadAndHeadset",
+  "en": "We recommend using a gamepad and headset."
+ },
+ {
+  "k": "StartUp||InfoKeyboardOnlyMode",
+  "en": "※ Select \"Keyboard-Only Mode\" in the Settings to control the game as if you were using a gamepad."
+ },
+ {
+  "k": "Stat_FullText||StatPerLevel",
+  "en": "`{$a}` per level"
+ },
+ {
+  "k": "StatText_Title||Damage_ATKMult",
+  "en": "DMG"
+ },
+ {
+  "k": "StatText_Title||CriticalStackRequired",
+  "en": "Crit Threshold"
+ },
+ {
+  "k": "StatText_Title||CriticalDamageMult",
+  "en": "Critical DMG"
+ },
+ {
+  "k": "StatText_Title||AttackSpeed",
+  "en": "Attack SPD"
+ },
+ {
+  "k": "StatText_Title||Radius",
+  "en": "Radius"
+ },
+ {
+  "k": "StatText_Title||MaxStack",
+  "en": "Max Stack"
+ },
+ {
+  "k": "StatText_Title||Projectile_Radius",
+  "en": "Projectile Radius"
+ },
+ {
+  "k": "StatText_Title||Projectile_ReloadCount",
+  "en": "Projectile Ammo"
+ },
+ {
+  "k": "StatText_Title||CastTime",
+  "en": "Cast Time"
+ },
+ {
+  "k": "StatText_Title||Cooltime",
+  "en": "Cooldown (CD)"
+ },
+ {
+  "k": "StatText_Title||Duration",
+  "en": "Duration"
+ },
+ {
+  "k": "StatText_Title||MoveSpeed",
+  "en": "Move SPD"
+ },
+ {
+  "k": "StatText_Title||MoveSpeed_More",
+  "en": "Move SPD Increase"
+ },
+ {
+  "k": "StatText_Title||Gauge_RecoverSpeed",
+  "en": "Gauge Charge SPD"
+ },
+ {
+  "k": "StatText_Title||Damage_ATKMult_PerSec",
+  "en": "DMG per sec"
+ },
+ {
+  "k": "StatText_Title||Distance",
+  "en": "Range"
+ },
+ {
+  "k": "StatText_Title||MaxAmount",
+  "en": "Max Amount"
+ },
+ {
+  "k": "StatText_Title||MaxAttackCount",
+  "en": "Max Attacks"
+ },
+ {
+  "k": "StatText_Title||Resurrect_HpRecoverRate",
+  "en": "HP on Revive"
+ },
+ {
+  "k": "StatText_Title||MoreDamageTaken",
+  "en": "DMG Taken Increase"
+ },
+ {
+  "k": "StatText_Title||BloodGauge_Max_Int",
+  "en": "Max Blood Gauge"
+ },
+ {
+  "k": "StatText_Title||MaxCombo",
+  "en": "Combo Count"
+ },
+ {
+  "k": "StatText_Title||GetWEAmount",
+  "en": "Sharpness Gain"
+ },
+ {
+  "k": "StatText_Title||ChargeTime",
+  "en": "Charge SPD"
+ },
+ {
+  "k": "StatText_Title||MaxShotCount",
+  "en": "Max Shots"
+ },
+ {
+  "k": "StatText_Title||Cooltime_RecoverAmount",
+  "en": "CD Recovered"
+ },
+ {
+  "k": "StatText_Value||Damage_ATKMult",
+  "en": "<sprite name=\"ATK\">{$a:0.##%}"
+ },
+ {
+  "k": "StatText_Value||Int",
+  "en": "{$a:0}"
+ },
+ {
+  "k": "StatText_Value||Int_Sign",
+  "en": "{$a:+0;-0;0}"
+ },
+ {
+  "k": "StatText_Value||Int_Abs",
+  "en": "{|$a|:0}"
+ },
+ {
+  "k": "StatText_Value||Percent",
+  "en": "{$a:0.##%}"
+ },
+ {
+  "k": "StatText_Value||Percent_Abs",
+  "en": "{|$a|:0.##%}"
+ },
+ {
+  "k": "StatText_Value||PercentPerSecond",
+  "en": "{$a:0.##%} per sec"
+ },
+ {
+  "k": "StatText_Value||PerSecond",
+  "en": "{$a:0.##} per sec"
+ },
+ {
+  "k": "StatText_Value||Meter",
+  "en": "{$a:0.##}m"
+ },
+ {
+  "k": "StatText_Value||Second",
+  "en": "{$a:0.##}s"
+ },
+ {
+  "k": "StatText_Value||Count",
+  "en": "{$a:0}"
+ },
+ {
+  "k": "StatText_Value||MeterPerSecond",
+  "en": "{$a:0.##}m per sec"
+ },
+ {
+  "k": "StatText_Value||Percent_Int",
+  "en": "{$a:0}%"
+ },
+ {
+  "k": "StatText_Value||Percent_Int_Sign",
+  "en": "{$a:+0;-0;0}%"
+ },
+ {
+  "k": "StatText_Value||PercentPerSecond_Int",
+  "en": "{$a:0}% per sec"
+ },
+ {
+  "k": "StatText_Value||PerSecond_Int",
+  "en": "{$a:0} per sec"
+ },
+ {
+  "k": "Toast||SelectSpecial",
+  "en": "You must select a Special Skill in the Armory before you can enter."
+ },
+ {
+  "k": "Toast||SelectMagic",
+  "en": "You must select your Spell Loadout in the Armory before entering."
+ },
+ {
+  "k": "Toast||RewardPendding",
+  "en": "Due to a curse, no rewards appeared."
+ },
+ {
+  "k": "Toast||NotEnoughDice",
+  "en": "Not enough Dice."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.0.Damage",
+  "en": "`Scissors` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.0.Radius",
+  "en": "`Scissors` Radius increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.0.AttackSpeed",
+  "en": "`Scissors` Attack SPD increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.1.Damage",
+  "en": "`Giant Scissors` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.1.Radius",
+  "en": "`Giant Scissors` Radius increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.1.CriDamage",
+  "en": "`Giant Scissors` Critical DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.2.Damage",
+  "en": "`Magic Scissors` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.2.Cooltime",
+  "en": "`Magic Scissors` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.2.Stack",
+  "en": "`Magic Scissors` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.3.Damage",
+  "en": "`Broken Scissors` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.3.Weapon",
+  "en": "Hits with `Broken Scissors` grant additional `Sharpness`."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.3.AttackSpeed",
+  "en": "`Broken Scissors` Attack SPD increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.4.Damage",
+  "en": "`Singing Scissors` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.4.AttackSpeed",
+  "en": "`Singing Scissors` Attack SPD increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.4.CriRequired",
+  "en": "`Singing Scissors` Crit Threshold decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.5.Damage",
+  "en": "`Lapis Scissors` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.5.Stack",
+  "en": "`Lapis Scissors` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Weapon.Scissor.5.Cooltime",
+  "en": "`Lapis Scissors` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.ReaperSwing.Damage",
+  "en": "`Slash` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.ReaperSwing.Stack",
+  "en": "`Slash` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.ReaperSwing.Cooltime",
+  "en": "`Slash` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Ambush.Damage",
+  "en": "`Ambush` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Ambush.Cooltime",
+  "en": "`Ambush` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Ambush.Stack",
+  "en": "`Ambush` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.CounterAttack.Damage",
+  "en": "`Counter` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.CounterAttack.Stack",
+  "en": "`Counter` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.CounterAttack.Cooltime",
+  "en": "`Counter` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnFamiliar.Damage",
+  "en": "`Summon Doll` and all `Dolls` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnFamiliar.SpawnAmount",
+  "en": "`Small Doll` Max Summons increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnFamiliar.Cooltime",
+  "en": "`Summon Doll` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnTrap.Damage",
+  "en": "`Sewing Wheel` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnTrap.Cooltime",
+  "en": "`Sewing Wheel` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnTrap.Duration",
+  "en": "`Sewing Wheel` Duration increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Rush.Damage",
+  "en": "`Rush` and `Needle` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Rush.Cooltime",
+  "en": "`Rush` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Rush.NeedleMaxStack",
+  "en": "`Thread` Max Stacks increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Boost.Damage",
+  "en": "`Butterfly Walk` and `Flower` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Boost.Cooltime",
+  "en": "`Butterfly Walk` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Boost.Stack",
+  "en": "`Butterfly Walk` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnCrow.Damage",
+  "en": "`Shadow Surge` and `Crow` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnCrow.Cooltime",
+  "en": "`Shadow Surge` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnCrow.AttackCount",
+  "en": "`Crow` Max Attacks increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Leech.Damage",
+  "en": "`Blood Marble` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Leech.Cooltime",
+  "en": "`Blood Marble` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.Leech.Gauge",
+  "en": "Max `Blood Gauge` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnFireball.Damage",
+  "en": "`Fireball` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnFireball.Cooltime",
+  "en": "`Fireball` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnFireball.Stack",
+  "en": "`Fireball` Max `Stack` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnOrb.Damage",
+  "en": "`Gem Shards` DMG increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnOrb.Cooltime",
+  "en": "`Gem Shards` Cooldown decreases."
+ },
+ {
+  "k": "Trait_Info||Trait.Magic.SpawnOrb.CooltimeRecov",
+  "en": "`Gem Shards` Cooldown Recovery Effect increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.AutoCast.GaugeCrit",
+  "en": "When a `Weapon` Critical Hits, the `Swamp Echo` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.AutoCast.GaugeMagic",
+  "en": "When a `Spell` is used, the `Swamp Echo` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.AutoCast.Effect",
+  "en": "The effect of `Swamp Echo` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.RestoreStack.GaugeCrit",
+  "en": "When a `Weapon` Critical Hits, the `Swamp Breath` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.RestoreStack.GaugeMagic",
+  "en": "When a `Spell` is used, the `Swamp Breath` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.RestoreStack.Effect",
+  "en": "`Swamp Breath` Cooldown Recovery Effect increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.FastCast.GaugeCrit",
+  "en": "When a `Weapon` Critical Hits, the `Swamp Flow` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.FastCast.GaugeMagic",
+  "en": "When a `Spell` is used, the `Swamp Flow` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.FastCast.Effect",
+  "en": "The effect of `Swamp Flow` increases."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.Mirror.GaugeCrit",
+  "en": "When a `Weapon` Critical Hits, the `Broken Dream` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.Mirror.GaugeMagic",
+  "en": "When a `Spell` is used, the `Broken Dream` `Gauge` recovers."
+ },
+ {
+  "k": "Trait_Info||Trait.Special.Mirror.Effect",
+  "en": "`Broken Dream` DMG increases."
+ },
+ {
+  "k": "Upgrade||Total",
+  "en": "Total Stats"
+ },
+ {
+  "k": "Upgrade||State_CanUpgrade",
+  "en": "Upgrade"
+ },
+ {
+  "k": "Upgrade||State_NeedLink",
+  "en": "No connected tiles."
+ },
+ {
+  "k": "Upgrade||State_NeedCurrency",
+  "en": "Insufficient currency."
+ },
+ {
+  "k": "Upgrade||State_NeedPoint",
+  "en": "Insufficient upgrade points."
+ },
+ {
+  "k": "Upgrade_NodeStat||ATK_Add",
+  "en": "`+{$n:0}` Base ATK"
+ },
+ {
+  "k": "Upgrade_NodeStat||HpMax_Add",
+  "en": "`+{$n:0}` Max HP"
+ },
+ {
+  "k": "Upgrade_NodeStat||MoveSpeed_Add",
+  "en": "`+{$n:0.##}m per sec` Move SPD"
+ },
+ {
+  "k": "Upgrade_NodeStat||Dash_MaxStack_Add",
+  "en": "`+{$n:0}` Dash Max Stack Count"
+ },
+ {
+  "k": "Upgrade_NodeStat||Dash_Cooltime_Add",
+  "en": "`-{|$n|:0.##}s` Dash Cooldown"
+ },
+ {
+  "k": "Upgrade_NodeStat||OnStartGame_RerollPoint_Add",
+  "en": "`+{$n:0}` Starting Dice Count"
+ },
+ {
+  "k": "Upgrade_NodeStat||OnStartGame_Resurrect_Add",
+  "en": "`+{$n:0}` Revive Count"
+ },
+ {
+  "k": "Upgrade_NodeStat||All_Cast_Speed_More",
+  "en": "`+{$n:0.##%}` Casting SPD"
+ },
+ {
+  "k": "Weapon_Info||Weapon.Scissor.0",
+  "en": "When used, deals damage to all enemies in range. The final attack in the `Combo` is a Critical Hit."
+ },
+ {
+  "k": "Weapon_Info||Weapon.Scissor.1",
+  "en": "When used, deals damage to all enemies in range. The final attack in the `Combo` is a Critical Hit."
+ },
+ {
+  "k": "Weapon_Info||Weapon.Scissor.2",
+  "en": "When `Charge` ends, gathers and fires a number of projectiles equal to the `Charge Level`. The projectiles deal damage to every enemy they pierce. If charged to `Level 1` or higher, they land as Critical Hits."
+ },
+ {
+  "k": "Weapon_Info||Weapon.Scissor.3",
+  "en": "When used, deals damage to all enemies in range. Hits grant `Sharpness`. When `Sharpness` reaches `100%`, all attacks become Critical Hits."
+ },
+ {
+  "k": "Weapon_Info||Weapon.Scissor.4",
+  "en": "When used, loads projectiles and fires them one at a time at the `Strongest Enemy`, dealing damage to all enemies in range. After a set number of shots, the next projectile is a Critical Hit."
+ },
+ {
+  "k": "Weapon_Info||Weapon.Scissor.5",
+  "en": "When `Charge` ends, deals damage to all enemies in range once per `Charge Level`. If charged to `Level 1` or higher, the hits are Critical Hits."
+ }
+]

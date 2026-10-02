@@ -1,0 +1,1390 @@
+[
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.000",
+  "en": "Hmm. So there's a whole line of witches waiting to enter the garden."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.001",
+  "en": "I won't deny it's a lovely place to live."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.002",
+  "en": "But that doesn't mean they can just create their own realms without telling us."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.003",
+  "en": "Even witches need to have rules."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.004",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.005",
+  "en": "Wait!"
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.006",
+  "en": "Did I just say that? Eww, I sound just like Chloe!"
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.007",
+  "en": "If you weren't so short, I wouldn't be able to tell you two apart."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_000.008",
+  "en": "Hmph..."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.000",
+  "en": "I'm home!"
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.001",
+  "en": "Welcome."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.002",
+  "en": "...What's that?"
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.003",
+  "en": "It smells like mud and moss."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.004",
+  "en": "Oh, this?"
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.005",
+  "en": "It was a gift, I suppose."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.006",
+  "en": "I was going to put it with my other scissors."
+ },
+ {
+  "k": "ChapterE1_Home.OnEnter.DeathCount_002_Over.007",
+  "en": "Hmm."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.000",
+  "en": "At least brush your shoes off before coming in."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.001",
+  "en": "You're making my house dirty."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.002",
+  "en": "I've barely been back five seconds and I'm being nagged at..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.003",
+  "en": "And this is my house, not yours!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.004",
+  "en": "If it were yours, you'd care more about its clealiness than I do."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.005",
+  "en": "You've forfeited your rights as a homeowner."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_000.006",
+  "en": "Okay, okay. I'll clean up now and then."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_001.000",
+  "en": "Take care not to touch my whiskers."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_001.001",
+  "en": "Why on earth would I want to touch your whiskers?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_001.002",
+  "en": "Until the other day, you wouldn't even let me pet you."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_001.003",
+  "en": "That's why you need to be more careful when you do."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_001.004",
+  "en": "My exquisite fur is a far cry from the crude fabrics you handle so clumsily."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_001.005",
+  "en": "You'd do well to keep that in mind..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.000",
+  "en": "You need to ban Abigail from visiting."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.001",
+  "en": "Huh? Why?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.002",
+  "en": "Every time she pets me, I feel like I'm being crushed."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.003",
+  "en": "Aha, I think I know what you're talking about."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.004",
+  "en": "It was like wringing out a black towel."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.005",
+  "en": "And yet you just watched me suffer."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_002.006",
+  "en": "All right, I'll tell her to stop it."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.000",
+  "en": "You can turn into a human."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.001",
+  "en": "So why do you insist on staying in cat form?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.002",
+  "en": "Because being a cat is true to my nature."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.003",
+  "en": "You can't even drink water from a cup properly."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.004",
+  "en": "You're always knocking them on the floor."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.005",
+  "en": "I knock them on the floor because I want to."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.006",
+  "en": "I'm not trying to drink from them."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_003.007",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.000",
+  "en": "When was the last time you saw Nahatra?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.001",
+  "en": "Hmph. I have no need to meet with Nahatra in person."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.002",
+  "en": "I don't even bother with attending those tea parties."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.003",
+  "en": "Oh... Come to think of it, why is that?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.004",
+  "en": "Because there isn't a single thing there worth eating."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.005",
+  "en": "That's because the tea parties aren't for you..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.006",
+  "en": "Besides, it's not like you usually eat much anyway."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_004.007",
+  "en": "Precisely. That's exactly my point."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_005.000",
+  "en": "You seem to get along well with those two lately."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_005.001",
+  "en": "Who? Rims and Berry?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_005.002",
+  "en": "How could I not? They're so kind and caring. They practically worship me."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_005.003",
+  "en": "Kind...? Caring...?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_005.004",
+  "en": "You could learn a thing or two from them."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_005.005",
+  "en": "I really don't think so."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.000",
+  "en": "We're out of dried catnip, Sil."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.001",
+  "en": "I would appreciate you restocking it."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.002",
+  "en": "You asked me to help you kick your catnip habit."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.003",
+  "en": "So I won't be restocking any for a while."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.004",
+  "en": "What...?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.005",
+  "en": "This is neglect! Animal abuse!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.006",
+  "en": "I'm only doing as you asked."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.007",
+  "en": "So quit complaining."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_006.008",
+  "en": "You'll regret this."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.000",
+  "en": "Canele, I've got some warm water."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.001",
+  "en": "I spend half my day cleaning myself."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.002",
+  "en": "So don't even dream of giving me a bath."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.003",
+  "en": "I know you take pride in your cleanliness."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.004",
+  "en": "But if you want to sleep on my bed, you'll have to bathe every now and then."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.005",
+  "en": "Wait! Put that down."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_007.006",
+  "en": "...I'll get in on my own."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.000",
+  "en": "There's a little spider on your back, Sil."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.001",
+  "en": "Huh? There is!?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.002",
+  "en": "Did it climb on when I met Chloe? Where is it...?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.003",
+  "en": "Gotcha!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.004",
+  "en": "It's kinda cute up close. Should I keep it as a pet?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.005",
+  "en": "I don't mind, but..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.006",
+  "en": "What if it's a spy for Chloe?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.007",
+  "en": "It might report everything it saw and heard here."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_008.008",
+  "en": "...I guess it's best to release it outside after all."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.000",
+  "en": "Hey, Canele. Look at this."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.001",
+  "en": "Cat clothes! Try it on!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.002",
+  "en": "Sil, I'm not questioning your sewing skills."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.003",
+  "en": "But why would I wear \"cat clothes\"?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.004",
+  "en": "I'm more than comfortable in this environment without clothes."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.005",
+  "en": "But the moment I put this on, my soul will be emptied and I'll be overcome with nihilism..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.006",
+  "en": "Who cares! Just try it on!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_009.007",
+  "en": "Ugh... I really don't understand you."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_010.000",
+  "en": "You know I go on my little walks sometimes..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_010.001",
+  "en": "You're quite famous among the neighborhood cats, Sil."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_010.002",
+  "en": "I am?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_010.003",
+  "en": "What do they say about me?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_010.004",
+  "en": "That's a secret."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_011.000",
+  "en": "Just how far back do you and Nahatra go?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_011.001",
+  "en": "Very very far back."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_011.002",
+  "en": "Come on, give me a proper answer."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_011.003",
+  "en": "I did."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_011.004",
+  "en": "I don't really know how long it's been."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_012.000",
+  "en": "We all know witches don't die."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_012.001",
+  "en": "Then what happens in the end? Is there even an end?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_012.002",
+  "en": "Yes, witches don't die."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_012.003",
+  "en": "They just meet their end."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_012.004",
+  "en": "Hmph..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_013.000",
+  "en": "Nightmares and the garden are like two sides of the same coin."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_013.001",
+  "en": "Be careful not to bend that coin, Sil."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_013.002",
+  "en": "What does that even mean?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_013.003",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.000",
+  "en": "You've been hanging out in Chloe's realm a lot lately."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.001",
+  "en": "Since when were you two so close?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.002",
+  "en": "We're not \"hanging out\". Our relationship is strictly business."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.003",
+  "en": "We both have a promise we need to keep, so we have a relationship based on trust."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.004",
+  "en": "Business...?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.005",
+  "en": "She pays me to translate books written in cat language."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.006",
+  "en": "Here, you can read our contract, if you like. There's nothing untoward in there."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.007",
+  "en": "Contract...? This thick tome is a contract...?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_014.008",
+  "en": "The adult world is a complicated place, Sil."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_015.000",
+  "en": "Fiena's concoction tastes lighter than I expected."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_015.001",
+  "en": "Huh? You've tried it?!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_015.002",
+  "en": "So what? You have too."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_015.003",
+  "en": "No, I haven't."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_015.004",
+  "en": "I guess you don't remember."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_016.000",
+  "en": "Did you climb onto my face again while I was sleeping?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_016.001",
+  "en": "Did you notice?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_016.002",
+  "en": "Why are you only like that when I'm sleeping? You usually try to avoid touching me at all."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_016.003",
+  "en": "I probably shouldn't mention you once died of suffocation in the middle of the night."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_016.004",
+  "en": "What?!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_016.005",
+  "en": "Kidding."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.000",
+  "en": "What would you like for dinner?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.001",
+  "en": "Ham and grilled cheese. A glass of wine would be nice too."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.002",
+  "en": "Again? And we have no wine."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.003",
+  "en": "Another day of disappointment."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.004",
+  "en": "The only disappointment here is your eating habits."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.005",
+  "en": "You're so picky, even for a cat."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.006",
+  "en": "Hmm, maybe I should call a doctor... or a vet for a check-up."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.007",
+  "en": "Aha, a declaration of war?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_017.008",
+  "en": "No, let's just quietly eat some stew for dinner."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.000",
+  "en": "Berry showed me some new tea party ideas she has."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.001",
+  "en": "She's always coming up with something."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.002",
+  "en": "And Chloe will reject every last one."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.003",
+  "en": "I agree that the tea party needs some freshening up."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.004",
+  "en": "So you're on Rims and Berry's side?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.005",
+  "en": "First, I suggest switching from serving hot tea to cold drinks."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.006",
+  "en": "And rather than cookies, why not some baked fish?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_018.007",
+  "en": "I think even Berry would reject that idea."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.000",
+  "en": "There's a rumor that Chloe has a large collection of forbidden books..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.001",
+  "en": "Would you know anything about that?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.002",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.003",
+  "en": "Nope. Not a whisper."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.004",
+  "en": "You do know something, don't you...!"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.005",
+  "en": "I just said the exact opposite."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.006",
+  "en": "But you always know everything."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_019.007",
+  "en": "Even if I did know something, I wouldn't tell you."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.000",
+  "en": "The next time someone says I'm your \"familiar\", I'll punch you in the nose."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.001",
+  "en": "So make sure you explain to everyone that I'm not."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.002",
+  "en": "But you don't want me to refer to you as my \"family\" or \"friend\" either."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.003",
+  "en": "Just thinking about it makes me cringe."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.004",
+  "en": "How about \"roommate\"?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.005",
+  "en": "...Maybe more like \"owner\"."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.006",
+  "en": "Who owns who?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_020.007",
+  "en": "Don't bother your owner with such questions."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_021.000",
+  "en": "By the way, Abigail still refers to me as a dog."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_021.001",
+  "en": "Do you have any idea how insulting that is?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_021.002",
+  "en": "You really hate dogs, huh?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_021.003",
+  "en": "They're such stupid creatures."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_021.004",
+  "en": "There must be a witch who has taken on a dog form somewhere."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_021.005",
+  "en": "I should introduce you someday."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.000",
+  "en": "Have you ever heard this riddle, Canele?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.001",
+  "en": "“What goes on four legs in the morning, two legs at noon, and three legs in the evening?”"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.002",
+  "en": "I really can't work it out."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.003",
+  "en": "Where did you even hear it?"
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.004",
+  "en": "There was a book I picked up from Chloe's study a while back."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.005",
+  "en": "Apparently, it's a riddle witches often ask when testing mortals."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.006",
+  "en": "What kind of test is that? It's simple."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.007",
+  "en": "The answer has to be \"Fiena\"."
+ },
+ {
+  "k": "ChapterE1_Home.CaneleTalk.CaneleTalkCount_Repeat_022.008",
+  "en": "Aha! Of course!"
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_000.000",
+  "en": "The cycle of life and decay must exist within purity."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_000.001",
+  "en": "No impurity should corrupt the essence... Maydel makes sure of that."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_001.000",
+  "en": "The seed has rotted away into black mud..."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_001.001",
+  "en": "But Maydel believes new leaves can still grow."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_002.000",
+  "en": "The swamp is a land of death and decay..."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_002.001",
+  "en": "Yet also a land of overflowing life."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_003.000",
+  "en": "Saving this life from corruption is the duty of a swamp witch."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_003.001",
+  "en": "However... Maydel also wishes to save her friend."
+ },
+ {
+  "k": "ChapterE1_GameOver.OnEnter.DeathCount_Repeat_004.000",
+  "en": "Do not fear, for Maydel is always keeping watch."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.000",
+  "en": "...Hehe... Hey there, little witch..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.001",
+  "en": "You're... ready, aren't you...?"
+ },
+ {
+  "k": "ChapterE2_Home.Intro.002",
+  "en": "......"
+ },
+ {
+  "k": "ChapterE2_Home.Intro.003",
+  "en": "What are you doing, Sil?"
+ },
+ {
+  "k": "ChapterE2_Home.Intro.004",
+  "en": "You haven't forgotten we promised to go to the Lapis Market together, have you...?"
+ },
+ {
+  "k": "ChapterE2_Home.Intro.005",
+  "en": "No... I remember."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.006",
+  "en": "I just started regretting it the second I saw your face."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.007",
+  "en": "Too late for regrets. You're coming with me."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.008",
+  "en": "Sigh. Guess I don't have a choice..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.009",
+  "en": "Berry says she's busy with something else..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.010",
+  "en": "By the way, that outfit... I don't think I've seen it before."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.011",
+  "en": "Oh, Sil..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.012",
+  "en": "Going to the Lapis Market in work clothes would be positively uncivilized."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.013",
+  "en": "A-And the witches there are trend-obsessed snobs..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.014",
+  "en": "I-If you make eye contact, they'll greet you and start asking about your taste."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.015",
+  "en": "And if you can't answer properly..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.016",
+  "en": "You'll be the joke of every social gathering later!"
+ },
+ {
+  "k": "ChapterE2_Home.Intro.017",
+  "en": "That's a lot of prejudice."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.018",
+  "en": "You'll know whether it's prejudice once you see for yourself..."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.019",
+  "en": "Come out when you're ready, Sil."
+ },
+ {
+  "k": "ChapterE2_Home.Intro.020",
+  "en": "Yeah, yeah."
+ },
+ {
+  "k": "ChapterE2_Home.OnExit.000",
+  "en": "I'm heading out. Watch the house for me."
+ },
+ {
+  "k": "ChapterE2_Home.OnExit.001",
+  "en": "......"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.000",
+  "en": "W-What's going on...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.001",
+  "en": "It's more crowded than I expected..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.002",
+  "en": "Crowded? It looks pretty empty to me."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.003",
+  "en": "Y-You talk to the merchants."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.004",
+  "en": "How shy can you possibly be?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.005",
+  "en": "Oh my, welcome, welcome~!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.006",
+  "en": "It has truly been so long~!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.007",
+  "en": "Rims, is she a witch you know?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.008",
+  "en": "N-No way..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.009",
+  "en": "Oh, is this our first meeting?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.010",
+  "en": "Well, no matter. It only means you're guests I am delighted to see!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.011",
+  "en": "What sort of item are you looking for? Jewels? Works of art?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.012",
+  "en": "How about this accessory? Its color would perfectly complement that deathly complexion of yours."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.013",
+  "en": "I-I'm not really..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.014",
+  "en": "Oh, is the price giving you pause?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.015",
+  "en": "For first-time customers, I can offer a special price..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.016",
+  "en": "H-Help me, Sil!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.017",
+  "en": "Sil...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.018",
+  "en": "Ah, the one I've heard rumors about..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.019",
+  "en": "I'm Sil. This half-dead friend here is Rims."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.020",
+  "en": "My name is Bazira. I am the Coin Witch who leads this caravan."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.021",
+  "en": "If it concerns business, please tell me anything you need! Oh, if you require a business card..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.022",
+  "en": "Wait, wait. Don't get ahead of yourself."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.023",
+  "en": "We're here to get the ingredients we need for the next tea party."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.024",
+  "en": "A tea party?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.025",
+  "en": "Yes. We need the items written here."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.026",
+  "en": "Let's see..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.027",
+  "en": "Oh my, every last one is quite valuable."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.028",
+  "en": "Unfortunately, that is a problem. We cannot sell any goods at the moment."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.029",
+  "en": "What? Why?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.030",
+  "en": "Now, where should I begin explaining...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.031",
+  "en": "First, would you look over there?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.032",
+  "en": "That is the entrance leading to the Jewel Witch's realm."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.033",
+  "en": "The Jewel Witch?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.034",
+  "en": "Don't you remember? The one who was incredibly picky at the tea party."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.035",
+  "en": "Was that so...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.036",
+  "en": "That very Jewel Witch is currently missing."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.037",
+  "en": "Hmm, missing... For how long?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.038",
+  "en": "At least a few months, it would seem..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.039",
+  "en": "A-And... what does that have to do with not selling goods...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.040",
+  "en": "We had been sourcing some materials through the Jewel Witch..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.041",
+  "en": "But since she disappeared, we have been unable to obtain those goods."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.042",
+  "en": "Because of that, our caravan is in quite a bind."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.043",
+  "en": "You might say our usual trade volume has dropped considerably."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.044",
+  "en": "So that's why the market is emptier than I heard it would be."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.045",
+  "en": "Exactly. It seems recovering our lost reputation will take some effort, doesn't it?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.046",
+  "en": "And to do that, our top priority is finding the Jewel Witch!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.047",
+  "en": "I see."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.048",
+  "en": "I-I see... I hope you find her."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.049",
+  "en": "Nothing we can do, so should we head back?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.050",
+  "en": "Yes. I don't want to stay any longer in a place with such harsh sunlight."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.051",
+  "en": "Please wait a moment, everyone."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.052",
+  "en": "Did you not come here for your tea party?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.053",
+  "en": "W-Well, yes, but..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.054",
+  "en": "We'll figure something out later."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.055",
+  "en": "......"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.056",
+  "en": "Hehehe..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.057",
+  "en": "Very well. It seems I underestimated you all."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.058",
+  "en": "To think you would feign indifference even in such a crisis to secure better terms..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.059",
+  "en": "No, that's not it. We really were leaving..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.060",
+  "en": "Now! Please look at this!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.061",
+  "en": "Wow! What is all this?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.062",
+  "en": "If you find the Jewel Witch for us, all of this will be yours!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.063",
+  "en": "Really?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.064",
+  "en": "If that is still not enough... here! Please read this!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.065",
+  "en": "What is this document? Are all these tiny specks supposed to be letters?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.066",
+  "en": "If you locate the Jewel Witch!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.067",
+  "en": "Every benefit written here will be yours!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.068",
+  "en": "How is it? Not bad terms, right?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.069",
+  "en": "Sorry, I haven't even read three lines yet."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.070",
+  "en": "Fine, we'll do it."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.071",
+  "en": "Hey!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.072",
+  "en": "Excellent! Then we have a deal."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.073",
+  "en": "Hehehe... I will meet you at the entrance to the realm!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.074",
+  "en": "How could you accept that so easily?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.075",
+  "en": "Good grief, Sil..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.076",
+  "en": "This is all for the tea party, isn't it?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.077",
+  "en": "You don't mean that at all..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.078",
+  "en": "But if we're looking for a witch, we have you. We'll manage somehow."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_000.079",
+  "en": "Th-That's why I accepted..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.000",
+  "en": "So, what exactly is waiting in there?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.001",
+  "en": "There must be a reason you aren't searching yourself."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.002",
+  "en": "The Jewel Witch enjoys displaying her creations."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.003",
+  "en": "The problem is the guards protecting those valuables..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.004",
+  "en": "After losing their master, they began attacking visitors indiscriminately."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.005",
+  "en": "Our employees, who know little beyond counting coins, were not enough to handle them."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.006",
+  "en": "But for the Thread Witch, this should be no trouble at all. Rest assured!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.007",
+  "en": "This one... She must have planned to dump this on you from the start."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.008",
+  "en": "No wonder she kept staring at my face."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.009",
+  "en": "Fine. We just need to find the Jewel Witch, right?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnExit.DeathCount_000.010",
+  "en": "Of course!"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.000",
+  "en": "Cough, cough. Look at all this dust."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.001",
+  "en": "Without its witch, maybe the realm is starting to decay."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.002",
+  "en": "Leave it to me from here."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.003",
+  "en": "I heard she disappeared quite a while ago. Can you still do it?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.004",
+  "en": "Of course."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.005",
+  "en": "Sniff, sniff... Sniff, sniff..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.006",
+  "en": "How is it?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.007",
+  "en": "I can definitely smell the Jewel Witch."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.008",
+  "en": "Really? You're sure?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.009",
+  "en": "My nose never lies."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.010",
+  "en": "Besides, it's the scent of a witch I've met before... There's no mistake."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.011",
+  "en": "All right. Let's use that as our clue and search."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.012",
+  "en": "And if we can fulfill our contract with Bazira while we're at it, even better."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.013",
+  "en": "B-But... there's something bothering me..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.014",
+  "en": "What?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.015",
+  "en": "It's faint, but... I smell something strange..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.016",
+  "en": "A strange smell?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.017",
+  "en": "Is it connected to the Jewel Witch?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.018",
+  "en": "I-I'm not sure yet."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.019",
+  "en": "Something is spreading a suspicious smell through this realm..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.020",
+  "en": "Just hearing that doesn't tell me what it feels like."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.021",
+  "en": "Ugh... It's hard to explain..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.022",
+  "en": "Right, Sil. If I compare it to your scent..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.023",
+  "en": "Ugh, no thanks."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.024",
+  "en": "Huh?! What was that?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.025",
+  "en": "L-Looks like we're trapped..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.026",
+  "en": "Maybe it's built so you can't leave once you enter."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.027",
+  "en": "Hey! Is anyone out there?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.028",
+  "en": "..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.029",
+  "en": "Looks like they can't hear us."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.030",
+  "en": "Maybe they're pretending not to hear."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.031",
+  "en": "They definitely knew about this!"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.032",
+  "en": "N-No wonder the contract terms were too good to be true."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.033",
+  "en": "You're the one who took the bait."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.034",
+  "en": "And thanks to that, we're trapped. What now?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.035",
+  "en": "So what if we can't get out?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.036",
+  "en": "We were planning to head deeper anyway, weren't we?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.037",
+  "en": "Could things possibly get any worse from here?"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.038",
+  "en": "It got worse the second you said that."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.039",
+  "en": "Ah... A poison fog packed with curses..."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.040",
+  "en": "The perfect choice for finishing off the living."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.041",
+  "en": "Phew... Good thing I'm dead."
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.042",
+  "en": "That Bazira never said a word about something like this...!"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.043",
+  "en": "Cough, cough...!"
+ },
+ {
+  "k": "Desert_Room_000_FirstRoom.OnEnter.FirstRoomTalkCount_0.044",
+  "en": "Ugh, we need to get out of here first!"
+ }
+]

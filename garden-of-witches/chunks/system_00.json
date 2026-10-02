@@ -1,0 +1,662 @@
+[
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.LessCombo1",
+  "en": "`Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`. Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.MoreCombo1",
+  "en": "`Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`. Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.MoreAttackSpeed",
+  "en": "`Scissors` Attack SPD increases by `{$Weapon_AttackSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.LessCombo2",
+  "en": "`Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`. DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.MoreCombo2",
+  "en": "`Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`. DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.MoreSpeedLessRadius",
+  "en": "`Scissors` Radius decreases by `{|$Weapon_Radius_More|:0.##%}`. Attack SPD increases by `{$Weapon_AttackSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.LessCombo3",
+  "en": "`Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`. Attack SPD increases by `{|$Weapon_AttackSpeed_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.LessSpeedMoreCombo",
+  "en": "`Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`. Attack SPD decreases by `{|$Weapon_AttackSpeed_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.0.AttackSpeedBuff",
+  "en": "When `Scissors` hit, gain `{$OnWeaponHit_IncreaseAttackSpeed_StackAmount:0.##}%` `Swiftness`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.MoreDamageLessSpeed",
+  "en": "`Giant Scissors` Attack SPD decreases by `{|$Weapon_AttackSpeed_More|:0.##%}`. DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.AttackSpeed",
+  "en": "`Giant Scissors` Attack SPD increases by `{$Weapon_AttackSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.LessComboFromDamage",
+  "en": "`Giant Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.MoreDamageLessRadius",
+  "en": "`Giant Scissors` Radius decreases by `{|$Weapon_Radius_More|:0.##%}`. DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.MoreDashDistance",
+  "en": "`Giant Scissors` DMG increases by `{$Weapon_Damage_More:0.##%}`. On a Critical Attack, Move Distance increases by `{$Weapon_Type1_Critical_DashDistance_Add:0.##}m`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.DamagePerRadius",
+  "en": "`Giant Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.MoreCritMoreCombo",
+  "en": "`Giant Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`. Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.CritDamage",
+  "en": "`Giant Scissors` Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.1.LessComboFromAttackSpeed",
+  "en": "`Giant Scissors` Combo Count `{$Weapon_Combo_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Damage1",
+  "en": "`Magic Scissors` DMG decreases by `{|$Weapon_Damage_More|:0.##%}`. Damage increases by `{$Weapon_Type2_Damage_More_PerCharge:0.##%}` per `Charged Gauge`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Damage2",
+  "en": "`Magic Scissors` DMG decreases by `{|$Weapon_Damage_More|:0.##%}`, but it tracks its Target `{$Weapon_Type2_Projectile_GuideCount_Add:0} additional times`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Damage3",
+  "en": "`Magic Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Cooltime1",
+  "en": "`Magic Scissors` Cooldown decreases by `{|$Weapon_Cooltime_More_PerMaxStack|:0.##%}` per Max `Stack`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Cooltime2",
+  "en": "`Magic Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Cooltime3",
+  "en": "`Magic Scissors` Max `Stack` `{$Weapon_MaxStack_Add:+0;-0;}`. Cooldown decreases by `{|$Weapon_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Stack1",
+  "en": "`Magic Scissors` Max `Stack` `{$Weapon_MaxStack_Add:+0;-0;}`. While `Charging`, Move SPD increases by `{|$Weapon_Type2_OnCharging_MoveSpeed_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Stack2",
+  "en": "`Magic Scissors` fire `{$Weapon_Type2_ProjectileCount_Add:0;}` additional projectiles, but its Max `Charge Level` is reduced to `{$Weapon_Type2_MaxChargeLimit:0;}` and the damage dealt decreases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.2.Stack3",
+  "en": "At `Charge Level` `{$Weapon_Type2_ProjectileAddNeedChargeLevel:0}` or higher, `Magic Scissors` fires `{$Weapon_Type2_ProjectileAddNeedCharge_ProjectileCount_Add:0;}` additional Projectiles, but Max `Charge Level` is reduced to `{$Weapon_Type2_MaxChargeLimit:0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.CritDamage",
+  "en": "`Broken Scissors` Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.MoreCritDamagePerWE",
+  "en": "`Broken Scissors` Critical DMG increases by `{$SE_WeaponEnhancement_WeaponCriticalDamageMorePerStack_More:0.##%}` of `Sharpness` held."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.MoreDamageLessWEDuration",
+  "en": "`Broken Scissors` DMG increases by `{$Weapon_Damage_More:0.##%}`. `Sharpness` Duration decreases by `{|$SE_WeaponEnhancement_Duration_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.MoreWEDuration",
+  "en": "`Sharpness` Duration `+{$SE_WeaponEnhancement_Duration_Add:0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.RemoveWEOnTimeOut",
+  "en": "Max `Sharpness` increases by `{$SE_WeaponEnhancement_MaxStack_More:0.##%}`, but if no `Sharpness` is gained for `2s`, all `Sharpness` is lost."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.AttackSpeedLessWE",
+  "en": "`Broken Scissors` Attack SPD increases by `{$Weapon_AttackSpeed_More:0.##%}`. `Sharpness` gained on hit `{$Weapon_WeaponEnhancement_StackAmount_Add:+0;-0;}%`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.Radius",
+  "en": "`Broken Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`. Radius increases by `{$Weapon_Radius_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.MoreSpeedByWE",
+  "en": "`Broken Scissors` Attack SPD increases by `{$SE_WeaponEnhancement_AttackSpeedPerStack_More:0.##%}` of `Sharpness` held."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.3.MoreSpeedOnLowWE",
+  "en": "When `Sharpness` is at `{$Weapon_Type3_AttackSpeed_More_IfWEUnderStack_Percent:0.##%}` or below, `Broken Scissors` Attack SPD increases by `{$Weapon_Type3_AttackSpeed_More_IfWEUnderStack:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.CriRequired",
+  "en": "`Singing Scissors` Crit Threshold `{$Weapon_CriticalStackRequired_Add:+0;-0;}`. Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.MoreDamageLessAmmo",
+  "en": "`Singing Scissors` Projectile Ammo `{$Weapon_Type4_ProjectileReloadCount_Add:+0;-0;}`. DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.Damage",
+  "en": "`Singing Scissors` DMG increases by `{$Weapon_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.CritRequired2",
+  "en": "`Singing Scissors` Crit Threshold `{$Weapon_CriticalStackRequired_Add:+0;-0;}`. Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.MoreProjectileLessDamage",
+  "en": "`Singing Scissors` Projectile Count `{$Weapon_Type4_ProjectileSpawnCount_Add:+0;-0;}`. DMG decreases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.MoreSpeed",
+  "en": "`Singing Scissors` Attack SPD increases by `{$Weapon_AttackSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.MoreCritRadiusMoreDamage",
+  "en": "`Singing Scissors` Critical DMG increases by `{$Weapon_CriticalDamageMult_More:0.##%}`. On a Critical Hit, projectile radius increases by `{$Weapon_Type4_Projectile_Radius_Crit_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.AdditionalProjectile",
+  "en": "When `Singing Scissors` reloads, it fires `{$Weapon_Type4_OnReload_BonusProjectile_SpawnAmount_Add:0}` Projectiles."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.4.MoreSpeedMoreRequired",
+  "en": "`Singing Scissors` Attack SPD increases by `{$Weapon_AttackSpeed_More:0.##%}`. Crit Threshold `{$Weapon_CriticalStackRequired_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Damage1",
+  "en": "`Lapis Scissors` DMG decreases by `{|$Weapon_Damage_More|:0.##%}`, but its DMG increases by `{$Weapon_Type5_Damage_More_PerCharge:0.##%}` per `Charged Gauge`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Damage2",
+  "en": "If `Lapis Scissors` is at `Charge Level` `1` or higher, it deals damage `{|$Weapon_Type5_ExtraAttackCount|:0} additional times`, but its DMG decreases by `{|$Weapon_Damage_More|:0.##%}` and its maximum `Charge Level` is reduced to `{$Weapon_Type5_MaxChargeLimit:0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Damage3",
+  "en": "`Lapis Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Stack1",
+  "en": "`Lapis Scissors` Max `Stack` `{$Weapon_MaxStack_Add:+0;-0;}`. While `Charging`, Move SPD increases by `{$Weapon_Type5_Charging_MoveSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Stack2",
+  "en": "`Lapis Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Stack3",
+  "en": "`Lapis Scissors` `Stack` `{$Weapon_MaxStack_Add:+0;-0;}`. Cooldown decreases by `{|$Weapon_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Cooltime1",
+  "en": "`Lapis Scissors` Cooldown decreases by `{|$Weapon_Cooltime_More_PerMaxStack|:0.##%}` per Max `Stack`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Cooltime2",
+  "en": "When `Lapis Scissors` lands a Critical Hit, `Lapis Scissors` Cooldown recovers by `{$OnCriticalHit_Weapon_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Weapon.Scissor.5.Cooltime3",
+  "en": "`Lapis Scissors` DMG increases by `{|$Weapon_Damage_More|:0.##%}`. `Charge SPD` increases by `{$Weapon_ChargeSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.MoreDamageStack",
+  "en": "`Slash` Max `Stack` `{$ReaperSwing_MaxStack_Add:+0;-0;}`. DMG increases by `{$ReaperSwing_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.DashSwing",
+  "en": "`Slash` DMG increases by `{$ReaperSwing_Damage_More:0.##%}`. When used, move a short distance and deal damage."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.MoreDamageLessRadius",
+  "en": "`Slash` DMG increases by `{$ReaperSwing_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.RemoveAllStack",
+  "en": "When using `Slash`, all `Stacks` are consumed, but DMG increases by `{$ReaperSwing_CastAllStack_Damage_More_PerStack:0.##%}` for each `Stack` consumed."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.CooltimeRecPerStack",
+  "en": "When `Slash` hits, `Slash` Cooldown recovers by `{$OnReaperSwingHit_Cooltime_RecoverSec:0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.MoreDamageLessStack",
+  "en": "`Slash` Max `Stack` `{$ReaperSwing_MaxStack_Add:+0;-0;}`. DMG increases by `{$ReaperSwing_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.CooltimeStack",
+  "en": "`Slash` Cooldown decreases by `{|$ReaperSwing_Cooltime_More|:0.##%}`. `Stack` `{$ReaperSwing_MaxStack_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.RecastSwing",
+  "en": "`Slash` DMG decreases by `{|$ReaperSwing_Damage_More|:0.##%}`, but `Slash` can be used one additional time within `{$ReaperSwing_Recast_Duration:0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.ReaperSwing.MoreDamageMoreCooltime",
+  "en": "`Slash` Cooldown increases by `{$ReaperSwing_Cooltime_More:0.##%}`. DMG increases by `{$ReaperSwing_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.AmbushEnhancement",
+  "en": "`Ambush` DMG decreases by `{|$Ambush_Damage_More|:0.##%}`, but when `Ambush` hits, gain `{$OnAmbushHit_AmbushEnhancement_StackAmount:0.##}%` `Ambush Potency`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.MoreDamageMoreRadius",
+  "en": "`Ambush` Radius increases by `{$Ambush_Radius_More:0.##%}`. DMG increases by `{$Ambush_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.Inv",
+  "en": "`Ambush` DMG decreases by `{|$Ambush_Damage_More|:0.##%}`, but using Ambush makes you `Invincible` for `{$Ambush_Invincible_StackSec:0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.RecastAmbush",
+  "en": "`Ambush` DMG decreases by `{|$Ambush_Damage_More|:0.##%}`, but `Ambush` can be used one additional time within `{$Ambush_Recast_Duration:0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.MoreDamageMoreCooltime",
+  "en": "`Ambush` Cooldown increases by `{$Ambush_Cooltime_More:0.##%}`. DMG increases by `{$Ambush_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.CooltimeStack",
+  "en": "`Ambush` Max `Stack` `{$Ambush_MaxStack_Add:+0;-0;}`. Cooldown decreases by `{|$Ambush_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.AmbushCooltimeRecover",
+  "en": "When `Ambush` hits, `Ambush` Cooldown recovers by `{$OnAmbushHit_Ambush_Cooltime_RecoverSec:0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.MoreDamageLessStack",
+  "en": "`Ambush` Max `Stack` `{$Ambush_MaxStack_Add:+0;-0;}`. DMG increases by `{$Ambush_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Ambush.MoreStackLessDamage",
+  "en": "`Ambush` Max `Stack` `{$Ambush_MaxStack_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.CounterEnhancement",
+  "en": "When `Counter` hits, gain `{$OnCounterAttackHit_CounterAttackEnhancement_StackAmount:0.##}%` `Counter Potency`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.MoreDamageMoreRadius",
+  "en": "`Counter` Radius increases by `{$CounterAttack_Radius_More:0.##%}`. DMG increases by `{$CounterAttack_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.MoreStackLessDamage",
+  "en": "`Counter` Max `Stack` `{$CounterAttack_MaxStack_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.RecCounterCool",
+  "en": "When `Counter` hits, `Counter` Cooldown recovers by `{$OnCounterAttackHit_CounterAttack_Cooltime_RecoverPercent:0.##%}`. Max `Stack` `{$CounterAttack_MaxStack_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.RemoveAllStack",
+  "en": "When using `Counter`, all `Stacks` are consumed, but DMG increases by `{$CounterAttack_Damage_More_PerConsumedStack:0.##%}` for each `Stack` consumed."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.MoreDuration",
+  "en": "`Counter` Duration `{$CounterAttack_BlockDuration_Add:+0.##}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.MoreDamageMoreCooltime",
+  "en": "`Counter` Cooldown increases by `{$CounterAttack_Cooltime_More:0.##%}`. DMG increases by `{$CounterAttack_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.MoreStackLessCooltime",
+  "en": "`Counter` Max `Stack` `{$CounterAttack_MaxStack_Add:+0;-0;}`. Cooldown decreases by `{|$CounterAttack_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.CounterAttack.LessCooltimeLessDamage",
+  "en": "`Counter` Cooldown decreases by `{|$CounterAttack_Cooltime_More|:0.##%}`. DMG decreases by `{|$CounterAttack_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.MoreDamageLessSpeed",
+  "en": "All `Doll` Attack SPD decreases by `{|$All_Familiar_Attack_Speed_More|:0.##%}`. DMG increases by `{$All_Familiar_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.MoreRadiusDamage",
+  "en": "All `Doll` Attack SPD increases by `{$All_Familiar_Attack_Speed_More:0.##%}`. Attack Radius increases by `{$Familiar_Attack_Radius_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.FamiliarDamageOnSign",
+  "en": "The effect of `Mark` increases by `{$CatSign_Target_DamageTaken_More:0.##%}`. `Summon Doll` DMG increases by `{$SpawnFamiliar_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.SuicideBomb",
+  "en": "`Mark` Duration decreases by `{|$SpawnFamiliar_Duration_More|:0.##%}`, but when `Summon Doll` is used, all `Dolls` rush the target affected by `Mark`, deal `{$Familiar_SuicideBomb_DamageMult:0.##%}` DMG, and are removed."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.BigFamiliar",
+  "en": "Summons `{$SpawnFamiliar_BigFamiliar_SpawnAmount_Add:0.##}` `Large Dolls`. Each `Large Doll`'s DMG increases by `{$SpawnFamiliar_BigFamiliar_Damage_More_PerFamiliar:0.##%}` for every other summoned `Doll`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.Duration",
+  "en": "`Mark` Duration increases by `{$SpawnFamiliar_Duration_More:0.##%}`. `Summon Doll` DMG increases by `{$SpawnFamiliar_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.MoreDamageMoreCooltime",
+  "en": "`Summon Doll` Cooldown increases by `{$SpawnFamiliar_Cooltime_More:0.##%}`, but all `Doll` DMG increases by `{$All_Familiar_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.GhostFamiliar",
+  "en": "All `Doll` DMG decreases by `{|$All_Familiar_Damage_More|:0.##%}`, but when using `Summon Doll`, summon 1 `Phantom Doll` for `each` summoned Small Doll."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFamiliar.CooltimeRecPerFamiliar",
+  "en": "For every `1` summoned `Doll`, `Summon Doll` Cooldown Recovery SPD increases by `{$SpawnFamiliar_Cooltime_RecoverSpeed_More_PerFamiliar:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.MoreDamagePerHit",
+  "en": "`Sewing Wheel` DMG decreases by `{|$SpawnTrap_Damage_More|:0.##%}`, but while it is hitting enemies, its DMG increases by `{$SpawnTrap_Damage_PerSec_More_AttackPerSec:0.##%} per second`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.MoreTrap",
+  "en": "`Sewing Wheel` DMG decreases by `{|$SpawnTrap_Damage_More|:0.##%}`, but `{$SpawnTrap_SpawnCount_Add:0}` additional `Sewing Wheels` are created."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.MoreDurationLessDamage",
+  "en": "`Sewing Wheel` DMG increases by `{|$SpawnTrap_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.MoreDurationMoreCooltime",
+  "en": "`Sewing Wheel` Duration increases by `{$SpawnTrap_Trap_Duration_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.RemoveTrapCooltimeRec",
+  "en": "Each time a `Sewing Wheel` is removed, `Sewing Wheel` Cooldown recovers by `{$OnSpawnTrapRemove_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.SlowTrap",
+  "en": "`Sewing Wheel` Move SPD decreases by `{|$SpawnTrap_Trap_MoveSpeed_More|:0.##%}`. Cooldown decreases by `{|$SpawnTrap_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.FollowTrap",
+  "en": "`Sewing Wheel` tracks the caster instead of enemies, and its DMG increases by `{|$SpawnTrap_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.FastTrap",
+  "en": "`Sewing Wheel` Duration decreases by `{|$SpawnTrap_Trap_Duration_More|:0.##%}`, but its Move SPD increases by `{$SpawnTrap_Trap_MoveSpeed_More:0.##%}` and its DMG increases by `{$SpawnTrap_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnTrap.ReturnTrap",
+  "en": "`Sewing Wheel` Max `Stack` `{$SpawnTrap_MaxStack_Add:+0;-0;}`. When `Sewing Wheel`'s Duration ends, it returns to the caster and is then removed."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.MoreDamagePerThread",
+  "en": "For `each` `Thread` connected to the target, `Rush` Pull DMG increases by `{$Rush_Pull_Damage_More_PerThread:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.NeedleDamage",
+  "en": "`Rush` DMG decreases by `{|$Rush_Damage_More|:0.##%}`. `Needle` DMG increases by `{$Needle_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.MoreDamageLessDistance",
+  "en": "`Rush` Move Distance decreases by `{|$Rush_Distance_More|:0.##%}`, but Max `Stack` `{$Rush_MaxStack_Add:+0;-0;}` and DMG increases by `{$Rush_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.CooltimeRecPerThread",
+  "en": "For `each` `Thread` linked to the target with the most `Threads`, `Rush`'s Cooldown Recovery SPD increases by `{$Rush_Cooltime_RecoverSpeed_More_PerMaxThreading:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.MoreNeedleMoreCooltime",
+  "en": "`Rush` `Needle` Count `{$OnRushHit_Needle_SpawnAmount:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.RecastRush",
+  "en": "`Rush` can pull enemies one additional time."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.ThreadMaxStack",
+  "en": "Max `Threads` `{$Thread_MaxStack_Add:+0}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.MoreNeedleLessThreadMax",
+  "en": "`Rush` `Needle` Count `{$OnRushHit_Needle_SpawnAmount:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Rush.MoreDamageLessThreadMax",
+  "en": "`Rush` Max `Thread` Stacks `{$Thread_MaxStack_Add:+0;-0;}`. DMG increases by `{$Rush_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.ProjectileFlower",
+  "en": "`Flowers` are no longer removed when enemies step on them. Instead, when a `Flower` is removed, it fires a projectile that deals `{$FlowerBomb_FlowerDamageMult:0.##%}` `Flower` damage to all enemies in range."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.FlowerDamageLessDuration",
+  "en": "`Flower` Duration decreases by `{|$Flower_Duration_More|:0.##%}` and `Butterfly Walk` DMG decreases by `{|$Boost_Damage_More|:0.##%}`, but `Flower` DMG increases by `{$Flower_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.MoreDamagePerCharge",
+  "en": "`Butterfly Walk` DMG increases by `{$Boost_Damage_More_PerCharge:0.##%}` per `Charged Gauge`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.MoreChargeSpeedLessCooltime",
+  "en": "`Butterfly Walk` Cooldown decreases by `{|$Boost_Cooltime_More|:0.##%}`. `Charge SPD` increases by `{$Boost_ChargeSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.RemoveFlowerCooltimeRec",
+  "en": "Each time a `Flower` is removed, `Butterfly Walk` Cooldown recovers by `{$OnFlowerRemove_Boost_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.MoreStackMoreCooltime",
+  "en": "`Butterfly Walk` Cooldown decreases by `{|$Boost_Cooltime_More_PerMaxStack|:0.##%}` per Max `Stack`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.ChargeSpeedMoveSpeed",
+  "en": "`Butterfly Walk` `Charge SPD` increases by `{$Boost_ChargeSpeed_More:0.##%}`. DMG increases by `{$Boost_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.FlowerPerCharge",
+  "en": "`Butterfly Walk` no longer creates Flowers when Charging ends. Instead, it immediately summons `{$Boost_Flower_SpawnAmount_PerCharge_Add:0.##}` `Flowers` per `Charged Gauge`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Boost.FlowerOverCharge",
+  "en": "`Butterfly Walk` Max `Stack` `{$Boost_MaxStack_Add:+0;-0;}`. When `Butterfly Walk` Charging ends, for each `Charge Level` above `{$OnBoostOverCharge_RequestChargeGauge:0}` levels, it additionally Summons `{$OnBoostOverCharge_Flower_SpawnAmount_Add:0}` `Flowers`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.CrowDamagePerCrow",
+  "en": "For `each` Summoned `Crow`, `Crow` DMG increases by `{$SpawnCrow_Crow_Damage_More_PerCrow:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.CrowExplosionOnMax",
+  "en": "When the number of Summoned `Crows` reaches `{$Crow_Finisher_Count:0.##}`, they are removed immediately, and a `Giant Phantom Crow` is fired. It deals `{$Crow_Finisher_Damage_More:0.##%}` increased `Crow` DMG to all enemies in its Radius."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.GuidedProjectile",
+  "en": "`Shadow Surge` DMG decreases by `{|$SpawnCrow_Damage_More|:0.##%}`, but it tracks the Target `{$SpawnCrow_Projectile_GuideCount_Add:0} additional times`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.CooltimeRecPerCrow",
+  "en": "For `each` Summoned `Crow`, `Shadow Surge` Cooldown Recovery SPD increases by `{$SpawnCrow_Cooltime_RecoverSpeed_More_PerCrow:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.CooltimeStack",
+  "en": "`Shadow Surge` Max `Stack` `{$SpawnCrow_MaxStack_Add:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.MoreDamageMoreCooltime",
+  "en": "`Shadow Surge` Cooldown increases by `{$SpawnCrow_Cooltime_More:0.##%}`. DMG increases by `{$SpawnCrow_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.MoreCrowAttackCount",
+  "en": "`Crow` Max Attacks `{$Crow_MaxAttackCount_Add:+0;-0;}`. `Crow` attacks also deal damage to nearby enemies."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.MoreCrowLessAttackCount",
+  "en": "`Crow` Max Attacks `{$Crow_MaxAttackCount_Add:+0;-0;}`. When using `Shadow Surge`, `Crows` Summoned `{$Crow_SpawnAmount_More:+0;-0;}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnCrow.MoreDamageLessAttackCount",
+  "en": "`Crow` Max Attacks `{$Crow_MaxAttackCount_Add:+0;-0;}`. `Shadow Surge` DMG increases by `{$SpawnCrow_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.DamageOnGetBlood",
+  "en": "When collecting a `Blood Clot`, deal `{$OnBloodPickupGet_Explosion_Damage_More:0.##%}` increased Blood Marble DMG to all enemies within `{$OnBloodPickupGet_Explosion_Radius:0.##}m`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.DamageRecast",
+  "en": "When using `Blood Marble` while `Blood Marble` is active, deals `{$OnLeechCast_Damage_More_IfActivated:0.##%}` increased Blood Marble DMG to all linked enemies."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.SingleTarget",
+  "en": "`Blood Marble` only affects the `Strongest Enemy` in range, but DMG increases by `{$Leech_Damage_More:0.##%}`. The Radius of damage dealt when creating a `Blood Clot` increases to `{$Leech_SingleTarget_PeriodicExplosion_Radius:0.##}m`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.LessPeriodFromCooltime",
+  "en": "`Blood Marble` Blood Clot Spawn Interval `{$Leech_PeriodicExplosion_Period_Add:+0.##;-0.##;}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.Duration",
+  "en": "`Blood Marble` Duration `{$Leech_Duration_Add:+0.##;-0.##;}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.MoreDamageLessDuration",
+  "en": "`Blood Marble` Duration `{$Leech_Duration_Add:+0.##;-0.##;}s`. DMG increases by `{$Leech_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.LessPeriodFromRadius",
+  "en": "`Blood Marble` Blood Clot Spawn Interval `{$Leech_PeriodicExplosion_Period_Add:+0.##;-0.##;}s`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.DurationRecGetBlood",
+  "en": "Each time a `Blood Clot` is collected, `Blood Marble` Duration extends by `{$OnBloodPickupGet_DurationRecovery_DurationMult:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.Leech.MoreDamageLessRadius",
+  "en": "`Blood Marble` Radius decreases by `{|$Leech_Radius_More|:0.##%}`. DMG increases by `{$Leech_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.Meteor",
+  "en": "Instead of firing a `Fireball` directly, a `Giant Fireball` falls after `{|$SpawnFireball_Meteor_FallTime|:0.##}s`. `Giant Fireball` DMG decreases by `{|$SpawnFireball_Damage_More|:0.##%}`, but its `Burn Amount` increases by `{$SpawnFireball_FireDamage_More:0.##%}` and its explosion radius increases by `{$SpawnFireball_Projectile_Radius_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.MoreProjectileCount",
+  "en": "`Fireball`'s DMG Dealt decreases by `{|$SpawnFireball_Damage_More|:0.##%}` and its `Max Charge Level` is reduced to `{$SpawnFireball_MaxChargeLimit:0;}`. In exchange, at `Charge Level` `1` or higher, it fires `{$SpawnFireball_Projectile_SpawnCount_Add:0.##}` additional `Fireballs`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.MoreRadiusMoreDamage",
+  "en": "`Fireball` DMG increases by `{$SpawnFireball_Damage_More:0.##%}`. Radius increases by `{$SpawnFireball_Projectile_Radius_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.InstantBurn",
+  "en": "Combustion SPD decreases by `{|$Fire_CombustBaseHp_PerSec_More|:0.##%}`, but `Fireball` `Burn` Amount increases by `{$SpawnFireball_FireDamage_More:0.##%}`. If `Burn` exceeds the target's HP, `{$Fire_CombustOverDamageMult:0.##%}` of the excess immediately undergoes Combustion."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.SmallFireball",
+  "en": "`Fireball` DMG decreases by `{|$SpawnFireball_Damage_More|:0.##%}`, but on explosion, it creates `{$OnSpawnFireballHit_SmallFireball_Add:0.##}` `Small Fireballs` that each deal `{$SpawnFireball_SmallFireball_Damage_Mult:0.##%}` of `Fireball` DMG."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.MoreProjectileSpeed",
+  "en": "`Fireball` Cooldown decreases by `{|$SpawnFireball_Cooltime_More|:0.##%}`. projectile SPD increases by `{$SpawnFireball_Projectile_Speed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.FireDamagePerCharge",
+  "en": "For each `Charged Gauge`, `Fireball` `Burn` Amount increases by `{$SpawnFireball_FireDamage_More_PerCharge:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.CooltimeRecPerFireball",
+  "en": "`Fireball` Max `Stack` `{$SpawnFireball_MaxStack_Add:+0;-0;}`. Each time `Fireball` hits, `Fireball` Cooldown recovers by `{$OnSpawnFireballHit_Cooltime_RecoverPercent:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnFireball.ChargeSpeed",
+  "en": "`Fireball` DMG increases by `{$SpawnFireball_Damage_More:0.##%}`. `Charge SPD` increases by `{$SpawnFireball_ChargeSpeed_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.Damage1",
+  "en": "`Gem Shards` DMG increases by `{$SpawnOrb_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.Damage2",
+  "en": "`Gem Shards` Firing SPD decreases by `{|$SpawnOrb_ShotSpeed_More|:0.##%}`, but increases by `{|$SpawnOrb_ShotSpeed_More_PerShot|:0.##%}` with each shot. Max Shots increases by `{|$SpawnOrb_MaxShotCount_Add|:0}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.Damage3",
+  "en": "`Gem Shards` DMG decreases by `{|$SpawnOrb_Damage_More|:0.##%}`. Cooldown Recovery Effect increases by `{|$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.Cooltime1",
+  "en": "`Gem Shards` Cooldown increases by `{|$SpawnOrb_Cooltime_More|:0.##%}`. DMG increases by `{|$SpawnOrb_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.Cooltime2",
+  "en": "`Gem Shards` Max Shots `{$SpawnOrb_MaxShotCount_Add:+0;-0;}`. While `Channeling`, Move SPD increases by `{|$SpawnOrb_Channeling_MoveSpeed_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.Cooltime3",
+  "en": "`Gem Shards` Firing SPD increases by `{|$SpawnOrb_ShotSpeed_More|:0.##%}`. Cooldown Recovery Effect increases by `{|$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.CooltimeRecov1",
+  "en": "`Gem Shards` Cooldown Recovery Effect applies only to `Gem Shards`, but increases by `{|$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.CooltimeRecov2",
+  "en": "`Gem Shards` Cooldown Recovery Effect decreases by `{|$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More|:0.##%}`, but increases by `{$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More_PerShot:0.##%}` with each shot."
+ },
+ {
+  "k": "Addon_Info||Addon.Magic.SpawnOrb.CooltimeRecov3",
+  "en": "`Gem Shards` Firing SPD increases by `{|$SpawnOrb_ShotSpeed_More|:0.##%}`. Cooldown Recovery Effect increases by `{|$SpawnOrb_OtherCooltime_RecoverPercent_PerHit_More|:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.AutoCast.GaugeCrit",
+  "en": "The recovery amount of all `Swamp Echo` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.AutoCast.GaugeMagic",
+  "en": "The recovery amount of all `Swamp Echo` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.AutoCast.Effect",
+  "en": "`Swamp Echo` Duration increases by `{$SE_Special_AutoCast_Duration_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.RestoreStack.GaugeCrit",
+  "en": "The recovery amount of all `Swamp Breath` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.RestoreStack.GaugeMagic",
+  "en": "The recovery amount of all `Swamp Breath` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.RestoreStack.Effect",
+  "en": "`Swamp Breath` Cooldown Recovery effect increases by `{$Special_RestoreStack_All_Cooltime_RecoverPercent_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.FastCast.GaugeCrit",
+  "en": "The recovery amount of all `Swamp Flow` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.FastCast.GaugeMagic",
+  "en": "The recovery amount of all `Swamp Flow` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.FastCast.Effect",
+  "en": "`Swamp Flow` Duration increases by `{$SE_Special_FastCast_Duration_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.Mirror.GaugeCrit",
+  "en": "The recovery amount of all `Broken Dream` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.Mirror.GaugeMagic",
+  "en": "The recovery amount of all `Broken Dream` Gauges increases by `{$Special_Gauge_All_Recover_More:0.##%}`."
+ },
+ {
+  "k": "Addon_Info||Addon.Special.Mirror.Effect",
+  "en": "`Broken Dream` Projectile Shot Count increases by `{$Special_Mirror_Projectile_ShotCount_More:0.##%}`."
+ }
+]

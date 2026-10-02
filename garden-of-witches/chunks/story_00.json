@@ -1,0 +1,1282 @@
+[
+ {
+  "k": "Chapter0_HomeOpening.000",
+  "en": "Phew, it's finally done!"
+ },
+ {
+  "k": "Chapter0_HomeOpening.001",
+  "en": "No other witch in the world will have a home as wonderful as this!"
+ },
+ {
+  "k": "Chapter0_HomeOpening.002",
+  "en": "For how long, though?"
+ },
+ {
+  "k": "Chapter0_HomeOpening.003",
+  "en": "Huh?"
+ },
+ {
+  "k": "Chapter0_HomeOpening.004",
+  "en": "It's long past time for a tea party."
+ },
+ {
+  "k": "Chapter0_HomeOpening.005",
+  "en": "Ah, you're right..."
+ },
+ {
+  "k": "Chapter0_HomeOpening.006",
+  "en": "Well, I'm sure the other witches will come and invite me when it's time."
+ },
+ {
+  "k": "Chapter0_HomeOpening.007",
+  "en": "The Garden might come to ruin the longer we wait..."
+ },
+ {
+  "k": "Chapter0_HomeOpening.008",
+  "en": "My home!!"
+ },
+ {
+  "k": "Chapter0_HomeOpening.009",
+  "en": "Looks like the apocalypse is already coming."
+ },
+ {
+  "k": "Chapter0_HomeOpening.010",
+  "en": "My precious home... I worked so hard on it..."
+ },
+ {
+  "k": "Chapter0_HomeOpening.011",
+  "en": "Why not just leave it? It looks like a nice ornament."
+ },
+ {
+  "k": "Chapter0_HomeOpening.012",
+  "en": "But then my home will get even more ruined. The rest of the garden, too!"
+ },
+ {
+  "k": "Chapter0_HomeOpening.013",
+  "en": "At least you won't have to go through the bother of keeping everything clean anymore."
+ },
+ {
+  "k": "Chapter0_HomeOpening.014",
+  "en": "This isn't the time for jokes!"
+ },
+ {
+  "k": "Chapter0_HomeOpening.015",
+  "en": "What are you going to do, then?"
+ },
+ {
+  "k": "Chapter0_HomeOpening.016",
+  "en": "What else? Gather the other witches for a tea party."
+ },
+ {
+  "k": "Chapter0_HomeOpening.017",
+  "en": "There's no other way to put Nahatra to sleep."
+ },
+ {
+  "k": "Chapter0_HomeOpening.018",
+  "en": "Hmm, I guess."
+ },
+ {
+  "k": "Chapter0_HomeOpening.019",
+  "en": "I'll be back soon!"
+ },
+ {
+  "k": "Chapter0_HomeOpening.020",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_FlowerEntrance.000",
+  "en": "The nightmares have already spread this far..."
+ },
+ {
+  "k": "Chapter0_FlowerEntrance.001",
+  "en": "The others have completely forgotten about the tea party, haven't they?"
+ },
+ {
+  "k": "Chapter0_FlowerEntrance.002",
+  "en": "Fiena...? Are you there...?"
+ },
+ {
+  "k": "Chapter0_FlowerEntrance.003",
+  "en": "She’s definitely passed out somewhere, clearly intoxicated by the scent of the flowers."
+ },
+ {
+  "k": "Chapter0_FlowerEntrance.004",
+  "en": "I'd better hurry, it's not good to smell the flowers here for long."
+ },
+ {
+  "k": "Chapter0_MeetFiena.000",
+  "en": "Pfft! Bwahahaha!!...HIC!!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.001",
+  "en": "Fiena...?"
+ },
+ {
+  "k": "Chapter0_MeetFiena.002",
+  "en": "Fiena! Wake up! We need to do a tea party! It's already too late!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.003",
+  "en": "Red...! And yellow...? Morel mushrooms! Poppies! A-And...!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.004",
+  "en": "Yes! Let's dance! Dance for a wonderful dream..."
+ },
+ {
+  "k": "Chapter0_MeetFiena.005",
+  "en": "Looks like I'll need to smack some sense into her."
+ },
+ {
+  "k": "Chapter0_MeetFiena.006",
+  "en": "Ouch! My head! What's wrong with you!?"
+ },
+ {
+  "k": "Chapter0_MeetFiena.007",
+  "en": "Worked like a charm."
+ },
+ {
+  "k": "Chapter0_MeetFiena.008",
+  "en": "Sil! What a pleasure to see you! Wanna share a cup of tea?"
+ },
+ {
+  "k": "Chapter0_MeetFiena.009.1",
+  "en": "Fiena! What have you been doing all this time?!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.009.2",
+  "en": "The garden is covered in nightmares!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.010",
+  "en": "Nightmares...? Eek! You're right! How did this happen?"
+ },
+ {
+  "k": "Chapter0_MeetFiena.011",
+  "en": "Oh goodness, my flower garden is going to be ruined!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.012",
+  "en": "Will you stay with me until then, Sil? I've been so lonely..."
+ },
+ {
+  "k": "Chapter0_MeetFiena.013",
+  "en": "Sorry, I'm too busy. I need to find the other witches for the tea party!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.014",
+  "en": "Oh right! Tea party..."
+ },
+ {
+  "k": "Chapter0_MeetFiena.015",
+  "en": "Come join us when you're ready, got it?"
+ },
+ {
+  "k": "Chapter0_MeetFiena.016",
+  "en": "Sure... After one more cup of tea."
+ },
+ {
+  "k": "Chapter0_MeetFiena.017",
+  "en": "Fiena!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.018",
+  "en": "All right, all right!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.019",
+  "en": "See you later!"
+ },
+ {
+  "k": "Chapter0_MeetFiena.020",
+  "en": "I really hope she doesn't forget..."
+ },
+ {
+  "k": "Chapter0_FarmEntrance.000",
+  "en": "We need Abigail's pumpkin pie for the tea party."
+ },
+ {
+  "k": "Chapter0_FarmEntrance.001",
+  "en": "But last time I set foot on her field, she came swinging at me with her scythe."
+ },
+ {
+  "k": "Chapter0_FarmEntrance.002",
+  "en": "It's such a pain that she's always stuck on her farm."
+ },
+ {
+  "k": "Chapter0_FarmEntrance.003",
+  "en": "If only we could meet more often..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.000",
+  "en": "Abigail...?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.001",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.002",
+  "en": "You remember me, right? I know we don't see each other often, but..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.003",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.004",
+  "en": "Trespasser...!!!"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.005",
+  "en": "Get off my land!!!"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.006",
+  "en": "Here we go again..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.007",
+  "en": "Phew... Have you calmed down now?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.008",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.009",
+  "en": "......"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.010",
+  "en": "Don't say too much at once..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.011",
+  "en": "You're aware the nightmares are spreading through the garden, right?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.012",
+  "en": "...They trespassed on my farm."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.013.1",
+  "en": "So I got angry."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.013.2",
+  "en": "And tried to get rid of them all."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.013.3",
+  "en": "But I couldn't."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.014",
+  "en": "Dealing with nightmares isn't as simple as pruning a tree."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.015",
+  "en": "They won't stop until the entire garden is ruined."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.016",
+  "en": "Only a tea party can stop that from happening. That's the contract we signed, remember?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.017",
+  "en": "...That does sound familiar..."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.018",
+  "en": "Familiar...?! Do you really care about anything except your farm?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.019",
+  "en": "How often do you even step outside this field?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.020",
+  "en": "Quit nagging."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.021",
+  "en": "Ugh, fine... You're coming to the tea party though, right?"
+ },
+ {
+  "k": "Chapter0_MeetAbigail.022",
+  "en": "...Yes."
+ },
+ {
+  "k": "Chapter0_MeetAbigail.023",
+  "en": "See you later, then. I need to go gather the others!"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.s.000",
+  "en": "I know I need to gather everyone for the tea party, but..."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.s.001",
+  "en": "I really don't want to go in there."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.000",
+  "en": "Hooray!"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.001",
+  "en": "Welcome! ☆"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.002",
+  "en": "Come on in!"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.003",
+  "en": "Curses, totems, mountain sacrifices... and forbidden spells!"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.004",
+  "en": "What can we do for you?"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.005.1",
+  "en": "Nothing."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.005.2",
+  "en": "Just get ready for the tea party."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.006",
+  "en": "Before Nahatra wakes up."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.007.1",
+  "en": "A-Ah, you're here about the tea party?"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.007.2",
+  "en": "Heh..."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.008.1",
+  "en": "Hmm, but how should I put this...?"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.008.2",
+  "en": "We hate to do favors for free."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.009",
+  "en": "...You know what happens if we don't hold this tea party."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.010",
+  "en": "Aha, you're worried about the garden being destroyed?"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.011",
+  "en": "The living are always worrying about things dying, Berry."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.012.1",
+  "en": "Now, now, don't be judgmental, Rims."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.012.2",
+  "en": "For once, Sil is going give us what we want."
+ },
+ {
+  "k": "Chapter0_CafeEntrance.013",
+  "en": "You didn't come here without expecting this, did you. Sil?"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.014",
+  "en": "What you want... You mean...?"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.015",
+  "en": "Flesh and blood, of course!"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.016",
+  "en": "Mwahahahahaha!"
+ },
+ {
+  "k": "Chapter0_CafeEntrance.017",
+  "en": "This really is the worst place in the whole garden..."
+ },
+ {
+  "k": "Chapter0_CafeBoss.000",
+  "en": "Welcome back! You took your time..."
+ },
+ {
+  "k": "Chapter0_CafeBoss.001",
+  "en": "We were worried you'd collapsed on the way!"
+ },
+ {
+  "k": "Chapter0_CafeBoss.002",
+  "en": "Yes, we would hate for you to get any cuts and bruises on your precious flesh..."
+ },
+ {
+  "k": "Chapter0_CafeBoss.003",
+  "en": "Do you girls even care about the tea party?"
+ },
+ {
+  "k": "Chapter0_CafeBoss.004.1",
+  "en": "Oh, yes. The tea party is extremely important."
+ },
+ {
+  "k": "Chapter0_CafeBoss.004.2",
+  "en": "We just think you're more important. Don't you agree?"
+ },
+ {
+  "k": "Chapter0_CafeBoss.005",
+  "en": "Now, if you kindly hand over your flesh, we'll take part in as many tea parties as you'd like. ☆"
+ },
+ {
+  "k": "Chapter0_CafeBoss.006",
+  "en": "I'm sorry, but I'll have to decline."
+ },
+ {
+  "k": "Chapter0_CafeBoss.007",
+  "en": "Then there's nothing else for it..."
+ },
+ {
+  "k": "Chapter0_CafeBoss.008",
+  "en": "We'll just have to take your flesh by force!"
+ },
+ {
+  "k": "Chapter0_CafeBoss.009",
+  "en": "You wicked witches...! You're going to do as you're told now."
+ },
+ {
+  "k": "Chapter0_CafeBoss.010",
+  "en": "It appears we failed again, Berry."
+ },
+ {
+  "k": "Chapter0_CafeBoss.011",
+  "en": "Right, Rims. If only Sil wasn't such a talented witch."
+ },
+ {
+  "k": "Chapter0_CafeBoss.012",
+  "en": "Then that delectable flesh would be all ours..."
+ },
+ {
+  "k": "Chapter0_CafeBoss.013",
+  "en": "Hehehehehe!"
+ },
+ {
+  "k": "Chapter0_CafeBoss.014",
+  "en": "You can't be so obsessed with other people's flesh and blood."
+ },
+ {
+  "k": "Chapter0_CafeBoss.015.1",
+  "en": "Not just anyone's."
+ },
+ {
+  "k": "Chapter0_CafeBoss.015.2",
+  "en": "Only yours, hehehe!"
+ },
+ {
+  "k": "Chapter0_CafeBoss.016",
+  "en": "Don't be so selfish, Sil! Can't you just tear off a limb or two for us? It's not like it'll kill you."
+ },
+ {
+  "k": "Chapter0_CafeBoss.017",
+  "en": "No, it will! I've died more times than I care to count. All because I believed others when they said they'd cooperate."
+ },
+ {
+  "k": "Chapter0_CafeBoss.018.1",
+  "en": "But why are YOU so obsessed with this tea party?"
+ },
+ {
+  "k": "Chapter0_CafeBoss.018.2",
+  "en": "Does the garden's destruction scare you so much?"
+ },
+ {
+  "k": "Chapter0_CafeBoss.019",
+  "en": "Because she's obsessed with being alive. The living are always babbling on about such things."
+ },
+ {
+  "k": "Chapter0_CafeBoss.020",
+  "en": "Sure, whatever works for you, as long as you take part in the tea party."
+ },
+ {
+  "k": "Chapter0_CafeBoss.021",
+  "en": "Oh ♡  Sil, you're always so mean to us! But I suppose that's part of your charm!"
+ },
+ {
+  "k": "Chapter0_CafeBoss.022",
+  "en": "Well, if Sil insists, I guess we have no choice, Berry."
+ },
+ {
+  "k": "Chapter0_CafeBoss.023",
+  "en": "See you at the tea party, Sil!"
+ },
+ {
+  "k": "Chapter0_CafeBoss.024",
+  "en": "I wish that just once they'd do what I ask the first time around."
+ },
+ {
+  "k": "Chapter0_HallEntrance.000",
+  "en": "The closer I get to the tea party area, the stronger the nightmare energy gets."
+ },
+ {
+  "k": "Chapter0_HallEntrance.001",
+  "en": "I promised Chloe last time that I wouldn't be late again... And the time before that..."
+ },
+ {
+  "k": "Chapter0_HallEntrance.002",
+  "en": "...Chloe? Are you here?"
+ },
+ {
+  "k": "Chapter0_HallEntrance.003",
+  "en": "Why's it so quiet?"
+ },
+ {
+  "k": "Chapter0_HallEntrance.004",
+  "en": "Is she angry...?"
+ },
+ {
+  "k": "Chapter0_HallEntrance.005",
+  "en": "...I'm warning you!"
+ },
+ {
+  "k": "Chapter0_HallEntrance.006",
+  "en": "If you're late preparing the tea party next time too, there won't be one."
+ },
+ {
+  "k": "Chapter0_HallEntrance.007",
+  "en": "Yep, she's definitely going to be angry with me."
+ },
+ {
+  "k": "Chapter0_HallEntrance.008",
+  "en": "Well, I'm sure we'll work it out..."
+ },
+ {
+  "k": "Chapter0_HallBoss.000",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_HallBoss.001",
+  "en": "How bold of you to show your face."
+ },
+ {
+  "k": "Chapter0_HallBoss.002",
+  "en": "What brings you here?"
+ },
+ {
+  "k": "Chapter0_HallBoss.003",
+  "en": "You've already missed the deadline."
+ },
+ {
+  "k": "Chapter0_HallBoss.004",
+  "en": "You know how unruly others can be, Chloe."
+ },
+ {
+  "k": "Chapter0_HallBoss.005",
+  "en": "Gathering multiple witches in one place is like herding cats."
+ },
+ {
+  "k": "Chapter0_HallBoss.006",
+  "en": "So does that make me not a witch because I'm here protecting this place?"
+ },
+ {
+  "k": "Chapter0_HallBoss.007",
+  "en": "Late again. Must you always wait until the realm begins collapsing to start doing anything?"
+ },
+ {
+  "k": "Chapter0_HallBoss.008",
+  "en": "*gulping*"
+ },
+ {
+  "k": "Chapter0_HallBoss.009",
+  "en": "I've been up all night fending off nightmares while you've been fooling around..."
+ },
+ {
+  "k": "Chapter0_HallBoss.010",
+  "en": "Do you have any idea how many times I died in that time?!"
+ },
+ {
+  "k": "Chapter0_HallBoss.011",
+  "en": "...S-Six— No, seven!"
+ },
+ {
+  "k": "Chapter0_HallBoss.012.1",
+  "en": "Wrong!"
+ },
+ {
+  "k": "Chapter0_HallBoss.012.2",
+  "en": "It was countless times!"
+ },
+ {
+  "k": "Chapter0_HallBoss.013",
+  "en": "And now it's your turn to suffer the pain I did!"
+ },
+ {
+  "k": "Chapter0_HallBoss.014",
+  "en": "*panting*"
+ },
+ {
+  "k": "Chapter0_HallBoss.015",
+  "en": "I don't care what you say, I'm not holding another tea party!"
+ },
+ {
+  "k": "Chapter0_HallBoss.016",
+  "en": "If you lot are the kind of witches living here, it would be better to just let the garden die!"
+ },
+ {
+  "k": "Chapter0_HallBoss.017",
+  "en": "Please, listen to me, Chloe."
+ },
+ {
+  "k": "Chapter0_HallBoss.018",
+  "en": "I met all the other witches before coming."
+ },
+ {
+  "k": "Chapter0_HallBoss.019",
+  "en": "They said they'd prepare and meet me here."
+ },
+ {
+  "k": "Chapter0_HallBoss.020",
+  "en": "...Maybe..."
+ },
+ {
+  "k": "Chapter0_HallBoss.021",
+  "en": "Maybe?"
+ },
+ {
+  "k": "Chapter0_HallBoss.022",
+  "en": "...The point is—! All the other witches will be here, but without you, we can't have the tea party."
+ },
+ {
+  "k": "Chapter0_HallBoss.023",
+  "en": "Are you okay with it being your fault the tea party failed?"
+ },
+ {
+  "k": "Chapter0_HallBoss.024.1",
+  "en": "...Excuse me?"
+ },
+ {
+  "k": "Chapter0_HallBoss.024.2",
+  "en": "My fault?!"
+ },
+ {
+  "k": "Chapter0_HallBoss.025",
+  "en": "H-How can you say something so shameless!?"
+ },
+ {
+  "k": "Chapter0_HallBoss.026",
+  "en": "But if you're the only one refusing to take part, who else is to blame?"
+ },
+ {
+  "k": "Chapter0_HallBoss.027",
+  "en": "Can you live with that?"
+ },
+ {
+  "k": "Chapter0_HallBoss.028",
+  "en": "Hmph..."
+ },
+ {
+  "k": "Chapter0_HallBoss.029.1",
+  "en": "I won't be tricked so easily."
+ },
+ {
+  "k": "Chapter0_HallBoss.029.2",
+  "en": "How many times have you tried that now?"
+ },
+ {
+  "k": "Chapter0_HallBoss.030",
+  "en": "I'll go calm Nahatra down so we can at least get the tea party started."
+ },
+ {
+  "k": "Chapter0_HallBoss.031.1",
+  "en": "...Hmph, do as you like."
+ },
+ {
+  "k": "Chapter0_HallBoss.031.2",
+  "en": "If you can, that is."
+ },
+ {
+  "k": "Chapter0_HallBoss.032",
+  "en": "The whole place is already crawling with nightmares anyway."
+ },
+ {
+  "k": "Chapter0_HallBoss.033",
+  "en": "You won't last five minutes."
+ },
+ {
+  "k": "Chapter0_HallBoss.034",
+  "en": "I knew I could rely on you."
+ },
+ {
+  "k": "Chapter0_HallBoss.035",
+  "en": "I never said I'd be taking part!"
+ },
+ {
+  "k": "Chapter0_Ending.000",
+  "en": "It's been a while, Nahatra."
+ },
+ {
+  "k": "Chapter0_Ending.001",
+  "en": "Not since last year's tea party, right?"
+ },
+ {
+  "k": "Chapter0_Ending.002",
+  "en": "......[......]"
+ },
+ {
+  "k": "Chapter0_Ending.003",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_Ending.004",
+  "en": "The nightmares must have disturbed her rest badly."
+ },
+ {
+  "k": "Chapter0_Ending.005",
+  "en": "Don't worry. I'll help you get right back to sleep."
+ },
+ {
+  "k": "Chapter0_Ending.006",
+  "en": "It's time for a tea party, Nahatra."
+ },
+ {
+  "k": "Chapter0_Ending.007",
+  "en": "......[......]"
+ },
+ {
+  "k": "Chapter0_Ending.008",
+  "en": "I thought you said this place was falling apart? It looks just fine!"
+ },
+ {
+  "k": "Chapter0_Ending.009",
+  "en": "This is why I can't stand the living!"
+ },
+ {
+  "k": "Chapter0_Ending.010",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_Ending.011",
+  "en": "Let's get this over and done with so I can get back to my farm."
+ },
+ {
+  "k": "Chapter0_Ending.012.1",
+  "en": "I'm heeeeere!"
+ },
+ {
+  "k": "Chapter0_Ending.012.2",
+  "en": "Phew, when was the last we all met up clear-headed? Hic!"
+ },
+ {
+  "k": "Chapter0_Ending.013",
+  "en": "This is how you extended the life of the garden? Pah!"
+ },
+ {
+  "k": "Chapter0_Ending.014",
+  "en": "I knew you'd come. Thank you, Chloe."
+ },
+ {
+  "k": "Chapter0_Ending.015",
+  "en": "Hmph!"
+ },
+ {
+  "k": "Chapter0_Ending.016",
+  "en": "Shall we begin?"
+ },
+ {
+  "k": "Chapter0_Ending.017",
+  "en": "With a knot woven by the Thread Witch."
+ },
+ {
+  "k": "Chapter0_Ending.018",
+  "en": "With dewdrops brewed by the Flower Witch."
+ },
+ {
+  "k": "Chapter0_Ending.019",
+  "en": "With soil sprinkled by the Pumpkin Witch."
+ },
+ {
+  "k": "Chapter0_Ending.020",
+  "en": "With flesh devoured by the Blood Witch."
+ },
+ {
+  "k": "Chapter0_Ending.021",
+  "en": "With a flame lit by the Wax Witch."
+ },
+ {
+  "k": "Chapter0_Ending.022",
+  "en": "In the name of all witches, we will now host our tea party."
+ },
+ {
+  "k": "Chapter0_Ending.023",
+  "en": "Phew, we just about made it. Again."
+ },
+ {
+  "k": "Chapter0_Ending.024",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_Ending.025",
+  "en": "......[...?]"
+ },
+ {
+  "k": "Chapter0_Ending.026",
+  "en": "We always get along so well."
+ },
+ {
+  "k": "Chapter0_Ending.027",
+  "en": "We've prepared lots of presents, so enjoy!"
+ },
+ {
+  "k": "Chapter0_Ending.028",
+  "en": "......[......!!]"
+ },
+ {
+  "k": "Chapter0_Ending.029",
+  "en": "Do you like them?"
+ },
+ {
+  "k": "Chapter0_Ending.030",
+  "en": ".........[...!]"
+ },
+ {
+  "k": "Chapter0_Ending.031",
+  "en": "I knew you would!"
+ },
+ {
+  "k": "Chapter0_Ending.032",
+  "en": "It's a gift! I put my whole heart and soul into it, hehehe!"
+ },
+ {
+  "k": "Chapter0_Ending.033",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_Ending.034",
+  "en": "It all worked out, but is it really so hard to be on time for a change?"
+ },
+ {
+  "k": "Chapter0_Ending.035",
+  "en": "Why do you always have to leave it to the last second??"
+ },
+ {
+  "k": "Chapter0_Ending.036",
+  "en": "I'm really getting fed up with having to wait until the garden is on the verge of destruction to have a tea party every time."
+ },
+ {
+  "k": "Chapter0_Ending.037",
+  "en": "I'd rather just let it all fall to ruin and be done with it."
+ },
+ {
+  "k": "Chapter0_Ending.038.1",
+  "en": "That's a bit much..."
+ },
+ {
+  "k": "Chapter0_Ending.038.2",
+  "en": "I like living here in the garden."
+ },
+ {
+  "k": "Chapter0_Ending.039",
+  "en": "Then come to the tea party on time!!"
+ },
+ {
+  "k": "Chapter0_Ending.040",
+  "en": "That was one of the main rules of our contract!"
+ },
+ {
+  "k": "Chapter0_Ending.041",
+  "en": "Always going on about rules and contracts... *yawning*"
+ },
+ {
+  "k": "Chapter0_Ending.042.1",
+  "en": "You're such a weirdo, Chloe."
+ },
+ {
+  "k": "Chapter0_Ending.042.2",
+  "en": "Since when do witches require rules and order to live?"
+ },
+ {
+  "k": "Chapter0_Ending.043",
+  "en": "Maybe if you did care, we wouldn't always end up in such trouble."
+ },
+ {
+  "k": "Chapter0_Ending.044",
+  "en": "S-Sil is the one in charge of invites! Blame her for taking so long!"
+ },
+ {
+  "k": "Chapter0_Ending.045.1",
+  "en": "No, I'm not!"
+ },
+ {
+  "k": "Chapter0_Ending.045.2",
+  "en": "It's just that nobody else ever bothers, so I have no choice in the end!"
+ },
+ {
+  "k": "Chapter0_Ending.046",
+  "en": "Fiiiine! Leave it all to me next time, ladies!"
+ },
+ {
+  "k": "Chapter0_Ending.047.1",
+  "en": "For the next— HIC! ...next tea party!"
+ },
+ {
+  "k": "Chapter0_Ending.047.2",
+  "en": "I'll come collect you all!"
+ },
+ {
+  "k": "Chapter0_Ending.048",
+  "en": "Even if it's Sil's job, it's unfair to make her do it every time, hehe!"
+ },
+ {
+  "k": "Chapter0_Ending.049",
+  "en": "It's not my job!"
+ },
+ {
+  "k": "Chapter0_Ending.050",
+  "en": "I... I promise... I promise I'll stay awake! HIC!"
+ },
+ {
+  "k": "Chapter0_Ending.051",
+  "en": "I won't drink anything until the next tea party! Not even water!!"
+ },
+ {
+  "k": "Chapter0_Ending.052",
+  "en": "I'm not convinced..."
+ },
+ {
+  "k": "Chapter0_Ending.053",
+  "en": "Me neither."
+ },
+ {
+  "k": "Chapter0_Ending.054",
+  "en": "Do you think we can rely on her, Chloe?"
+ },
+ {
+  "k": "Chapter0_Ending.055",
+  "en": "As long as the tea party happens on time, I don't care."
+ },
+ {
+  "k": "Chapter0_Ending.056",
+  "en": "Pfft! I'll stop by your place first, Sil! Make sure you're waiting for me!"
+ },
+ {
+  "k": "Chapter0_Ending.057",
+  "en": "I'm sure I'll be left waiting, all right..."
+ },
+ {
+  "k": "Chapter0_Ending.058",
+  "en": "..."
+ },
+ {
+  "k": "Chapter0_Ending.059",
+  "en": "Can I go home now?"
+ },
+ {
+  "k": "Chapter0_Ending.060",
+  "en": "You hear that, Berry?"
+ },
+ {
+  "k": "Chapter0_Ending.061",
+  "en": "What's the rush? How often are we all together like this? Let's have some more fun first!"
+ },
+ {
+  "k": "Chapter0_Ending.062",
+  "en": "...[...! ]......[...!!]"
+ },
+ {
+  "k": "Chapter0_Intro.000",
+  "en": "Long, long ago, witches were born from a boundless darkness."
+ },
+ {
+  "k": "Chapter0_Intro.001",
+  "en": "They knew neither why they were born, nor what their purpose was."
+ },
+ {
+  "k": "Chapter0_Intro.002",
+  "en": "Then, one day, the Dream Witch appeared in their world."
+ },
+ {
+  "k": "Chapter0_Intro.003",
+  "en": "This Dream Witch was able to create a world of her own design."
+ },
+ {
+  "k": "Chapter0_Intro.004",
+  "en": "Curious, the other witches asked if they could join her in her world."
+ },
+ {
+  "k": "Chapter0_Intro.005",
+  "en": "The Dream Witch graciously granted them entrance"
+ },
+ {
+  "k": "Chapter0_Intro.006",
+  "en": "and it became known as the Garden."
+ },
+ {
+  "k": "GameOverLevel.Once.001.1",
+  "en": "Oh no..."
+ },
+ {
+  "k": "GameOverLevel.Once.001.2",
+  "en": "Better luck next time!"
+ },
+ {
+  "k": "GameOverLevel.Once.002.1",
+  "en": "That's more like it! You're improving!"
+ },
+ {
+  "k": "GameOverLevel.Once.003.1",
+  "en": "There's no need to rush."
+ },
+ {
+  "k": "GameOverLevel.Once.003.2",
+  "en": "You'll do better next time."
+ },
+ {
+  "k": "GameOverLevel.Once.003.3",
+  "en": "...Maybe."
+ },
+ {
+  "k": "GameOverLevel.Once.004.1",
+  "en": "There's nothing worse than watching scissors cut through thin air."
+ },
+ {
+  "k": "GameOverLevel.Once.005.1",
+  "en": "Hmm..."
+ },
+ {
+  "k": "GameOverLevel.Once.005.2",
+  "en": "I'll pretend I didn't see that one."
+ },
+ {
+  "k": "GameOverLevel.Once.006.1",
+  "en": "Unfortunately, this is where this story ends."
+ },
+ {
+  "k": "GameOverLevel.Once.007.1",
+  "en": "Try not to be discouraged."
+ },
+ {
+  "k": "GameOverLevel.Once.007.2",
+  "en": "Very few people open the book straight to the right page."
+ },
+ {
+  "k": "GameOverLevel.Once.008.1",
+  "en": "I think you're getting the hang of it."
+ },
+ {
+  "k": "GameOverLevel.Once.008.2",
+  "en": "...That sounds familiar."
+ },
+ {
+  "k": "GameOverLevel.Repeat.001.1",
+  "en": "I'll lend you a paw if you're in trouble."
+ },
+ {
+  "k": "GameOverLevel.Repeat.001.2",
+  "en": "Oh, you don't need my help?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.001.3",
+  "en": "...Fine."
+ },
+ {
+  "k": "GameOverLevel.Repeat.002.1",
+  "en": "If you enjoy dying, it's not my place to interfere..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.002.2",
+  "en": "But aren't you doing it too often?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.003.1",
+  "en": "You were done before my tea even cooled down."
+ },
+ {
+  "k": "GameOverLevel.Repeat.003.2",
+  "en": "That has to be a new record."
+ },
+ {
+  "k": "GameOverLevel.Repeat.004.1",
+  "en": "Did you trip? Or get distracted?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.004.2",
+  "en": "Whatever it was, I'll chalk it down as a minor mishap."
+ },
+ {
+  "k": "GameOverLevel.Repeat.005.1",
+  "en": "Do you like lying on the floor or something?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.006.1",
+  "en": "I'm deeply disappointed..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.007.1",
+  "en": "..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.007.2",
+  "en": "Sorry, I dozed off."
+ },
+ {
+  "k": "GameOverLevel.Repeat.007.3",
+  "en": "Where did we get to?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.008.1",
+  "en": "Maybe I should start accepting bets on how far you'll get."
+ },
+ {
+  "k": "GameOverLevel.Repeat.009.1",
+  "en": "I'll have to caption this one..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.009.2",
+  "en": "An admirable effort."
+ },
+ {
+  "k": "GameOverLevel.Repeat.010.1",
+  "en": "Pfft! Look at your face!"
+ },
+ {
+  "k": "GameOverLevel.Repeat.010.2",
+  "en": "I'll have to frame this one."
+ },
+ {
+  "k": "GameOverLevel.Repeat.011.1",
+  "en": "There's no need to physically experience every last danger in the garden..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.012.1",
+  "en": "You're so quick, and agile, and... precise..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.012.2",
+  "en": "...When it comes to falling down."
+ },
+ {
+  "k": "GameOverLevel.Repeat.013.1",
+  "en": "Oof, that one hurt to watch."
+ },
+ {
+  "k": "GameOverLevel.Repeat.013.2",
+  "en": "...So I'll keep on only watching,"
+ },
+ {
+  "k": "GameOverLevel.Repeat.014.1",
+  "en": "No! Sil!!"
+ },
+ {
+  "k": "GameOverLevel.Repeat.014.2",
+  "en": "...Sorry, I got carried away."
+ },
+ {
+  "k": "GameOverLevel.Repeat.015.1",
+  "en": "You'll have to watch your step better."
+ },
+ {
+  "k": "GameOverLevel.Repeat.015.2",
+  "en": "Or... maybe look up more."
+ },
+ {
+  "k": "GameOverLevel.Repeat.016.1",
+  "en": "And the witches lived happily ever after in the boundless darkness..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.016.2",
+  "en": "Just kidding!"
+ },
+ {
+  "k": "GameOverLevel.Repeat.017.1",
+  "en": "An optimistic cat like me doesn't even blink when their companion falls down."
+ },
+ {
+  "k": "GameOverLevel.Repeat.018.1",
+  "en": "I'd heard it was human nature to repeat the same mistakes over and over."
+ },
+ {
+  "k": "GameOverLevel.Repeat.019.1",
+  "en": "Since you seem unaware, can I offer some advice?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.019.2",
+  "en": "May I suggest dodging enemy attacks?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.020.1",
+  "en": "I'm always rooting for you!"
+ },
+ {
+  "k": "GameOverLevel.Repeat.020.2",
+  "en": "But... Can you wake me up when you're finally done?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.021.1",
+  "en": "Aww, no!"
+ },
+ {
+  "k": "GameOverLevel.Repeat.021.2",
+  "en": "You were so close that time!"
+ },
+ {
+  "k": "GameOverLevel.Repeat.022.1",
+  "en": "Get your act together. The story's dragging out too long."
+ },
+ {
+  "k": "GameOverLevel.Repeat.023.1",
+  "en": "If it's any consolation, that was a cooler death than the last one."
+ },
+ {
+  "k": "GameOverLevel.Repeat.024.1",
+  "en": "I'll annotate this page if you want."
+ },
+ {
+  "k": "GameOverLevel.Repeat.024.2",
+  "en": "\"Sil dies here.\""
+ },
+ {
+  "k": "GameOverLevel.Repeat.025.1",
+  "en": "Sil didn't care much about dying."
+ },
+ {
+  "k": "GameOverLevel.Repeat.025.2",
+  "en": "She just wanted to move on to the next part of the story."
+ },
+ {
+  "k": "GameOverLevel.Repeat.026.1",
+  "en": "Oh, how sad... Genuinely."
+ },
+ {
+  "k": "GameOverLevel.Repeat.026.2",
+  "en": "Ah well, there's always next time."
+ },
+ {
+  "k": "GameOverLevel.Repeat.027.1",
+  "en": "You need to focus a little harder."
+ },
+ {
+  "k": "GameOverLevel.Repeat.027.2",
+  "en": "Try doing some stretches..."
+ },
+ {
+  "k": "GameOverLevel.Repeat.027.3",
+  "en": "...and then we can give this another try."
+ },
+ {
+  "k": "GameOverLevel.Repeat.028.1",
+  "en": "Oh well......"
+ },
+ {
+  "k": "GameOverLevel.Repeat.028.2",
+  "en": "You're not going to fill this entire book with Sil's face, are you?"
+ },
+ {
+  "k": "GameOverLevel.Repeat.029.1",
+  "en": "This must be the death number... {$cnt1}? No, {$cnt2}!"
+ }
+]

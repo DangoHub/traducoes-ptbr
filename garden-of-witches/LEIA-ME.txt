@@ -1,0 +1,46 @@
+==============================================================
+  GARDEN OF WITCHES — TRADUÇÃO PARA PORTUGUÊS DO BRASIL (PT-BR)
+==============================================================
+
+O QUE ESTÁ TRADUZIDO
+  - Toda a história (diálogos dos capítulos, epílogos e ligações)
+  - Toda a interface (menus, armas, feitiços, relíquias, atributos,
+    descrições, dicas e mensagens)
+
+COMO INSTALAR
+  1. Feche o jogo.
+  2. Execute "Instalador_Traducao_PTBR_Garden_of_Witches.exe"
+     (o Windows vai pedir permissão de administrador, pois o jogo
+     fica em "Arquivos de Programas").
+  3. O instalador encontra o jogo automaticamente pela Steam.
+     Se não encontrar, clique em "Procurar..." e escolha a pasta
+     onde está o "Garden of Witches.exe".
+  4. Clique em "Instalar tradução".
+  5. Abra o jogo e escolha o idioma "English" nas configurações.
+     A tradução PT-BR substitui o texto em inglês.
+
+COMO DESINSTALAR
+  - Abra o instalador e clique em "Desinstalar", ou
+  - Na Steam: botão direito no jogo > Propriedades > Arquivos
+    instalados > Verificar integridade dos arquivos.
+
+ATUALIZAÇÕES DO JOGO
+  Se a Steam atualizar o jogo, a tradução pode ser removida.
+  Basta rodar o instalador de novo. Textos novos que ainda não
+  foram traduzidos aparecem em inglês, sem quebrar o jogo.
+
+AVISO DO WINDOWS SMARTSCREEN
+  Por ser um executável sem assinatura digital, o Windows pode
+  mostrar "O Windows protegeu o computador". Clique em
+  "Mais informações" > "Executar assim mesmo". O código-fonte do
+  instalador está na pasta "fonte" deste zip.
+
+DETALHES TÉCNICOS
+  O instalador altera apenas o arquivo
+  "Garden of Witches_Data\resources.assets": acrescenta as
+  tabelas de texto traduzidas no final do arquivo e redireciona
+  os ponteiros. O backup necessário para desinstalar fica em
+  "Garden of Witches_Data\ptbr_mod_backup.json".
+
+Tradução de fãs, sem fins lucrativos. Garden of Witches
+pertence à Team Tapas.

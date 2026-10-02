@@ -1,0 +1,1378 @@
+[
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.000",
+  "en": "Wait, Sil."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.001",
+  "en": "There's something here that's caught my attention..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.002",
+  "en": "Rims, we don't have time for that right now."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.003",
+  "en": "Sniff, sniff... Sniff, sniff..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.004",
+  "en": "Seriously... What are you doing?"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.005",
+  "en": "No, I mean... this damaged artifact..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.006",
+  "en": "I can faintly feel the Jewel Witch's power in it."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.007",
+  "en": "Take a look."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.008",
+  "en": "Y-You don't feel anything?"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.009",
+  "en": "Hmm... I don't know."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.010",
+  "en": "My senses aren't as sharp as yours."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.011",
+  "en": "Hmm... Am I imagining it?"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.012",
+  "en": "If it bothers you that much, let's take it for now."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.013",
+  "en": "Bazira might know something."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.014",
+  "en": "Th-Then while we're taking it, maybe we could quietly grab some other valuables..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Small.015",
+  "en": "I said we don't have time for that."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.000",
+  "en": "Sniff, sniff..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.001",
+  "en": "I can sense a witch's trace around here."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.002",
+  "en": "But it's a dead end."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.003",
+  "en": "It seems the trace is coming from this artifact..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.004",
+  "en": "Tch, how misleading."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.005",
+  "en": "In other words, it's an item the witch put a lot of work into."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.Restorer_Met.006",
+  "en": "Let's take it to the conservator."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.Restorer_Met.007",
+  "en": "Like the other artifacts, it might be useful somehow."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.Restorer_NotYetMet.008",
+  "en": "It might be a clue to finding the Jewel Witch."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_0.Restorer_NotYetMet.009",
+  "en": "Let's take it, just in case."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.000",
+  "en": "Wow! Look, Sil."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.001",
+  "en": "It's a huge jewel!"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.002",
+  "en": "I said don't touch things without permission."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.003",
+  "en": "Let's just see..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.004",
+  "en": "Ah...!"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.005",
+  "en": "I-It crumbled."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.006",
+  "en": "Sigh, I knew that would happen..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.Restorer_Met.007",
+  "en": "Let's take it to the conservator."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.Restorer_Met.008",
+  "en": "They'll restore it to its original form."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.Restorer_NotYetMet.009",
+  "en": "If it was displayed so carefully in a place like this, there must be a reason."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_1.Restorer_NotYetMet.010",
+  "en": "It's broken now, but let's take it with us."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.000",
+  "en": "Hehe, even gathering the valuables around here would fill our pockets."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.001",
+  "en": "And on top of that, there's a valuable-looking artifact just sitting here."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.002",
+  "en": "Before long, we could use this as capital to renovate our club... Hehe."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.003",
+  "en": "I think you're misunderstanding our objective..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.004",
+  "en": "We're only taking it because it might help us find the Jewel Witch."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.005",
+  "en": "Oh, of course I know that."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.Restorer_Met.006",
+  "en": "If it's restored to its original form, it'll fetch a much higher price, right?"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.Restorer_Met.007",
+  "en": "Heh heh heh..."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.Restorer_Met.008",
+  "en": "Sigh, honestly."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.Restorer_Met.009",
+  "en": "I'm only interested in what this artifact can do."
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.Restorer_NotYetMet.010",
+  "en": "In that spirit, shall we grab this one too?"
+ },
+ {
+  "k": "Desert_Room_Story_ObtainJewel_Big_2.Restorer_NotYetMet.011",
+  "en": "Don't blame me if the owner gets mad later."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.000",
+  "en": "Cough, cough!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.001",
+  "en": "Ugh... It feels like dust and poison fog have soaked into my whole body."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.002",
+  "en": "D-Don't worry. It's not that bad."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.003",
+  "en": "What, did you save me?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.004",
+  "en": "You could say that."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.005",
+  "en": "Suspicious... You didn't touch my body, did you?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.006",
+  "en": "I was thinking of keeping one toe as a specimen."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.007",
+  "en": "What?!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.008",
+  "en": "I-I'm joking."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.009",
+  "en": "...Forget it. I can't believe this happened to us..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.010",
+  "en": "Where is Bazira? I need to have a word with her."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.011",
+  "en": "Oh my, oh my~"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.012",
+  "en": "Is your search going smoothly~?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.013",
+  "en": "How bold of you to show your face..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.014",
+  "en": "Going smoothly, you ask?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.015",
+  "en": "It would have gone a lot more smoothly if you'd told us everything you knew about that realm."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.016",
+  "en": "Well, I made it out fine."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.017",
+  "en": "Sil seems thoroughly angry."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.018",
+  "en": "That's right. You tricked us."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.019",
+  "en": "Oh my, tricked you?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.020",
+  "en": "I was merely placing my trust in you all."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.021",
+  "en": "In particular, I had heard rumors that Sil survived even inside a nightmare."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.022",
+  "en": "So I assumed traps of that level would be no issue..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.023",
+  "en": "The rumors are exaggerated."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.024",
+  "en": "Compared to that, Rims looks perfectly well!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.025",
+  "en": "Impressive, as expected~!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.026",
+  "en": "You might even be exceptional among the witches I have seen..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.027",
+  "en": "R-Really? Hehe..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.028",
+  "en": "R-Really... Talent just can't be hidden."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.029",
+  "en": "Good grief... How can you fall for her flattery so easily?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.030",
+  "en": "Please do not be so harsh. As an apology, I will give you something useful."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.031",
+  "en": "Would you accept this?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.032",
+  "en": "What is it?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.033",
+  "en": "It is a tool that detects poison fog."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.034",
+  "en": "With it, you should be able to tell which places in the ruins are dangerous."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.035",
+  "en": "Do you have a tool that protects us from the poison fog?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.036",
+  "en": "If such an item existed, we would very much like to obtain it ourselves."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.037",
+  "en": "It is the only one we have, so please handle it with care!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.038",
+  "en": "It's better than nothing... I'll take it for now."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_001.039",
+  "en": "Phew... We'll need to choose our route carefully from now on."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.000",
+  "en": "Whoa!"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.001",
+  "en": "Ugh... That chilling feeling. I really can't get used to it."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.002",
+  "en": "Did you have a comfortable trip?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.003",
+  "en": "No..."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.004",
+  "en": "Waking up trapped in a narrow coffin isn't exactly pleasant."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.005",
+  "en": "Should I decorate the inside nicely for you?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_002.006",
+  "en": "That's not the issue."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_003.000",
+  "en": "Ugh, I nearly died."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_003.001",
+  "en": "No, you died and came back to life."
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_003.002",
+  "en": "If you're going to keep going back and forth between life and death, why not live as half-dead instead?"
+ },
+ {
+  "k": "ChapterE2_Entrance.OnEnter.DeathCount_003.003",
+  "en": "I'll pass on that..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.000",
+  "en": "Hey, you..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.001",
+  "en": "You're not hiding anything else about the ruins, are you?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.002",
+  "en": "Yes~ Of course not~!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.003",
+  "en": "Ah, Sil."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.004",
+  "en": "About those artifacts... Why don't we have them checked?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.005",
+  "en": "Hmm?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.006",
+  "en": "Oh, right! We found those artifacts in the realm."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.007",
+  "en": "I forgot about them while we were bickering."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.008",
+  "en": "Hmm? Which artifacts do you mean?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.009",
+  "en": "This one..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.010",
+  "en": "Can you tell what it is?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.011",
+  "en": "Oh my, this is one of the works left by the Jewel Witch."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.012",
+  "en": "But to damage such a work this badly..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.013",
+  "en": "I-It was broken from the start...!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.014",
+  "en": "Don't let Bazira drag you along."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.015",
+  "en": "Rims says she can feel a witch's presence from it."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.016",
+  "en": "Do you know anything?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.017",
+  "en": "Perhaps you sensed the power left behind by the Jewel Witch?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.018",
+  "en": "Her lingering power?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.019",
+  "en": "Yes!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.020",
+  "en": "The Jewel Witch is a consummate artisan."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.021",
+  "en": "Some of the artifacts she creates are made with particular care..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.022",
+  "en": "...and can even retain a trace of her own power, like this one."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.023",
+  "en": "Ah, I see."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.024",
+  "en": "It should look no different from the other exhibits, yet you distinguished it..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.025",
+  "en": "You truly have an excellent eye!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.026",
+  "en": "Huh, r-really...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.027",
+  "en": "Rather than an eye, maybe it's my nose that's good... Hehe."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.028",
+  "en": "Is there any way we can use this power?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.029",
+  "en": "Hmm..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.030",
+  "en": "If it undergoes restoration, I believe it could be of use to you."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.031",
+  "en": "Restoration?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.032",
+  "en": "We have a conservator in our caravan. Would you like to meet them?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.033",
+  "en": "You're not going to charge us a hefty fee for it, are you?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.034",
+  "en": "Of course not~ Ohoho!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.035",
+  "en": "Please think of it as goodwill from an investor!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkBazira.JewelRestorer_NotYetMet.036",
+  "en": "Then let's go see the conservator."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.000",
+  "en": "Hello, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.001",
+  "en": "Are you the conservator Bazira mentioned?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.002",
+  "en": "Yes ma'am, that's me!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.003",
+  "en": "Y-You don't exactly look dependable..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.004",
+  "en": "Can you really repair broken artifacts?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.005",
+  "en": "Of course I can, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.006",
+  "en": "I can fix just about anything in no time!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.007",
+  "en": "Even things I can't fix, I'll find a way if Master orders me to!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.008",
+  "en": "That's some impressive loyalty..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.009",
+  "en": "So do you all belong to Bazira?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.010",
+  "en": "Oh, no ma'am, not that."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.011",
+  "en": "Huh? Then why are you in such a remote place...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.012",
+  "en": "If I work hard, Master gives me coins!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.013",
+  "en": "Gonna work hard and get lots of coins!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.014",
+  "en": "I'll collect lots and lots..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.015",
+  "en": "And then use them to collect even more coins!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.016",
+  "en": "Hehe... Feels good just thinking about it."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.017",
+  "en": "Like witch, like minions."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.018",
+  "en": "Yeah... We should probably just talk about the artifacts."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.019",
+  "en": "Anyway, you can repair these artifacts, right?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.020",
+  "en": "Of course, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.FirstTalk.021",
+  "en": "Just show me the item, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.000",
+  "en": "Phew — job complete, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.001",
+  "en": "What is this?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.002",
+  "en": "First time I've seen it too, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.003",
+  "en": "But it's a dangerous weapon for sure!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.004",
+  "en": "A weapon?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.005",
+  "en": "Looks like a self-defense weapon made by the Jewel Witch."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.006",
+  "en": "However, so Sil can handle it..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.007",
+  "en": "Made a few adjustments!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.008",
+  "en": "Oh?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.009",
+  "en": "I might try using it on the pests in the ruins."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.010",
+  "en": "But handle it with care, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.011",
+  "en": "The energy coming off this artifact tingles!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.012",
+  "en": "I-Is that so...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.013",
+  "en": "Maybe I'll test whether it works properly on you~?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.014",
+  "en": "!!!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.015",
+  "en": "Waaah~! Boss! Rims is picking on me!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.016",
+  "en": "Don't tease them too much."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreScissor.017",
+  "en": "Hehehe."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.000",
+  "en": "Restoration complete!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.001",
+  "en": "This is a tool containing a magic spell!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.002",
+  "en": "What kind of spell?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.003",
+  "en": "No idea, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.004",
+  "en": "Fix things, get coins! After that, none of my business!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.005",
+  "en": "What did you say?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.006",
+  "en": "Eek~! Scary when you glare at me, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.007",
+  "en": "D-Don't worry, Sil."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.008",
+  "en": "This magic definitely belongs to the Jewel Witch."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.009",
+  "en": "It has the same presence I sensed in the realm."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.010",
+  "en": "If we handle it well, it could be useful."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.011",
+  "en": "So that's what it is."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreMagic.012",
+  "en": "All right. More options never hurt."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.000",
+  "en": "H-Here's the item you asked for, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.001",
+  "en": "What's wrong? Why the sudden stammer?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.002",
+  "en": "N-Nothing, ma'am! F-Fixed it perfectly!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.003",
+  "en": "Suspicious..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.004",
+  "en": "Oh~ Really?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.005",
+  "en": "Let's see... Maybe I should check if anything's wrong~?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.006",
+  "en": "...U-Ugh...!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.007",
+  "en": "S-Sorry, ma'am...! Made one teeny-tiny mistake!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.008",
+  "en": "But it should still work... probably!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.009",
+  "en": "Probably...?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.010",
+  "en": "D-Definitely, ma'am! It works, no problems!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.011",
+  "en": "Hehe, what should I do? Maybe I should tell Bazira..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.012",
+  "en": "A-Anything but that!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.013",
+  "en": "My pay will get docked...!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.014",
+  "en": "Poor thing."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.RestoreFineJewel.015",
+  "en": "Don't worry. As long as it works properly, there's no problem."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.000",
+  "en": "Ah, one second, ma'am!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.001",
+  "en": "Master told me to give this to you too!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.002",
+  "en": "Hmm?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.003",
+  "en": "Bazira told you to give it to me?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.004",
+  "en": "That's right, ma'am. Take this!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.005",
+  "en": "What is it?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.006",
+  "en": "Very precious, this one!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.007",
+  "en": "With this...!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.008",
+  "en": "You can use it to detect nearby artifacts!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.009",
+  "en": "Find more artifacts with this, and I'll fix them right up!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.010",
+  "en": "Hmm. So it's a kind of detector."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.011",
+  "en": "Thanks. I'll make good use of it."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.012",
+  "en": "That's right. We made it for ourselves, actually..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.013",
+  "en": "But it was too much for us to use."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.014",
+  "en": "That realm is way too dangerous... Lots of our friends fell..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.015",
+  "en": "And they didn't even have insurance..."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.016",
+  "en": "That's... unfortunate."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.017",
+  "en": "N-Now you bring this out?"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.018",
+  "en": "You must still be hiding more tools."
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.019",
+  "en": "You'd better hand them all over. Otherwise...!"
+ },
+ {
+  "k": "ChapterE2_Entrance.TalkJewelRestorer.OnFirstCloseRestoreUI.020",
+  "en": "W-Waaah~! There's really nothing left!"
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.000",
+  "en": "Ooh, look at that, Sil."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.001",
+  "en": "That one is different from the ones we've seen before."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.002",
+  "en": "Sniff, sniff..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.003",
+  "en": "That thing smells like a witch."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.004",
+  "en": "What, don't tell me that's the Jewel Witch."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.005",
+  "en": "There really are witches of all shapes in the Garden."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.006",
+  "en": "A-As if that could be true..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.007",
+  "en": "What I'm saying is..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.008",
+  "en": "That thing was made with great care by the Jewel Witch."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.009",
+  "en": "So that's it."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.010",
+  "en": "Meaning it's different from everything we've met so far?"
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.011",
+  "en": "E-Exactly..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.012",
+  "en": "And it's probably worth much more..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.013",
+  "en": "Sil, can you defeat it without leaving a single scratch on its body?"
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.014",
+  "en": "Be reasonable."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.OnEnter.MiddleBossTalkCount_0.015",
+  "en": "Whatever it is, we have to defeat the thing blocking our path."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.000",
+  "en": "Ahh~ It all broke."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.001",
+  "en": "No matter how valuable a jewel is, if it blocks our path, it has to go."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.002",
+  "en": "I wonder if the Jewel Witch thinks the same way."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.003",
+  "en": "Hmm... The Jewel Witch."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.004",
+  "en": "Rims, you said you've met that witch before."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.005",
+  "en": "Tell me what she's like."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.006",
+  "en": "A haughty witch, I suppose..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.007",
+  "en": "In any case, she's fussy about everything."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.008",
+  "en": "I-If she learns we ran wild in her realm, she won't stay quiet."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.009",
+  "en": "If she cares about her realm that much, she should've stayed and protected it."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.010",
+  "en": "Hmm. On the other hand, it means a witch like that disappeared..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.011",
+  "en": "I can understand why Bazira is worried."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.012",
+  "en": "D-Don't worry. We'll find her soon..."
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.013",
+  "en": "We're going in the right direction, aren't we?"
+ },
+ {
+  "k": "Desert_Room_Story_MiddleBoss.AfterBattle.MiddleBossKillCount_0.014",
+  "en": "O-Of course. The farther we go, the stronger the witch's trace feels..."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.000",
+  "en": "!!"
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.001",
+  "en": "That is... Don't tell me..."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.002",
+  "en": "Th-That has to be a nightmare."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.003",
+  "en": "Why would it appear in a place like this?!"
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.004",
+  "en": "Nightmares are supposed to appear in the Garden when Nahatra wakes up."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.005",
+  "en": "Sniff, sniff... Sniff, sniff..."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.006",
+  "en": "What are you doing?"
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.007",
+  "en": "Th-This is the smell...!"
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.008",
+  "en": "D-Do you remember... when I said there was a strange smell?"
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.009",
+  "en": "Yes, when we first came here."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.010",
+  "en": "I-It looks like this is what it was."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.011",
+  "en": "You're right... Even to me, this feels out of place."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.012",
+  "en": "Its very shape is different from the nightmares we've seen before."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.013",
+  "en": "C-Can't we just go back now...?"
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.014",
+  "en": "I-I have a bad feeling about this..."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.015",
+  "en": "I understand how you feel, but..."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.016",
+  "en": "If a nightmare is involved, we can't ignore it."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.017",
+  "en": "Besides... If we pretend we didn't see it now, we'll definitely suffer more later."
+ },
+ {
+  "k": "Desert_Room_Story_FindMirrorWitchTrace.OnEnter.FirstTalk.018",
+  "en": "Ugh..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.000",
+  "en": "When we find the Jewel Witch, I'm definitely going to ask her."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.001",
+  "en": "Why she needed such a huge realm."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.002",
+  "en": "I-I'm sure she'll answer like this."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.003",
+  "en": "Your realm is simply too small!"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.004",
+  "en": "What I mean is... look at that."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.005",
+  "en": "Do you really need to put something like that there to protect a realm?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.006",
+  "en": "Sil, think about what that huge thing is protecting instead."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.007",
+  "en": "I'm sure the most precious treasures are gathered there."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.008",
+  "en": "Since we've come this far, let's take them all!"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.009",
+  "en": "They don't have an owner anyway, right? Hehe..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.010",
+  "en": "Rims, could you please stop forgetting our objective?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.011",
+  "en": "Forget the treasure. I want to find the Jewel Witch and go home."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.012",
+  "en": "Aside from that place, there is nowhere else left to search..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.013",
+  "en": "W-Waaah...! It's moving!!"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.014",
+  "en": "Please, Sil!"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.BeforeFight.DeathCount_000.015",
+  "en": "Sigh. Nothing ever goes smoothly."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.000",
+  "en": "Phew, it was huge but nothing special."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.001",
+  "en": "You're one to talk."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.002",
+  "en": "Ah. The door opened."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.003",
+  "en": "Looks like that thing was acting as the lock."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.004",
+  "en": "That has to be the source of the nightmare..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.005",
+  "en": "Hasn't the Jewel Witch already been devoured by the nightmare?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.006",
+  "en": "At the very least, we need to see what happened."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.007",
+  "en": "What's wrong?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.008",
+  "en": "N-No, it's just..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.009",
+  "en": "That strange feeling I sensed is getting stronger and stronger."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.010",
+  "en": "What I sense beyond there is definitely a witch's presence, but..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.011",
+  "en": "An ordinary witch couldn't have a smell like this."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.012",
+  "en": "I-I know it by instinct..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.013",
+  "en": "What do you mean?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.014",
+  "en": "S-Sorry..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.015",
+  "en": "It's the first time I've felt this... I don't know what it is..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.016",
+  "en": "I-It's just... kind of scary..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.017",
+  "en": "You're scared?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.018",
+  "en": "I never thought I'd hear that from you..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.019",
+  "en": "......"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.020",
+  "en": "All right. From here, I'll go alone."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.021",
+  "en": "You watch from here, and if anything goes wrong..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.022",
+  "en": "You mean I should go to Nahatra, right?"
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.023",
+  "en": "Yes."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.024",
+  "en": "I-I will."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.025",
+  "en": "S-Sorry... that I can't go with you..."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.026",
+  "en": "It's fine. Just keep an eye on the area."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.027",
+  "en": "The Jewel Witch might be somewhere nearby."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.028",
+  "en": "I've never seen Rims that scared before."
+ },
+ {
+  "k": "Desert_Room_999_LastBoss.AfterFight.029",
+  "en": "What on earth is beyond here?"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.000",
+  "en": "A mirror...?"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.001",
+  "en": "Is it some kind of cursed mirror?"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.002",
+  "en": "It looks like the source of the problem. I should break it."
+ },
+ {
+  "k": "ChapterE2_EndingRoom.003",
+  "en": "Huh...? M-My body is being pulled in...!"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.004",
+  "en": "Waaah!!"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.005",
+  "en": "Sil! The nightmare suddenly disappeared—"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.006",
+  "en": "Huh...?"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.007",
+  "en": "Sil~! Where did you go?"
+ },
+ {
+  "k": "ChapterE2_EndingRoom.008",
+  "en": "...Sil?"
+ },
+ {
+  "k": "ChapterE3_1_Home.000",
+  "en": "Ugh..."
+ },
+ {
+  "k": "ChapterE3_1_Home.001",
+  "en": "Where... am I...?"
+ },
+ {
+  "k": "ChapterE3_1_Home.002",
+  "en": "I was just... in another witch's realm..."
+ },
+ {
+  "k": "ChapterE3_1_Home.003",
+  "en": "...Ugh, I can't remember anything."
+ },
+ {
+  "k": "ChapterE3_1_Home.004",
+  "en": "It's like my head is full of fog."
+ },
+ {
+  "k": "ChapterE3_1_Home.005",
+  "en": "What is this place?"
+ },
+ {
+  "k": "ChapterE3_1_Home.006",
+  "en": "I know I've seen this place before..."
+ },
+ {
+  "k": "ChapterE3_1_Home.007",
+  "en": "But it feels like only a piece of it was cut out and put here."
+ },
+ {
+  "k": "ChapterE3_1_Home.008",
+  "en": "Why can't I remember anything?"
+ },
+ {
+  "k": "ChapterE3_1_Home.009",
+  "en": "And why did I come here in the first place?"
+ },
+ {
+  "k": "ChapterE3_1_Home.010",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_1_Home.011",
+  "en": "This isn't getting me anywhere. I should get moving."
+ }
+]

@@ -1,0 +1,1414 @@
+[
+ {
+  "k": "ChapterE3_1_Fight_1.OnEnter.000",
+  "en": "What is this place...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnEnter.001",
+  "en": "I've never seen her before."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnEnter.002",
+  "en": "I wonder if I can communicate with her..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnEnter.003",
+  "en": "Hey, do you know where this is? I'm kind of lost..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnEnter.004",
+  "en": "Whoa...!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnEnter.005",
+  "en": "So you want a fight?!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.000",
+  "en": "What is this...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.001",
+  "en": "A shard of mirror...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.002",
+  "en": "Something is glowing inside it..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.003",
+  "en": "Ugh...!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.004",
+  "en": "!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.005",
+  "en": "I remember! I went to Lapis Market to get ready for the tea party..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.006",
+  "en": "We went through a lot trying to find the Jewel Witch."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.007",
+  "en": "Then I got dragged into that strange mirror."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.008",
+  "en": "Bazira, Rims, and the other witches..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.009",
+  "en": "I wonder if they're looking for me by now."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.010",
+  "en": "Looking for me... for... me..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.011",
+  "en": "Who... am I?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.012",
+  "en": "What was my name...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.013",
+  "en": "No. I shouldn't overthink it."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.014",
+  "en": "What matters is that touching the glowing mirror brought my memories back."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.015",
+  "en": "I don't know whether this is a curse or some kind of magic..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.016",
+  "en": "My name and the rest of my memories must be inside the other mirror shards."
+ },
+ {
+  "k": "ChapterE3_1_Fight_1.OnBattleFinished.017",
+  "en": "I should look for the other shards."
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.000",
+  "en": "I can feel it. This is part of my memory too."
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.001",
+  "en": "A realm that tears a witch's mind into pieces... What kind of place is this?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.002",
+  "en": "All right. My head is still foggy, but..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.003",
+  "en": "I think my memories are coming back, little by little."
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.004",
+  "en": "Once I have all my memories back, then..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.005",
+  "en": "This realm must have a witch who owns it too, right?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_2.OnBattleFinished.006",
+  "en": "I'll ask her to let me out of here."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnEnter.000",
+  "en": "Hello there, creepy friend."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnEnter.001",
+  "en": "That look... Are you copying me?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnEnter.002",
+  "en": "Wow... Have I ever screamed like that...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.000",
+  "en": "Right. This is my face."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.001",
+  "en": "But I still can't remember my name..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.002",
+  "en": "It'd help if you could tell me."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.003",
+  "en": "Your name is Sil."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.004",
+  "en": "!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.005",
+  "en": "That's right. My name is Sil."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.006",
+  "en": "Sil, who lives in a little house. Sil, who loves cutting with scissors."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.007",
+  "en": "Sil, who lives in a house spacious enough for her. Sil, who loves sewing."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.008",
+  "en": "Yes. I remember everything now."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.009",
+  "en": "If you're part of me, could you stop standing there and come back?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.010",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.011",
+  "en": "Be careful. She's coming."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.012",
+  "en": "What?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.013",
+  "en": "Hello, Sil."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.014",
+  "en": "Who were you talking to?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.015",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.016",
+  "en": "Nothing important. I was having a little talk with myself."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.017",
+  "en": "Oh. I know what you mean."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.018",
+  "en": "I talk to countless versions of myself too."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.019",
+  "en": "What did you say?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.020",
+  "en": "Who are you, anyway?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.021",
+  "en": "Are you the witch who rules this realm?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.022",
+  "en": "You're asking who I am...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.023",
+  "en": "Hehe... What a funny joke."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.024",
+  "en": "I'm Nahatra."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.025",
+  "en": "Your friend. The Dream Witch. The seed of the garden."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.026",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.027",
+  "en": "All right. I'll leave that for now."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.028",
+  "en": "Could you explain where we are?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.029",
+  "en": "Sil, what are you talking about all of a sudden?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.030",
+  "en": "This is the garden. Our garden."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.031",
+  "en": "Look. If a place this beautiful isn't the garden, what else could it be?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.032",
+  "en": "The garden isn't some place full of cheap imitations."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.033",
+  "en": "......"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.034",
+  "en": "What do you mean, Sil?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.035",
+  "en": "I don't know who you are, but..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.036",
+  "en": "You'd better let me out of here."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.037",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.038",
+  "en": "It looks like you need a little more time."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.039",
+  "en": "I'll let you spend some time somewhere quiet."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.040",
+  "en": "Don't worry. I'll call you back when the tea party begins... Hehe...!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.041",
+  "en": "What?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.042",
+  "en": "Ah...!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.043",
+  "en": "I can't believe the floor gave way...!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.044",
+  "en": "Where am I falling to?!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.045",
+  "en": "This darkness... It's like the nightmare..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.046",
+  "en": "No... deeper than that... Could this be outside the garden...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.047",
+  "en": "S-Somebody help me!"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.048",
+  "en": "There is no need to shout. I can hear you perfectly well, Sil."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.049",
+  "en": "...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.050",
+  "en": "Who...? Nahatra...?"
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.051",
+  "en": "Sorry to disappoint you, but I am not Nahatra."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.052",
+  "en": "You're..."
+ },
+ {
+  "k": "ChapterE3_1_Fight_Boss.OnBattleFinished.053",
+  "en": "Take my hand."
+ },
+ {
+  "k": "ChapterE3_2_Home.000",
+  "en": "Phew... Thanks for helping me."
+ },
+ {
+  "k": "ChapterE3_2_Home.001",
+  "en": "Yes, feel free to thank me as much as you like."
+ },
+ {
+  "k": "ChapterE3_2_Home.002",
+  "en": "You were in serious danger, after all."
+ },
+ {
+  "k": "ChapterE3_2_Home.003",
+  "en": "But who are you...?"
+ },
+ {
+  "k": "ChapterE3_2_Home.004",
+  "en": "What? You do not remember me? We met at the tea party."
+ },
+ {
+  "k": "ChapterE3_2_Home.005",
+  "en": "Sorry, but I really don't remember."
+ },
+ {
+  "k": "ChapterE3_2_Home.006",
+  "en": "Hah... To think I must introduce myself twice."
+ },
+ {
+  "k": "ChapterE3_2_Home.007",
+  "en": "I suppose it cannot be helped. Your memories are still fragmented..."
+ },
+ {
+  "k": "ChapterE3_2_Home.008",
+  "en": "I am Shasha. Shasha, the Jewel Witch."
+ },
+ {
+  "k": "ChapterE3_2_Home.009",
+  "en": "Don't ever forget me again. Got it?"
+ },
+ {
+  "k": "ChapterE3_2_Home.010",
+  "en": "The Jewel Witch..."
+ },
+ {
+  "k": "ChapterE3_2_Home.011",
+  "en": "Oh! You're the missing witch Bazira was looking for!"
+ },
+ {
+  "k": "ChapterE3_2_Home.012",
+  "en": "As I thought, Bazira has been looking for me."
+ },
+ {
+  "k": "ChapterE3_2_Home.013",
+  "en": "Then go to Bazira at once and tell her."
+ },
+ {
+  "k": "ChapterE3_2_Home.014",
+  "en": "Tell her the most beautiful witch in the garden is trapped inside a mirror!"
+ },
+ {
+  "k": "ChapterE3_2_Home.015",
+  "en": "...Sorry, but I'm trapped too."
+ },
+ {
+  "k": "ChapterE3_2_Home.016",
+  "en": "How dare you!"
+ },
+ {
+  "k": "ChapterE3_2_Home.017",
+  "en": "When speaking to me, your only answers are \"Yes\" or \"Understood\"!"
+ },
+ {
+  "k": "ChapterE3_2_Home.018",
+  "en": "What's with her...?"
+ },
+ {
+  "k": "ChapterE3_2_Home.019",
+  "en": "All right... Let's sort out what's going on first."
+ },
+ {
+  "k": "ChapterE3_2_Home.020",
+  "en": "So, how did you get dragged in here?"
+ },
+ {
+  "k": "ChapterE3_2_Home.021",
+  "en": "...A mirror."
+ },
+ {
+  "k": "ChapterE3_2_Home.022",
+  "en": "As always, I was about to admire my beautiful reflection in the mirror..."
+ },
+ {
+  "k": "ChapterE3_2_Home.023",
+  "en": "But the reflection wasn't mine."
+ },
+ {
+  "k": "ChapterE3_2_Home.024",
+  "en": "There was someone else inside the mirror, and the moment I felt dizzy..."
+ },
+ {
+  "k": "ChapterE3_2_Home.025",
+  "en": "When I came to, I was inside this mirror world."
+ },
+ {
+  "k": "ChapterE3_2_Home.026",
+  "en": "So the mirror really is the gateway."
+ },
+ {
+  "k": "ChapterE3_2_Home.027",
+  "en": "The one who attacked me earlier must be behind this, right?"
+ },
+ {
+  "k": "ChapterE3_2_Home.028",
+  "en": "It looked like it was imitating Nahatra..."
+ },
+ {
+  "k": "ChapterE3_2_Home.029",
+  "en": "Yes. That thing is imitating Nahatra's form."
+ },
+ {
+  "k": "ChapterE3_2_Home.030",
+  "en": "Not only that. Everything in this realm is an imitation of the garden."
+ },
+ {
+  "k": "ChapterE3_2_Home.031",
+  "en": "Sil! I cannot tolerate such a complete lack of aesthetic sense!"
+ },
+ {
+  "k": "ChapterE3_2_Home.032",
+  "en": "We must teach the Mirror Witch a lesson. You will help me!"
+ },
+ {
+  "k": "ChapterE3_2_Home.033",
+  "en": "The Mirror Witch?"
+ },
+ {
+  "k": "ChapterE3_2_Home.034",
+  "en": "What else would you call her?"
+ },
+ {
+  "k": "ChapterE3_2_Home.035",
+  "en": "A witch who uses mirrors to imitate everything..."
+ },
+ {
+  "k": "ChapterE3_2_Home.036",
+  "en": "A fitting name, is it not?"
+ },
+ {
+  "k": "ChapterE3_2_Home.037",
+  "en": "Fair enough."
+ },
+ {
+  "k": "ChapterE3_2_Home.038",
+  "en": "What does the Mirror Witch want? Why did she abduct us?"
+ },
+ {
+  "k": "ChapterE3_2_Home.039",
+  "en": "Could it have something to do with that tea party she mentioned?"
+ },
+ {
+  "k": "ChapterE3_2_Home.040",
+  "en": "I haven't figured that out yet either."
+ },
+ {
+  "k": "ChapterE3_2_Home.041",
+  "en": "But it doesn't seem as though she simply wants to hurt us."
+ },
+ {
+  "k": "ChapterE3_2_Home.042",
+  "en": "I wish we had some kind of clue."
+ },
+ {
+  "k": "ChapterE3_2_Home.043",
+  "en": "This is the only thing I've found since I got here."
+ },
+ {
+  "k": "ChapterE3_2_Home.044",
+  "en": "This is...!"
+ },
+ {
+  "k": "ChapterE3_2_Home.045",
+  "en": "I see. So that is how it is..."
+ },
+ {
+  "k": "ChapterE3_2_Home.046",
+  "en": "Did you figure something out?"
+ },
+ {
+  "k": "ChapterE3_2_Home.047",
+  "en": "This is a piece of the Mirror Witch."
+ },
+ {
+  "k": "ChapterE3_2_Home.048",
+  "en": "A piece of the Mirror Witch? This?"
+ },
+ {
+  "k": "ChapterE3_2_Home.049",
+  "en": "The power inside this shard unquestionably belongs to the Mirror Witch."
+ },
+ {
+  "k": "ChapterE3_2_Home.050",
+  "en": "Why would she scatter pieces of herself everywhere?"
+ },
+ {
+  "k": "ChapterE3_2_Home.051",
+  "en": "She didn't scatter herself. She broke apart."
+ },
+ {
+  "k": "ChapterE3_2_Home.052",
+  "en": "It was probably the backlash from pushing herself too hard to imitate Nahatra."
+ },
+ {
+  "k": "ChapterE3_2_Home.053",
+  "en": "Trying to imitate the entire garden using her own body..."
+ },
+ {
+  "k": "ChapterE3_2_Home.054",
+  "en": "A mere ordinary witch could never withstand that. Hmph."
+ },
+ {
+  "k": "ChapterE3_2_Home.055",
+  "en": "Hmm..."
+ },
+ {
+  "k": "ChapterE3_2_Home.056",
+  "en": "But thanks to that, I think we can turn her power against her."
+ },
+ {
+  "k": "ChapterE3_2_Home.057",
+  "en": "...Hah!"
+ },
+ {
+  "k": "ChapterE3_2_Home.058",
+  "en": "I extracted power from the mirror shard to protect your mind."
+ },
+ {
+  "k": "ChapterE3_2_Home.059",
+  "en": "For a while, your mind should no longer be torn apart."
+ },
+ {
+  "k": "ChapterE3_2_Home.060",
+  "en": "Oh, that's impressive."
+ },
+ {
+  "k": "ChapterE3_2_Home.061",
+  "en": "However, there's a limit to what we can do with the shards we have now."
+ },
+ {
+  "k": "ChapterE3_2_Home.062",
+  "en": "Besides, gathering the Mirror Witch's power should help us make our way through this world."
+ },
+ {
+  "k": "ChapterE3_2_Home.063",
+  "en": "...It seems we'll need to collect more mirror shards."
+ },
+ {
+  "k": "ChapterE3_2_Home.064",
+  "en": "You will assist me as my attendant!"
+ },
+ {
+  "k": "ChapterE3_2_Home.065",
+  "en": "I don't remember ever becoming your attendant."
+ },
+ {
+  "k": "ChapterE3_2_Home.066",
+  "en": "But if you're asking to work together, I'm in."
+ },
+ {
+  "k": "ChapterE3_2_Home.067",
+  "en": "Good. We have no time to waste, so we should begin preparing at once."
+ },
+ {
+  "k": "ChapterE3_2_Home.068",
+  "en": "For now, we'll use this little storeroom as our base."
+ },
+ {
+  "k": "ChapterE3_2_Home.069",
+  "en": "A-a little storeroom..."
+ },
+ {
+  "k": "ChapterE3_2_Home.070",
+  "en": "What? Would you prefer somewhere larger?"
+ },
+ {
+  "k": "ChapterE3_2_Home.071",
+  "en": "No, this is fine."
+ },
+ {
+  "k": "ChapterE3_2_Home.072",
+  "en": "You said we need more mirror shards, right?"
+ },
+ {
+  "k": "ChapterE3_2_Home.073",
+  "en": "I'll go find some. I want to look around this realm anyway."
+ },
+ {
+  "k": "ChapterE3_2_Home.074",
+  "en": "Hmph. In that case, I'll leave it to you."
+ },
+ {
+  "k": "ChapterE3_2_Fight_1.OnEnter.000",
+  "en": "This is..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_1.OnEnter.001",
+  "en": "This place looks like an imitation of Fiena's flower garden."
+ },
+ {
+  "k": "ChapterE3_2_Fight_1.OnEnter.002",
+  "en": "There isn't a single bee or butterfly in sight."
+ },
+ {
+  "k": "ChapterE3_2_Fight_1.OnEnter.003",
+  "en": "If the Mirror Witch created Fiena's realm..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_1.OnEnter.004",
+  "en": "Does that mean she made a fake Fiena too?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnEnter.000",
+  "en": "Hello, Fiena...?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnEnter.001",
+  "en": "You do look a lot like the usual Fiena..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.000",
+  "en": "Another mirror shard?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.001",
+  "en": "Shasha was right..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.002",
+  "en": "She really did use pieces of herself to create those reflections."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.003",
+  "en": "Whoa?! What is this?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.004",
+  "en": "Is this... a memory stored in the mirror?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.005",
+  "en": "Whose memory is it...?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.006",
+  "en": "No, no..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.007",
+  "en": "No matter what I do, I can't put it back together..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.008",
+  "en": "My realm... my place... where I belong..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.009",
+  "en": "Why can't we do it...? Is it because I'm not enough...?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.010",
+  "en": "Maybe it's all our fault."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.011",
+  "en": "No. We didn't choose to be born like this."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.012",
+  "en": "No. It is all our fault."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.013",
+  "en": "Look at us. We're shattered into pieces."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.014",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.015",
+  "en": "Was that... the Mirror Witch's memory?"
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.016",
+  "en": "And... this churning feeling..."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.017",
+  "en": "For just a moment, it felt as though the mirror world and I were connected."
+ },
+ {
+  "k": "ChapterE3_2_Fight_Boss.OnBattleFinished.018",
+  "en": "Is it because of the power in this mirror shard?"
+ },
+ {
+  "k": "ChapterE3_3_Home.000",
+  "en": "What are you doing?"
+ },
+ {
+  "k": "ChapterE3_3_Home.001",
+  "en": "Sil, you may thank me!"
+ },
+ {
+  "k": "ChapterE3_3_Home.002",
+  "en": "The barrier I created will protect this place."
+ },
+ {
+  "k": "ChapterE3_3_Home.003",
+  "en": "Oh. Does that mean this place is safe now?"
+ },
+ {
+  "k": "ChapterE3_3_Home.004",
+  "en": "Yes. But it will not last long."
+ },
+ {
+  "k": "ChapterE3_3_Home.005",
+  "en": "So we must find a way to deal with the Mirror Witch as soon as possible."
+ },
+ {
+  "k": "ChapterE3_3_Home.006",
+  "en": "About that..."
+ },
+ {
+  "k": "ChapterE3_3_Home.007",
+  "en": "Well done, Sil! You found a shard."
+ },
+ {
+  "k": "ChapterE3_3_Home.008",
+  "en": "As your master, I commend your efforts."
+ },
+ {
+  "k": "ChapterE3_3_Home.009",
+  "en": "But... only one?"
+ },
+ {
+  "k": "ChapterE3_3_Home.010",
+  "en": "If you're unhappy, you can go run around and find one yourself."
+ },
+ {
+  "k": "ChapterE3_3_Home.011",
+  "en": "Getting this back here was no easy job."
+ },
+ {
+  "k": "ChapterE3_3_Home.012",
+  "en": "How dare you!"
+ },
+ {
+  "k": "ChapterE3_3_Home.013",
+  "en": "I told you to always be humble when speaking to me!"
+ },
+ {
+  "k": "ChapterE3_3_Home.014",
+  "en": "You never said that."
+ },
+ {
+  "k": "ChapterE3_3_Home.015",
+  "en": "How dare you!!"
+ },
+ {
+  "k": "ChapterE3_3_Home.016",
+  "en": "If I say I said it, then I said it. Got it?"
+ },
+ {
+  "k": "ChapterE3_3_Home.017",
+  "en": "Yeah, yeah."
+ },
+ {
+  "k": "ChapterE3_3_Home.018",
+  "en": "Shasha, when I got this shard..."
+ },
+ {
+  "k": "ChapterE3_3_Home.019",
+  "en": "I caught a glimpse of the Mirror Witch's memories."
+ },
+ {
+  "k": "ChapterE3_3_Home.020",
+  "en": "And the way she looked in those memories was..."
+ },
+ {
+  "k": "ChapterE3_3_Home.021",
+  "en": "She was creepy, but she also looked fragile and unstable."
+ },
+ {
+  "k": "ChapterE3_3_Home.022",
+  "en": "What if we gathered all the shards and returned them to their owner...?"
+ },
+ {
+  "k": "ChapterE3_3_Home.023",
+  "en": "Could the Mirror Witch become whole again?"
+ },
+ {
+  "k": "ChapterE3_3_Home.024",
+  "en": "I respect your compassion."
+ },
+ {
+  "k": "ChapterE3_3_Home.025",
+  "en": "But... if you've looked around this world, you must understand."
+ },
+ {
+  "k": "ChapterE3_3_Home.026",
+  "en": "Her realm has been shattered beyond recognition."
+ },
+ {
+  "k": "ChapterE3_3_Home.027",
+  "en": "A few returned shards will never be enough to repair it."
+ },
+ {
+  "k": "ChapterE3_3_Home.028",
+  "en": "Not unless some miracle occurs."
+ },
+ {
+  "k": "ChapterE3_3_Home.029",
+  "en": "I see."
+ },
+ {
+  "k": "ChapterE3_3_Home.030",
+  "en": "For now, focus on completing this artifact."
+ },
+ {
+  "k": "ChapterE3_3_Fight_1.OnEnter.000",
+  "en": "After Fiena, is this place copying Abigail's farm?"
+ },
+ {
+  "k": "ChapterE3_3_Fight_1.OnEnter.001",
+  "en": "A flower garden, a farm..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_1.OnEnter.002",
+  "en": "Maybe she's recreating the realms of the witches attending the tea party."
+ },
+ {
+  "k": "ChapterE3_3_Fight_1.OnEnter.003",
+  "en": "It might have something to do with the Mirror Witch saying she'd hold a tea party."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.000",
+  "en": "Oh, a mirror shard."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.001",
+  "en": "Am I going to see another one of the Mirror Witch's memories?"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.002",
+  "en": "It makes me nauseous every time, so I'm not exactly eager..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.003",
+  "en": "Hmm, but I have no choice. I need the shards..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.004",
+  "en": "Look at the garden beyond the mirror."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.005",
+  "en": "The garden is a world made of pieces too."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.006",
+  "en": "A place where different realms barely hold together..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.007",
+  "en": "Maybe our world could become a garden too."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.008",
+  "en": "...How?"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.009",
+  "en": "There is no way."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.010",
+  "en": "We're nothing but a broken mirror."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.011",
+  "en": "No. There is a way."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.012",
+  "en": "There is still a way for us?"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.013",
+  "en": "Nahatra..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.014",
+  "en": "I want to become Nahatra."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.015",
+  "en": "You want to become Nahatra?"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.016",
+  "en": "Do you want to become <style=glitchy>!#@</style>Nahat<style=glitchy>^@</style>?"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.017",
+  "en": "Buil<style=glitchy>^%!@#!</style>d a garden like her<style=glitchy>$%@!</style>"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.018",
+  "en": "I want to beco<style=glitchy>%!@</style>me Na<style=glitchy>@!#</style>ra"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.019",
+  "en": "@!#^%!"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.020",
+  "en": "^!!!@!$@%"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.021",
+  "en": "........."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.022",
+  "en": "...I want to."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.023",
+  "en": "Ugh..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.024",
+  "en": "Aaaaaaah!!!!"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.025",
+  "en": "Look at the figure in this mirror."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.026",
+  "en": "It's reflecting me!"
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.027",
+  "en": "I can see myself in it..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.028",
+  "en": "My reflection..."
+ },
+ {
+  "k": "ChapterE3_3_Fight_Boss.OnBattleFinished.029",
+  "en": "That's... not your reflection."
+ },
+ {
+  "k": "ChapterE3_4_Home.000",
+  "en": "You are right on time."
+ },
+ {
+  "k": "ChapterE3_4_Home.001",
+  "en": "Welcome back, Sil."
+ },
+ {
+  "k": "ChapterE3_4_Home.002",
+  "en": "Canele?!"
+ },
+ {
+  "k": "ChapterE3_4_Home.003",
+  "en": "How did you get here? You really are Canele, right?"
+ },
+ {
+  "k": "ChapterE3_4_Home.004",
+  "en": "I never thought I'd be this happy to see you...!"
+ },
+ {
+  "k": "ChapterE3_4_Home.005",
+  "en": "Don't be so dramatic, Sil."
+ },
+ {
+  "k": "ChapterE3_4_Home.006",
+  "en": "How did you get in here?"
+ },
+ {
+  "k": "ChapterE3_4_Home.007",
+  "en": "Did the mirror drag you in too?"
+ },
+ {
+  "k": "ChapterE3_4_Home.008",
+  "en": "I have my own ways."
+ },
+ {
+  "k": "ChapterE3_4_Home.009",
+  "en": "A tiny crack had formed, so I slipped through it."
+ },
+ {
+  "k": "ChapterE3_4_Home.010",
+  "en": "A crack...?"
+ },
+ {
+  "k": "ChapterE3_4_Home.011",
+  "en": "Yes. A crack just large enough for one cat to pass through."
+ },
+ {
+  "k": "ChapterE3_4_Home.012",
+  "en": "It seems to have formed because of all the trouble you caused in here."
+ },
+ {
+  "k": "ChapterE3_4_Home.013",
+  "en": "Thanks to you, I ended up with the tiresome job of messenger."
+ },
+ {
+  "k": "ChapterE3_4_Home.014",
+  "en": "If Nahatra hadn't asked, I would have refused."
+ },
+ {
+  "k": "ChapterE3_4_Home.015",
+  "en": "You really are something..."
+ },
+ {
+  "k": "ChapterE3_4_Home.016",
+  "en": "Well, you came. So... thanks."
+ },
+ {
+  "k": "ChapterE3_4_Home.017",
+  "en": "Did you talk to Shasha?"
+ },
+ {
+  "k": "ChapterE3_4_Home.018",
+  "en": "I was just telling her what has happened so far."
+ },
+ {
+  "k": "ChapterE3_4_Home.019",
+  "en": "It seems no one in the garden can tell what's happening here."
+ },
+ {
+  "k": "ChapterE3_4_Home.020",
+  "en": "Shasha was remarkably composed."
+ },
+ {
+  "k": "ChapterE3_4_Home.021",
+  "en": "Even though she's considerably weakened."
+ },
+ {
+  "k": "ChapterE3_4_Home.022",
+  "en": "Weakened? Really? I had no idea."
+ },
+ {
+  "k": "ChapterE3_4_Home.023",
+  "en": "Not enough to warrant concern."
+ },
+ {
+  "k": "ChapterE3_4_Home.024",
+  "en": "More importantly, listen to the news Canele brought."
+ },
+ {
+  "k": "ChapterE3_4_Home.025",
+  "en": "What news?"
+ },
+ {
+  "k": "ChapterE3_4_Home.026",
+  "en": "Not especially good news."
+ },
+ {
+  "k": "ChapterE3_4_Home.027",
+  "en": "No matter what we try, the garden cannot interfere with this place."
+ },
+ {
+  "k": "ChapterE3_4_Home.028",
+  "en": "Not even Nahatra."
+ },
+ {
+  "k": "ChapterE3_4_Home.029",
+  "en": "What?!"
+ },
+ {
+  "k": "ChapterE3_4_Home.030",
+  "en": "That's quite a face."
+ },
+ {
+  "k": "ChapterE3_4_Home.031",
+  "en": "Easy for you to say..."
+ },
+ {
+  "k": "ChapterE3_4_Home.032",
+  "en": "Calm yourself, Sil. Do not forget your elegance."
+ },
+ {
+  "k": "ChapterE3_4_Home.033",
+  "en": "Phew... All right."
+ },
+ {
+  "k": "ChapterE3_4_Home.034",
+  "en": "At least the crack that let Canele through sounds like good news."
+ },
+ {
+  "k": "ChapterE3_4_Home.035",
+  "en": "I wonder if it really is."
+ },
+ {
+  "k": "ChapterE3_4_Home.036",
+  "en": "What now?"
+ },
+ {
+  "k": "ChapterE3_4_Home.037",
+  "en": "If we make the crack bigger, couldn't we use it to return to the garden?"
+ },
+ {
+  "k": "ChapterE3_4_Home.038",
+  "en": "Sil, think about when a mirror develops cracks."
+ },
+ {
+  "k": "ChapterE3_4_Home.039",
+  "en": "Well..."
+ },
+ {
+  "k": "ChapterE3_4_Home.040",
+  "en": "When it... breaks...?"
+ },
+ {
+  "k": "ChapterE3_4_Home.041",
+  "en": "Exactly. Canele is saying this mirror world will soon break apart."
+ },
+ {
+  "k": "ChapterE3_4_Home.042",
+  "en": "With us inside it."
+ },
+ {
+  "k": "ChapterE3_4_Home.043",
+  "en": "...You're joking, right?"
+ },
+ {
+  "k": "ChapterE3_4_Home.044",
+  "en": "Don't worry, Sil."
+ },
+ {
+  "k": "ChapterE3_4_Home.045",
+  "en": "We only need to hold a tea party. Then this realm will stabilize."
+ },
+ {
+  "k": "ChapterE3_4_Home.046",
+  "en": "A tea party with Nahatra. That's what you always do, isn't it?"
+ },
+ {
+  "k": "ChapterE3_4_Home.047",
+  "en": "Ugh... I have to hold a tea party with that thing?"
+ },
+ {
+  "k": "ChapterE3_4_Home.048",
+  "en": "Why not?"
+ },
+ {
+  "k": "ChapterE3_4_Home.049",
+  "en": "...Good point. I never thought of it that way."
+ },
+ {
+  "k": "ChapterE3_4_Home.050",
+  "en": "Even if she is fake, Nahatra is Nahatra, and the garden is the garden."
+ },
+ {
+  "k": "ChapterE3_4_Home.051",
+  "en": "So a tea party is still a tea party."
+ },
+ {
+  "k": "ChapterE3_4_Home.052",
+  "en": "Phew. So there is a solution after all."
+ },
+ {
+  "k": "ChapterE3_4_Home.053",
+  "en": "Then the realm can keep its current form, and no more cracks will appear."
+ },
+ {
+  "k": "ChapterE3_4_Home.054",
+  "en": "..."
+ },
+ {
+  "k": "ChapterE3_4_Home.055",
+  "en": "Wait. That means..."
+ },
+ {
+  "k": "ChapterE3_4_Home.056",
+  "en": "It seems you've realized."
+ },
+ {
+  "k": "ChapterE3_4_Home.057",
+  "en": "If we hold a tea party with the Mirror Witch and stabilize this place..."
+ },
+ {
+  "k": "ChapterE3_4_Home.058",
+  "en": "This will become one complete space without any cracks."
+ },
+ {
+  "k": "ChapterE3_4_Home.059",
+  "en": "And then we will be trapped in this world."
+ },
+ {
+  "k": "ChapterE3_4_Home.060",
+  "en": "You mean we'd have to live in this mirror world forever?"
+ },
+ {
+  "k": "ChapterE3_4_Home.061",
+  "en": "No! I refuse to live in a world where every sofa and bed is hard!"
+ },
+ {
+  "k": "ChapterE3_4_Home.062",
+  "en": "And on top of that, with someone this stuck-up..."
+ },
+ {
+  "k": "ChapterE3_4_Home.063",
+  "en": "?"
+ },
+ {
+  "k": "ChapterE3_4_Home.064",
+  "en": "Anyway, I don't want that!"
+ },
+ {
+  "k": "ChapterE3_4_Home.065",
+  "en": "I don't care if this realm collapses. I'll tear open a crack and get home somehow!"
+ },
+ {
+  "k": "ChapterE3_4_Home.066",
+  "en": "Do you understand what you are saying, Sil?"
+ },
+ {
+  "k": "ChapterE3_4_Home.067",
+  "en": "The fact that even Nahatra cannot interfere here means..."
+ },
+ {
+  "k": "ChapterE3_4_Home.068",
+  "en": "This place does not belong to the garden."
+ },
+ {
+  "k": "ChapterE3_4_Home.069",
+  "en": "If we fail to escape before the realm collapses..."
+ },
+ {
+  "k": "ChapterE3_4_Home.070",
+  "en": "This is only a guess, but I doubt it would end with our very essence merely shattering."
+ },
+ {
+  "k": "ChapterE3_4_Home.071",
+  "en": "I know that much."
+ },
+ {
+  "k": "ChapterE3_4_Home.072",
+  "en": "But no matter what, I refuse to spend my life trapped here."
+ },
+ {
+  "k": "ChapterE3_4_Home.073",
+  "en": "I'll flip this fake tea party over, table and all!"
+ },
+ {
+  "k": "ChapterE3_4_Home.074",
+  "en": "...Hehe."
+ },
+ {
+  "k": "ChapterE3_4_Home.075",
+  "en": "Sil, I am beginning to like you."
+ },
+ {
+  "k": "ChapterE3_4_Home.076",
+  "en": "Good. Now that the direction is set, all that's left is to create the masterpiece."
+ },
+ {
+  "k": "ChapterE3_4_Home.077",
+  "en": "Masterpiece?"
+ },
+ {
+  "k": "ChapterE3_4_Home.078",
+  "en": "Sil, show it to Canele."
+ },
+ {
+  "k": "ChapterE3_4_Home.079",
+  "en": "Oh, you mean this."
+ },
+ {
+  "k": "ChapterE3_4_Home.080",
+  "en": "A witch fragment."
+ },
+ {
+  "k": "ChapterE3_4_Home.081",
+  "en": "Yes. I will use it to create a powerful artifact capable of opposing the Mirror Witch."
+ },
+ {
+  "k": "ChapterE3_4_Home.082",
+  "en": "What are you planning to make?"
+ },
+ {
+  "k": "ChapterE3_4_Home.083",
+  "en": "Think of it as an artifact that can resist the power of the mirror world."
+ },
+ {
+  "k": "ChapterE3_4_Home.084",
+  "en": "If we're going to bring down this world and its tea party, we may as well do it properly."
+ },
+ {
+  "k": "ChapterE3_4_Home.085",
+  "en": "My attendant is collecting the shards, so it will be finished soon."
+ },
+ {
+  "k": "ChapterE3_4_Home.086",
+  "en": "Attendant...? Your dignity has really fallen since I last saw you, Sil."
+ },
+ {
+  "k": "ChapterE3_4_Home.087",
+  "en": "I told you, I'm not her attendant."
+ },
+ {
+  "k": "ChapterE3_4_Home.088",
+  "en": "By the way, Canele, what are you going to do now?"
+ },
+ {
+  "k": "ChapterE3_4_Home.089",
+  "en": "I suppose I'll just sit back and watch..."
+ },
+ {
+  "k": "ChapterE3_4_Home.090",
+  "en": "...you struggle to stay alive."
+ },
+ {
+  "k": "ChapterE3_4_Home.091",
+  "en": "You blasted cat..."
+ },
+ {
+  "k": "ChapterE3_4_Home.092",
+  "en": "If you've got nothing better to do, come up with an idea too."
+ },
+ {
+  "k": "ChapterE3_4_Home.093",
+  "en": "Don't order me around."
+ },
+ {
+  "k": "ChapterE3_4_Home.094",
+  "en": "That refusal to bow so easily..."
+ },
+ {
+  "k": "ChapterE3_4_Home.095",
+  "en": "Cats truly are proud creatures."
+ },
+ {
+  "k": "ChapterE3_4_Home.096",
+  "en": "You understand."
+ },
+ {
+  "k": "ChapterE3_4_Home.097",
+  "en": "Right. You two kindred spirits can enjoy each other's company."
+ },
+ {
+  "k": "ChapterE3_4_Home.098",
+  "en": "I'm off to struggle for my life, then."
+ }
+]

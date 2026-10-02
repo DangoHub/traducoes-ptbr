@@ -1,0 +1,2498 @@
+[
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.LessCombo1",
+  "en": "Overwhelm"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.MoreCombo1",
+  "en": "Resolve"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.MoreAttackSpeed",
+  "en": "Flurry"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.LessCombo2",
+  "en": "Expert"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.MoreCombo2",
+  "en": "Execution"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.MoreSpeedLessRadius",
+  "en": "Snip"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.LessCombo3",
+  "en": "Duelist"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.LessSpeedMoreCombo",
+  "en": "Prudence"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.0.AttackSpeedBuff",
+  "en": "Tailwind"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.MoreDamageLessSpeed",
+  "en": "Hammering"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.AttackSpeed",
+  "en": "Ferocity"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.LessComboFromDamage",
+  "en": "Sense of Balance"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.MoreDamageLessRadius",
+  "en": "Restraint"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.MoreDashDistance",
+  "en": "Broom Sweep"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.DamagePerRadius",
+  "en": "Full Swing"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.MoreCritMoreCombo",
+  "en": "Finisher"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.CritDamage",
+  "en": "Smash"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.1.LessComboFromAttackSpeed",
+  "en": "Rampager"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Damage1",
+  "en": "Gunner"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Damage2",
+  "en": "Threading"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Damage3",
+  "en": "Witchcraft"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Cooltime1",
+  "en": "Expansion"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Cooltime2",
+  "en": "Polish"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Cooltime3",
+  "en": "Revelation"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Stack1",
+  "en": "Aimed Shot"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Stack2",
+  "en": "Mirror Image"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.2.Stack3",
+  "en": "Downpour"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.CritDamage",
+  "en": "Fang"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.MoreCritDamagePerWE",
+  "en": "Claw"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.MoreDamageLessWEDuration",
+  "en": "Hoof"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.MoreWEDuration",
+  "en": "Hunt"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.RemoveWEOnTimeOut",
+  "en": "Hunger"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.AttackSpeedLessWE",
+  "en": "Excitement"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.Radius",
+  "en": "Flexibility"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.MoreSpeedByWE",
+  "en": "Frenzy"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.3.MoreSpeedOnLowWE",
+  "en": "Feather"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.CriRequired",
+  "en": "Tempo Up"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.MoreDamageLessAmmo",
+  "en": "Arrangement"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.Damage",
+  "en": "Forte"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.CritRequired2",
+  "en": "Thunderous Roar"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.MoreProjectileLessDamage",
+  "en": "Harmony"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.MoreSpeed",
+  "en": "Allegro"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.MoreCritRadiusMoreDamage",
+  "en": "Accent"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.AdditionalProjectile",
+  "en": "Attacca"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.4.MoreSpeedMoreRequired",
+  "en": "Stretto"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Damage1",
+  "en": "Overcharge"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Damage2",
+  "en": "Discharge"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Damage3",
+  "en": "Perfect Balance"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Stack1",
+  "en": "Synchronization"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Stack2",
+  "en": "Condenser"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Stack3",
+  "en": "Spell Inscription"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Cooltime1",
+  "en": "Spell Echo"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Cooltime2",
+  "en": "Lightning Rod"
+ },
+ {
+  "k": "Addon_Name||Addon.Weapon.Scissor.5.Cooltime3",
+  "en": "Charging Device"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.MoreDamageStack",
+  "en": "Mastery"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.DashSwing",
+  "en": "Gust"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.MoreDamageLessRadius",
+  "en": "Focus"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.CooltimeStack",
+  "en": "Flow"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.RecastSwing",
+  "en": "Chain Attack"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.MoreDamageMoreCooltime",
+  "en": "Explosion"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.RemoveAllStack",
+  "en": "Release"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.CooltimeRecPerStack",
+  "en": "Return"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.ReaperSwing.MoreDamageLessStack",
+  "en": "Control"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.AmbushEnhancement",
+  "en": "Dancer"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.MoreDamageMoreRadius",
+  "en": "Heavy Landing"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.Inv",
+  "en": "Blur"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.RecastAmbush",
+  "en": "Run-up"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.MoreDamageMoreCooltime",
+  "en": "Assassination"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.CooltimeStack",
+  "en": "Footwork"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.AmbushCooltimeRecover",
+  "en": "Spring"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.MoreDamageLessStack",
+  "en": "Piercing"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Ambush.MoreStackLessDamage",
+  "en": "Ready Stance"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.CounterEnhancement",
+  "en": "Rhythm"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.MoreDamageMoreRadius",
+  "en": "Diffusion"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.MoreStackLessDamage",
+  "en": "Net"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.RecCounterCool",
+  "en": "Knitting"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.RemoveAllStack",
+  "en": "Untie"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.MoreDuration",
+  "en": "Solidity"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.MoreDamageMoreCooltime",
+  "en": "Bear Trap"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.MoreStackLessCooltime",
+  "en": "Composure"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.CounterAttack.LessCooltimeLessDamage",
+  "en": "Hedgehog"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.MoreDamageLessSpeed",
+  "en": "Punch"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.MoreRadiusDamage",
+  "en": "Bared Claws"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.FamiliarDamageOnSign",
+  "en": "Scapegoat"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.SuicideBomb",
+  "en": "Self-Destruct"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.BigFamiliar",
+  "en": "Gigantification"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.Duration",
+  "en": "Gaze"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.MoreDamageMoreCooltime",
+  "en": "Aggression"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.GhostFamiliar",
+  "en": "Ghost"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFamiliar.CooltimeRecPerFamiliar",
+  "en": "Pack"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.MoreDamagePerHit",
+  "en": "Spiked Wheel"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.MoreTrap",
+  "en": "Resonance"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.MoreDurationLessDamage",
+  "en": "Centrifugal Force"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.MoreDurationMoreCooltime",
+  "en": "Tough Cord"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.RemoveTrapCooltimeRec",
+  "en": "Rewind"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.SlowTrap",
+  "en": "Float"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.FollowTrap",
+  "en": "Attachment"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.FastTrap",
+  "en": "Overspeed"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnTrap.ReturnTrap",
+  "en": "Boomerang"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.MoreDamagePerThread",
+  "en": "Binding"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.NeedleDamage",
+  "en": "Trump Card"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.MoreDamageLessDistance",
+  "en": "Martial Arts"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.CooltimeRecPerThread",
+  "en": "Reconstruction"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.MoreNeedleMoreCooltime",
+  "en": "Acupuncture"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.RecastRush",
+  "en": "Domination"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.ThreadMaxStack",
+  "en": "Cat's Cradle"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.MoreNeedleLessThreadMax",
+  "en": "Needle Throw"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Rush.MoreDamageLessThreadMax",
+  "en": "Sever"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.ProjectileFlower",
+  "en": "Spore"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.FlowerDamageLessDuration",
+  "en": "Fuse"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.MoreDamagePerCharge",
+  "en": "Thrill"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.MoreChargeSpeedLessCooltime",
+  "en": "Springtime"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.RemoveFlowerCooltimeRec",
+  "en": "Pollen"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.MoreStackMoreCooltime",
+  "en": "Cocoon"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.ChargeSpeedMoveSpeed",
+  "en": "Festival"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.FlowerPerCharge",
+  "en": "Flower Path"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Boost.FlowerOverCharge",
+  "en": "Full Bloom"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.CrowDamagePerCrow",
+  "en": "Haunting"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.CrowExplosionOnMax",
+  "en": "Ritual"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.GuidedProjectile",
+  "en": "Tracking"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.CooltimeRecPerCrow",
+  "en": "Gleaning"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.CooltimeStack",
+  "en": "Nest"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.MoreDamageMoreCooltime",
+  "en": "Weight"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.MoreCrowAttackCount",
+  "en": "Dive Attack"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.MoreCrowLessAttackCount",
+  "en": "Hatching"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnCrow.MoreDamageLessAttackCount",
+  "en": "Body Slam"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.DamageOnGetBlood",
+  "en": "Rupture"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.DamageRecast",
+  "en": "Infusion"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.SingleTarget",
+  "en": "Prey"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.LessPeriodFromCooltime",
+  "en": "Boiling Blood"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.Duration",
+  "en": "Transfusion"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.MoreDamageLessDuration",
+  "en": "Hemorrhage"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.LessPeriodFromRadius",
+  "en": "Eruption"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.DurationRecGetBlood",
+  "en": "Satiety"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.Leech.MoreDamageLessRadius",
+  "en": "Persistence"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.Meteor",
+  "en": "Meteor"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.MoreProjectileCount",
+  "en": "Rapid Fire"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.MoreRadiusMoreDamage",
+  "en": "Impact"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.InstantBurn",
+  "en": "Scorch"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.SmallFireball",
+  "en": "Fragment"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.MoreProjectileSpeed",
+  "en": "Acceleration"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.FireDamagePerCharge",
+  "en": "Ignition"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.CooltimeRecPerFireball",
+  "en": "Heat Conduction"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnFireball.ChargeSpeed",
+  "en": "Rapid Casting"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.Damage1",
+  "en": "Craftsmanship"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.Damage2",
+  "en": "Gem Forging"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.Damage3",
+  "en": "Smoothness"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.Cooltime1",
+  "en": "Crystallization"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.Cooltime2",
+  "en": "Barrage"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.Cooltime3",
+  "en": "Acrobatics"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.CooltimeRecov1",
+  "en": "Ruby"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.CooltimeRecov2",
+  "en": "Topaz"
+ },
+ {
+  "k": "Addon_Name||Addon.Magic.SpawnOrb.CooltimeRecov3",
+  "en": "Sapphire"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.AutoCast.GaugeCrit",
+  "en": "Fusion"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.AutoCast.GaugeMagic",
+  "en": "Warmth"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.AutoCast.Effect",
+  "en": "Firefly"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.RestoreStack.GaugeCrit",
+  "en": "Ripple"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.RestoreStack.GaugeMagic",
+  "en": "Dew"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.RestoreStack.Effect",
+  "en": "Ley Line"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.FastCast.GaugeCrit",
+  "en": "Awakening"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.FastCast.GaugeMagic",
+  "en": "Rooting"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.FastCast.Effect",
+  "en": "River"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.Mirror.GaugeCrit",
+  "en": "Oneness"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.Mirror.GaugeMagic",
+  "en": "Restoration"
+ },
+ {
+  "k": "Addon_Name||Addon.Special.Mirror.Effect",
+  "en": "Collapse"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.E2",
+  "en": "Epilogue 2: The Missing Witch"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.E3",
+  "en": "Epilogue 3: Mirror Witch"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.E2",
+  "en": "The day has come to visit the Lapis Market in preparation for the tea party. But the market feels strangely subdued. What could have happened?"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.E3",
+  "en": "After being pulled into a strange mirror, you come to in a world where everything is transparent. What happened in this world?"
+ },
+ {
+  "k": "ChapterInfo||UI.SelectChapter.LevelRecommend",
+  "en": "Recommended Level: {$n:0}"
+ },
+ {
+  "k": "ChapterInfo||Group.MainChapter",
+  "en": "Main Story"
+ },
+ {
+  "k": "ChapterInfo||Group.Epilogue",
+  "en": "Epilogue"
+ },
+ {
+  "k": "ChapterInfo||Group.Endless",
+  "en": "Challenge Mode"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.0",
+  "en": "Chapter 1"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.1",
+  "en": "Chapter 2"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.2",
+  "en": "Chapter 3"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.3",
+  "en": "Chapter 4"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.4",
+  "en": "Chapter 5"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.E1",
+  "en": "Epilogue 1: Swamp Witch"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.Endless",
+  "en": "Main Story: Challenge Run"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.E1Endless",
+  "en": "Epilogue 1: Challenge Run"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.E2Endless",
+  "en": "Epilogue 2: Challenge Run"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.E3Endless",
+  "en": "Epilogue 3: Challenge Run"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.0",
+  "en": "Gathering these troublesome witches is no easy task, but it must be done to prevent the garden from collapsing. Gather the witches and have a tea party!"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.1",
+  "en": "What's going on with Fiena? It's like she's an entirely different witch. Is it really even her?"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.2",
+  "en": "Abigail is almost completely ignorant about anything that happens outside of her farm. This first outing will be an important first step in learning about the wider world..."
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.3",
+  "en": "A suspicious invitation from Rims & Berry... What could they be planning this time? Can they be relied on to host a proper tea party?"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.4",
+  "en": "Years of accumulated grievances and anger threaten the continuation of the tea parties. Perhaps protecting the garden requires being a little more shameless."
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.E1",
+  "en": "As the garden grew alongside Nahatra, it began to attract more and more witches. However, this caused an unforeseen problem..."
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.E1Endless",
+  "en": "All the tasks in the swamp have been dealt with, but the nightmare left behind by the contaminated seed still lingers. Test your limits as you eliminate the enemies remaining in the swamp."
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.E2Endless",
+  "en": "The search for the Jewel Witch is over, but Bazira still seems eager to send you on more exploration missions. Explore the Jewel Witch's realm and push your limits."
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.E3Endless",
+  "en": "The mirror world has collapsed, but its fragments still remain. When you're ready, head there to explore and push your limits."
+ },
+ {
+  "k": "ChapterInfo||Reward.UnlockWeapon",
+  "en": "Scissors Unlocked"
+ },
+ {
+  "k": "ChapterInfo||Hidden",
+  "en": "???"
+ },
+ {
+  "k": "Character||Bazira",
+  "en": "Bazira"
+ },
+ {
+  "k": "Character||DesertWorker_Craftsman",
+  "en": "Conservator"
+ },
+ {
+  "k": "Character||Shasha",
+  "en": "Shasha"
+ },
+ {
+  "k": "Character||Mary",
+  "en": "Mary"
+ },
+ {
+  "k": "Character||Abigail",
+  "en": "Abigail"
+ },
+ {
+  "k": "Character||Berry",
+  "en": "Berry"
+ },
+ {
+  "k": "Character||RimsBerry",
+  "en": "Rims & Berry"
+ },
+ {
+  "k": "Character||Canele",
+  "en": "Canele"
+ },
+ {
+  "k": "Character||Chloe",
+  "en": "Chloe"
+ },
+ {
+  "k": "Character||Hidden",
+  "en": "???"
+ },
+ {
+  "k": "Character||Fiena",
+  "en": "Fiena"
+ },
+ {
+  "k": "Character||Nahatra",
+  "en": "Nahatra"
+ },
+ {
+  "k": "Character||Rims",
+  "en": "Rims"
+ },
+ {
+  "k": "Character||Sil",
+  "en": "Sil"
+ },
+ {
+  "k": "Character||Maydel",
+  "en": "Maydel"
+ },
+ {
+  "k": "Character||ParasiticSeed",
+  "en": "Contaminated Seed"
+ },
+ {
+  "k": "ContentsAlarm||Endless_00_Title",
+  "en": "Try again at an even higher difficulty!"
+ },
+ {
+  "k": "ContentsAlarm||Endless_00_Info",
+  "en": "You can now challenge this chapter at an even harder difficulty.\nTest your limits with builds and weapon combinations you have never tried before."
+ },
+ {
+  "k": "ContentsAlarm||Armory_00_Title",
+  "en": "The Armory has been unlocked!"
+ },
+ {
+  "k": "ContentsAlarm||Armory_00_Info",
+  "en": "You can now change your combat equipment using the Armory.\nPrepare for combat with a loadout that fits your playstyle."
+ },
+ {
+  "k": "ContentsAlarm||Weapon_00_Title",
+  "en": "Three new weapons have been unlocked!"
+ },
+ {
+  "k": "ContentsAlarm||Weapon_00_Info",
+  "en": "You can now select the weapon you want in Sil's house and enter battle."
+ },
+ {
+  "k": "ContentsAlarm||Weapon_01_Title",
+  "en": "Select the weapon you want!"
+ },
+ {
+  "k": "ContentsAlarm||Weapon_01_Info",
+  "en": "With these new weapons, you can experience new styles of play.\nChoose your weapon and try out different builds!"
+ },
+ {
+  "k": "Curse_Info||Curse.Trait_Cursed",
+  "en": "For `{$BattleCount:0}` `Battles`, receive a `Curse` that prevents you from receiving `Battle Rewards`. When the `Curse` is removed, you immediately receive all missed `Rewards` and gain `2` additional `Attributes`."
+ },
+ {
+  "k": "Curse_Info||Curse.MoreDamage_Cursed",
+  "en": "Receive a `Curse` that decreases All DMG by `{|$Cursed.All_Damage_More|:0.##%}` for `{$BattleCount:0}` `Battles`. Once the `Curse` is removed, All DMG increases by `{|$Uncursed.All_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Curse_Info||Curse.LessCooltime_Cursed",
+  "en": "For `{$BattleCount:0}` `Battles`, receive a `Curse` that increases `Dash` Cooldown by `{|$Cursed.Dash_Cooltime_More|:0.##%}`. Once the `Curse` is removed, the Cooldown of all Cooldown Skills decreases by `{|$Uncursed.All_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Curse_Info||Curse.MoreDamage_Uncursed",
+  "en": "Increases All DMG by `{|$Uncursed.All_Damage_More|:0.##%}`."
+ },
+ {
+  "k": "Curse_Info||Curse.LessCooltime_Uncursed",
+  "en": "Decreases the Cooldown of all Cooldown Skills by `{|$Uncursed.All_Cooltime_More|:0.##%}`."
+ },
+ {
+  "k": "Curse_Info||Curse.Trait_Uncursed",
+  "en": "Received an additional `2` `Attributes`."
+ },
+ {
+  "k": "EndContents||Title",
+  "en": "Difficulty"
+ },
+ {
+  "k": "EndContents||Option.00.None",
+  "en": "Boss battle time limit: `None`"
+ },
+ {
+  "k": "EndContents||Option.00",
+  "en": "`{$a:0} min` boss battle time limit"
+ },
+ {
+  "k": "EndContents||Option.01",
+  "en": "All enemies `+{$a:0}` DMG"
+ },
+ {
+  "k": "EndContents||Option.02",
+  "en": "Suffer `{$a:0}` DMG when moving between rooms"
+ },
+ {
+  "k": "EndContents||Option.03",
+  "en": "All enemies `+{$a:0.##%}` HP"
+ },
+ {
+  "k": "EndContents||Option.04",
+  "en": "All enemies `+{$a:0.##%}` HP when moving between rooms (multiplicative)"
+ },
+ {
+  "k": "EndContents||Option.05",
+  "en": "Current Difficulty: `{$a}`"
+ },
+ {
+  "k": "EndContents||Point_total",
+  "en": "Total: {$a:0} pts."
+ },
+ {
+  "k": "EndContents||Point_acheived",
+  "en": "My Best Record: {$a:0} pts."
+ },
+ {
+  "k": "EndContents||Button_enter",
+  "en": "Enter"
+ },
+ {
+  "k": "EndContents||Point_add",
+  "en": "{$a:0} pts."
+ },
+ {
+  "k": "EndContents||Point_mult",
+  "en": "x{$a:0} Points"
+ },
+ {
+  "k": "EndContents||RunReport_Title",
+  "en": "Final Points"
+ },
+ {
+  "k": "EndContents||Option.JungleDifficulty",
+  "en": "All enemies' HP per wave `+{$a:0.##%}` (multiplicative)"
+ },
+ {
+  "k": "Evade_Info||Evade.Dash",
+  "en": "Do a quick dash in a target direction and block most damage for a short duration."
+ },
+ {
+  "k": "Evade_Name||Evade.Dash",
+  "en": "Dash"
+ },
+ {
+  "k": "Global||BossHeal_Passive",
+  "en": "Get `1` Attribute"
+ },
+ {
+  "k": "Global||NewWeaponUnlocked",
+  "en": "New Weapon Acquired"
+ },
+ {
+  "k": "Global||Settings_Sound_Group_Global",
+  "en": "Character Voice"
+ },
+ {
+  "k": "Global||Settings_Sound_CVLanguage",
+  "en": "Character Voice Language"
+ },
+ {
+  "k": "Global||Settings_Sound_CVVolume",
+  "en": "Character Voice Volume"
+ },
+ {
+  "k": "Global||Setting_Sound_CVLanguage_Info",
+  "en": "※ Character voices through Main Chapter 5 are currently available in Japanese only."
+ },
+ {
+  "k": "Global||Settings_ResetAll",
+  "en": "Reset All"
+ },
+ {
+  "k": "Global||Settings_Keybind_PlayerInfo",
+  "en": "Open Status Window"
+ },
+ {
+  "k": "Global||Settings_Keybind_Up",
+  "en": "Move Up"
+ },
+ {
+  "k": "Global||Settings_Keybind_Down",
+  "en": "Move Down"
+ },
+ {
+  "k": "Global||Settings_Keybind_Left",
+  "en": "Move Left"
+ },
+ {
+  "k": "Global||Settings_Keybind_Right",
+  "en": "Move Right"
+ },
+ {
+  "k": "Global||Settings_Keybind_Group_Global",
+  "en": "General"
+ },
+ {
+  "k": "Global||Settings_Keybind_Group_Ingame",
+  "en": "Combat"
+ },
+ {
+  "k": "Global||Settings_Keybind_Group_UI",
+  "en": "UI"
+ },
+ {
+  "k": "Global||Settings_Gamepad_Pause",
+  "en": "Open Pause Menu"
+ },
+ {
+  "k": "Global||Settings_Gamepad_Rumble",
+  "en": "Vibration"
+ },
+ {
+  "k": "Global||Settings_Gamepad_SwapConfirm",
+  "en": "Invert Confirm/Cancel Buttons"
+ },
+ {
+  "k": "Global||Settings_KeyboardOnly",
+  "en": "Keyboard-Only Mode"
+ },
+ {
+  "k": "Global||Settings_KeyboardOnly_AdditionalInfo",
+  "en": "※ Use only the keyboard to control the game in a manner similar to a gamepad."
+ },
+ {
+  "k": "Global||Agree_Settings_GamePlay_Reset",
+  "en": "Reset all gameplay settings to default?"
+ },
+ {
+  "k": "Global||Agree_Settings_Graphic_Reset",
+  "en": "Reset all graphics settings to default?"
+ },
+ {
+  "k": "Global||Agree_Settings_Keybind_Reset",
+  "en": "Reset all key bindings to default?"
+ },
+ {
+  "k": "Global||Agree_Settings_Sound_Reset",
+  "en": "Reset all sound settings to default?"
+ },
+ {
+  "k": "Global||Locked_Contents_JungleUpgrade.2_Upgrade",
+  "en": "Unlocked while progressing through Epilogue 1"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.E1_Progress",
+  "en": "Unlocked while progressing through Epilogue 1"
+ },
+ {
+  "k": "Global||Tab_ShashaMirror",
+  "en": "Shasha's Mirror"
+ },
+ {
+  "k": "Global||ClickToContinue",
+  "en": "Click the screen to continue"
+ },
+ {
+  "k": "Global||NeedMoreMirrorPoint",
+  "en": "Not enough mirror shards remaining."
+ },
+ {
+  "k": "Global||E2JewelUpgrade",
+  "en": "Crafted Artifact Restoration"
+ },
+ {
+  "k": "Global||AchievementProgress",
+  "en": "Achievement Progress"
+ },
+ {
+  "k": "Global||Agree_DeleteSaveSlot",
+  "en": "Would you like to delete the saved data?"
+ },
+ {
+  "k": "Global||Agree_ResetUpgrade",
+  "en": "Would you like to reset all upgrades?\n(※ Spent points will be refunded.)"
+ },
+ {
+  "k": "Global||Agree_Upgrade",
+  "en": "Would you like to upgrade?"
+ },
+ {
+  "k": "Global||Battle",
+  "en": "Battle"
+ },
+ {
+  "k": "Global||Elite",
+  "en": "Elite Mob"
+ },
+ {
+  "k": "Global||Boss",
+  "en": "Boss"
+ },
+ {
+  "k": "Global||BossHeal_Heal",
+  "en": "Recover `{$healAmount}` HP"
+ },
+ {
+  "k": "Global||Cancel",
+  "en": "Cancel"
+ },
+ {
+  "k": "Global||Confirm",
+  "en": "Confirm"
+ },
+ {
+  "k": "Global||Continue",
+  "en": "Continue"
+ },
+ {
+  "k": "Global||Delete",
+  "en": "Delete"
+ },
+ {
+  "k": "Global||GameStatus",
+  "en": "Check Status"
+ },
+ {
+  "k": "Global||GiveUp",
+  "en": "Give Up"
+ },
+ {
+  "k": "Global||GotoMenu",
+  "en": "Go to Title"
+ },
+ {
+  "k": "Global||Locked_Magic",
+  "en": "This Spell has not been discovered yet."
+ },
+ {
+  "k": "Global||Magic",
+  "en": "Spell"
+ },
+ {
+  "k": "Global||MapIcon_Heal",
+  "en": "Heal"
+ },
+ {
+  "k": "Global||NewMagicUnlocked",
+  "en": "New Spell Unlocked"
+ },
+ {
+  "k": "Global||NewTagUnlocked",
+  "en": "New Tag Unlocked"
+ },
+ {
+  "k": "Global||Obtain",
+  "en": "Acquire"
+ },
+ {
+  "k": "Global||Pause",
+  "en": "Pause"
+ },
+ {
+  "k": "Global||QuitGame",
+  "en": "Quit"
+ },
+ {
+  "k": "Global||Redraw",
+  "en": "Redraw"
+ },
+ {
+  "k": "Global||Util",
+  "en": "Well"
+ },
+ {
+  "k": "Global||Relic",
+  "en": "Relic"
+ },
+ {
+  "k": "Global||Curse",
+  "en": "Curse"
+ },
+ {
+  "k": "Global||RerollPoint",
+  "en": "Dice"
+ },
+ {
+  "k": "Global||SaveSlot_Achievement",
+  "en": "Achievement"
+ },
+ {
+  "k": "Global||SaveSlot_Empty",
+  "en": "Empty Slot"
+ },
+ {
+  "k": "Global||SaveSlot_SaveTime",
+  "en": "Last Saved"
+ },
+ {
+  "k": "Global||SaveSlots",
+  "en": "Save Slot"
+ },
+ {
+  "k": "Global||Select",
+  "en": "Select"
+ },
+ {
+  "k": "Global||Setting_Sound_Ambience",
+  "en": "Ambient Music"
+ },
+ {
+  "k": "Global||Setting_Sound_BGM",
+  "en": "BGM"
+ },
+ {
+  "k": "Global||Setting_Sound_Master",
+  "en": "Master Volume"
+ },
+ {
+  "k": "Global||Setting_Sound_OnBackground",
+  "en": "Sound On When in Background"
+ },
+ {
+  "k": "Global||Setting_Sound_SFX",
+  "en": "SFX"
+ },
+ {
+  "k": "Global||Setting_Sound_System",
+  "en": "System"
+ },
+ {
+  "k": "Global||Settings",
+  "en": "Settings"
+ },
+ {
+  "k": "Global||Settings_Brightness",
+  "en": "Brightness"
+ },
+ {
+  "k": "Global||Settings_Contrast",
+  "en": "Contrast"
+ },
+ {
+  "k": "Global||Settings_DamageText",
+  "en": "Show Damage Values"
+ },
+ {
+  "k": "Global||Settings_FpsUnlimited",
+  "en": "No Limit"
+ },
+ {
+  "k": "Global||Settings_GraphicQuality",
+  "en": "Graphics Quality"
+ },
+ {
+  "k": "Global||Settings_GraphicQuality_High",
+  "en": "High"
+ },
+ {
+  "k": "Global||Settings_GraphicQuality_Low",
+  "en": "Low"
+ },
+ {
+  "k": "Global||Settings_GraphicQuality_Middle",
+  "en": "Mid"
+ },
+ {
+  "k": "Global||Settings_Language",
+  "en": "Language"
+ },
+ {
+  "k": "Global||Settings_Resolution",
+  "en": "Resolution"
+ },
+ {
+  "k": "Global||Settings_Screen",
+  "en": "Screen"
+ },
+ {
+  "k": "Global||Settings_Screen_Borderless",
+  "en": "Borderless"
+ },
+ {
+  "k": "Global||Settings_Cursor_Group_Global",
+  "en": "Mouse Cursor"
+ },
+ {
+  "k": "Global||Settings_Cursor_Custom",
+  "en": "Custom Cursor"
+ },
+ {
+  "k": "Global||Settings_Cursor_Custom_Comment",
+  "en": "※ Enabling this option may cause slight delay depending on your system."
+ },
+ {
+  "k": "Global||Settings_Cursor_Custom_Size",
+  "en": "Cursor Size"
+ },
+ {
+  "k": "Global||Settings_Screen_FullScreen",
+  "en": "Full Screen"
+ },
+ {
+  "k": "Global||Settings_Screen_Window",
+  "en": "Windowed"
+ },
+ {
+  "k": "Global||Settings_TargetFrameRate",
+  "en": "Target Frame Rate"
+ },
+ {
+  "k": "Global||Settings_Vsync",
+  "en": "Vsync"
+ },
+ {
+  "k": "Global||Settings_Language_none",
+  "en": "None"
+ },
+ {
+  "k": "Global||Settings_Language_ja",
+  "en": "Japanese"
+ },
+ {
+  "k": "Global||StartGame",
+  "en": "Start"
+ },
+ {
+  "k": "Global||Story",
+  "en": "Story"
+ },
+ {
+  "k": "Global||Synergy",
+  "en": "Synergy"
+ },
+ {
+  "k": "Global||Tab_Achievement",
+  "en": "Achievements"
+ },
+ {
+  "k": "Global||Tab_Control",
+  "en": "Controls"
+ },
+ {
+  "k": "Global||Tab_Equipment",
+  "en": "Book"
+ },
+ {
+  "k": "Global||Tab_GamePlay",
+  "en": "Gameplay"
+ },
+ {
+  "k": "Global||Tab_Graphics",
+  "en": "Graphics"
+ },
+ {
+  "k": "Global||Tab_Map",
+  "en": "Map"
+ },
+ {
+  "k": "Global||Tab_SelectDifficulty",
+  "en": "Select Difficulty"
+ },
+ {
+  "k": "Global||Tab_Sound",
+  "en": "Sound"
+ },
+ {
+  "k": "Global||Tab_Status",
+  "en": "Status"
+ },
+ {
+  "k": "Global||Tab_Upgrade",
+  "en": "Upgrade"
+ },
+ {
+  "k": "Global||Tab_Overview",
+  "en": "Overview"
+ },
+ {
+  "k": "Global||Tab_Skill",
+  "en": "Skill"
+ },
+ {
+  "k": "Global||Tab_Witchcraft",
+  "en": "Witchcraft"
+ },
+ {
+  "k": "Global||Tab_Buff",
+  "en": "Buff"
+ },
+ {
+  "k": "Global||Summary_WitchcraftEmpty",
+  "en": "No available Witchcraft."
+ },
+ {
+  "k": "Global||Summary_BuffEmpty",
+  "en": "No available Buff."
+ },
+ {
+  "k": "Global||Trait",
+  "en": "Attribute"
+ },
+ {
+  "k": "Global||UpgradeLevel",
+  "en": "Lv. {$level}"
+ },
+ {
+  "k": "Global||Weapon",
+  "en": "Weapon"
+ },
+ {
+  "k": "Global||Difficulty_Hard",
+  "en": "Hard"
+ },
+ {
+  "k": "Global||Difficulty_Hard_Info",
+  "en": "Recommended for players who are familiar with boss strategies and build combinations."
+ },
+ {
+  "k": "Global||Difficulty_Hard_StatInfo",
+  "en": "- Damage taken is increased by 33%\n- HP of all enemies is increased by 33%"
+ },
+ {
+  "k": "Global||Difficulty_Normal",
+  "en": "Normal"
+ },
+ {
+  "k": "Global||Difficulty_Normal_Info",
+  "en": "Recommended for most players."
+ },
+ {
+  "k": "Global||Difficulty_Story",
+  "en": "Story"
+ },
+ {
+  "k": "Global||Difficulty_Story_Info",
+  "en": "Recommended for players who are new to action games."
+ },
+ {
+  "k": "Global||Difficulty_Story_StatInfo",
+  "en": "- Dash cooldown decreased by 1 second\n- Damage taken is decreased by 33%\n- HP of all enemies is decreased by 33%"
+ },
+ {
+  "k": "Global||ChangeDifficulty",
+  "en": "Change Difficulty"
+ },
+ {
+  "k": "Global||IsSelectedDifficulty",
+  "en": "This difficulty is currently selected."
+ },
+ {
+  "k": "Global||SelectMagicKey",
+  "en": "Assign a key to use the new Spell."
+ },
+ {
+  "k": "Global||Locked_Contents_InDemo",
+  "en": "Not available in demo version."
+ },
+ {
+  "k": "Global||Locked_Contents_NeedUpdate",
+  "en": "This content is yet to be updated."
+ },
+ {
+  "k": "Global||Settings_CameraShake",
+  "en": "Camera Shake in Combat"
+ },
+ {
+  "k": "Global||SynergyActivated",
+  "en": "Synergy activated!"
+ },
+ {
+  "k": "Global||Uncursed",
+  "en": "Curse lifted."
+ },
+ {
+  "k": "Global||SelectWeapon_Title",
+  "en": "Select a weapon."
+ },
+ {
+  "k": "Global||Settings_Keybind_WaitNewInput",
+  "en": "Enter a new key for `{$a}`"
+ },
+ {
+  "k": "Global||Settings_Keybind_Attack",
+  "en": "Attack / Interact"
+ },
+ {
+  "k": "Global||Settings_Keybind_MagicPrimary",
+  "en": "Spell 1"
+ },
+ {
+  "k": "Global||Settings_Keybind_MagicSecondary",
+  "en": "Spell 2"
+ },
+ {
+  "k": "Global||Settings_Keybind_Evade",
+  "en": "Dash"
+ },
+ {
+  "k": "Global||Settings_Keybind_UI_Confirm",
+  "en": "Confirm"
+ },
+ {
+  "k": "Global||Settings_Keybind_UI_Cancel",
+  "en": "Cancel"
+ },
+ {
+  "k": "Global||Settings_Keybind_UI_LeftPage",
+  "en": "Previous Tab"
+ },
+ {
+  "k": "Global||Settings_Keybind_UI_RightPage",
+  "en": "Next Tab"
+ },
+ {
+  "k": "Global||Settings_Gamepad_Deadzone",
+  "en": "Stick Deadzone"
+ },
+ {
+  "k": "Global||Settings_WarnAreaColor",
+  "en": "Warning Range Color"
+ },
+ {
+  "k": "Global||Settings_WarnAreaColor_Option",
+  "en": "{$n}"
+ },
+ {
+  "k": "Global||Agree_ChangeChapter",
+  "en": "Go to this chapter?"
+ },
+ {
+  "k": "Global||Tab_ChangeChapter",
+  "en": "Change Chapter"
+ },
+ {
+  "k": "Global||WeaponType",
+  "en": "Weapon"
+ },
+ {
+  "k": "Global||Locked",
+  "en": "Locked"
+ },
+ {
+  "k": "Global||Relic_Tier1",
+  "en": "Tier 1"
+ },
+ {
+  "k": "Global||Relic_Tier2",
+  "en": "Tier 2"
+ },
+ {
+  "k": "Global||Relic_Tier3",
+  "en": "Tier 3"
+ },
+ {
+  "k": "Global||Shop",
+  "en": "Dice Shop"
+ },
+ {
+  "k": "Global||Shop_Warn",
+  "en": "※Each transaction increases all costs by 1."
+ },
+ {
+  "k": "Global||Exit",
+  "en": "Exit"
+ },
+ {
+  "k": "Global||SelectTag_Remove_Title",
+  "en": "Select a tag to remove.\n<size=30><color=#aaaaaa>Attributes with the chosen tag will not appear in future trait rewards.</color></size>"
+ },
+ {
+  "k": "Global||WaitKeybindInput_Error_1",
+  "en": "This key is already bound as the `{$a}` key."
+ },
+ {
+  "k": "Global||WaitKeybindInput_Error_2",
+  "en": "Enter a different key."
+ },
+ {
+  "k": "Global||Settings_Keybind_UI_Subfunctions",
+  "en": "Special Function"
+ },
+ {
+  "k": "Global||WaitKeybindInput_Error_KeyNotPermitted",
+  "en": "That key cannot be assigned.\nPlease enter a different key."
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.0_ClearAbigail",
+  "en": "Clear Chapter 1 with Abigail"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.0_ClearMaidTitan",
+  "en": "Clear Chapter 1 with Rims & Berry"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.0_ClearFiena",
+  "en": "Clear Chapter 1 with Fiena"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.0_Clear",
+  "en": "Clear Chapter 1"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.1_Clear",
+  "en": "Clear Chapter 2"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.2_Clear",
+  "en": "Clear Chapter 3"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.3_Clear",
+  "en": "Clear Chapter 4"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.4_Clear",
+  "en": "Clear Chapter 5"
+ },
+ {
+  "k": "Global||Chapter_Clear_Template",
+  "en": "Clear `{$n}`"
+ },
+ {
+  "k": "Global||Retry",
+  "en": "Retry"
+ },
+ {
+  "k": "Global||ClearReward",
+  "en": "Clear Rewards"
+ },
+ {
+  "k": "Global||IsPlayingChapter",
+  "en": "This chapter is currently in progress."
+ },
+ {
+  "k": "Global||Jungle_RemoveTag",
+  "en": "Remove 1 Tag"
+ },
+ {
+  "k": "Global||Jungle_RerollPoint",
+  "en": "Get 3 Dice"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.E1_Clear",
+  "en": "Clear Epilogue 1"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.E2_Clear",
+  "en": "Clear Epilogue 2"
+ },
+ {
+  "k": "Global||Locked_Contents_Chapter.E3_Clear",
+  "en": "Clear Epilogue 3"
+ },
+ {
+  "k": "Global||Tab_JungleUpgrade",
+  "en": "Maydel's Gift"
+ },
+ {
+  "k": "Global||Currency_EarnedMax",
+  "en": "Max {$EarnedAmount:0} / {$MaxAmount:0}"
+ },
+ {
+  "k": "Global||Special",
+  "en": "Special Skill"
+ },
+ {
+  "k": "Global||Settings_Keybind_Special",
+  "en": "Special Skill"
+ },
+ {
+  "k": "Global||Settings_Keybind_SwapMagic",
+  "en": "Move Spell"
+ },
+ {
+  "k": "Global||Chapter.E1",
+  "en": "Epilogue 1"
+ },
+ {
+  "k": "Global||Armory",
+  "en": "Armory"
+ },
+ {
+  "k": "Global||Info",
+  "en": "Info"
+ },
+ {
+  "k": "Global||Addon",
+  "en": "Imprints"
+ },
+ {
+  "k": "HashTag||Buff",
+  "en": "#Buff"
+ },
+ {
+  "k": "HashTag||Debuff",
+  "en": "#Debuff"
+ },
+ {
+  "k": "HashTag||Weapon",
+  "en": "#Weapon"
+ },
+ {
+  "k": "HashTag||Magic",
+  "en": "#Spell"
+ },
+ {
+  "k": "HashTag||Cooltime",
+  "en": "#CooldownSkill"
+ },
+ {
+  "k": "HashTag||Witchcraft",
+  "en": "#Witchcraft"
+ },
+ {
+  "k": "HashTag||Cast",
+  "en": "#Cast"
+ },
+ {
+  "k": "HashTag||Charge",
+  "en": "#Charge"
+ },
+ {
+  "k": "HashTag||Channeling",
+  "en": "#Channeling"
+ },
+ {
+  "k": "HashTag||Attack",
+  "en": "#Attack"
+ },
+ {
+  "k": "HashTag||Projectile",
+  "en": "#Projectile"
+ },
+ {
+  "k": "HashTag||Needle",
+  "en": "#Needle"
+ },
+ {
+  "k": "HashTag||Summon",
+  "en": "#Summon"
+ },
+ {
+  "k": "HashTag||Familiar",
+  "en": "#Doll"
+ },
+ {
+  "k": "HashTag||Flower",
+  "en": "#Flower"
+ },
+ {
+  "k": "HashTag||Crow",
+  "en": "#Crow"
+ },
+ {
+  "k": "HashTag||Combo",
+  "en": "#Combo"
+ },
+ {
+  "k": "Jewel_Info||AllDamageMore",
+  "en": "All DMG increases by `{$n:0.##%}`."
+ },
+ {
+  "k": "Jewel_Info||NewWeapon",
+  "en": "`Lapis Scissors` weapon unlocked."
+ },
+ {
+  "k": "Jewel_Info||NewMagic",
+  "en": "`Gem Shards` spell unlocked."
+ },
+ {
+  "k": "Jewel_Info||GasDamageTakenLess",
+  "en": "Damage taken from `Poison Cloud` decreases by `{|$n|:0.##%}`."
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.UnlockWeapon",
+  "en": "Broken Weapon Fragment"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.UnlockMagic",
+  "en": "Broken Crystal"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.GasMask",
+  "en": "Broken Device"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Middle_00",
+  "en": "Broken Relic"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Middle_01",
+  "en": "Broken Relic"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Middle_02",
+  "en": "Broken Relic"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_00",
+  "en": "Broken Snake Statue"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_01",
+  "en": "Broken Ring"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_02",
+  "en": "Broken Necklace"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_03",
+  "en": "Broken Bracelet"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_04",
+  "en": "Broken Decorative Sword"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_05",
+  "en": "Broken Goblet"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_06",
+  "en": "Broken Brooch"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_07",
+  "en": "Broken Dog Statue"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_08",
+  "en": "Broken Jeweled Accessory"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_09",
+  "en": "Broken Lamp"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_10",
+  "en": "Broken Bird Statue"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_11",
+  "en": "Broken Cat Statue"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_12",
+  "en": "Broken Scarab Statue"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_13",
+  "en": "Broken Crown"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_14",
+  "en": "Broken Earring"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_15",
+  "en": "Broken Hairpin"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_16",
+  "en": "Broken Staff"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_17",
+  "en": "Broken Teacup"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_18",
+  "en": "Broken Incense Burner"
+ },
+ {
+  "k": "Jewel_Name_Broken||Jewel.Small_19",
+  "en": "Broken Seal"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.UnlockWeapon",
+  "en": "Lapis Scissors"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.UnlockMagic",
+  "en": "Magic Crystal"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.GasMask",
+  "en": "Purifier"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Middle_00",
+  "en": "Jeweled Eye"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Middle_01",
+  "en": "Ritual Jeweled Accessory"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Middle_02",
+  "en": "Gem Divination Tool"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_00",
+  "en": "Snake Statue"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_01",
+  "en": "Jeweled Ring"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_02",
+  "en": "Jeweled Necklace"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_03",
+  "en": "Jeweled Bracelet"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_04",
+  "en": "Decorative Sword"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_05",
+  "en": "Goblet"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_06",
+  "en": "Brooch"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_07",
+  "en": "Dog Statue"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_08",
+  "en": "Jeweled Accessory"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_09",
+  "en": "Magic Lamp"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_10",
+  "en": "Bird Statue"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_11",
+  "en": "Cat Statue"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_12",
+  "en": "Scarab Statue"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_13",
+  "en": "Jeweled Crown"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_14",
+  "en": "Earring"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_15",
+  "en": "Jeweled Hairpin"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_16",
+  "en": "Staff"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_17",
+  "en": "Teacup"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_18",
+  "en": "Ritual Incense Burner"
+ },
+ {
+  "k": "Jewel_Name_Normal||Jewel.Small_19",
+  "en": "Jeweled Seal"
+ },
+ {
+  "k": "JewelUpgrade||State_CanUpgrade",
+  "en": "Restore"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.2.0.Title",
+  "en": "Special Skills Unlocked"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.2.0.Description",
+  "en": "Three new `Special Skills` are unlocked.\nYou can select and swap them in the `Armory`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.GaugeRecoverPerSecInfo",
+  "en": "(Gauge Charge SPD : `{$Gauge_RecorverPerSec:0%}` per sec)"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.Lv",
+  "en": "Upgrade Level {$CurrentLevel}/{$MaxLevel}"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.0.0.Title",
+  "en": "Growth"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.0.0.Description",
+  "en": "For every `1` `Upgrade Level`, `EXP` gain increases by `{$Jungle_Exp_More:0.##%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.0.0.TotalStat",
+  "en": "`EXP` gain is increased by `{$Jungle_Exp_More:0.##%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.1.0.Title",
+  "en": "Regeneration"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.1.0.Description",
+  "en": "For every `1` `Upgrade Level`, HP Recovery per `10s` increases by `{$Jungle_RestoreHealthAmount:0}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.1.0.TotalStat",
+  "en": "Every `10s`, recovers `{$Jungle_RestoreHealthAmount:0}` HP."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.1.1.Title",
+  "en": "Rage"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.1.1.Description",
+  "en": "For every `1` `Upgrade Level`, all ATK increases by `{$All_Damage_More:0.##%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.1.1.TotalStat",
+  "en": "All ATK is increased by `{$All_Damage_More:0.##%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.0.Title",
+  "en": "Overwhelm"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.0.Description",
+  "en": "For every `1` `Upgrade Level`, damage taken by `Normal Monsters` increases by `{$OnProcessHit_All_Damage_More_ToNormalMonster:0%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.0.TotalStat",
+  "en": "Damage taken by `Normal Monsters` is increased by `{$OnProcessHit_All_Damage_More_ToNormalMonster:0%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.1.Title",
+  "en": "Hunt"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.1.Description",
+  "en": "For every `1` `Upgrade Level`, damage taken by `Boss Monsters` increases by `{$OnProcessHit_All_Damage_More_ToBossMonster:0%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.1.TotalStat",
+  "en": "Damage taken by `Boss Monsters` is increased by `{$OnProcessHit_All_Damage_More_ToBossMonster:0.##%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.2.Title",
+  "en": "Shell"
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.2.Description",
+  "en": "For every `1` `Upgrade Level`, damage taken decreases by `{|$DamageTaken_More|:0.##%}`."
+ },
+ {
+  "k": "JungleUpgrade||JungleUpgrade.3.2.TotalStat",
+  "en": "Damage taken is decreased by `{|$DamageTaken_More|:0.##%}`."
+ },
+ {
+  "k": "Keymap||Edit",
+  "en": "Change"
+ },
+ {
+  "k": "Keymap||Equip",
+  "en": "Equip"
+ },
+ {
+  "k": "Keymap||Disarm",
+  "en": "Unequip"
+ },
+ {
+  "k": "Keymap||SelectCurse",
+  "en": "Select Curse"
+ },
+ {
+  "k": "Keymap||StorySkip",
+  "en": "Skip"
+ },
+ {
+  "k": "Keymap||StoryFastForward",
+  "en": "Fast-Forward"
+ },
+ {
+  "k": "Keymap||PhoneCall",
+  "en": "Call"
+ },
+ {
+  "k": "Keymap||ChangeChapter",
+  "en": "Change Chapter"
+ },
+ {
+  "k": "Keymap||Shop",
+  "en": "Buy Attributes <sprite name=\"RerollPoint\"> {$s}"
+ },
+ {
+  "k": "Keymap||Stop",
+  "en": "Stop"
+ },
+ {
+  "k": "Keymap||Collapse",
+  "en": "Collapse"
+ },
+ {
+  "k": "Keymap||Detail",
+  "en": "Details"
+ },
+ {
+  "k": "Keymap||GetJewel",
+  "en": "Obtain Crafted Artifact"
+ },
+ {
+  "k": "Keymap||SetupEquipments",
+  "en": "Equipment Setup"
+ },
+ {
+  "k": "Keymap||RewardList",
+  "en": "All Reward List"
+ },
+ {
+  "k": "Keymap||Move",
+  "en": "Move"
+ },
+ {
+  "k": "Keymap||Select",
+  "en": "Select"
+ },
+ {
+  "k": "Keymap||Cancel",
+  "en": "Cancel"
+ },
+ {
+  "k": "Keymap||Delete",
+  "en": "Delete"
+ },
+ {
+  "k": "Keymap||MoveTab",
+  "en": "Move Tab"
+ },
+ {
+  "k": "Keymap||ResetSetting",
+  "en": "Reset Settings"
+ },
+ {
+  "k": "Keymap||ResetAllSetting",
+  "en": "Reset All Settings"
+ },
+ {
+  "k": "Keymap||SkillDetail",
+  "en": "Skill Detail"
+ },
+ {
+  "k": "Keymap||Back",
+  "en": "Back"
+ },
+ {
+  "k": "Keymap||Next",
+  "en": "Next"
+ },
+ {
+  "k": "Keymap||Previous",
+  "en": "Previous"
+ },
+ {
+  "k": "Keymap||Confirm",
+  "en": "Confirm"
+ },
+ {
+  "k": "Keymap||TraitDetail",
+  "en": "Attribute Detail"
+ },
+ {
+  "k": "Keymap||CloseWindow",
+  "en": "Close"
+ },
+ {
+  "k": "Keymap||MovePage",
+  "en": "Move Page"
+ },
+ {
+  "k": "Keymap||GetReward",
+  "en": "Get Reward"
+ },
+ {
+  "k": "Keymap||Exit",
+  "en": "Exit"
+ },
+ {
+  "k": "Keymap||Upgrade",
+  "en": "Upgrade"
+ },
+ {
+  "k": "Keymap||ResetUpgrade",
+  "en": "Reset"
+ },
+ {
+  "k": "Keymap||Attack",
+  "en": "Attack"
+ },
+ {
+  "k": "Keymap||Dash",
+  "en": "Dash"
+ },
+ {
+  "k": "Keymap||Magic",
+  "en": "Spell"
+ },
+ {
+  "k": "Keymap||MoveStick",
+  "en": "Move"
+ },
+ {
+  "k": "Keymap||Skill",
+  "en": "Skill"
+ },
+ {
+  "k": "Keymap||SelectWeapon",
+  "en": "Armory"
+ },
+ {
+  "k": "Keymap||Locked",
+  "en": "Locked"
+ },
+ {
+  "k": "Keymap||TalkMaydel",
+  "en": "Talk"
+ },
+ {
+  "k": "Keymap||TalkCanele",
+  "en": "Talk"
+ },
+ {
+  "k": "Keymap||Talk",
+  "en": "Talk"
+ },
+ {
+  "k": "Keymap||PatCanele",
+  "en": "Pet"
+ },
+ {
+  "k": "Keymap||ChangeDifficulty",
+  "en": "Change Difficulty"
+ },
+ {
+  "k": "Keyword_Info||WeaponEnhancement",
+  "en": "Increases damage dealt by `Weapons` based on the amount held."
+ },
+ {
+  "k": "Keyword_Info||MagicRage",
+  "en": "When using `Spell`, consume all held `Spell Rampage` to increase that `Spell`'s damage."
+ },
+ {
+  "k": "Keyword_Info||Fire",
+  "en": "Applies `Burn` to the enemy's HP.\nBurned HP decreases at a set rate through Combustion."
+ },
+ {
+  "k": "Keyword_Info||Needle",
+  "en": "Flies at an enemy, inflicting damage and tying the target's HP with a `Thread`."
+ },
+ {
+  "k": "Keyword_Info||Thread",
+  "en": "Decreases the target's Max HP by the amount of HP tied with `Thread`."
+ },
+ {
+  "k": "Keyword_Info||Crow",
+  "en": "Attacks a nearby enemy a certain number of times before being removed."
+ },
+ {
+  "k": "Keyword_Info||Flower",
+  "en": "Blooms after 3s and is removed when stepped on by an enemy.\nWhen removed, it explodes and deals damage to all enemies in range."
+ },
+ {
+  "k": "Keyword_Info||Blood",
+  "en": "Recovered by absorbing `Blood Clots`.\nA Cooldown Skill can be used immediately by consuming `1` `Blood Gauge` for each `1s` of remaining Cooldown."
+ },
+ {
+  "k": "Keyword_Info||Stack",
+  "en": "When a Cooldown Skill's Cooldown is fully recovered, additional Cooldown is recovered to increase the number of `Skill` uses."
+ },
+ {
+  "k": "Keyword_Info||Resurrect",
+  "en": "Upon taking lethal damage, if any revives remain, restores a portion of HP and survives."
+ },
+ {
+  "k": "Keyword_Info||Invincible",
+  "en": "Blocks most damage for a set duration."
+ },
+ {
+  "k": "Keyword_Info||IncreaseAttackSpeed",
+  "en": "Increases Attack SPD based on amount held."
+ },
+ {
+  "k": "Keyword_Info||AmbushEnhancement",
+  "en": "Increases `Ambush` damage based on amount held."
+ },
+ {
+  "k": "Keyword_Info||CounterAttackEnhancement",
+  "en": "Increases `Counter` damage based on amount held.\nDuration is refreshed when stacked."
+ },
+ {
+  "k": "Keyword_Info||Rampage",
+  "en": "Increases All DMG based on amount held."
+ },
+ {
+  "k": "Keyword_Info||ForceCritical",
+  "en": "When using a `Weapon`, consume `1` from the amount held to trigger that attack as a Critical Hit."
+ },
+ {
+  "k": "Keyword_Info||IncreaseChargeSpeed",
+  "en": "Increases all `Charge SPD` based on amount held."
+ },
+ {
+  "k": "Keyword_Info||CatSignDebuff",
+  "en": "Increases damage taken by the target based on stack count."
+ },
+ {
+  "k": "Keyword_Info||SmallFamiliar",
+  "en": "Attacks the target with `Mark` or a nearby enemy.\nRemoved small dolls are resummoned one at a time every `3s`."
+ },
+ {
+  "k": "Keyword_Info||BigFamiliar",
+  "en": "Attacks the target with `Mark` or a nearby enemy.\nRemoved large dolls are resummoned one at a time every `3s`."
+ },
+ {
+  "k": "Keyword_Info||GhostFamiliar",
+  "en": "Attacks the target with `Mark` or a nearby enemy for a set duration."
+ },
+ {
+  "k": "Keyword_Info||Charge",
+  "en": "Hold the button to fill the charge gauge and raise the `charge level`.\nIf any stacks remain, the charge gauge can be filled further."
+ },
+ {
+  "k": "Keyword_Info||Summon",
+  "en": "Created by the effects of skills and other sources to assist in battle.\nSummons include `Dolls`, `Flowers`, `Crows`, and similar entities."
+ },
+ {
+  "k": "Keyword_Name||WeaponEnhancement",
+  "en": "Sharpness"
+ },
+ {
+  "k": "Keyword_Name||Fire",
+  "en": "Burn"
+ },
+ {
+  "k": "Keyword_Name||Invincible",
+  "en": "Invincible"
+ },
+ {
+  "k": "Keyword_Name||IncreaseAttackSpeed",
+  "en": "Swiftness"
+ },
+ {
+  "k": "Keyword_Name||AmbushEnhancement",
+  "en": "Ambush Potency"
+ },
+ {
+  "k": "Keyword_Name||CounterAttackEnhancement",
+  "en": "Counter Potency"
+ },
+ {
+  "k": "Keyword_Name||Rampage",
+  "en": "Power Boost"
+ },
+ {
+  "k": "Keyword_Name||ForceCritical",
+  "en": "Guaranteed Crit"
+ },
+ {
+  "k": "Keyword_Name||IncreaseChargeSpeed",
+  "en": "Charge Acceleration"
+ },
+ {
+  "k": "Keyword_Name||CatSignDebuff",
+  "en": "Mark"
+ },
+ {
+  "k": "Keyword_Name||SmallFamiliar",
+  "en": "Small Doll"
+ },
+ {
+  "k": "Keyword_Name||BigFamiliar",
+  "en": "Large Doll"
+ },
+ {
+  "k": "Keyword_Name||GhostFamiliar",
+  "en": "Phantom Doll"
+ },
+ {
+  "k": "Keyword_Name||Charge",
+  "en": "Charge"
+ },
+ {
+  "k": "Keyword_Name||Summon",
+  "en": "Summon"
+ },
+ {
+  "k": "Keyword_Name||MagicRage",
+  "en": "Spell Rampage"
+ },
+ {
+  "k": "Keyword_Name||Needle",
+  "en": "Needle"
+ },
+ {
+  "k": "Keyword_Name||Thread",
+  "en": "Thread"
+ },
+ {
+  "k": "Keyword_Name||Crow",
+  "en": "Crow"
+ },
+ {
+  "k": "Keyword_Name||Flower",
+  "en": "Flower"
+ },
+ {
+  "k": "Keyword_Name||Blood",
+  "en": "Blood Gauge"
+ },
+ {
+  "k": "Keyword_Name||Stack",
+  "en": "Stack"
+ },
+ {
+  "k": "Keyword_Name||Resurrect",
+  "en": "Revive"
+ },
+ {
+  "k": "Magic_Info||Magic.ReaperSwing",
+  "en": "When used, deals damage to all enemies in range."
+ },
+ {
+  "k": "Magic_Info||Magic.Ambush",
+  "en": "When used, moves to the opposite side of the Target and deals damage to all enemies in range."
+ },
+ {
+  "k": "Magic_Info||Magic.CounterAttack",
+  "en": "When used, blocks most damage for `{$BlockDuration}s`. Blocking an enemy attack deals damage to all enemies in range and makes you `Invincible` for `{$InvincibleDuration}s`."
+ },
+ {
+  "k": "Magic_Info||Magic.SpawnFamiliar",
+  "en": "Summons a `Small Doll` at the start of battle. When used, applies a `Mark` to the Target and deals damage to the Target and all nearby enemies."
+ },
+ {
+  "k": "Magic_Info||Magic.SpawnTrap",
+  "en": "When used, creates a `Sewing Wheel` near you that tracks the nearest enemy and continuously deals damage to all enemies in range."
+ },
+ {
+  "k": "Magic_Info||Magic.Rush",
+  "en": "When used, performs a `Rush` over a set distance, deals damage to all enemies in range, and fires `Needles`. Using it again within `{$Pull_Duration}s` pulls targets connected by `Thread` and deals additional damage increased by `{$Pull_Damage_More:0.##%}`."
+ },
+ {
+  "k": "Magic_Info||Magic.Boost",
+  "en": "Move SPD increases while `Charging`. When `Charging` ends, deals damage to all enemies in range based on the `Charged Gauge` and summons `{$Flower_SpawnAmount_PerCharge}` `Flower` per `Charge Level`."
+ },
+ {
+  "k": "Magic_Info||Magic.SpawnCrow",
+  "en": "When used, fires a projectile that deals damage to all enemies it pierces and summons `{$SpawnBasicCrow}` `Crow`."
+ },
+ {
+  "k": "Magic_Info||Magic.Leech",
+  "en": "When used, creates a `Blood Marble` that deals `{$DamagePerSec_Mult:0.##%} per second` DMG to all enemies in range. Every `{$Periodic_Period:0.##}s`, it creates `{$Periodic_BloodPickup_SpawAmount:0.##}` `Blood Clot` and deals DMG."
+ },
+ {
+  "k": "Magic_Info||Magic.SpawnFireball",
+  "en": "When `Charging` ends, fires a `Fireball` that deals damage to all enemies in range based on its `Charge Level`. If the Charge reaches `Level 1` or higher, it applies `Burn` equal to `{$FireDamage_DamageMult:0.##%}` of its `DMG Dealt`."
+ },
+ {
+  "k": "Magic_Info||Magic.SpawnOrb",
+  "en": "While `Channeling`, fires projectiles that deal damage to every enemy they pierce. When channeling ends, recalls the projectiles and deals damage again. Each projectile hit recovers the Cooldown of other Cooldown Skills."
+ }
+]

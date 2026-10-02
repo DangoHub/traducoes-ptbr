@@ -1,0 +1,110 @@
+[
+ {
+  "k": "Weapon_Name||Weapon.Scissor.5",
+  "en": "Lapis Scissors"
+ },
+ {
+  "k": "Weapon_Name||Weapon.Scissor.0",
+  "en": "Scissors"
+ },
+ {
+  "k": "Weapon_Name||Weapon.Scissor.1",
+  "en": "Giant Scissors"
+ },
+ {
+  "k": "Weapon_Name||Weapon.Scissor.2",
+  "en": "Magic Scissors"
+ },
+ {
+  "k": "Weapon_Name||Weapon.Scissor.3",
+  "en": "Broken Scissors"
+ },
+ {
+  "k": "Weapon_Name||Weapon.Scissor.4",
+  "en": "Singing Scissors"
+ },
+ {
+  "k": "NoticeEndlessUnlock||NoticeEndlessUnlock.Title",
+  "en": "Thank you for playing."
+ },
+ {
+  "k": "NoticeEndlessUnlock||NoticeEndlessUnlock.Description",
+  "en": "By continuing from your clear data, you can enjoy `Challenge Mode` content."
+ },
+ {
+  "k": "HashTag||Duration",
+  "en": "#Duration"
+ },
+ {
+  "k": "HashTag||Special",
+  "en": "#SpecialSkill"
+ },
+ {
+  "k": "Keyword_Name||Familiar",
+  "en": "Doll"
+ },
+ {
+  "k": "Keyword_Info||Familiar",
+  "en": "Follows Sil to assist in battle.\nDolls include `Small Dolls`, `Large Dolls`, `Phantom Dolls`, and others."
+ },
+ {
+  "k": "ChapterInfo||Group.EndContents",
+  "en": "Endgame Content"
+ },
+ {
+  "k": "ChapterInfo||Title.Chapter.EndGameHub",
+  "en": "Challenge Mode"
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.EndGameHub",
+  "en": "The perfect place to test your techniques, courage, and luck."
+ },
+ {
+  "k": "ChapterInfo||Description.Chapter.Endless",
+  "en": "After many twists and turns, the garden overcame a major crisis, but that doesn't mean the witches' habits will change overnight. Will this year's Tea Party end without a hitch?"
+ },
+ {
+  "k": "Upgrade_Jewel||RareJewel",
+  "en": "Special Crafted Artifact"
+ },
+ {
+  "k": "Upgrade_Jewel||NormalJewel",
+  "en": "Normal Crafted Artifact"
+ },
+ {
+  "k": "Global||MirrorAlertPointNotAllUsed",
+  "en": "Unused mirror shards remain. Do you wish to continue?"
+ },
+ {
+  "k": "Toast||MirrorNeedSelectMagic",
+  "en": "You must select a Spell in Shasha's Mirror before entering."
+ },
+ {
+  "k": "Toast||MirrorNeedSelectSpecial",
+  "en": "You must select a Special Skill in Shasha's Mirror before you can enter."
+ },
+ {
+  "k": "EndContents||Option.DashInvincible.On",
+  "en": "`Enable` Invincibility During Dash"
+ },
+ {
+  "k": "EndContents||Option.DashInvincible.Off",
+  "en": "`Disable` Invincibility During Dash"
+ },
+ {
+  "k": "EndContents||Option.DesertBossRageTimeReduce",
+  "en": "Boss Enrage Time reduced by `{$a:0.##%}`"
+ },
+ {
+  "k": "Global||DPS",
+  "en": "DPS"
+ },
+ {
+  "k": "Global||DisableDashInvincible",
+  "en": "Disable Invincibility During Dash"
+ },
+ {
+  "k": "Global||DisableDashInvincible_Info",
+  "en": "Recommended for players familiar with boss strategies and build combinations who are confident in their skills."
+ }
+]
