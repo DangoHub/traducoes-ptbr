@@ -16,6 +16,11 @@ O instalador lê os textos do SEU jogo, aplica a tradução e grava arquivos
 NOVOS na pasta Pack (Fables_pc_PTBR_*.ttarch2 e _resourcedescriptions_500_PTBR_*.lenc).
 Nenhum arquivo original é modificado.
 
+LIMITAÇÃO CONHECIDA
+Algumas falas narradas aparecem sem legenda. Isso também acontece no jogo
+original em inglês: essas falas (756 de 53.263, principalmente nos trechos
+"Anteriormente em..." e "Na próxima...") só têm áudio, sem texto no jogo.
+
 COMO DESINSTALAR
 Execute o instalador e clique em "Desinstalar" (ou apague da pasta Pack os
 arquivos que começam com "Fables_pc_PTBR_" e "_resourcedescriptions_500_PTBR_").

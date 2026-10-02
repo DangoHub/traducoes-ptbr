@@ -4,6 +4,14 @@
 - **Conteúdo:** 34.480 falas únicas (52.507 no total) — episódios 1 a 5, menus, conquistas, Fablespedia, créditos
 - **Release:** [`releases/steam-build-319083/`](releases/steam-build-319083/)
 
+## Limitações conhecidas
+
+- **Algumas falas narradas não exibem legenda.** São 756 falas (de 53.263) que já vêm **sem texto no
+  jogo original em inglês** — só existe o áudio, então não há o que traduzir/exibir. Concentram-se em
+  `previouslyon_*` / `nexttimeon_*` ("Anteriormente em..." / "Na próxima...") e em algumas cenas do
+  Episódio 2 (cela do Lenhador, Pudding & Pie). Para conferir: `python tools/empty_lines.py`.
+  Legendá-las exigiria transcrever o áudio e criar os textos do zero.
+
 ## Como funciona
 
 O Telltale Tool carrega conteúdo por *resource descriptions* (`Pack/_resourcedescriptions_*.lenc`, Lua

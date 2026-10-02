@@ -5,7 +5,7 @@ Traduções de fãs para português do Brasil, feitas com foco em localização 
 | Jogo | Engine | Pasta | Versão suportada (Steam build) | Status |
 |---|---|---|---|---|
 | Garden of Witches | Unity 2022.3 (IL2CPP) | [`garden-of-witches/`](garden-of-witches/) | 25225196 | Completo (história + interface) |
-| The Wolf Among Us | Telltale Tool | [`the-wolf-among-us/`](the-wolf-among-us/) | 319083 | Completo (5 episódios + menus + Fablespedia), aguardando teste em jogo |
+| The Wolf Among Us | Telltale Tool | [`the-wolf-among-us/`](the-wolf-among-us/) | 319083 | Completo (5 episódios + menus + Fablespedia), testado em jogo |
 
 ## Estrutura de cada jogo
 
