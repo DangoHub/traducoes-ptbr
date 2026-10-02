@@ -10,11 +10,11 @@ on:
           - garden-of-witches
           - the-wolf-among-us
       versao:
-        description: Versão da tradução (ex.: v1.0)
+        description: "Versão da tradução (ex.: v1.0)"
         required: true
         default: v1.0
       steam_build:
-        description: Steam build suportado (ex.:25225196)
+        description: "Steam build suportado (ex.: 25225196)"
         required: true
 
 permissions:
