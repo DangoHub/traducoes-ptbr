@@ -1,11 +1,15 @@
-"""Junta as traduções, gera o instalador .exe e o .zip de distribuição.
+"""Junta as traduções, gera o instalador e o .zip de distribuição.
 Uso: python build.py [--json-only] [--steam-build=319083]"""
-import json, os, shutil, subprocess, sys, zipfile
+import json, os, sys
 sys.stdout.reconfigure(encoding="utf-8")
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
+sys.path.insert(0, os.path.dirname(ROOT))
+sys.path.insert(0, os.path.join(ROOT, "src"))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
 from validate import check
+from empacotar import empacotar
+from wolf_patch import MOD_VERSION
 
 lines, missing, bad = {}, 0, 0
 for fn in sorted(os.listdir("chunks")):
@@ -31,26 +35,12 @@ print("Arquivos de texto do jogo:", len(index))
 if "--json-only" in sys.argv:
     sys.exit(0)
 
-exe_name = "Instalador_Traducao_PTBR_The_Wolf_Among_Us"
-data = [os.path.join(ROOT, "src", f) + ";." for f in ("traducao_ptbr.json", "landb_index.json")]
-subprocess.check_call([
-    "pyinstaller", "--noconfirm", "--onefile", "--windowed", "--uac-admin", "--clean",
-    "--name", exe_name, "--add-data", data[0], "--add-data", data[1],
-    "--distpath", os.path.join(ROOT, "dist"), "--workpath", os.path.join(ROOT, "build"),
-    "--specpath", os.path.join(ROOT, "build"),
-    "--paths", os.path.join(ROOT, "src"), os.path.join(ROOT, "src", "instalador.py"),
-])
-
 STEAM_BUILD = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--steam-build=")), "319083")
-release = os.path.join(ROOT, "releases", f"steam-build-{STEAM_BUILD}")
-os.makedirs(release, exist_ok=True)
-exe = os.path.join("dist", exe_name + ".exe")
-shutil.copy(exe, release)
-zpath = os.path.join(release, "The_Wolf_Among_Us_Traducao_PTBR.zip")
-with zipfile.ZipFile(zpath, "w", zipfile.ZIP_DEFLATED) as z:
-    z.write(exe, exe_name + ".exe")
-    z.write("LEIA-ME.txt", "LEIA-ME.txt")
-    for f in ("traducao_ptbr.json", "landb_index.json", "wolf_patch.py", "telltale.py", "landb.py", "bf_const.py", "instalador.py"):
-        z.write(os.path.join("src", f), "fonte/" + f)
-    z.write("GUIA_TRADUCAO.md", "fonte/GUIA_TRADUCAO.md")
-print("OK:", exe, "|", zpath, os.path.getsize(zpath) // 1024, "KB")
+empacotar(
+    ROOT, "Traducao_PTBR_The_Wolf_Among_Us", "The Wolf Among Us", MOD_VERSION,
+    dados=["traducao_ptbr.json", "landb_index.json"],
+    fontes=[("src/" + f, f) for f in ("traducao_ptbr.json", "landb_index.json", "wolf_patch.py", "telltale.py",
+                                      "landb.py", "bf_const.py", "instalador.py")]
+           + [("GUIA_TRADUCAO.md", "GUIA_TRADUCAO.md")],
+    zip_name="The_Wolf_Among_Us_Traducao_PTBR.zip", steam_build=STEAM_BUILD,
+)

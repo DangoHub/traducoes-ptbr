@@ -51,7 +51,7 @@ jobs:
           mkdir assets
           cp projetos/$JOGO/releases/steam-build-$BUILD/* assets/
           cd assets
-          sha256sum *.exe *.zip > SHA256SUMS.txt
+          sha256sum *.zip > SHA256SUMS.txt
           cat SHA256SUMS.txt
 
       - name: Atestar origem do build (Sigstore)
@@ -59,7 +59,6 @@ jobs:
         uses: actions/attest-build-provenance@v4
         with:
           subject-path: |
-            assets/*.exe
             assets/*.zip
             assets/SHA256SUMS.txt
 
@@ -72,7 +71,6 @@ jobs:
           vt_api_key: ${{ secrets.VT_API_KEY }}
           request_rate: 4
           files: |
-            assets/*.exe
             assets/*.zip
 
       - name: Publicar release
@@ -89,7 +87,7 @@ jobs:
           {
             echo "## $NOME — Tradução PT-BR ${{ inputs.versao }}"
             echo
-            echo "Compatível com a versão Steam **build $BUILD**. Baixe o \`.exe\` (instalador) ou o \`.zip\` (instalador + código-fonte + LEIA-ME)."
+            echo "Compatível com a versão Steam **build $BUILD**. Baixe o \`.zip\`, extraia e execute o programa da pasta \`Traducao_PTBR_...\`. O zip também traz o código-fonte e o LEIA-ME."
             echo
             echo "Gerado automaticamente pelo GitHub Actions a partir do commit [\`${GITHUB_SHA:0:7}\`](https://github.com/$REPO/commit/$GITHUB_SHA) — [log do build]($GITHUB_SERVER_URL/$REPO/actions/runs/$GITHUB_RUN_ID)."
             echo
@@ -99,8 +97,8 @@ jobs:
             echo '```'
             echo
             echo "### Como verificar"
-            echo '- PowerShell: `Get-FileHash .\arquivo.exe -Algorithm SHA256` e compare com a lista acima.'
-            echo "- Origem do build: \`gh attestation verify arquivo.exe --repo $REPO\`"
+            echo '- PowerShell: `Get-FileHash .\arquivo.zip -Algorithm SHA256` e compare com a lista acima.'
+            echo "- Origem do build: \`gh attestation verify arquivo.zip --repo $REPO\`"
             if [ -n "$VT_ANALYSIS" ]; then
               echo
               echo "### VirusTotal"

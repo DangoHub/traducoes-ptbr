@@ -13,7 +13,7 @@ ASSETS_REL = os.path.join("Garden of Witches_Data", "resources.assets")
 BACKUP_NAME = "ptbr_mod_backup.json"
 TARGET_COLUMN = "en"
 TEXTASSET_CLASS_ID = 49
-MOD_VERSION = "1.0.0"
+MOD_VERSION = "1.1.0"
 
 
 class PatchError(Exception):

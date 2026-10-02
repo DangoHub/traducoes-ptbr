@@ -9,9 +9,10 @@ O QUE ESTÁ TRADUZIDO
 
 COMO INSTALAR
   1. Feche o jogo.
-  2. Execute "Instalador_Traducao_PTBR_Garden_of_Witches.exe"
-     (o Windows vai pedir permissão de administrador, pois o jogo
-     fica em "Arquivos de Programas").
+  2. Extraia este zip (botão direito > Extrair tudo...), abra a
+     pasta "Traducao_PTBR_Garden_of_Witches" e execute
+     "Traducao_PTBR_Garden_of_Witches.exe". Mantenha a pasta
+     "_internal" junto do .exe.
   3. O instalador encontra o jogo automaticamente pela Steam.
      Se não encontrar, clique em "Procurar..." e escolha a pasta
      onde está o "Garden of Witches.exe".

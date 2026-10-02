@@ -10,7 +10,7 @@ import os
 import telltale as tt
 from landb import Landb
 
-MOD_VERSION = "1.0.0"
+MOD_VERSION = "1.1.0"
 MOD_TAG = "PTBR"
 PRIORITY = 100
 LANGS = ("english", "french", "german", "italian", "spanish")

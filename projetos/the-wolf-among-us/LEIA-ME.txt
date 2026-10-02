@@ -5,7 +5,9 @@ Versão do jogo testada: Steam build 319083
 
 COMO INSTALAR
 1. Feche o jogo.
-2. Execute "Instalador_Traducao_PTBR_The_Wolf_Among_Us.exe".
+2. Extraia este zip (botão direito > Extrair tudo...), abra a pasta
+   "Traducao_PTBR_The_Wolf_Among_Us" e execute "Traducao_PTBR_The_Wolf_Among_Us.exe".
+   Mantenha a pasta "_internal" junto do .exe.
 3. Confira se a pasta do jogo foi detectada (ou clique em "Procurar..." e
    selecione a pasta "The Wolf Among Us", onde fica o TheWolfAmongUs.exe).
 4. Clique em "Instalar tradução" e aguarde a mensagem "Concluído!".
