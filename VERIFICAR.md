@@ -18,7 +18,7 @@ release linkam o commit exato e o log completo do build.
 Cada release traz o arquivo `SHA256SUMS.txt` e a mesma lista nas notas. No PowerShell:
 
 ```powershell
-Get-FileHash .\Instalador_Traducao_PTBR_The_Wolf_Among_Us.exe -Algorithm SHA256
+Get-FileHash .\The_Wolf_Among_Us_Traducao_PTBR.zip -Algorithm SHA256
 ```
 
 O valor tem que ser idêntico ao publicado. Se não for, não execute o arquivo.
@@ -29,12 +29,12 @@ Prova criptograficamente que o arquivo saiu do workflow deste repositório, em q
 [GitHub CLI](https://cli.github.com/):
 
 ```powershell
-gh attestation verify .\Instalador_Traducao_PTBR_The_Wolf_Among_Us.exe --repo DangoHub/traducoes-ptbr
+gh attestation verify .\The_Wolf_Among_Us_Traducao_PTBR.zip --repo DangoHub/traducoes-ptbr
 ```
 
 ## 5. VirusTotal
 
-Quando o secret `VT_API_KEY` está configurado, o workflow envia o `.exe` e o `.zip` ao
+Quando o secret `VT_API_KEY` está configurado, o workflow envia o `.zip` ao
 [VirusTotal](https://www.virustotal.com/) e coloca o link da análise nas notas da release.
 
 ## Por que o Windows ou o antivírus reclamam?

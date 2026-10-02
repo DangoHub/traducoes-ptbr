@@ -9,8 +9,8 @@ Cada jogo tem instalador com um clique, desinstalação limpa e código 100% abe
 
 | Jogo | Versão Steam compatível | Download |
 |---|---|---|
-| The Wolf Among Us | build 319083 | [Instalador .exe](https://github.com/DangoHub/traducoes-ptbr/releases/download/the-wolf-among-us-v1.0/Instalador_Traducao_PTBR_The_Wolf_Among_Us.exe) · [.zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/the-wolf-among-us-v1.0/The_Wolf_Among_Us_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/the-wolf-among-us-v1.0) |
-| Garden of Witches | build 25225196 | [Instalador .exe](https://github.com/DangoHub/traducoes-ptbr/releases/download/garden-of-witches-v1.0/Instalador_Traducao_PTBR_Garden_of_Witches.exe) · [.zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/garden-of-witches-v1.0/Garden_of_Witches_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.0) |
+| The Wolf Among Us | build 319083 | [Baixar .zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/the-wolf-among-us-v1.1/The_Wolf_Among_Us_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/the-wolf-among-us-v1.1) |
+| Garden of Witches | build 25225196 | [Baixar .zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/garden-of-witches-v1.1/Garden_of_Witches_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.1) |
 
 Todas as versões: [Releases](https://github.com/DangoHub/traducoes-ptbr/releases).
 
@@ -27,7 +27,7 @@ projetos/<jogo>/          tudo que gera a tradução de cada jogo
   GUIA_TRADUCAO.md        guia de estilo + glossário PT-BR
   chunks/  out/           texto original em lotes / traduções por lote
   src/                    instalador e patcher
-  build.py                junta traduções, gera .exe e .zip
+  build.py                junta traduções e gera o .zip (via projetos/empacotar.py)
 .github/workflows/release.yml   build + publicação de releases
 ```
 
