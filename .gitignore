@@ -7,3 +7,6 @@ tmp*/
 *.spec
 work/
 releases/
+
+.env
+.env.*
