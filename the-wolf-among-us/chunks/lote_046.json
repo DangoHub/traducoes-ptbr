@@ -1,0 +1,1898 @@
+[
+{
+"k": "11957",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But you did force your way onto the scene of a murder investigation."
+},
+{
+"k": "11958",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Pushing multiple officers, trampling on evidence, and refusing to leave the area…"
+},
+{
+"k": "11959",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Relax. If you cooperate and answer my questions, you can go home."
+},
+{
+"k": "11960",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Understand?"
+},
+{
+"k": "11961",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}Were {body-SitA}you two… {DoubtA}close?"
+},
+{
+"k": "11962",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalA}Miss…{NormalB}White."
+},
+{
+"k": "11963",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{ThinkingA}Just a friend?"
+},
+{
+"k": "11964",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{WorriedA}She was {body-SitA}a friend."
+},
+{
+"k": "11965",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}That's what I said.{body-SitArmsDesk}"
+},
+{
+"k": "11966",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "At some place called…"
+},
+{
+"k": "11967",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{WorriedA}We worked {WorriedB}together.{body-SitHead}"
+},
+{
+"k": "11968",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No, somewhere else."
+},
+{
+"k": "11969",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes, that's right."
+},
+{
+"k": "11970",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How did you know that?"
+},
+{
+"k": "11971",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitHead}{ConfusedB}{body-SitArmsDesk}How'd you know{AngryB}{body-SitA} that?"
+},
+{
+"k": "11972",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Interesting."
+},
+{
+"k": "11973",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'd like to remind you, Mr. Wolf, that I've already spoken to some of your colleagues."
+},
+{
+"k": "11974",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How long have you two worked together?"
+},
+{
+"k": "11975",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitHead}{MockingB}No, {body-SitA}{body-SitArmsDesk}we don't work there.{ThinkingB}"
+},
+{
+"k": "11976",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[stern] Mr. Wolf, this is a murder investigation."
+},
+{
+"k": "11977",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}And you also worked together at the… {DoubtA}[checking paper] Woodland Luxury Apartments, {NormalB}is that right?"
+},
+{
+"k": "11978",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "some place called \"The Woodlands\"?"
+},
+{
+"k": "11979",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes, we worked together."
+},
+{
+"k": "11980",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No, that's wrong."
+},
+{
+"k": "11981",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Is that correct?"
+},
+{
+"k": "11982",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "\"The Woodlands\"."
+},
+{
+"k": "11983",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitHead}{ConfusedB}{body-SitArmsDesk}That's right."
+},
+{
+"k": "11984",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ConfusedB}{body-SitArmsDesk}Yeah.{body-SitHead}"
+},
+{
+"k": "11985",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Can you confirm the address given to me by your colleague:"
+},
+{
+"k": "11986",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "171 Bullfinch Street"
+},
+{
+"k": "11987",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You guess?"
+},
+{
+"k": "11988",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{ConfusedA}I guess."
+},
+{
+"k": "11989",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Need I remind you that this is a murder investigation?"
+},
+{
+"k": "11990",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Please don't guess, Mr. Wolf."
+},
+{
+"k": "11991",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[threatening] Don't lie to me."
+},
+{
+"k": "11992",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}{body-SitA}[threatening] You aren't the first person I've talked to, Mr. Wolf.{AngryA}"
+},
+{
+"k": "11993",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{MockingA}{body-SitArmsDesk}No, we didn't."
+},
+{
+"k": "11994",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "171 Bullfinch Street."
+},
+{
+"k": "11995",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You worked at the \"Woodlands\" with Miss White."
+},
+{
+"k": "11996",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "For how long have you been a resident at The Woodlands?"
+},
+{
+"k": "11997",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How is this helping you find Miss White's killer?"
+},
+{
+"k": "11998",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "head."
+},
+{
+"k": "11999",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Mr. Wolf, your friend's head was found on the steps of your apartment building, which also happens to be where you both worked. Do you see where I'm going with this?"
+},
+{
+"k": "12000",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I didn't kill her."
+},
+{
+"k": "12001",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I believe you."
+},
+{
+"k": "12002",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "There's actually something a little weird about your records."
+},
+{
+"k": "12003",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes, I worked with her."
+},
+{
+"k": "12004",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You don't work there with Mr. Crane?"
+},
+{
+"k": "12005",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalB}You aren't the{body-SitB} first person {DoubtA}I've talked to."
+},
+{
+"k": "12006",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Make sure you don't lie to me."
+},
+{
+"k": "12007",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I know you worked at the Woodlands with Miss Snow."
+},
+{
+"k": "12008",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I have 171 Bullfinch Street."
+},
+{
+"k": "12009",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Can you confirm the address for me?"
+},
+{
+"k": "12010",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}I know you worked at The Woodland with Miss White."
+},
+{
+"k": "12011",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So you worked at the Woodlands with Miss White…"
+},
+{
+"k": "12012",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Records show you've lived at that address for…"
+},
+{
+"k": "12013",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "over forty years."
+},
+{
+"k": "12014",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How is that possible?"
+},
+{
+"k": "12015",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{MockingB}Just a {body-SitA}funny {ThinkingA}coincidence I guess."
+},
+{
+"k": "12016",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You expecting something more exciting?"
+},
+{
+"k": "12017",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Were you ever in the war, Mr. Wolf?"
+},
+{
+"k": "12018",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "He was a soldier, which would mean he was at least 18. But I'd bet on 25."
+},
+{
+"k": "12019",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You two look identical. I'd even say you were the same person."
+},
+{
+"k": "12020",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm guessing it has to do with walking through an open crime scene."
+},
+{
+"k": "12021",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[slightly amused] And trampling on evidence, using physical force against officers on the scene, not to mention it took five of them to drag you out of there."
+},
+{
+"k": "12022",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I get it."
+},
+{
+"k": "12023",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Answer my questions"
+},
+{
+"k": "12024",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm going to ask you some questions now."
+},
+{
+"k": "12025",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "This is a murder investigation."
+},
+{
+"k": "12026",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[snarky] Racial profiling?"
+},
+{
+"k": "12027",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "A woman is dead."
+},
+{
+"k": "12028",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Look,"
+},
+{
+"k": "12029",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Please try to take this seriously. I know you don't want to be here."
+},
+{
+"k": "12030",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You think I don't know that?"
+},
+{
+"k": "12031",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "All you have to do is cooperate and answer my questions, then you can go home."
+},
+{
+"k": "12032",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[tense] Understand?"
+},
+{
+"k": "12033",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[threatening] So let's try again. \"Yes\" or \"No\", Mr. Wolf."
+},
+{
+"k": "12034",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{WorriedA}I know this must be hard for you,{NormalA}{body-SitB}but I appreciate your cooperation."
+},
+{
+"k": "12035",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{HappyA}{body-SitA}Just a few more questions."
+},
+{
+"k": "12036",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{normalA}I don't{ConfusedA}{body-SitA}… {ThinkingA}didn't know her.{ThinkingB}"
+},
+{
+"k": "12037",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}{body-SitA}So you're telling me…"
+},
+{
+"k": "12038",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "that this woman {ThinkingA}means nothing to you."
+},
+{
+"k": "12039",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Put it away!"
+},
+{
+"k": "12040",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryC}{body-SitArmsDesk}Put that fucking thing away!"
+},
+{
+"k": "12041",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Is this how you run an interrogation?"
+},
+{
+"k": "12042",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm sorry to have to do that, but now you understand…"
+},
+{
+"k": "12043",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}I will do whatever it takes to get the truth from you, Mr. Wolf."
+},
+{
+"k": "12044",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}[threatening] Don't lie to me."
+},
+{
+"k": "12045",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitHead}{AngryA}I told {body-SitArmsDesk}you. {DoubtfulA}I didn't know her."
+},
+{
+"k": "12046",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitB}{DoubtA}Your reaction says otherwise."
+},
+{
+"k": "12047",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryB}It's a dead woman. {AngryA}Do I {body-SitA}have to know her to react that way?{NormalB}"
+},
+{
+"k": "12048",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm very good at reading people, Mr. Wolf."
+},
+{
+"k": "12049",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I know you and Miss White worked together."
+},
+{
+"k": "12050",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You and Miss White worked together at The Woodland."
+},
+{
+"k": "12051",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}You knew Miss White."
+},
+{
+"k": "12052",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{sarcasticB}{body-SitHead}You enjoying yourself?"
+},
+{
+"k": "12053",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I do not enjoy causing you pain, Mr. Wolf."
+},
+{
+"k": "12054",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But I will do whatever it takes to get the truth."
+},
+{
+"k": "12055",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I will do whatever it takes to get the truth."
+},
+{
+"k": "12056",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}Just tell the truth."
+},
+{
+"k": "12057",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How long have you lived at The Woodlands?"
+},
+{
+"k": "12058",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's just temporary. Not long."
+},
+{
+"k": "12059",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's been a while."
+},
+{
+"k": "12060",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I don't exactly have a date for you."
+},
+{
+"k": "12061",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's an apartment building, right?"
+},
+{
+"k": "12062",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm head of security for the building."
+},
+{
+"k": "12063",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ConfusedA}{body-SitArmsDesk}What does this have to do with {ConfusedB}{body-SitA}Miss White's murder?"
+},
+{
+"k": "12064",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Is that right?"
+},
+{
+"k": "12065",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Your story makes sense, for the most part."
+},
+{
+"k": "12066",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But there's something odd about your background."
+},
+{
+"k": "12067",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "My background? Why do you need to know that?"
+},
+{
+"k": "12068",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Just standard procedure, Mr. Wolf. Thing is, your records don't make sense."
+},
+{
+"k": "12069",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Is it also a coincidence that all three of these birth certificates list the same parents,"
+},
+{
+"k": "12070",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So…"
+},
+{
+"k": "12071",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Paperwork, and the like."
+},
+{
+"k": "12072",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[hesitant] Yes."
+},
+{
+"k": "12073",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Problem is, I talked to your friend, he goes by the name \"Beast\"."
+},
+{
+"k": "12074",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "you were running security."
+},
+{
+"k": "12075",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{DoubtA}So your father's name is Bigby Wolf…"
+},
+{
+"k": "12076",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That checks out okay."
+},
+{
+"k": "12077",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What do you have to say about the fact that all three of these birth certificates list the same parents,"
+},
+{
+"k": "12078",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But I talked to your friend, he goes by the name \"Beast\","
+},
+{
+"k": "12079",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I know you didn't kill Miss White, but there are some suspicious discrepancies in your history."
+},
+{
+"k": "12080",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You told me your stay at The Woodlands Apartments is only temporary…"
+},
+{
+"k": "12081",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But our records show a Bigby Wolf has lived there for almost forty years."
+},
+{
+"k": "12082",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You told me you've lived at The Woodlands for a while now,"
+},
+{
+"k": "12083",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But the only record we could find of you at that address is at least forty years old."
+},
+{
+"k": "12084",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I was doing some research on you, Mr. Wolf."
+},
+{
+"k": "12085",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "almost forty years."
+},
+{
+"k": "12086",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That's not all."
+},
+{
+"k": "12087",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But there's something I still don't understand."
+},
+{
+"k": "12088",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "About your stay at The Woodlands…"
+},
+{
+"k": "12089",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Especially concerning your stay at The Woodland."
+},
+{
+"k": "12090",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Making you 58 years old."
+},
+{
+"k": "12091",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Even if you started the lease then, you would have to be 18 to sign."
+},
+{
+"k": "12092",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No way you're in your late fifties."
+},
+{
+"k": "12093",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm flattered."
+},
+{
+"k": "12094",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Diifferent Bigby Wolf."
+},
+{
+"k": "12095",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Incorrect records."
+},
+{
+"k": "12096",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Your records must be wrong."
+},
+{
+"k": "12097",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That's not me. Must have been a different Bigby Wolf."
+},
+{
+"k": "12098",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Don't get cute with me."
+},
+{
+"k": "12099",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Mr. Beast and Miss White…they both have spotty records dating back 40, 50, sometimes hundreds of years!"
+},
+{
+"k": "12100",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[forceful] What the Hell are you all up to?"
+},
+{
+"k": "12101",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[shouting] What the hell are you up to?"
+},
+{
+"k": "12102",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So, I started looking into the rest of your little community."
+},
+{
+"k": "12103",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Same thing! Faked birth certificates, if there are any. Building records that don't make any sense. In fact, most of you don't even exist as far as the government is concerned."
+},
+{
+"k": "12104",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Spies? Some kind of cult?"
+},
+{
+"k": "12105",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[sarcastic] {body-SitA}{SarcasticA}You caught me!{MockingA} We're immortal!"
+},
+{
+"k": "12106",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryB}I'd drop it if I {body-SitHandDesk}were you{AngryC}."
+},
+{
+"k": "12107",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let it go, before you get hurt."
+},
+{
+"k": "12108",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{doubta}Is that a threat?"
+},
+{
+"k": "12109",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We live our lives, and you live yours."
+},
+{
+"k": "12110",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We're just normal people."
+},
+{
+"k": "12111",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{SarcasticB}We're in the witness {body-SitA}protection program."
+},
+{
+"k": "12112",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}I am five seconds away from calling in the FBI."
+},
+{
+"k": "12113",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NomalA}So unless you can explain to me what you're up to {NaormalB}right now, {AngryA}you're gonna have much bigger problems."
+},
+{
+"k": "12114",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How else do you explain it?"
+},
+{
+"k": "12115",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You've got some conspiracy theory, {ThinkingA}so you're gonna call the FBI?{SarcasticA}"
+},
+{
+"k": "12116",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{ThinkingB}This is ridiculous!{body-SitArmsDesk}"
+},
+{
+"k": "12117",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{PainA}The evidence points to something much bigger than we're {WorriedA}prepared to handle. {ThinkingA}I may not know what that is, but I assure you {AngryA}the feds will find out."
+},
+{
+"k": "12118",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[threatening] {body-SitA}{AngryA}I can't let you {AngryB}{body-SitArmsDesk}do that."
+},
+{
+"k": "12119",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Mr. Wolf! There you are!"
+},
+{
+"k": "12120",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Have you been questioning my client without legal counsel present?"
+},
+{
+"k": "12121",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "When did you call a lawyer?"
+},
+{
+"k": "12122",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Um…Where were we?"
+},
+{
+"k": "12123",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What are you all up to? Are you…"
+},
+{
+"k": "12124",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I've been doing research on you and your friends."
+},
+{
+"k": "12125",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's like you don't exist, and the records we do have are spotty at best."
+},
+{
+"k": "12126",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Spies or…"
+},
+{
+"k": "12127",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You already asked me that."
+},
+{
+"k": "12128",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Hmm?"
+},
+{
+"k": "12129",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Normal…"
+},
+{
+"k": "12130",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I told you. We're just normal people."
+},
+{
+"k": "12131",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Um…sorry."
+},
+{
+"k": "12132",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So, how well did you know the victim?"
+},
+{
+"k": "12133",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Miss…"
+},
+{
+"k": "12134",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Oh, Mr. Wolf."
+},
+{
+"k": "12135",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You okay? Need us to give you a minute?"
+},
+{
+"k": "12136",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Who's this?"
+},
+{
+"k": "12137",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She was a friend."
+},
+{
+"k": "12138",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We worked together."
+},
+{
+"k": "12139",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Like I told you before…she was a friend of mine."
+},
+{
+"k": "12140",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Like I told you before…we worked together."
+},
+{
+"k": "12141",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Like I told you before…I didn't know her."
+},
+{
+"k": "12142",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Oh, I'm sorry. Who are you talking about?"
+},
+{
+"k": "12143",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I think I should talk to my, uh…lawyer. If that's all right with you."
+},
+{
+"k": "12144",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I should have been called sooner. You didn't start questioning him did you?"
+},
+{
+"k": "12145",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No… we were just about to start…or we…"
+},
+{
+"k": "12146",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Fantastic."
+},
+{
+"k": "12147",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Well,"
+},
+{
+"k": "12148",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Thank you for your time."
+},
+{
+"k": "12149",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You're lucky it was enough for all those cops."
+},
+{
+"k": "12150",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That was me saving your ass! Do you know how much magic like that costs? To do the whole building?  I had to go to Bluebeard for an advance on his donation!"
+},
+{
+"k": "12151",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[confused] What the hell was that?"
+},
+{
+"k": "12152",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's empty."
+},
+{
+"k": "12153",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Do you have any idea how much trouble this has caused me? I had to go to Bluebeard for an advance on his donation! We can't afford mistakes like this, Bigby!"
+},
+{
+"k": "12154",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[defensive and sad] You think you're the only one who cared about her?"
+},
+{
+"k": "12155",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] Don't talk to me about money, Crane. Not now."
+},
+{
+"k": "12156",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] We just found Snow's head on our doorstep, Crane."
+},
+{
+"k": "12157",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Ah! Fuck, Bigby!"
+},
+{
+"k": "12158",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Go complain to someone else. I'm not in the mood."
+},
+{
+"k": "12159",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}Okay.{body-SitB}"
+},
+{
+"k": "12160",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I can make this very difficult for you, Mr. Wolf."
+},
+{
+"k": "12161",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It would be in your best interest to cooperate."
+},
+{
+"k": "12162",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let's move on then."
+},
+{
+"k": "12163",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm giving you a chance to speak for yourself."
+},
+{
+"k": "12164",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I can get answers other ways if you prefer."
+},
+{
+"k": "12165",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I understand you think your silence will save you, in the end."
+},
+{
+"k": "12166",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But it won't."
+},
+{
+"k": "12167",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That may be true. But…"
+},
+{
+"k": "12168",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I doubt that."
+},
+{
+"k": "12169",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Your records are incredibly suspicious."
+},
+{
+"k": "12170",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Mr. Wolf! You are this close to getting locked up for the night."
+},
+{
+"k": "12171",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She raises her hand, two fingers at \"this much\"."
+},
+{
+"k": "12172",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}{body-SitA}Start talking!"
+},
+{
+"k": "12173",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Enough messing around!"
+},
+{
+"k": "12174",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "One."
+},
+{
+"k": "12175",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's irresponsible!"
+},
+{
+"k": "12176",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "This cannot happen again!"
+},
+{
+"k": "12177",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "and he says you're the security guard."
+},
+{
+"k": "12178",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "And he told me Miss White was the one handling the paperwork and you…"
+},
+{
+"k": "12179",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Suit yourself."
+},
+{
+"k": "12180",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You're only making this worse by not talking."
+},
+{
+"k": "12181",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You got that?"
+},
+{
+"k": "12182",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I will keep you here until you start talking!"
+},
+{
+"k": "12183",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[tense] Please try to answer the questions, Mr. Wolf."
+},
+{
+"k": "12184",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Silence won't save you."
+},
+{
+"k": "12185",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{ThinkingA}You should try to be more helpful."
+},
+{
+"k": "12186",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Silence {NormalB}definitely won't save you."
+},
+{
+"k": "12187",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Dammit, Bigby!"
+},
+{
+"k": "12188",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You want to keep your fucking mouth shut?"
+},
+{
+"k": "12189",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Fine!"
+},
+{
+"k": "12190",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "About your stay at The Woodlands."
+},
+{
+"k": "12191",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}I'll tell you what I {NormalB}know."
+},
+{
+"k": "12192",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Where we found the…you know."
+},
+{
+"k": "12193",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But you're not off the hook yet."
+},
+{
+"k": "12194",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No shit!"
+},
+{
+"k": "12195",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Hmm…"
+},
+{
+"k": "12196",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "First, do you understand why you're here?"
+},
+{
+"k": "12197",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Before we get started, are you sure you don't want someone to take a look at that?"
+},
+{
+"k": "12198",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I get it, you're a man of few words. I'll try to make this quick then."
+},
+{
+"k": "12199",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How long will this take?"
+},
+{
+"k": "12200",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Is that allowed?"
+},
+{
+"k": "12201",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What happened there anyway?"
+},
+{
+"k": "12202",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "A door with teeth?"
+},
+{
+"k": "12203",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How long is this gonna take?"
+},
+{
+"k": "12204",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm sorry to hear that. I'll have a talk with the officers once we're done."
+},
+{
+"k": "12205",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We got a report of some guys falling out a window onto a car."
+},
+{
+"k": "12206",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You didn't land on a car did you?"
+},
+{
+"k": "12207",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Thing is, when we went to check it out, there was no smashed car or anything."
+},
+{
+"k": "12208",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Crazy, huh?"
+},
+{
+"k": "12209",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Mind your own business."
+},
+{
+"k": "12210",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Well, Mr. Wolf, shall we get started?"
+},
+{
+"k": "12211",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Maybe get some sleep."
+},
+{
+"k": "12212",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You're right.  I apologize."
+},
+{
+"k": "12213",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[small laugh] No, Mr. Wolf."
+},
+{
+"k": "12214",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[joking] Maybe I should arrest you."
+},
+{
+"k": "12215",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's really very simple."
+},
+{
+"k": "12216",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Need me to explain anything?"
+},
+{
+"k": "12217",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "explain anything?"
+},
+{
+"k": "12218",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That's a pretty nasty wound."
+},
+{
+"k": "12219",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You and Miss White {NormalB}worked together."
+},
+{
+"k": "12220",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}At the… {body-SitA}{ThinkingA}[checking paper] Woodland Luxury Apartments, {NormalB}is that correct?"
+},
+{
+"k": "12221",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So you must have known Miss White pretty well then."
+},
+{
+"k": "12222",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Did you know you were both born at the same hospital?"
+},
+{
+"k": "12223",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{HappyA}{body-SitA}What do you make of that?"
+},
+{
+"k": "12224",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I found three different birth certificates for Bigby Wolf, all spaced about fifty years apart."
+},
+{
+"k": "12225",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedA}{body-SitArmsDesk}It's probably my father {MockingA}and grandfather."
+},
+{
+"k": "12226",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}My family isn't too inventive when it comes to names."
+},
+{
+"k": "12227",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So your father's name is Bigby Wolf."
+},
+{
+"k": "12228",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "are signed by the same doctor, have the exact same birth day,"
+},
+{
+"k": "12229",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}That's strange, because your birth certificate lists {AngryA}Mr. Nathaniel Wolf as your father."
+},
+{
+"k": "12230",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "And this one."
+},
+{
+"k": "12231",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}So does this one."
+},
+{
+"k": "12232",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}In fact, all three are almost identical down to the day of birth."
+},
+{
+"k": "12233",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Three."
+},
+{
+"k": "12234",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Two."
+},
+{
+"k": "12235",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Four seconds."
+},
+{
+"k": "12236",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Please continue."
+},
+{
+"k": "12237",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No need. We're almost done here."
+},
+{
+"k": "12238",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Oh…please have a seat."
+},
+{
+"k": "12239",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Crane?"
+},
+{
+"k": "12240",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I…I'm sorry. What are you here for again?"
+},
+{
+"k": "12241",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let's just go."
+},
+{
+"k": "12242",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Have you lived there long?"
+},
+{
+"k": "12243",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You have an apartment there as well, right?"
+},
+{
+"k": "12244",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}Did you know {body-SitB}you were both born{NormalB} at the same hospital?"
+},
+{
+"k": "12245",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "and are otherwise identical except for the year?"
+},
+{
+"k": "12246",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "but I got these checked out early."
+},
+{
+"k": "12247",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Thought you might want these."
+},
+{
+"k": "12248",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I get it, you're a man of few words. I'll try to make this quick."
+},
+{
+"k": "12249",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Don't worry, I'll try to make this quick."
+},
+{
+"k": "12250",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Shall we go ahead and get started?"
+},
+{
+"k": "12251",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}All three of these birth certificates list the same parents, are signed by the same doctor, and have the exact same birthday."
+},
+{
+"k": "12252",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "are signed by the same doctor, and have the exact same birthday."
+},
+{
+"k": "12253",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}The only difference is the year."
+},
+{
+"k": "12254",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "There's more."
+},
+{
+"k": "12255",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Were you close?"
+},
+{
+"k": "12256",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitB}{NormalB}Let's start with the victim.  {ThinkingA}How did you know her?"
+},
+{
+"k": "12257",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}It's clear you knew her."
+},
+{
+"k": "12258",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Really?"
+},
+{
+"k": "12259",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "All you have to do is answer honestly and you can go home."
+},
+{
+"k": "12260",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalB}You must understand…"
+},
+{
+"k": "12261",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let's get started."
+},
+{
+"k": "12262",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{worrieda}I'm Detective Brannigan."
+},
+{
+"k": "12263",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Thought you might want them."
+},
+{
+"k": "12264",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "If you cooperate, and answer honestly, you can go home."
+},
+{
+"k": "12265",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Your behavior was a little…concerning."
+},
+{
+"k": "12266",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How are you feeling now?"
+},
+{
+"k": "12267",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Not great."
+},
+{
+"k": "12268",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Am I being charged?"
+},
+{
+"k": "12269",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[sarcastic] Just peachy."
+},
+{
+"k": "12270",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You know…with everything that happened."
+},
+{
+"k": "12271",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[grumpy] Right."
+},
+{
+"k": "12272",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Concerning?"
+}
+]

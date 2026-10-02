@@ -1,0 +1,998 @@
+[
+{
+"k": "6630",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[sincere] It's okay. I'll be fine. You've done enough... really."
+},
+{
+"k": "6631",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Okay. Thanks."
+},
+{
+"k": "6632",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Right. Well, I appreciate it, Sheriff."
+},
+{
+"k": "6633",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Just call me Bigby."
+},
+{
+"k": "6634",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You got me out of a bad situation back there. Thanks."
+},
+{
+"k": "6635",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "What the hell happened here? What a shame."
+},
+{
+"k": "6636",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Guy fell out the window."
+},
+{
+"k": "6637",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "A guy fell out the window."
+},
+{
+"k": "6638",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "A guy... fell out the window?"
+},
+{
+"k": "6639",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[trying to process this]A guy."
+},
+{
+"k": "6640",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[coming off the previous line]Are you the guy?"
+},
+{
+"k": "6641",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I can't remember."
+},
+{
+"k": "6642",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I fell out a window."
+},
+{
+"k": "6643",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So, you fell you the window."
+},
+{
+"k": "6644",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Why didn't you just say that?"
+},
+{
+"k": "6645",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[ironic disbelief] Right..."
+},
+{
+"k": "6646",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So, it was another guy."
+},
+{
+"k": "6647",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So... it wasn't you."
+},
+{
+"k": "6648",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Okay. That means it was definitely you."
+},
+{
+"k": "6649",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There was an accident."
+},
+{
+"k": "6650",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Don't worry about it. [Bribe]"
+},
+{
+"k": "6651",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Can't remember."
+},
+{
+"k": "6652",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I can explain..."
+},
+{
+"k": "6653",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There was an accident... with the car."
+},
+{
+"k": "6654",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It must've flipped over a few times too."
+},
+{
+"k": "6655",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "A guy..."
+},
+{
+"k": "6656",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "...fell out the window, onto the car?"
+},
+{
+"k": "6657",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "A guy."
+},
+{
+"k": "6658",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[beat] Are you the guy?"
+},
+{
+"k": "6659",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So... you fell out the window."
+},
+{
+"k": "6660",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "...I fell out a window. I'm a little confused right now."
+},
+{
+"k": "6661",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[Not Ironic]Right... well... I guess that makes sense."
+},
+{
+"k": "6662",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Right..."
+},
+{
+"k": "6663",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Yeah, it was him."
+},
+{
+"k": "6664",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So where's this other guy?"
+},
+{
+"k": "6665",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You're tellin' me he fell three stories, smashed up this car and ran off."
+},
+{
+"k": "6666",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "He ran off."
+},
+{
+"k": "6667",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Actually, sorry, nevermind, it was me."
+},
+{
+"k": "6668",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Okay, so you're tellin' me your memory is a little fuzzy right now?"
+},
+{
+"k": "6669",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Alright, so that means it was probably you that fell out the window."
+},
+{
+"k": "6670",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Real mess we got here."
+},
+{
+"k": "6671",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Now that's a shame."
+},
+{
+"k": "6672",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "What a waste of a sweet ride. This is definitely a salvage at this point. No way it'd be worth tryin' to fix in this condition."
+},
+{
+"k": "6673",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Don't worry. This ain't my first rodeo."
+},
+{
+"k": "6674",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So what the hell happened here?"
+},
+{
+"k": "6675",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Whoa. What's this all about?"
+},
+{
+"k": "6676",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Okay, so you're travellin' westbound, dog runs into the street. You wrench the wheel to avoid the little bastard, but ya hit the dog anyway, car flips a few times and lands"
+},
+{
+"k": "6677",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "A dog did this?"
+},
+{
+"k": "6678",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I hit a dog... with the car."
+},
+{
+"k": "6679",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "A dog."
+},
+{
+"k": "6680",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "...here."
+},
+{
+"k": "6681",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Who's she?"
+},
+{
+"k": "6682",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "She's, uh..."
+},
+{
+"k": "6683",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It was my dog."
+},
+{
+"k": "6684",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Were you the one in the car?"
+},
+{
+"k": "6685",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "No shit, buddy."
+},
+{
+"k": "6686",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Yeah. It was me."
+},
+{
+"k": "6687",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Then who was it?"
+},
+{
+"k": "6688",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "No, it wasn't."
+},
+{
+"k": "6689",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I... can't remember."
+},
+{
+"k": "6690",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "That means it was probably you."
+},
+{
+"k": "6691",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Ran off."
+},
+{
+"k": "6692",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You're tellin' me this guy flipped his car a few times then ran off?"
+},
+{
+"k": "6693",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Actually, it was me."
+},
+{
+"k": "6694",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So, it was you that was in this accident?"
+},
+{
+"k": "6695",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I just flipped a car a few times... I'm a little confused."
+},
+{
+"k": "6696",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So, where's the dog?"
+},
+{
+"k": "6697",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "In the dumpster."
+},
+{
+"k": "6698",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Ran away."
+},
+{
+"k": "6699",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Good thinkin'."
+},
+{
+"k": "6700",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I put it in the dumpster over there."
+},
+{
+"k": "6701",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "We should at least check the collar, see who it belongs to."
+},
+{
+"k": "6702",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Huh... must've been on drugs."
+},
+{
+"k": "6703",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'm really sorry, Officer. My boyfriend is out of sorts right now, so I apologize for his erratic behavior."
+},
+{
+"k": "6704",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Like I said, Officer, my boyfriend is completely out of sorts right now. I apologize for his erratic behavior. There's no excuse for him putting his hands on you."
+},
+{
+"k": "6705",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Don't worry about it. These things happen."
+},
+{
+"k": "6706",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I should probably get him to the hospital, and I\ndon't want to take any more of your time, so perhaps we could-"
+},
+{
+"k": "6707",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "In the cap."
+},
+{
+"k": "6708",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I've got... two hundred... and six dollars. Will that work?"
+},
+{
+"k": "6709",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Well, with that much blood gone, wherever it is, that poor fucker'll be dead in thirty minutes."
+},
+{
+"k": "6710",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You're tellin' me a dog that got hit by a car, lost this much blood, and still managed to run away... that's fuckin' crazy."
+},
+{
+"k": "6711",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Yup."
+},
+{
+"k": "6712",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It just... ran off."
+},
+{
+"k": "6713",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Ran off?"
+},
+{
+"k": "6714",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Poor fucker."
+},
+{
+"k": "6715",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Oh... shit. Sorry about- I didn't mean that about- actually first and foremost I apologize for the language. I didn't need to curse there."
+},
+{
+"k": "6716",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'm... sorry for your loss."
+},
+{
+"k": "6717",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's okay."
+},
+{
+"k": "6718",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Good. Yeah, no need to complicate things ."
+},
+{
+"k": "6719",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "No, Officer, that won't be necessary. We've got it pretty well handled."
+},
+{
+"k": "6720",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Thank you, Officer. I'm sorry for taking up so much of your time."
+},
+{
+"k": "6721",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Damn. What a mess."
+},
+{
+"k": "6722",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You two have a good evening."
+},
+{
+"k": "6723",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So, you want me to press charges on this guy?"
+},
+{
+"k": "6724",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "No. He's my boyfriend."
+},
+{
+"k": "6725",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Shit, man, you killed your girlfriend's dog? That's just... wow. Well, there's nothin' I can charge you with that'll be worse than what you're in for."
+},
+{
+"k": "6726",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Fuckin' gross."
+},
+{
+"k": "6727",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Why's there a chunk of hair, with skin still attached sitting here."
+},
+{
+"k": "6728",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "That's what that shit is."
+},
+{
+"k": "6729",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "In the middle of the street."
+},
+{
+"k": "6730",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Actually it-"
+},
+{
+"k": "6731",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Are you serious? You don't know my address?"
+},
+{
+"k": "6732",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[Bribe him]"
+},
+{
+"k": "6733",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Since this is your girlfriend, I'm gonna count to 3, and when I do, I want the both of you, at the same time, to say what her name is. Real simple."
+},
+{
+"k": "6734",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Holy shit."
+},
+{
+"k": "6735",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So... if that's your car, what's the license number?"
+},
+{
+"k": "6736",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Wild1."
+},
+{
+"k": "6737",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "No. Sorry."
+},
+{
+"k": "6738",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "2Fast4U"
+},
+{
+"k": "6739",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "IMTOAD."
+},
+{
+"k": "6740",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Inside joke."
+},
+{
+"k": "6741",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Yeah. Now. Can you tell me what the hell that means?"
+},
+{
+"k": "6742",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Is it funny?"
+},
+{
+"k": "6743",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "No. But mine ain't personalized."
+},
+{
+"k": "6744",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Hey, don't worry about it, hon. I can't remember my license plate either. Can you, Officer?"
+},
+{
+"k": "6745",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "And it's, what, still fucking 90 degrees."
+},
+{
+"k": "6746",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'll run it when I get back."
+},
+{
+"k": "6747",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's IMTOAD, whatever the fuck that means."
+},
+{
+"k": "6748",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Not really."
+},
+{
+"k": "6749",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "He ran that way, toward 121st."
+},
+{
+"k": "6750",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[backpedalling] No, no. She's right. She's right. That way."
+},
+{
+"k": "6751",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[suspicious] Yeah, well..."
+},
+{
+"k": "6752",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Look, Officer. I'm sorry."
+},
+{
+"k": "6753",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's my car, I swear. It's just..."
+},
+{
+"k": "6754",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I had a rough night, and I'm a little drunk. I just want to go home, put some ice on my head, and sleep."
+},
+{
+"k": "6755",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Look, yeah, I took a header out the window. I should be in the hospital right now."
+},
+{
+"k": "6756",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I just got confused."
+},
+{
+"k": "6757",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "107."
+},
+{
+"k": "6758",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Nope. Sorry."
+},
+{
+"k": "6759",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "701."
+},
+{
+"k": "6760",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Yeah. Lucky guess?"
+},
+{
+"k": "6761",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "101."
+},
+{
+"k": "6762",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I know where you LIVE. Isn't that enough?"
+},
+{
+"k": "6763",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So, this is more of a... temporary relationship, right?"
+},
+{
+"k": "6764",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Look. I need to be able to know this isn't bullshit."
+},
+{
+"k": "6765",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So about this guy and the car... He's probably pretty fucked up, and I need to go find him. Which way we did he go?"
+},
+{
+"k": "6766",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So the window..."
+},
+{
+"k": "6767",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[to Bigby] What's her address?"
+},
+{
+"k": "6768",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[hit YOUR] That's your place?"
+},
+{
+"k": "6769",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "So this guy who jumped out the window... He's probably pretty fucked up, and I need to go find him. Which way we did he go?"
+},
+{
+"k": "6770",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[aggressive, annoyed] Hey, buddy. I'm asking you a question."
+},
+{
+"k": "6771",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Just... get this all cleaned up as best you can."
+},
+{
+"k": "6772",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[tired] I guess I could make out a report... but [beat]It's just a shitload of paperwork and-"
+},
+{
+"k": "6773",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You're sorry?"
+},
+{
+"k": "6774",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[close, to the cop] Look, I just met this girl a few days ago, ok."
+},
+{
+"k": "6775",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[close, to the cop] I'm trying not to fuck it up."
+},
+{
+"k": "6776",
+"who": "WACHOWSKI",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[over-enunciating] You're not doing a good job."
+},
+{
+"k": "6777",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I've got.... It's twenty, forty... seven-- eight. Fifty eight. It's all I've got-- it'll help, right?"
+},
+{
+"k": "6778",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[playful, not mean]It'd have been nicer for you to ask that before taking it."
+},
+{
+"k": "6779",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I've got.... It's one, twenty, six... seven-- One twenty seven. It's all I've got-- it'll help, right?"
+},
+{
+"k": "6780",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[muttering to himself]Son of a bitch ...and I'm guessing it'd be bad for you to show up empty handed, right?"
+},
+{
+"k": "6781",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "How about you listen up? Cause I'm only gonna say this once. You took my stuff. While I was off trying to get us help, get us rescued. You found my stash, and you took it. Divied it up. My shaving cream, my batteries, even my beer. And then something else happend, and you decided these two boys here were gonna tell you what to do, and when to do it. Well I'm done taking orders, and I don't want my stuff back. Shaving cream don't matter, batteries dont matter. Only thing that matters now are guns. And if you want one, you're gonna have to come to me to get it. Oh you wanna torture me don'tcha, show everybody how civilized you are. Go ahead, but I'll die before I give 'em back. And then you'll really be screwed, won't ya? A new sherrif in town boys... you all best get used to it."
+},
+{
+"k": "6782",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There's a three foot toad standing in front of me, and you're asking what? People generally notice things like that. If you can't afford to look human, you're going to the farm, it's as simple as that. This isn't something I can give you a pass on Toad, there's too much at stake. You know how much it would cost to relocate everyone out of fabletown outta new york, because a toad couldn't take himself down to the witches, and get made not to look like a toad? How much was it he owed you? And I'm guessing it'd be bad for you to show up empty handed. I've got, one, one twenty six, one twenty seven. It's all I got, but it'll help right? Take it. I'm not paying for him, I'm giving it to you. Look, it's been a long fuckin day, and I'm starting to get a little cranky. I've got questions, and I'm not leaving without answers. Why don't we let him tell me that? Last fellow that put hand on me, ended up in a dumpster."
+},
+{
+"k": "6783",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "The name's Oliver.\nWhen I found this place, plenty of food, along with two freshly killed busy bodies upstairs who owned the place. We can stay here forever.\nYou afraid?\nI'm not.\nI've been around death plenty, used to drive an ambulance in the city, but apparently I wasn't a very strong driver.\nIt seems I was killing more people than I was saving, something about that siren got me excited.\nCarnage.\nAn extermination.\nIt's no more of a war than there's a war between men and maggots.\nOr dragons and wolves,\nOr men riding dragons throwing wolves at maggots.\nDamn it Tom, can't you understand what I'm trying to tell you?\nThese aliens must have a weakness.\nI heard that the Japs killed a few of them over in Kikkoman.\nWhat I'm trying to say Tom, is that you and I should be fighting these things.\nIt's us that should be coming up from under the ground."
+},
+{
+"k": "6784",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There's a three foot toad standing in front of me, and you're asking what? Ya, people they generally notice things like that, Toad. Look, if you can't afford to look human, you're going to the farm, it's as simple as that. Uh uh, this isn't something I can give you a pass on Toad, there's too much at stake. You know how much it would cost to relocate everyone out of fabletown outta new york, because a toad couldn't take himself down to the witches, and get made not to look like a toad? How much was it he owed you? Yeah, and I'm guessing it'd be bad for you to show up empty handed. Lets see, I've got, one, one twenty six, one twenty seven. It's all I got, but it'll help right? Here, take it. I'm not paying for him, I'm giving it to you. Look, it's been a long fuckin day, and I'm starting to get a little cranky. I've got questions, and I'm not leaving without answers. Yeah, why don't we let him tell me that? Last fellow that put hand on me, ended up in a fuckin dumpster."
+},
+{
+"k": "6785",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]11-44 on Lenox. 11-44."
+},
+{
+"k": "6786",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]11-79 at 127th and 7th. Be advised victim is armed."
+},
+{
+"k": "6787",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]Shots fired. Shots fired."
+},
+{
+"k": "6788",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]Officer Mitchell, what's your ETA?"
+},
+{
+"k": "6789",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]Officer Mitchell, report a 604 on the bridge. Juveniles."
+},
+{
+"k": "6790",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]Disregard."
+},
+{
+"k": "6791",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]Any unit nearby 10-49 Saint Nicholas Park. Citizen reporting a robbery."
+},
+{
+"k": "6792",
+"who": "DISPATCHER",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[radio process]Car 72, please respond. Possible 459A at 135th and Amsterdam."
+},
+{
+"k": "6793",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There's a three foot toad standing right in front of me, and you're asking what? People generally notice things like that. Yeah, yeah, yeah, if you can't afford to look human, you're going to the farm, it's as simple as that. [sigh], this isn't something I can give you a pass on- there's too much at stake. You know how much it would cost to relocate everyone in fabletown outta new york, because a toad couldn't take himself down to the witches, and get made to not look like a toad? What's your name? And really I'm not going to write this up. How much was it he owed you? A buck-fifty? ...I'm guessing it'd be bad for you to show up empty handed. Well I've got uh, that's one, twenty, six, seven, one twenty seven. It's all I got, but it'll help right? Go on. I'm not paying for him, I'm giving it to you. It'd be nicer for you to ask before taking it. Look, it's been a long fuckin day, and I'm a little cranky. I've got questions, and I'm not leaving without answers. Why don't we let him tell me that? Last fellow who put his hands on me, ended up in a dumpster."
+},
+{
+"k": "6794",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There's a three foot toad standing in front of me, and you're asking what? People generally notice things like that. If you can't afford to look human, you're going to the farm, it's as simple as that. This isn't something I can give you a pass on- there's too much at stake. You know how much it would cost to relocate everyone in fabletown outta new york, because a toad couldn't take himself down to the witches to get made to not look like a toad? What's your name? Really? I'm not going to write this up. How much was it he owed you? And I'm guessing it'd be bad for you to show up empty handed. I've got, uh, that's one, twenty six, seven, one twenty seven. It's all I got. It'll help right? Go on. I'm not paying for him, I'm giving it to you. It'd be nicer for you to ask that before taking it. Look, it's been a long fuckin day, and I'm starting to get a little cranky. I've got questions, and I'm not leaving without answers. Why don't we let him tell me that? Last fellow that put his hands on me, ended up in a dumpster."
+},
+{
+"k": "6795",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "There's a three foot toad standing in front of me, and you're asking what? People generally notice things like that. Look, if you can't afford to look human, you're going to the farm, it's as simple as that. No, this isn't something I can give you a pass on- there's too much at stake. Think about it. You know how much it would cost to relocate everyone in fabletown outta new york, because a toad couldn't take himself down to the witches and get made not to look like a toad? Hey, what's your name? Really? Don't worry I'm not going to write this up. How much was it he owed you? And I'm guessing it'd be bad for you to show up empty handed. Ah no, no, I've got, uh, that's one uh, one-twenty six, seven, one twenty seven. It's all I've got. It'll help right? Go on. I'm not paying for him, I'm giving it to you. Oh, It would have been nicer for you to ask that before taking it. Look, it's been a long fuckin day, and I'm starting to get a little cranky. I've got questions, and I'm not leaving without answers. Why don't we let him tell me that? Last fellow that put his hand on me, ended up in a dumpster."
+}
+]

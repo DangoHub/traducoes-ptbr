@@ -1,0 +1,818 @@
+[
+{
+"k": "11494",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}The {AngryA}lunatic was {SuspiciousA}making her match what's {NervousA}in the book!"
+},
+{
+"k": "11495",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {SadA}My god, that poor girl…"
+},
+{
+"k": "11496",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{NervousA}We already {AngryA}know he's a psycho, {SuspiciousA}this is just one more detail."
+},
+{
+"k": "11497",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{NervousA}He's not just a {SurpriseA}freak, he's a {AngryA}violent freak. {SuspiciousA}I think that's pretty clear."
+},
+{
+"k": "11498",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{SuspiciousA}He's got a thing about {SurpriseA}Snow and {ConfusedA}he's got a thing about {SurpriseA}violence, {SuspiciousA}I think that much was already clear."
+},
+{
+"k": "11499",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{NervousA}He likes flowers, {ConfusedA}and he likes violence. {SuspiciousA}That much already seemed pretty clear."
+},
+{
+"k": "11500",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]He's violent! I kind of got that!"
+},
+{
+"k": "11501",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]He's a freak, and a violent one!"
+},
+{
+"k": "11502",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]He's obsessed with Snow, and violence, too. Clearly."
+},
+{
+"k": "11503",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]Between that and the flowers…maybe he's one of these assholes who think rape is romantic."
+},
+{
+"k": "11504",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{SurpriseA}Okay, {ConfusedA}I wasn't expecting that!"
+},
+{
+"k": "11505",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SuspiciousA}But then, {NervousA}what do you really {SuspiciousA}expect from a psycho killer?"
+},
+{
+"k": "11506",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SadA}Jesus, {SadB}that poor girl… {SadA}what did she walk into?"
+},
+{
+"k": "11507",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{ConfusedA}Of course, {NervousA}we already know the guy's {SadA}a freak."
+},
+{
+"k": "11508",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SurpriseA}But I guess a {SuspiciousA}Snow White fixation {NervousA}could go that way, too."
+},
+{
+"k": "11509",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SadA}Is it some kind of weird {SuspiciousA}romantic thing for him to {NervousA}dress up like Snow, {ConfusedA}or just…some kind of weird thing?"
+},
+{
+"k": "11510",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ConfusedA}Jesus, {SurpriseA}just when I {SuspiciousA}thought this couldn't get {NervousA}any weirder."
+},
+{
+"k": "11511",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]What? Wow. The psycho also cross-dresses."
+},
+{
+"k": "11512",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]So, he's so obsessed with Snow that he dresses as her? That's too much. Well, and:"
+},
+{
+"k": "11513",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {SadA}Jesus."
+},
+{
+"k": "11514",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-Crouch}{NormalB}There's a bite out of the apple. Could be \"Mr Smith\" {thinkingA}got hungry after he {ThinkingB}killed Lily, had {DoubtfulA}himself a little snack."
+},
+{
+"k": "11515",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SadB}God, {ConfusedA}really? {SadA}That's so cold! {NervousA}I can't imagine eating after {ConfusedA}something like this. {NervousA}I just wouldn't be able to. This guy must be {SurpriseA}a real {SuspiciousA}sociopath!"
+},
+{
+"k": "11516",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{SuspiciousA}Jesus. He {SurpriseA}really IS a cold-blooded sociopath, {NervousA}isn't he?"
+},
+{
+"k": "11517",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {SadA}What did she {SadB}walk into?"
+},
+{
+"k": "11518",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{SadB}Jesus. I {NervousA}know he's a deviant {ConfusedA}but that's just so cold-blooded {SuspiciousA}I can hardly imagine it."
+},
+{
+"k": "11519",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{SurpriseA}Jesus. {SuspiciousA}I'm just trying to imagine it; {NervousA}acting out the fantasy, {ThinkingA}killing her, and then…{SadA}eating. That's just so cold-blooded!"
+},
+{
+"k": "11520",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{ConfusedA}Jesus, that's {NervousA}so cold-blooded! {ConfusedA}So much for the passionate romantic."
+},
+{
+"k": "11521",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]Jesus, that's cold. I was already imaginiing a psychotic, but that really snaps things into focus."
+},
+{
+"k": "11522",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]Jesus, that changes him from murdering freak to stone cold psychopath. Which I think is even scarier."
+},
+{
+"k": "11523",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-Crouch}{NormalB}It's got a single {ThinkingA}bite taken out of it. Like {ThinkingB}in Snow's story."
+},
+{
+"k": "11524",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}It wasn't, {DoubtfulA}I'd have smelled that. I think it's just {ThinkingA}a prop. It's here because {ConfusedB}they were acting out the scene in the book."
+},
+{
+"k": "11525",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{SurpriseA}Oh no! {NervousA}Do you think it was {SuspiciousA}poisoned?"
+},
+{
+"k": "11526",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated][genuine] {body-StandA}{NervousA}Of course. {SuspiciousA}That makes perfect sense."
+},
+{
+"k": "11527",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[stressed] {body-StandA}{NervousA}He's got some kind of {SurpriseA}Snow White {ConfusedA}fixation, so they come here and play pretend. {ThinkingA}I must have missed the part of the story where he cuts her {AngryA}head off, though, that's new."
+},
+{
+"k": "11528",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{ConfusedA}Sorry, {NervousA}I shouldn't be… {ConfusedA}sorry."
+},
+{
+"k": "11529",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-Crouch}{NormalA}There's only one bite taken out of the apple - {ThinkingA}whoever was eating it didn't get to {MockingB}finish. {DoubtfulA}I think that might have been Lily - {AngryA}\"Mr Smith\" attacked her while she {AngryB}was eating."
+},
+{
+"k": "11530",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}It's all {SurpriseA}so… {ConfusedA}so senseless. {SuspiciousA}Only an animal would do something like this.  {AngryA}A psychopath."
+},
+{
+"k": "11531",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{SadA}That {AngryA}psycho makes her {SuspiciousA}act out a scene with a fake poison apple, {NervousA}and then he cuts her head off {SurpriseA}for real."
+},
+{
+"k": "11532",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{NervousA}That {SuspiciousA}freak {NervousA}makes her act out a scene with a {AngryA}fake poison apple, and then he cuts her head off {SurpriseA}for real."
+},
+{
+"k": "11533",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{NervousA}First he {SuspiciousA}makes her act out a scene with a {NervousA}fake poison apple, and then he {AngryA}cuts her head off {SurpriseA}for real. {NervousA}I'm sure that all seemed {SuspiciousA}very romantic!"
+},
+{
+"k": "11534",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]{body-StandA}{ConfusedA}He's just {SuspiciousA}acting out another part {NervousA}of the book!"
+},
+{
+"k": "11535",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SadA}He really is {SuspiciousA}some kind of an {NervousA}animal."
+},
+{
+"k": "11536",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{ConfusedA}It's all so {SadA}senseless!"
+},
+{
+"k": "11537",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SuspiciousA}He's not just disturbed, {NervousA}he really is some kind of {SuspiciousA}an animal."
+},
+{
+"k": "11538",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{SadA}He's fixated on {SadB}Snow; {SadA}he attacks without warning…"
+},
+{
+"k": "11539",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{SuspiciousA}I don't know what {AngryA}perverse romantic idea this is {ConfusedA}supposed to be serving, {SadA}but…"
+},
+{
+"k": "11540",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}He just {SuspiciousA}jumped her {SadA}while she was eating?"
+},
+{
+"k": "11541",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]{ConfusedA}It just keeps {SadB}getting worse."
+},
+{
+"k": "11542",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]The freak just jumped her while she was eating? God."
+},
+{
+"k": "11543",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]They act out Snow White fantasies and then he jumps her while she's eating? God."
+},
+{
+"k": "11544",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]{body-StandA}{SuspiciousA}Sure, a {AngryA}nice candlelight dinner, and then {SurpriseA}WHAM. {AngryA}God."
+},
+{
+"k": "11545",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I guess I never realized you were actually a good detective. I think of you more as the enforcer type."
+},
+{
+"k": "11546",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Thanks?"
+},
+{
+"k": "11547",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}God, {SadA}I can see the whole picture now! {ConfusedA}It all goes together, {SurpriseA}like you said! {AngryA}This creep put that girl in a {SadA}Snow White dress and recreated the whole story from the book, with the apple, and the deep sleep, and {NervousA}everything!"
+},
+{
+"k": "11548",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]{body-StandA}{NervousA}I hope you're just about through. {SadA}I don't really want to stay in here any longer."
+},
+{
+"k": "11549",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[sour] {DoubtfulA}Yeah."
+},
+{
+"k": "11550",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ConfusedA}Thanks?"
+},
+{
+"k": "11551",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]{ConfusedA}So, he planned it all out, {ThinkingA}he had all the details noted down. {SurpriseA}Only, {SadA}then, when it comes time to kiss her and wake her up…"
+},
+{
+"k": "11552",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[amid agitation]{SadA}You're a better detective than I thought you'd be."
+},
+{
+"k": "11553",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}You're {AngryA}like a brick {SurpriseA}wall! {AngryA}How does she stand you?"
+},
+{
+"k": "11554",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ConfusedA}God, I'm just {SadA}having trouble processing all of {ThinkingA}this. This {AngryA}guy has some kind of a weird Snow obsession, {NervousA}but then there's other stuff, too."
+},
+{
+"k": "11555",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}God, this is {SurpriseA}all too {ThinkingA}weird, Bigby. {ConfusedA}Who is this guy?"
+},
+{
+"k": "11556",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ThinkingA}He's into sexual violence {SadA}as well as {SurpriseA}regular {SadA}violence, apparently."
+},
+{
+"k": "11557",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}I mean, {ConfusedA}he's wearing that dress? {SadA}I'm just not sure what to do with that."
+},
+{
+"k": "11558",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}Stopping for a {SurpriseA}snack after {ConfusedA}you cut off somebody's head is just {NervousA}inhuman."
+},
+{
+"k": "11559",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ConfusedA}Killing her {NervousA}while she's eating, {AngryA}what, I {SuspiciousA}guess she must have been doing it {SadA}wrong, or something."
+},
+{
+"k": "11560",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}The whole {ConfusedA}ritual sacrifice thing {SadA}I'm not sure what to do with."
+},
+{
+"k": "11561",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}I mean, he {ThinkingA}brings someone flowers {ConfusedA}before he kills them?"
+},
+{
+"k": "11562",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}I mean, he's {SuspiciousA}fascinated by her {ThinkingA}beauty, {ConfusedA}but then he spoils it by cutting off her head. {SadA}Unless he thinks that's an improvement? {SadB}Jesus."
+},
+{
+"k": "11563",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ConfusedA}Where does an interest in {SurpriseA}fashion {ConfusedA}play in to anything? {ThinkingA}Or maybe it doesn't and {SadA}I shouldn't try to connect all of the dots."
+},
+{
+"k": "11564",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}Apparently he's got a {SuspiciousA}food fetish; {ThinkingA}I'm not sure what to make of that. {NervousA}At least he didn't {SadA}eat HER."
+},
+{
+"k": "11565",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}The fact that he enjoys women in {ConfusedA}danger doesn't bode well for {SadA}anybody…"
+},
+{
+"k": "11566",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ThinkingA}He's got a {NervousA}death fixation, {SadA}that doesn't bode well for anybody…"
+},
+{
+"k": "11567",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{NervousA}Apparently he {ThinkingA}enjoys helpless women-- {ConfusedA}that's not going to bode {SadA}well for anybody…"
+},
+{
+"k": "11568",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated] {body-StandA}{ConfusedA}I just don't have a very {SadA}complete picture."
+},
+{
+"k": "11569",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{SadA}The next step closer…"
+},
+{
+"k": "11570",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}His stand-in for Snow is gone now, {WorriedA}so…"
+},
+{
+"k": "11571",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[indicating photos]{SadA}This kind of stalking… {NervousA}it doesn't just stop by itself. {SuspiciousA}Trust me, I know about this, {ThinkingA}firsthand. {NervousA}He'll keep trying to get closer and {SadA}closer."
+},
+{
+"k": "11572",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{SurpriseA}Two--"
+},
+{
+"k": "11573",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{WorriedA}This one was {FearA}taken two days ago."
+},
+{
+"k": "11574",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I think \"Smith\" {WorriedA}was dressing Lily up in it, {WorriedB}to recreate the Snow from the book."
+},
+{
+"k": "11575",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}Our \"Mr Smith\" seems {ThinkingA}very focused on this dress. I {ThinkingB}think we're looking for someone who's interested in fashion."
+},
+{
+"k": "11576",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SurpriseA}I'M \"{SuspiciousA}interested in fashion.\" {SurpriseA}This guy… {SuspiciousA}well, I {NervousA}guess I {ThinkingA}just don't want to be lumped in with the {AngryA}freak."
+},
+{
+"k": "11577",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[grunts understanding] {MockingB}"
+},
+{
+"k": "11578",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalB}Between this picture, and these {DoubtfulA}notes about varieties of apples, and the {ThinkingA}apple over there… I think {ThinkingB}our \"Mr Smith\" might have a food fetish."
+},
+{
+"k": "11579",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}I see what you {ThinkingA}mean. I guess the {SurpriseA}question then would {SuspiciousA}be does he like to eat during {SurpriseA}sex, {SuspiciousA}or during {AngryA}murder…{SuspiciousA}either way, the guy's a {AngryA}grade-A freak!"
+},
+{
+"k": "11580",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]The psycho likes to eat while he kills people? That's completely bizarre."
+},
+{
+"k": "11581",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]The freak gets off on eating during…[sex]"
+},
+{
+"k": "11582",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "So, he's fixated on Snow, AND on food. That's even more disturbing."
+},
+{
+"k": "11583",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]Jesus, between that and his \"romantic\" delusions I'm getting the picture that this guy is a real weirdo."
+},
+{
+"k": "11584",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}…Who we know is a total psycho."
+},
+{
+"k": "11585",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}…Who we know is a total nut case."
+},
+{
+"k": "11586",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}He thinks Snow's beautiful, and this is what he does? I'm sure he thinks it's romantic, but what it is is obsessive and creepy."
+},
+{
+"k": "11587",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]So he's fixated on Snow's story."
+},
+{
+"k": "11588",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]And a psycho like him probably really likes the coffin part."
+},
+{
+"k": "11589",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]And a freak like him probably really likes the coffin part."
+},
+{
+"k": "11590",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]So he's fixated on her story, as well as her beauty."
+},
+{
+"k": "11591",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalB}Just looking {ThinkingB}at this page, with Snow in the coffin…I think {ThinkingA}\"Smith\" may have an obsession with death."
+},
+{
+"k": "11592",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}Of course he's obsessed with death! He's a psycho killer!"
+},
+{
+"k": "11593",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]You mean…like a sexual one?"
+},
+{
+"k": "11594",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I didn't, but that's possible."
+},
+{
+"k": "11595",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]Jesus Christ."
+},
+{
+"k": "11596",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]It goes right along with cutting off people's heads!"
+},
+{
+"k": "11597",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}So the freak loves death! That's no big surprise, is it?"
+},
+{
+"k": "11598",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}He's obsessed with Snow, AND obsessed with death."
+},
+{
+"k": "11599",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}So he's obsessed with Snow's beauty, and with death."
+},
+{
+"k": "11600",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]Not just an ordinary freak, but a death-loving freak!"
+},
+{
+"k": "11601",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]Great, in case I didn't think he was enough of a psychopath already!"
+},
+{
+"k": "11602",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalB}I think he {ThinkingB}marked this page because he {ThinkingA}likes the sight of a helpless person. {ThinkingB}It's about power for our \"Mr. Smith.\" He {AngryA}likes to be in control."
+},
+{
+"k": "11603",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Maybe he killed her just because she woke up! Jesus."
+},
+{
+"k": "11604",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}What the hell, like he can't deal with people when they're awake? That makes him some kind of crazy, insecure…deviant!"
+},
+{
+"k": "11605",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]So the psycho killer likes an easy victim. Twisted, but not unexpected."
+},
+{
+"k": "11606",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]Great. I mean I already know he's a weirdo, this is just making it worse."
+},
+{
+"k": "11607",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]So he's fixated on Snow, but he likes them helpless… maybe that's why he needed a stand-in."
+},
+{
+"k": "11608",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]So, he likes them beautiful, and helpless. Twisted."
+},
+{
+"k": "11609",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]He likes them beautiful, and helpless."
+},
+{
+"k": "11610",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[to self] {body-StandA}{NervousA}I can't {SurpriseA}believe {SuspiciousA}this.{NervousA}"
+},
+{
+"k": "11611",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[muttering to self]I don't know if I've ever seen so much blood."
+},
+{
+"k": "11612",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[to self] {body-StandA}{NervousA}I wish {SadA}Beast was here."
+},
+{
+"k": "11613",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}We shouldn't {ConfusedA}even be in here.{NervousA}"
+},
+{
+"k": "11614",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I think someone's-- no, wait, sorry. False alarm."
+},
+{
+"k": "11615",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[rhetorical, to self]What kind of person could do such a horrible thing?"
+},
+{
+"k": "11616",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SadA}[heavy sigh]{SadB}"
+},
+{
+"k": "11617",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[to self]I bet they make me pay for the door. Dammit."
+},
+{
+"k": "11618",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated, to self] {body-StandA}{NervousA}Just {SurpriseA}unbe{SuspiciousA}lieveable!{SadA}"
+},
+{
+"k": "11619",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated, to self] {body-StandA}{NervousA}God.{SadB}"
+},
+{
+"k": "11620",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SadB}[sniffles, trying to pull herself together]{SadA}"
+},
+{
+"k": "11621",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated, to self] {body-StandA}{NervousA}Poor {ConfusedA}girl…{SadA}"
+},
+{
+"k": "11622",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated, to self] {body-StandA}{NervousA}She must {ConfusedA}have been so {SadA}scared…{SadB}"
+},
+{
+"k": "11623",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated, to self]Could have been anyone…"
+},
+{
+"k": "11624",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated, to self] {body-StandA}{NervousA}Maybe {ConfusedA}she didn't see it coming…{SadB}"
+},
+{
+"k": "11625",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated, to self]Oh god, maybe she DIDN'T see it coming…"
+},
+{
+"k": "11626",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated, to self] {body-StandA}{SuspiciousA}Dammit, {Body-HandToHead}{AngryA}get it together, Beauty. {Body-StandA}{SuspiciousA}Be strong.{SadB}"
+},
+{
+"k": "11627",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated, to self]Dammit."
+},
+{
+"k": "11628",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated, to self]Bastard…"
+},
+{
+"k": "11629",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated, to self]FUCKING bastard…"
+}
+]

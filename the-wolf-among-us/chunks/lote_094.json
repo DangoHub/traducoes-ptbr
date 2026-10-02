@@ -1,0 +1,1178 @@
+[
+{
+"k": "25311",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Fine, fine, I get that. [bargaining]But might I propose a very simple solution?"
+},
+{
+"k": "25312",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[to himself][under his breath]Rotten bastard..."
+},
+{
+"k": "25313",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[dry]Wouldn't you know it? Colin is going to the farm."
+},
+{
+"k": "25314",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[backtracking]Well I would say each case deserves to be decided on its own, uh, merits, don't you think?"
+},
+{
+"k": "25315",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Colin stays in my apartment. It's a lot different than a three-foot-tall frog walking the streets."
+},
+{
+"k": "25316",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[pissed]What? If the pig doesn't have to go, I shouldn't either!"
+},
+{
+"k": "25317",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Well, might I suggest a path of compassion for the pig? [bargaining]And me and my boy too?"
+},
+{
+"k": "25318",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "I haven't decided on him, yet. But every situation's different, Toad."
+},
+{
+"k": "25319",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[bargaining]Ah, I see I've given you something to think about. Now let me add another log to that fire..."
+},
+{
+"k": "25320",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "If you give me one more chance, and hear me out, I see a way for me and me boy to stay."
+},
+{
+"k": "25321",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[pleading]Please, Sheriff. Don't take TJ from the only home he knows."
+},
+{
+"k": "25322",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[very reasonable]I'm not gonna ask for any more than I need. I just want to stay. So whaddya say you just give me enough to cover me glamours, and we'll... [shrugs, giving up]call the rest a wash?"
+},
+{
+"k": "25323",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Even if I have to go to the 13th floor!"
+},
+{
+"k": "25324",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Just get me what I'm owed."
+},
+{
+"k": "25325",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Then I'll be able to get the whole fam glamoured up."
+},
+{
+"k": "25326",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "You're a real friend of the people, Sheriff."
+},
+{
+"k": "25327",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Hey, you've been out of glamour from the word go. I have no choice."
+},
+{
+"k": "25328",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, the damages might be a valid complaint, but that's a seperate deal. Weyland Smith can see to that... [pointed]at the Farm."
+},
+{
+"k": "25329",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "But... [setting out a possible scenario]you go to the Farm, things cool down here a bit, [noncommittal]maybe you can come back at some point."
+},
+{
+"k": "25330",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, you were unglamoured three days ago and you're still unglamoured now. I can't ignore that."
+},
+{
+"k": "25331",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[over his shoulder, to Bigby] I better go break the news to my boy."
+},
+{
+"k": "25332",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I see. Anything for Bluebeard, but old Toad doesn't even draw enough water to merit a response."
+},
+{
+"k": "25333",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Oh, thank you Sheriff! I knew I could count on you to make me whole again. We get this sorted, and I'll be glamoured to the nines, I will."
+},
+{
+"k": "25334",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "My future's in your hands, Sheriff. But, of course, I trust you to take care of me and mine."
+},
+{
+"k": "25335",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[overly thankful]So you'll contact me to let me know, yeah?"
+},
+{
+"k": "25336",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "What do you know about the Crooked Man?"
+},
+{
+"k": "25337",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Toad. You help me out here real quick."
+},
+{
+"k": "25338",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Oh, nothing that isn't common knowledge. I'm on the straight and narrow, Sheriff. [to himself]Sometimes I think that's me problem."
+},
+{
+"k": "25339",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[low volume]Look, I'll try to get you that money and get you another chance, but..."
+},
+{
+"k": "25340",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[low volume]You have to understand, that's not entirely up to me."
+},
+{
+"k": "25341",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[hesitates - doesn't want to bring it up at first]You've been making it hard for me to trust your judgment, lately."
+},
+{
+"k": "25342",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[defensive]Hey, the fight with Jersey was gonna happen, whether I wanted it to or not."
+},
+{
+"k": "25343",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Nothing is unavoidable, Bigby."
+},
+{
+"k": "25344",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[pointed]Do I need to bring up what you did to Tweedle Dum last night? You are the Sheriff, not an executioner. [appealing to Bigby to understand]What you do has consequences that affect everyone."
+},
+{
+"k": "25345",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "You certainly didn't have to torture the Woodsman while he was chained to a chair in the basement."
+},
+{
+"k": "25346",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "You certainly didn't have to torture Tweedle Dee while he was chained to a chair in the basement."
+},
+{
+"k": "25347",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "It's not just that. I couldn't even rely on you to burn Aunty Greenleaf's glamour tree. And I was right in the room."
+},
+{
+"k": "25348",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "So whatever you discuss with them, remember, eventually it's gotta go through me. Understand?"
+},
+{
+"k": "25349",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Fine, but it hasn't just been that and you know it."
+},
+{
+"k": "25350",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Toad, this is the Business Office, not a bank."
+},
+{
+"k": "25351",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "You're always talking about glamours, and how it's my responsibility. Well what about your responsibility?"
+},
+{
+"k": "25352",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Don't try to change the subject on me! I need a little bit o' that walking-around money, you know?"
+},
+{
+"k": "25353",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "My car... totaled? The gaping maw in my wall? Any of this sound familiar?"
+},
+{
+"k": "25354",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Now that we're not in his shop... What more do you know about the Crooked Man?"
+},
+{
+"k": "25355",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I figured I'd try my luck with the merchandise here."
+},
+{
+"k": "25356",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Besides..."
+},
+{
+"k": "25357",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "The Woodsman is broke! You saw the way he was living."
+},
+{
+"k": "25358",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "You good-for-nothing piece of... [stops himself before getting really into trouble]"
+},
+{
+"k": "25359",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[pointed]I didn't throw myself through your wall! Go ask Woody, if you want payback."
+},
+{
+"k": "25360",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, I don't write the checks around here. But I know I had a hand in it[the destruction of property], so... I'll try to get Snow to take care of you."
+},
+{
+"k": "25361",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[pleading]Please do. It's the only way I'll be able to get me glamours."
+},
+{
+"k": "25362",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "TJ's been through so much in the past few days..."
+},
+{
+"k": "25363",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Sometimes I get the feeling you enjoy toying with people's emotions."
+},
+{
+"k": "25364",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[sarcastic]Gee, thanks. I don't neeed the money for glamours or nothing."
+},
+{
+"k": "25365",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "What is this? You bring up the money, get me hopes up, and then give me the silent treatment?"
+},
+{
+"k": "25366",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Before we get into any of that, what do you know about the Crooked Man?"
+},
+{
+"k": "25367",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I'm not looking for a handout."
+},
+{
+"k": "25368",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "But the yolk of responsibility is pretty clealry placed, don't you think?"
+},
+{
+"k": "25369",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "And you can't deny that."
+},
+{
+"k": "25370",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Now I'm sure you've got your own agenda, Sheriff."
+},
+{
+"k": "25371",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "But I've taken a real wallop because of you."
+},
+{
+"k": "25372",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[flippant]I've writen up a bill if you'd like to see it."
+},
+{
+"k": "25373",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[terse]Me and my boy getting shipped off to the Farm is pretty bloody urgent to me."
+},
+{
+"k": "25374",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, Crane left us in the lurch, here. We just can't be handing out cash unless it's something, you know, urgent. I wish I could help, but..."
+},
+{
+"k": "25375",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I should have taken what you offered back at the Lucky Pawn."
+},
+{
+"k": "25376",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "And I even brought in this damn magic coat. I could have sold it, but I know you wanted it."
+},
+{
+"k": "25377",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[frustrated]That's why I was trying to sell the bloody coat! And Jack was getting ready to crack, until you showed up and ruined it."
+},
+{
+"k": "25378",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "You know it's not right..."
+},
+{
+"k": "25379",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "You're going to hide behind some official line?"
+},
+{
+"k": "25380",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "But you know it's not right, burdening the weakest of us like this."
+},
+{
+"k": "25381",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Of course you are."
+},
+{
+"k": "25382",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "This isn't exactly a new problem with you, Toad."
+},
+{
+"k": "25383",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[muttering to himself as he goes]What a crock of shite..."
+},
+{
+"k": "25384",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Can I talk to Bluebeard for a minute?"
+},
+{
+"k": "25385",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[reluctant]Yes, and a very generous one at that."
+},
+{
+"k": "25386",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Yes, I think we've just about wrapped up here."
+},
+{
+"k": "25387",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Yes, I've just committed to an unscheduled donation."
+},
+{
+"k": "25388",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Did you think Toad would be happy to be sent to the Farm?"
+},
+{
+"k": "25389",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[sarcastic]Well, that makes you two for two on the day."
+},
+{
+"k": "25390",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Bluebeard leaves happy. Toad leaves angry. What's wrong with this picture?"
+},
+{
+"k": "25391",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Bluebeard didn't just get himself sent up to the Farm."
+},
+{
+"k": "25392",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[calling over]You must be getting soft, Sheriff."
+},
+{
+"k": "25393",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I'm gonna go check on the mirror. I'll be right over there."
+},
+{
+"k": "25394",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Why do I get the feeling I'm not gonna like what you're about to tell me?"
+},
+{
+"k": "25395",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[reluctant]Yes, thank you very much for your... generous donation."
+},
+{
+"k": "25396",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[to Snow]Is the matter concluded, Ms. White?"
+},
+{
+"k": "25397",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "So I imagine this will go very smoothly."
+},
+{
+"k": "25398",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Well, then get on with it."
+},
+{
+"k": "25399",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I'm putting on a fencing demonstration shortly. And now that the Fabletown government is stably funded again, I'd like to be about my day."
+},
+{
+"k": "25400",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I have business to discuss with Miss White."
+},
+{
+"k": "25401",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[frustrated]I think I'll come back when Snow has cleaned out the vermin from her office."
+},
+{
+"k": "25402",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I know you are probably used to shirking your duties..."
+},
+{
+"k": "25403",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Did you hear me?"
+},
+{
+"k": "25404",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Well, Sheriff?"
+},
+{
+"k": "25405",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "But I have responsibilities, and I intend to honor them."
+},
+{
+"k": "25406",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "That includes keeping this government solvent."
+},
+{
+"k": "25407",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Which pays your salary, might I remind you."
+},
+{
+"k": "25408",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[to Bluebeard]Is everything all right?"
+},
+{
+"k": "25409",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[frustrated]I don't have to stand here for this."
+},
+{
+"k": "25410",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[to Snow]You need to teach your animal to behave himself!"
+},
+{
+"k": "25411",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[to Toad]Please, you'll have to excuse me...[trails off as she walks off prematurely]"
+},
+{
+"k": "25412",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "I know what you're thinking, and the answer is \"yes.\" I'm watching you. So don't try to use this little transition for some scheme of yours."
+},
+{
+"k": "25413",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[insulted]What's good for me is good for Fabletown."
+},
+{
+"k": "25414",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "You should learn to treat your betters with the appropriate respect."
+},
+{
+"k": "25415",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Why the hell did you burn Crane's stuff, huh? And don't bullshit me, Bufkin was there. I know it was you."
+},
+{
+"k": "25416",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[frustrated]Well, did you find anything tying Crane to the Crooked Man?"
+},
+{
+"k": "25417",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[derisive snort]I was simply endeavoring to make the search a speedy one. Surely you of all people can't fault me for getting... overzealous in the process."
+},
+{
+"k": "25418",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Nothing definitive. But that's not exactly what I was looking for."
+},
+{
+"k": "25419",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "You beat the shit Flycatcher! And trashed the Tweedle's place for good measure. What were you really doing there?"
+},
+{
+"k": "25420",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[innocent]He worked for them, didn't he? I couldn't be sure that he wasn't involved. And I didn't want him interfering."
+},
+{
+"k": "25421",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I see. You're at a loss, so now you're interested in my search."
+},
+{
+"k": "25422",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "So what did your search turn up?"
+},
+{
+"k": "25423",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "A clue that hinted at the witch's identity. But nothing solid enough to act on at the time."
+},
+{
+"k": "25424",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Unfortunately, there was nothing definitive."
+},
+{
+"k": "25425",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "You've got a pretty deep rolodex. What do you know about the Crooked Man?"
+},
+{
+"k": "25426",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[unimpressed]I expected you'd ask about him."
+},
+{
+"k": "25427",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "At least, not without a very expensive spell."
+},
+{
+"k": "25428",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I'm not a mind reader."
+},
+{
+"k": "25429",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Well be more specific."
+},
+{
+"k": "25430",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "What's your business with him?"
+},
+{
+"k": "25431",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "We've met. He's a scratch golfer. But it's always been... casually arranged. [thinking]In fact, if I remember correctly, he just shows up and leaves... very much on his own schedule."
+},
+{
+"k": "25432",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[derisive]He probably mistakes himself for my peer."
+},
+{
+"k": "25433",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Why would I? I'd be surprised if anyone had. You don't become a man of means by tipping your hand at every turn. [derisive]Not that you'd know..."
+},
+{
+"k": "25434",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "You run in different circles than I do. You ever heard anything about his plans?"
+},
+{
+"k": "25435",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "If you're waiting me to volunteer information, I simply don't have any. One rarely spills their secrets over a round of golf."
+},
+{
+"k": "25436",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I thought you were going to ask the Magic Mirror. [derisive]If the monkey ever gets it fixed."
+},
+{
+"k": "25437",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Do you know where I can find him?"
+},
+{
+"k": "25438",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "I'm asking you."
+},
+{
+"k": "25439",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "He hasn't invited me over for tea if that's what you're driving at."
+},
+{
+"k": "25440",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Now I really must be off. Some of us have schedules to keep."
+},
+{
+"k": "25441",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Bufkin says he's close. Should be any minute now."
+},
+{
+"k": "25442",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "But we're not through here! I need to get---[gets cut off]"
+},
+{
+"k": "25443",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[cutting Toad off]Mr. Toad, I'm sure the Sheriff will be happy to discuss this further with you."
+},
+{
+"k": "25444",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Now, I really must get to my business with Miss White."
+},
+{
+"k": "25445",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[calling to Snow][frustrated]Miss White! Are you about ready?"
+},
+{
+"k": "25446",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[exasperated sigh]You just couldn't act professional with Bluebeard, could you? Not even for one minute."
+},
+{
+"k": "25447",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[lighlty accusatory]Well how did it go with Toad? Did you take care of it?"
+},
+{
+"k": "25448",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[more serious]Did you take care of Toad?"
+},
+{
+"k": "25449",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I understand it probably wasn't easy, but it's the right decision. For Fabletown."
+},
+{
+"k": "25450",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "It's done. Toad knows he's going to the farm."
+},
+{
+"k": "25451",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "How are we supposed to expect people to respect our laws if we don't enforce them?"
+},
+{
+"k": "25452",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, I gave Toad one more chance. At least while we're after the Crooked Man. [beat]He's had a rough go of it lately."
+},
+{
+"k": "25453",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Then we just don't ship him to the farm. One less thing to worry about."
+},
+{
+"k": "25454",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[accusatory]That's convenient for you to say. [backing off]But we can't pay for anything until we see what kind of a mess Crane's embezzlement left. Bluebeard's donation is only a stopgap measure."
+},
+{
+"k": "25455",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, I don't want to tell you how to do your job, but Fabletown owes Toad for how his place got trashed."
+},
+{
+"k": "25456",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I don't think you appreciate how serious a risk that is."
+},
+{
+"k": "25457",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "He's out of our hair for now. I think that's reason enough to do it."
+},
+{
+"k": "25458",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "It was a calculated risk."
+},
+{
+"k": "25459",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "But what if someone sees him?"
+},
+{
+"k": "25460",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "You didn't fully think this through, did you?"
+},
+{
+"k": "25461",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "I guess I just thought... with TJ finding the body and all, the kid needed a break."
+},
+{
+"k": "25462",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I like TJ too, but this is something more important. It's the safety and security of all of Fabletown that's at risk."
+},
+{
+"k": "25463",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I think your calculations are off."
+},
+{
+"k": "25464",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I'm surprised you dropped the ball like this."
+},
+{
+"k": "25465",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "We all know what it's like to have to leave our homes."
+},
+{
+"k": "25466",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "I don't think any of us want to have to do it again anytime soon."
+},
+{
+"k": "25467",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Glamours aren't just something we require willy-nilly."
+},
+{
+"k": "25468",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "And yes, I know sending some Fables to the farm is making them leave their homes, but... well, it's for the best for everyone..."
+},
+{
+"k": "25469",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "You always talk about wanting to do the right thing. Well it just walked out the door. I caused those damages. Have the Business Office pay him what he deserves. It's the right thing to do."
+},
+{
+"k": "25470",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Bigby, I want to but it's not that simple..."
+},
+{
+"k": "25471",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Look, I gave him his second chance, and he just walked out the door with it. Next time, he's outta here. Bang, zoom, straight to the Farm. Okay?"
+},
+{
+"k": "25472",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[disappointed]That's a pretty cavalier attitude for something like this. I'm surprised at you..."
+},
+{
+"k": "25473",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "You need to be more careful. Bluebeard's support is vital to having a working government. And he has a... delicate sense of personal dignity."
+},
+{
+"k": "25474",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "I know how it looks, but you have to believe me, I said nothing to upset Bluebeard. Really."
+},
+{
+"k": "25475",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "[slow, sarcastic]A gentle soul."
+},
+{
+"k": "25476",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Bluebeard loves his theatrics. He blows things out of proportion just to be the center of attention. How many times have you seen it before, huh?"
+},
+{
+"k": "25477",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "At least you managed to keep things civil between you."
+},
+{
+"k": "25478",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "That's not exactly true...[referring to the donation]But as for information, I expected as much."
+},
+{
+"k": "25479",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "It shouldn't shock you that Bluebeard provided nothing useful."
+},
+{
+"k": "25480",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Well what exactly is did you do that set him off?"
+},
+{
+"k": "25481",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "What were you thinking calling out our biggest donor when we're in dire straits like this?"
+},
+{
+"k": "25482",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[reluctantly agreeing]Enough. [stern again]And I got a front row seat just now."
+},
+{
+"k": "25483",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "We have to treat everyone equally."
+},
+{
+"k": "25484",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[rephrasing]I mean, we need to apply the laws properly."
+},
+{
+"k": "25485",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "And if that comes down on some Fables stronger than others, that's unfortunate."
+},
+{
+"k": "25486",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "But the Fabletown Charter was written with everyone's best interests in mind."
+},
+{
+"k": "25487",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Do I have to clean up after you again?"
+},
+{
+"k": "25488",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "If you don't tell me now, it's only going to make things worse."
+},
+{
+"k": "25489",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Someday isn't gonna cut it for Toad."
+},
+{
+"k": "25490",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[deliberately vague]Someday."
+},
+{
+"k": "25491",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "I think we need to cut Toad a check. Fabletown has an obligation to pay its debts, and that includes the damages to Toad's building and his car."
+},
+{
+"k": "25492",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "While I agree in theory, until we can sort out the mess Crane left us, it's just not possible."
+},
+{
+"k": "25493",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Well when can we."
+},
+{
+"k": "25494",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Besides. He's out of glamour. [sad]He won't be needing his car up at the Farm, anyway."
+},
+{
+"k": "25495",
+"who": "DIR",
+"ctx": "Fables104/env_businessoffice",
+"en": "Bigby drops the shard and Bufkin catches it."
+},
+{
+"k": "25496",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[sarcastic]Penitent to the end."
+},
+{
+"k": "25497",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "[side commentary][derisive snort]I'm sure experience has given you that impression."
+},
+{
+"k": "25498",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "[gotcha]Wasn't there for what?"
+},
+{
+"k": "25499",
+"who": "TOAD",
+"ctx": "Fables104/env_businessoffice",
+"en": "I did. Thought that might be worth something."
+},
+{
+"k": "25500",
+"who": "SNOW",
+"ctx": "Fables104/env_businessoffice",
+"en": "Good work, Bigby."
+},
+{
+"k": "25501",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "That's it. No doubt about it."
+},
+{
+"k": "25502",
+"who": "BIGBY",
+"ctx": "Fables104/env_businessoffice",
+"en": "Hey! Mirror. Rise and shine."
+},
+{
+"k": "25503",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "So[, Sheriff]... care to explain why you let that thief Crane just... stroll off?"
+},
+{
+"k": "25504",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "Care to explain why you let an admitted"
+},
+{
+"k": "25505",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "So, are you complicit, or just incompetent?"
+},
+{
+"k": "25506",
+"who": "BLUEBEARD",
+"ctx": "Fables104/env_businessoffice",
+"en": "It's a very strange decision for the Sheriff to make."
+}
+]

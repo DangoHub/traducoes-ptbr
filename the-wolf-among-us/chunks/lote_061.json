@@ -1,0 +1,800 @@
+[
+{
+"k": "16213",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[pickup2]But there was nothing in her mouth this time. Do you think this was done by the same person?"
+},
+{
+"k": "16214",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[pickup2]No. He said he wanted to run more tests."
+},
+{
+"k": "16215",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Her glamour isn't perfect."
+},
+{
+"k": "16216",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It might be a cheap glamour."
+},
+{
+"k": "16217",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[nasty]You made a mistake coming back here. This time it's gonna cost you."
+},
+{
+"k": "16218",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[oily]I knew you'd come around sooner or later. You can't help it, it's what you are."
+},
+{
+"k": "16219",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "The Crooked Man would like to see you. [nasty laugh!]"
+},
+{
+"k": "16220",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "I'm not just some knob you can push around. I've got friends who make you look like a one-legged bunny rabbit. So back off!"
+},
+{
+"k": "16221",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "Enough of this. If you want to talk to her anymore you'll have to rent her."
+},
+{
+"k": "16222",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[nasty]Oh, you'll pay for what you did, all right. But not with money. With something valuable."
+},
+{
+"k": "16223",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[oily]I'm really starting to like you, Sheriff. You're not afraid to be a complete bastard."
+},
+{
+"k": "16224",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "Trust me, you don't want to see him. But he wants to see you, so… good luck, mate."
+},
+{
+"k": "16225",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[nasty warning]You shouldn't stick your paws into dark places. You don't know what might be lurking around in there."
+},
+{
+"k": "16226",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "It's out of my hands now. You should have let well enough alone."
+},
+{
+"k": "16227",
+"who": "PORGIE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[oily]The position's filled, but there's always room for one more."
+},
+{
+"k": "16228",
+"who": "BIGBY",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][urgent; mid sentence]In the Open Arms! It was…"
+},
+{
+"k": "16229",
+"who": "SNOW",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][horrified; disgusted] Oh my god."
+},
+{
+"k": "16230",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][coughs] Oh, you have no idea how far down this goes."
+},
+{
+"k": "16231",
+"who": "BLUEBEARD",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][angry; threatening] You think you should just take over?"
+},
+{
+"k": "16232",
+"who": "BLUEBEARD",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][angry; threatening] I've seen how you run things!"
+},
+{
+"k": "16233",
+"who": "WOODSMAN",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][angry; defeated] You ruined by fucking life."
+},
+{
+"k": "16234",
+"who": "BLUEBEARD",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][angry; threatening] I think it's time someone else stepped in."
+},
+{
+"k": "16235",
+"who": "SNOW",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][stern] Take care of it, Bigby. Or I'll take care of it for you."
+},
+{
+"k": "16236",
+"who": "BIGBY",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][furious; shouting] Crane!"
+},
+{
+"k": "16237",
+"who": "VIVIAN",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][worried; scared] I'm scared, Mr. Wolf."
+},
+{
+"k": "16238",
+"who": "BIGBY",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][serious] Tell me…whatever you can."
+},
+{
+"k": "16239",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][dark] There's a lot of secrets in Fabletown."
+},
+{
+"k": "16240",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][dark] You sure you want to know what they are?"
+},
+{
+"k": "16241",
+"who": "BIGBY",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][heated, trying to convince her]He could be after YOU now!"
+},
+{
+"k": "16242",
+"who": "SNOW",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][seething]Good! I am dying to get my hands on that disgusting weasel!"
+},
+{
+"k": "16243",
+"who": "WOODSMAN",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][pleading, defensive]Come on, guys! Don't be like this. It was a good thing!"
+},
+{
+"k": "16244",
+"who": "BEAST",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][woeful]We just keep getting in deeper and deeper. I don't know what to do."
+},
+{
+"k": "16245",
+"who": "BLUEBEARD",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2]Obviously, there will have to be some changes."
+},
+{
+"k": "16246",
+"who": "BIGBY",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][aggressive]Who's behind this, Georgie?"
+},
+{
+"k": "16247",
+"who": "BLUEBEARD",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "[pickup2][seeing something juicy and surprising]My my my!"
+},
+{
+"k": "16248",
+"who": "VFX",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "Smoke from tires"
+},
+{
+"k": "16249",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "That's for me noggin, and the whole inquisition"
+},
+{
+"k": "16250",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "That's for the bottle, and the whole inquisition"
+},
+{
+"k": "16251",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "What's fair is fair."
+},
+{
+"k": "16252",
+"who": "SNOW",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "BIGBY!"
+},
+{
+"k": "16253",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "I saw you leave the Pudding N Pie with it, so, be a dear, and hand it over."
+},
+{
+"k": "16254",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "Hello Bigby."
+},
+{
+"k": "16255",
+"who": "DEE",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "'ello Bigby."
+},
+{
+"k": "16256",
+"who": "TOAD",
+"ctx": "Fables102/nexttimeon_episode3",
+"en": "Jesus Christ, Bigby… is that you?"
+},
+{
+"k": "16257",
+"who": "BIGBY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Mr. Toad…."
+},
+{
+"k": "16258",
+"who": "TOAD",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Do something, Bigby."
+},
+{
+"k": "16259",
+"who": "TOAD",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Before he completely tears up the place."
+},
+{
+"k": "16260",
+"who": "FAITH",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "You've got something on your face…"
+},
+{
+"k": "16261",
+"who": "WOODSMAN",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Fuck are you talking about you stupid cu--"
+},
+{
+"k": "16262",
+"who": "BEAUTY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Please, Bigby… promise me you won't tell Beast you saw me."
+},
+{
+"k": "16263",
+"who": "BIGBY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Look, whatever it is, it's between you and Beast. I'm staying out of it."
+},
+{
+"k": "16264",
+"who": "BEAUTY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Thank you… for trusting me."
+},
+{
+"k": "16265",
+"who": "BEAUTY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "It's not what you… might be thinking."
+},
+{
+"k": "16266",
+"who": "BEAST",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Have you seen my wife? Have you seen Beauty?"
+},
+{
+"k": "16267",
+"who": "CRANE",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Don't change the subject! You are to blame for this unpleasantness, Miss Snow!"
+},
+{
+"k": "16268",
+"who": "DEE",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "No, I'm Dee…"
+},
+{
+"k": "16269",
+"who": "BIGBY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[pickup4] [cold, pissed] …What the fuck happened before we showed up- -"
+},
+{
+"k": "16270",
+"who": "TOAD",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[pickup4] {WorriedA}But he said if word o' this ever got back to him, {FlusteredA}if he ever thought you knew, or Miss White… {WorriedA}he'd come back and kill my boy."
+},
+{
+"k": "16271",
+"who": "HOLLY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Well, he's not here."
+},
+{
+"k": "16272",
+"who": "SFXRDY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "(<<author>>Dr. Jack Fusting, Mon Jan 18 19:14:07 2038<<date:2147483647>>) toilet flush / sink / hands wipe on pants"
+},
+{
+"k": "16273",
+"who": "WOODSMAN",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "Holly, you're out of paper towels in the…"
+},
+{
+"k": "16274",
+"who": "GREN",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[loud, intense] …This fuckin' lap dog. Only comes sniffing around this part of town when the rich fucks in the Woodlands need a shakedown. Ain't that right, Bigby."
+},
+{
+"k": "16275",
+"who": "DEE",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[pickup4]Alright, I got a hundred bucks for the first bloke that can tell me something about a girl named…"
+},
+{
+"k": "16276",
+"who": "DEE",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[pickup4] Fuck, man!"
+},
+{
+"k": "16277",
+"who": "BIGBY",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[pickup5] Well… that's not true."
+},
+{
+"k": "16278",
+"who": "SNOW",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[pickup5] Right, we've had it worse, but… not by much."
+},
+{
+"k": "16279",
+"who": "GREN",
+"ctx": "Fables102/previouslyon_episode1",
+"en": "[loud, intense] …This fuckin' lap dog. Only comes sniffing around this part of town when the rich fucks in the Woodlands need a shakedown. Ain't that right, Bigby?"
+},
+{
+"k": "16280",
+"who": "",
+"ctx": "Fables102/ui_credits",
+"en": "Smoke And Mirrors"
+},
+{
+"k": "16281",
+"who": "",
+"ctx": "Fables102/ui_credits",
+"en": "WRITTEN BY\nDave Grossman - Lead\nAdam Hines\nNicole Martinez\n\nDESIGNED BY\nJoe Pinney - Lead\nRyan Kaufman\nAaron Casillas\nMatt LoPresti\n\nDIRECTED BY\nJason Latino\n\nART DIRECTION\nDavid Bogan\n\nMUSIC BY\nJared Emerson-Johnson\n\nCONTENT PROGRAMMING\nKeenan Patterson - Lead\nAndrew Langley\nCarl Muckenhoupt\nJohn Mauldin\nJason Reis\nJason Kim\n\nANIMATION\nJeff Sarre - Lead\nJed Heuer - Lead\nJanel Drewis\nTyler Helton\nArmando LLuch\nChris Waltner\nMike Hollander\nJustin Rosenthal-Kambic\nWest Munz\nRJ Torralba\nPatrick Bryan\n\n\n\n\nCINEMATIC ARTISTS\nVahram Antonian - Lead\nBridget Bougan\nAiryque Ervin\nJavier J. Espinoza\nDaniel Farjam Herrera\nNick Herman\nNick Mastroianni\nJolie Menzel\nMartin Montgomery\nKent Mudle\nChristopher Rieser\n\n\nCINEMATIC ARTISTS\nGraham Ross\nGrady Standard\nJonathan Stauder\nEric Stirpe\nRyan Wetherall\nAdam Waters\nAnthony Tso\nAshley Ruhl\nJason Pyke\nJessica Watkins\nRogelio Gonzalez\nSean Manning\n\n\n\n\nENVIRONMENT ARTISTS\nKim Lyons - Lead\nBrian Gillies\nMark Sheppard\nJan Wyss\nAmanda Stewart\n\nCHARACTER ARTISTS\nJason Findley - Lead\nMegan Gritzfeld\nSteven Moore\n\nUSER INTERFACE\nD. Reed Monroe - Lead\nCrystal Rogers\nTodd Colby\nHain Lee\n\nSOUND DESIGN\nLazar Levine - Lead\nJack Fusting\nScott Gilmore\n\nCONCEPT ARTISTS\nGray Rogers\nDerek Stratton\nJesse Maccabe\nRyan Jones\n\nTECHNICAL ART AND EFFECTS\nBrian Eby\nNora Magyar\n\nEXECUTIVE PRODUCERS\nDan Connors\nKevin Bruner\nBrett Tosti\n\nPRODUCER\nChris Schroyer\n\nASSISTANT PRODUCER\nArthur von Nagel\nChris Plumer\nJeff Armstead\n\nBUILD & DISTRIBUTION\nMark Gabby\nMario Valencia\n\nQA TESTING\nChristopher Donnelley - Lead\nKory Harsh\nAdam Brown\nBen Knoll\nBen Vizcaino\nBrendin Christolear\nCalvin Huang\nDavid Mahoney\nEvan Koepf\nHannah Bradshaw Lozier\nMichael Vallejo\nHelena Norton\nJessica Watkins\nDavid Ramirez\nJonathan Rozmarin\nJoshua Zygman\nMatthew Paris\nMax Ince\nWilliam Wheeler\n\n\n\n\n\n\n\nADDITIONAL ART\nShawn Shain\nMike Sherak\nAlex Jacobs\nDrew De Domenico\nCalvin Huang\nMolly Maloney\nErik Ose\n\nADDITIONAL ART SERVICES\nOriginal Force\nSuper Genius\n\nADDITIONAL QA SERVICES\nVMC Game Labs\nPole To Win\n\nVOICE DIRECTION\nJulian Kwasneski\nJared Emerson-Johnson\n\nVOICE PRODUCTION\nJulian Kwasneski\n\nVOICE RECORDING\nTim Galida\nJory Prum\n\nDIALOG EDITING\nConnor Stock\n\n\n\n\n\n\nCAST\n\nBIGBY WOLF\nAdam Harrington\n\nSNOW WHITE\nErin Yvette\n\nMR. TOAD\nChuck Kourouklis\n\nTOAD JUNIOR\nMelissa Hutchison\n\nICHABOD CRANE\nRoger Jackson\n\nKELSEY\nCissy Jones\n\nGEORGIE\nKevin Howarth\n\nBLUEBEARD\nDave Fennoy\n\nJACK HORNER\nColin Benoit\n\nNERISSA\nMolly Benson\n\nGRENDEL\nKid Beyond\n\nTHE WOODSMAN\nAdam Harrington\n\nBEAST\nGavin Hammon\n\nBEAUTY\nMelissa Hutchison\n\nBUFKIN\nChuck Kourouklis\n\nDEE\nGavin Hammon\n\nMAGIC MIRROR\nGavin Hammon\n\nVIVIAN\nSandy Delonga\n\nCLEVER HANS\nBen Knoll\n\n\"JOHN\"\nJulian Kwasneski\n\nHOLLY\nJanet Lipsey\n\nHOOKER\nMichelle Rodriguez\n\n\n\n\nCREATED WITH THE TELLTALE TOOL\nKevin Bruner\nJonathan Sgro\nRandy Tudor\nZacariah Litton\nBen Ingram\nDavid Brady\nDavid Bromberg\nAlex Montgomery\nTim Ingram\nChris Bauer\nGuy Somberg\nMichael Eads\nMarcus Whitlock\n\n\n\n\nTELLTALE GAMES, INC\n\nCEO \nDan Connors\n\nPRESIDENT & CTO\nKevin Bruner\n\nCFO\nKathy McElwee\n\nSENIOR VICE PRESIDENT OF PUBLISHING\nSteve Allison\n\n\n\n\n\n\nSTUDIO HEAD\nColum Slevin\n\nVICE PRESIDENT OF ENGINEERING\nZacariah Litton\n\nDIRECTOR OF ART DEPARTMENT\nDave Bogan\n\nDIRECTOR OF DESIGN\nRyan Kaufman\n\nDIRECTOR OF WRITING\nDave Grossman\n\n\n\n\n\nDIRECTOR OF PRODUCTION TECHNOLOGIES\nJonathan Sgro\n\nDIRECTOR OF CINEMATOGRAPHY\nDennis Lenart\n\nDIRECTOR OF PRODUCTION SERVICES\nDave Felton\n\nTECHNICAL DIRECTOR\nMichael Perretta\n\nTECHNOLOGY PRODUCER\nTrevor McCann \n\nRELEASE AND SUBMISSIONS MANAGER\nEmmy Bautista\n\n\n\n\n\nSENIOR DIRECTOR OF MARKETING\nRichard Iggo\n\nSENIOR MARKETING AND RELEASE MANAGER\nJonathan \"JR\" Rosales\n\nDIRECTOR OF PUBLIC RELATIONS\nJob J. Stauffer\n\nCOMMUNITY AND PR SPECIALIST\nLaura Perusco\n\nSENIOR CREATIVE SERVICES MANAGER\nPaolo Asuncion\n\nMARKETING MEDIA PRODUCER\nShaun Finney\n\n\n\n\n\nASSISTANT VIDEO EDITOR\nMary Stark\n\nSENIOR SERVER ENGINEER\nMichael Lindsay\n\nLEAD WEB ARCHITECT\nJohn Gamble\n\nWEB DEVELOPMENT\nJesse Wagstaff\n\nPRODUCT SUPPORT\nMatthew Pedonti\nEvan Koepf\nMichael Vallejo\n\n\n\n\n\nIT\nStan Shambaugh\nKelly Robertson\n\nFINANCE & OPERATIONS\nRhoda Gravador\nSerena Sinn\n\nRECRUITING\nJonathan Khalife\nSarah Roth\n\nLEGAL\nMark Barbolak\n\n\n\n\n\n\nWARNER BROS. INTERACTIVE ENTERTAINMENT\n\nPRODUCER\nGeoff Bent\n\nVICE PRESIDENT, PRODUCTION DIGITAL\nChris Miller\n\nVICE PRESIDENT, PRODUCTION DC FRANCHISES\nAmes Kirshen\n\nMANAGER PRODUCTION SERVICES\nJamie O'Brien Moore\n\nEXECUTIVE ASSISTANT\nNicole Scates\n\n\n\n\n\nMANAGER, RIGHTS & CLEARANCES\nJane Elms\n\nMARKETING ASSOCIATE\nSaena Park\n\nMANAGER, BRAND MARKETING\nDavid Lebovic\n\nDIRECTOR, BRAND MARKETING\nJeff Neinstein\n\nVICE PRESIDENT, BRAND MARKETING\nStephanie Johnson\n\n\n\n\n\nPR MANAGER\nKehau Rodenhurst\n\nPR SPECIALIST\nGenna Forkey\n\nVICE PRESIDENT, PUBLIC RELATIONS\nRemi Sklar\n\nDIRECTOR, BUSINESS DEVELOPMENT & LICENSING\nBen Elliot\n\nVICE PRESIDENT, BUSINESS DEVELOPMENT\nScott Johnson\n\n\n\n\n\nVICE PRESIDENT & ASSOCIATE GENERAL COUNSEL\nJennifer Stump\n\nVICE PRESIDENT, FINANCE AND ADMINISTRATION\nSteve Chalk\n\nSENIOR VICE PRESIDENT, WORLDWIDE MARKETING\nRussell Arons\n\nSENIOR VICE PRESIDENT, PRODUCTION & DEVELOPMENT\nSamantha Ryan\n\n\n\n\n\nSENIOR VICE PRESIDENT, BUSINESS DEVELOPMENT\nDebra Baker\n\nSENIOR VICE PRESIDENT, SALES, AMERICA\nKevin Kebodeaux\n\nSENIOR VICE PRESIDENT, GAMES, EU\nOlivier Wolff\n\nPRESIDENT\nMartin Tremblay\n\n\n\n\n\n\nDC ENTERTAINMENT\n\nCHIEF CREATIVE OFFICER\nGeoff Johns\n \nCREATIVE DIRECTOR, INTERACTIVE\nPatrick McCallum\n \nCREATIVE ASSOCIATE, INTERACTIVE\nRandy Ma\n \nPRESIDENT\nDiane Nelson\n \n\n\n\n\n\nCO-PUBLISHERS\nDan DiDio and Jim Lee\n \nEXECUTIVE VP - SALES, MARKETING AND BUSINESS DEVELOPMENT\nJohn Rood\n \nSENIOR VP - BUSINESS AND LEGAL AFFAIRS\nAmy Genkins\n \nSENIOR VP - FINANCE\nNairi Gardiner\n\n\n\n\n\nSPECIAL THANKS\n\nJohn and Angel Armstead\nSaul, Lillian, Diana and Stefanie Bautista\nCharlie Bougan\nThe Bradshaw-Lozier Family\nJoy & Grace Brown\nLizbeth, Eric, Sally and Joe Brown\nGrace Bruner\nDanielle Bysouth\nMr. Blue Casillas\nThe Drewis Family\nHeather Dugger\nEmi Eads\nAnna Embree\nAlexa Eurich\nNatalie Helton\n\n\n\n\nFaranak Farjamrad Herrera, Lia Farjam Herrera, David & Cherie Herrera,\nCristina Herrera & Gustavo De Lafore, Hassan & Zahra Farjamrad,\nBobby Farjamrad & Sahba Motallebi\nStacey and Ella Rae Heuer\nRobert Hodsdon\nHeidi, Mike, and Laura Jean\nJenny, Pamela, Rob, Russ, Holly, & Lauren\nPanos Koutsoyannis\nKyle Latino, Alan & Esther Latino, Kristen Latino\nJondy Lee\nShale Levine, Liz Levine, Micah Levine, Elisa Pagliarulo, Kyle Priess\nJohn, Jackson & Cooper Lyons\nSandy and John Mauldin\nAlex Popp & Andrew McHarg\nJoshua Mobley and Linda Martinez\nBob and Becka Montgomery\nNicole, Enzo, and Antonello Munz\nMegan Murphy\n\n\n\n\nKelsey Oakes, The Harshes\nBill, Loretta, Sarah, Janet Ose\nThe Perusco family\nAlisha Piccirillo\nCliff/Pamela/Katie Plumer, Gordon Moran, & Marissa \"Slimgoodie\" Winkler\nCarrie Prater\nRKs\nJason Rogers, Aidan Rogers and the Rogers Pirates\nBrian and Raphael Saechao\nJen, Noah and Aaron Sarre\nIkumi Sato\nOwen & Luke Sgro\nMindy Shambaugh and Ethan Shambaugh\nJi Yeon Shin, Orlando LLuch\nPierre Shorette\nThe Sibbalds\nThe Standards and Krissy Campbell\nHeidi Stauder\n\n\n\n\nSteph, Mom & Dad\nMichelle Steranko, Sage Wessner\nThe Rhode Island Stirpes\nThe Torralba Clan\nDenise Tosti, Alexis Tosti, Ryan Tosti\nThe Vallejo Family\nAmber \"Beast\" von Nagel\nThe Watkins Family\nNeal, Heidi, and Linda Wetherall\nZoe\n\nand You\n\n\n\n\n\n\n\nVERY SPECIAL THANKS\nBill Willingham\nMark Buckingham\n\n\n\n\n\nTELLTALE PETS\nAllie & Carmen\nArthur\nAthena and Katniss\nBofurd\nBrodie\nBuddy and Lulu\nCharlie, Norbert, & Lloyd Dobler\nCharlotte & Howl\nChippy, Pep Pep, Spotty\nJacknLuna\nJake & Agro\nJet, Frankie & Rocco\nJinro\nJumping Jack\nKarla and Angry\nKarma\nKensey the Dog Face\nLeo\nLoki, Ash, Raven and Elmer\nLuna & Vincent\nMaggie 'The Waggers' Mae\nMighty Pirate Pete\nMojo Jojo\nMojo Ovdi Jojo\nMomo\nMy boi Blu and Chewie the One Eyed Wonder Pup\nNeji & Yoshi\nOdo\nOzzie\nPatches\nPeek-a-Boo the Cat\nPenny\nPenny & Desmond\nPrincess Melody Belle Fluffybottom\nQuint and Hooper\nRascal\nRiley\nRoger Waters (the fish)\nSecret Agent Cody\nShiro\nSnarffles\nSophie\nStitch\nTangle\nToby the Tobester Oven\nWillow, Sammy and Mr. Bix\nZeus-God Cat of Cats\n\n\n\n\nBased upon the Vertigo comic book series 'FABLES' by Bill Willingham\n\n\n\n\n(C) Bill Willingham and DC Comics\nFABLES: TM Bill Willingham\nWBIE LOGO, WB SHIELD: TM & (C) Warner Bros. Entertainment Inc.\n(s13)\n\nPortions Copyright\nFirelight Technologies\nPortions Copyright\n(C) 2002 Jean-Marc Valin"
+},
+{
+"k": "16282",
+"who": "",
+"ctx": "Fables102/ui_credits",
+"en": "Jason Latino"
+},
+{
+"k": "16283",
+"who": "",
+"ctx": "Fables102/ui_credits",
+"en": "Jeff Sarre\nJed Heuer"
+},
+{
+"k": "16284",
+"who": "",
+"ctx": "Fables102/ui_credits",
+"en": "Dave Grossman\nJoe Pinney"
+},
+{
+"k": "16285",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Livia"
+},
+{
+"k": "16286",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 1"
+},
+{
+"k": "16287",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 2"
+},
+{
+"k": "16288",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 3"
+},
+{
+"k": "16289",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 4"
+},
+{
+"k": "16290",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 5"
+},
+{
+"k": "16291",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 6"
+},
+{
+"k": "16292",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 7"
+},
+{
+"k": "16293",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 8"
+},
+{
+"k": "16294",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 9"
+},
+{
+"k": "16295",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Chapter 10"
+},
+{
+"k": "16296",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Restart Episode 2"
+},
+{
+"k": "16297",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Press R Trigger to pull out your smokes."
+},
+{
+"k": "16298",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Press the R Trigger again to puff again."
+},
+{
+"k": "16299",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Press L Trigger to stamp out your cigarette."
+},
+{
+"k": "16300",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Stripper"
+},
+{
+"k": "16301",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Kelsey"
+},
+{
+"k": "16302",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad Jr."
+},
+{
+"k": "16303",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Apartment Keys"
+},
+{
+"k": "16304",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Lots of Money"
+},
+{
+"k": "16305",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Hans will remember that."
+},
+{
+"k": "16306",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Small Key"
+},
+{
+"k": "16307",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Appointment Book"
+},
+{
+"k": "16308",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Hotel Room Key"
+},
+{
+"k": "16309",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Room 204 Key"
+},
+{
+"k": "16310",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You got her attention."
+},
+{
+"k": "16311",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Kelsey is losing her patience with you."
+},
+{
+"k": "16312",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You begin to annoy her."
+},
+{
+"k": "16313",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You wonder what she really knows."
+},
+{
+"k": "16314",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She thinks you are lying..."
+},
+{
+"k": "16315",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You are lying to Kelsey. She'll remember that..."
+},
+{
+"k": "16316",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She senses that was a lie..."
+},
+{
+"k": "16317",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You are being elusive. She'll remeber that..."
+},
+{
+"k": "16318",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That pisses her off..."
+},
+{
+"k": "16319",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your smoking pisses her off..."
+},
+{
+"k": "16320",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Now you know she's knows..."
+},
+{
+"k": "16321",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She's suspicious of you..."
+},
+{
+"k": "16322",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She tries to corner you..."
+},
+{
+"k": "16323",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You sense being cornered..."
+},
+{
+"k": "16324",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That angered her..."
+},
+{
+"k": "16325",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You get angry, she will remember that..."
+},
+{
+"k": "16326",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She knows something..."
+},
+{
+"k": "16327",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You threaten her.  She doesn't budge."
+},
+{
+"k": "16328",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You remain defiant towards her questioning."
+},
+{
+"k": "16329",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You notice that she's confused..."
+},
+{
+"k": "16330",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You try to help her.  She won't remember that..."
+},
+{
+"k": "16331",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You wonder if she's going to be ok."
+},
+{
+"k": "16332",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You silently watch Kelsey writhe in pain..."
+},
+{
+"k": "16333",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your sarcasm burns her."
+},
+{
+"k": "16334",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your threats don't scare her."
+},
+{
+"k": "16335",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She calls you on that."
+},
+{
+"k": "16336",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She's done with that."
+},
+{
+"k": "16337",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You suprise Crane with that."
+},
+{
+"k": "16338",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You've annoyed Crane with that."
+},
+{
+"k": "16339",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your silence perturbs Crane.  He takes notice."
+},
+{
+"k": "16340",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your silence is ignored by Crane."
+},
+{
+"k": "16341",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your displeasure is noted by Crane."
+},
+{
+"k": "16342",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That unnerved Crane. He'll remember that."
+},
+{
+"k": "16343",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That causes Crane to realize his mistake."
+},
+{
+"k": "16344",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You have pleased Crane.  He will remember that."
+},
+{
+"k": "16345",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your pensiveness is noted by Crane."
+}
+]

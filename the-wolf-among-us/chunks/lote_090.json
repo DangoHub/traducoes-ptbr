@@ -1,0 +1,1472 @@
+[
+{
+"k": "24264",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[getting annoyed] Excuse me, but it's left with us a name, maybe the name, the Crooked Man."
+},
+{
+"k": "24265",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That's not good enough."
+},
+{
+"k": "24266",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We... haven't been doing a good job. And I don't just mean Crane, I mean us, personally."
+},
+{
+"k": "24267",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Well, if that's the case... please explain to Colin why ripping Gren's arm off was necessary."
+},
+{
+"k": "24268",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Toad's apartment's destroyed, and we beat him up for trying to protect his son."
+},
+{
+"k": "24269",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Innocent people have been hurt by us. The Woodsman, Gren..."
+},
+{
+"k": "24270",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "The funeral, Holly... Faith..."
+},
+{
+"k": "24271",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So... starting now... we do everything cut and dried, by the book, straight as an arrow."
+},
+{
+"k": "24272",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm not saying I'm the arbiter of--[cuts off]"
+},
+{
+"k": "24273",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[biting] Pure as driven snow..."
+},
+{
+"k": "24274",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Hey, none of that was Bigby's fault."
+},
+{
+"k": "24275",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "\"Capable\" of doing? Nobody else is crazy enough to--[stops herself]"
+},
+{
+"k": "24276",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sarcstic] Sure you're not."
+},
+{
+"k": "24277",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Just... promise me, promise me that that... side of you is done. Okay?"
+},
+{
+"k": "24278",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Whatever you think is best.[beat] You're the Deputy Mayor."
+},
+{
+"k": "24279",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I sleep a little safer at night knowing Bigby has that in his back pocket."
+},
+{
+"k": "24280",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Well that makes one of us."
+},
+{
+"k": "24281",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We need monsters to fight monsters."
+},
+{
+"k": "24282",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Colin, if I really believed that we needed him to lose his flippin' mind at a moment's notice..."
+},
+{
+"k": "24283",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Then that would mean I'd lost all faith in our ability to help this town."
+},
+{
+"k": "24284",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Look, believe me, I hate to be the one to defend him here, but..."
+},
+{
+"k": "24285",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You're just holding up everything to chastise Bigby for doing what no one else was capable of doing--"
+},
+{
+"k": "24286",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That it's done and buried and we can all move on..."
+},
+{
+"k": "24287",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "This town has enough monsters."
+},
+{
+"k": "24288",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I had no other choice!"
+},
+{
+"k": "24289",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Easy for you to say."
+},
+{
+"k": "24290",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Degrees? I only ever do what's necessary."
+},
+{
+"k": "24291",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[cold] Really?"
+},
+{
+"k": "24292",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Well if that's the case... please explain to Colin why tearing Dum's throat out was necessary."
+},
+{
+"k": "24293",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "The fight wasn't over!"
+},
+{
+"k": "24294",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's what I do, okay?"
+},
+{
+"k": "24295",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I got out of control."
+},
+{
+"k": "24296",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm sure whatever happened, happened for a reason."
+},
+{
+"k": "24297",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Bigby doesn't owe me an explanation."
+},
+{
+"k": "24298",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "He was... he was still a threat, and that's all there is to it."
+},
+{
+"k": "24299",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[cold] Sure."
+},
+{
+"k": "24300",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Because I fucking felt like it, okay? I wanted to destroy something."
+},
+{
+"k": "24301",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "No, Bigby, it isn't."
+},
+{
+"k": "24302",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That's a good first step."
+},
+{
+"k": "24303",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I can admit that it went too far."
+},
+{
+"k": "24304",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yeah. I do."
+},
+{
+"k": "24305",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Do you believe him?"
+},
+{
+"k": "24306",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "This town has enough monsters. What happened last night... what you turned into... it can't happen again."
+},
+{
+"k": "24307",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Be done and buried and we can all move on..."
+},
+{
+"k": "24308",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Just let that side of you be done, okay?"
+},
+{
+"k": "24309",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Look, I'm sorry that I have to bring all this up, but... I think it's important."
+},
+{
+"k": "24310",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Is that what you want to hear?"
+},
+{
+"k": "24311",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But you sit behind a desk... all day... and only tonight did you see what it's like to be pushed into a corner all the time just for doing your job."
+},
+{
+"k": "24312",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm sure from your vantage point, it's extraordinarily easy to judge me."
+},
+{
+"k": "24313",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "There are degrees."
+},
+{
+"k": "24314",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We were under attack, Snow. What did you expect me to do?"
+},
+{
+"k": "24315",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I know what it's like, and I know what it's like to lie to yourself... to justify what you've done."
+},
+{
+"k": "24316",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You think I don't know what's it like to have my life in danger? To not be pushed to do things...[stops herself]"
+},
+{
+"k": "24317",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Right, exactly. Thank you."
+},
+{
+"k": "24318",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'll do better.[beat] We'll do better.[beat] We have to be better than them, or... what's the point?"
+},
+{
+"k": "24319",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So for that you wanna give him a handicap? Like the bad guys will worry if shit gets sloppy?"
+},
+{
+"k": "24320",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's just that... now that I'm Deputy Mayor, I need your respect."
+},
+{
+"k": "24321",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I care about how this is done, okay? I care about how this is done just as much as I care about it getting done."
+},
+{
+"k": "24322",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Everybody wants Bigby to smile and shave and take a shower now and then... Hell, I'm practically the President of the \"Bigby, Don't Be Such A Dick\" Club..."
+},
+{
+"k": "24323",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But get it done \"right.\""
+},
+{
+"k": "24324",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "He'll get the job done, just let him do it."
+},
+{
+"k": "24325",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm going to-- [stops herself; turns from Colin to Bigby]I'm going to let you \"do it\", okay?"
+},
+{
+"k": "24326",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Like with Greenleaf's tree.[beat] You can't argue with me about this stuff."
+},
+{
+"k": "24327",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Like you thinking Crane is the murderer.[beat] You can't argue with me about this stuff."
+},
+{
+"k": "24328",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's not your place."
+},
+{
+"k": "24329",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You've had this job for, what--"
+},
+{
+"k": "24330",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Five hours now?"
+},
+{
+"k": "24331",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It doesn't matter if I've had it five minutes."
+},
+{
+"k": "24332",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You get what I'm saying, right?"
+},
+{
+"k": "24333",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Not my place?!"
+},
+{
+"k": "24334",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[annoyed] I never saw myself having a place..."
+},
+{
+"k": "24335",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I chose the wrong word, I'm sorry. But you have to understand where I'm coming from."
+},
+{
+"k": "24336",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What happened to teamwork?"
+},
+{
+"k": "24337",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We are.[beat] But there's an order here, and I think things will go better if we follow it."
+},
+{
+"k": "24338",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I thought we were a team, Snow.[beat] I thought we were in this together."
+},
+{
+"k": "24339",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Disagreements will happen."
+},
+{
+"k": "24340",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Look, sometimes we'll disagree, it's not a big deal."
+},
+{
+"k": "24341",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yes, it is. You can't get a vote, it can't work that way, nothing will ever get done."
+},
+{
+"k": "24342",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Well I sure as fuck don't."
+},
+{
+"k": "24343",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But this is the wrong fucking time to put shackles on him.[beat] He'll get the job done, just let him do it."
+},
+{
+"k": "24344",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "All unglamoured Fables - starting today - have to go and stay at The Farm."
+},
+{
+"k": "24345",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Oh, give me a fuckin' break!"
+},
+{
+"k": "24346",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And this situation... has to end."
+},
+{
+"k": "24347",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Are you gonna let her talk to me like that?"
+},
+{
+"k": "24348",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[getting angry] What situation?"
+},
+{
+"k": "24349",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "They know what a pig is! It's not the end of the world!"
+},
+{
+"k": "24350",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm a pig, not a mouse with a hat and a cane!"
+},
+{
+"k": "24351",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And what if a mundy does see me, huh?"
+},
+{
+"k": "24352",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And Bigby knows it's for the best of the town."
+},
+{
+"k": "24353",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's been the rule for a reason, Colin..."
+},
+{
+"k": "24354",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It keeps everybody out of trouble."
+},
+{
+"k": "24355",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Look, everyone just calm down, alright?"
+},
+{
+"k": "24356",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm not! Tell me right now: what's it gonna be, Bigby?"
+},
+{
+"k": "24357",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm perfectly calm."
+},
+{
+"k": "24358",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If you would simply get a glamour..."
+},
+{
+"k": "24359",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "\"Get a glamour?\" With what money? You think I can work? I don't even have thumbs."
+},
+{
+"k": "24360",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[shocked] What? Are you kiddin' me?"
+},
+{
+"k": "24361",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If Snow says that's the way it's gotta be, that's the way it's gotta be."
+},
+{
+"k": "24362",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yes, it will."
+},
+{
+"k": "24363",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "There's not that many stragglers left... except the one or two you make excuses for."
+},
+{
+"k": "24364",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's an impossible rule to enforce, Snow. You really expect to round up every talking cat and raven in town?"
+},
+{
+"k": "24365",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[decisive] That's not gonna happen."
+},
+{
+"k": "24366",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sarcastic] Thanks for the support."
+},
+{
+"k": "24367",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[hugely annoyed] Are you gonna answer that or what?"
+},
+{
+"k": "24368",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[annoyed] The phone?"
+},
+{
+"k": "24369",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[annoyed] Bigby?"
+},
+{
+"k": "24370",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[answering the phone] What is it."
+},
+{
+"k": "24371",
+"who": "BUFKIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[processed: phone] Hello, Mr. Bigby, sorry to bother you, but is Miss White there?"
+},
+{
+"k": "24372",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[answering Bigby's phone] Wolf's residence."
+},
+{
+"k": "24373",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What? We're talking here."
+},
+{
+"k": "24374",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[muttering to himself] That's rude."
+},
+{
+"k": "24375",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Bufkin, what is it?"
+},
+{
+"k": "24376",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[into phone]Oh, Bufkin, what is it?"
+},
+{
+"k": "24377",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Guess who's waiting in your office right now?"
+},
+{
+"k": "24378",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sighs] Yes. Apparently she told Bufkin that she has something she needs to talk to you about... but that she'll only tell you."
+},
+{
+"k": "24379",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[into phone] That's weird."
+},
+{
+"k": "24380",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Nerissa?"
+},
+{
+"k": "24381",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And what do you think that could be?"
+},
+{
+"k": "24382",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[into phone] Okay, I'll be right--[stops herself; listens] Oh.[beat] Really?"
+},
+{
+"k": "24383",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[into phone]Okay, I'll let him know. Thanks."
+},
+{
+"k": "24384",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Nerissa."
+},
+{
+"k": "24385",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "The Crooked Man."
+},
+{
+"k": "24386",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "A dead body."
+},
+{
+"k": "24387",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Some help, I hope."
+},
+{
+"k": "24388",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "How should I know?"
+},
+{
+"k": "24389",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[blase; tired] A dead body, I dunno."
+},
+{
+"k": "24390",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[tired] Hopefully some help.[beat] Who is it."
+},
+{
+"k": "24391",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Snow, honestly... how should I know."
+},
+{
+"k": "24392",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's Nerissa."
+},
+{
+"k": "24393",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You always do well with the, uh, disenfranchised."
+},
+{
+"k": "24394",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Something about your prickly demeanor attracts them like a moth to a flame."
+},
+{
+"k": "24395",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Awwww, Bigby's got an admirer."
+},
+{
+"k": "24396",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "She probably just wants to talk about last night. The whole thing at the Pudding N' Pie."
+},
+{
+"k": "24397",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Maybe she does."
+},
+{
+"k": "24398",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "She knows something...[beat] She's helped me a little with the case, maybe she has something else."
+},
+{
+"k": "24399",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[shruggingly] Okay."
+},
+{
+"k": "24400",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I haven't the slightest."
+},
+{
+"k": "24401",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I should get back to the Business Office, I've left Bufkin alone for too long taking calls."
+},
+{
+"k": "24402",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Consider the discussion tabled, but not over."
+},
+{
+"k": "24403",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Let me know when you're done with Nerissa."
+},
+{
+"k": "24404",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Aye aye, Captain."
+},
+{
+"k": "24405",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[muttering] Yeah."
+},
+{
+"k": "24406",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "She's a piece of work."
+},
+{
+"k": "24407",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I mean..."
+},
+{
+"k": "24408",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Right?"
+},
+{
+"k": "24409",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But I can still hang out here..."
+},
+{
+"k": "24410",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "She seemed real serious about it."
+},
+{
+"k": "24411",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Oh, okay. I get it."
+},
+{
+"k": "24412",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I don't know...[beat] Snow will come around. She's just..."
+},
+{
+"k": "24413",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "The Crane thing hit her hard, and... she doesn't really know who her friends are right now."
+},
+{
+"k": "24414",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Bull. Shit."
+},
+{
+"k": "24415",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "The rules are the rules. I don't get to make 'em, I just enforce 'em."
+},
+{
+"k": "24416",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yeah, well I think I ran out."
+},
+{
+"k": "24417",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You give favors all the time, I know you do."
+},
+{
+"k": "24418",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Look, uh, maybe a few will get sent up, but you're my friend, Colin. I wouldn't do that to you."
+},
+{
+"k": "24419",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[glum] After everything we fuckin' been through... you don't have the nerve to give me a straight answer."
+},
+{
+"k": "24420",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{NormalB}I just can't forget everything he's done,{AngryD} I don't care if he has \"problems\" with the Crooked Man..."
+},
+{
+"k": "24421",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{SadA}It's not about Crane anymore, Bigby."
+},
+{
+"k": "24422",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{thinkingA}But it's not like we had a strong choice in the matter."
+},
+{
+"k": "24423",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{SadA}\tWe're all mad about it, Colin..."
+},
+{
+"k": "24424",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Or should I be asking her, now that she's... you know..."
+},
+{
+"k": "24425",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So don't talk to me like I'm other people."
+},
+{
+"k": "24426",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's \"crooked\" in the sense that... you can't draw a straight line from it to anywhere else.[beat] It's... warped, twisted... off a few degrees."
+},
+{
+"k": "24427",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "The only thing we had in the books about him was that the Crooked Man lives in the Crooked Lane... but as far as I can tell that's not an actual place."
+},
+{
+"k": "24428",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Look, Bigby, just... what's the plan here, exactly?"
+},
+{
+"k": "24429",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[cold] {ThinkingA}We'll all get some rest when this whole thing is done."
+},
+{
+"k": "24430",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Or should I be askin' her, now that she's... you know...."
+},
+{
+"k": "24431",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{AnnoyedB}I mean, do you guys have like a plan or somethin'...?"
+},
+{
+"k": "24432",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{Sarcastic}What \"whole thing\"? {angryA}What's even happenin' out there?"
+},
+{
+"k": "24433",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{angryA}And who should I be asking?"
+},
+{
+"k": "24434",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{WorriedA}\t[You're not pissed]Or that the Crooked Man thinks he's got Snow under his thumb?"
+},
+{
+"k": "24435",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You guys folded like a cheap suit. {normalA}That's the way it looked, at least."
+},
+{
+"k": "24436",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yesterday it was Crane, Crane, Crane. We were so...[stops herself; sighs]"
+},
+{
+"k": "24437",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[getting annoyed] Excuse me, but it got us Crane."
+},
+{
+"k": "24438",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And he's gone now."
+},
+{
+"k": "24439",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That broad from the Pudding N' Pie?"
+},
+{
+"k": "24440",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[frustrated][heated]{angryA}Could I get some quiet in here?"
+},
+{
+"k": "24441",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can I please get some quiet?!"
+},
+{
+"k": "24442",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{mockingA}\tHm. Not bad. That'll do, I suppose."
+},
+{
+"k": "24443",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional} The Tweedles... Bloody Mary... Miss White said that they are merely the blade. Not the hand that wields it. Hm?"
+},
+{
+"k": "24444",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[confused][groggy]{druggedA}I know I'm a little fuzzy here, but... what?"
+},
+{
+"k": "24445",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You can't let up until the fight is finished."
+},
+{
+"k": "24446",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Crane isn't the only one who's broken the people's trust..."
+},
+{
+"k": "24447",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We haven't been doing a good job. [beat]You and I."
+},
+{
+"k": "24448",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_enter: Bigby wakes from the fight, Swineheart operates, Snow watches, Colin hangs back"
+},
+{
+"k": "24449",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowTalk: Swineheart packs his things and talks to Snow.  Bigby helplessly observes the pair talk about him."
+},
+{
+"k": "24450",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowTalk (Anyways): Swineheart departs.  Bigby (Shirtless) makes his way towards the kitchen."
+},
+{
+"k": "24451",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowTalk (IntimateStart): Bigby grabs a beer from the fridge and Snow turns from talking with Colin toward Bigby."
+},
+{
+"k": "24452",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowTalk (StoppedBreathing): Bigby and Snow have a \"moment\" in the kitchen entry before Colin ruins it."
+},
+{
+"k": "24453",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowRecap: Snow walks away from Bigby and Colin as she begins to talk about the Crooked Man."
+},
+{
+"k": "24454",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowDirectives: Bigby (and his beer) have a seat as the tension between Colin and Snow ramps up."
+},
+{
+"k": "24455",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowDirectives2 (GonnaAnswerThat): Snow walks to the phone and answers."
+},
+{
+"k": "24456",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowDirectives2(final exchange): Snow tries to brush a bit of the mess off herself and leaves."
+},
+{
+"k": "24457",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowLeaves: Bigby walks towards the door, has his exchange with Colin, and then leaves."
+},
+{
+"k": "24458",
+"who": "DEV",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "cs_snowLeaves (ExitTime): Bigby opens the door to his office, revealing Nerissa waiting.  We'll get a flat for the interior of the office once we've got the shot figured out."
+},
+{
+"k": "24459",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Broken Arm"
+},
+{
+"k": "24460",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Set Bone"
+},
+{
+"k": "24461",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}<<id:357499161>>\tI don't know about that..."
+},
+{
+"k": "24462",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 35749935]We'll be done in a moment, just please... give us the time."
+},
+{
+"k": "24463",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sarcasticA}<<id:357499367>>\twith what? Your hooves?"
+},
+{
+"k": "24464",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}<<id:357499382>>\tI know, but please, {mockingA}don't give him the excuse."
+},
+{
+"k": "24465",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{angryB}<<id:357499398>>\tI'm right here, guys, c'mon..."
+},
+{
+"k": "24466",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{thinkingB}<<id:357499415>>\tDon't worry about me,{happyA} alright? I'll be fine."
+},
+{
+"k": "24467",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{angryA}<<id:357499409>>\tIt's Bigby, Snow..."
+},
+{
+"k": "24468",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{NormalA}<<id:357499420>>\tSnow... I'd never {happyB}leave you."
+},
+{
+"k": "24469",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sadB}<<id:357499431>>\tIchabod's gone, it's over for him.[beat]{thinkingB} He's not coming back."
+},
+{
+"k": "24470",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sadA}<<id:357499512>>\tYeah..."
+},
+{
+"k": "24471",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}<<id:357499446>>\tFor him to attack us so blatantly like that... {sadA}he either feels invincible or desperate."
+},
+{
+"k": "24472",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{SadA}<<id:357499473>>\tAnd anyways, if I hadn't of done it, {worriedA}Bigby would be dead and Crane{AngryA} still would have been taken."
+},
+{
+"k": "24473",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{<<id:357499453>>ThinkingA}\tIt was a split-second decision and I don't care how it looked."
+},
+{
+"k": "24474",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{ThinkingA}<<id:357499510>>\tFrom the looks of things it's been going on for quite a while."
+},
+{
+"k": "24475",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{thinkingA}<<id:357499511>>\tCrane can't be useful to him anymore..."
+},
+{
+"k": "24476",
+"who": "VFX",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Blood spurt from arm getting violently set"
+},
+{
+"k": "24477",
+"who": "<<ID",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{504D8812-6971-4DF0-BB1A-C152415FC6E4}>> Dialogue Idle"
+},
+{
+"k": "24478",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]He didn't listen to me before. [beat]Maybe he'll listen to you."
+},
+{
+"k": "24479",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]Quiet. Just relax."
+},
+{
+"k": "24480",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]You should really leave the mercy routine to me."
+},
+{
+"k": "24481",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]And frankly, I'd rather have you ambulatory, Sheriff. The town needs you."
+},
+{
+"k": "24482",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]If you'd just dealt wth your enemies with a firmer hand, I might be patching up the Tweedles instead of you."
+},
+{
+"k": "24483",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]You know, Bigby..."
+},
+{
+"k": "24484",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1][calling out]Miss White."
+},
+{
+"k": "24485",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]But now I see this war has been going on for years."
+},
+{
+"k": "24486",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]Right under our noses."
+},
+{
+"k": "24487",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]We just haven't noticed it, because our way of doing things is broken."
+},
+{
+"k": "24488",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]We need to have a system."
+},
+{
+"k": "24489",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]Look, Bigby. I care about how this is done just as much as I care about it getting done."
+},
+{
+"k": "24490",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Colin, I can defend myself."
+},
+{
+"k": "24491",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Thanks, Colin."
+},
+{
+"k": "24492",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "My work isn't sloppy."
+},
+{
+"k": "24493",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]Relax, Colin. I can speak for myself, okay?"
+},
+{
+"k": "24494",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]Well, at least someone understands. Thanks, Colin."
+},
+{
+"k": "24495",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]And it's all turned out how you planned?"
+},
+{
+"k": "24496",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1]Hold on, who says I'm sloppy? I always do what I do for a reason."
+},
+{
+"k": "24497",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[edit]Everybody wants Bigby to smile and shave and take a shower now and then..."
+},
+{
+"k": "24498",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[edit]Hell, I'm practically the President of the \"Bigby, Don't Be Such A Dick\" Club..."
+},
+{
+"k": "24499",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[edit]But this is the wrong fucking time to put shackles on him."
+},
+{
+"k": "24500",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[edit]He'll get the job done. Just let him do it."
+},
+{
+"k": "24501",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup1] I can't have you arguing with me the way you did with Crane."
+},
+{
+"k": "24502",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499361] It's finished when it's finished."
+},
+{
+"k": "24503",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499384] He'll be fine for light duty... IF he can figure out what that means."
+},
+{
+"k": "24504",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499407][derisive goodbye]Colin."
+},
+{
+"k": "24505",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499120]Hollow-point bullets are a nasty business. The silver slug deformed and shredded on impact."
+},
+{
+"k": "24506",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499122]If I don't extract every single scrap of silver... he's liable to suffer some long-term toxicosis..."
+},
+{
+"k": "24507",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499117]He's lucky to be alive. And he won't be next time if he keeps going like this."
+},
+{
+"k": "24508",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499765]We'll be done in a moment, just please... give us the time."
+}
+]

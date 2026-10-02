@@ -1,0 +1,1298 @@
+[
+{
+"k": "20854",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{ConfusedA}Do you live in the building?"
+},
+{
+"k": "20855",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{worrieda}It's okay."
+},
+{
+"k": "20856",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}Look, little girl, I know he was just here."
+},
+{
+"k": "20857",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[confused] {ScaredA}I'm sorry, I don't-- I {SadA}don't know what that is.[stresses the word] {ConfusedA}Crane?"
+},
+{
+"k": "20858",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{happya}[gently] Do you have a name?"
+},
+{
+"k": "20859",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{ConfusedA}My mommy's not here.[beat] {NormalA}She's probably working."
+},
+{
+"k": "20860",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{confusedb}[playful] Are you the missus of the house or is your mother at home?"
+},
+{
+"k": "20861",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}No, we don't live here."
+},
+{
+"k": "20862",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{HappyA}[light giggling]"
+},
+{
+"k": "20863",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[choking back a laugh]"
+},
+{
+"k": "20864",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{SarcasticA}[plain] Sharp kid."
+},
+{
+"k": "20865",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{confuseda}What's your name?"
+},
+{
+"k": "20866",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{confusedb}Dorothy's a girl's name, you know.[beat, then playfully] {mockinga}And if I was any less secure in my manhood, I might take it as an insult."
+},
+{
+"k": "20867",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[happily] {HappyA}Rachel.[beat] What's yours?"
+},
+{
+"k": "20868",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[cold]Look kid, I don't have time for games."
+},
+{
+"k": "20869",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}You woke me up!"
+},
+{
+"k": "20870",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {NormalA}Is there, {ConfusedB}um..."
+},
+{
+"k": "20871",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {ConfusedA}Is there anything you need?"
+},
+{
+"k": "20872",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {SadA}I'm not allowed to let people in..."
+},
+{
+"k": "20873",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] I don't think I can really help you."
+},
+{
+"k": "20874",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] I'm sorry, but..."
+},
+{
+"k": "20875",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Maybe come back in the morning?"
+},
+{
+"k": "20876",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}Don't get me in trouble."
+},
+{
+"k": "20877",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "This your mom?"
+},
+{
+"k": "20878",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Yep. She had that done a long time ago.[beat] Before we moved here."
+},
+{
+"k": "20879",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "It's very nice."
+},
+{
+"k": "20880",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}Nothing?"
+},
+{
+"k": "20881",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Mph. I don't know yet."
+},
+{
+"k": "20882",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{doubtfula}[muttering] There's nothing that looks like Crane was here, either."
+},
+{
+"k": "20883",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}I keep getting whiffs of that aftershave of his...."
+},
+{
+"k": "20884",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[muttering] Goddamnit."
+},
+{
+"k": "20885",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}I do, too."
+},
+{
+"k": "20886",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}What about the glamour box?[beat] It could be concealing something..."
+},
+{
+"k": "20887",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{ScaredA}Mommy really doesn't let anyone {SadA}play with that.[beat] {ConfusedB}Trust me, {ConfusedA}I've tried."
+},
+{
+"k": "20888",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Nothing?"
+},
+{
+"k": "20889",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {ConfusedB}Shouldn't say that..."
+},
+{
+"k": "20890",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{doubtfula}Not here."
+},
+{
+"k": "20891",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{NormalA}That's mommy's special box. {ConfusedA}And no one is allowed to touch it, {ConfusedB}not even me. {ConfusedA}Okay?"
+},
+{
+"k": "20892",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{ThinkingA}Is that a {ThinkingB}glamour tube?"
+},
+{
+"k": "20893",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[nervous] {ScaredA}Oh, no no no no no, please {SadA}please please just put that back exactly where you found it. {ScaredA}No one is allowed to play with that."
+},
+{
+"k": "20894",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{flusteredb}It's alright, honey, Bigby's not going to break it."
+},
+{
+"k": "20895",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pleading] {ScaredA}No, you don't understand. She will {ScaredX}freak out if she discovers {ScaredA}I've let people in here and let them touch her stuff, okay?"
+},
+{
+"k": "20896",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "She checks all the time to see if things move."
+},
+{
+"k": "20897",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Just put it back exactly where it was, please."
+},
+{
+"k": "20898",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I don't wanna get in trouble."
+},
+{
+"k": "20899",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Snow, something isn't right here."
+},
+{
+"k": "20900",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I have to check this."
+},
+{
+"k": "20901",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "No! That's bad enough!"
+},
+{
+"k": "20902",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{doubtfula}I'm not gonna break it, I just want to open it."
+},
+{
+"k": "20903",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "No! Put it down!"
+},
+{
+"k": "20904",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{doubtfula}Relax, kid. I just wanna see what's inside."
+},
+{
+"k": "20905",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}Look, I have to check this out, I'm sorry."
+},
+{
+"k": "20906",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pleading] {ScaredX}Pleeeeease! Don't! {ScaredA}This isn't what you think!"
+},
+{
+"k": "20907",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{feara}It's going to be okay, Rachel!"
+},
+{
+"k": "20908",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pleading] You've gotta believe me, that guy isn't here! {ScaredX}I promise!"
+},
+{
+"k": "20909",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[defeated] {ScaredA}Please. {SadA}I'm begging you. I don't wanna... {ScaredX}I don't wanna get in trouble."
+},
+{
+"k": "20910",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Look, I'm already grounded!"
+},
+{
+"k": "20911",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[hysterical] {ScaredX}No! {ScaredA}Put it down!"
+},
+{
+"k": "20912",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[muttering to himself] Fuckin' witches..."
+},
+{
+"k": "20913",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[startled and disgusted] Auugh."
+},
+{
+"k": "20914",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[coldly] {AngryA}It hurts... when you do it that fast."
+},
+{
+"k": "20915",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[whisper to herself] Auntie Greenleaf."
+},
+{
+"k": "20916",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[cold] {MockingA}I don't think that's any of your business, {AngryA}Wolf."
+},
+{
+"k": "20917",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Why \"Rachel\"? Why the little girl?"
+},
+{
+"k": "20918",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[threatening] Why."
+},
+{
+"k": "20919",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[exasperated] How about because it works, that's why. That good enough for ya?"
+},
+{
+"k": "20920",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Even worked on you.[beat] Didn't know you had a soft spot for children."
+},
+{
+"k": "20921",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Or it usually works, anyway.[beat] Most people aren't sick enough to strong arm a kid."
+},
+{
+"k": "20922",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Certainly kept you two off the scent for a while."
+},
+{
+"k": "20923",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[bitter] A short while."
+},
+{
+"k": "20924",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[coldly threatening] No more lying, no more ring around the rosie, no more bullshit non sequiturs, {angryc}you're done, it's over, and you're gonna tell me what I want to know right now."
+},
+{
+"k": "20925",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "You think I like talking to kids? I fuckin' hate kids!"
+},
+{
+"k": "20926",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}You picked the wrong night to lie to me."
+},
+{
+"k": "20927",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[bitter] {AngryA}What?"
+},
+{
+"k": "20928",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[bitter] {MockingA}Not spritely enough?"
+},
+{
+"k": "20929",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}[angry] I should have known that it was this hideous wretch that's been handing out glamours like crack."
+},
+{
+"k": "20930",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[casually] {MockingA}You don't know anything, honey."
+},
+{
+"k": "20931",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}No.[beat] I don't."
+},
+{
+"k": "20932",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[cold] {MockingA}But congratulations on \"winning\" it... {AngryA}if that matters to you."
+},
+{
+"k": "20933",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}You think we have time to waste on this shit? You think this is some kind of game?"
+},
+{
+"k": "20934",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}Where's Crane?[beat] {angryb}Speak quickly."
+},
+{
+"k": "20935",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}I ain't a fortune teller, {AngryA}Wolf.[beat] I have no {MockingA}heavenly idea where he went to."
+},
+{
+"k": "20936",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Where's Crane? What was his plan?"
+},
+{
+"k": "20937",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[angry] None of this pathetic witchcraft crap is gonna prevent me from prying what I need from your gullet. Now tell me where Crane is!"
+},
+{
+"k": "20938",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}How am I supposed to know? He came, he went... {MockingA}like all young lads."
+},
+{
+"k": "20939",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}Help us catch Crane. That's all we care about."
+},
+{
+"k": "20940",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}That's not all we care about."
+},
+{
+"k": "20941",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}Snow..."
+},
+{
+"k": "20942",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{worrieda}Please, Greenleaf. Just help us catch Crane. That's all we care about."
+},
+{
+"k": "20943",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {NormalA}You were... nicer than I thought you would be... {MockingA}when I was... {SadA}her."
+},
+{
+"k": "20944",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}But if I help you... I can {AngryA}promise that help will not go unpunished."
+},
+{
+"k": "20945",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] And if I help you... I can promise that help will not go unpunished."
+},
+{
+"k": "20946",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[pissed] I don't think you get it. I'll gladly illustrate how much trouble you're in if {angryc}you keep up the babe in the woods routine."
+},
+{
+"k": "20947",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[bubbling rage] Huh, that's funny. I distinctly remember telling you just now to {angryd}not fucking lie to me!"
+},
+{
+"k": "20948",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[bubbling rage] Don't you fucking lie to her, either!"
+},
+{
+"k": "20949",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "You don't get it: it doesn't matter who's doing the asking"
+},
+{
+"k": "20950",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[suddenly angry] {AngryA}When I was starving and homeless and out on the {AngryB}streets {AngryA}nobody gave three sticks of thought about me, and {AngryB}now I'm supposed to care what {AngryA}you want?"
+},
+{
+"k": "20951",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}If I helped you, {AngryB}I'd be strung up on the Statue of Liberty before the {AngryA}morning commute. No thanks."
+},
+{
+"k": "20952",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Roll over? Play fetch?[beat] Speak?"
+},
+{
+"k": "20953",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Greenleaf..."
+},
+{
+"k": "20954",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}You have a lot to learn on{MockingA} how to treat a lady."
+},
+{
+"k": "20955",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[soft] {MockingA}I have a lot of bullies in my life, Mr. Wolf.[beat] {NormalA}One more {AngryA}won't tip the kettle."
+},
+{
+"k": "20956",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[cold] I'd be very, very careful if I were you.[beat] You're not as cute as that little girl."
+},
+{
+"k": "20957",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}You're an accomplice to murder, do you realize that?"
+},
+{
+"k": "20958",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[calm] {NormalA}You might wanna check your {MockingA}facts on that."
+},
+{
+"k": "20959",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{NormalA}It doesn't matter. {MockingA}I can't help you."
+},
+{
+"k": "20960",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Don't you understand what's at stake here? Crane murdered someone."
+},
+{
+"k": "20961",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[frustrated] Just why in the name of everything holy are you protecting this weasely scumbag?"
+},
+{
+"k": "20962",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}I mean... what on Earth could he have done to deserve this kind of loyalty?"
+},
+{
+"k": "20963",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[calm] {MockingA}Crane could be hollow bones tomorrow... and you wouldn't see me {AngryA}cry a drop."
+},
+{
+"k": "20964",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "But he has friends.[beat] They're my friends.[beat] And I don't want them for enemies."
+},
+{
+"k": "20965",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "And I don't want them for enemies."
+},
+{
+"k": "20966",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}You have friends."
+},
+{
+"k": "20967",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "They're my friends."
+},
+{
+"k": "20968",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{NormalA}But that doesn't mean I can {MockingA}tell you anything."
+},
+{
+"k": "20969",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Well, I don't {AngryA}want Crane's friends for enemies."
+},
+{
+"k": "20970",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Don't you?"
+},
+{
+"k": "20971",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}If you're not protecting Crane... {angryb}who are you protecting?"
+},
+{
+"k": "20972",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Just you being here is bad enough..."
+},
+{
+"k": "20973",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}Get this through both of your skulls: {AngryB}I. Can't. {AngryA}Tell. You."
+},
+{
+"k": "20974",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[pissed] You want to get shipped off to the Farm? Huh? {angryc}I'll have you kept in the horse's stables!"
+},
+{
+"k": "20975",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I have bigger problems than {MockingA}your \"farm.\""
+},
+{
+"k": "20976",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[casually] {MockingA}There are worse things in life than darkness, Sheriff.[beat] {AngryA}Worse things than you."
+},
+{
+"k": "20977",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[through gritted teeth] Now you better fuckin' tell me where he is or we can skip the sentencing and go {angryc}straight to judgment."
+},
+{
+"k": "20978",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Sheriff Bigby has evidence that Crane has been murdering young women, {thinkingb}at least one that we know of."
+},
+{
+"k": "20979",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I have no interest in being turned into a skink and crushed under boot heels."
+},
+{
+"k": "20980",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}Please, Greenleaf.[beat] Crane is a murderer, and he's escaping."
+},
+{
+"k": "20981",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[through gritted teeth] You have to forget it."
+},
+{
+"k": "20982",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Whatever it is that's keeping you from saying something?"
+},
+{
+"k": "20983",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Whatever it is, Greenleaf..."
+},
+{
+"k": "20984",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}This is more important."
+},
+{
+"k": "20985",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[calm] {MockingA}Is it."
+},
+{
+"k": "20986",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {NormalA}You have no idea {MockingA}what's going on, do you?"
+},
+{
+"k": "20987",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}We can protect you, okay? {normalb}Whatever it is you're afraid of... we can make sure that it won't come to pass."
+},
+{
+"k": "20988",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}I don't give a shit about your problems, Greenleaf.[beat] Just talk. Now."
+},
+{
+"k": "20989",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[seething] You should be a lot more afraid of me than whatever horseshit {angryd}you think will come back to bite you."
+},
+{
+"k": "20990",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[angry] This witch has been selling illegal glamours that continue to undermine {angryc}everything we've built..."
+},
+{
+"k": "20991",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[angry] Okay, you know what I think? I think we've been more than patient with you."
+},
+{
+"k": "20992",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[angry] She's harboring a fugitive that took {angrya}advantage of it, and now she's resisting every attempt to make things right."
+},
+{
+"k": "20993",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}[angry] I frankly don't give a crap if she's afraid for her life, we can at least make sure she never hurts us again."
+},
+{
+"k": "20994",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}What is this?"
+},
+{
+"k": "20995",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}Trinkets?[beat] Like glamours?"
+},
+{
+"k": "20996",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{HappyA}Mommy uses that to carve her trinkets.[beat] {NormalA}It's from the old world."
+},
+{
+"k": "20997",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[I told you] {ConfusedB}See?"
+},
+{
+"k": "20998",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}It's too dangerous leaving this stuff with her."
+},
+{
+"k": "20999",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}That tree is ancient, it's part of the family, and it's the only thing paying for this {AngryB}shithole apartment!"
+},
+{
+"k": "21000",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[determined] We're destroying the tree."
+},
+{
+"k": "21001",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[bitter] {AngryA}How dare you come in here and threaten to take from me the {AngryB}one thing that...[stops herself]"
+},
+{
+"k": "21002",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}The Farm!"
+},
+{
+"k": "21003",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{FearA}No!"
+},
+{
+"k": "21004",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}And the Fables who can't afford the glamours from {AngryA}you come to me for help. Without them, {AngryB}where do think they {AngryA}could go?"
+},
+{
+"k": "21005",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "What's dangerous about it?"
+},
+{
+"k": "21006",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}Two Fables are dead because of this crap."
+},
+{
+"k": "21007",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Not because of me!"
+},
+{
+"k": "21008",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "It's not too dangerous!"
+},
+{
+"k": "21009",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "He {MockingA}thinks it's the Ring of Dispel... you know, that it will pierce the protection around the girls' speech. {AngryA}He says pulling the truth out of them will prove his innocence."
+},
+{
+"k": "21010",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{SadA}Just please, {MockingA}you can catch him if you leave, {NormalA}okay, just leave and {FearA}don't-- {SadA}don't burn my tree."
+},
+{
+"k": "21011",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}What does the ring do?"
+},
+{
+"k": "21012",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Fine."
+},
+{
+"k": "21013",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}He went to the Pudding N' Pie to try to use my ring on the girls over there to get information."
+},
+{
+"k": "21014",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[hysterical] {FearA}No! Look, look, {SadA}I'll tell you, I'll tell you...[calming down a bit] Crane was here, {NormalA}he was here and he left."
+},
+{
+"k": "21015",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}I'm sorry, Sheriff, {NormalA}but please..."
+},
+{
+"k": "21016",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Snow, it's too much. {normalb}We can't ruin this woman's life over this."
+},
+{
+"k": "21017",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[quieter] Bigby... this is an order.[beat] Burn the tree."
+},
+{
+"k": "21018",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}\"Ruin this woman's life?\" {angryb}It's a slap on the wrist compared to what she's done!"
+},
+{
+"k": "21019",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{SadA}Don't."
+},
+{
+"k": "21020",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quiet] {WorriedA}Please, Sheriff."
+},
+{
+"k": "21021",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{SadA}I'm begging you, {FearA}I'm begging you..."
+},
+{
+"k": "21022",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Don't destroy it. Please."
+},
+{
+"k": "21023",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}It won't, though... {AngryA}damned thing lost its power decades ago."
+},
+{
+"k": "21024",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I'm not a house cat, Sheriff."
+},
+{
+"k": "21025",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}You want to reward her for criminal behavior? {angrya}We can't trust this woman on the Thirteenth floor."
+},
+{
+"k": "21026",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}The witches over there will keep her out of trouble, and-- and we have a glamour shortage as it is.{normalb}[beat] It makes the most sense, Snow."
+},
+{
+"k": "21027",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Greenleaf.[beat] I think it's best if you just come work for us on the Thirteenth--[gets cut off]"
+},
+{
+"k": "21028",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}[shocked] What?"
+},
+{
+"k": "21029",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[disgusted] Why?"
+},
+{
+"k": "21030",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}I wasn't asking you."
+},
+{
+"k": "21031",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Well... I don't like it."
+},
+{
+"k": "21032",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "At all."
+},
+{
+"k": "21033",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{WorriedA}Look, I'll tell you what's going on, {SadA}just don't burn my tree. Crane was here, okay, {NormalA}he was here and he left."
+},
+{
+"k": "21034",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Hey. Greenleaf."
+},
+{
+"k": "21035",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}[almost threatening] I won't."
+},
+{
+"k": "21036",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Don't think this is over."
+},
+{
+"k": "21037",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}Very different {AngryA}means to handle it, too."
+},
+{
+"k": "21038",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}We have very different ways of handling our fate."
+},
+{
+"k": "21039",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[angry] {AngryA}You think I {AngryB}like being the old woman in these stories?"
+},
+{
+"k": "21040",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[angry] ...and the old hags {AngryA}like me get to watch everyone they {AngryB}love die."
+},
+{
+"k": "21041",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[angry] The men {AngryA}are heroes, the ladies are {AngryB}whores..."
+},
+{
+"k": "21042",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}And I don't use it as an excuse to wreck people's lives!"
+},
+{
+"k": "21043",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{SadA}Don't do this."
+},
+{
+"k": "21044",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[angry] {AngryB}What monsters are you! What horrible, evil, villainous, warped {FearA}monsters are you?!"
+},
+{
+"k": "21045",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[furious] {AngryB}I have nothing! {FearA}Nothing! You took {AngryB}everything from me! I have nothing! [gets cut off]"
+},
+{
+"k": "21046",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{sada}[numb] It's going to be a long time before I feel good about anything."
+},
+{
+"k": "21047",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[getting angrier] I told you everything and then you {AngryB}extinguish the only measure I have in {FearA}this horrid world!"
+},
+{
+"k": "21048",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[numb] {FearA}You've doomed me.[beat] Do you know that?"
+},
+{
+"k": "21049",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{mockinga}While I appreciate all that, and I do, really...[long pause] {MockingB}but orders are orders."
+},
+{
+"k": "21050",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{mockinga}Okay, that wasn't so hard, was it?"
+},
+{
+"k": "21051",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}C'mon, we have to get to Crane while he's still there."
+},
+{
+"k": "21052",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}That's it? She's off the hook?"
+},
+{
+"k": "21053",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}This whole story of yours better check out."
+},
+{
+"k": "21054",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Even after I told you everything?"
+},
+{
+"k": "21055",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[angry sigh] We can come back for the tree later, after Crane's dealt with."
+},
+{
+"k": "21056",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}No. I don't.[beat; then matter of fact] {angrya}But the fact is Cole hasn't confirmed you. And until he does, you have absolutely no authority over me."
+},
+{
+"k": "21057",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Do you think is a joke?"
+},
+{
+"k": "21058",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{doubtfula}You know, you aren't technically {mockingb}my boss yet, Snow."
+},
+{
+"k": "21059",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}What does the ring do?"
+},
+{
+"k": "21060",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Thank you, thank you, look, I'm sorry about everything. Crane was here, okay? He was here, but he left."
+},
+{
+"k": "21061",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[glum] Alright, let's go."
+},
+{
+"k": "21062",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}Snow, do you really want to kill this tree for Fabletown?"
+},
+{
+"k": "21063",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Or do you want me to burn it because you're pissed off at Crane... for what he... did to you."
+},
+{
+"k": "21064",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[pissed] They stole my hair from my apartment, Bigby. So yeah, I'm pissed, {angryc}but I still know what's best for this town."
+},
+{
+"k": "21065",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}We're not burning the tree, Snow."
+},
+{
+"k": "21066",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Okay. [Burn the tree]"
+},
+{
+"k": "21067",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Okay, Snow."
+},
+{
+"k": "21068",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}[glum] I'm not gonna burn down this tree."
+},
+{
+"k": "21069",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}Okay, well, I guess I see where I stand with you."
+}
+]

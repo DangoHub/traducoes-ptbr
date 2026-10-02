@@ -1,0 +1,1724 @@
+[
+{
+"k": "8983",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[surprised, happy] You're alive?"
+},
+{
+"k": "8984",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[surprised, relieved] Where have you been?"
+},
+{
+"k": "8985",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I've been working!"
+},
+{
+"k": "8986",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I was hoping you'd be further along with the case, but…"
+},
+{
+"k": "8987",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "That blood on your hands says otherwise."
+},
+{
+"k": "8988",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{AngryA}It looks like you boys have been using Tweedledee as a {AngryB}punching{AngryA} bag."
+},
+{
+"k": "8989",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[impatient, annoyed] Is someone gonna tell me what happened to his face?"
+},
+{
+"k": "8990",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[relieved, happy] Snow!"
+},
+{
+"k": "8991",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{CockyA}Well… isn't this a surprise?"
+},
+{
+"k": "8992",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[tired] Yes, I'm alive."
+},
+{
+"k": "8993",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{HappyA}I can't believe it."
+},
+{
+"k": "8994",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{WorriedA}You're alive?"
+},
+{
+"k": "8995",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I had to do it."
+},
+{
+"k": "8996",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I got carried away."
+},
+{
+"k": "8997",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "What do you think? Bigby let his temper get the best of him, and now everything's gone to shit."
+},
+{
+"k": "8998",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I tried to stop him, but you know how he is."
+},
+{
+"k": "8999",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Bluebeard is out of control. Just walked up and started punching him."
+},
+{
+"k": "9000",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I tried to stop him."
+},
+{
+"k": "9001",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Am I wrong?"
+},
+{
+"k": "9002",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You should have known that was a bad idea. You put this man's life in danger by allowing him down here."
+},
+{
+"k": "9003",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "What is he doing interrogating a suspect?"
+},
+{
+"k": "9004",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I take offense!"
+},
+{
+"k": "9005",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "So I'm alive, but someone is dead, and I need you to come upstairs now."
+},
+{
+"k": "9006",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[tired] {AngryA}The head you found, that wasn't me. It just looked like me, for whatever reason, but I was following a lead to the body at the time."
+},
+{
+"k": "9007",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{WorriedA}Your…body?"
+},
+{
+"k": "9008",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{AngryA}We recovered the body."
+},
+{
+"k": "9009",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{ThinkingA}I still don't understand. How are you alive?"
+},
+{
+"k": "9010",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "If you're all finished abusing each other, I need your help upstairs."
+},
+{
+"k": "9011",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You should probably call Dr. Swineheart and get Dee fixed up before he's released. Otherwise half of Fabletown will be at your front door tomorrow."
+},
+{
+"k": "9012",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'm not done with you, Dee."
+},
+{
+"k": "9013",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You're free to go, Dee."
+},
+{
+"k": "9014",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "He stays here."
+},
+{
+"k": "9015",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{NormalA}Bigby, I'll meet you upstairs momentarily. Snow, if you would please escort him to the body."
+},
+{
+"k": "9016",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[losing patience] {AngryA}Well what would you like to do then?"
+},
+{
+"k": "9017",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{WorriedA}I don't disagree with you, Snow, but I'd {NormalA}like to remind you that I'm in charge here."
+},
+{
+"k": "9018",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "The area off the Witching Well. Only space we could find."
+},
+{
+"k": "9019",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{AngryA}I'm not done with you yet."
+},
+{
+"k": "9020",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{AngryA}Hold him here if you want, but we have to go."
+},
+{
+"k": "9021",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "All right."
+},
+{
+"k": "9022",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You're free to go."
+},
+{
+"k": "9023",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I sti"
+},
+{
+"k": "9024",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Fine, but he needs medical attention."
+},
+{
+"k": "9025",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffedhurt}{Paina}[groans in pain]"
+},
+{
+"k": "9026",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{FlusteredA}God, he's a mess."
+},
+{
+"k": "9027",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[sullen] Just let me go, all right? I don't have any answers for you."
+},
+{
+"k": "9028",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[snarky] I know you enjoy my company, but I'd like to be off."
+},
+{
+"k": "9029",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[snarky] You know, I really like spendin' time with you Bigby. You're so pleasant. Let's be friends."
+},
+{
+"k": "9030",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[snarky] You know if you wanted to have a drink with me, we could have met at the Trip Trap."
+},
+{
+"k": "9031",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[sullen] This is gettin' old very quickly."
+},
+{
+"k": "9032",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}Any more of that cigar left?"
+},
+{
+"k": "9033",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[sullen] Are you done yet? I'm gettin' old over here."
+},
+{
+"k": "9034",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[sullen] At least I can move my fingers now."
+},
+{
+"k": "9035",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Would be nice if you'd let me go though."
+},
+{
+"k": "9036",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}Come on, Bigby. We both know this isn't going anywhere."
+},
+{
+"k": "9037",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I was kiddin'. I don't want to be your friend."
+},
+{
+"k": "9038",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] Let me go."
+},
+{
+"k": "9039",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] This is bullshit!"
+},
+{
+"k": "9040",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] You have no right to keep me here!"
+},
+{
+"k": "9041",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] I didn't do anything."
+},
+{
+"k": "9042",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] Fuck you, Bigby!"
+},
+{
+"k": "9043",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] When I get out of here, I'm gonna smash a fucking  bottle in your face! See how you like it."
+},
+{
+"k": "9044",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] You're a mess, Bigby. Look at you."
+},
+{
+"k": "9045",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] Any of that cigar left? I'm gonna burn your fucking face off!"
+},
+{
+"k": "9046",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] You can't keep me here."
+},
+{
+"k": "9047",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] You have to let me go sometime."
+},
+{
+"k": "9048",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] 'Cause I got one with your name on it."
+},
+{
+"k": "9049",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] I hope you can take a punch, Bigby."
+},
+{
+"k": "9050",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] You make me fucking sick."
+},
+{
+"k": "9051",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angryb}I'll ask again. {angrya}Where's your brother?"
+},
+{
+"k": "9052",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[giggles]"
+},
+{
+"k": "9053",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[mock creepy voice] {sarcastica}{body-sitcuffed}He's right behind you."
+},
+{
+"k": "9054",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}Tell me where your brother is!"
+},
+{
+"k": "9055",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{confuseda}{Body-SitCuffed}That's not gonna work."
+},
+{
+"k": "9056",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] {angrya}{body-sitcuffed}Why? So you can beat on him too?"
+},
+{
+"k": "9057",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}{alias 357209441} [angry] {angrya}{body-sitcuffed}No!"
+},
+{
+"k": "9058",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'll ask you agian. Why were"
+},
+{
+"k": "9059",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[stressed] {confuseda}{body-sitcuffed}Why is anyone anywhere?"
+},
+{
+"k": "9060",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}{feara}{body-sitcuffed}No way!"
+},
+{
+"k": "9061",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] {angrya}{body-sitcuffed}I'm not telling you shit."
+},
+{
+"k": "9062",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[very stressed] {feara}{body-sitcuffed}I can't tell you!"
+},
+{
+"k": "9063",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Tell me who"
+},
+{
+"k": "9064",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[very stressed] {feara}{body-sitcuffed}I can't!"
+},
+{
+"k": "9065",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] {angrya}I'm not talking!"
+},
+{
+"k": "9066",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] {angrya}{body-sitcuffed}No!"
+},
+{
+"k": "9067",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}What can I do to make you more comfortable?"
+},
+{
+"k": "9068",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{sarcastica}{Body-SitCuffed}You could let me go, {frustrateda}but I doubt you're offering."
+},
+{
+"k": "9069",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{Body-SitCuffed}[angry] I'm not buying this nice guy routine."
+},
+{
+"k": "9070",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{worrieda}I know this must be difficult."
+},
+{
+"k": "9071",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{confuseda}{Body-SitCuffed}Can we just get on with it?"
+},
+{
+"k": "9072",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{suspiciousa}{Body-SitCuffed}I see what you're doing."
+},
+{
+"k": "9073",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry] {angrya}Go fuck yourself!"
+},
+{
+"k": "9074",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{frustrateda}{Body-SitCuffed}[angry] Don't even try it, Bigby."
+},
+{
+"k": "9075",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[threatening] {angrya}You're not leaving this cell until you start talking."
+},
+{
+"k": "9076",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{suspiciousa}{Body-SitCuffed}Save your breath, mate. That's not gonna work on me."
+},
+{
+"k": "9077",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{Body-SitCuffed}[angry] Fuck your threats!"
+},
+{
+"k": "9078",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}If you don't talk, I'll rip out your throat."
+},
+{
+"k": "9079",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angryc}If you don't cooperate, I'm ripping your fucking arm off."
+},
+{
+"k": "9080",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I've done it before."
+},
+{
+"k": "9081",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}Start talking {mockinga}or I'm gonna eat you alive."
+},
+{
+"k": "9082",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{defensivea}{Body-SitCuffed}[angry] Tell it to someone who cares."
+},
+{
+"k": "9083",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{Body-SitCuffed}[angry] Fuck off."
+},
+{
+"k": "9084",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{happya}{Body-SitCuffed}I'd like to see you try."
+},
+{
+"k": "9085",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{sarcastica}{Body-SitCuffed}Idle threats."
+},
+{
+"k": "9086",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[scoffs] Careful."
+},
+{
+"k": "9087",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "At least I have my hobbies."
+},
+{
+"k": "9088",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Things certainly have gone downhill."
+},
+{
+"k": "9089",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Not this again."
+},
+{
+"k": "9090",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You actually enjoy causing people pain?"
+},
+{
+"k": "9091",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Let me tell you something, Bigby."
+},
+{
+"k": "9092",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkingb}[cut] You're a suspect, {angrya}do you know what that means?"
+},
+{
+"k": "9093",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}Please try to be serious, Dee."
+},
+{
+"k": "9094",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "It took hours for someone to come get me, and then I was brought here, to this cell, and I haven't moved since."
+},
+{
+"k": "9095",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Ask your little friends."
+},
+{
+"k": "9096",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[frustrated sigh]"
+},
+{
+"k": "9097",
+"who": "GLAMOURTOAD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "He's got a vacancy now, don't he?"
+},
+{
+"k": "9098",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "It looked all right,"
+},
+{
+"k": "9099",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You understand."
+},
+{
+"k": "9100",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{defensivea}My brother and I, we got a thing about loyalty."
+},
+{
+"k": "9101",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{feara}{Body-SitCuffed}Her apartment."
+},
+{
+"k": "9102",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{normala}{Body-SitCuffed}That's all."
+},
+{
+"k": "9103",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Let him work!"
+},
+{
+"k": "9104",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Don't you want to find out who did this?"
+},
+{
+"k": "9105",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{cockyA}Not that I don't appreciate the change of circumstances."
+},
+{
+"k": "9106",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[sigh] It's been a long night."
+},
+{
+"k": "9107",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[tired] {ThinkingA}I need you to come with me."
+},
+{
+"k": "9108",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "It's probably your fault she's dead."
+},
+{
+"k": "9109",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "She stole something from him. He just wanted it back."
+},
+{
+"k": "9110",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "She stole from him."
+},
+{
+"k": "9111",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "He just wants what was his, okay?"
+},
+{
+"k": "9112",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{Body-SitCuffed}[angry] I went to Faith's apartment. That's all I meant."
+},
+{
+"k": "9113",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] I went to Faith's apartment. That's all I meant."
+},
+{
+"k": "9114",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] I'm not getting paid enough to put up with this."
+},
+{
+"k": "9115",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Bluebeard!"
+},
+{
+"k": "9116",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I've already heard your opinion."
+},
+{
+"k": "9117",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "This isn't working."
+},
+{
+"k": "9118",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[spits]"
+},
+{
+"k": "9119",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I was hoping you'd say that."
+},
+{
+"k": "9120",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You ready to talk? Or do you want some more?"
+},
+{
+"k": "9121",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I told you to stop!"
+},
+{
+"k": "9122",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You think you can control me? I am not your hired help. I do not work for you. I will act as I see fit, and there's no way a small, scared little man like you is going to stop me."
+},
+{
+"k": "9123",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Do you think I can't see you trembling? Hiding behind your Big Bad Wolf."
+},
+{
+"k": "9124",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'm not scared of you."
+},
+{
+"k": "9125",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'll meet you up there after I've finished with this."
+},
+{
+"k": "9126",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Please."
+},
+{
+"k": "9127",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] Don't make me look at that."
+},
+{
+"k": "9128",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I don't wanna see that."
+},
+{
+"k": "9129",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "They're brass knuckles, Crane."
+},
+{
+"k": "9130",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I didn't know they made them that big."
+},
+{
+"k": "9131",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[taunting] {sarcastica}{Body-SitCuffed}Oh, I'm making you mad? Is that bothering you?"
+},
+{
+"k": "9132",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Bigby does his silent choice thing."
+},
+{
+"k": "9133",
+"who": "ANSWER",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "?"
+},
+{
+"k": "9134",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Bigby is a silent weirdo"
+},
+{
+"k": "9135",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "That's not a very good answer, is it? Come on, just tell me what I want to know. It will make things a lot less painful for you… in theory."
+},
+{
+"k": "9136",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] You ignorant fuck!"
+},
+{
+"k": "9137",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You like rubbing miniature swords? Hmm?"
+},
+{
+"k": "9138",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{body-sitcuffed}[mocking] Oh! Were you planning on using that? I just thought you really liked rubbing your little sword."
+},
+{
+"k": "9139",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] What the hell do you think you're doing?"
+},
+{
+"k": "9140",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[sinister calm] Hello, Ichabod.[beat] Sheriff."
+},
+{
+"k": "9141",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I was just chatting with our new friend."
+},
+{
+"k": "9142",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "If I remember correctly, you came crawling to me for help."
+},
+{
+"k": "9143",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[corecting him] For an advance on your donation. You were the one who insisted on participating."
+},
+{
+"k": "9144",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[forceful] So put that fucking knife away."
+},
+{
+"k": "9145",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Like you pried off your wives heads?"
+},
+{
+"k": "9146",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "That was pre-amnesty!"
+},
+{
+"k": "9147",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You been caught before though, haven't you? We all know what happened to those wives of yours."
+},
+{
+"k": "9148",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Don't kid yourself, Crane."
+},
+{
+"k": "9149",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "This is not how things are done here!"
+},
+{
+"k": "9150",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You always knew it would come to this. Hiring the Big Bad Wolf as your all-powerful Sheriff."
+},
+{
+"k": "9151",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "He still answers to me!"
+},
+{
+"k": "9152",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[laughs] You really believe it, don't you?"
+},
+{
+"k": "9153",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You're out of line, Bluebeard."
+},
+{
+"k": "9154",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I answer to no one."
+},
+{
+"k": "9155",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Let me do my job!"
+},
+{
+"k": "9156",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Well this is unexpected. I didn't realize Crane already had you so… domesticated."
+},
+{
+"k": "9157",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "If you ladies want some time alone, I'd be happy to get out of your hair."
+},
+{
+"k": "9158",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Excuse me!"
+},
+{
+"k": "9159",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[dark, threatening] You don't want to do this."
+},
+{
+"k": "9160",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You're way out of line, Bluebeard."
+},
+{
+"k": "9161",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[playful, sarcastic] I don't wanna interrupt the show, but can you move a little to the right."
+},
+{
+"k": "9162",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'd like a clear view when he punches you in the gut."
+},
+{
+"k": "9163",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[indignant] Oh really?"
+},
+{
+"k": "9164",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You see?"
+},
+{
+"k": "9165",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I don't answer to anyone."
+},
+{
+"k": "9166",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[indignant] Excuse me?"
+},
+{
+"k": "9167",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[laughs] Dog's got bite."
+},
+{
+"k": "9168",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[forceful] Both of you! Shut up, and get out of my way."
+},
+{
+"k": "9169",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I have work to do here, and I don't want to listen to you two bickering."
+},
+{
+"k": "9170",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Stand over there."
+},
+{
+"k": "9171",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] Bigby, I--"
+},
+{
+"k": "9172",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[playful, sarcastic] Are you ladies gonna be done soon? Or do you just want me to sit here and watch you argue?"
+},
+{
+"k": "9173",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You can't tame a wolf, Ichabod."
+},
+{
+"k": "9174",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Or for something so simple as a basket full of goodies."
+},
+{
+"k": "9175",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "who would not hesitate to kill for the sake of his own selfish desires."
+},
+{
+"k": "9176",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "How did that old lady taste, Bigby?"
+},
+{
+"k": "9177",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "What are you trying to say, Bluebeard?"
+},
+{
+"k": "9178",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "It's sad that you think you can."
+},
+{
+"k": "9179",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[impatient] Just go stand over there and let me deal with this."
+},
+{
+"k": "9180",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "What are you going to do about this, Bigby?"
+},
+{
+"k": "9181",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "What about Faith?"
+},
+{
+"k": "9182",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[cut] That is technically true."
+},
+{
+"k": "9183",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[muttering] This is ridiculous."
+},
+{
+"k": "9184",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[cut] From both sides, too."
+},
+{
+"k": "9185",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Let him work. He's got more experience with these kinds of things."
+},
+{
+"k": "9186",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{feara}{Body-SitCuffed}[with disdain] Sweet? {frustrateda}You think that girl was sweet?"
+},
+{
+"k": "9187",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{worrieda}A sweet girl like her--"
+},
+{
+"k": "9188",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}She was a fuckin' thief."
+},
+{
+"k": "9189",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{normala}{Body-SitCuffed}I don't know. {defensivea}Just some dumb thing my boss was after."
+},
+{
+"k": "9190",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "He's the one who sent me there in the first place."
+},
+{
+"k": "9191",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{suspiciousa}Nah, she took somethin' from my boss."
+},
+{
+"k": "9192",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}You still seem pretty mad about it."
+},
+{
+"k": "9193",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[cut] It wasn't?"
+},
+{
+"k": "9194",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{sarcastica}{Body-SitCuffed}Hell, I ain't bothered. Wasn't me she stole from."
+},
+{
+"k": "9195",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[laughs] {happya} [cut] You think I got anything worth stealing?"
+},
+{
+"k": "9196",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "She stole from my boss."
+},
+{
+"k": "9197",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[laughs] {sarcastica}Hell, I ain't got nothing worth takin'."
+},
+{
+"k": "9198",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'll tell you what that girl did."
+},
+{
+"k": "9199",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{worrieda}I mean, you know what she did for a living, right?"
+},
+{
+"k": "9200",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{confuseda}Faith was plenty of things, but that ain't one of 'em."
+},
+{
+"k": "9201",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "BIgby, I didn't know you partook in the hidden pleasures of Fabletown."
+},
+{
+"k": "9202",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[laughs] Right."
+},
+{
+"k": "9203",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{sarcastica}{Body-SitCuffed}Sorry to ruin your little fantasy, Bigby."
+},
+{
+"k": "9204",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "He doesn't!"
+},
+{
+"k": "9205",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[awkward] I don't allow government officials to participate in such things. It would be… unseemly."
+},
+{
+"k": "9206",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Like I was saying before, she's got a dark side, and my boss will back me up on this."
+},
+{
+"k": "9207",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{worrieda} [cut] But you gotta understand, that's part of what you're payin' for. {feara}They pretend. {happya}It's what makes 'em so good at what they do."
+},
+{
+"k": "9208",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[dark laugh] Well, looks like someone from the Business Office has been partaking in the… hidden pleasures of Fabletown."
+},
+{
+"k": "9209",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Not from me. From my boss."
+},
+{
+"k": "9210",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[impatient] {angrya}Tell us what she stole from you."
+},
+{
+"k": "9211",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[to Bigby] {outragea} [cut] Are you really just going to let him blather on like that?"
+},
+{
+"k": "9212",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "That's where I gotta draw the line."
+},
+{
+"k": "9213",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You're not a bad guy, I believe Beauty on that one, but I can't give you that information."
+},
+{
+"k": "9214",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "But I just can't give you that information."
+},
+{
+"k": "9215",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[cut] This is just gossip! You think that's going to help you find Snow White's killer?"
+},
+{
+"k": "9216",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Why are you going so easy on him?"
+},
+{
+"k": "9217",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You know he's involved, anyone can see that."
+},
+{
+"k": "9218",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}[cut]Or what? You'll give me a glass of brandy?"
+},
+{
+"k": "9219",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] Fuck you all."
+},
+{
+"k": "9220",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Immensely."
+},
+{
+"k": "9221",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{Body-SitCuffed}[angry] I didn't want shit from that little thief."
+},
+{
+"k": "9222",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[muttering] {frustrateda}More trouble than she's worth."
+},
+{
+"k": "9223",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] Not getting paid enough."
+},
+{
+"k": "9224",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] {defensivea}You think I got anything worth stealin'?"
+},
+{
+"k": "9225",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{worrieda}{Body-SitCuffed}[angry] I don't know. {frustrateda}It was just some dumb thing my boss was after."
+},
+{
+"k": "9226",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{confuseda}{Body-SitCuffed}[angry] You think you're so fuckin' slick."
+},
+{
+"k": "9227",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}[angry] She didn't take anything of mine."
+},
+{
+"k": "9228",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{worrieda}[angry] She stole from my boss."
+},
+{
+"k": "9229",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{doubtfula}She didn't?"
+},
+{
+"k": "9230",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "What did she steal from you?"
+},
+{
+"k": "9231",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{alias 357209683} {Body-SitCuffed}[angry] She didn't steal anything from me, jackass. It was from my boss."
+},
+{
+"k": "9232",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry]"
+},
+{
+"k": "9233",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] Untie me, and see how much trouble I am!"
+},
+{
+"k": "9234",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}{Body-SitCuffed}[angry] Oh yeah?"
+},
+{
+"k": "9235",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}I could say the same about you."
+},
+{
+"k": "9236",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angryb}[angry] That's enough!"
+},
+{
+"k": "9237",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You should have more respect for the dead."
+},
+{
+"k": "9238",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Well what is it she stole from you then?"
+},
+{
+"k": "9239",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "It's the fuckin' truth!"
+},
+{
+"k": "9240",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "You're one to talk."
+},
+{
+"k": "9241",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}Well, are you going to tell us what she stole from you, {angrya}or is that some big secret as well?"
+},
+{
+"k": "9242",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}You don't call the shots here, Dee."
+},
+{
+"k": "9243",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{angrya}Sounds like you have more to say."
+},
+{
+"k": "9244",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{annoyeda}We already knew that."
+},
+{
+"k": "9245",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{cockya} [cut] Interesting."
+},
+{
+"k": "9246",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "And you think I'm to blame?\n."
+},
+{
+"k": "9247",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[cut]She deserved better!"
+},
+{
+"k": "9248",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}[angry, bitter] {AngryA}Glad you enjoy my company. Can't say the feeling's mutual."
+},
+{
+"k": "9249",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}{HappyA}[angry, a little punch drunk] What? Party's over already?"
+},
+{
+"k": "9250",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{AngryA}Come on."
+},
+{
+"k": "9251",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{NormalA}You're free to go."
+},
+{
+"k": "9252",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{WorriedA}We need to let him go."
+},
+{
+"k": "9253",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "I'll take over from here."
+},
+{
+"k": "9254",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Don't forget who is in charge here."
+},
+{
+"k": "9255",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Look what you've done."
+},
+{
+"k": "9256",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] They don't. They're custum made, so keep your paws off!"
+},
+{
+"k": "9257",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{normala}I'm not trying to make things difficult for you. {worrieda}I just need you to cooperate."
+},
+{
+"k": "9258",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkinga}Once you've answered my questions, I'll let you go."
+},
+{
+"k": "9259",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] You were supposed to wait for us to get back!"
+},
+{
+"k": "9260",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Violence is inevitable."
+},
+{
+"k": "9261",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Well that's life, ain't it."
+},
+{
+"k": "9262",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Sounds like a personal problem."
+},
+{
+"k": "9263",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{CockyA}Not to worry. I can take over from here."
+},
+{
+"k": "9264",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[cut]You must be joking."
+},
+{
+"k": "9265",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Don't put this on me!"
+},
+{
+"k": "9266",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{thinkingb}Snow was murdered, Dee."
+},
+{
+"k": "9267",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "[angry] No violence."
+},
+{
+"k": "9268",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "Especially with the Big Bad Wolf running the show."
+},
+{
+"k": "9269",
+"who": "DEE",
+"ctx": "Fables102/env_fabletown_woodlandscell",
+"en": "{Body-SitCuffed}Sounds like a personal problem."
+}
+]

@@ -1,0 +1,1766 @@
+[
+{
+"k": "32107",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Or rip out someone's throat in a back alley..."
+},
+{
+"k": "32108",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Do you understand?"
+},
+{
+"k": "32109",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I thought you had my back."
+},
+{
+"k": "32110",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I said I was sorry."
+},
+{
+"k": "32111",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I said I was sorry. Okay?"
+},
+{
+"k": "32112",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm sorry. Okay?"
+},
+{
+"k": "32113",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[annoyed] I thought you had my back, Snow."
+},
+{
+"k": "32114",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'd like to see them try."
+},
+{
+"k": "32115",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm out of here."
+},
+{
+"k": "32116",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Bigby! You can't just walk away from this!"
+},
+{
+"k": "32117",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We'll talk about this later."
+},
+{
+"k": "32118",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Sorry everyone."
+},
+{
+"k": "32119",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You can go home."
+},
+{
+"k": "32120",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm sorry, um..."
+},
+{
+"k": "32121",
+"who": "NERISSA",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AnnoyedA}\tNerissa! My name is Nerissa!"
+},
+{
+"k": "32122",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I don't think I know your..."
+},
+{
+"k": "32123",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingA}\tNerissa, you heard him? You witnessed this?"
+},
+{
+"k": "32124",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\t[Finally; let's move on]Good enough for me."
+},
+{
+"k": "32125",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{WorriedA}\t[what are you doing] Bigby..."
+},
+{
+"k": "32126",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[exhausted] You're going to miss me..."
+},
+{
+"k": "32127",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingA}You said you had a way to keep him from hurting people."
+},
+{
+"k": "32128",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tAlright.[beat] Do it."
+},
+{
+"k": "32129",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tHe's guilty!"
+},
+{
+"k": "32130",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\t[quietly] She saw it first hand..."
+},
+{
+"k": "32131",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "So what are we going to do with him?"
+},
+{
+"k": "32132",
+"who": "BEAST",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He's right! The Well is too quick for him."
+},
+{
+"k": "32133",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\t[cold] Me too."
+},
+{
+"k": "32134",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[you should be ashamed]Listen to yourselves!"
+},
+{
+"k": "32135",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "No! That's too fuckin' easy for a crook like that!"
+},
+{
+"k": "32136",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Throw him down the Witching Well, right? I mean, what else-"
+},
+{
+"k": "32137",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[cold; bitter] You're all rats fleeing from one sinking ship to the next."
+},
+{
+"k": "32138",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\n\t[pickup1]We don't have to become murderers."
+},
+{
+"k": "32139",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tWhat are you talking about?"
+},
+{
+"k": "32140",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Give it a rest already!"
+},
+{
+"k": "32141",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tWhat, you take two people's lives away and now you want mercy?"
+},
+{
+"k": "32142",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tYou know we can't let you go free after this."
+},
+{
+"k": "32143",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tWe can imprison him. Lock him up forever... somewhere he can never hurt anyone again."
+},
+{
+"k": "32144",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}He's guilty! I know that, but we don't have to kill anybody."
+},
+{
+"k": "32145",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "That sounds okay."
+},
+{
+"k": "32146",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[sigh]All right. It's up to you, Bigby."
+},
+{
+"k": "32147",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tWe can't let him live, it's too dangerous!"
+},
+{
+"k": "32148",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NervousA}\tMaybe she has a point! Hasn't there been enough bloodshed already?"
+},
+{
+"k": "32149",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}  \tThat makes sense to me."
+},
+{
+"k": "32150",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Fine. Let the wolf decide."
+},
+{
+"k": "32151",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NervousA}\tI don't know..."
+},
+{
+"k": "32152",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "So we're all in agreement? Bigby will determine the Crooked Man's punishment. And we'll all abide by his decision."
+},
+{
+"k": "32153",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tI don't give a shit what you do with him as long as you get him out of here!"
+},
+{
+"k": "32154",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}So I think we--[gets cut off]"
+},
+{
+"k": "32155",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tSo we get rid of him!"
+},
+{
+"k": "32156",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "What about you Bigby? What do you have to say about this?"
+},
+{
+"k": "32157",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tWe can send him away!"
+},
+{
+"k": "32158",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tEveryone! Listen up!"
+},
+{
+"k": "32159",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA} \tThat's not good enough!"
+},
+{
+"k": "32160",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tClearly we're having trouble agreeing on a suitable punishment."
+},
+{
+"k": "32161",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tJust throw him down the well!"
+},
+{
+"k": "32162",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{WorriedA}Wait!"
+},
+{
+"k": "32163",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{WorriedA}How can we be sure he won't escape?"
+},
+{
+"k": "32164",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Yes. It'll take some magic, but I can do it."
+},
+{
+"k": "32165",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Let's have him decide!"
+},
+{
+"k": "32166",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm gonna be sick."
+},
+{
+"k": "32167",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ConfusedA}\tUgh!"
+},
+{
+"k": "32168",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{SadB}\tOh my God!"
+},
+{
+"k": "32169",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[getting pushed]Oof!"
+},
+{
+"k": "32170",
+"who": "DIRL",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And he is silent (presumably dead from the impact)"
+},
+{
+"k": "32171",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Wait, Georgie killed them?"
+},
+{
+"k": "32172",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Do I have to explain the situation to you again?"
+},
+{
+"k": "32173",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AnnoyedA} Wait a minute. So you're saying Georgie's the motherfucker who killed my sister?"
+},
+{
+"k": "32174",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[casual]Justice has already been dispatched.[beat] Bigby executed him."
+},
+{
+"k": "32175",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA} [forceful]That doesn't change anything."
+},
+{
+"k": "32176",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "So you see, the culprit has been punished. There's no need for this--[gets cut off]"
+},
+{
+"k": "32177",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He wasn't behind it."
+},
+{
+"k": "32178",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I killed him."
+},
+{
+"k": "32179",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "So that's the end of it."
+},
+{
+"k": "32180",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{DoubtfulA} Georgie was a victim of this psycho, too."
+},
+{
+"k": "32181",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[stern]Don't worry about it. It's done."
+},
+{
+"k": "32182",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingB}\tHe's dead."
+},
+{
+"k": "32183",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And that's all you need to know."
+},
+{
+"k": "32184",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You still have a lot to answer for. And I-"
+},
+{
+"k": "32185",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Now, if you would like to say-"
+},
+{
+"k": "32186",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{angrya}\tThe Crooked Man has committed crimes against this government, and most importantly its citizens."
+},
+{
+"k": "32187",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingA}These charges, if proven, are enough to justify death, upon which your body will be committed to the Witching Well."
+},
+{
+"k": "32188",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingC}\tAnd I won't rob you of that right."
+},
+{
+"k": "32189",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{EvilA}\tWhere it fuckin' belongs!"
+},
+{
+"k": "32190",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tThat's right."
+},
+{
+"k": "32191",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tSo let's get on with it then!"
+},
+{
+"k": "32192",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tWhat the fuck?"
+},
+{
+"k": "32193",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingB}No more snap judgments. No more secrets. We are going to treat everyone fairly. {NormalB}[beat] Even when they don't deserve it."
+},
+{
+"k": "32194",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingA}This is about justice. If we're ever going to pull ourselves together and make something of this town, we have to start doing things correctly."
+},
+{
+"k": "32195",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{WorriedA}\tWhat?"
+},
+{
+"k": "32196",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tYou're really going to let him talk?"
+},
+{
+"k": "32197",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{WorriedA}\tThe wolf offered me the job..."
+},
+{
+"k": "32198",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Ugh, What the fuck?"
+},
+{
+"k": "32199",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Stop it!"
+},
+{
+"k": "32200",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You ripped him apart!"
+},
+{
+"k": "32201",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I didn't think you had it in you, Bigby."
+},
+{
+"k": "32202",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Maybe not..."
+},
+{
+"k": "32203",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[thinking]Maybe it's not justice-"
+},
+{
+"k": "32204",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You think!"
+},
+{
+"k": "32205",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We can't just move on!"
+},
+{
+"k": "32206",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]You're losing control!"
+},
+{
+"k": "32207",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Jesus, Bigby, this is the second time you've done this. You killed another Fable! Just last night."
+},
+{
+"k": "32208",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "They were there to retrieve Crane. You didn't need to escalate things."
+},
+{
+"k": "32209",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "It was self defense!"
+},
+{
+"k": "32210",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I made a mistake!"
+},
+{
+"k": "32211",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "It's the job!"
+},
+{
+"k": "32212",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "For fuck's sake, it was self-defense! They would've killed me!"
+},
+{
+"k": "32213",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "So don't hide behind \"self-defense\"."
+},
+{
+"k": "32214",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You didn't have to kill him, but you did."
+},
+{
+"k": "32215",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Of course not!"
+},
+{
+"k": "32216",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "But we both know you could've taken them down without killing Dum in the process."
+},
+{
+"k": "32217",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Well at least you admit it!"
+},
+{
+"k": "32218",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I made a mistake, okay!"
+},
+{
+"k": "32219",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You're gonna have to learn to accept that."
+},
+{
+"k": "32220",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "It's part of the job, Snow!"
+},
+{
+"k": "32221",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You can't hide behind your job description anymore, Sheriff."
+},
+{
+"k": "32222",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "It is not part of the job!"
+},
+{
+"k": "32223",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You made a conscious decision that night."
+},
+{
+"k": "32224",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You could have easily taken them down without killing Dum in the process, and you know it."
+},
+{
+"k": "32225",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]And this isn't the first time you've stepped out of line."
+},
+{
+"k": "32226",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "What about how you abused Dee in the basement?"
+},
+{
+"k": "32227",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "What about how you abused the Woodsman in the basement?"
+},
+{
+"k": "32228",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You got in a fist fight with Bluebeard! [beat] Over what?"
+},
+{
+"k": "32229",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[not again]We've been over this."
+},
+{
+"k": "32230",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I told you I was doing my job. If you're not okay with that-"
+},
+{
+"k": "32231",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Of course I'm not okay with that!"
+},
+{
+"k": "32232",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I told you I thought you were dead and I was trying to-"
+},
+{
+"k": "32233",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And I told you that doesn't excuse your behavior!"
+},
+{
+"k": "32234",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Your job is to keep Fabletown safe."
+},
+{
+"k": "32235",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "It got out of hand. That's it."
+},
+{
+"k": "32236",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Things can't \"get out of hand\" anymore, Sheriff."
+},
+{
+"k": "32237",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And you didn't have anything to say for yourself then either!"
+},
+{
+"k": "32238",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "The minute you start abusing your position by attacking people, we betray the trust of this community."
+},
+{
+"k": "32239",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[listing]Getting in fist fights during your investigation..."
+},
+{
+"k": "32240",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[listing]Tearing up bars..."
+},
+{
+"k": "32241",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Ripping Gren's arm off..."
+},
+{
+"k": "32242",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[listing]And killing the Crooked Man out there, on your own..."
+},
+{
+"k": "32243",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I asked you to bring him back here for a reason."
+},
+{
+"k": "32244",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "How can you be sure you didn't get it wrong?"
+},
+{
+"k": "32245",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He has a right to speak for himself in front of the community, to give his side of the story."
+},
+{
+"k": "32246",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "But we do things this way for a reason."
+},
+{
+"k": "32247",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I know what I'm doing."
+},
+{
+"k": "32248",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He would have been found guilty anyway, but we'd be sure."
+},
+{
+"k": "32249",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Then don't watch."
+},
+{
+"k": "32250",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We can't keep doing things your way, because the second we make a mistake about someone... [an innocent person dies]"
+},
+{
+"k": "32251",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I won't watch you become a murderer."
+},
+{
+"k": "32252",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[cold]I know what I'm doing."
+},
+{
+"k": "32253",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Then don't. Just keep your nose clean, and pretend it never happened. I don't care."
+},
+{
+"k": "32254",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm not gonna change the way I do things."
+},
+{
+"k": "32255",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm not a murderer."
+},
+{
+"k": "32256",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He had a right to speak for himself in front of the community, to give his side of the story."
+},
+{
+"k": "32257",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[genuine]I'm not a murderer."
+},
+{
+"k": "32258",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He was dangerous!"
+},
+{
+"k": "32259",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Without that..."
+},
+{
+"k": "32260",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I handled it!"
+},
+{
+"k": "32261",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "The Crooked Man was dangerous! I couldn't risk bringing him back here."
+},
+{
+"k": "32262",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Just let me do my job!"
+},
+{
+"k": "32263",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I handled it. Crooked Man was guilty and I took care of him."
+},
+{
+"k": "32264",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Just- Give us a minute."
+},
+{
+"k": "32265",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]Listen..."
+},
+{
+"k": "32266",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Maybe you were right this time, about the Crooked Man, but what happens when you're wrong?"
+},
+{
+"k": "32267",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "In this instance... Crooked Man was guilty. We had enough evidence to convict him, and he would have ended up down the Witching Well anyway."
+},
+{
+"k": "32268",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "What happens when you're wrong?"
+},
+{
+"k": "32269",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I think we'd all like to know."
+},
+{
+"k": "32270",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Enlighten us, Bigby."
+},
+{
+"k": "32271",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[sarcastic]Well isn't that just great!"
+},
+{
+"k": "32272",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "\"Because you could\"... fantastic fuckin' reason, Sheriff."
+},
+{
+"k": "32273",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "It looks like you're having some trouble reigning in your Sheriff, Miss White."
+},
+{
+"k": "32274",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[sarcastic]Oh, that's real nice."
+},
+{
+"k": "32275",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You really have nothin' to say?"
+},
+{
+"k": "32276",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[worried]Is this what we can expect from now on?"
+},
+{
+"k": "32277",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I don't know how I feel about this..."
+},
+{
+"k": "32278",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]The Business Office has a history of treating the rest of us like shit."
+},
+{
+"k": "32279",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]They do what they want to us, then sweep it all under the rug so it's nice and tidy."
+},
+{
+"k": "32280",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]You know it's the truth."
+},
+{
+"k": "32281",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]Maybe you've been too busy cultivating your riches, dear, but this is how it's always been."
+},
+{
+"k": "32282",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[annoyed]More of the same, really."
+},
+{
+"k": "32283",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I take responsibility."
+},
+{
+"k": "32284",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You ruined my life for no reason at all!"
+},
+{
+"k": "32285",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[to the crowd]These two showed up at my apartment looking for Crane!"
+},
+{
+"k": "32286",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[projecting; angry]Do any of you know what they did?"
+},
+{
+"k": "32287",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "All right. If you're so transparent."
+},
+{
+"k": "32288",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I told them that without it, I would have nothing. I'd be ruined."
+},
+{
+"k": "32289",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And do you know what they did?"
+},
+{
+"k": "32290",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I had one precious thing left in this world. A tree that I used to make my living."
+},
+{
+"k": "32291",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You tried to ruin my life! For no reason at all."
+},
+{
+"k": "32292",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And I'm sure Bigby does too."
+},
+{
+"k": "32293",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "This government is failing, Miss White."
+},
+{
+"k": "32294",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "While that's all very touching, I think the lady has a point."
+},
+{
+"k": "32295",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You insist on ruining people's livelihoods for the sake of justice..."
+},
+{
+"k": "32296",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Is this really working?"
+},
+{
+"k": "32297",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You can apologize all you want, but at the end of the day..."
+},
+{
+"k": "32298",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Things need to change."
+},
+{
+"k": "32299",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "How many of you have been disappointed by your government?"
+},
+{
+"k": "32300",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm not gonna lie, I didn't appreciate gettin' my fuckin' arm ripped off."
+},
+{
+"k": "32301",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I'm not gonna lie, I didn't appreciate"
+},
+{
+"k": "32302",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Look, I know Bigby's been an ass lately, but I don't hold anything against him."
+},
+{
+"k": "32303",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Shit, if Snow wasn't around, who knows what kind of trouble he'd get into."
+},
+{
+"k": "32304",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "When Bigby fucked up my bar, she offered to have everything replaced."
+},
+{
+"k": "32305",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Look, I know Bigby can be a real pain in the ass, but Snow's all right."
+},
+{
+"k": "32306",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "He's tryin'. They both are. It's just takin' a little time."
+},
+{
+"k": "32307",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "To be honest, anything is better than Crane at this point."
+},
+{
+"k": "32308",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "There was really no need to rough me up as much as you did."
+},
+{
+"k": "32309",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Well they never did anything about my shop."
+},
+{
+"k": "32310",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Crooked Man took over my store, and I never got any help from you guys until you needed information from me."
+},
+{
+"k": "32311",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Crooked Man screwed me over and then this asshole just came by to make it worse!"
+},
+{
+"k": "32312",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "But Bigby tried to make up for it."
+},
+{
+"k": "32313",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We were struggling to pay our bills, and we tried to get some help from the Business Office..."
+},
+{
+"k": "32314",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Can you really blame Snow?"
+},
+{
+"k": "32315",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And that was all when Crane was in charge, so..."
+},
+{
+"k": "32316",
+"who": "BEAST",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "They turned us away. Said it wasn't their concern."
+},
+{
+"k": "32317",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "But Crane was still in charge at the time, so..."
+},
+{
+"k": "32318",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Do you really think she'll be any better than Crane was?"
+},
+{
+"k": "32319",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We haven't given her a chance."
+},
+{
+"k": "32320",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We're tired of being treated like we're nothing."
+},
+{
+"k": "32321",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You only cared because you thought it was Snow White."
+},
+{
+"k": "32322",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Look at what happened with Lily, you never bothered to look for her."
+},
+{
+"k": "32323",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Yeah... waiting in line for hours just to be told to go fuck ourselves."
+},
+{
+"k": "32324",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "No-"
+},
+{
+"k": "32325",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Well he's obviously not following any of it!"
+},
+{
+"k": "32326",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Please, I'll take care of this!"
+},
+{
+"k": "32327",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Are we even protected anymore? If we're throwing out the charter-"
+},
+{
+"k": "32328",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "How do you plan to do that, Miss White?"
+},
+{
+"k": "32329",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We are not throwing out the charter."
+},
+{
+"k": "32330",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Bigby is a strong-willed individual, it's something I've grown to respect about him..."
+},
+{
+"k": "32331",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Bigby does whatever the hell he wants, we all know that."
+},
+{
+"k": "32332",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Leave Snow alone!"
+},
+{
+"k": "32333",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "This isn't just about you anymore."
+},
+{
+"k": "32334",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Everyone, just leave Snow alone! This isn't her fault."
+},
+{
+"k": "32335",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "If she can't do that then maybe we should reconsider the pecking order."
+},
+{
+"k": "32336",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You're mad at me! Not her!"
+},
+{
+"k": "32337",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "If Snow is going to be in charge, then she should be able to keep her employees in line."
+},
+{
+"k": "32338",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We are done with this discussion."
+},
+{
+"k": "32339",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Why? Because you say so?"
+},
+{
+"k": "32340",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "This is getting out of hand."
+},
+{
+"k": "32341",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Everyone just calm down!"
+},
+{
+"k": "32342",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "These are legitimate concerns."
+},
+{
+"k": "32343",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Maybe you aren't fit for this positon."
+},
+{
+"k": "32344",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "What have they really done for you?"
+},
+{
+"k": "32345",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[thinking]Yeah... but they only gave a shit because they thought it was Snow White."
+},
+{
+"k": "32346",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "They found my sister..."
+},
+{
+"k": "32347",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Look, maybe you had a bad experience, and I agree that was a pretty shitty thing to do..."
+},
+{
+"k": "32348",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[flat]That was pretty shitty of you."
+},
+{
+"k": "32349",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We came to the Business Office for help ages ago, and were turned away..."
+},
+{
+"k": "32350",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We'll do better."
+},
+{
+"k": "32351",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We're all you've got."
+},
+{
+"k": "32352",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Fuck this, I'm leaving."
+},
+{
+"k": "32353",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Look, we're trying to help you. Crooked Man was a threat to your safety... that was the top priority."
+},
+{
+"k": "32354",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[a little hurt]Do you really believe that?"
+},
+{
+"k": "32355",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Don't you think that trumps your problems?"
+},
+{
+"k": "32356",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "The investigation was our top priority. Crooked Man was putting all of you in danger."
+},
+{
+"k": "32357",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And Snow's been doing her best to fix the shit Crane left behind."
+},
+{
+"k": "32358",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "If you can't see that-"
+},
+{
+"k": "32359",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "While that's all very touching... is it enough?"
+},
+{
+"k": "32360",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "We should give them a chance. See what they can do without Crane."
+},
+{
+"k": "32361",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "How can we know that? You haven't really proven that so far."
+},
+{
+"k": "32362",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Yes, we'll do better."
+},
+{
+"k": "32363",
+"who": "BEAST",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AnnoyedB} How could you?"
+},
+{
+"k": "32364",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryB} She was my sister!"
+},
+{
+"k": "32365",
+"who": "BEAUTY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryA}\tWhat do you have to say for yourself? Those poor girls!"
+},
+{
+"k": "32366",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "You're a fuckin' liar!"
+},
+{
+"k": "32367",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryB}\tGive me a break. You're so full of shit!"
+},
+{
+"k": "32368",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{ThinkingA}\tYes, because she was helping Crane and the Crooked Man! {WorriedA} Would you all rather have that continue?"
+},
+{
+"k": "32369",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Don't blame Snow. She had her reasons."
+},
+{
+"k": "32370",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "None of this matters! We're not here to talk about us."
+},
+{
+"k": "32371",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Wow."
+},
+{
+"k": "32372",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{AngryB}\t[angry]Oh, we're not?"
+},
+{
+"k": "32373",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tThis is important and I'm glad it's being talked about!"
+},
+{
+"k": "32374",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{FlusteredA}\tYou know why I asked him to destroy your tree. You were working with Crane and the Crooked Man."
+},
+{
+"k": "32375",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "{NormalA}\tBigby just means tha--[gets cut off]"
+},
+{
+"k": "32376",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "While I'm sure everyone appreciates the sentiment, Miss White... it doesn't disguise the fact that these accusations are completely unfounded."
+},
+{
+"k": "32377",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "All you have is the assumption that Georgie was acting on my behalf."
+},
+{
+"k": "32378",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Bloody Mary just attacked me!"
+},
+{
+"k": "32379",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Again, I can't be held responsible for the actions of a few bad apples. Bloody Mary was a loose cannon, I'll admit, who is thankfully no longer with us."
+},
+{
+"k": "32380",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Can you really blame me, Bigby?"
+},
+{
+"k": "32381",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[seething] That's complete bullshit and you know it."
+},
+{
+"k": "32382",
+"who": "",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Bluebeard did that!"
+},
+{
+"k": "32383",
+"who": "BIGBY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "That was Bluebeard! Not me."
+},
+{
+"k": "32384",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Nice to see you're still the same old bastard you always were."
+},
+{
+"k": "32385",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Do you think this is working?"
+},
+{
+"k": "32386",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I know you're tryin' to do what's right. You just get a little turned around sometimes."
+},
+{
+"k": "32387",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "No... I don't think that's true."
+},
+{
+"k": "32388",
+"who": "GREN",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]They only bother with us if there's something they need."
+},
+{
+"k": "32389",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "They cared about Lily. Even if they came around a little too late."
+},
+{
+"k": "32390",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I know you cared about Lily. Even if it was a little too late."
+},
+{
+"k": "32391",
+"who": "HOLLY",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I can't speak for the Sheriff, but if Snow's in charge I'm not too worried. She'll look out for us."
+},
+{
+"k": "32392",
+"who": "SNOW",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Thank you, Holly."
+},
+{
+"k": "32393",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "[angry]Well they haven't done anything for me!"
+},
+{
+"k": "32394",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "And even then, I just got pushed around by this... asshole."
+},
+{
+"k": "32395",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "At least he apologized after, but if he had just listened to me in the first place..."
+},
+{
+"k": "32396",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "If you had just listened to me in the first place..."
+},
+{
+"k": "32397",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Crooked Man would've killed me..."
+},
+{
+"k": "32398",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "I asked for help he didn't do shit!"
+},
+{
+"k": "32399",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "But when Bigby saw how much trouble I was in... he said the Business Office would protect me."
+},
+{
+"k": "32400",
+"who": "BUTCHER",
+"ctx": "Fables105/env_witchingwelltrial",
+"en": "Holly's right!"
+}
+]

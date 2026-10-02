@@ -1,0 +1,1940 @@
+[
+{
+"k": "19890",
+"who": "CROOKED MAN",
+"ctx": "Fables103/env_craneapt",
+"en": "[laughs a little to himself] Okay."
+},
+{
+"k": "19891",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[imitating Ichabod] This is Ichabod."
+},
+{
+"k": "19892",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[a bit playful] I asked first."
+},
+{
+"k": "19893",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[playful] May I ask who's calling?"
+},
+{
+"k": "19894",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[serious again] Just tell me who you are, and I'll tell you who I am."
+},
+{
+"k": "19895",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] Who the hell was that?"
+},
+{
+"k": "19896",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[speaking to Jack in the other room] All right, Jack."
+},
+{
+"k": "19897",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[trying to save it] Just to see if you needed anything. If I can be of any assistance..."
+},
+{
+"k": "19898",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Miss White sent me to check on you."
+},
+{
+"k": "19899",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[annoyed] Check on me?"
+},
+{
+"k": "19900",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Oh, Mr. Wolf. Hello."
+},
+{
+"k": "19901",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I was just leaving."
+},
+{
+"k": "19902",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "What is Mr. Horner doing up here?"
+},
+{
+"k": "19903",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Caught him snooping around."
+},
+{
+"k": "19904",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[Are you keeping tabs on me?] You gonna tell Snow?"
+},
+{
+"k": "19905",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Uh... Where are you going?"
+},
+{
+"k": "19906",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "All things considered."
+},
+{
+"k": "19907",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "In case something happens."
+},
+{
+"k": "19908",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[awkward] She simply wants to know how to reach you."
+},
+{
+"k": "19909",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "You have to understand her concern..."
+},
+{
+"k": "19910",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'll find what I need there."
+},
+{
+"k": "19911",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm going to the Trip Trap."
+},
+{
+"k": "19912",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm going to see Tweedle Dee and Dum."
+},
+{
+"k": "19913",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "You can tell her I'm going to see Tweedle Dum."
+},
+{
+"k": "19914",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Yes, Mr. Wolf. I'll let her know."
+},
+{
+"k": "19915",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[awkward; Snow told me to say this] Be careful."
+},
+{
+"k": "19916",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Okay, Jack. Let's go."
+},
+{
+"k": "19917",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "You're under arrest. [forceful] Let's go."
+},
+{
+"k": "19918",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Just... Get out of here."
+},
+{
+"k": "19919",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "You want me to arrest you instead?"
+},
+{
+"k": "19920",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Take him to Snow White. She can deal with him."
+},
+{
+"k": "19921",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Are they together? I always thought Snow would have higher standards."
+},
+{
+"k": "19922",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Did you know about this?"
+},
+{
+"k": "19923",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[angry]I told you not to touch anything."
+},
+{
+"k": "19924",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[forceful] And don't touch anything."
+},
+{
+"k": "19925",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[tense] I know. That's why I'm here."
+},
+{
+"k": "19926",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[slight sarcasm] Just trying to help the investigation."
+},
+{
+"k": "19927",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] {ThinkingA}The white deer."
+},
+{
+"k": "19928",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Hey there, Bigby."
+},
+{
+"k": "19929",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Just, uh, seeing what it looked like."
+},
+{
+"k": "19930",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Have a little faith, sheriff."
+},
+{
+"k": "19931",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Put it back."
+},
+{
+"k": "19932",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "You know it's true."
+},
+{
+"k": "19933",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Her sister's way hotter."
+},
+{
+"k": "19934",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Is that her hair?"
+},
+{
+"k": "19935",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[grossed out] Ugh."
+},
+{
+"k": "19936",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "You know what? Nevermind. I don't want to know."
+},
+{
+"k": "19937",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I guess he changed his mind about leaving."
+},
+{
+"k": "19938",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Wouldn't surprise me, really. What with the way things go around here."
+},
+{
+"k": "19939",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Where do you think he was headed? Vacation?"
+},
+{
+"k": "19940",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Have it your way."
+},
+{
+"k": "19941",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I know all the tricks."
+},
+{
+"k": "19942",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Where did you find those? I checked-"
+},
+{
+"k": "19943",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{SadA}Bluebeard burned everything."
+},
+{
+"k": "19944",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Miss White was right to worry about Bluebeard."
+},
+{
+"k": "19945",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{ShockedA}I tried to stop him, but I got here too late."
+},
+{
+"k": "19946",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "It's all ruined."
+},
+{
+"k": "19947",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}{Body-StandA}It's not your fault, Bufkin. {Body-X}I should have come here first."
+},
+{
+"k": "19948",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[grumbling] {NormalA}Didn't think Bluebeard would mess things up this badly."
+},
+{
+"k": "19949",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[muttering] {NormalA}{Body-StandA}Useless monkey."
+},
+{
+"k": "19950",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}What good are you anyway if you can't even--[trails off]"
+},
+{
+"k": "19951",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingB}{Body-X}So you stood around while Bluebeard ransacked the place, eh?"
+},
+{
+"k": "19952",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{ConfusedA}He wouldn't listen to me!"
+},
+{
+"k": "19953",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{ShockedA}Threatened to strangle me if I got too close!"
+},
+{
+"k": "19954",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalB}There was nothing I could do, honest!"
+},
+{
+"k": "19955",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{Body-StandA}{NormalA}Just... {Body-ArmsOut}{ThinkingB}fuck off,{Body-StandA} Bufkin."
+},
+{
+"k": "19956",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[angry; muttering] {ThinkingA}I was just trying to help."
+},
+{
+"k": "19957",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "It's not so hard, is it?"
+},
+{
+"k": "19958",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[hesitant] {ShockedA}Well, I didn't think you'd be this understanding."
+},
+{
+"k": "19959",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[disgruntled] {ThinkingA}{Body-StandA}Yeah, we all learned{Body-X} something tonight, didn't we?"
+},
+{
+"k": "19960",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[annoyed] {SarcasticA}Well it was nice while it lasted."
+},
+{
+"k": "19961",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingA}Fuck off."
+},
+{
+"k": "19962",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}Don't start, alright?"
+},
+{
+"k": "19963",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[slightly nervous] {ConfusedA}Well, anyway..."
+},
+{
+"k": "19964",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[tense] Not sure if there's any point looking around."
+},
+{
+"k": "19965",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Why'd he have to burn that?"
+},
+{
+"k": "19966",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[burned finger; small sound] Ah, shit."
+},
+{
+"k": "19967",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "I have no idea. I would have assumed it was some kind of costume piece. Though it is rather intricate."
+},
+{
+"k": "19968",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "[Look around]"
+},
+{
+"k": "19969",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{SadA}What now?"
+},
+{
+"k": "19970",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "All I got from the Tweedle brothers."
+},
+{
+"k": "19971",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Did the, uh, Tweedle Dum have any information about the witch?"
+},
+{
+"k": "19972",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{SadA}Did the Tweedle brothers have any information about the witch?"
+},
+{
+"k": "19973",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}{Body-Pocket}Just her name. Aunty Greenleaf. You heard of her?"
+},
+{
+"k": "19974",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{SadA}If I haven't come across her name before... {ThinkingA}she's not going to be very easy to track {NormalB}down."
+},
+{
+"k": "19975",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{DoubtfulA}How long is that gonna take?"
+},
+{
+"k": "19976",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingA}No. That's strange. I can check the books for you..."
+},
+{
+"k": "19977",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}I'll head over to the Trip Trap. Maybe I can get some information from Holly."
+},
+{
+"k": "19978",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Yes, Mr. Wolf."
+},
+{
+"k": "19979",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[sarcastic] Good luck."
+},
+{
+"k": "19980",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{Body-X}I don't know which one she is, but it's a start."
+},
+{
+"k": "19981",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{Body-StandA}{NormalA}Just this."
+},
+{
+"k": "19982",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingA}Maybe I can find more at the Tweedles' office."
+},
+{
+"k": "19983",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalB}Did you find any information about the witch at the Trip Trap?"
+},
+{
+"k": "19984",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}It's worth a try."
+},
+{
+"k": "19985",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[worried] She's going to be very disappointed."
+},
+{
+"k": "19986",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "Bluebeard just, well..."
+},
+{
+"k": "19987",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[awkward] I'd better go fill Miss White in on the circumstances."
+},
+{
+"k": "19988",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[disgusted; angry; thinking of his own feelings towards Snow] You think this is love?"
+},
+{
+"k": "19989",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[reading; surprise and anger] \"If I am unable to control myself, it is because I love you\"?!"
+},
+{
+"k": "19990",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[reading] \"Merry Christmas Mr. Crane. Sincerely, Jimmy\""
+},
+{
+"k": "19991",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] {NormalA}{Body-StandA}This hasn't been used in years."
+},
+{
+"k": "19992",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] {Body-X}{WorriedA}I forgot. He used to teach in the old days."
+},
+{
+"k": "19993",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[a little confused]Okay.."
+},
+{
+"k": "19994",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[not sure what to think] I have to find Crane."
+},
+{
+"k": "19995",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[realizing what's going on] Oh."
+},
+{
+"k": "19996",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[snapping at Jack] No. They're not."
+},
+{
+"k": "19997",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm on your side this time, buddy."
+},
+{
+"k": "19998",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Does she know?"
+},
+{
+"k": "19999",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "This is just sick. Does she know?"
+},
+{
+"k": "20000",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "This is just sick."
+},
+{
+"k": "20001",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I don't know what he wanted them for."
+},
+{
+"k": "20002",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "It's not a bar mitzvah, you're not supposed to get drunk."
+},
+{
+"k": "20003",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[bitter] Sure."
+},
+{
+"k": "20004",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "Are you working with Crane?"
+},
+{
+"k": "20005",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "Did someone send you?"
+},
+{
+"k": "20006",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}[in pain] Ah!"
+},
+{
+"k": "20007",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "That's all I've got for you."
+},
+{
+"k": "20008",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryB}Are you working for Crane?"
+},
+{
+"k": "20009",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[cold] {AngryA}And tell the truth."
+},
+{
+"k": "20010",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{FearA}No! I'm not working for anybody."
+},
+{
+"k": "20011",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Just take it easy."
+},
+{
+"k": "20012",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryB}Did somebody send you?"
+},
+{
+"k": "20013",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{FearA}No! It's just me."
+},
+{
+"k": "20014",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[not that I care] Change your mind?"
+},
+{
+"k": "20015",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[ease up] Okay."
+},
+{
+"k": "20016",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[Take it easy] Okay, fine, you know what's best."
+},
+{
+"k": "20017",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Came down from the roof."
+},
+{
+"k": "20018",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "How'd you get up here?"
+},
+{
+"k": "20019",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[grumbles] Hm."
+},
+{
+"k": "20020",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[sarcastic] Ha ha."
+},
+{
+"k": "20021",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Thanks."
+},
+{
+"k": "20022",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}See? A little empathy isn't so hard."
+},
+{
+"k": "20023",
+"who": "BUFKIN",
+"ctx": "Fables103/env_craneapt",
+"en": "[angry] {ThinkingA}Alright, you know what? Stop treating me like I crapped in your food! I was just trying to help!"
+},
+{
+"k": "20024",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[pissed] {ThinkingA}{Body-X}Sure."
+},
+{
+"k": "20025",
+"who": "CROOKED MAN",
+"ctx": "Fables103/env_craneapt",
+"en": "[bemused] Mm.[beat] Thank you, Sheriff."
+},
+{
+"k": "20026",
+"who": "CROOKED MAN",
+"ctx": "Fables103/env_craneapt",
+"en": "[calm] Have a nice evening, Sheriff."
+},
+{
+"k": "20027",
+"who": "MARY",
+"ctx": "Fables103/env_craneapt",
+"en": "[creepily singing] Craaannneee... [beat, then light laughter to herself]"
+},
+{
+"k": "20028",
+"who": "MARY",
+"ctx": "Fables103/env_craneapt",
+"en": "[a little more threatening] In the meantime... leave the light on, pal."
+},
+{
+"k": "20029",
+"who": "MARY",
+"ctx": "Fables103/env_craneapt",
+"en": "Everybody can stay upright."
+},
+{
+"k": "20030",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Fuck, Bigby, you scared the piss out of me."
+},
+{
+"k": "20031",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}It's a stipend, but you know I need the work.[beat] {HappyA}I wouldn't do it for free, right? You know me..."
+},
+{
+"k": "20032",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[a little concerned] {FearA}Are you... {NormalA}uh, are you alright?"
+},
+{
+"k": "20033",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[tired] {DoubtfulA}I'm fine, it's nothing."
+},
+{
+"k": "20034",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[tired; annoyed] {AngryA}What does it look like?"
+},
+{
+"k": "20035",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}It looks like you've had the shit kicked out you."
+},
+{
+"k": "20036",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[annoyed] {AngryA}Fuck off, Jack."
+},
+{
+"k": "20037",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Normally, y'know, I wouldn't care..."
+},
+{
+"k": "20038",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}But I think my motherly instincts are kicking in."
+},
+{
+"k": "20039",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[defeated] {NormalA}Alright, fine."
+},
+{
+"k": "20040",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Alright?"
+},
+{
+"k": "20041",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}Not like Crane's gonna use any of this stuff."
+},
+{
+"k": "20042",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[muttering] Anal retentive weirdo."
+},
+{
+"k": "20043",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{fearA}A little damp, I guess."
+},
+{
+"k": "20044",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Do you get that wet dog smell when it rains?"
+},
+{
+"k": "20045",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "Explain. Now."
+},
+{
+"k": "20046",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "Don't play dumb."
+},
+{
+"k": "20047",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "You don't... live here, do you?"
+},
+{
+"k": "20048",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "No! Christ! Eggh, no.[beat] What do you think, that I'm Crane's...[trails off]"
+},
+{
+"k": "20049",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[threatening] {AngryB}Explain yourself. Now."
+},
+{
+"k": "20050",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[nervously]Just. Be Cool, Okay?"
+},
+{
+"k": "20051",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[settle down, jackass] Easy there."
+},
+{
+"k": "20052",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Bigby, you know, there's a bit of... serendipity to us running into each other like this."
+},
+{
+"k": "20053",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "You climbing out a window is a fluke, now?"
+},
+{
+"k": "20054",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm just saying: You know things, I know things. We can help each other."
+},
+{
+"k": "20055",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Don't think for a second this excuses you from breaking in here."
+},
+{
+"k": "20056",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Aw, c'mon! I promise I won't-- [is cut off]"
+},
+{
+"k": "20057",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to the interior of the apartment]{ThinkingA}Anyone in there?"
+},
+{
+"k": "20058",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] {ThinkingA}Dammit, must've missed him."
+},
+{
+"k": "20059",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to the room] Hello?"
+},
+{
+"k": "20060",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[forceful] {AngryB}Someone in there?"
+},
+{
+"k": "20061",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[in pain]Argh..."
+},
+{
+"k": "20062",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[in some pain; medium]Ahh."
+},
+{
+"k": "20063",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] ...yep, still locked."
+},
+{
+"k": "20064",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[slick]Bigby, be cool. I'm just \"borrowing\" a few of Crane's things. He won't miss 'em qt all."
+},
+{
+"k": "20065",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[getting angry] {AngryA}Don't play dumb. {AngryB}I'm running very low on patience tonight."
+},
+{
+"k": "20066",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "He owes us a little something, don't you think?"
+},
+{
+"k": "20067",
+"who": "BIBGY",
+"ctx": "Fables103/env_craneapt",
+"en": "Jack?"
+},
+{
+"k": "20068",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}You know, I've always wondered..."
+},
+{
+"k": "20069",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Look Bigby, we can just leave and pretend this never happened. Slap on the wrist, right?"
+},
+{
+"k": "20070",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[condescendingly] I mean, don't you think... oh, I don't know... solving these murders should be your top priority?"
+},
+{
+"k": "20071",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Looks like you've got bigger problems than me. Sure I can't help?"
+},
+{
+"k": "20072",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I know things."
+},
+{
+"k": "20073",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "There's a lot going on in Fabletown you don't know about."
+},
+{
+"k": "20074",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I've got my ear to the ground."
+},
+{
+"k": "20075",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingB}What do you mean?"
+},
+{
+"k": "20076",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Somehow, I doubt it."
+},
+{
+"k": "20077",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingA}Go on. I'm listening."
+},
+{
+"k": "20078",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "People talk to me."
+},
+{
+"k": "20079",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I know the names of some \"black market\" witches!"
+},
+{
+"k": "20080",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[Expectantly] What was it you were looking for again? A witch?"
+},
+{
+"k": "20081",
+"who": "BIBGY",
+"ctx": "Fables103/env_craneapt",
+"en": "That's right."
+},
+{
+"k": "20082",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[unimpressed] {SarcasticA}How convenient."
+},
+{
+"k": "20083",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Alright.[beat] Tell me."
+},
+{
+"k": "20084",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}How about we continue this talk in a{ThinkingA} jail cell?"
+},
+{
+"k": "20085",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Sure do!"
+},
+{
+"k": "20086",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "You'd love that, wouldn't you?"
+},
+{
+"k": "20087",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "So do we have a deal, Sherrif?"
+},
+{
+"k": "20088",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "It's not like anyone would ever know. For the greater good and all, right?"
+},
+{
+"k": "20089",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{SarcasticA}I tell you about Crane's witch, and you forget you saw me here. {NormalA}One hand washes the other sort of thing."
+},
+{
+"k": "20090",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingB}Fine. You got a deal."
+},
+{
+"k": "20091",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingA}I don't make deals with thieves, Jack."
+},
+{
+"k": "20092",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "That's your deal!"
+},
+{
+"k": "20093",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[slightly nervous] {NormalA}Her name is Aunty Greenleaf."
+},
+{
+"k": "20094",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[threatening] {ThinkingA}I hope you're not lying to me, Jack."
+},
+{
+"k": "20095",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Where is she!"
+},
+{
+"k": "20096",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{DoubtfulA}How reliable is this information? You sure you have the right name?"
+},
+{
+"k": "20097",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[angry]I'm done fucking around!"
+},
+{
+"k": "20098",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Find her and you'll find Crane, right?!"
+},
+{
+"k": "20099",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}I mean, that's more than {HappyA}what you came in with."
+},
+{
+"k": "20100",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "So we're done here, right?"
+},
+{
+"k": "20101",
+"who": "BIBGY",
+"ctx": "Fables103/env_craneapt",
+"en": "Damnit."
+},
+{
+"k": "20102",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Yeah. We're done."
+},
+{
+"k": "20103",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[pleased] Pleasure doing business with you, Sherrif."
+},
+{
+"k": "20104",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I'll be sure to stay out of your way."
+},
+{
+"k": "20105",
+"who": "BIBGY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'll deal with you later."
+},
+{
+"k": "20106",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Oh yeah, sure. I was just leaving anyway."
+},
+{
+"k": "20107",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'll take that!"
+},
+{
+"k": "20108",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "[from the foyer] Bigby?"
+},
+{
+"k": "20109",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[smuggly]Just in the nick of time!"
+},
+{
+"k": "20110",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to Jack] {NormalA}Just {AngryA}keep{NormalA} your mouth shut, alright?"
+},
+{
+"k": "20111",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}We're done here."
+},
+{
+"k": "20112",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[shouting to the other room] {NormalA}We're in here, Snow!"
+},
+{
+"k": "20113",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Evening Ms. White. Bigby and I were just having a laugh."
+},
+{
+"k": "20114",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "What's he doing here?"
+},
+{
+"k": "20115",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "Jack!?"
+},
+{
+"k": "20116",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "Bigby we have to get this town under control."
+},
+{
+"k": "20117",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{DoubtfulA}Our friend Jack was caught stealing."
+},
+{
+"k": "20118",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Nope. Just Jack."
+},
+{
+"k": "20119",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "So I guess he wasn't here, then."
+},
+{
+"k": "20120",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}He's here to help. Jack had some information about Crane's witch."
+},
+{
+"k": "20121",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "But we don't have time to deal with petty burglars right now."
+},
+{
+"k": "20122",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "It's not important"
+},
+{
+"k": "20123",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "{ThinkingA}[stern] Jack..."
+},
+{
+"k": "20124",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "We have to find her."
+},
+{
+"k": "20125",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "So Crane isn't here, then?"
+},
+{
+"k": "20126",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "Where can he be?"
+},
+{
+"k": "20127",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm busy enough trying to hold this town together!"
+},
+{
+"k": "20128",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Time that we don't have."
+},
+{
+"k": "20129",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I know the name of his witch. It's Auntie Greenleaf."
+},
+{
+"k": "20130",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "Auntie Greenleaf? I'll ask Bufkin to look into it, but information on witches is trickey. It'll take time."
+},
+{
+"k": "20131",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Let me handle this. You're plate is full."
+},
+{
+"k": "20132",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "It is, but we are running out of time Bigby!"
+},
+{
+"k": "20133",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "That's obvious! Bigby, we're running out of time!"
+},
+{
+"k": "20134",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "Bigby! We're running out of time!"
+},
+{
+"k": "20135",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "Don't worry Snow, I'll find him."
+},
+{
+"k": "20136",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I have a name to go one, it's a start."
+},
+{
+"k": "20137",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "And the business office is keeping me busy."
+},
+{
+"k": "20138",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}I'll go to the Trip Trap. See about Lily's things."
+},
+{
+"k": "20139",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm going to see Tweedle Dum."
+},
+{
+"k": "20140",
+"who": "SNOW",
+"ctx": "Fables103/env_craneapt",
+"en": "Bigby... be careful."
+},
+{
+"k": "20141",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "But I don't know where she is. I swear!"
+},
+{
+"k": "20142",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to the room] {NormalA}Crane?"
+},
+{
+"k": "20143",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] {Body-Crouch}{DoubtfulA}Same brand we found in the Open Arms."
+},
+{
+"k": "20144",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself]"
+},
+{
+"k": "20145",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[muttering]Dammit."
+},
+{
+"k": "20146",
+"who": "MARY",
+"ctx": "Fables103/env_craneapt",
+"en": "In the meantime...[slightly more threatening] leave the light on, pal.[turns on a dime; sarcastically cheerful] See ya!"
+},
+{
+"k": "20147",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[small wince; minor pain]"
+},
+{
+"k": "20148",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[to himself] {DoubtfulA}If I had to guess... this shit didn't work."
+},
+{
+"k": "20149",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Like do you have to wear a poncho?"
+},
+{
+"k": "20150",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[surprised gasp] {WorriedA}Oh!"
+},
+{
+"k": "20151",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}[surprised gasp] I, uh..."
+},
+{
+"k": "20152",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm running very low on patience today."
+},
+{
+"k": "20153",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{HappyA}But, you know, some people like that sort of thing."
+},
+{
+"k": "20154",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[muttering] {WorriedA}Someone's cranky."
+},
+{
+"k": "20155",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}That isn't nothing."
+},
+{
+"k": "20156",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I was talking- [technically]"
+},
+{
+"k": "20157",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[threatening] You know what I mean."
+},
+{
+"k": "20158",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[reasoning] {NormalA}You see how he lives. {AngryA}He doesn't need any of this shit."
+},
+{
+"k": "20159",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Maybe something about a ring?"
+},
+{
+"k": "20160",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{SarcasticA}Fine. Keep your secrets."
+},
+{
+"k": "20161",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{ConcernedA}Don't you get tired of it?"
+},
+{
+"k": "20162",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}I mean, {NormalA}what are you even doing here?"
+},
+{
+"k": "20163",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Maybe if you tell me what you're doing here..."
+},
+{
+"k": "20164",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[\"Whaddaya say?\"] What do you say?"
+},
+{
+"k": "20165",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{SarcasticA}Are you just wandering around Crane's apartment?"
+},
+{
+"k": "20166",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Why'd Crane run off anyway?"
+},
+{
+"k": "20167",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "He's in some kind of trouble because of this witch?"
+},
+{
+"k": "20168",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "But I gotta know what you're looking for."
+},
+{
+"k": "20169",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Bigby, I believe you're, um, blocking the doorway there... {NormalA}If I could just, uh, squeeze through?"
+},
+{
+"k": "20170",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}If it's information you want, {SarcasticA}I'm the guy to ask."
+},
+{
+"k": "20171",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}I know things."
+},
+{
+"k": "20172",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}If you make it worth my while."
+},
+{
+"k": "20173",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{HappyA}I could be really useful to someone like you."
+},
+{
+"k": "20174",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}If you're looking for Crane's witch...[beat] {SarcasticA}well, I {NormalA}just happen to know who she is."
+},
+{
+"k": "20175",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}You're looking for Crane's witch, right?"
+},
+{
+"k": "20176",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Look, I'm not stupid."
+},
+{
+"k": "20177",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}You're looking for Crane, right?"
+},
+{
+"k": "20178",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}Word on the street says he's got a witch in the city..."
+},
+{
+"k": "20179",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Well I don't know where he is... {SarcasticA}but what if I told you I know who might know where he is?"
+},
+{
+"k": "20180",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I can tell you who she is."
+},
+{
+"k": "20181",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{SarcasticA}Look, I have some dirt on Crane you might be interested in."
+},
+{
+"k": "20182",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{HappyA}Nothin'? {SarcasticA}Nothin' going on upstairs? {NormalA}Okay, I'll just lay it out."
+},
+{
+"k": "20183",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "I doubt it."
+},
+{
+"k": "20184",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm listening."
+},
+{
+"k": "20185",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "How convenient."
+},
+{
+"k": "20186",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "How about I take you in?"
+},
+{
+"k": "20187",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I know he's got a witch in the city..."
+},
+{
+"k": "20188",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{HappyA}I can tell you who she is."
+},
+{
+"k": "20189",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Well, I happen to know who she is."
+},
+{
+"k": "20190",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}If you're interested."
+},
+{
+"k": "20191",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "Information comes at a price though."
+},
+{
+"k": "20192",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{SarcasticA}But I'm sure you already knew that."
+},
+{
+"k": "20193",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "I'm not convinced you really know what you say you do."
+},
+{
+"k": "20194",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "I got the info you need, this is an easy win."
+},
+{
+"k": "20195",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[correcting him] {HappyA}Convenient for you, sheriff."
+},
+{
+"k": "20196",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{HappyA}Let's make ourselves a deal."
+},
+{
+"k": "20197",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "Fine, deal."
+},
+{
+"k": "20198",
+"who": "",
+"ctx": "Fables103/env_craneapt",
+"en": "No deal."
+},
+{
+"k": "20199",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[nervous; \"Whaddaya say\"] {WorriedA}What do you say?"
+},
+{
+"k": "20200",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}Now tell me where I can find this witch."
+},
+{
+"k": "20201",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{HappyA}Perfect."
+},
+{
+"k": "20202",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}Give me a little credit here, man. {WorriedA}Would I do that to you?"
+},
+{
+"k": "20203",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{NormalA}For all I know you're making all this shit up just to get out of trouble."
+},
+{
+"k": "20204",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[nervous] How about this? How about I tell you, so you know I'm good for it, {normalA}then you can reconsider my offer."
+},
+{
+"k": "20205",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[getting punched in the gut] {FearA}Oof!"
+},
+{
+"k": "20206",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "{WorriedA}This isn't a fucking boxing match either!"
+},
+{
+"k": "20207",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "{AngryA}This is not{AngryB} a negotiation, Jack!"
+},
+{
+"k": "20208",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[in pain; through teeth] {AngryA}Hnngh."
+},
+{
+"k": "20209",
+"who": "BIGBY",
+"ctx": "Fables103/env_craneapt",
+"en": "[low growl/grumble] {AngryA}Hnn."
+},
+{
+"k": "20210",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[annoyed; nervous] {WorriedA}I'll tell you what I know, then you can reconsider my offer. Hmm?"
+},
+{
+"k": "20211",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[annoyed; nervous] {FearA}How about this?"
+},
+{
+"k": "20212",
+"who": "JACK",
+"ctx": "Fables103/env_craneapt",
+"en": "[adjusting his jaw; low] {AngryA}Grah!"
+}
+]

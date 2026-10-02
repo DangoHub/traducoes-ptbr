@@ -1,0 +1,1736 @@
+[
+{
+"k": "26381",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Tell me Butcher, tell me what's going on at the Pawn Shop."
+},
+{
+"k": "26382",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "You know Pawning, people pawning items."
+},
+{
+"k": "26383",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "But if you really want to get more details, you should talk Jack, he told me the manager's name is Jersey."
+},
+{
+"k": "26384",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Oh you know what?  He might be at that other place, the Lucky Pawn.  Talk to the manager there, he's really really a nice guy."
+},
+{
+"k": "26385",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I want to talk to the Crooked Man right now!"
+},
+{
+"k": "26386",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Not sure what you mean Bigby."
+},
+{
+"k": "26387",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "What work? <gulp> What kind of work?  You already have a job Bigby, <laughs nervously>"
+},
+{
+"k": "26388",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "the Illegal kind"
+},
+{
+"k": "26389",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Delivering Packages"
+},
+{
+"k": "26390",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "You know possibly the type of business that deal in the illegal shit.  The kind of business that would cause someone like me to show up."
+},
+{
+"k": "26391",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous scared> I don't know of anything illegal or laws being broken Bigby."
+},
+{
+"k": "26392",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Even illegal packages."
+},
+{
+"k": "26393",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "How about the type of busined that delivers suspicious packages."
+},
+{
+"k": "26394",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I want to be a Butcher, just like you."
+},
+{
+"k": "26395",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Heh, Bigby you surprise me you want to be a Butcher, but you already have a job."
+},
+{
+"k": "26396",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Jersey's an asshole."
+},
+{
+"k": "26397",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Give up the Magic Mirror shard!"
+},
+{
+"k": "26398",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I'm not lying Bigby, really I'm not.  I thought it would be there."
+},
+{
+"k": "26399",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<gulps>"
+},
+{
+"k": "26400",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Met him? I nearly killed him."
+},
+{
+"k": "26401",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Met him? I put the hurt on Jersey.  He wasn't cooperating."
+},
+{
+"k": "26402",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Jersey is a menace."
+},
+{
+"k": "26403",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "It's over now."
+},
+{
+"k": "26404",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "He attacked me."
+},
+{
+"k": "26405",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Yeah Beast."
+},
+{
+"k": "26406",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I just talked to Beast today, he said something suspicious was going on here."
+},
+{
+"k": "26407",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Beast told you that?  Beast?"
+},
+{
+"k": "26408",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I met Jersey.  He was one big fucking asshole."
+},
+{
+"k": "26409",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Sorry to hear that you think about him that way."
+},
+{
+"k": "26410",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I couldn't imagine what happened."
+},
+{
+"k": "26411",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Never had any issues with him."
+},
+{
+"k": "26412",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I mean he's always treated me nicely."
+},
+{
+"k": "26413",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "His type and his associates are a menace to Fabletown."
+},
+{
+"k": "26414",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Guys like him..."
+},
+{
+"k": "26415",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "They need to be..."
+},
+{
+"k": "26416",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "They need to be-"
+},
+{
+"k": "26417",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Jersey decided to attack him."
+},
+{
+"k": "26418",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "What ever I did was justified."
+},
+{
+"k": "26419",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Well I can see that the encounter affected you profoundly Bigby."
+},
+{
+"k": "26420",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "None at all Bigby."
+},
+{
+"k": "26421",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Beast comes in and delivers packages of meat and general deliveries."
+},
+{
+"k": "26422",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Suspicious packages."
+},
+{
+"k": "26423",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<begins to ramble nervously> You're the Sheriff, not sure why you would want to be cutting up meat all day long you know it can get pretty bloody and messy."
+},
+{
+"k": "26424",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<gulp>You don't want to get bloody and messy."
+},
+{
+"k": "26425",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I don't understand Bigby."
+},
+{
+"k": "26426",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I don't know, why don't you tell me."
+},
+{
+"k": "26427",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Shutting places down."
+},
+{
+"k": "26428",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Snow's new laws."
+},
+{
+"k": "26429",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "It is now."
+},
+{
+"k": "26430",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "We're shutting down any place with illegal Blackmarket magic or activities."
+},
+{
+"k": "26431",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "It's against Fabletown laws?"
+},
+{
+"k": "26432",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Snow's now in charge."
+},
+{
+"k": "26433",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic> I'm just doing my job Butcher."
+},
+{
+"k": "26434",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I understand. <beat>"
+},
+{
+"k": "26435",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<sigh> Well, you won't find anything here."
+},
+{
+"k": "26436",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "We'll I did hear that Snow is now in charge."
+},
+{
+"k": "26437",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I'm sure there will be changes."
+},
+{
+"k": "26438",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<intense>Is he here right now?"
+},
+{
+"k": "26439",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Killed."
+},
+{
+"k": "26440",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Brought to justice."
+},
+{
+"k": "26441",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "I don't know...."
+},
+{
+"k": "26442",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "His type and their associates."
+},
+{
+"k": "26443",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<gulps scarred shitless> Ah well Bigby-"
+},
+{
+"k": "26444",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Thrown down the Witching Well. [dark]Or dealt with the good old fashioned way."
+},
+{
+"k": "26445",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Apprehended and brought to justice."
+},
+{
+"k": "26446",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<sigh> Ah Well Bigby-"
+},
+{
+"k": "26447",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Apprehended."
+},
+{
+"k": "26448",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<trailing off maybe day dreamy>Thrown down the witching well."
+},
+{
+"k": "26449",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "All of them."
+},
+{
+"k": "26450",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred shitless> Would like to buy something?"
+},
+{
+"k": "26451",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Hey Bigby! How are you? Haven't seen you in a long time."
+},
+{
+"k": "26452",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Check out the deli case, super fine marbelized pieces we have here."
+},
+{
+"k": "26453",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Um, let's see... what do we have in stock..."
+},
+{
+"k": "26454",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I can order just about any kind of meat you like."
+},
+{
+"k": "26455",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "How can I help you?"
+},
+{
+"k": "26456",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Would you be interested in our fine products Bigby?"
+},
+{
+"k": "26457",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "It's a one man operation."
+},
+{
+"k": "26458",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "This is really a small butcher shop.  Now sure what type of business you're looking for Bigby."
+},
+{
+"k": "26459",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> What kind of suspicious things did he say were happening?"
+},
+{
+"k": "26460",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<laughs nervously>"
+},
+{
+"k": "26461",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Being we don't need policing of meats."
+},
+{
+"k": "26462",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Wish I could help you out Bigby."
+},
+{
+"k": "26463",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "But it's just me and my little ole Butcher Shop."
+},
+{
+"k": "26464",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "There always is."
+},
+{
+"k": "26465",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic and scared> If I would have known you were there already."
+},
+{
+"k": "26466",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic and scarred> Just knew they were looking for help."
+},
+{
+"k": "26467",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic and scarred> A new security guard.  You seem to fit that bill."
+},
+{
+"k": "26468",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic and scared> No offense please."
+},
+{
+"k": "26469",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<to self scarred> Why did you that?"
+},
+{
+"k": "26470",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<to self scarred> Holy mother"
+},
+{
+"k": "26471",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic and nervous> It's just that I heard he's"
+},
+{
+"k": "26472",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<apologetic and nervous> Thank you Bigby."
+},
+{
+"k": "26473",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<to himself> Never mind."
+},
+{
+"k": "26474",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Nevermind?"
+},
+{
+"k": "26475",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Speak your mind"
+},
+{
+"k": "26476",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Get it out!"
+},
+{
+"k": "26477",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Nevermind? What do you mean nevermind?"
+},
+{
+"k": "26478",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "You still seem to be worrying, what's going on?"
+},
+{
+"k": "26479",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[fast]Don't go anywhere Bigby, stay right here."
+},
+{
+"k": "26480",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Kick Door]"
+},
+{
+"k": "26481",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<hiding yelling> WOAH Bigby you didn't break something did you?"
+},
+{
+"k": "26482",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[calling from the far end]I'm sorry, Sheriff, but you're not supposed to be back here.  For, uh... safety purposes."
+},
+{
+"k": "26483",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<hiding yelling> Employees only area Bigby.  Please."
+},
+{
+"k": "26484",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<hiding yelling> No seriously Bigby."
+},
+{
+"k": "26485",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<hiding yelling> Don't you have something better to do like hang out at the Trip Trap?"
+},
+{
+"k": "26486",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<yelling from a hiding> I've got it go away."
+},
+{
+"k": "26487",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I've got this handled."
+},
+{
+"k": "26488",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> I gather you met him.  Didn't like him?"
+},
+{
+"k": "26489",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<hiding yelling> Don't hurt yourself, I've got it all handled back here."
+},
+{
+"k": "26490",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<whispering through door> Let me in, Bigby is here."
+},
+{
+"k": "26491",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<whispering through door> I stalled him, I did my job."
+},
+{
+"k": "26492",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<whispering through door> Dammit why me lord."
+},
+{
+"k": "26493",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Tap him on the shoulder]"
+},
+{
+"k": "26494",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Butcher Shop you say?"
+},
+{
+"k": "26495",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "I'll be the judge of that."
+},
+{
+"k": "26496",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I'll see about that."
+},
+{
+"k": "26497",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Butcher shop you say?"
+},
+{
+"k": "26498",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "What exactly are you up to Butcher?"
+},
+{
+"k": "26499",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still nervous> Selling meats Bigby."
+},
+{
+"k": "26500",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Mind if I look around?"
+},
+{
+"k": "26501",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "I hope you're not lying."
+},
+{
+"k": "26502",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "And if I find something?"
+},
+{
+"k": "26503",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "So do you mind if I take a look-"
+},
+{
+"k": "26504",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "You're telling me Butcher, that I won't find anything in this entire shop?"
+},
+{
+"k": "26505",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "And what if I do find something here?"
+},
+{
+"k": "26506",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Bigby, you won't."
+},
+{
+"k": "26507",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous and surprised> at the Meats?"
+},
+{
+"k": "26508",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous and surprised> That sounds like a great idea!"
+},
+{
+"k": "26509",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<to self scarred> I can't believe this is happening to me."
+},
+{
+"k": "26510",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<hiding yelling>  I got the meat Bigby, not a problem, just wait for me out front."
+},
+{
+"k": "26511",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Hiding something?"
+},
+{
+"k": "26512",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<terrified> BBbigby please don't kill me."
+},
+{
+"k": "26513",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<yelps> Aaaagh"
+},
+{
+"k": "26514",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Use your legs not your back.  And you are doing what??"
+},
+{
+"k": "26515",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "So Butcher, what's behind that delivery door?"
+},
+{
+"k": "26516",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Talk... or else."
+},
+{
+"k": "26517",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Slam him]"
+},
+{
+"k": "26518",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Okay calm down."
+},
+{
+"k": "26519",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still nervous, scarred, with some composure> That won't be necessary Bigby, that won't be necessary."
+},
+{
+"k": "26520",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I can kill you very easily, especially if you don't want to talk."
+},
+{
+"k": "26521",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Please don't exaggerate Butcher."
+},
+{
+"k": "26522",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still nervous, scared, with some composure> That won't be necessary Bigby, that won't be necessary."
+},
+{
+"k": "26523",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Come on Butcher, that won't happen, I won't do that."
+},
+{
+"k": "26524",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still nervous, scarred, with some composure>And and..."
+},
+{
+"k": "26525",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<whispering through door>Why me."
+},
+{
+"k": "26526",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Listen to door]"
+},
+{
+"k": "26527",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Look through Portal]"
+},
+{
+"k": "26528",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I don't know about this... I don't know..."
+},
+{
+"k": "26529",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "I'll deal with what's behind the door."
+},
+{
+"k": "26530",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "What are you hiding?"
+},
+{
+"k": "26531",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Why sneak out?"
+},
+{
+"k": "26532",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Let's have it. [deliberate]Open the door."
+},
+{
+"k": "26533",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still scarred>It was locked from the other side."
+},
+{
+"k": "26534",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still scarred>Truthfully I don't know.  You have to believe me."
+},
+{
+"k": "26535",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "{AngryA}What's back there?"
+},
+{
+"k": "26536",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Why were you trying to escape?"
+},
+{
+"k": "26537",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still scarred> Because you're the Big Bad Wolf and I don't know whose scarier you or the Crooked Man."
+},
+{
+"k": "26538",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still scarred> Yes I'm scarred of you, that's why I was running."
+},
+{
+"k": "26539",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still scarred> I've never been back there."
+},
+{
+"k": "26540",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<still scarred> But the door <sighs>"
+},
+{
+"k": "26541",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Who locked the door?"
+},
+{
+"k": "26542",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Deck Him]"
+},
+{
+"k": "26543",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I was just supposed to stall you."
+},
+{
+"k": "26544",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I've never been back there, like I said I just work the front."
+},
+{
+"k": "26545",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred> I dropped a carcass, I have to pull in the deliveries from the front door now.   You can see this door is locked."
+},
+{
+"k": "26546",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Well who locked the fucking door?"
+},
+{
+"k": "26547",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "They use my storage and delivery area."
+},
+{
+"k": "26548",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "The Crooked Man's people."
+},
+{
+"k": "26549",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I'll straight talk with you Bigby, there's no need to-"
+},
+{
+"k": "26550",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Because I'm not part of their crew, that's why Bigby."
+},
+{
+"k": "26551",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Why did they leave you?"
+},
+{
+"k": "26552",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Why is this door locked?"
+},
+{
+"k": "26553",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "They left me, I was suppose to stall you that's it, I'm straight talking with you."
+},
+{
+"k": "26554",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Shut up and get in there!"
+},
+{
+"k": "26555",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Push him in]"
+},
+{
+"k": "26556",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "I want you around for this."
+},
+{
+"k": "26557",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "The Crooked Man is going to kill us all for this."
+},
+{
+"k": "26558",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Please Bigby, let me go out the front, I don't want to look!"
+},
+{
+"k": "26559",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Oh god, oh god, is it aweful, no I don't want to look."
+},
+{
+"k": "26560",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Butcher, get the fuck in here."
+},
+{
+"k": "26561",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "You should see this Butcher, it's not bad at all."
+},
+{
+"k": "26562",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred> Oh god!"
+},
+{
+"k": "26563",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Open your eyes."
+},
+{
+"k": "26564",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred> No he'll kill me."
+},
+{
+"k": "26565",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "His assasin that worm Bloody Mary,"
+},
+{
+"k": "26566",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "that sick bastard, who squeezes us all the Jersey Devil"
+},
+{
+"k": "26567",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "and that fat glut Dum and his brother Dee."
+},
+{
+"k": "26568",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "You know,"
+},
+{
+"k": "26569",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> I don't know what they do back there and I don't want to know, I'm not allowed to know."
+},
+{
+"k": "26570",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<devasted> I'm a dead man now. Dead."
+},
+{
+"k": "26571",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "What do you know?"
+},
+{
+"k": "26572",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "What is Bloody Mary up to?"
+},
+{
+"k": "26573",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "What goes on back here?"
+},
+{
+"k": "26574",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred and sad>Nothing, I've never been back here before."
+},
+{
+"k": "26575",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Look at this place. What the hell is Bloody Mary up to here?"
+},
+{
+"k": "26576",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "You must know what's going on back here. I won't be very happy if you're holding out on me, butcher."
+},
+{
+"k": "26577",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<breathing heavily and scarred>I'm not responsible for their lives Bigby."
+},
+{
+"k": "26578",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Investigate]"
+},
+{
+"k": "26579",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Tell me Butcher what are these lists on the chalkboards?"
+},
+{
+"k": "26580",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Answer me, damnit! What the hell are these?"
+},
+{
+"k": "26581",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> I'm not fucking around Butcher, I need concise straight answers."
+},
+{
+"k": "26582",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> You have no idea how bad this can get, be very clear what you tell me."
+},
+{
+"k": "26583",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[breathing heavily, scared]A lot of Fables out there need glamours. That must be what... this is.'"
+},
+{
+"k": "26584",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<begging> Please,"
+},
+{
+"k": "26585",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> This clipboard what is it?"
+},
+{
+"k": "26586",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "No Bigby what are you doing-"
+},
+{
+"k": "26587",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "What does that icon mean?"
+},
+{
+"k": "26588",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> Butcher tell what that means now."
+},
+{
+"k": "26589",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Butcher talk to me, tell me what this is."
+},
+{
+"k": "26590",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "[menacing]Don't test me. What does this mean?"
+},
+{
+"k": "26591",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Look, we can keep this simple Butcher, just tell me what this means."
+},
+{
+"k": "26592",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> Do you want to taste scaffold again Butcher?"
+},
+{
+"k": "26593",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> Explain this to me Butcher, I know you more than you're saying."
+},
+{
+"k": "26594",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "[threatening]I'm beginning to think you like this punishment? You want more?"
+},
+{
+"k": "26595",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> Right now what is this?"
+},
+{
+"k": "26596",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "You can tell me what this is all about."
+},
+{
+"k": "26597",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Let's try talking."
+},
+{
+"k": "26598",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Please Bigby!"
+},
+{
+"k": "26599",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> Butcher! This is not a game, trouble is going to follow if you don't tell me what this means."
+},
+{
+"k": "26600",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Expressing that looking at this information means death for him."
+},
+{
+"k": "26601",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[nervous]I don't know magic, I swear. I don't know what this stuff is."
+},
+{
+"k": "26602",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[catching his breath] I bet they're making deadly spells. It's probably gonna kill me just being back here..."
+},
+{
+"k": "26603",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<breathing heavily and scarred> I only know because I dropped a package once, I figured this is what's going on."
+},
+{
+"k": "26604",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<he takes a breath> I remember one time <<id:357463095>>"
+},
+{
+"k": "26605",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<he takes a breath>That you were in trouble, in trouble again, this time with the Mundy police."
+},
+{
+"k": "26606",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<he takes a breath>Lilly orders, the ingredients for a love spell.  I remember because she was acting so erratic.  Came to the front to pick it up."
+},
+{
+"k": "26607",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<he takes a breath>Then he huffed away."
+},
+{
+"k": "26608",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[nervous]Or... maybe dangerous shit... [thinking]mind wipes... [frightened]or spells that'll kill you[anyone]."
+},
+{
+"k": "26609",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous>You see Bigby <gulps> not everyone has the Witches on the 13th floor.  Some Fables have to use other means."
+},
+{
+"k": "26610",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<he takes a breath>  Lilly came to pick it up, I remember because she was in such a hurry."
+},
+{
+"k": "26611",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<he takes a breath>Then he drove off, said her Mr. Smith was waiting for her."
+},
+{
+"k": "26612",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[deep breath]And sometimes, even the ones with money want a spell that they can't get. Not through legitimate channels, at least."
+},
+{
+"k": "26613",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Lily was a troll you know, I figured that Mr. Smith really treated her well."
+},
+{
+"k": "26614",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> I gather she was hoping to have him fall in love. Who ever that  John was."
+},
+{
+"k": "26615",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Just to keep up... and keep out of trouble."
+},
+{
+"k": "26616",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<breathing heavily>Mr. Smith needed more magic than any one witch could ever produce."
+},
+{
+"k": "26617",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<breathing heavily> That's how the Crooked Man get us all."
+},
+{
+"k": "26618",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "It's a sign of his power Bigby."
+},
+{
+"k": "26619",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> This stuff comes and goes from the Pawnshop."
+},
+{
+"k": "26620",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Your boy Beast, comes and picks the packages up."
+},
+{
+"k": "26621",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "Lilly  came to pick up a love potion, I remember because she was in such a hurry.  Had to meet her Mr. Smith."
+},
+{
+"k": "26622",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous><<id:357463105>>\tYour boy Beast, comes and picks the packages up."
+},
+{
+"k": "26623",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Like you said, he told you."
+},
+{
+"k": "26624",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[nervous]Or... maybe shit that goes through all that."
+},
+{
+"k": "26625",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> At the Pawnshop they choose only the most incredible magical items and bring them here."
+},
+{
+"k": "26626",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> It's magic."
+},
+{
+"k": "26627",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> It's not meat."
+},
+{
+"k": "26628",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I don't know what that guy Beast knows, but..."
+},
+{
+"k": "26629",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> If you haven't gone to the Pawnshop, they only choose the most incredible magical items and bring them here for processing and selling."
+},
+{
+"k": "26630",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous and scarred> You have to believe me Bigby, I only work the front desk."
+},
+{
+"k": "26631",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I hate when those packages come across my counter. It's like having a damn bomb sitting right there in front of you."
+},
+{
+"k": "26632",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "[defensive]All I see is when Bloody Mary or whoever else brings a package out from the back. And when someone comes to pick up a delivery."
+},
+{
+"k": "26633",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> It's not meat, it's magic."
+},
+{
+"k": "26634",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<to self and nervous> But Lily wanted Mr. Smith."
+},
+{
+"k": "26635",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous>Toad is desperate, he tried to sell some stuff to me.  I told him we're not a Pawnshop."
+},
+{
+"k": "26636",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous>To buy more of those glamours."
+},
+{
+"k": "26637",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous>I'm guessing but maybe it's glamour orders, lots of glamour orders."
+},
+{
+"k": "26638",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Toad came around here trying to pawn a Donkey Coat.  He said he was at the Pawnshop but you ordered him to turn it in at the Business Office."
+},
+{
+"k": "26639",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous>I swear Bigby, I kicked him out,  if you guys were interested in it, I wanted no problems."
+},
+{
+"k": "26640",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Toad came around here, cursing left and right.  He simply wanted to sell a Donkey Coat."
+},
+{
+"k": "26641",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> He's really trying to do right by you Bigby <gulp>, but you and the Business Office have put him in a bind.  A real bad bind."
+},
+{
+"k": "26642",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous> Said that if he didn't get money for glamours you'd send him to the Farm."
+},
+{
+"k": "26643",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred shitless> Wait wait, not again, please Bigby."
+},
+{
+"k": "26644",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Tell what all these vials and equipment are for?"
+},
+{
+"k": "26645",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Are you going to talk to me know Butcher?  Tell me what all this equipment is for."
+},
+{
+"k": "26646",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> If you don't talk, this can get real bad Butcher."
+},
+{
+"k": "26647",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "<threatening> Do you want me to get violent again?  Tell me what this shit is all about!"
+},
+{
+"k": "26648",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Ok we tried it the other way."
+},
+{
+"k": "26649",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred shitless>Wait, wait what are you doing?"
+},
+{
+"k": "26650",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous and scarred> I wish I knew Bigby, I wish I knew."
+},
+{
+"k": "26651",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<nervous>  But if the packages and orders on the board are being made here, that would make sense to me."
+},
+{
+"k": "26652",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "<scarred and nervous> Like I said I've never been back here before, this stuff and the board, there must be a connection Bigby."
+},
+{
+"k": "26653",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "I'm asking nicely this time, talk to me."
+},
+{
+"k": "26654",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Don't believe you"
+},
+{
+"k": "26655",
+"who": "BUTCHER",
+"ctx": "Fables104/env_butchershop",
+"en": "I've told you everything that I know, I only work the front Bigby."
+},
+{
+"k": "26656",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Run fast"
+},
+{
+"k": "26657",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Goto the Business Office"
+},
+{
+"k": "26658",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "[Lock him in the Freezer]"
+},
+{
+"k": "26659",
+"who": "BIGBY",
+"ctx": "Fables104/env_butchershop",
+"en": "Butcher, I believe you."
+},
+{
+"k": "26660",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "How do I stop him?"
+},
+{
+"k": "26661",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Help me"
+},
+{
+"k": "26662",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "I Believe you"
+},
+{
+"k": "26663",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Crane was kidnapped."
+},
+{
+"k": "26664",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "What about Crane?"
+},
+{
+"k": "26665",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Not my fucking boss."
+},
+{
+"k": "26666",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "How do you know this?"
+},
+{
+"k": "26667",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Tell me how he did it"
+},
+{
+"k": "26668",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "Some kind of magic?"
+},
+{
+"k": "26669",
+"who": "",
+"ctx": "Fables104/env_butchershop",
+"en": "We'll find a way to protect you."
+}
+]

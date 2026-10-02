@@ -1,0 +1,1370 @@
+[
+{
+"k": "11139",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[PickUp1] No, but I saw him coming out of the Trip Trap earlier…"
+},
+{
+"k": "11140",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup2][surprised] {SurpriseA}Oh… you have a key."
+},
+{
+"k": "11141",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup2][a little grossed out]{ThinkingA} {body-StandA}[cut]are you here to…?"
+},
+{
+"k": "11142",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup2][mad, low, keep the pace up]{AngryA} If you had just waited for me to explain before telling Beast…"
+},
+{
+"k": "11143",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup2][a little awkward] So now you know."
+},
+{
+"k": "11144",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup2][flat greeting]Beauty."
+},
+{
+"k": "11145",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Do you know Tweedledee?"
+},
+{
+"k": "11146",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "It's best to check everything."
+},
+{
+"k": "11147",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Don't make me break the door down."
+},
+{
+"k": "11148",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I don't know what to tell you."
+},
+{
+"k": "11149",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I'll take the blame."
+},
+{
+"k": "11150",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Get out of the way."
+},
+{
+"k": "11151",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I need to cover all my bases."
+},
+{
+"k": "11152",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Reminds me of Snow's coffin."
+},
+{
+"k": "11153",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Looks like a ritual sacrifice."
+},
+{
+"k": "11154",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Flowers mean a personal connection."
+},
+{
+"k": "11155",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Murder makes him hungry."
+},
+{
+"k": "11156",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "It's like the apple in the book."
+},
+{
+"k": "11157",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "She was eating when he attacked."
+},
+{
+"k": "11158",
+"who": "SUB",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Being silent isn't very helpful to Beauty. Her imagination will just get the better of her. She should respond in a way that doesn't freak her out too much, but gets her to rachet up the tension, even without anything to get freaked out by."
+},
+{
+"k": "11159",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Looks like a Snow costume."
+},
+{
+"k": "11160",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He likes it rough."
+},
+{
+"k": "11161",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He could be a cross-dresser."
+},
+{
+"k": "11162",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith killed Lily with a poisoned apple."
+},
+{
+"k": "11163",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith wanted a perfect Snow White fantasy."
+},
+{
+"k": "11164",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith enjoys seeing Snow in peril."
+},
+{
+"k": "11165",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "The bed matches the coffin."
+},
+{
+"k": "11166",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He's obsessed with death."
+},
+{
+"k": "11167",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He likes people helpless."
+},
+{
+"k": "11168",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith made Lily wear the same dress."
+},
+{
+"k": "11169",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith is fascinated with Snow's beauty."
+},
+{
+"k": "11170",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith could be a cross-dresser."
+},
+{
+"k": "11171",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Shit!"
+},
+{
+"k": "11172",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Stay outside."
+},
+{
+"k": "11173",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Door's open now…"
+},
+{
+"k": "11174",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Better safe than sorry."
+},
+{
+"k": "11175",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "This is where Lily was."
+},
+{
+"k": "11176",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Please?"
+},
+{
+"k": "11177",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Open it, or I'll smash it open."
+},
+{
+"k": "11178",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Mr. Smith and Lily were in this room."
+},
+{
+"k": "11179",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Because I said so."
+},
+{
+"k": "11180",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Notice anything strange?"
+},
+{
+"k": "11181",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Who rented this room?"
+},
+{
+"k": "11182",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "See anyone suspicious?"
+},
+{
+"k": "11183",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Who rented this room last?"
+},
+{
+"k": "11184",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Who is Mr. Smith?"
+},
+{
+"k": "11185",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Lily was here."
+},
+{
+"k": "11186",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Through my investigation."
+},
+{
+"k": "11187",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Anything else you can tell me?"
+},
+{
+"k": "11188",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[Continue investigation]"
+},
+{
+"k": "11189",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "You better not be hiding anything."
+},
+{
+"k": "11190",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "How do I find out who rents the room?"
+},
+{
+"k": "11191",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Watch for anyone accessing this room."
+},
+{
+"k": "11192",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Go home and stay safe."
+},
+{
+"k": "11193",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "To protect Fabletown."
+},
+{
+"k": "11194",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I need all the help I can get."
+},
+{
+"k": "11195",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "It might be important."
+},
+{
+"k": "11196",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Then I'll break it down."
+},
+{
+"k": "11197",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He made Lily wear this dress."
+},
+{
+"k": "11198",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He's fascinated by Snow's beauty."
+},
+{
+"k": "11199",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He's into fashion."
+},
+{
+"k": "11200",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He has a food fetish."
+},
+{
+"k": "11201",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He made Lily bite the apple."
+},
+{
+"k": "11202",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "He likes to see Snow in peril."
+},
+{
+"k": "11203",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}Listen, Bigby, I {ConfusedA}assume you'll be filing {NervousA}some kind of an official report {ConfusedA}or something, {SurpriseA}which is fine, {ConfusedA}it's just that, I was wondering, {SadA}if… I need to be in it?"
+},
+{
+"k": "11204",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Well, you never know."
+},
+{
+"k": "11205",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I mean {SurpriseA}it's- - it's not like Beast would {NervousA}ever see your report, {SadA}it's just…"
+},
+{
+"k": "11206",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-X}{NervousA}Do you have to mention {body-StandA}my {ThinkingA}name?"
+},
+{
+"k": "11207",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "No problem."
+},
+{
+"k": "11208",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "You want me to lie?"
+},
+{
+"k": "11209",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I'm going to tell the truth."
+},
+{
+"k": "11210",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ConfusedB}Don't worry about {ThinkingA}it. The less I have to write down, the better."
+},
+{
+"k": "11211",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SadA}Thanks. I {NervousA}appreciate it."
+},
+{
+"k": "11212",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SurpriseA}Not lie, {NervousA}just, not {ThinkingA}include my name. {ConfusedA}Just say you talked to the clerk or something."
+},
+{
+"k": "11213",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingA}You're asking me {ThinkingB}to lie?"
+},
+{
+"k": "11214",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[disappointed]{body-StandA}{SadB}You'll do what you have to. {SadA}I just want you to know that would {NervousA}help me."
+},
+{
+"k": "11215",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[disappointed]{body-StandA}{SadA}I see."
+},
+{
+"k": "11216",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingA}It's not much {MockingB}of a report if I start picking and {DoubtfulA}choosing which facts to include."
+},
+{
+"k": "11217",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}Well, here we are.  {ConfusedA}Which one was it?"
+},
+{
+"k": "11218",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}You have {ThinkingA}keys to these rooms?"
+},
+{
+"k": "11219",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ThinkingA}I thought {SuspiciousA}you had a key."
+},
+{
+"k": "11220",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingA}Not to {DoubtfulA}this one."
+},
+{
+"k": "11221",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{AngryA}Hold on, Bigby, {SuspiciousA}I can't just let you go into any {AngryA}room you want."
+},
+{
+"k": "11222",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}I mean {ConfusedA}what if someone's {SuspiciousA}in there?"
+},
+{
+"k": "11223",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SuspiciousA}You can't just go {NervousA}barging in…"
+},
+{
+"k": "11224",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}I'm investigating {MockingB}a murder, I've {NormalB}got to check out all the angles. {ThinkingA}You never know what might be {ThinkingB}significant."
+},
+{
+"k": "11225",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[dubious]{body-StandA}{SuspiciousA}Well… {NervousA}I guess."
+},
+{
+"k": "11226",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SurpriseA}No! {SuspiciousA}Don't. {ThinkingA}I'll help you, {SurpriseA}just {NervousA}don't break anything."
+},
+{
+"k": "11227",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}I could {ThinkingA}just break in the door {MockingA}if you prefer."
+},
+{
+"k": "11228",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}Fine. {ConfusedB}I don't need to {NormalA}look in there."
+},
+{
+"k": "11229",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Open {DoubtfulA}this one."
+},
+{
+"k": "11230",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}I {SuspiciousA}really don't {NervousA}think I should."
+},
+{
+"k": "11231",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[exasperated sigh]"
+},
+{
+"k": "11232",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[exasperated sigh] [resigned] {body-StandA}{SuspiciousA}{AngryA}Fine."
+},
+{
+"k": "11233",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Yep."
+},
+{
+"k": "11234",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SuspiciousA}Satisfied?"
+},
+{
+"k": "11235",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{MockingB}Nope."
+},
+{
+"k": "11236",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ConfusedA}See anything?"
+},
+{
+"k": "11237",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ConfusedA}Is this going to take a lot longer? {SuspiciousA}Remember you're not even supposed to {AngryA}be up here."
+},
+{
+"k": "11238",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "What are we looking for, exactly?"
+},
+{
+"k": "11239",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}This one."
+},
+{
+"k": "11240",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}This one {NormalA}next."
+},
+{
+"k": "11241",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[scowl]{body-StandA}{NervousA}You {ThinkingA}better be {SuspiciousA}right about this."
+},
+{
+"k": "11242",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{WorriedB}Sorry."
+},
+{
+"k": "11243",
+"who": "JOHN",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[interrupted during sex]Hey, what the fuck!"
+},
+{
+"k": "11244",
+"who": "JOHN",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[process behind closed door]I know I locked that, what the hell!"
+},
+{
+"k": "11245",
+"who": "HOOKER",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[process behind closed door]Sh, it's ok, baby. Roll over and let me give you a treat."
+},
+{
+"k": "11246",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{AngryA}Jesus Christ! {ConfusedA}You're going to get me {SuspiciousA}fired! I {SurpriseA}need {ConfusedA}this job!"
+},
+{
+"k": "11247",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Okay, I'll be careful."
+},
+{
+"k": "11248",
+"who": "",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I have to do my job."
+},
+{
+"k": "11249",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}I'll {MockingB}be careful."
+},
+{
+"k": "11250",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{WorriedA}Sorry {WorriedB}about that."
+},
+{
+"k": "11251",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Just watch it, okay?"
+},
+{
+"k": "11252",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}I have to {MockingB}do MY job. It's {ThinkingB}not always convenient for everyone, but it does {AngryA}have to be done."
+},
+{
+"k": "11253",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[to self]{body-StandA}{AngryA}Dammit."
+},
+{
+"k": "11254",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[a little annoyed at the pointless question]{body-StandA}{ThinkingA}I don't know. {SuspiciousA}What do you think?"
+},
+{
+"k": "11255",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}You get {ThinkingB}health inspectors through here {ThinkingA}very often?"
+},
+{
+"k": "11256",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[to self]{ConfusedB}Never sure why they have {ThinkingA}desks in a place {DoubtfulA}like this."
+},
+{
+"k": "11257",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}I wasn't {DoubtfulA}expecting much in here."
+},
+{
+"k": "11258",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SuspiciousA}Finding what you're looking for?"
+},
+{
+"k": "11259",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[half to Beauty, half to self]{MockingB}No, the {WorriedA}key was just to be sure {ThinkingA}I found the right {DoubtfulA}hotel. This {ThinkingB}isn't the room Lily was using."
+},
+{
+"k": "11260",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{SurpriseA}But… {ConfusedA}isn't this {ThinkingA}why you're here? {SuspiciousA}Why you have the key?"
+},
+{
+"k": "11261",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[slightly confused]{SadA}Oh."
+},
+{
+"k": "11262",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}No."
+},
+{
+"k": "11263",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}The room they met in {ThinkingB}was 207."
+},
+{
+"k": "11264",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}So, {ConfusedA}are we done now?"
+},
+{
+"k": "11265",
+"who": "JOHN",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[process heard through door][panting sex noises]"
+},
+{
+"k": "11266",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I need you to open this door for me."
+},
+{
+"k": "11267",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "I probably shouldn't do that."
+},
+{
+"k": "11268",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalB}You {DoubtfulA}have to let me in there. {AngryA}This is the room. {ThinkingB}207."
+},
+{
+"k": "11269",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SuspiciousA}But {ConfusedA}I--"
+},
+{
+"k": "11270",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[firm]{ThinkingB}This is {AngryB}the room Lily was in."
+},
+{
+"k": "11271",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[it's a statement, he's not actually asking] {DoubtfulA}Please."
+},
+{
+"k": "11272",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}207. {ThinkingB}Open this one."
+},
+{
+"k": "11273",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Well that's weird. This key is supposed to open every room in the building. But it's not working."
+},
+{
+"k": "11274",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Oh well. I don't know what to tell you."
+},
+{
+"k": "11275",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[shrieking]BIGBY NO! DON'T!"
+},
+{
+"k": "11276",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]They'll make me pay for it!"
+},
+{
+"k": "11277",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]You can't do this!"
+},
+{
+"k": "11278",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]I'll get fired AND I'll have to pay for it!"
+},
+{
+"k": "11279",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]I'll have to pay for it!"
+},
+{
+"k": "11280",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]Is it really that important?!"
+},
+{
+"k": "11281",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]Pleeease don't do this!"
+},
+{
+"k": "11282",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[alarmed]How will I explain it?"
+},
+{
+"k": "11283",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[serious]{ThinkingB}I need you to get out of {DoubtfulA}the way now."
+},
+{
+"k": "11284",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "You're not listening, I…"
+},
+{
+"k": "11285",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[cowed]I wouldn't be so sure."
+},
+{
+"k": "11286",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[firm, authoritative]{NormalA}You can tell them {DoubtfulA}I did it. {NormalB}They can't blame {ThinkingA}you if I {ThinkingB}forced my way in here."
+},
+{
+"k": "11287",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[realizing]Oh god. It is, isn't it."
+},
+{
+"k": "11288",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[spelling it out]{DoubtfulA}Look. Lily met {NormalB}a client of hers, a \"Mr Smith,\" {MockingB}her LAST client, {DoubtfulA}in this room, {ThinkingB}last night.  {WorriedA}I need to know who this guy is, and my {DoubtfulA}best lead right now is {AngryB}this door."
+},
+{
+"k": "11289",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[defused and humbled by this information]I see."
+},
+{
+"k": "11290",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ConfusedA}I could get into a {AngryA}lot of trouble."
+},
+{
+"k": "11291",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Or found out?"
+},
+{
+"k": "11292",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SuspiciousA}Seriously, {ThinkingA}what if someone found out?"
+},
+{
+"k": "11293",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{WorriedA}Whoa."
+},
+{
+"k": "11294",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}What {SurpriseA}is it?"
+},
+{
+"k": "11295",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalB}Beauty, {ThinkingB}stay in the hall."
+},
+{
+"k": "11296",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ConfusedA}What? {ThinkingA}Why? What's {NervousA}going on?"
+},
+{
+"k": "11297",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{WorriedB}Looks like we got the right room…"
+},
+{
+"k": "11298",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[sudden shock] {body-StandA}{SurpriseA}Oh!"
+},
+{
+"k": "11299",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[in shock] {body-StandA}{NervousA}Oh my {SurpriseA}god."
+},
+{
+"k": "11300",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[in shock]{SurpriseA}Is this…? {NervousA}Is this…?"
+},
+{
+"k": "11301",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}Don't {AngryA}touch anything."
+},
+{
+"k": "11302",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[knows the awful truth] {body-StandA}{NervousA}And {SurpriseA}then…"
+},
+{
+"k": "11303",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}Lily met her client here, {ThinkingA}\"Mr. Smith,\"  {ThinkingB}whoever he is."
+},
+{
+"k": "11304",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[horrified]{NervousA}I was {SurpriseA}on shift last night!"
+},
+{
+"k": "11305",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ThinkingA}Last {NervousA}night?"
+},
+{
+"k": "11306",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Yeah."
+},
+{
+"k": "11307",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Must have happened right {AngryB}here."
+},
+{
+"k": "11308",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}I mean just to think that…"
+},
+{
+"k": "11309",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{SurpriseA}…I was right downstairs, {NervousA}while…"
+},
+{
+"k": "11310",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "…the {SadB}poor girl."
+},
+{
+"k": "11311",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NervousA}…god, it's {SadA}horrible…"
+},
+{
+"k": "11312",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[upset]{SadA}I- - I don't know, {NervousA}I mean… Loud noises aren't out of the ordinary. I didn't hear anyone… {SurpriseA}screaming, or anything like {NervousA}that. But {ThinkingA}shouldn't I have?"
+},
+{
+"k": "11313",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}Did you notice {ThinkingA}anything out of the ordinary? {ThinkingB}There might have been some loud noises?"
+},
+{
+"k": "11314",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[upset]{body-StandA}{NervousA}It just {ThinkingA}seemed like a {SadA}totally normal night."
+},
+{
+"k": "11315",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{WorriedA}Do you remember {ThinkingA}who rented this room last night?"
+},
+{
+"k": "11316",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NervousA}I don't think anyone did, {ThinkingA}not last night. {SadA}Maybe they have it long term? [freaking out a little] {SuspiciousA}I don't know! {SurpriseA}How am I supposed {NervousA}to know?"
+},
+{
+"k": "11317",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}Was anyone {WorriedA}acting suspicious? {ThinkingA}Maybe moving a heavy piece of luggage, {NormalA}or, uh… He got the body out of here somehow."
+},
+{
+"k": "11318",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[horrified]Jesus Christ. {SurpriseA}No, no I didn't {SadB}see anything like that!"
+},
+{
+"k": "11319",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[upset]{SadB}How is that even {SurpriseA}possible? There's {SuspiciousA}so much blood…"
+},
+{
+"k": "11320",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}Bigby, what {SadA}kind of a person {SuspiciousA}could do something {NervousA}like this?"
+},
+{
+"k": "11321",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[surveying the room]{ThinkingA}That's exactly {ThinkingB}what I'm about to try to find out."
+},
+{
+"k": "11322",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalA}I need you to be sure {ThinkingB}no one comes in here. {DoubtfulA}This is a crime scene.  {ThinkingA}Okay?"
+},
+{
+"k": "11323",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Looks like {ThinkingA}she was lying down when {WorriedA}she was killed. Flowers {ThinkingB}were already here."
+},
+{
+"k": "11324",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ConfusedA}I think so, {NervousA}yes."
+},
+{
+"k": "11325",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Do all the rooms have these same clocks, {DoubtfulA}with the built-in cassette player?"
+},
+{
+"k": "11326",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[creeped out]{SadA}Can we {ThinkingA}not listen to it, {ConfusedA}please?"
+},
+{
+"k": "11327",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}Bigby, {SuspiciousA}this, I {NervousA}think I heard {SuspiciousA}this music. {SurpriseA}Last night. {NervousA}It was playing pretty loudly for {ConfusedA}a while, then {SadA}stopped in the middle. {ConfusedA}I didn't think twice about it at the time, {SadA}I mean, {ConfusedA}you hear all kinds of things around here and {SurpriseA}I guess I've {SadA}already gotten used to blocking them out."
+},
+{
+"k": "11328",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[calming her]{ThinkingB}No. {NormalB}There's no blood on it. {WorriedA}It must have been torn some {MockingB}other time."
+},
+{
+"k": "11329",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}Someone's been {MockingA}rough with {ThinkingA}this dress; {ThinkingB}it's torn."
+},
+{
+"k": "11330",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{NervousA}Oh no, {SurpriseA}she must {ConfusedA}have been wearing it! {AngryA}He killed her, and then {SuspiciousA}he…took it back off--"
+},
+{
+"k": "11331",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "Interesting dress."
+},
+{
+"k": "11332",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "It looks like a costume or a museum piece. You wouldn't exactly wear that out to dinner in this century."
+},
+{
+"k": "11333",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "One bite…"
+},
+{
+"k": "11334",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[dead serious] {DoubtfulA}Apparently {ThinkingB}not."
+},
+{
+"k": "11335",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{DoubtfulA}It's a Huff and Puff."
+},
+{
+"k": "11336",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[trying for a moment of levity through the stress of this situation]{NervousA}I thought {NormalA}you were the only one who smoked that crap brand."
+},
+{
+"k": "11337",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[to self] {ThinkingB}Hm. {ThinkingA}This could be {DoubtfulA}how he got the body out."
+},
+{
+"k": "11338",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}It's a book about {AngryA}Snow White. {ThinkingA}Or, about {DoubtfulA}the mundy version of her story, anyway."
+},
+{
+"k": "11339",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SuspiciousA}What is that?"
+},
+{
+"k": "11340",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[concerned] {body-StandA}{NervousA}What is {SuspiciousA}it?"
+},
+{
+"k": "11341",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}The dress in the closet {ThinkingA}is the same as the one in this picture."
+},
+{
+"k": "11342",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "You're right, it IS the same. [creeped out]So she was dressed up role-playing as Snow from the story."
+},
+{
+"k": "11343",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "That's creepy. And then he-- [killed her]"
+},
+{
+"k": "11344",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[this isn't good]Yeah."
+},
+{
+"k": "11345",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ConfusedA}The whole book is {SuspiciousA}about her?"
+},
+{
+"k": "11346",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{SuspiciousA}Oh no, {SadA}what else?"
+},
+{
+"k": "11347",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {SurpriseA}Something about the apple? {SuspiciousA}What?"
+},
+{
+"k": "11348",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[thinking] {ThinkingB}Huh."
+},
+{
+"k": "11349",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}I think the apple is {ThinkingA}part of his fantasy about {WorriedA}Snow White. That {ConfusedB}would explain the one we found on the floor."
+},
+{
+"k": "11350",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}They were {ThinkingA}acting out the thing with her stepmother {NervousA}and the apple.  Which is {SuspiciousA}really creepy when you think about it-- {SurpriseA}you know {NormalA}she almost died when--"
+},
+{
+"k": "11351",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "You know Snow almost died when--"
+},
+{
+"k": "11352",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{SadA}Uh."
+},
+{
+"k": "11353",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "That's creepy."
+},
+{
+"k": "11354",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{NervousA}But of {SuspiciousA}all the stories to pick, {NervousA}they were acting out the {ConfusedA}APPLE thing?"
+},
+{
+"k": "11355",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{AngryA}I'm getting that feeling, {AngryC}yes."
+},
+{
+"k": "11356",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ConfusedA}This guy {SurpriseA}really has a {SadA}thing about Snow, {SurpriseA}it's like, {SuspiciousA}pathological!"
+},
+{
+"k": "11357",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{SadB}[agitated]You don't {SuspiciousA}think he'd come back {ConfusedA}here…?"
+},
+{
+"k": "11358",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated] {body-StandA}{ConfusedA}Why is she in a glass coffin?"
+},
+{
+"k": "11359",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{NormalB}This is the part where she's in {WorriedA}a {NormalB}deep sleep, {ThinkingB}but they think she's dead."
+},
+{
+"k": "11360",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{body-StandA}{ConfusedA}What's it {SurpriseA}mean? Why {SuspiciousA}mark the page where she's sleeping?"
+},
+{
+"k": "11361",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[very agitated]{body-StandA}{SadA}Oh god, {ConfusedA}Bigby, {SurpriseA}this is too weird!  {SuspiciousA}Why did he mark this page?"
+},
+{
+"k": "11362",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[agitated]{body-StandA}{SurpriseA}Oh no. {SuspiciousA}What? {ConfusedA}What is it?"
+},
+{
+"k": "11363",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[short] {DoubtfulA}Hm."
+},
+{
+"k": "11364",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "{ThinkingB}I think he {ThinkingA}made up the bed to match the {DoubtfulA}coffin in the picture. Flowers, too. {ThinkingB}He'd have had Lily lie down {WorriedA}just like this.[meaning, like the picture we're looking at]"
+},
+{
+"k": "11365",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[oh no] {body-StandA}{SadA}You mean just {ConfusedA}before…"
+},
+{
+"k": "11366",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarmsupstairs",
+"en": "[grim] {WorriedA}In the story, that's when someone comes {AngryA}to kiss her. That's {AngryB}our \"Mr. {AngryC}Smith.\""
+}
+]

@@ -1,0 +1,2018 @@
+[
+{
+"k": "30230",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Care to test that theory?"
+},
+{
+"k": "30231",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[threatening]This gun holds eight rounds of specially designed silver bullets."
+},
+{
+"k": "30232",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[in pain]Shit!"
+},
+{
+"k": "30233",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[getting shot with silver; intense pain]Ah!"
+},
+{
+"k": "30234",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "But feel free to take the chance."
+},
+{
+"k": "30235",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'd advise against that."
+},
+{
+"k": "30236",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I warned you, Bigby."
+},
+{
+"k": "30237",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Now…"
+},
+{
+"k": "30238",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm running out of patience, Bigby."
+},
+{
+"k": "30239",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Don't touch me!"
+},
+{
+"k": "30240",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "[Shove him]"
+},
+{
+"k": "30241",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[annoyed]Don't touch me!"
+},
+{
+"k": "30242",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[annoyed] Fuck off!"
+},
+{
+"k": "30243",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Come now, there's no need for that."
+},
+{
+"k": "30244",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Then don't stand there like an imbecile."
+},
+{
+"k": "30245",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[stern]There's really no need for that."
+},
+{
+"k": "30246",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Enough talk."
+},
+{
+"k": "30247",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "They'll understand."
+},
+{
+"k": "30248",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "I don't care what they think of me. I have a job to do."
+},
+{
+"k": "30249",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "They can deal with it."
+},
+{
+"k": "30250",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm looking out for your best interests here."
+},
+{
+"k": "30251",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "We're not having this conversation. You're done."
+},
+{
+"k": "30252",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[slight threat]Oh, I'm sure they'll understand."
+},
+{
+"k": "30253",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "The community won't allow it."
+},
+{
+"k": "30254",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I have rights."
+},
+{
+"k": "30255",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "As much as you might want to..."
+},
+{
+"k": "30256",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You can't kill me just yet."
+},
+{
+"k": "30257",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "If you're so sure, then go ahead. Do what you have to do. You'll see… your name will inspire fear and hatred. Any friends you had left will abandon you."
+},
+{
+"k": "30258",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "You're wrong!"
+},
+{
+"k": "30259",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I want you to think about that for a moment... make sure you're right. Because things can go very wrong for you if you're mistaken."
+},
+{
+"k": "30260",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[forceful]I will have a trial."
+},
+{
+"k": "30261",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[concerned]Go back to roaming the wilderness like a feral dog? Alone."
+},
+{
+"k": "30262",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You might want to reconsider."
+},
+{
+"k": "30263",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm sure you don't want that."
+},
+{
+"k": "30264",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "It's because you know I'm right."
+},
+{
+"k": "30265",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "I know what you're doing."
+},
+{
+"k": "30266",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "That won't happen."
+},
+{
+"k": "30267",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And that little friend of yours… the pig."
+},
+{
+"k": "30268",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You'll never see Snow again."
+},
+{
+"k": "30269",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "She won't come looking for you."
+},
+{
+"k": "30270",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm just making sure you're looking at the big picture."
+},
+{
+"k": "30271",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[tense]I know what you're doing, and it won't work."
+},
+{
+"k": "30272",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[tense]That isn't going to happen."
+},
+{
+"k": "30273",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm not trying to upset you, Bigby."
+},
+{
+"k": "30274",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[in pain]Look..."
+},
+{
+"k": "30275",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[getting punched]Oof!"
+},
+{
+"k": "30276",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "So... shall we get going?"
+},
+{
+"k": "30277",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I've made my case."
+},
+{
+"k": "30278",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I think you care very much about Snow's opinion of you. And you know as well as I do that she'll be very…  unhappy if you betray her trust this way."
+},
+{
+"k": "30279",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "This is a test, Bigby."
+},
+{
+"k": "30280",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Here's what's going to happen."
+},
+{
+"k": "30281",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm not quite finished."
+},
+{
+"k": "30282",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "If I'm wrong you can kill me."
+},
+{
+"k": "30283",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "No, I think he's that stupid. He cares too much about that damn club of his. He won't skip town before going there first."
+},
+{
+"k": "30284",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[angry]You really think I'm that stupid?"
+},
+{
+"k": "30285",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "He's the man you should be concerned with... and he's probably still down at the Pudding and Pie just waiting for you to come scoop him up."
+},
+{
+"k": "30286",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I appreciate your cooperation.  In return, I'm willing to help you out."
+},
+{
+"k": "30287",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[unimpressed] Oh yeah."
+},
+{
+"k": "30288",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking]"
+},
+{
+"k": "30289",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking]You-"
+},
+{
+"k": "30290",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[final warning]Just remember, Bigby."
+},
+{
+"k": "30291",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Snow is counting on you. You wouldn't want to let her down."
+},
+{
+"k": "30292",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "My previous interactions with her have gone rather well."
+},
+{
+"k": "30293",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You know, I'm actually looking forward to seeing Miss White again."
+},
+{
+"k": "30294",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I was getting so tired of Crane."
+},
+{
+"k": "30295",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "The two of you are quite impressive, actually."
+},
+{
+"k": "30296",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Once this is all over we should talk."
+},
+{
+"k": "30297",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I have some... business opportunities I think you'd be interested in."
+},
+{
+"k": "30298",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking]You're making- ugh- a big mistake."
+},
+{
+"k": "30299",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking]Bigby-"
+},
+{
+"k": "30300",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking to death]"
+},
+{
+"k": "30301",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking on blood; final struggle]"
+},
+{
+"k": "30302",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Turn around."
+},
+{
+"k": "30303",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "You're under arrest for crimes against the Fabletown goverment and its citizens."
+},
+{
+"k": "30304",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "This is it for you."
+},
+{
+"k": "30305",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[forceful]No…"
+},
+{
+"k": "30306",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "You've said enough."
+},
+{
+"k": "30307",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "You will be given a trial in front of your peers."
+},
+{
+"k": "30308",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "And your punishment will follow."
+},
+{
+"k": "30309",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[muffled yelling; barely audible]Let me out! I demand you let me out!"
+},
+{
+"k": "30310",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[cold]Give me one good reason not to rip you apart right now."
+},
+{
+"k": "30311",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[small laugh] You're not going to kill me."
+},
+{
+"k": "30312",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Crooked Man."
+},
+{
+"k": "30313",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Hello, Bigby. You look tired."
+},
+{
+"k": "30314",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Give me your word, Bigby."
+},
+{
+"k": "30315",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "You'll get your trial."
+},
+{
+"k": "30316",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "This isn't a negotiation."
+},
+{
+"k": "30317",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "This isn't a negotiation. You don't get to make demands here."
+},
+{
+"k": "30318",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm glad we were able to come to an agreement."
+},
+{
+"k": "30319",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Now get up."
+},
+{
+"k": "30320",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[impatient]You'll get your trial, okay."
+},
+{
+"k": "30321",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "But maybe you're okay with that."
+},
+{
+"k": "30322",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Well maybe it is."
+},
+{
+"k": "30323",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You'll have no one."
+},
+{
+"k": "30324",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[getting shoved]"
+},
+{
+"k": "30325",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[threatening] Get. Up."
+},
+{
+"k": "30326",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[deep breath, composing himself]"
+},
+{
+"k": "30327",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Take me to The Pudding & Pie."
+},
+{
+"k": "30328",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Take me to The Woodlands."
+},
+{
+"k": "30329",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[threatening]Don't make this worse."
+},
+{
+"k": "30330",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[commanding]Please sit down."
+},
+{
+"k": "30331",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "If you decide to do something stupid..."
+},
+{
+"k": "30332",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[sigh] Let's assume for a moment that you really don't care what Fabletown thinks of you."
+},
+{
+"k": "30333",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[breath]"
+},
+{
+"k": "30334",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[gasping]"
+},
+{
+"k": "30335",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[gasping]You really haven't changed, have you?"
+},
+{
+"k": "30336",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Just get up."
+},
+{
+"k": "30337",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And that's what I want."
+},
+{
+"k": "30338",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[clears throat, collecting himself]"
+},
+{
+"k": "30339",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[getting shot in face by silver bullet]Agh!"
+},
+{
+"k": "30340",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "You know the phrase... I trust you as far as I can throw you."
+},
+{
+"k": "30341",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "So that's the plan?"
+},
+{
+"k": "30342",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[calm]Don't you trust me?"
+},
+{
+"k": "30343",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "We take care of the wolf first."
+},
+{
+"k": "30344",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[calm; commanding]One thing at a time, Mary."
+},
+{
+"k": "30345",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm sure we can work something out."
+},
+{
+"k": "30346",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Let me deal with Miss White."
+},
+{
+"k": "30347",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Snow's not gonna be happy... not that I'm complaining."
+},
+{
+"k": "30348",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "He's still alive isn't he?"
+},
+{
+"k": "30349",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I could've chopped him in half right there, back at the alley. I couldn've finished it then."
+},
+{
+"k": "30350",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "How many do you need?"
+},
+{
+"k": "30351",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "No. Too messy."
+},
+{
+"k": "30352",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I wasn't aiming for his heart last time."
+},
+{
+"k": "30353",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I know how to cast a bullet."
+},
+{
+"k": "30354",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I meant the axe, dear. We couldn't kill him in front of Snow. It would overcomplicate things."
+},
+{
+"k": "30355",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I used 'em all. Remember?"
+},
+{
+"k": "30356",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Patience. These things take time."
+},
+{
+"k": "30357",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Are you almost finished?"
+},
+{
+"k": "30358",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And you didn't bother to make extra before?"
+},
+{
+"k": "30359",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "If you're worried, you can go wait in the office."
+},
+{
+"k": "30360",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I can handle the wolf."
+},
+{
+"k": "30361",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Closest was JD, but he was crying on his knees before I'd even had a chance to show him my tricks. [laughs] Poor kid."
+},
+{
+"k": "30362",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Oh, I'm sure you can."
+},
+{
+"k": "30363",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Just a little art project..."
+},
+{
+"k": "30364",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[to CM]Wanna stick around?"
+},
+{
+"k": "30365",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I leave this in your capable hands."
+},
+{
+"k": "30366",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Looks like you made her mad."
+},
+{
+"k": "30367",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Just one."
+},
+{
+"k": "30368",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "That didn't work last time."
+},
+{
+"k": "30369",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[forceful] Make. Eight."
+},
+{
+"k": "30370",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "That'll take-- [longer]"
+},
+{
+"k": "30371",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Make eight."
+},
+{
+"k": "30372",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[calm]Good luck! [beat] Come get me when you're finished."
+},
+{
+"k": "30373",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[welcoming]Sheriff."
+},
+{
+"k": "30374",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I thought I heard something. Nevermind."
+},
+{
+"k": "30375",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Someone's gotta teach him."
+},
+{
+"k": "30376",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[calm; teasing]I'm sure he doesn't know any better."
+},
+{
+"k": "30377",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Nice to see you've made it here in one piece."
+},
+{
+"k": "30378",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I leave you in the capable hands of my associate."
+},
+{
+"k": "30379",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I do apologize, but I have some business to attend to."
+},
+{
+"k": "30380",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Come find me when you're finished, dear."
+},
+{
+"k": "30381",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[confident]Yes... I'm quite sure."
+},
+{
+"k": "30382",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[calm]That may be true, but I'd advise against defying your new boss. At least for the time being."
+},
+{
+"k": "30383",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[calm]This doesn't have to go this way, Sheriff."
+},
+{
+"k": "30384",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You and I... we want the same thing. And I'm willing to cooperate, but I just need a little reassurance."
+},
+{
+"k": "30385",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "That's right, so get up!"
+},
+{
+"k": "30386",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "There's no need for violence."
+},
+{
+"k": "30387",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "So tell me..."
+},
+{
+"k": "30388",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Do you plan to do what she wants?"
+},
+{
+"k": "30389",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[forceful]That's right. So get up!"
+},
+{
+"k": "30390",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Or are you entertaining some other idea?"
+},
+{
+"k": "30391",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "How do you know what Snow wants?"
+},
+{
+"k": "30392",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Listen to me, Mr. Wolf."
+},
+{
+"k": "30393",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I will be allowed to defend myself."
+},
+{
+"k": "30394",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You plan to do what she says, don't you?"
+},
+{
+"k": "30395",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I just need a little assurance here."
+},
+{
+"k": "30396",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm no murderer, Mr. Wolf."
+},
+{
+"k": "30397",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I didn't kill those women."
+},
+{
+"k": "30398",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Then what are you?"
+},
+{
+"k": "30399",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Then what are you, Crooked Man?"
+},
+{
+"k": "30400",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Maybe not."
+},
+{
+"k": "30401",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "But that doesn't mean you're off the hook."
+},
+{
+"k": "30402",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I think you know that."
+},
+{
+"k": "30403",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm a businessman. Not a killer."
+},
+{
+"k": "30404",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[slight threat]And I don't think I'm being unreasonable."
+},
+{
+"k": "30405",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[concerned]You lose Fabletown's trust, and you're finished. Your position will be handed down the next numbskull in line, and then what will you do?"
+},
+{
+"k": "30406",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You need them, Bigby. Whether you like it or not, they are the ones who keep you afloat."
+},
+{
+"k": "30407",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Fabletown won't want you."
+},
+{
+"k": "30408",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And what about Miss White?"
+},
+{
+"k": "30409",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "The Farm won't want you."
+},
+{
+"k": "30410",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "But you have to remember... a lot of them owe me their lives. They won't be very happy if you decide to get rid of me without cause."
+},
+{
+"k": "30411",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Don't forget what I've done for them. I've helped them more than you know. Can you be so sure they'll forget that?"
+},
+{
+"k": "30412",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Let me ask you an honest question..."
+},
+{
+"k": "30413",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[laughs to himself]"
+},
+{
+"k": "30414",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "I seriously doubt that."
+},
+{
+"k": "30415",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I used to think I didn't need anyone. I never wanted to ask for help. And I hated, more than anything, to be proven wrong."
+},
+{
+"k": "30416",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "But things can happen, Bigby."
+},
+{
+"k": "30417",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "What do you really care about here?"
+},
+{
+"k": "30418",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Do you really want the truth..."
+},
+{
+"k": "30419",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Or do you just want to look like the hero?"
+},
+{
+"k": "30420",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "It's about Faith."
+},
+{
+"k": "30421",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "It's about justice."
+},
+{
+"k": "30422",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "It's about Fabletown."
+},
+{
+"k": "30423",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[slight anger]I'm doing this for Faith. Because she and Lily died, and someone is going to answer for that."
+},
+{
+"k": "30424",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Where this case is concerned, I mean."
+},
+{
+"k": "30425",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "That's my job. To uphold the law."
+},
+{
+"k": "30426",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[slight anger]This is about Justice. I'm the Sheriff... I have to do what's right."
+},
+{
+"k": "30427",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[slight anger]This is about protecting Fabletown. When some asshole murders two of our people, it's my job to bring him down."
+},
+{
+"k": "30428",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "Two people were murdered."
+},
+{
+"k": "30429",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You know who murdered them."
+},
+{
+"k": "30430",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And you know who did it."
+},
+{
+"k": "30431",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Then why are you here?"
+},
+{
+"k": "30432",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You're smart. I'll admit that."
+},
+{
+"k": "30433",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Is why you're here."
+},
+{
+"k": "30434",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "So what I just don't understand..."
+},
+{
+"k": "30435",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I mean, you want to catch your killer, right?"
+},
+{
+"k": "30436",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "He's the one you're looking for."
+},
+{
+"k": "30437",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And he will skip town."
+},
+{
+"k": "30438",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "He won't skip town before going there first."
+},
+{
+"k": "30439",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "He's dead isn't he?"
+},
+{
+"k": "30440",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "My point being... the killer has been dealt with. You've won."
+},
+{
+"k": "30441",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "He's dead."
+},
+{
+"k": "30442",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Well done."
+},
+{
+"k": "30443",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I understand you have an obligation to bring me in, but you can brighten up a little."
+},
+{
+"k": "30444",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "So arrest me, if you must... but Georgie's the one you really want."
+},
+{
+"k": "30445",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking]What would - ugh- Snow think?"
+},
+{
+"k": "30446",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[choking]Don't... do this."
+},
+{
+"k": "30447",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I had nothing to do with those murders."
+},
+{
+"k": "30448",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "All I'm asking for is a chance"
+},
+{
+"k": "30449",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Because those are two very different things."
+},
+{
+"k": "30450",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Unless you're willing to let him get away with it."
+},
+{
+"k": "30451",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And no matter what Georgie claims"
+},
+{
+"k": "30452",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I had nothing to do with it."
+},
+{
+"k": "30453",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "to explain my side of the story."
+},
+{
+"k": "30454",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I don't know what kind of operation you think I'm running here, but..."
+},
+{
+"k": "30455",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Snow White won't allow it."
+},
+{
+"k": "30456",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "What will they think of you?"
+},
+{
+"k": "30457",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Face it, Sheriff."
+},
+{
+"k": "30458",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I can tell you don't believe me, so let me elaborate..."
+},
+{
+"k": "30459",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You're often reckless. And I worry you're not thinking of the... [trails off]"
+},
+{
+"k": "30460",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You have to be smart."
+},
+{
+"k": "30461",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "I do things my way."
+},
+{
+"k": "30462",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You're letting your personal connection with the case blind you to the facts."
+},
+{
+"k": "30463",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Killing me here would achieve nothing."
+},
+{
+"k": "30464",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm sure nobody wants that."
+},
+{
+"k": "30465",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I don't mean to belabor the point, but just so we're clear..."
+},
+{
+"k": "30466",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You're going to do what Miss White wants."
+},
+{
+"k": "30467",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "If you change your mind and decide to do something stupid..."
+},
+{
+"k": "30468",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "If you decide to do something stupid, like murder me..."
+},
+{
+"k": "30469",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm just looking out for your best interests here."
+},
+{
+"k": "30470",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Are we clear?"
+},
+{
+"k": "30471",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You'll be ruined..."
+},
+{
+"k": "30472",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I am a beloved member of this community. Everything you do here is going to be ruthlessly scrutinized by the public."
+},
+{
+"k": "30473",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You can hardly blame me for being cautious."
+},
+{
+"k": "30474",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I may be acting a tad overcautious, but with good reason."
+},
+{
+"k": "30475",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You may think killing me is a good idea, but I urge you to reconsider."
+},
+{
+"k": "30476",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You won't get your answers... but you will have a difficult time explaining yourself to Miss White and the rest of this miserable town."
+},
+{
+"k": "30477",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[confident]Don't worry. This won't take long."
+},
+{
+"k": "30478",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[threatening]I couldn't agree more. [beat]So let's find out who's the better hunter."
+},
+{
+"k": "30479",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Oh, come on."
+},
+{
+"k": "30480",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "You might wanna go ahead and run."
+},
+{
+"k": "30481",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Over here."
+},
+{
+"k": "30482",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[creepy laugh]"
+},
+{
+"k": "30483",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Wrong again."
+},
+{
+"k": "30484",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Is that the best you can do?"
+},
+{
+"k": "30485",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "This is just sad."
+},
+{
+"k": "30486",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "You look lost."
+},
+{
+"k": "30487",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Four."
+},
+{
+"k": "30488",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[that must hurt]Ouch."
+},
+{
+"k": "30489",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Too late."
+},
+{
+"k": "30490",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[creepy;pleased] There he is."
+},
+{
+"k": "30491",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "Behind you!"
+},
+{
+"k": "30492",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[laughing]"
+},
+{
+"k": "30493",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I've barely broken a sweat."
+},
+{
+"k": "30494",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "I know you can do better than that."
+},
+{
+"k": "30495",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "How much time do you think we have?"
+},
+{
+"k": "30496",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Enough."
+},
+{
+"k": "30497",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[you sure about that]Uh huh."
+},
+{
+"k": "30498",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Maybe we should hurry it up."
+},
+{
+"k": "30499",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[ALT]I'll meet you in a minute... after I walk old yeller here."
+},
+{
+"k": "30500",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[annoyed]Let's just sit quietly then."
+},
+{
+"k": "30501",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[annoyed] Must you do that?"
+},
+{
+"k": "30502",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[humming]"
+},
+{
+"k": "30503",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[ALT][process - spooky ghost echo]But look at you now."
+},
+{
+"k": "30504",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[getting impaled; dying]"
+},
+{
+"k": "30505",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[war cry]"
+},
+{
+"k": "30506",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[gasp]"
+},
+{
+"k": "30507",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "I already talked to Georgie. I know you ordered their deaths."
+},
+{
+"k": "30508",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Mr. Porgie is mistaken. I assure you."
+},
+{
+"k": "30509",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[I'm not buying it]There's still a lot you have to answer for."
+},
+{
+"k": "30510",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And I will... as long as you agree to my terms."
+},
+{
+"k": "30511",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "You will bring me back alive."
+},
+{
+"k": "30512",
+"who": "YOU ENTER THROUGH A BACK DOOR, AND SEE A SIMPLE OFFICE.  THAT'S WHERE YOU SEE THE DOCUMENTATION.  YOU GO DOWN A STAIRWAY INTO A LARGE, SUNKEN OPEN SPACE WITH HUGE FILE SHELVES.  THE AISLES ARE CROWDED WITH STILL MORE UNFILED PAPERWORK STACKED ON HANDTRUCKS.  YOU WALK PAST THE FILE SHELF ENDCAPS, AND SEE NAMES",
+"ctx": "Fables105/env_foundry",
+"en": "\"A-E\" \"D-J\" \"Debts & Collateral\" \n\nWhen you look at the photoboard - or when you move past it - you hear the sound of heavy machinery starting up.  You see some indicator lighting light up.\n\nWhen you enter the shelving, you walk past the names (just camera positioning.)\n\n\n\nAt one side of the room you see a mirror.  You can break it, it will alert them.  Bloody Mary gets ready for you.  Maybe, confronts you right there."
+},
+{
+"k": "30513",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[clears throat, recovering from shock]Come find me when you're finished, dear."
+},
+{
+"k": "30514",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[clears throat, recovering from shock]"
+},
+{
+"k": "30515",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[getting punched, alt]Ah!"
+},
+{
+"k": "30516",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "I'm going after Georgie."
+},
+{
+"k": "30517",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "The Pudding & Pie (Georgie)"
+},
+{
+"k": "30518",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "The Woodlands (Snow)"
+},
+{
+"k": "30519",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[shaken but recovering]Yes, well... Mary never quite finished the bullets. [beat] You saw to that."
+},
+{
+"k": "30520",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "Look..."
+},
+{
+"k": "30521",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "There's no reason for us to be at each other's throats here."
+},
+{
+"k": "30522",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[painful breathing]"
+},
+{
+"k": "30523",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[in pain; recovering]That still doesn't change the facts, Sheriff."
+},
+{
+"k": "30524",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "And we certainly have a lot to discuss."
+},
+{
+"k": "30525",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "I'm sure you have your questions."
+},
+{
+"k": "30526",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "[Attack]"
+},
+{
+"k": "30527",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Wheel"
+},
+{
+"k": "30528",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Bloody Mary and Crooked Man"
+},
+{
+"k": "30529",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Tool"
+},
+{
+"k": "30530",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup1][angry; calling out]Where are you?"
+},
+{
+"k": "30531",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup1][angry; calling out]Come out and face me!"
+},
+{
+"k": "30532",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup3][muttering]Silver?"
+},
+{
+"k": "30533",
+"who": "MARY",
+"ctx": "Fables105/env_foundry",
+"en": "[NEW ID] I assume your mother taught you how to fight proper."
+},
+{
+"k": "30534",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundry",
+"en": "[ALT] [pickup2]Ah, Bigby. [beat] I see you've made it here in one piece."
+},
+{
+"k": "30535",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]So this is where they've been sending these..."
+},
+{
+"k": "30536",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]Sick fuck..."
+},
+{
+"k": "30537",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][ALT]What are you doing here?"
+},
+{
+"k": "30538",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]Still warm..."
+},
+{
+"k": "30539",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]He's here alright."
+},
+{
+"k": "30540",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]This is the place."
+},
+{
+"k": "30541",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]Of course."
+},
+{
+"k": "30542",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself] Just like Georgie said..."
+},
+{
+"k": "30543",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundry",
+"en": "[pickup4][to himself]Hmm..."
+},
+{
+"k": "30544",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Board"
+},
+{
+"k": "30545",
+"who": "",
+"ctx": "Fables105/env_foundry",
+"en": "Work Bench"
+},
+{
+"k": "30546",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "[threatening] {ConfidentA} So... Do you want to try that again?"
+},
+{
+"k": "30547",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "[threatening] {AngryA} This gun holds six rounds of specially designed silver bullets."
+},
+{
+"k": "30548",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "[threatening] {ThinkingA} Now, I may not be the best shot... but I can guarantee that at least one bolt will meet it's mark and you'll find yourself rolling on the floor in agony. Unable to heal yourself."
+},
+{
+"k": "30549",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{ConfidentA} Without Swineheart to save you, you'll die."
+},
+{
+"k": "30550",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{AngryA} I'm running out of patience, Bigby."
+},
+{
+"k": "30551",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{SarcasticA} Care to test that theory?"
+},
+{
+"k": "30552",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{ConfusedA} Even if you did have silver bullets, I think we both know you aren't gonna shoot me."
+},
+{
+"k": "30553",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{SarcasticA} I'd advise against that."
+},
+{
+"k": "30554",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{thinkingA} Let me ask you an honest question..."
+},
+{
+"k": "30555",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{DoubtfulA} What do you really care about here?"
+},
+{
+"k": "30556",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{ConcernedA} You're often reckless. {WorriedA} And I worry you're not thinking of the-- [trails off]"
+},
+{
+"k": "30557",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{NormalA} Because those are two very different things."
+},
+{
+"k": "30558",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{ThinkingA} Do you really want the truth...?"
+},
+{
+"k": "30559",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{SarcasticA} Or do you just want to look like the hero?"
+},
+{
+"k": "30560",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{SarcasticA} Where this case is concerned, I mean."
+},
+{
+"k": "30561",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{ThinkingA} He's the man you should be concerned with... and he's probably still down at the Pudding 'N Pie just waiting for you to come scoop him up."
+},
+{
+"k": "30562",
+"who": "BIGBY",
+"ctx": "Fables105/env_foundryoffice",
+"en": "[angry] {AngryB} You really think I'm that stupid?"
+},
+{
+"k": "30563",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{NormalA} No, I think he's that stupid. He cares too much about that damn club of his. He won't skip town before going there first."
+},
+{
+"k": "30564",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{normalA} And he will skip town."
+},
+{
+"k": "30565",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_foundryoffice",
+"en": "{ConfidentA} So arrest me, if you must... but Georgie's the one you really want."
+}
+]

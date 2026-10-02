@@ -1,0 +1,23 @@
+THE WOLF AMONG US — TRADUÇÃO PT-BR (não oficial)
+=================================================
+
+Versão do jogo testada: Steam build 319083
+
+COMO INSTALAR
+1. Feche o jogo.
+2. Execute "Instalador_Traducao_PTBR_The_Wolf_Among_Us.exe".
+3. Confira se a pasta do jogo foi detectada (ou clique em "Procurar..." e
+   selecione a pasta "The Wolf Among Us", onde fica o TheWolfAmongUs.exe).
+4. Clique em "Instalar tradução" e aguarde a mensagem "Concluído!".
+5. Abra o jogo. Deixe as legendas ativadas em Opções.
+
+COMO FUNCIONA
+O instalador lê os textos do SEU jogo, aplica a tradução e grava arquivos
+NOVOS na pasta Pack (Fables_pc_PTBR_*.ttarch2 e _resourcedescriptions_500_PTBR_*.lenc).
+Nenhum arquivo original é modificado.
+
+COMO DESINSTALAR
+Execute o instalador e clique em "Desinstalar" (ou apague da pasta Pack os
+arquivos que começam com "Fables_pc_PTBR_" e "_resourcedescriptions_500_PTBR_").
+
+Se o jogo receber atualização na Steam, basta rodar o instalador de novo.

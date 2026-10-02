@@ -1,0 +1,1586 @@
+[
+{
+"k": "18493",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "You're gonna be good, right?"
+},
+{
+"k": "18494",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[impatient] He's standing isn't he? Walking around? It was just a pinch of buckshot, nothing to fret."
+},
+{
+"k": "18495",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Alright, how about concerned taxpayer. I want to make sure Crane is dealt with swiftly, and forgive me if I don't have complete faith in the current administration."
+},
+{
+"k": "18496",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Once the mirror's \"basically\" reconstituted it will, um, \"repair\" itself. Right Bufkin?"
+},
+{
+"k": "18497",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "You wanna try putting this magical jigsaw puzzle back together?[beat] It's hard, okay, just give me some time."
+},
+{
+"k": "18498",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[annoyed] You said that fifteen minutes ago."
+},
+{
+"k": "18499",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Once the pieces are put back in order, correct."
+},
+{
+"k": "18500",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "And then we can just ask it where Crane went to. It won't work until then."
+},
+{
+"k": "18501",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[mean] So, of course a dumb monkey is the best man for the job."
+},
+{
+"k": "18502",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[mean] No, it won't."
+},
+{
+"k": "18503",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Bufkin knows what he's doing."
+},
+{
+"k": "18504",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Yeah, we'll see."
+},
+{
+"k": "18505",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "We shouldn't wait for the mirror."
+},
+{
+"k": "18506",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "What can we do until then?"
+},
+{
+"k": "18507",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Don't worry, Mr. Bigby, once the mirror can talk it will take us right to him."
+},
+{
+"k": "18508",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't want to just go running off into the night without some direction."
+},
+{
+"k": "18509",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "We don't have time to wait for the mirror. Crane could be getting on a train right now."
+},
+{
+"k": "18510",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't know, really. . ."
+},
+{
+"k": "18511",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[muttered to himself] What a surprise."
+},
+{
+"k": "18512",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Where are the Tweedle brothers?"
+},
+{
+"k": "18513",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I want to talk with the Tweedle."
+},
+{
+"k": "18514",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And that's if they even know anything."
+},
+{
+"k": "18515",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I could be doing."
+},
+{
+"k": "18516",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I want to talk to the Tweedles. They must know what's going on."
+},
+{
+"k": "18517",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't know if you'll get much. Holly and Gren really tore into them. . ."
+},
+{
+"k": "18518",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "We already looked through his desk."
+},
+{
+"k": "18519",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I want to talk to a Tweedle."
+},
+{
+"k": "18520",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I want to talk with a Tweedle."
+},
+{
+"k": "18521",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Bufkin heard him."
+},
+{
+"k": "18522",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] Do you really think Crane did it?"
+},
+{
+"k": "18523",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "How do you know?"
+},
+{
+"k": "18524",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Oh yeah? What'd he say?"
+},
+{
+"k": "18525",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Crane called somebody before he ran out."
+},
+{
+"k": "18526",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[nervously quiet] Can I ask you something, and you promise you won't think I'm crazy for it?"
+},
+{
+"k": "18527",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "He said he would need \"his witch\" for that, or. . . something like. . . that he had to go across town to \"get his witch.\""
+},
+{
+"k": "18528",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Whatever he needs his witch for. . . it seems pretty important."
+},
+{
+"k": "18529",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "What do you think the ring does? Why would he want it?"
+},
+{
+"k": "18530",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "As soon as this mirror's back straightawase, we'll know where he went."
+},
+{
+"k": "18531",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I keep telling you lot, it doesn't matter!"
+},
+{
+"k": "18532",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Who knows!"
+},
+{
+"k": "18533",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I have no idea."
+},
+{
+"k": "18534",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Maybe it will aid his escape."
+},
+{
+"k": "18535",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "A weapon of some kind...?"
+},
+{
+"k": "18536",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sarcastic] Maybe he's raising the dead."
+},
+{
+"k": "18537",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[shocked] What?!"
+},
+{
+"k": "18538",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Of course he did it!"
+},
+{
+"k": "18539",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And he sent the Tweedle brothers to cover his tracks!"
+},
+{
+"k": "18540",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Who else could have!"
+},
+{
+"k": "18541",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "He's behind everything."
+},
+{
+"k": "18542",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I think he killed Lily..."
+},
+{
+"k": "18543",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "[tired, but cold] {AngryB} He killed them."
+},
+{
+"k": "18544",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "From what I saw tonight at the Open Arms... he's a sick fuck, but..."
+},
+{
+"k": "18545",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "[tired] {ThinkingA} I'm as confused as you are to be honest. I don't know..."
+},
+{
+"k": "18546",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Yes, undoubtedly. I mean, what sort of an idiot would--"
+},
+{
+"k": "18547",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sincerely] I don't think he did."
+},
+{
+"k": "18548",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Am I surrounded by imbeciles! What sort of an idiot would--"
+},
+{
+"k": "18549",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sincerely] I don't think he did, either."
+},
+{
+"k": "18550",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sincere]  {ThinkingB} He's...he was a conniver, a... a coward, a liar."
+},
+{
+"k": "18551",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} He was always telling Fables he was out of town, couldn't see them, couldn't do repairs, couldn't help."
+},
+{
+"k": "18552",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryB} And I'll always hate him for that."
+},
+{
+"k": "18553",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{WorriedA} But murdering prostitutes...[trails off]"
+},
+{
+"k": "18554",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And for what, detective? Why go to the trouble?"
+},
+{
+"k": "18555",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "He saw me in his \"room,\" Bluebeard. He knows the jig is up. He's trying to make an escape."
+},
+{
+"k": "18556",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "To best honest... I don't know."
+},
+{
+"k": "18557",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't know.[beat] Maybe something to aid his escape."
+},
+{
+"k": "18558",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't know much about magic, Snow, I'm just spitballing here."
+},
+{
+"k": "18559",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Really? You think he'd risk that now? When we're right on his trail?"
+},
+{
+"k": "18560",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "We're not on his trail yet."
+},
+{
+"k": "18561",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Maybe the witch is his next target."
+},
+{
+"k": "18562",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "And he could be trying to cover his tracks, get rid of the evidence. If this witch is his supplier of black market glamours. . ."
+},
+{
+"k": "18563",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "All I know is what I heard him say on the phone."
+},
+{
+"k": "18564",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[coldly sarcastic] You are all just wellsprings of knowledge."
+},
+{
+"k": "18565",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Or planning to turn us all into pumpkins."
+},
+{
+"k": "18566",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Who knows! Not us!"
+},
+{
+"k": "18567",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[Coughs] Um, excuse me?"
+},
+{
+"k": "18568",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Hi. Hi, Bigby.[correcting herself] Sheriff. I got your number off the directory, I hope you don't mind."
+},
+{
+"k": "18569",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[to Bigby] This is... you remember Vivian. She was a friend of Lily's."
+},
+{
+"k": "18570",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Right. From the funeral."
+},
+{
+"k": "18571",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'm sorry, uh. . . the door was unlocked."
+},
+{
+"k": "18572",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quiet] In private?"
+},
+{
+"k": "18573",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I was a friend of Lily's. . . where she worked."
+},
+{
+"k": "18574",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "At the Pudding N' Pie."
+},
+{
+"k": "18575",
+"who": "COLIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Wait. Who are you?"
+},
+{
+"k": "18576",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't have time for you right now."
+},
+{
+"k": "18577",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Thanks, thanks so much."
+},
+{
+"k": "18578",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "[awkwardly] Suuuure. Uh, we can go into my office. It's right down the hall."
+},
+{
+"k": "18579",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[whispered] Sorry."
+},
+{
+"k": "18580",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "He'll talk to you in his office."
+},
+{
+"k": "18581",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "There's nothing to do until the mirror's repaired. [quietly to him]She might know something."
+},
+{
+"k": "18582",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "It's, um, it's hard to explain."
+},
+{
+"k": "18583",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'd just. . . I'd love just a minute of your time."
+},
+{
+"k": "18584",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't really have time right now."
+},
+{
+"k": "18585",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'm sorry, it's just. . . I'd love just a minute of your time."
+},
+{
+"k": "18586",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I didn't want to say in front of what's her name. It's a. . . security issue. We shouldn't let it out that the Magic Mirror's not working."
+},
+{
+"k": "18587",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sadly] Crane must have taken a shard when he left."
+},
+{
+"k": "18588",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[coldly angry] {AngryA} I knew this stupid plan wouldn't work."
+},
+{
+"k": "18589",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Oh, what? You think Fables will start looting Times Square if they know you can't spy on them anymore?"
+},
+{
+"k": "18590",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "What did Vivian say?"
+},
+{
+"k": "18591",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[getting angry] I just don't want to add to the pile of reasons people already have to start panicking."
+},
+{
+"k": "18592",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} Oh, you knew did you?"
+},
+{
+"k": "18593",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[muttering to himself] This is unbelievable."
+},
+{
+"k": "18594",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sad] It can't re-form without all the pieces. Crane would've known that."
+},
+{
+"k": "18595",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Nothing really important. She just, uh, she just felt bad about everything."
+},
+{
+"k": "18596",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "She knew about Crane."
+},
+{
+"k": "18597",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Wait, why the fuck is Bluebeard here?"
+},
+{
+"k": "18598",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[cold] I bet she did."
+},
+{
+"k": "18599",
+"who": "<<ID",
+"ctx": "Fables103/env_businessoffice",
+"en": "{17C0FF0E-009B-4AE6-A69A-FE0EE522C52F}>>"
+},
+{
+"k": "18600",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "She knew about Crane, and. . . Lily making herself to look like you."
+},
+{
+"k": "18601",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "She wanted to apologize."
+},
+{
+"k": "18602",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "She feels responsible since. . . she's kind of the girls' watcher, I guess."
+},
+{
+"k": "18603",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I dunno. She was embarrassed, I guess."
+},
+{
+"k": "18604",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "This isn't trivial."
+},
+{
+"k": "18605",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "And I'm not saying it is!"
+},
+{
+"k": "18606",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "The mirror."
+},
+{
+"k": "18607",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "What isn't trivial."
+},
+{
+"k": "18608",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} This farce was your ridiculous idea for a plan. I mean, who put you in charge in the first place?"
+},
+{
+"k": "18609",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I didn't say that I was \"in charge,\" alright, he asked what the priorities would be and I told him."
+},
+{
+"k": "18610",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And that you'd be running the office temporarily."
+},
+{
+"k": "18611",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "While you were waiting to get sewn up, I heard her tell Swineheart that she was in charge! Her!"
+},
+{
+"k": "18612",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryC} Fixing the mirror was the most logical thing!"
+},
+{
+"k": "18613",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Yeah, and that I'd be running the office temporarily! Of anyone standing in this room, that's the obvious choice since I've been doing it unofficially for years now!"
+},
+{
+"k": "18614",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "{ConfusedA} Hey!"
+},
+{
+"k": "18615",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} And all we've done is exactly what Crane wanted us to do, which is waste precious time that'd have been better spent cooking and eating this wretched monkey!"
+},
+{
+"k": "18616",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} \"Unofficially\" is not \"officially.\""
+},
+{
+"k": "18617",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Who elected you to make these decisions"
+},
+{
+"k": "18618",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "How is it being spent!"
+},
+{
+"k": "18619",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Tell me: where will the money go now?"
+},
+{
+"k": "18620",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'm heading this investigation."
+},
+{
+"k": "18621",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Snow can handle it."
+},
+{
+"k": "18622",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[ice cold] If you want to stay here and field phone calls and complaints and run to the market to find newt's milk for fairies at a moment's notice, be my guest..."
+},
+{
+"k": "18623",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "{NormalB} I'm heading up the investigation, okay, Bluebeard? That makes this a moot point."
+},
+{
+"k": "18624",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[ice cold] Running the Business Office is a twenty four hour job, Sheriff."
+},
+{
+"k": "18625",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Why do you care who watches after the Business Office so much? It's a thankless job."
+},
+{
+"k": "18626",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "There's more timely things to be worrying about. . . but no, not bigger."
+},
+{
+"k": "18627",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "{NormalB} There's much bigger things to be worrying about right now, alright?"
+},
+{
+"k": "18628",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{NormalA} It'll have to do for now."
+},
+{
+"k": "18629",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "We can't get Mayor Cole on the phone and suddenly she's the lord and high council!"
+},
+{
+"k": "18630",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[ice cold] If you \"think about it?\" Running the Business Office is a twenty four hour job, Sheriff."
+},
+{
+"k": "18631",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "When word gets out she'd been given unfettered access to everything here-- the treasure, the armory-- forget about panic, there'll be a riot."
+},
+{
+"k": "18632",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "She wasn't elected to this post!"
+},
+{
+"k": "18633",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[pissed] It's not his decision."
+},
+{
+"k": "18634",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Forget him, okay. It's fine. I know the rules and how this works. It'll be fine."
+},
+{
+"k": "18635",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And it's certainly not yours!"
+},
+{
+"k": "18636",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Bluebeard's right."
+},
+{
+"k": "18637",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Snow's in charge."
+},
+{
+"k": "18638",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't care who's the boss."
+},
+{
+"k": "18639",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Just close the Business Office! Close it down!"
+},
+{
+"k": "18640",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "What would you even have me do?"
+},
+{
+"k": "18641",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Doesn't that make the most sense?"
+},
+{
+"k": "18642",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "We don't want to make things more complicated than they already are. Maybe we should just close the Business Office... until things get more.. . sorted."
+},
+{
+"k": "18643",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Snow... Bluebeard's right."
+},
+{
+"k": "18644",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "It's not your decision.[beat] The Fables still need help. And I'm gonna help them, with or without you."
+},
+{
+"k": "18645",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[betrayed] Bigby..."
+},
+{
+"k": "18646",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Snow knows better than anyone how to run this place, Bluebeard."
+},
+{
+"k": "18647",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "When they come for you in the night with pitchforks and torches, don't come crying to me."
+},
+{
+"k": "18648",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Right now, I could not care less who's \"in charge."
+},
+{
+"k": "18649",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Hey, it's no skin off my teeth. But when they come for you in the night with pitchforks and torches, don't come crying to me."
+},
+{
+"k": "18650",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And Bigby knows what I'm saying is right, he just doesn't want to say so in front of you."
+},
+{
+"k": "18651",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[tired sigh] {SarcasticA} Alright, let's just look on the bright side. We know Crane is going to see the witch that's been supplying him black market glamours."
+},
+{
+"k": "18652",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[happily] Right."
+},
+{
+"k": "18653",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "And Vivian said that Holly would have the witch's information with Lily's things."
+},
+{
+"k": "18654",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "\"Might have.\""
+},
+{
+"k": "18655",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "And could be burning it as we speak, so if you're gonna go somewhere you should go--"
+},
+{
+"k": "18656",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[plainly; already leaving] Great. And I'll go to Crane's apartment."
+},
+{
+"k": "18657",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[surprised] Wait, what? Crane's apartment?"
+},
+{
+"k": "18658",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "And why the Hell not?"
+},
+{
+"k": "18659",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "We already looked for the key, remember? I don't know where it is."
+},
+{
+"k": "18660",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Grimble's trying to find a spare."
+},
+{
+"k": "18661",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[angry] Then I'll pick the blasted lock![beat; calms himself] I wasted enough time waiting for the mirror to find him. I won't waste any more."
+},
+{
+"k": "18662",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Just wait! Wait a minute!"
+},
+{
+"k": "18663",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "The Tweedles are still a link."
+},
+{
+"k": "18664",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[a little annoyed] The Tweedles can barely speak."
+},
+{
+"k": "18665",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Yeah, but, I mean. . . they have something to do with this, and. . . we don't know what yet."
+},
+{
+"k": "18666",
+"who": "BUFKIN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quieter] I mean, just. . . maybe they know where his witch is."
+},
+{
+"k": "18667",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Or they know nothing and you'll waste a trip while Holly is burning her sister's stuff which does have the info."
+},
+{
+"k": "18668",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "If you're so nervous about me going, why don't you come with?"
+},
+{
+"k": "18669",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[aggravated] You know I can't leave. The town is starting to wake up to all of this and I have to wait for Mayor Cole's callback."
+},
+{
+"k": "18670",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[decisively] Fine then. I'm going upstairs, I don't care what you two do."
+},
+{
+"k": "18671",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{NormalA} Before you had no interest and now it's a crime scene!"
+},
+{
+"k": "18672",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{ThinkingB} You just can't go up there alone, alright?"
+},
+{
+"k": "18673",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "I can hear you, you know."
+},
+{
+"k": "18674",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{NormalA} Oh, now it's evidence!"
+},
+{
+"k": "18675",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryC} What concerns me is you traipsing through possible evidence."
+},
+{
+"k": "18676",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{CockyA} I've no interest in nicking his drapes, my dear, if that's what concerns you."
+},
+{
+"k": "18677",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "We can't just let Bluebeard run amok in Crane's place."
+},
+{
+"k": "18678",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryB} Fine, I don't care, just go ahead."
+},
+{
+"k": "18679",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} Really now! And what, you're gonna stand here and babysit me while the rest of your \"leads\" evaporate into mist?"
+},
+{
+"k": "18680",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "{NormalB} Bluebeard, you're not going anywhere."
+},
+{
+"k": "18681",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "{AngryA} They can't get any more \"messed up.\""
+},
+{
+"k": "18682",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Why don't you just stay here with Snow and help out with things?"
+},
+{
+"k": "18683",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "[\"of course\" tone] Yeah, that's where I'm going."
+},
+{
+"k": "18684",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "You can't just go up there."
+},
+{
+"k": "18685",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "They have something to do with this, Snow. They might know where his witch is, who his witch is. . ."
+},
+{
+"k": "18686",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'm saving him the trouble!"
+},
+{
+"k": "18687",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[forceful whisper] There is no way he is going up there just to \"find Crane.\" He's planning something."
+},
+{
+"k": "18688",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[cold] {AngryA} I don't like you going anywhere unsupervised."
+},
+{
+"k": "18689",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Look, you go and check in with the Tweedles or Holly while I go investigate Crane's apartment. Deal?"
+},
+{
+"k": "18690",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "Unless Bigby decides he'd rather waste his time, I suggest you start learning to like it."
+},
+{
+"k": "18691",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "For what?"
+},
+{
+"k": "18692",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "And. . . I'm sorry for not saying anything earlier. Before it was too late."
+},
+{
+"k": "18693",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[shy] I knew Lily was pretending to be Snow.[beat] I'd known for a little while."
+},
+{
+"k": "18694",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I hadn't seen the, uh, the \"room,\" so. . ."
+},
+{
+"k": "18695",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "But I know that doesn't make it alright."
+},
+{
+"k": "18696",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I didn't know the obsession had gotten as bad as it had."
+},
+{
+"k": "18697",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] I'm sorry."
+},
+{
+"k": "18698",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I can't. . . I can't deliberately say for what, but. . . I can say that:"
+},
+{
+"k": "18699",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'm sorry about Lily, and I'm sorry about Snow, and I'm sorry that I knew their connection. . ."
+},
+{
+"k": "18700",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "My lips are sealed."
+},
+{
+"k": "18701",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Wait, just. . . let me. . ."
+},
+{
+"k": "18702",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] That's what I came here to tell you."
+},
+{
+"k": "18703",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "It's really not your fault."
+},
+{
+"k": "18704",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "You should've said something sooner."
+},
+{
+"k": "18705",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Why tell me now?"
+},
+{
+"k": "18706",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "You could've come here sooner. You should've come here sooner."
+},
+{
+"k": "18707",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sad] I know."
+},
+{
+"k": "18708",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] Are you gonna catch him?"
+},
+{
+"k": "18709",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "And. . . if the little sister gets in trouble, it's the older sister's fault, really. For not teaching her right."
+},
+{
+"k": "18710",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sad] I'm Georgie's favorite, you know.[beat] I don't have to dance, don't have to go out on dates. . ."
+},
+{
+"k": "18711",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sad] I feel responsible."
+},
+{
+"k": "18712",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sad] I just answer the phone, and schedule, and. . . the \"rules\" are the same for me, you know, but. . . I kind of feel like with the girls. . . Georgie's the dad and I'm the older sister."
+},
+{
+"k": "18713",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sad] And so I guess I just wanted to say, \"I'm sorry,\". . . out loud. . . to someone, since. . . [big sigh]"
+},
+{
+"k": "18714",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Okay. . ."
+},
+{
+"k": "18715",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] . . . what I came here to tell ya."
+},
+{
+"k": "18716",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] That's what I. . ."
+},
+{
+"k": "18717",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Wait. . . wait, just let me. . ."
+},
+{
+"k": "18718",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I [struggles]. . . knew what he was doing. . .With her.[beat] Who he made her look like."
+},
+{
+"k": "18719",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "And I'm sorry that I didn't come here to. . . to at least try to tell you about it. . . before. . . everything."
+},
+{
+"k": "18720",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "And if I could help you anymore than that, I would."
+},
+{
+"k": "18721",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Bufkin's finished."
+},
+{
+"k": "18722",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "I should be heading back anyway."
+},
+{
+"k": "18723",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Actually, wait."
+},
+{
+"k": "18724",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Would Lily have had information about the witch Crane used to glamour her?"
+},
+{
+"k": "18725",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "Maybe. She might have."
+},
+{
+"k": "18726",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Holly has all of Lily's stuff."
+},
+{
+"k": "18727",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Have a safe trip back."
+},
+{
+"k": "18728",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Give us a minute."
+},
+{
+"k": "18729",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Alright, I'm coming."
+},
+{
+"k": "18730",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "Knock next time."
+},
+{
+"k": "18731",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Give us one more minute, okay?"
+},
+{
+"k": "18732",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[strained] I think we're about out of minutes."
+},
+{
+"k": "18733",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Alright. I'm coming."
+},
+{
+"k": "18734",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I did knock."
+},
+{
+"k": "18735",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Knock next time, will ya?"
+},
+{
+"k": "18736",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "Sorry to interrupt. How's it going?"
+},
+{
+"k": "18737",
+"who": "VIVIAN",
+"ctx": "Fables103/env_businessoffice",
+"en": "[quietly] As well as can be."
+},
+{
+"k": "18738",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "I want to talk with the Tweedles."
+},
+{
+"k": "18739",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't know if you'll get much. Holly and Gren really tore into them."
+},
+{
+"k": "18740",
+"who": "BLUEBEARD",
+"ctx": "Fables103/env_businessoffice",
+"en": "But it is something we could be doing."
+},
+{
+"k": "18741",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "[calmly] You don't remember me?"
+},
+{
+"k": "18742",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "The Tweedles would know."
+},
+{
+"k": "18743",
+"who": "",
+"ctx": "Fables103/env_businessoffice",
+"en": "The Tweedle would know."
+},
+{
+"k": "18744",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "[sore] Mph."
+},
+{
+"k": "18745",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "[plainly] Do you remember what happened?"
+},
+{
+"k": "18746",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "[disbelieving] Really."
+},
+{
+"k": "18747",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I remember most of it, alright?"
+},
+{
+"k": "18748",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "Yeah. I remember."
+},
+{
+"k": "18749",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "I have to explain some things. Let me do my job first. . . and then I'll let you go off and do yours."
+},
+{
+"k": "18750",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "Ichabod isn't here, and he wasn't in the Business Office when we brought you in."
+},
+{
+"k": "18751",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "I don't have a \"moment.\""
+},
+{
+"k": "18752",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "We can get to that in moment."
+},
+{
+"k": "18753",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "That true?"
+},
+{
+"k": "18754",
+"who": "SNOW",
+"ctx": "Fables103/env_businessoffice",
+"en": "[mildly depressed] Yeah."
+},
+{
+"k": "18755",
+"who": "BIGBY",
+"ctx": "Fables103/env_businessoffice",
+"en": "[groggy; waking up] Who are you?"
+},
+{
+"k": "18756",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_businessoffice",
+"en": "I'm Dr. Swineheart, the Fables physician."
+}
+]

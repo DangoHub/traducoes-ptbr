@@ -1,0 +1,1790 @@
+[
+{
+"k": "21070",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}You work for us now, and as your employer, {angryb}I'm demanding you tell us what the Hell is going on."
+},
+{
+"k": "21071",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Look... Crane was here, he was here, but he left."
+},
+{
+"k": "21072",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{NormalA}So what, are {AngryA}moving trucks gonna show up here or something?"
+},
+{
+"k": "21073",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[uncaring] Something like that."
+},
+{
+"k": "21074",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}Thanks."
+},
+{
+"k": "21075",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}We'll call you."
+},
+{
+"k": "21076",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{SarcasticB}And you know what the best part is? The Thirteenth Floor witches? They have all sorts of ways to make people talk."
+},
+{
+"k": "21077",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Look, your tree's not getting burnt, you're gainfully employed... {SarcasticB}one hand washes the other, right?"
+},
+{
+"k": "21078",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}[colder] Where is he."
+},
+{
+"k": "21079",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[cold] With certainty."
+},
+{
+"k": "21080",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}Fine, whatever, just... you better not think about doing any of this stuff ever again."
+},
+{
+"k": "21081",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}Now where's Crane? Or should I have your new roommates {angryb}painfully extract the location from your brain?"
+},
+{
+"k": "21082",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}Oh, trust me, no one would confuse you for a cuddly animal."
+},
+{
+"k": "21083",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}[very angry] Alright. Start explaining."
+},
+{
+"k": "21084",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[bitter] Why have you been helping Crane?"
+},
+{
+"k": "21085",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[bitter] Where is he?"
+},
+{
+"k": "21086",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryc}[very angry] Not. That."
+},
+{
+"k": "21087",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[very angry] And from the beginning."
+},
+{
+"k": "21088",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[blithely] {MockingA}I was born in the woods to a jackal and a deer..."
+},
+{
+"k": "21089",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}Unless you want a recipe for owl stew..."
+},
+{
+"k": "21090",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "But nothing that would help you."
+},
+{
+"k": "21091",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[getting angrier] You have to know something."
+},
+{
+"k": "21092",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{MockingA}There's nothing I know that would help."
+},
+{
+"k": "21093",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}That your mom?"
+},
+{
+"k": "21094",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[half ignoring him] {ConfusedB}Uh huh."
+},
+{
+"k": "21095",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "At least we know what she looks like."
+},
+{
+"k": "21096",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{happya}[friendly] Are there any pictures of you around?"
+},
+{
+"k": "21097",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[quietly] {HappyA}Do you like bananas?"
+},
+{
+"k": "21098",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angryb}[threatening] Why?"
+},
+{
+"k": "21099",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{angrya}[in a rush] Yeah, I know."
+},
+{
+"k": "21100",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "This is it."
+},
+{
+"k": "21101",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{confusedb} She ever... you know, make the nightstand levitate? Turn frogs into cats, that kind of thing?"
+},
+{
+"k": "21102",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Yeah. She here?"
+},
+{
+"k": "21103",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "No, she's out."
+},
+{
+"k": "21104",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{ConfusedA}You mean my mom?"
+},
+{
+"k": "21105",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Is there... uh, something you want?"
+},
+{
+"k": "21106",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[annoyed] {ScaredA}I've been here all night! {AngryA}Nobody's been here!"
+},
+{
+"k": "21107",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[through gritted teeth] Everything I care about will go away if I say anything."
+},
+{
+"k": "21108",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{AngryA}There's powers at work here beyond your {MockingA}pathetic authority."
+},
+{
+"k": "21109",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "It will, it will."
+},
+{
+"k": "21110",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}We can always come back later..."
+},
+{
+"k": "21111",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{mockingb}Orders are orders."
+},
+{
+"k": "21112",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "He's just going to check, it will only take a moment."
+},
+{
+"k": "21113",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "No one's been over all night, so..."
+},
+{
+"k": "21114",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "It was a pretty one."
+},
+{
+"k": "21115",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Oh?"
+},
+{
+"k": "21116",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I saw a spider over there, yesterday."
+},
+{
+"k": "21117",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "...not that I can recall..."
+},
+{
+"k": "21118",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "You ever get a headache so bad you throw up ice cream?"
+},
+{
+"k": "21119",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I'm usually not allowed to be up so late.[beat] It's kinda neat."
+},
+{
+"k": "21120",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Oh. My mommy makes all of mine."
+},
+{
+"k": "21121",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Where do you buy your clothes?"
+},
+{
+"k": "21122",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "At a store..."
+},
+{
+"k": "21123",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "If I didn't lose my crayons I could draw you a platypus."
+},
+{
+"k": "21124",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Not technically..."
+},
+{
+"k": "21125",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Do you have any pets?"
+},
+{
+"k": "21126",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Just a guy."
+},
+{
+"k": "21127",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Who is this bird man anyway?"
+},
+{
+"k": "21128",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I really should be going back to bed..."
+},
+{
+"k": "21129",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Sometimes... when I concentrate... I can hear the park animals' dreams floating in through the walls."
+},
+{
+"k": "21130",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "That's, uh, nice."
+},
+{
+"k": "21131",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Do you like broccoli?"
+},
+{
+"k": "21132",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "I love it."
+},
+{
+"k": "21133",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Closet Door"
+},
+{
+"k": "21134",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Partition"
+},
+{
+"k": "21135",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Tree"
+},
+{
+"k": "21136",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Wind Chimes"
+},
+{
+"k": "21137",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}[pickup1] \"The Butcher.\""
+},
+{
+"k": "21138",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}[pickup1] What's that?"
+},
+{
+"k": "21139",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkingb}[pickup1] A package having to do with someone called \"The Butcher.\""
+},
+{
+"k": "21140",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}[pickup1] I saw one just like it at the Tweedles' office."
+},
+{
+"k": "21141",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{thinkinga}[pickup1] It's empty."
+},
+{
+"k": "21142",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "{normalb}[pickup1] I guess it doesn't matter."
+},
+{
+"k": "21143",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Your mom a hunter?"
+},
+{
+"k": "21144",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Oh, no, she'd never...[beat] That was found in the woods around Dix Mountain.[beat] I think."
+},
+{
+"k": "21145",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] It's pretty rare to see a burner like this."
+},
+{
+"k": "21146",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] [sighs] Dowdy. That's how we like it."
+},
+{
+"k": "21147",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] [muttering] No accounting for taste..."
+},
+{
+"k": "21148",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Lemme guess... Big band or classical?"
+},
+{
+"k": "21149",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Honky Tonk."
+},
+{
+"k": "21150",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] How  much longer do you think it will be?"
+},
+{
+"k": "21151",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] I can have my mom call you later or something...?"
+},
+{
+"k": "21152",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Finished yet?"
+},
+{
+"k": "21153",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] [yawns] Actually, you know... if my mom comes home and finds me awake, I could get into trouble..."
+},
+{
+"k": "21154",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] I wished you just believe me that there's nothin' here..."
+},
+{
+"k": "21155",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] [nervous] I'm not usually allowed to stay up so late..."
+},
+{
+"k": "21156",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] There's no one here but me."
+},
+{
+"k": "21157",
+"who": "RACHEL",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Can I go to bed now? Please?"
+},
+{
+"k": "21158",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Maybe we shouldn't...."
+},
+{
+"k": "21159",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Snow, c'mon, are you kidding? It's a glamour tube, something's going on here..."
+},
+{
+"k": "21160",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] That tree is responsible for the deaths of two Fables we know about, Bigby."
+},
+{
+"k": "21161",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Don't give me that! You're making money off of other peoples' misery."
+},
+{
+"k": "21162",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Greenleaf, Snow's right. The tree has to go."
+},
+{
+"k": "21163",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Sorry. Orders are orders."
+},
+{
+"k": "21164",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Isn't there another way? She's a witch, can't she just... work for us?"
+},
+{
+"k": "21165",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] That way she'd be official..."
+},
+{
+"k": "21166",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] There is no other way."
+},
+{
+"k": "21167",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] {MockingA}It doesn't matter cause I'd {AngryA}never do it.[beat] I'm not a house cat and I {MockingA}don't play well with others."
+},
+{
+"k": "21168",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] This is an order. Burn the tree."
+},
+{
+"k": "21169",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Today is your lucky day, Greenleaf. I'm hiring you as the Business Office's newest witch in residence."
+},
+{
+"k": "21170",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Bigby!"
+},
+{
+"k": "21171",
+"who": "GREENLEAF",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] {MockingA}Just don't expect me to {AngryA}bow down to your little woman here."
+},
+{
+"k": "21172",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] I'm sorry, but... we still can't let you keep the tree. It wouldn't be right after what's happened."
+},
+{
+"k": "21173",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] [after you] Bigby?"
+},
+{
+"k": "21174",
+"who": "SNOW",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] Don't think for a second that this is over."
+},
+{
+"k": "21175",
+"who": "BIGBY",
+"ctx": "Fables103/env_greenleafapt",
+"en": "[pickup2] And you get to keep your fuckin' tree."
+},
+{
+"k": "21176",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Deer Skull"
+},
+{
+"k": "21177",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Stove"
+},
+{
+"k": "21178",
+"who": "",
+"ctx": "Fables103/env_greenleafapt",
+"en": "Record Player"
+},
+{
+"k": "21179",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Crane is the killer."
+},
+{
+"k": "21180",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "I need to find Snow."
+},
+{
+"k": "21181",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Not now, Beast."
+},
+{
+"k": "21182",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[impatient] {AngryA}I know!"
+},
+{
+"k": "21183",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[muttering] {Body-StandA}{NormalA}That motherfucking {AngryA}piece of shit..."
+},
+{
+"k": "21184",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{ConcernedA}{Body-StandC}What's going on?"
+},
+{
+"k": "21185",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{NervousA}{Body-HandToHead}Bigby, you have to tell her."
+},
+{
+"k": "21186",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{ThinkingA}What did you find up there?"
+},
+{
+"k": "21187",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{ShockedA}You know, other than the... [blood]"
+},
+{
+"k": "21188",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[shocked] {Body-StandA}{ShockedA}What? {Body-StandC}Ichabod Crane?{Body-StandA} {NormalA}How do you know?"
+},
+{
+"k": "21189",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[hurried] {Body-StandA}{AngryA}Crane's the killer."
+},
+{
+"k": "21190",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[angry] {AngryC}Shit!"
+},
+{
+"k": "21191",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[softly; to Beast] {NervousA}Crane's been--"
+},
+{
+"k": "21192",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[hurried] {AngryA}{Body-StandA}I just need to find Snow."
+},
+{
+"k": "21193",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[hurried] {AngryA}{Body-StandA}Not now."
+},
+{
+"k": "21194",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[worried] {WorriedA}{Body-StandA}Why? What's going on?"
+},
+{
+"k": "21195",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[annoyed] {ThinkingA}{Body-StandA}I have a right to know. {Body-StandC}If my wife is-- [involved]"
+},
+{
+"k": "21196",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[softly] {Body-HandToHead}{SadA}Honey..."
+},
+{
+"k": "21197",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{SurpriseA}Whoa! Bigby, calm down."
+},
+{
+"k": "21198",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{ConcernedA}I was just at the Trip Trap, and I heard Gren telling some folks about a funeral at the Buckingham Bridge--"
+},
+{
+"k": "21199",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[forceful; to Beast] {NormalA}When?"
+},
+{
+"k": "21200",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[realizing something] {WorriedA}Lily's funeral?"
+},
+{
+"k": "21201",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[tense] {ThinkingA}Yeah."
+},
+{
+"k": "21202",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[trying to stay calm] Okay... think. Where did you see her last?"
+},
+{
+"k": "21203",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{NormalA}Right now. They were on their way out."
+},
+{
+"k": "21204",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[anxious]I have to find her."
+},
+{
+"k": "21205",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[low; angry] {ConfusedA}The Trip Trap? {AngryA}Are you drinking-- [again]"
+},
+{
+"k": "21206",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[tense] {AngryA}She took Holly to the Business Office... {NormalA}to prepare for the funeral."
+},
+{
+"k": "21207",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Snow is in danger!"
+},
+{
+"k": "21208",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "I need to tell Snow!"
+},
+{
+"k": "21209",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Crane might be following her."
+},
+{
+"k": "21210",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[trying to calm him] {NervousA}Everything's going to be fine, {SurpriseA}okay, it's gonna be fine."
+},
+{
+"k": "21211",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[frustrated] {AnnoyedA}Will someone please explain this to me?"
+},
+{
+"k": "21212",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[hurried] {NervousA}The room was covered in evidence."
+},
+{
+"k": "21213",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[hurried] {SadA}Crane has been stalking Snow White."
+},
+{
+"k": "21214",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Crap."
+},
+{
+"k": "21215",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[urgent] {AngryA}That perverted little {AngryB}fucker might be after {AngryA}Snow. I need to find her right now."
+},
+{
+"k": "21216",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[urgent] I have to tell Snow what's going on right now."
+},
+{
+"k": "21217",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[urgent] Crane might be following Snow. If I can find her, I can--[getting angry again] God damn it."
+},
+{
+"k": "21218",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[effort; hitting the phone] {AngryC}Argh!"
+},
+{
+"k": "21219",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[shocked] I can't believe..."
+},
+{
+"k": "21220",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{SadA}Bigby!"
+},
+{
+"k": "21221",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[impatient] {ThinkingB}What?"
+},
+{
+"k": "21222",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[concerned] {SadA}Snow's... [stops herself; rethinks] {NormalA}Snow's been through a lot. There are things she doesn't talk about."
+},
+{
+"k": "21223",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{SurpriseA}Wait!"
+},
+{
+"k": "21224",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[concerned] {NervousA}Just..."
+},
+{
+"k": "21225",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[impatient] {AngryA}What are you trying to say?"
+},
+{
+"k": "21226",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[more forceful] {SuspiciousA}You know how you felt when you saw that picture?"
+},
+{
+"k": "21227",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{NormalA}Just remember that."
+},
+{
+"k": "21228",
+"who": "EXCANGE",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Careful"
+},
+{
+"k": "21229",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[impatient] {NormalA}I know."
+},
+{
+"k": "21230",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[a little annoyed] {SuspiciousA}No, you don't know."
+},
+{
+"k": "21231",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "I have to go!"
+},
+{
+"k": "21232",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[impatient] {NormalA}Beauty, {ThinkingB}I have to go."
+},
+{
+"k": "21233",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "...when you tell her."
+},
+{
+"k": "21234",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "please be careful..."
+},
+{
+"k": "21235",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{SadB}And you should tell her, {NormalA}but..."
+},
+{
+"k": "21236",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{ConfusedA}Just... {SuspiciousA}wait a second and listen! {NormalA}This is important."
+},
+{
+"k": "21237",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[\"this isn't about you\"] {ThinkingA}Well, it's going to be much worse for her."
+},
+{
+"k": "21238",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "All I wanna say is..."
+},
+{
+"k": "21239",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{NormalA}Did she say where she was going?"
+},
+{
+"k": "21240",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[trying to keep him calm] {NervousA}Okay, it's-- it's going to be okay. Where did you see her last?"
+},
+{
+"k": "21241",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{NervousA}Where did you see her last?"
+},
+{
+"k": "21242",
+"who": "BEAST",
+"ctx": "Fables103/env_openarmslobby",
+"en": "I just wanna know what's going on."
+},
+{
+"k": "21243",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[confused] {NervousA}How do you know--"
+},
+{
+"k": "21244",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{Body-StandA}[still processing] {ConfusedA}Crane?"
+},
+{
+"k": "21245",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[processing] {SadA}I can't believe he'd..."
+},
+{
+"k": "21246",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[disgusted] {Body-X}{AngryA}Ugh! {ThinkingA}God, you think you know a person."
+},
+{
+"k": "21247",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "That piece of shit!"
+},
+{
+"k": "21248",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "I'll kill him!"
+},
+{
+"k": "21249",
+"who": "",
+"ctx": "Fables103/env_openarmslobby",
+"en": "Fucking creep!"
+},
+{
+"k": "21250",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[muttering] {AngryA}{Body-StandA}I'll kill him. I'll {AngryB}rip{AngryA} him apart!"
+},
+{
+"k": "21251",
+"who": "BEAUTY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "[ALT; \"this isn't about you\"] {ThinkingA}How do you think she's gonna feel?"
+},
+{
+"k": "21252",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{Body-StandA}{NormalA}That {AngryA}fucking{NormalA} creep. Spineless little fuckin' {AngryA}rat!"
+},
+{
+"k": "21253",
+"who": "BIGBY",
+"ctx": "Fables103/env_openarmslobby",
+"en": "{Body-StandA}{AngryC}[low growl; under his breath]"
+},
+{
+"k": "21254",
+"who": "MUSIC",
+"ctx": "Fables103/env_openarmslobby",
+"en": "When the music cuts"
+},
+{
+"k": "21255",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[punch]"
+},
+{
+"k": "21256",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Get away from her!"
+},
+{
+"k": "21257",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "He's a sick pervert!"
+},
+{
+"k": "21258",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "He's an embezzler."
+},
+{
+"k": "21259",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Everything points to him."
+},
+{
+"k": "21260",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "He violated Snow, hes bad"
+},
+{
+"k": "21261",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Gotta bring him to justice"
+},
+{
+"k": "21262",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "You embezzeled from us!"
+},
+{
+"k": "21263",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Snow's right"
+},
+{
+"k": "21264",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Stay out of this, Snow!"
+},
+{
+"k": "21265",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[Grab Crane]"
+},
+{
+"k": "21266",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Talk won't save you."
+},
+{
+"k": "21267",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Its fake."
+},
+{
+"k": "21268",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[Slap him]"
+},
+{
+"k": "21269",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Out of my way."
+},
+{
+"k": "21270",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Vivian's right"
+},
+{
+"k": "21271",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "He deserved it"
+},
+{
+"k": "21272",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "I lost control"
+},
+{
+"k": "21273",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "He's guilty."
+},
+{
+"k": "21274",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "This is bigger than Crane."
+},
+{
+"k": "21275",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "We'll find out."
+},
+{
+"k": "21276",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Its still evidence!"
+},
+{
+"k": "21277",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Fine, embezzlement."
+},
+{
+"k": "21278",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Why are you defending him?"
+},
+{
+"k": "21279",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "We found the photos."
+},
+{
+"k": "21280",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "You screwed up."
+},
+{
+"k": "21281",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[Break his nose]"
+},
+{
+"k": "21282",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "We're better than you."
+},
+{
+"k": "21283",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Stand up."
+},
+{
+"k": "21284",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Crane is in police custody."
+},
+{
+"k": "21285",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "It's still disgusting!"
+},
+{
+"k": "21286",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{NormalA}No, it's nothin' you need to concern yourself with. {AnnoyedA}I don't think so, at least."
+},
+{
+"k": "21287",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryA}Shit. Hold on."
+},
+{
+"k": "21288",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AnnoyedA}Oh, d'you miss a spot? Mr. Clean, come to smash up the rest of my place?"
+},
+{
+"k": "21289",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{FlusteredA}Sheriff, is {ThinkingA}there something more I can help you with? {EvilA}Decided you want a taste of the wares?"
+},
+{
+"k": "21290",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{EvilA}Oh, I see... come to audition your bitch."
+},
+{
+"k": "21291",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{CockyA}Ah, I'm in your way, love?"
+},
+{
+"k": "21292",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[seething] {AngryB}Get out of the way."
+},
+{
+"k": "21293",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[seething] {AngryB}Where's Crane?"
+},
+{
+"k": "21294",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[incredulous] {ThinkingA}Ichabod Crane? What would that nerd have with a place like this?"
+},
+{
+"k": "21295",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[being punched in the face] {AngryA}Aargh!"
+},
+{
+"k": "21296",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Fuckin' fuck, man!"
+},
+{
+"k": "21297",
+"who": "<<ID",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{2C313FC1-A3E7-4BAF-9258-BFAB036FAC89}>>"
+},
+{
+"k": "21298",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[in pain] {AngryA}Egh, you can't just go in there!"
+},
+{
+"k": "21299",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryA}Hey! You can't just go in there!"
+},
+{
+"k": "21300",
+"who": "PORGIE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AnnoyedA}We have a problem."
+},
+{
+"k": "21301",
+"who": "VIVIAN",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{ConfusedA}Mr. Crane, please, she can't help--[gets cut off]"
+},
+{
+"k": "21302",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryB}Tell me who did it! Just tell me who did it, {AngryC}I know you know!"
+},
+{
+"k": "21303",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] {AngryB}I know you know what the plan is."
+},
+{
+"k": "21304",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicking himself] {AngryB}You both know what's going on, {WorriedA}just tell me!"
+},
+{
+"k": "21305",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] {AngryC}I won't be held accountable for this!"
+},
+{
+"k": "21306",
+"who": "NERISSA",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicked breathing] {WorriedA}I can't-- I can't-- I'm sorry, I--"
+},
+{
+"k": "21307",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryC}Crane, get away from her!"
+},
+{
+"k": "21308",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{FlusteredA}Wait, don't!"
+},
+{
+"k": "21309",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[choked with fear] {SurprisedA}Oh my God. Bigby."
+},
+{
+"k": "21310",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] Don't move, Crane. You're under arrest."
+},
+{
+"k": "21311",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[terrified] {SurprisedA}Oh my God, Bigby. {WorriedA}I had nothing to do with this."
+},
+{
+"k": "21312",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryB}Get away from them."
+},
+{
+"k": "21313",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryC}Crane!"
+},
+{
+"k": "21314",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[sweating, rapid] {AngryA}They can't talk because of that spell, but once this {HappyA}ring gets through, I'll know what's going on and this whole thing will be over!"
+},
+{
+"k": "21315",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[sweating, rapid] {suspiciousA}These girls-- th-th-the girls-- {AngryB}they'll back me up, I j-- just have to get this {AngryC}stupid ring working, that's all!"
+},
+{
+"k": "21316",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[sweating, rapid] {WorriedA}I-- I didn't do anything, I promise you, I didn't do anything!"
+},
+{
+"k": "21317",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[rapid, desperate] It's just-- just {SadA}let me show you."
+},
+{
+"k": "21318",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[rapid, desperate] {SadA}Th-- That's all, please."
+},
+{
+"k": "21319",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[rapid, desperate] {SurprisedA}I'm innocent, completely, {WorriedA}completely innocent!"
+},
+{
+"k": "21320",
+"who": "",
+"ctx": "Fables103/env_puddingandpie",
+"en": "The ring won't work."
+},
+{
+"k": "21321",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[pathetic] {TenseA}Damn you, c'mon! {WorriedA}Please!"
+},
+{
+"k": "21322",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[blase] No one's ever talked their way out of an execution, Crane."
+},
+{
+"k": "21323",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicked] {WorriedA}No no no no, really! This will work, I tell you!"
+},
+{
+"k": "21324",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[screaming] {SadA}Tell me who killed her!"
+},
+{
+"k": "21325",
+"who": "NERISSA",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[as quiet as a church mouse] {SadA}My lips are sealed..."
+},
+{
+"k": "21326",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[blase] The ring won't work. Greenleaf sold you out."
+},
+{
+"k": "21327",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicked] {SurprisedA}What? No! {WorriedA}This will work, I assure you! {AngryA}I-it must!"
+},
+{
+"k": "21328",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryB}[pathetic squirming sounds]"
+},
+{
+"k": "21329",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicked] {WorriedA}This will work, I assure you! {HappyA}Everything will be solved!"
+},
+{
+"k": "21330",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[being punched] {AngryB}Uggh!"
+},
+{
+"k": "21331",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicked, in pain] {SurprisedA}W-w-wait, I can't-- you have to j-- {TenseA}just give me the chance!"
+},
+{
+"k": "21332",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[panicking] {WorriedA}This will solve everything!"
+},
+{
+"k": "21333",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{SadA}[light sobbing]"
+},
+{
+"k": "21334",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[continued light sobbing]"
+},
+{
+"k": "21335",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{WorriedA}Are you alright?"
+},
+{
+"k": "21336",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryB}We found the photos of you and Lily."
+},
+{
+"k": "21337",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[crying] {WorriedA}I know, I know, but that's-- that was-- I just..."
+},
+{
+"k": "21338",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[sniffling] {SadA}I just love you, Snow. I love you, I love you, and-- {SuspiciousA}and I'm sorry I'm not Prince Charming, okay!"
+},
+{
+"k": "21339",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{AngryB}I'm sorry I didn't cheat on you and run away to Europe!"
+},
+{
+"k": "21340",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[ICE cold] {AngryC}You don't love me, Crane.[beat] {AngryB}I know what this is. I've seen it before."
+},
+{
+"k": "21341",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] It is not love."
+},
+{
+"k": "21342",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] Actually, what am I saying? I'm not sorry at all."
+},
+{
+"k": "21343",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{WorriedA}Bigby, Sheriff, listen--"
+},
+{
+"k": "21344",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "The amount of evidence I have... the town wouldn't bat an eye if I were to throw you down the Witching Well tonight."
+},
+{
+"k": "21345",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] You screwed up, Crane."
+},
+{
+"k": "21346",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[pathetic] {SadA}Please, Sheriff, I'm telling you the truth when I say that I did not kill that woman."
+},
+{
+"k": "21347",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[quiet] {WorriedA}Not always."
+},
+{
+"k": "21348",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "What happened to you?[beat] Were you always like this?"
+},
+{
+"k": "21349",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[quiet] It started as most things do: {ConfusedA}very, very small. Nothing more than a thought."
+},
+{
+"k": "21350",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[pathetic] {WorriedA}But I didn't kill that woman."
+},
+{
+"k": "21351",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "They'd throw a fuckin' parade."
+},
+{
+"k": "21352",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[ligh shock] {ConfusedB}What?"
+},
+{
+"k": "21353",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Look at him.[beat] {ThinkingA}Do you really think this man murdered these women?"
+},
+{
+"k": "21354",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[quietly]{SadA} Bigby..."
+},
+{
+"k": "21355",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "He didn't do it."
+},
+{
+"k": "21356",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{angryB}Don't talk to me."
+},
+{
+"k": "21357",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[angry] {AngryA}Shut up."
+},
+{
+"k": "21358",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[quietly] {WorriedA}Okay, okay."
+},
+{
+"k": "21359",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{ThinkingC}He's not.... {ThinkingA}he wouldn't be brave enough..."
+},
+{
+"k": "21360",
+"who": "CRANE",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[pathetic and tired] {WorriedA}Thank you, my dear, {HappyA}it means so much to--[gets cut off]"
+},
+{
+"k": "21361",
+"who": "SNOW",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[cold] {AngryA}There's a lot we all have to answer for."
+},
+{
+"k": "21362",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "This is different, Snow, and you know it."
+},
+{
+"k": "21363",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "Snow, of course he's guilty."
+},
+{
+"k": "21364",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "I mean, even if he didn't... say, kill Faith...there's still a lot for him to answer for."
+},
+{
+"k": "21365",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "What do you mean? You don't think he did it at all?"
+},
+{
+"k": "21366",
+"who": "BIGBY",
+"ctx": "Fables103/env_puddingandpie",
+"en": "[sighs] Maybe he didn't."
+},
+{
+"k": "21367",
+"who": "VIVIAN",
+"ctx": "Fables103/env_puddingandpie",
+"en": "{ConfusedA}Why would he even come here if he wasn't {SuspiciousA}covering his tracks?"
+}
+]

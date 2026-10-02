@@ -1,0 +1,1592 @@
+[
+{
+"k": "29669",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticB}[sigh]Who is it you wish to see?"
+},
+{
+"k": "29670",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tI'm sorry, Mr. Bigby, but I have quite a few errands to finish."
+},
+{
+"k": "29671",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}[calling out] Oh... Mr. Wolf!"
+},
+{
+"k": "29672",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\t[on the phone]Yes. [beat] {NormalB} Of course."
+},
+{
+"k": "29673",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tNo."
+},
+{
+"k": "29674",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}Yes, I'm sure."
+},
+{
+"k": "29675",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tWhy don't you-- [gets cut off]"
+},
+{
+"k": "29676",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "What the hell?"
+},
+{
+"k": "29677",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Okay, thanks."
+},
+{
+"k": "29678",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[beat] Nice talking to you...{AngryB}Miss White."
+},
+{
+"k": "29679",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{DoubtfulA}\tThat's it? There's nothing else?"
+},
+{
+"k": "29680",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "Just take care of it."
+},
+{
+"k": "29681",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tRight, thanks."
+},
+{
+"k": "29682",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}Flycatcher left his keys."
+},
+{
+"k": "29683",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SadA} Yes. [beat] Well, that's what I'm saying."
+},
+{
+"k": "29684",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[surprised]Cindy?"
+},
+{
+"k": "29685",
+"who": "CINDY",
+"ctx": "Fables105/env_businessoffice",
+"en": "You got a minute? [beat] I tried calling..."
+},
+{
+"k": "29686",
+"who": "CINDY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Hey! Sheriff!"
+},
+{
+"k": "29687",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Let's talk inside."
+},
+{
+"k": "29688",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Yeah, I saw."
+},
+{
+"k": "29689",
+"who": "CINDY",
+"ctx": "Fables105/env_businessoffice",
+"en": "I overheard something at the shop I thought you should know about..."
+},
+{
+"k": "29690",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tShow me Ichabod Crane."
+},
+{
+"k": "29691",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Keep up the good work."
+},
+{
+"k": "29692",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "I won't keep you."
+},
+{
+"k": "29693",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Finally pulling your weight, then."
+},
+{
+"k": "29694",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}[brightly]Thanks!"
+},
+{
+"k": "29695",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tWell... keep up the good work."
+},
+{
+"k": "29696",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tDon't let me get in your way then."
+},
+{
+"k": "29697",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\tIt's nice to see you finally pulling your weight around here."
+},
+{
+"k": "29698",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SadA}There's no need to be rude."
+},
+{
+"k": "29699",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}You know what...fuck you."
+},
+{
+"k": "29700",
+"who": "CROW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[quork]"
+},
+{
+"k": "29701",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tMorning, Crooked Man."
+},
+{
+"k": "29702",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{MockingA} \tNot what I was expecting…."
+},
+{
+"k": "29703",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tHe's got a sharp tongue. I thought it would be better for everyone if he parted with it."
+},
+{
+"k": "29704",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tThanks, Greenleaf."
+},
+{
+"k": "29705",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}\tDon't forget this the next time your Deputy Mayor gets an itch to destroy my worldly posessions."
+},
+{
+"k": "29706",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tWork is work I guess."
+},
+{
+"k": "29707",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tLet's just call it even."
+},
+{
+"k": "29708",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tHey, Sheriff."
+},
+{
+"k": "29709",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tYou gonna come see the truck off? We're leaving for the Farm in a few... {SadA} Thought you might want to, I don't know..."
+},
+{
+"k": "29710",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tOh! Uh, before I forget... Miss White wanted to see you in her office."
+},
+{
+"k": "29711",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tI'll be down in a minute."
+},
+{
+"k": "29712",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{HappyA}\t[relieved]Okay... great."
+},
+{
+"k": "29713",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "She kept my old place for me, so it's like I never left."
+},
+{
+"k": "29714",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "Snow, uh, caught me eating flies again… so I'm back working here for a while."
+},
+{
+"k": "29715",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "Just thought you might be interested..."
+},
+{
+"k": "29716",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "But anyway..."
+},
+{
+"k": "29717",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Nice to have you back."
+},
+{
+"k": "29718",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Good to have you back, Fly."
+},
+{
+"k": "29719",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Don't thank me, thank Snow."
+},
+{
+"k": "29720",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "Right... I did."
+},
+{
+"k": "29721",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Don't thank me... thank Snow."
+},
+{
+"k": "29722",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Good for you."
+},
+{
+"k": "29723",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Good for you, Flycatcher."
+},
+{
+"k": "29724",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Better get going."
+},
+{
+"k": "29725",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "Good idea."
+},
+{
+"k": "29726",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "You'd better get going. Get them out of the city before the mundies start sniffing around."
+},
+{
+"k": "29727",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "Well, I guess I'll get going. Have to get these guys to the Farm by tonight."
+},
+{
+"k": "29728",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "Oh! Snow wanted to see you in her office."
+},
+{
+"k": "29729",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ThinkingA}What about?"
+},
+{
+"k": "29730",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tAll right. Thanks."
+},
+{
+"k": "29731",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ConfusedA}Uh… I do-- I don't know. She just said she wanted to talk to you."
+},
+{
+"k": "29732",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "And… thanks. For your help, I mean."
+},
+{
+"k": "29733",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tRight.  Um... [awkward]{ConcernedA}Even though you look like hell, uh, there's a thing I need you to tell… {AngryB}Damn it. [muttering] I hate this rhyming crap."
+},
+{
+"k": "29734",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Donkey Skin Cloak"
+},
+{
+"k": "29735",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[pickup1][scolding; low]Someone's gonna see you, Colin."
+},
+{
+"k": "29736",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "I... don't know if you remember me..."
+},
+{
+"k": "29737",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[pickup2][what the hell]You called me in here. Remember?"
+},
+{
+"k": "29738",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You killed those women."
+},
+{
+"k": "29739",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You're destroying this town."
+},
+{
+"k": "29740",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You tried to kill me."
+},
+{
+"k": "29741",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You're still responsible."
+},
+{
+"k": "29742",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Of course he is."
+},
+{
+"k": "29743",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Georgie, you're going down ALT"
+},
+{
+"k": "29744",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Crooked Man, you're going down!"
+},
+{
+"k": "29745",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You can argue in jail."
+},
+{
+"k": "29746",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Who did it!?"
+},
+{
+"k": "29747",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I know who did it."
+},
+{
+"k": "29748",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[reject his argument]"
+},
+{
+"k": "29749",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "It was Georgie."
+},
+{
+"k": "29750",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "It was Bloody Mary."
+},
+{
+"k": "29751",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "It was the Tweedles."
+},
+{
+"k": "29752",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "OK, let's talk."
+},
+{
+"k": "29753",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I'll take both of you."
+},
+{
+"k": "29754",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "No deals."
+},
+{
+"k": "29755",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "It was you."
+},
+{
+"k": "29756",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{DoubtfulA}Well, gramercy me, {FlusteredA}take a seat at the very least..."
+},
+{
+"k": "29757",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ConcernedA}Vivian makes a very nice, {ThinkingA}very...[thinks] {HappyA}it's elegant, really, her carpaccio. It's lobster... sirloin..."
+},
+{
+"k": "29758",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConfidentA}[like talking to a friend] Do you want a drink?[beat] {HappyA}Something to eat?"
+},
+{
+"k": "29759",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{WorriedA}You must be tired."
+},
+{
+"k": "29760",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You've come a long way."
+},
+{
+"k": "29761",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And if my envoys are correct… {DoubtfulA}you haven't had a lot of rest recently…"
+},
+{
+"k": "29762",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I'll have a drink."
+},
+{
+"k": "29763",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "We're not friends."
+},
+{
+"k": "29764",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I'm here for one reason."
+},
+{
+"k": "29765",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Actually, I should say that we're not staying long."
+},
+{
+"k": "29766",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{DoubtfulA}Got a scotch?"
+},
+{
+"k": "29767",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[cold] {MockingB}Don't misunderstand the situation here. {AngryB}We? Are not friends. {NormalB}And you're in no position to offer me anything."
+},
+{
+"k": "29768",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "The Business Office has… at minimum, been permissible of my humble ventures. Never said a bad word."
+},
+{
+"k": "29769",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "On the contrary, Sheriff… and I don't wish to contradict you here… but your initiative and mine have been friendly now for a little while."
+},
+{
+"k": "29770",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And that relationship has worked till these ends."
+},
+{
+"k": "29771",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "That has to account for something."
+},
+{
+"k": "29772",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{NormalA}And that relationship's worked till these ends."
+},
+{
+"k": "29773",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{HappyA}Never said a bad word."
+},
+{
+"k": "29774",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{NormalA}Ever since I came aboard these shores, you know..."
+},
+{
+"k": "29775",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "On the contrary, Sheriff... and I don't wish to contradict you here... but your initiative and mine have been friendly for a long while now."
+},
+{
+"k": "29776",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "That's over with."
+},
+{
+"k": "29777",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[tense]{AngryC}Yeah? Well, you can forget all that, that's over with."
+},
+{
+"k": "29778",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "If we'd known what you've been doing...[thinks] trust me, we wouldn't have been so \"accommodating.\""
+},
+{
+"k": "29779",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "But unfortunately for you... you got my attention."
+},
+{
+"k": "29780",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "That was Crane, not me."
+},
+{
+"k": "29781",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{DisgustedA}No, {ConfidentA}you're not."
+},
+{
+"k": "29782",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryC}That was Crane who let you do whatever you wanted.[beat] {AngryA}I'm. Not. Crane."
+},
+{
+"k": "29783",
+"who": "<<ID",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{F44B8CD7-2F1C-4D58-AD1B-3397CD708B95}>>"
+},
+{
+"k": "29784",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{ConcernedA}So why impair what's thus far been such an agreeable union?"
+},
+{
+"k": "29785",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{WorriedA}No?"
+},
+{
+"k": "29786",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{DoubtfulA}Really."
+},
+{
+"k": "29787",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{MockingB}Yeah."
+},
+{
+"k": "29788",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{NormalA}I'm here for one reason. {AngryC}And it's not to eat your fuckin' food."
+},
+{
+"k": "29789",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Let them know that everything's going to be fine."
+},
+{
+"k": "29790",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{ConcernedA}It would help settle everyone's nerves, I think."
+},
+{
+"k": "29791",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "For the sake of transparency, why don't you tell us why you're here..."
+},
+{
+"k": "29792",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Jersey, what do you think you're doing?"
+},
+{
+"k": "29793",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "He's gonna--[gets cut off]"
+},
+{
+"k": "29794",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Sit down, please."
+},
+{
+"k": "29795",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{ConfidentA}Some allotment of evidence?"
+},
+{
+"k": "29796",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ConcernedA}A witness, perhaps."
+},
+{
+"k": "29797",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Mm?"
+},
+{
+"k": "29798",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryC}Faith and Lily. {AngryA}The girls who worked at the Pudding N' Pie."
+},
+{
+"k": "29799",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[cold] You know why I'm here."
+},
+{
+"k": "29800",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{SarcasticA}Did I now? {ConfidentA}I assume by your confidence in accusing me, {Body-SitB}{DisgustedA}you must have some proof of this, yes?"
+},
+{
+"k": "29801",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[casual] {Body-SitA}{NormalA}What women?"
+},
+{
+"k": "29802",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[cold] {AngryB}You know why I'm here. {AngryA}You killed those women."
+},
+{
+"k": "29803",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[muttering] Even if he was always late with the fees."
+},
+{
+"k": "29804",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And I take that service very seriously."
+},
+{
+"k": "29805",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[cold] You took Crane, you kidnapped him."
+},
+{
+"k": "29806",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "\"Kidnapping\" is a much too…[thinks] athletic phrase for what really happened."
+},
+{
+"k": "29807",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "The"
+},
+{
+"k": "29808",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I think we can agree."
+},
+{
+"k": "29809",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "…and I took it upon myself to simply remove him from Office."
+},
+{
+"k": "29810",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "He just plainly wasn't a very good fit for his job…"
+},
+{
+"k": "29811",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "The fact of the matter with Crane is… his use as Deputy Mayor had expired."
+},
+{
+"k": "29812",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "He just plainly wasn't a very good fit for his job - I think we can agree - and I took it upon myself to remove him from Office."
+},
+{
+"k": "29813",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "That's not your decision."
+},
+{
+"k": "29814",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I know you did it."
+},
+{
+"k": "29815",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}I know you did it."
+},
+{
+"k": "29816",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I don't NEED evidence."
+},
+{
+"k": "29817",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryC}I don't need evidence. {AngryB}I don't carry a badge, {AngryA}there's no appeals…"
+},
+{
+"k": "29818",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryE}And you're guilty {AngryD}until I say otherwise.[beat] {AngryA}That's how this works."
+},
+{
+"k": "29819",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Jersey told me you did it."
+},
+{
+"k": "29820",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{WorriedA}It's fine."
+},
+{
+"k": "29821",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}That's a fuckin' lie! I didn't say anything like that!"
+},
+{
+"k": "29822",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "All I said was that this was your town and nothin' wouldn't happen without your approval! Alright? That's it!"
+},
+{
+"k": "29823",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryB}Your servant over there {AngryA}told me you did it."
+},
+{
+"k": "29824",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ConcernedA}If only that were true…"
+},
+{
+"k": "29825",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConcernedA}I thought not, {DoubtfulA}but that's okay."
+},
+{
+"k": "29826",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I apologize if I overstepped my bounds. Won't happen again."
+},
+{
+"k": "29827",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And that's my decision to make. Not yours."
+},
+{
+"k": "29828",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And I hope you believe me when I say, Sheriff, {WorriedA}that I sincerely mean to make it up to you."
+},
+{
+"k": "29829",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "He was mine to deal with."
+},
+{
+"k": "29830",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And I hope you believe me when I say, Sheriff, that I sincerely mean to make it up to you."
+},
+{
+"k": "29831",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You don't get to shoot me."
+},
+{
+"k": "29832",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Whatever you were going to do with Crane, you don't get to shoot me while doing it."
+},
+{
+"k": "29833",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "No, no, I agree, that was entirely uncalled for, a complete misunderstanding. You weren't hurt too badly?"
+},
+{
+"k": "29834",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I hope it didn't inconvenience operations too much."
+},
+{
+"k": "29835",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}You forget what happened at the Pudding N' Pie? You and your {AngryC}goons tried to kill me."
+},
+{
+"k": "29836",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ConcernedA}My wish was merely to take Crane, Sheriff, and as soon as the assignment grew out of control, I put a stop to it."
+},
+{
+"k": "29837",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{WorriedA}I am truly sorry for that whole debacle. {Body-SitB}It was not my intention to put you or Miss White in any sort of danger."
+},
+{
+"k": "29838",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{WorriedA}I know that it doesn't change what happened to you."
+},
+{
+"k": "29839",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And I can only offer my sincerest apologies."
+},
+{
+"k": "29840",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryB}I don't really give a shit if you're {AngryA}\"sorry,\" Crooked Man."
+},
+{
+"k": "29841",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Crane wasn't yours to take."
+},
+{
+"k": "29842",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryB}Crane wasn't yours to take."
+},
+{
+"k": "29843",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Snow stopped it, not you."
+},
+{
+"k": "29844",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryD}You didn't stop it out of the kindness of your heart, {AngryC}you stopped it because Snow White offered up Crane."
+},
+{
+"k": "29845",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConfidentA}That may have appeared to you to be the case, but I assure you, it wasn't."
+},
+{
+"k": "29846",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{WorriedA}And I hope you believe me when I say, Sheriff, that I sincerely mean to make it up to you."
+},
+{
+"k": "29847",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConcernedA}I apologize if I overstepped my bounds. Won't happen again."
+},
+{
+"k": "29848",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{TenseA}Going to make me guess, are you? {Body-SitB}{HappyA}Very well."
+},
+{
+"k": "29849",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{NormalA}The recent murders that have gotten such attention as of late… {TenseA}I don't relish telling  you that they were perpetrated by an employee of mine."
+},
+{
+"k": "29850",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ConcernedA}It's a very unfortunate bit of business, but... I {DisgustedA}promise you that the matter will be dealt with.[beat] Internally."
+},
+{
+"k": "29851",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConfidentA}I just want to settle the issue for you."
+},
+{
+"k": "29852",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{DisgustedA}And to assure you that it's over with."
+},
+{
+"k": "29853",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "But overall... rest assured that it's over."
+},
+{
+"k": "29854",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[seething; through his teeth] {AngryA}\"An unfortunate bit of business\"?[beat] You're gonna tell me right now who killed them."
+},
+{
+"k": "29855",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{DoubtfulA}Sheriff, I have complete respect for you and your job. I hope you know that.[beat] {DisgustedA}But I simply can't divulge that information."
+},
+{
+"k": "29856",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Forgive me, Sheriff, for testing your acumen, but… who do you think committed these crimes?"
+},
+{
+"k": "29857",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I already know who did it. It's no secret."
+},
+{
+"k": "29858",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{FlusteredA}I hope you don't still think I did it."
+},
+{
+"k": "29859",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{WorriedA}I have my bad habits... {NormalA}but manslaughter isn't one of them."
+},
+{
+"k": "29860",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{SarcasticA}Perhaps you're become somewhat unscrewed."
+},
+{
+"k": "29861",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{WorriedA}It's been a long couple of days for you."
+},
+{
+"k": "29862",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{DoubtfulA}Forgive me, Sheriff, for doubting your acumen, but… who do you think committed these crimes?"
+},
+{
+"k": "29863",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryC}I already know who did it."
+},
+{
+"k": "29864",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I'm the law here!"
+},
+{
+"k": "29865",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Sheriff, please."
+},
+{
+"k": "29866",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "I'm the fuckin' law here, Crooked Man, and if you think I'm gonna let you shelter someone who murdered two women in cold blood…"
+},
+{
+"k": "29867",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "The Business Office will deal with them. I'll deal with them.[beat] Not you."
+},
+{
+"k": "29868",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{NormalA}And there's really nothing more to say on the matter."
+},
+{
+"k": "29869",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[nervous]Look, boss..."
+},
+{
+"k": "29870",
+"who": "DEE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[shut it]Jersey…[gets cut off]"
+},
+{
+"k": "29871",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[scared] It was the fuckin' pie man, alright? Georgie Porgie, he clipped the broads!"
+},
+{
+"k": "29872",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[stern] Sit. Down.[beat] Now."
+},
+{
+"k": "29873",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[stern] While Mr. Devil is correct, I would urge him to hold his tongue from now on. [beat] Do you understand me?"
+},
+{
+"k": "29874",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}It was Georgie, alright?"
+},
+{
+"k": "29875",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{HappyA}Well done, Sheriff, I'm sorry I doubted you."
+},
+{
+"k": "29876",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{WorriedA}No, Sheriff. I'm afraid you're mistaken."
+},
+{
+"k": "29877",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "It had to have been Mary."
+},
+{
+"k": "29878",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{TenseA}Those women... I don't relish telling you that the killings were perpetrated by an employee of mine."
+},
+{
+"k": "29879",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{DisgustedA}I'm sorry, Sheriff. {WorriedA}I wish you had me dead to rights, {ConcernedA}I really do, for your own sake."
+},
+{
+"k": "29880",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "No, Sheriff, I'm afraid you're mistaken."
+},
+{
+"k": "29881",
+"who": "DEE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}What the fuck makes you think I did it?"
+},
+{
+"k": "29882",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}The Tweedles did it."
+},
+{
+"k": "29883",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{FlusteredA}What must I say to convince you that I'm innocent, dear?"
+},
+{
+"k": "29884",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryC}Don't give me this \"employee\" bullshit. {AngryA}I know it was you."
+},
+{
+"k": "29885",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{FlusteredA}Nothing?"
+},
+{
+"k": "29886",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[threatening]{Body-SitB}{AnnoyedA}You should've just kept your nose where it fuckin' belonged."
+},
+{
+"k": "29887",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{NormalA}So what do you say, Sheriff? Can we discuss terms?"
+},
+{
+"k": "29888",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConcernedA}Look, the fact is... {WorriedA}George here misinterpreted one of my instructions..."
+},
+{
+"k": "29889",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[shocked] {Body-SitB}{AngryA}Misinterpreted?!"
+},
+{
+"k": "29890",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{NormalA}And I want to make things right. So... {ConfidentA}let's work something out."
+},
+{
+"k": "29891",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{DefensiveA}What's there to work out?!  I'm protected, aren't I?"
+},
+{
+"k": "29892",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Are you seriously throwin' me under the fuckin' carriage?"
+},
+{
+"k": "29893",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{AngryA}Take this fucker! Take all of 'em! I didn't fuckin' start this!"
+},
+{
+"k": "29894",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[calm down] George."
+},
+{
+"k": "29895",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "After everything I've done for you?"
+},
+{
+"k": "29896",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ThinkingB}Alright. Let's talk."
+},
+{
+"k": "29897",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[furious] Fuckin' bullshit! He can't fuckin' hand me over!"
+},
+{
+"k": "29898",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[furious] {AngryA}You're not taking me, you fuckin' ponce!"
+},
+{
+"k": "29899",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ThinkingA}I think I'll be taking {SarcasticB}both of you."
+},
+{
+"k": "29900",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[cold] {Body-SitB}{TenseA}I'd advise against that approach, Bigby."
+},
+{
+"k": "29901",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Fuck you, you fuckin' shitter."
+},
+{
+"k": "29902",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}No deals. It's over, so get up."
+},
+{
+"k": "29903",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "And fuck you too! I'm not goin' anywhere."
+},
+{
+"k": "29904",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{ConcernedA}Only Tennessee whiskey, {WorriedA}unfortunately."
+},
+{
+"k": "29905",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You don't know what this fuckin' guy's like, okay!"
+},
+{
+"k": "29906",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Why should I believe you?"
+},
+{
+"k": "29907",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Georgie, you piece of shit."
+},
+{
+"k": "29908",
+"who": "",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Why, Georgie!?"
+},
+{
+"k": "29909",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Why!?"
+},
+{
+"k": "29910",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitB}{DefensiveA}Does it matter?"
+},
+{
+"k": "29911",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Why should I believe a lying bastard like you?"
+},
+{
+"k": "29912",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryC}You piece of shit. {AngryD}I should have fuckin' known."
+},
+{
+"k": "29913",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}Just go with him, Georgie! You're gonna sink us all!"
+},
+{
+"k": "29914",
+"who": "VIVIAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ConfusedA}Georgie…"
+},
+{
+"k": "29915",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}{Body-StandA}What the fuck is this shit! You said you'd cover for us!"
+},
+{
+"k": "29916",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[a light laugh] A quick death by the rope?"
+},
+{
+"k": "29917",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "If you're not gonna house me, what the fuck good are you. Do you think I won't roll over like that."
+},
+{
+"k": "29918",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "My boy... I think we can do a little better than that."
+},
+{
+"k": "29919",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You think I give a fuck if I'm the one who--[stops] Who the shit do you think you fuckers are?"
+},
+{
+"k": "29920",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Listen to me you degenerate creep... I am not getting fuckin' hung for this."
+},
+{
+"k": "29921",
+"who": "DEE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{HappyA}[snickers]"
+},
+{
+"k": "29922",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[snicker] {HappyA}Yeah, right..."
+},
+{
+"k": "29923",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{CockyA}[nervous snicker]"
+},
+{
+"k": "29924",
+"who": "BIGBY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{ThinkingB}Just what are you talking about?"
+},
+{
+"k": "29925",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{Body-SitA}{HappyA}I've just been left in relative peace, I think puts it best. Allowed to live my own way."
+},
+{
+"k": "29926",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[almost yelling] {AngryA}You fuckin' asked me to do this! You told me to kill them!"
+},
+{
+"k": "29927",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}Your protection has limits... {DisgustedA}and I think you've far exceeded yours."
+},
+{
+"k": "29928",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Whatever you like. If it's a simple transaction...[is cut off]"
+},
+{
+"k": "29929",
+"who": "JERSEY",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "Just surrender!"
+},
+{
+"k": "29930",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "[sigh]To speak the truth, I've never been a very good mediator..."
+},
+{
+"k": "29931",
+"who": "DEE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "{AngryA}Get the fuck out of here!"
+},
+{
+"k": "29932",
+"who": "PORGIE",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "There is no way I am goin' with this fuckin' son-of-a-bitch! Are you kidding me!"
+},
+{
+"k": "29933",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_crookedmanlair",
+"en": "You be a good boy, and clean it up."
+}
+]

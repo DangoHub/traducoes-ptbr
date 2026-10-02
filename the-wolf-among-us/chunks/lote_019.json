@@ -1,0 +1,1856 @@
+[
+{
+"k": "4795",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Dammit. Well... where the hell did you come from, then?"
+},
+{
+"k": "4796",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Is that a flower petal?"
+},
+{
+"k": "4797",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Is that yours?"
+},
+{
+"k": "4798",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Don't step over there."
+},
+{
+"k": "4799",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Beauty's?"
+},
+{
+"k": "4800",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Touch"
+},
+{
+"k": "4801",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Prints are pretty small."
+},
+{
+"k": "4802",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "SNOW"
+},
+{
+"k": "4803",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Hm?"
+},
+{
+"k": "4804",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Bigby… hey."
+},
+{
+"k": "4805",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yeah. Okay."
+},
+{
+"k": "4806",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I just need you to answer a few questions."
+},
+{
+"k": "4807",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "You okay, Beauty?"
+},
+{
+"k": "4808",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yeah, thanks. I'm... I'm fine."
+},
+{
+"k": "4809",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Want to call your husband?"
+},
+{
+"k": "4810",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "You want me to call Beast?"
+},
+{
+"k": "4811",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "No, no. That's okay. I don't want to wake him."
+},
+{
+"k": "4812",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "He might already be awake."
+},
+{
+"k": "4813",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Just the facts"
+},
+{
+"k": "4814",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "What are you doing out this late?"
+},
+{
+"k": "4815",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Well. I went for a walk. {suspiciousa}I don't see what's wrong with that..."
+},
+{
+"k": "4816",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Didn't say there was."
+},
+{
+"k": "4817",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I understand."
+},
+{
+"k": "4818",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I'm sure this is the last place you want to be, but I've got to ask you a few questions before I can let you go."
+},
+{
+"k": "4819",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "You need to answer a couple questions before I let you go."
+},
+{
+"k": "4820",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Doesn't sound like I have a choice."
+},
+{
+"k": "4821",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Just... like this. I didn't touch anything. I saw it and ran and got Snow."
+},
+{
+"k": "4822",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "So, how did you find... her?"
+},
+{
+"k": "4823",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "No. Not that I know of. There wasn't anyone on the street. [she thinks for a second] I mean, maybe a cab went by. I can't really be sure. Sorry."
+},
+{
+"k": "4824",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Did you see anyone leaving?"
+},
+{
+"k": "4825",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Bigby, I don't need to look over there to see her face. I don't know her. Sorry."
+},
+{
+"k": "4826",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I've never seen her."
+},
+{
+"k": "4827",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Do you know this woman?"
+},
+{
+"k": "4828",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Look at her again."
+},
+{
+"k": "4829",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Does Beast know where you are?"
+},
+{
+"k": "4830",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yes, of course."
+},
+{
+"k": "4831",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Beast told me you left"
+},
+{
+"k": "4832",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "She's acting strange."
+},
+{
+"k": "4833",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I spoke with Beast earlier."
+},
+{
+"k": "4834",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Thanks for your time."
+},
+{
+"k": "4835",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Thanks for your time. I'm sure this was hard for you."
+},
+{
+"k": "4836",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I don't know what you're getting at."
+},
+{
+"k": "4837",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Can I go now?"
+},
+{
+"k": "4838",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I really don't like how this went. If this is how it goes when someone does the right thing, I understand why people don't even bother. Good night."
+},
+{
+"k": "4839",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yeah. Don't leave town."
+},
+{
+"k": "4840",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yeah. Don't mention this to anyone yet."
+},
+{
+"k": "4841",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Not anyone, Beauty. Not even Beast."
+},
+{
+"k": "4842",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I understand... Find this guy, Bigby."
+},
+{
+"k": "4843",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I'm going… I need a drink... to settle my nerves. Goodnight, Snow."
+},
+{
+"k": "4844",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Do anything stupid and I'll throw you down the Witching Well myself."
+},
+{
+"k": "4845",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Alright"
+},
+{
+"k": "4846",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "What is..."
+},
+{
+"k": "4847",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[remembering]Her ribbon."
+},
+{
+"k": "4848",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Gate Lock"
+},
+{
+"k": "4849",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Plastic bag"
+},
+{
+"k": "4850",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Flower Bed"
+},
+{
+"k": "4851",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Footprint"
+},
+{
+"k": "4852",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Petal"
+},
+{
+"k": "4853",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Do you have to tell him? No one knows about this yet. Maybe we hold off until we get a better handle on this."
+},
+{
+"k": "4854",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "As long as King Cole is gone he's in charge."
+},
+{
+"k": "4855",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "If he found out I knew and didn't tell him, it'd just be worse."
+},
+{
+"k": "4856",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Tell him I'm on it. I'm not sure how much help that'll be, but we'll get whoever did this. I can promise you that."
+},
+{
+"k": "4857",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "So who else can he blame?"
+},
+{
+"k": "4858",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "He can't possibly blame you for this."
+},
+{
+"k": "4859",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "With King Cole gone, Crane is in charge, and he'll be worried about protecting his own ass as usual."
+},
+{
+"k": "4860",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Whoever did this."
+},
+{
+"k": "4861",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "How about the son of a bitch who did this?"
+},
+{
+"k": "4862",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Himself"
+},
+{
+"k": "4863",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "He's the Deputy Mayor! Tell him to shove it. Blaming you is bullshit."
+},
+{
+"k": "4864",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I guess.."
+},
+{
+"k": "4865",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[shrug]You're right. Shit rolls downhill."
+},
+{
+"k": "4866",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[embarrassed]Sorry."
+},
+{
+"k": "4867",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yes. I'm fine. [takes a breath] I'm just trying to figure out what I'm going to tell Crane."
+},
+{
+"k": "4868",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Do you have to tell him?"
+},
+{
+"k": "4869",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Tell him I'm on it."
+},
+{
+"k": "4870",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "He can't possibly blame you."
+},
+{
+"k": "4871",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "With King Cole gone, he's in charge, and this happened on our watch."
+},
+{
+"k": "4872",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I'm glad you're on this."
+},
+{
+"k": "4873",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "You can count on me."
+},
+{
+"k": "4874",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I know."
+},
+{
+"k": "4875",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I'll do my best."
+},
+{
+"k": "4876",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Let's just get this guy."
+},
+{
+"k": "4877",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I'm really not sure how much time we have."
+},
+{
+"k": "4878",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Damn..."
+},
+{
+"k": "4879",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Either something very sharp, or something with magic attached to it."
+},
+{
+"k": "4880",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5]Strange cut... what did this to her?"
+},
+{
+"k": "4881",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "What could do something like that?"
+},
+{
+"k": "4882",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] That was a long time ago..."
+},
+{
+"k": "4883",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Possibly... I remember it being pretty clean when he cut me open..."
+},
+{
+"k": "4884",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Could The Woodsman's axe have done this?"
+},
+{
+"k": "4885",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] There's not much blood."
+},
+{
+"k": "4886",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Hmmm. . ."
+},
+{
+"k": "4887",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Clean. So, they didn't just dump you here."
+},
+{
+"k": "4888",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Look how her head was set down... perfectly balanced. Not a hair out of place. Now, obviously someone wanted us to find her and cared how she looked when we did."
+},
+{
+"k": "4889",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "She was placed here with some care."
+},
+{
+"k": "4890",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "That's... odd... [shudders] I'm sorry. It's hard to look at."
+},
+{
+"k": "4891",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]C'mon Snow.  Are you gonna talk to me at all?  Why the hell did you drag me down to the Woodlands at 5:30 in the morning?"
+},
+{
+"k": "4892",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]It's Beauty."
+},
+{
+"k": "4893",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Who's sitting over there?"
+},
+{
+"k": "4894",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Who found her?"
+},
+{
+"k": "4895",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'll explain more when we get inside.  We don't have much time.  [frustrated at rusty lock]Stuck..."
+},
+{
+"k": "4896",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]We just don't have much time.  [struggling with rusty lock]Damn this thing!"
+},
+{
+"k": "4897",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][scared]Is... she's not a Mundy... right?"
+},
+{
+"k": "4898",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]So... Who found her?"
+},
+{
+"k": "4899",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][gentle, assuming Bigby is shocked]It's a shock... I know."
+},
+{
+"k": "4900",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Yes, and I'm worried when they find out, there's going to be a panic inside."
+},
+{
+"k": "4901",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Fables don't usually murder each other."
+},
+{
+"k": "4902",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Well... Trusty John.   He's our new doorman."
+},
+{
+"k": "4903",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Don't know enough yet."
+},
+{
+"k": "4904",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Keep it quiet?  You mean sweep it under the rug."
+},
+{
+"k": "4905",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Glad to hear you agree, Bigby. I was losing my mind with worry..."
+},
+{
+"k": "4906",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Yeah.  No one else needs to know right now."
+},
+{
+"k": "4907",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I wish you could.  I'm going out of my mind with worry."
+},
+{
+"k": "4908",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I really don't know enough yet, Snow.  I can't make any promises."
+},
+{
+"k": "4909",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]A little reassurance would go a long way right now, Bigby."
+},
+{
+"k": "4910",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Take the gate.  We can't have people coming in from outside, either."
+},
+{
+"k": "4911",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Okay.  What are you going to do?"
+},
+{
+"k": "4912",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Cover it up"
+},
+{
+"k": "4913",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Look for evidence"
+},
+{
+"k": "4914",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Talk to Beauty"
+},
+{
+"k": "4915",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'm going to use it to cover up this crime scene."
+},
+{
+"k": "4916",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]We got thirty minutes?"
+},
+{
+"k": "4917",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'm gonna use it to look for evidence, before this place gets trampled."
+},
+{
+"k": "4918",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I'm gonna use it to talk to my witness.  She's the only one who might be able to tell me how this happened."
+},
+{
+"k": "4919",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Well, I'll leave you to it.  But hurry."
+},
+{
+"k": "4920",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][very genuine]Bigby, I'm sorry."
+},
+{
+"k": "4921",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][gentle]Don't be.  I'm the one you should call.  It's my job."
+},
+{
+"k": "4922",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][gentle]Beauty, are you alright?"
+},
+{
+"k": "4923",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Regardless, they'll all be awake and down here soon."
+},
+{
+"k": "4924",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'd say it's been here... an hour maybe?"
+},
+{
+"k": "4925",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][alt]I'd say it's been here... a couple hours maybe?"
+},
+{
+"k": "4926",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][alt]I'd say it's been here... less than an hour maybe?"
+},
+{
+"k": "4927",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Blood.  [refining it]Drops of blood."
+},
+{
+"k": "4928",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]That plastic bag was a good find. Now it's got me wondering who brought it in."
+},
+{
+"k": "4929",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Only a few minutes."
+},
+{
+"k": "4930",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Me too.  How long we got?"
+},
+{
+"k": "4931",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]How we doing on time?"
+},
+{
+"k": "4932",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Not great."
+},
+{
+"k": "4933",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Clean.  Alright."
+},
+{
+"k": "4934",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Hey, uh.  Can I look at your shoes real quick?"
+},
+{
+"k": "4935",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]That poor girl..."
+},
+{
+"k": "4936",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]No.  I never seen it before."
+},
+{
+"k": "4937",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Is this yours, Beauty?"
+},
+{
+"k": "4938",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I found something, I gotta ask you about."
+},
+{
+"k": "4939",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Like I said... [match tone with following line]"
+},
+{
+"k": "4940",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Can I see your hands?"
+},
+{
+"k": "4941",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]What for?  You don't think I did this?"
+},
+{
+"k": "4942",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Calm down.  Just let me see them."
+},
+{
+"k": "4943",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Yeah."
+},
+{
+"k": "4944",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][a little snarky]Okay?"
+},
+{
+"k": "4945",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I found a set of footprints in the mud over there.  Could be a woman's shoes."
+},
+{
+"k": "4946",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Well they're not mine.  You can check."
+},
+{
+"k": "4947",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Okay."
+},
+{
+"k": "4948",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]You been shopping recently?"
+},
+{
+"k": "4949",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]No.  What are you after?"
+},
+{
+"k": "4950",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Nothing.  Never mind."
+},
+{
+"k": "4951",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Thrown anything away tonight?  In the garbage over there?"
+},
+{
+"k": "4952",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Uh.  No."
+},
+{
+"k": "4953",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Let me stop you right now.  I do like to shop... at Barney's.  They do NOT use plastic bags.  And I would never step in mud in these shoes.  Look at them."
+},
+{
+"k": "4954",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][sad]I didn't notice much... besides... her..."
+},
+{
+"k": "4955",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I found a plastic bag, with blood in it.  And over there, an imprint of a woman's shoes.  So I gotta ask... I know you like to shop..."
+},
+{
+"k": "4956",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Okay, fine.  I had to ask.  Did you see anything else when you walked in?"
+},
+{
+"k": "4957",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The prints are fairly well defined.  Not a lot of movement."
+},
+{
+"k": "4958",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Do you think there's any way we can keep this quiet?"
+},
+{
+"k": "4959",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][miffed]\"Cover it up.\" But you said Faith deserves better."
+},
+{
+"k": "4960",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][growly, e.g. \"Lay off me, Snow\"]Listen-- I'll do whatever it takes to protect everyone.  Don't make it worse on me."
+},
+{
+"k": "4961",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I think the bag was used to clean up some of the blood around here."
+},
+{
+"k": "4962",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][ulp]I think maybe... her head was inside."
+},
+{
+"k": "4963",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The bag is connected to the murder somehow.  Not sure exactly how yet."
+},
+{
+"k": "4964",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Well.  We don't have too much time left."
+},
+{
+"k": "4965",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]What did you find?"
+},
+{
+"k": "4966",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]So someone was back there?"
+},
+{
+"k": "4967",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Bag and Shoes"
+},
+{
+"k": "4968",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Shoes"
+},
+{
+"k": "4969",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]How am I supposed to clear you without asking?  I just tell everyone I took your word?"
+},
+{
+"k": "4970",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][offended]Really!  Come on, Bigby."
+},
+{
+"k": "4971",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][anxious]Bigby, we're really coming down to the wire here."
+},
+{
+"k": "4972",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][firm]I know.  Now let me finish."
+},
+{
+"k": "4973",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Have you checked the time, Bigby?"
+},
+{
+"k": "4974",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]No."
+},
+{
+"k": "4975",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]You have any idea what happened?"
+},
+{
+"k": "4976",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'm sorry.  It's 6 AM.  We've got to go."
+},
+{
+"k": "4977",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Yeah"
+},
+{
+"k": "4978",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Confusing"
+},
+{
+"k": "4979",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Yeah, I think so."
+},
+{
+"k": "4980",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Maybe.  At least, I'm closing in on something."
+},
+{
+"k": "4981",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The evidence isn't adding up here.  There's something else we don't know."
+},
+{
+"k": "4982",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Something you can share?"
+},
+{
+"k": "4983",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] The evidence is starting to tell me a story."
+},
+{
+"k": "4984",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][agreeing]We need more information."
+},
+{
+"k": "4985",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Or another witness."
+},
+{
+"k": "4986",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'll take that as a \"no.\""
+},
+{
+"k": "4987",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Killed elsewhere"
+},
+{
+"k": "4988",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "A message"
+},
+{
+"k": "4989",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Someone was watching..."
+},
+{
+"k": "4990",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The way she was placed... the clear intent for us to find her.  It's a message."
+},
+{
+"k": "4991",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Oh my god, to who?"
+},
+{
+"k": "4992",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "All of us"
+},
+{
+"k": "4993",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Maybe me"
+},
+{
+"k": "4994",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]All of us.  Judging from where she was left-- most Fables live here."
+},
+{
+"k": "4995",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Maybe... me.  I was the last person to see her..."
+},
+{
+"k": "4996",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I don't know yet.  It's what I intend to find out."
+},
+{
+"k": "4997",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I agree... a sick message."
+},
+{
+"k": "4998",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Some sick fuck wants to get to me..."
+},
+{
+"k": "4999",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Some sick fuck wants to send us all a message."
+},
+{
+"k": "5000",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]You're right. Let's get moving.  We can talk about theories later."
+},
+{
+"k": "5001",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Beauty.  What are you doing here? What's going on?"
+},
+{
+"k": "5002",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Thank god."
+},
+{
+"k": "5003",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][somewhat shocked and sympathetic]You knew this girl?"
+},
+{
+"k": "5004",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Trusty John.  Great.  Think he'd lie for us?"
+},
+{
+"k": "5005",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Anyway..."
+},
+{
+"k": "5006",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "No problem"
+},
+{
+"k": "5007",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Guess I have to"
+},
+{
+"k": "5008",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "It's not enough"
+},
+{
+"k": "5009",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Not a problem."
+},
+{
+"k": "5010",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Guess I have to."
+},
+{
+"k": "5011",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Who are the first Fables to wake up usually?"
+},
+{
+"k": "5012",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]That's all we have."
+},
+{
+"k": "5013",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]It's not enough time."
+},
+{
+"k": "5014",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I don't like it either."
+},
+{
+"k": "5015",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I just want to get out of here, Bigby.  Can I please leave?"
+},
+{
+"k": "5016",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I think she was killed somewhere else, and taken here."
+},
+{
+"k": "5017",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Okay.  How do you know?"
+},
+{
+"k": "5018",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "placement"
+},
+{
+"k": "5019",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "footprints"
+},
+{
+"k": "5020",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The plastic bag, with the blood at the bottom."
+},
+{
+"k": "5021",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I think you might be right..."
+},
+{
+"k": "5022",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I agree, but, that doesn't tell us much about how it got here."
+},
+{
+"k": "5023",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Her head was placed on the steps, deliberately, for someone to find."
+},
+{
+"k": "5024",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The muddy footprints suggest someone walked in here."
+},
+{
+"k": "5025",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Yes... But without a body, we can't prove those aren't HERS from earlier."
+},
+{
+"k": "5026",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I agree.  You're right.  Someone carried Faith from outside, and brought her here."
+},
+{
+"k": "5027",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "bag"
+},
+{
+"k": "5028",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "where she was headed"
+},
+{
+"k": "5029",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]When she left, she never said anything about heading to the Woodlands."
+},
+{
+"k": "5030",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I suppose.  But that might also have been something she was trying to hide from you."
+},
+{
+"k": "5031",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I think whoever hid in the bushes, also carried Faith's head."
+},
+{
+"k": "5032",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "petal & imprints"
+},
+{
+"k": "5033",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "just a hunch"
+},
+{
+"k": "5034",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The imprints in the mud, near the flower bushes.  Someone stood there a long time watching.  Then they walked forward, catching a petal on their clothes.  Then, as they lay her head on the steps, it dropped where I found it."
+},
+{
+"k": "5035",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][impressed]I think you're right, Bigby.  And now we need to know who."
+},
+{
+"k": "5036",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Wish we had a little more to go on."
+},
+{
+"k": "5037",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Just a hunch.  Sorry."
+},
+{
+"k": "5038",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Footprints on pavement"
+},
+{
+"k": "5039",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Didn't happen by accident"
+},
+{
+"k": "5040",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][gentle]I know, Bigby.  I just wondered if you'd found anything.  To help us prove it."
+},
+{
+"k": "5041",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][low, tired]Look... Snow...  she didn't get here by accident.   Someone... someone put her there."
+},
+{
+"k": "5042",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]No... you don't think he..."
+},
+{
+"k": "5043",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]The Woodsman.  He attacked her, I stepped in.  Then he threatened to kill us both."
+},
+{
+"k": "5044",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Thank you, Bigby."
+},
+{
+"k": "5045",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Recognize Faith?"
+},
+{
+"k": "5046",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Found some evidence"
+},
+{
+"k": "5047",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Are we done yet, Bigby? I really want to go home now. Please?"
+},
+{
+"k": "5048",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Well, hurry up and ask me whatever. I wanna go."
+},
+{
+"k": "5049",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Not quite yet. I got something else to ask you."
+},
+{
+"k": "5050",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Thanks, Bigby."
+},
+{
+"k": "5051",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Yeah. I'm sorry. You can go."
+},
+{
+"k": "5052",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Something?"
+},
+{
+"k": "5053",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Beauty... I got reason to believe... look, is there something... going on?"
+},
+{
+"k": "5054",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][under his breath quick]..ahfuckit."
+},
+{
+"k": "5055",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Now can I leave?"
+},
+{
+"k": "5056",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Nevermind"
+},
+{
+"k": "5057",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Does that mean I can go?"
+},
+{
+"k": "5058",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]Actually. Never mind."
+},
+{
+"k": "5059",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]Not yet."
+},
+{
+"k": "5060",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2][aggravated sigh]Soon, though, right?"
+},
+{
+"k": "5061",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Doing okay?"
+},
+{
+"k": "5062",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I'd feel better if I could leave."
+},
+{
+"k": "5063",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "You alright?"
+},
+{
+"k": "5064",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Bigby, c'mon. I'm fine."
+},
+{
+"k": "5065",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Think of anything new?"
+},
+{
+"k": "5066",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]If you remember anything else you saw or heard."
+},
+{
+"k": "5067",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]I've told you everything I know. Honestly."
+},
+{
+"k": "5068",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Not yet"
+},
+{
+"k": "5069",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2]Up there? [beat]No."
+},
+{
+"k": "5070",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] [wanting to be sensitive] We can, uh... we can look her up in the registry when we get back to the office, Bigby. ...She'll be in the books. Find out which Fable she was, exactly."
+},
+{
+"k": "5071",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] You're the only Fable who sleeps past ten... nowadays. All the rest of us keep normal jobs."
+},
+{
+"k": "5072",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] [compassionate] Wait a minute, OK?"
+},
+{
+"k": "5073",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] [sympathetic] {ThinkingB}We'll find out more at the business office. {SadA}She'll be in the books. I'm sure of it."
+},
+{
+"k": "5074",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] I should have brought him in."
+},
+{
+"k": "5075",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] The Woodsman?"
+},
+{
+"k": "5076",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] Yeah, The Woodsman!"
+},
+{
+"k": "5077",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] The evidence doesn't really point to him, though..."
+},
+{
+"k": "5078",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] I don't-- we don't know WHAT the evidence points to! I can't let him-- [sighs] [pause]"
+},
+{
+"k": "5079",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] [sincere] Please don't let this get personal...This girl needs you to do the smart thing and find out who she was. [pause] *I* need you to do the smart thing. [gentle] I need you, Bigby. PLEASE don't make me do this alone."
+},
+{
+"k": "5080",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] I have to go to The Woodsman's apartment. Even if he's not there, it's the last place I saw her. The records can wait."
+},
+{
+"k": "5081",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] I'll never forgive myself."
+},
+{
+"k": "5082",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] [defeated] Alright..."
+},
+{
+"k": "5083",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup2] But if it turns out he did it, Snow... if I wasted my time, and he... CONJURES a goddamn alibi or something..."
+},
+{
+"k": "5084",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Muddy Spot"
+},
+{
+"k": "5085",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Imprint"
+},
+{
+"k": "5086",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Trash Can"
+},
+{
+"k": "5087",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Blood Trail"
+},
+{
+"k": "5088",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Lift"
+},
+{
+"k": "5089",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Coat"
+},
+{
+"k": "5090",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Don't make me come over there."
+},
+{
+"k": "5091",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]Don't make me come over there."
+},
+{
+"k": "5092",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup1]Sorry, Bigby. Didn't mean to be an asshole."
+},
+{
+"k": "5093",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Come on out."
+},
+{
+"k": "5094",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]Come on out."
+},
+{
+"k": "5095",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Stay off the grass."
+},
+{
+"k": "5096",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]There's no walking on the grass. Snow White's orders. [beat] She made a sign and everything."
+},
+{
+"k": "5097",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup1]I'll be sure to send her an apology."
+},
+{
+"k": "5098",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup1]You're still standing there, aren't you?"
+},
+{
+"k": "5099",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]Beauty…"
+},
+{
+"k": "5100",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup1]Hello, Bigby."
+},
+{
+"k": "5101",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Out pretty late."
+},
+{
+"k": "5102",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup4]You're out pretty late..."
+},
+{
+"k": "5103",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup1]Is there some sort of curfew I don't know about? I'm a few centuries old, Bigby. I think I can handle it."
+}
+]

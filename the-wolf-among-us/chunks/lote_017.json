@@ -1,0 +1,1340 @@
+[
+{
+"k": "4321",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Adam Harrington for Stars. Ah you broke my fucking jaw you bastard.oh fuck you. I'm the woodsman you goddamned whore ah. I saved little red riding hood from this this fucking monster. I cut him open and filled his goddamned belly full of stones and threw him in the fucking river, thats who the fuck I am you stupid fucking whore ow. the old woman, the grandmother, red riding hood, I wasn't there to save her, to help, I was gonna rob her. walked past for weeks, she didn't look like it but she had money hah I was sure of it. she wouldnt put up any kind of fight. in the night i finally get up the fucking nerve, there you are lying in the bed. I only saved her cuz I thought it might get me a reward, she didnt give me shit, cept a bunch of people thinking I'm something I ain't. I played along as long as I could, only thing I managed to get from it was a free drink every now and then, lot o good that did me eh? she shes dead? Bigby Bigby I'm a piece of shit ok I know that, I know that, I hit that girl I did but I didn't kill her Bigby you gotta believe me right? there gonna string me up Bigby, like you said it looks fuckin bad, it looks real fuckin bad. I didn't do it. see Bigby please you cant theyll throw me down the fucking witching well, thats what they'll do and you know it, I didn't do it man you know that."
+},
+{
+"k": "4322",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[A nice gap between lines so we can cut it up][pickup1] That's right. Quit fucking around. Come out. I know you're fucking in there. You've got more to give. Come on out you fucking dog. Let me go get my axe so we can really play. Come on out Wolf. Let's have at it… once and for all. I'll put you out of your misery."
+},
+{
+"k": "4323",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] You fucking mongrel... you ignorant fuck..."
+},
+{
+"k": "4324",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup3]Aw...shit."
+},
+{
+"k": "4325",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] Oh, fer fucks sake."
+},
+{
+"k": "4326",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] This is a fuckin' calamity."
+},
+{
+"k": "4327",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] Aye, I should be the pissed one here."
+},
+{
+"k": "4328",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] Oye. Fellas, it don't need to go this far. Ya had a scrap! Ya blew off some steam. No need to take it any further, mate."
+},
+{
+"k": "4329",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] [regretting letting it get this far] Alright, come on. Ease up, the both of ya."
+},
+{
+"k": "4330",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Get off the street."
+},
+{
+"k": "4331",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup4] Sorry about that, Toad. He sent me out the window. I... didn't want this."
+},
+{
+"k": "4332",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup4]Toad... you need to get off the street. You don't have your glamour."
+},
+{
+"k": "4333",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup] \"Sorry for smashin' ya car, Mr. Toad. I'm busted up about it. It's real shame.\" That's what someone with some decency would say. But that's not you is it?"
+},
+{
+"k": "4334",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup] I shouldn't blame you for smashin' me car, you were tryin'  to help but... even when you help... things end up more fucked than they started."
+},
+{
+"k": "4335",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "How's your insurance?"
+},
+{
+"k": "4336",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "So... how good is your insurance?"
+},
+{
+"k": "4337",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup] Well, at least you're not fucking dead."
+},
+{
+"k": "4338",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup1] Yer both tough buggers."
+},
+{
+"k": "4339",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Quit fucking around."
+},
+{
+"k": "4340",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "I know you're fucking in there."
+},
+{
+"k": "4341",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Come out."
+},
+{
+"k": "4342",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "I'll put you out of your misery."
+},
+{
+"k": "4343",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Come on out Wolf."
+},
+{
+"k": "4344",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "You've got more to give."
+},
+{
+"k": "4345",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Come on out you fucking dog."
+},
+{
+"k": "4346",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "once and for all."
+},
+{
+"k": "4347",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Let me go get my axe so we can really play."
+},
+{
+"k": "4348",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "Let's have at it…"
+},
+{
+"k": "4349",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [alt] [more resigned than mad]\"Apologies for smashin' ya car, Toad. I'm gutted for you mate, it's a real shame...\""
+},
+{
+"k": "4350",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] Some things are more important than your car."
+},
+{
+"k": "4351",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [alt] [more resigned than mad] But that's not you is it. Gotta play the [silent h] hard man role."
+},
+{
+"k": "4352",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] Maybe you two deserve one another."
+},
+{
+"k": "4353",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [groaned] Hey, Toad."
+},
+{
+"k": "4354",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [alt] Sorry about the car... we ended up going out the window. Couldn't be avoided."
+},
+{
+"k": "4355",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [mellow sarcastic] Oh, no. By all means."
+},
+{
+"k": "4356",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [mellow sarcastic] Make yourself comfortable."
+},
+{
+"k": "4357",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [mellow sarcastic] Take your time."
+},
+{
+"k": "4358",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [mellow sarcastic] Can I get you [any-FING]anything? Pillow perhaps."
+},
+{
+"k": "4359",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [more contemplative than mad] I can't be mad at you... I called you... and you come to help... I can't be mad..."
+},
+{
+"k": "4360",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5][resigned] But even when you help... things end up more fucked than they started."
+},
+{
+"k": "4361",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5]Yeah. [groans again as his back cracks]Gimme a second."
+},
+{
+"k": "4362",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] [shellshocked] My... car..."
+},
+{
+"k": "4363",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] Come on out..."
+},
+{
+"k": "4364",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] Yeah... that's right..."
+},
+{
+"k": "4365",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_fight",
+"en": "[pickup5] There you are..."
+},
+{
+"k": "4366",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed, defensive] What?"
+},
+{
+"k": "4367",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Fuckin' hell..."
+},
+{
+"k": "4368",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed] {flustereda} I called you {annoyeda} twenty minutes ago."
+},
+{
+"k": "4369",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed] What're we payin' you for exactly? It's our dollars that are keepin' this who thing running and…I... for one..."
+},
+{
+"k": "4370",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed] If you were me? What? If you were me you'd've had to listen to The Woodsman spend the last hour smashin' up the place. I call you twenty minutes ago and you show up talkin' shite about tone?"
+},
+{
+"k": "4371",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pleading] No, I know. I know. I'm just waitin' for a check to clear. A day-- two... at the most."
+},
+{
+"k": "4372",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Not a risk I'm willing to take. Do you have any idea what it would take to relocate everyone in Fabletown? Go see a witch. Get a glamour."
+},
+{
+"k": "4373",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Not everyone made it out of the Homelands with their fortunes intact, Sheriff. Some of us actually have to work for a living."
+},
+{
+"k": "4374",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'll admit, it's a rash purchase. That's true. I should be up on my glamour bill before indulging but you know I can't help myself, Bigby. I tried, I did, to take it back, but the second you drive it off the lot, you're stuck man."
+},
+{
+"k": "4375",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "All that's behind me, Sheriff. I'm on the straight and narrow now. I got a family. We all had our wild days, you, most of all were a right terror if I remember correctly..."
+},
+{
+"k": "4376",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Don't worry about me Bigby. I appreciate your help. Take care of yourself..."
+},
+{
+"k": "4377",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I assumed that was implied, Bigby. You sayin' it has me a bit worried now."
+},
+{
+"k": "4378",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Don't worry about your car, Toad. I'll be sure to take good care of it."
+},
+{
+"k": "4379",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You don't think a human is gonna notice a three foot toad walking thru the streets of New York?"
+},
+{
+"k": "4380",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Bigby, they're bleedin' me dry, mate. The quality of the spell goes down, but the rates keep climbing up."
+},
+{
+"k": "4381",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You see any Mundys around here? It's not a problem, mate."
+},
+{
+"k": "4382",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[shooting the sentiment back at Bigby] Do YOU have any idea how much it costs to have an entire family in glamour?"
+},
+{
+"k": "4383",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Aw shit. I didn't mean you, mate."
+},
+{
+"k": "4384",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Unlike the people up in the Woodlands."
+},
+{
+"k": "4385",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[alt] Unlike the people who run Fabletown. Up there in that ivory tower they call \"The Woodlands.\""
+},
+{
+"k": "4386",
+"who": "STUB",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "More excited TOAD."
+},
+{
+"k": "4387",
+"who": "MUSTANG",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[robotic] Please step away from the vehicle."
+},
+{
+"k": "4388",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'm looking at a 3 foot toad."
+},
+{
+"k": "4389",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[matter of fact] {doubtfula} I'm looking at a 3 foot toad."
+},
+{
+"k": "4390",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{thinkinga} I can't have you runnin' around New York lookin' how you look."
+},
+{
+"k": "4391",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed] I called you twenty minutes ago."
+},
+{
+"k": "4392",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You called. I'm here. What's the situation?"
+},
+{
+"k": "4393",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Sorry I'm late."
+},
+{
+"k": "4394",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed] The situation? You can't hear the situation? The bloody Woodsman has spent the last hour smashin' up the place, while you was takin' your time to get over here."
+},
+{
+"k": "4395",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Watch your tone."
+},
+{
+"k": "4396",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[annoyed, sarcastic] Is that what you come for? Stand in the lobby and have a smoke? Did you need anything else? Drink perhaps? [ramping up the anger] We could have a bit of a chat [pissed], while this drunk shit smashes up the fuckin' place."
+},
+{
+"k": "4397",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{thinkinga} If you can't afford to look human, you're going to The Farm. {thinkingb} It's as simple as that."
+},
+{
+"k": "4398",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{worrieda} You can't send me up to live with those {angrya} animals..."
+},
+{
+"k": "4399",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{confuseda} You know what I mean."
+},
+{
+"k": "4400",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I don't make the rules."
+},
+{
+"k": "4401",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{normalb} There's too much at stake."
+},
+{
+"k": "4402",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{thinkinga} I can't give you a free pass on this, Toad. {normala} My hands are tied."
+},
+{
+"k": "4403",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[sad] {sada} Right, right."
+},
+{
+"k": "4404",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Get it fixed."
+},
+{
+"k": "4405",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Get it fixed. It's not complicated, Toad."
+},
+{
+"k": "4406",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Not my problem."
+},
+{
+"k": "4407",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{angrya} It's completely irresponsible, Toad."
+},
+{
+"k": "4408",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "All this'll be taken care of as soon as the witches are available to cast a spell."
+},
+{
+"k": "4409",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Bigby, please... that's a low blow, mate."
+},
+{
+"k": "4410",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "It' s not even really worth dwelling on at this point. You're telling me to get it together."
+},
+{
+"k": "4411",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You see any Mundys around here?  It's not a problem, mate."
+},
+{
+"k": "4412",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[shooting the sentiment back at Bigby] {confuseda} Do you have any idea how much it costs to have an {normala} entire family in glamour?"
+},
+{
+"k": "4413",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Don't worry about it."
+},
+{
+"k": "4414",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[shrugs] Don't worry about it."
+},
+{
+"k": "4415",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[relieved] Thanks, mate."
+},
+{
+"k": "4416",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Whatever"
+},
+{
+"k": "4417",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[dismissive] Whatever, Toad."
+},
+{
+"k": "4418",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[apologetic]Yeah, you're right."
+},
+{
+"k": "4419",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I work hard."
+},
+{
+"k": "4420",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[overly agreeable] That is true. Very, very true."
+},
+{
+"k": "4421",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You have no idea how hard I work."
+},
+{
+"k": "4422",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[apologetic] Right. Sorry, mate."
+},
+{
+"k": "4423",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "What I meant was... eh."
+},
+{
+"k": "4424",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Er... fuckin 'ell."
+},
+{
+"k": "4425",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[sigh] Shit, thing is, you see..."
+},
+{
+"k": "4426",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Is that your car out front?"
+},
+{
+"k": "4427",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Of course it is. What would you call it?"
+},
+{
+"k": "4428",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I don't know. [trails off]"
+},
+{
+"k": "4429",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'm not trying to imply that you don't work-- obviously, I-- I wouldn't say that. You're one of us... down here in the muck, and the mire."
+},
+{
+"k": "4430",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Is that what this is?"
+},
+{
+"k": "4431",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "It's pretty nice."
+},
+{
+"k": "4432",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "It's a pretty nice lookin' ride."
+},
+{
+"k": "4433",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You can't afford it."
+},
+{
+"k": "4434",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'm not gonna tell you how to spend your money, Mr Toad, but--"
+},
+{
+"k": "4435",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You're gonna tell me how to spend my money..."
+},
+{
+"k": "4436",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "No-- I know. It's just... I can't help meself, Bigby. You understand. It's me nature."
+},
+{
+"k": "4437",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'm pretty sure keeping you and yours from being dragged off to The Farm should be a bigger priority than a fancy car."
+},
+{
+"k": "4438",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Did you steal it?"
+},
+{
+"k": "4439",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "If I find you've been boosting cars again, you'll be wishing I sent you back to The Farm."
+},
+{
+"k": "4440",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "But that was ages ago. I'm different, you're different. What're we even talking about?"
+},
+{
+"k": "4441",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[Intimidating stare]"
+},
+{
+"k": "4442",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Say no more. I should've paid the glamour bill first. It was irresponsible... I hear you loud and clear."
+},
+{
+"k": "4443",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "But c'mon! 2.3 liter. Turbocharged overhead-cam. Yeah, it's a four cylinder. So fucking what."
+},
+{
+"k": "4444",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "It's a bitchin' pony car, Bigby."
+},
+{
+"k": "4445",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Okay, I see where you're goin' with this..."
+},
+{
+"k": "4446",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "It's a sickness, I know it."
+},
+{
+"k": "4447",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You know how I am with these things."
+},
+{
+"k": "4448",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Big block 8 is old school!"
+},
+{
+"k": "4449",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "This baby is 175 horses and ..."
+},
+{
+"k": "4450",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Car stretched me this month. That's for sure, but I'll get me bill paid, I'll make it right. I can assure you of that."
+},
+{
+"k": "4451",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I know you can't give me a pass on this one."
+},
+{
+"k": "4452",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I WILL get it fixed."
+},
+{
+"k": "4453",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "But don't drag me kids into this."
+},
+{
+"k": "4454",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "But enough with the bloody thousand yard stares, mate."
+},
+{
+"k": "4455",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Bigby, mate, that's not necessary. I'll get me--"
+},
+{
+"k": "4456",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Now, Mr Toad."
+},
+{
+"k": "4457",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "The car, Toad. Give me the keys to the car, and you'll get them back once your glamour is up. You won't need to be driving before that happens anyway."
+},
+{
+"k": "4458",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "To what? His room is probably unlocked you don't need to--"
+},
+{
+"k": "4459",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Give me the keys."
+},
+{
+"k": "4460",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Good."
+},
+{
+"k": "4461",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You don't drive, right?"
+},
+{
+"k": "4462",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'm heading up there."
+},
+{
+"k": "4463",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "When did he start drinking?"
+},
+{
+"k": "4464",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{sarcastica} Not sure he ever stopped."
+},
+{
+"k": "4465",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{thinkingb} When did he start drinking?"
+},
+{
+"k": "4466",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Is he alone?"
+},
+{
+"k": "4467",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "That's a lot of noise for one guy. You sure he's alone up there?"
+},
+{
+"k": "4468",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[dismissive] No one visits that wanker."
+},
+{
+"k": "4469",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Fuck me, that son of a bitch is out of here."
+},
+{
+"k": "4470",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "This is the last straw, Bigby. He has to go!"
+},
+{
+"k": "4471",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Shouldn't you be heading up there?"
+},
+{
+"k": "4472",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'll handle it."
+},
+{
+"k": "4473",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I should probably go handle this."
+},
+{
+"k": "4474",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Yeah, of course--"
+},
+{
+"k": "4475",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Don't change the subject"
+},
+{
+"k": "4476",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[cold] Don't change the subject. Get your glamour bill paid, Toad. This is your last warning."
+},
+{
+"k": "4477",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Don't worry about your car."
+},
+{
+"k": "4478",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I assumed that was implied, Bigby. You sayin' it aloud has me a bit worried now."
+},
+{
+"k": "4479",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Oh... Thanks for that, Bigby. You're a real gentleman."
+},
+{
+"k": "4480",
+"who": "KIDTOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Dad? The lights are shaking again."
+},
+{
+"k": "4481",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "What'd I say?"
+},
+{
+"k": "4482",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Furry pricked gobshite... tell me how to spend my money..."
+},
+{
+"k": "4483",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{angrya} Then get the fuck back inside."
+},
+{
+"k": "4484",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You want the Big Bad Wolf to take you away?"
+},
+{
+"k": "4485",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] [muttering to himself]Fuckin' pissed shit... should just go up there an' handle this meself... fuckin' sheriff... bloody useless."
+},
+{
+"k": "4486",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1][yelling] Other people live here too, you fucking twa--"
+},
+{
+"k": "4487",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]I think we have bigger problems."
+},
+{
+"k": "4488",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] In a sweater..."
+},
+{
+"k": "4489",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[beat] You just gonna stand there like a dick or you gonna do something? [beat] I called you 20 minutes ago, Sheriff."
+},
+{
+"k": "4490",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] I think we have bigger problems."
+},
+{
+"k": "4491",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]I don't like being talked to like that, Toad."
+},
+{
+"k": "4492",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]And by the looks of things..."
+},
+{
+"k": "4493",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Where the hell is your glamour, Toad?"
+},
+{
+"k": "4494",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {thinkingb} You're risking your entire family getting shipped off."
+},
+{
+"k": "4495",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]{thinkingb} Go see a witch. {angrya} Get a glamour."
+},
+{
+"k": "4496",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "So what have I walked into?"
+},
+{
+"k": "4497",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]{thinkinga} So what am I walking into exactly?"
+},
+{
+"k": "4498",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {angrya} The Woodsman's on another bender..."
+},
+{
+"k": "4499",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {annoyeda} He's been going on like that for hours. Turn this place to {angrya} dust if you let him. {normala} He's in a fuckin' rage."
+},
+{
+"k": "4500",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "What do you want me to do?"
+},
+{
+"k": "4501",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]{thinkinga} And what exactly do you want me to do?"
+},
+{
+"k": "4502",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {flustereda} I want you to {angrya} throw the fuckin' Woodsman {annoyeda} out of here. Drunk shit..."
+},
+{
+"k": "4503",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1]He's been going on like that for hours. Turn this place to dust if you let him. He's in a fuckin' rage."
+},
+{
+"k": "4504",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[Head Upstairs]"
+},
+{
+"k": "4505",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {thinkinga} I should probably go handle this."
+},
+{
+"k": "4506",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {sarcastica} Yes, please. {angrya} Thank you."
+},
+{
+"k": "4507",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {flustereda} No, I know. I know."
+},
+{
+"k": "4508",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {sarcastica} I'll get me glamour bill paid."
+},
+{
+"k": "4509",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {happya} I'm just waitin' for a check to clear. A day-- two... at the most"
+},
+{
+"k": "4510",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] There' s no excuse for it, Bigby."
+},
+{
+"k": "4511",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {flustereda} Anyway, you're telling me to get it together. {normala} I hear you loud and clear."
+},
+{
+"k": "4512",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Why's he so pissed?"
+},
+{
+"k": "4513",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {sarcastica} I'm not worried."
+},
+{
+"k": "4514",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {sarcastica} Right. Of course."
+},
+{
+"k": "4515",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] [hesitates] {sarcastica} Maybe... {confuseda} you're not worried about his axe are you? {normala} That was ages ago, mate. Don't think you need to worry."
+},
+{
+"k": "4516",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {normalb} Is he armed?"
+},
+{
+"k": "4517",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {thinkinga} So, what set him off?"
+},
+{
+"k": "4518",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {angrya} Who knows what it was this time. {sarcastica} Man's got a hair trigger. {normala} I avoid him as much as possible."
+},
+{
+"k": "4519",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I'm heading up."
+},
+{
+"k": "4520",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {worrieda} I didn't know anyone else was up there."
+},
+{
+"k": "4521",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] {thinkinga} Whatever it costs, {angrya} it's worth it."
+},
+{
+"k": "4522",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup1] You {angryb} don't want me catching you out of glamour again."
+},
+{
+"k": "4523",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[stare him down]"
+},
+{
+"k": "4524",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup5]So do it yourself.  You're the landlord, aren't you?"
+},
+{
+"k": "4525",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup5]Fine.  I'm heading up."
+},
+{
+"k": "4526",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Well I'm here now, what's going on here?"
+},
+{
+"k": "4527",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "What do mean!?"
+},
+{
+"k": "4528",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup5]Not my problem."
+},
+{
+"k": "4529",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Oh.. Sorry Mate! I know how this looks, me bein' out of my glamour and all, but I swear it was only for a minute. I mean, I've mostly stayed in human form just like you said! Really!!"
+},
+{
+"k": "4530",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Hey! Where do you think you're goin?"
+},
+{
+"k": "4531",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "You can't send me to the farm, I've got me family!"
+},
+{
+"k": "4532",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "I swear, it's just this once."
+},
+{
+"k": "4533",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Can't you just cut me a break?"
+},
+{
+"k": "4534",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "There aren't any Mundy's down here anyway."
+},
+{
+"k": "4535",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Enough excuses, Toad."
+},
+{
+"k": "4536",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "No harm done."
+},
+{
+"k": "4537",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Well you look like a toad now."
+},
+{
+"k": "4538",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "{doubtfula} I've heard enough of your excuses, Toad."
+},
+{
+"k": "4539",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Sure, no harm done, this time. But Listen..."
+},
+{
+"k": "4540",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Glares at toad, blows smoke in is face."
+},
+{
+"k": "4541",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Come on Mate....  your scaring me!"
+},
+{
+"k": "4542",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "Hey! That's what I called you about! Shit's been going down."
+},
+{
+"k": "4543",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_intro",
+"en": "[pickup5]I can't help you, Toad.  My hands are tied."
+}
+]

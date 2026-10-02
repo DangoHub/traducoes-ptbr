@@ -1,0 +1,1886 @@
+[
+{
+"k": "14081",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Walla walla walla, lots of walla for coverage while talking on the phone to Bufkin.  Do it in chunks that are mostly not all that long, like the phone dialog that you can actually hear."
+},
+{
+"k": "14082",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{AngryA}Now he's gone and destroyed my boombox! You've got to do something about this!"
+},
+{
+"k": "14083",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{AnnoyedA}Bloody christ!"
+},
+{
+"k": "14084",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{annoyedA}Now he's smashing up my bloody glassware!"
+},
+{
+"k": "14085",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Aw, no-- he's gone and ruined my liquor now! You've got to help me!"
+},
+{
+"k": "14086",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[angry, to Bigby across room]That was custom made!"
+},
+{
+"k": "14087",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{AnnoyedA}Look, there's a maniac down here wrecking things. {AngryA}I'd say call the sheriff but it's him!"
+},
+{
+"k": "14088",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "He's gone after my music now."
+},
+{
+"k": "14089",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}Again."
+},
+{
+"k": "14090",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Everything OK out here? You were yelling and then Nerissa-- oh no! Your radio!"
+},
+{
+"k": "14091",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}Leave it! I'll have it fixed! Just leave it!"
+},
+{
+"k": "14092",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Oh, I see! Nerissa broke it!"
+},
+{
+"k": "14093",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Now I understand."
+},
+{
+"k": "14094",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "That's why she was upset."
+},
+{
+"k": "14095",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "She must feel terrrible."
+},
+{
+"k": "14096",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "That's what's right."
+},
+{
+"k": "14097",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "But she should have to pay for it."
+},
+{
+"k": "14098",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "My fault."
+},
+{
+"k": "14099",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Georgie's fault."
+},
+{
+"k": "14100",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "It was an accident."
+},
+{
+"k": "14101",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{doubtfula}Actually, it was my fault."
+},
+{
+"k": "14102",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}Goddamn right it was."
+},
+{
+"k": "14103",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{annoyeda}Like fuck it was."
+},
+{
+"k": "14104",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}No, that was Georgie's fault."
+},
+{
+"k": "14105",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Of course, she wouldn't do that on purpose!"
+},
+{
+"k": "14106",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}It was an accident. She had nothing to do with it."
+},
+{
+"k": "14107",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{annoyeda}[a little exasperated]No, Hans, she didn't break it."
+},
+{
+"k": "14108",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "I get it. You don't want her to feel bad."
+},
+{
+"k": "14109",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[aside to Bigby][cut]Sometimes it's best just to nod and move on."
+},
+{
+"k": "14110",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Although my mother used to tell me that accidents are what you do on purpose when you're not looking."
+},
+{
+"k": "14111",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "She probably feels bad enough already."
+},
+{
+"k": "14112",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "And I'm sure she didn't do it on purpose."
+},
+{
+"k": "14113",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}She didn't break it."
+},
+{
+"k": "14114",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Okay!"
+},
+{
+"k": "14115",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{doubtfula}You're right. That's what's going on."
+},
+{
+"k": "14116",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkingb}Don't worry about it. It's not important."
+},
+{
+"k": "14117",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angrya}[cut]I said leave it!"
+},
+{
+"k": "14118",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "Anyway, I'll clean this up."
+},
+{
+"k": "14119",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "DJ Booth"
+},
+{
+"k": "14120",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Floor Safe"
+},
+{
+"k": "14121",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Cubby"
+},
+{
+"k": "14122",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Small Stack of Bills"
+},
+{
+"k": "14123",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Roll of Bills"
+},
+{
+"k": "14124",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Swan Lake"
+},
+{
+"k": "14125",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Turntable"
+},
+{
+"k": "14126",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "with bat"
+},
+{
+"k": "14127",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Glasses"
+},
+{
+"k": "14128",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Shelf"
+},
+{
+"k": "14129",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Record Crate"
+},
+{
+"k": "14130",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Boombox"
+},
+{
+"k": "14131",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Keg"
+},
+{
+"k": "14132",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Neon Sign"
+},
+{
+"k": "14133",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Mix Tapes"
+},
+{
+"k": "14134",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Key"
+},
+{
+"k": "14135",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Cosmetics"
+},
+{
+"k": "14136",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Jewelry Box"
+},
+{
+"k": "14137",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Makeup Case"
+},
+{
+"k": "14138",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Use handle"
+},
+{
+"k": "14139",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Book"
+},
+{
+"k": "14140",
+"who": "DG",
+"ctx": "Fables102/env_puddinpie",
+"en": "not anymore"
+},
+{
+"k": "14141",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Bigby peeks behind the TV. Nothing."
+},
+{
+"k": "14142",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Proud of yourself, mate?  Proud of your little mess?"
+},
+{
+"k": "14143",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Don't smoke]"
+},
+{
+"k": "14144",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "You deserve worse."
+},
+{
+"k": "14145",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Use ticket with"
+},
+{
+"k": "14146",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][just a little bit mean]I sympathize, but I still haven't found what I'm looking for."
+},
+{
+"k": "14147",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{angryA}He's gone after the smokes, now. Can you not do something about this?"
+},
+{
+"k": "14148",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{DefensiveA}Here, those aren't even ours. It's a concession, belongs to someone else."
+},
+{
+"k": "14149",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{AngryA}You shouldn't have messed with that."
+},
+{
+"k": "14150",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][sarcasm]{AnnoyedA}Put those on your tab, shall I?"
+},
+{
+"k": "14151",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{AnnoyedA}Aw, Christ! Unbelievable. Hello?"
+},
+{
+"k": "14152",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][boiling]{AngryA}Aw, for--! This is a dance club! {AnnoyedA}What the hell am I supposed to do tonight while the girls are on stage? Harmonica? Kazoo? Whistle a happy tune? {AngryA}Fucking unbelievable."
+},
+{
+"k": "14153",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{AnnoyedA}Aw no, really?"
+},
+{
+"k": "14154",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][a warning]{ThinkingA}That's top of the line, mate."
+},
+{
+"k": "14155",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]Oi! Those are classics!"
+},
+{
+"k": "14156",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][worried]You don't strike me as an audiophile…"
+},
+{
+"k": "14157",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]He's smashing up the place!"
+},
+{
+"k": "14158",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{angryA}Jesus fuck!"
+},
+{
+"k": "14159",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][mad]You trying to kill me? Come over here and let's go toe to toe then!"
+},
+{
+"k": "14160",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][mad]And look at this! You've bent it! That's going to completely queer the routines! Bollocks!"
+},
+{
+"k": "14161",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]{AngryA}I think he's trying to take the whole building down."
+},
+{
+"k": "14162",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]He's busting up my sound system. This is unacceptable."
+},
+{
+"k": "14163",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]And look at this fucking speaker! These are impedance matched, you can't just put any old thing in there! Bollocks!"
+},
+{
+"k": "14164",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1]The fuck do I know who comes in here? I don't take attendance."
+},
+{
+"k": "14165",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Tweedledee been in here recently?"
+},
+{
+"k": "14166",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup1][snark]Hands off those. Unless you want to pay the cover, then it's two drink minimum."
+},
+{
+"k": "14167",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Pack of Cigarettes"
+},
+{
+"k": "14168",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "LPs"
+},
+{
+"k": "14169",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Sidelight"
+},
+{
+"k": "14170",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Speaker"
+},
+{
+"k": "14171",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Dance Pole"
+},
+{
+"k": "14172",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Broken Tapes"
+},
+{
+"k": "14173",
+"who": "ANM",
+"ctx": "Fables102/env_puddinpie",
+"en": "sk54_action_bigbyPunchesPorgie"
+},
+{
+"k": "14174",
+"who": "ANM",
+"ctx": "Fables102/env_puddinpie",
+"en": "sk54_bigbyAtBarWithBook_putsBookAwayToStandA"
+},
+{
+"k": "14175",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Roll of Tickets"
+},
+{
+"k": "14176",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{confuseda}[pickup2][cut]Man, poor Nerissa."
+},
+{
+"k": "14177",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]Guess not."
+},
+{
+"k": "14178",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{confuseda}[pickup2]Everything OK out here?"
+},
+{
+"k": "14179",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{EmbarassedA}[pickup2]And I'm sure she didn't mean to bust it."
+},
+{
+"k": "14180",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]She probably feels bad enough already."
+},
+{
+"k": "14181",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{confuseda}[pickup2]She knows how much you like that thing."
+},
+{
+"k": "14182",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]That's nice of you."
+},
+{
+"k": "14183",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]Although, my mother used to tell me that accidents are what you do on purpose when you're not looking."
+},
+{
+"k": "14184",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{EmbarassedA}[pickup2]Probably thinks you're going to kill her."
+},
+{
+"k": "14185",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}Yep."
+},
+{
+"k": "14186",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2][cut]Anyway, I'll take care of this."
+},
+{
+"k": "14187",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{normala}[pickup2][cut]Fine, but you did tell me I'm supposed to throw out stuff that's broken. I'm just doing what you said!"
+},
+{
+"k": "14188",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{EmbarassedA}[pickup2]Yeah. Clever Hans."
+},
+{
+"k": "14189",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]Sure. They don't like it if you stare, though."
+},
+{
+"k": "14190",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]We're not supposed to bug them while they're dancing."
+},
+{
+"k": "14191",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]Not too much, I guess."
+},
+{
+"k": "14192",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{ConfusedA}[pickup2]Why not look it up?"
+},
+{
+"k": "14193",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]I'm just trying to do what you fucking said to do, like always!"
+},
+{
+"k": "14194",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{confuseda}[pickup2]You said be useful!"
+},
+{
+"k": "14195",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]What?"
+},
+{
+"k": "14196",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{confuseda}[pickup2]What can I say? It's a book."
+},
+{
+"k": "14197",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{confuseda}[pickup2]I can't, I don't know where it is."
+},
+{
+"k": "14198",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "{thinkinga}[pickup2]Well, you would know better than me. I just really thought…"
+},
+{
+"k": "14199",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][piping up, hesitant]Do you still want me to leave it alone?"
+},
+{
+"k": "14200",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]Yeah, that's the one I was thinking of! Who's a moron now?"
+},
+{
+"k": "14201",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]Sorry, Georgie."
+},
+{
+"k": "14202",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][noticing Bigby looking at him]What? Is everything okay?"
+},
+{
+"k": "14203",
+"who": "HANS",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]No. Sorry."
+},
+{
+"k": "14204",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][pissed off]And as for you, Hans, we need to work on your communication skills, and I've a fairly good idea where to start."
+},
+{
+"k": "14205",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]Here, that's my personal property!"
+},
+{
+"k": "14206",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Cricket Bat"
+},
+{
+"k": "14207",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][sarcasm]Nope, no book here either."
+},
+{
+"k": "14208",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]I don't see anything here…"
+},
+{
+"k": "14209",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][cross]I told you, mate, there's no fucking book."
+},
+{
+"k": "14210",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]Lots of good places here to hide a book you don't want people looking at."
+},
+{
+"k": "14211",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]No key there."
+},
+{
+"k": "14212",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][meant to be heard by Georgie]I wonder, where would a two-bit thug like Georgie hide the key to his safe?"
+},
+{
+"k": "14213",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2][sour]Fuck off."
+},
+{
+"k": "14214",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]Nothing here…"
+},
+{
+"k": "14215",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]I gotta hand it to you, Georgie, this joint is full of good hiding spots."
+},
+{
+"k": "14216",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[pickup2]Fuck. Off."
+},
+{
+"k": "14217",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Hurt Him"
+},
+{
+"k": "14218",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Use Key With"
+},
+{
+"k": "14219",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Take the money]"
+},
+{
+"k": "14220",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Put the money back]"
+},
+{
+"k": "14221",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Give her all your money]"
+},
+{
+"k": "14222",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "{angryb}Two women are dead!"
+},
+{
+"k": "14223",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "You might want to stand back."
+},
+{
+"k": "14224",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Do you think this is a joke?"
+},
+{
+"k": "14225",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Tell me about the book."
+},
+{
+"k": "14226",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Smash boombox]"
+},
+{
+"k": "14227",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Break cigarette machine]"
+},
+{
+"k": "14228",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Just tell me where it is."
+},
+{
+"k": "14229",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Destroy TV]"
+},
+{
+"k": "14230",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Hand it over while you still can."
+},
+{
+"k": "14231",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Wreck keg]"
+},
+{
+"k": "14232",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Give me the book!"
+},
+{
+"k": "14233",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Hurt Georgie]"
+},
+{
+"k": "14234",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "People are dead!"
+},
+{
+"k": "14235",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Smash sign]"
+},
+{
+"k": "14236",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'll destroy this place."
+},
+{
+"k": "14237",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "[Demolish DJ booth]"
+},
+{
+"k": "14238",
+"who": "NOTE",
+"ctx": "Fables102/env_puddinpie",
+"en": "DON'T ACT ANY OF THIS THREAD, IT'S A POOL OF LINES TO BE USED FOR OTHER THINGS!"
+},
+{
+"k": "14239",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[spits]"
+},
+{
+"k": "14240",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I cannot BELIEVE you deliberately concealed the murder of that prostitute from me yesterday!"
+},
+{
+"k": "14241",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What in God's name were you thinking?"
+},
+{
+"k": "14242",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I must be informed about matters of importance!"
+},
+{
+"k": "14243",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'm the deputy mayor!"
+},
+{
+"k": "14244",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "This isn't a game!"
+},
+{
+"k": "14245",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "At the time it didn't seem necessary for you to be involved. For your own protection."
+},
+{
+"k": "14246",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Protection? From what?"
+},
+{
+"k": "14247",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Ridiculous. Ridiculous breach of protocol. Deadly!"
+},
+{
+"k": "14248",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'd have you thrown down the Witching Well if I didn't need you to help catch a serial killer."
+},
+{
+"k": "14249",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "If you had brought this to my attention earlier, Miss White might still be alive!"
+},
+{
+"k": "14250",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "A serial killer! Oh, lord, and it's one of us!"
+},
+{
+"k": "14251",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[calmly]What would you have done if you'd known?"
+},
+{
+"k": "14252",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[anger giving way to sadness]I'd have kept Miss White under lock and key, to start.  She… she…"
+},
+{
+"k": "14253",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Do you want to say it, or shall I?"
+},
+{
+"k": "14254",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What you couldn't say to the attractive mundy detective.  Because they don't know there have been two murders."
+},
+{
+"k": "14255",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What's that?"
+},
+{
+"k": "14256",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Just say it! Serial killer! Oh, this is horrible!"
+},
+{
+"k": "14257",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Yes, and they even looked similar to one another."
+},
+{
+"k": "14258",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "And the mundys mustn't find out, because it's one of us! A fable!"
+},
+{
+"k": "14259",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "This Brannigan is perceptive. She could be dangerous. I assume you told her nothing of substance?"
+},
+{
+"k": "14260",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Our protective wards are quite effective, but if they become too curious it won't matter."
+},
+{
+"k": "14261",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "And you know what they're like when it comes to things they don't understand."
+},
+{
+"k": "14262",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "A mob of them jackbooting all over Fabletown armed to the teeth is not high on my list of desirable scenarios."
+},
+{
+"k": "14263",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I didn't say anything important."
+},
+{
+"k": "14264",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What did YOU tell her?"
+},
+{
+"k": "14265",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Not a jot. I know a thing or two about verbal tactics!"
+},
+{
+"k": "14266",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I withheld all."
+},
+{
+"k": "14267",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "She attempted to corner me, but to no avail."
+},
+{
+"k": "14268",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We jousted at some length."
+},
+{
+"k": "14269",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Intellectually, she was simply outmatched."
+},
+{
+"k": "14270",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "You told her Snow's name."
+},
+{
+"k": "14271",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Oh, that-- well, yes. Her mundy cover identity only."
+},
+{
+"k": "14272",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Still."
+},
+{
+"k": "14273",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I had to give them something, or they were all going to come swarming into the Woodlands to investigate on the spot! Everything we've worked so hard to build would be destroyed in an instant!"
+},
+{
+"k": "14274",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "They're following up on the cover identity. That's a GOOD thing!"
+},
+{
+"k": "14275",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Don't look at me like that. It's not my fault this is happening."
+},
+{
+"k": "14276",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Don't forget I wanted Miss White to stay safely in the office, but YOU disagreed."
+},
+{
+"k": "14277",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "And if you'd been doing your job instead of waging barroom brawls, she might still be alive!"
+},
+{
+"k": "14278",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "If you'd been doing your job instead of waging barroom brawls, Miss White might still be alive!"
+},
+{
+"k": "14279",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I don't know exactly what we're dealing with here, but it's not that simple."
+},
+{
+"k": "14280",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "If you insist. My conscience is clear."
+},
+{
+"k": "14281",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "You're right. I apologize. We need to stay together on this. United front."
+},
+{
+"k": "14282",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Miss White was… oh dear. A woman of such beauty, such grace. Very special. It's hard to believe she's gone."
+},
+{
+"k": "14283",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Yes, yes, I shall soldier on. As we all must do."
+},
+{
+"k": "14284",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "You going to be OK, Crane?"
+},
+{
+"k": "14285",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "You saw her last… after I did, I mean.  I'd… like to hear what you talked about."
+},
+{
+"k": "14286",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Snow was talking about trying to help people who need it. Shouldn't come as a surprise. She seems brusque sometimes, but she always has people's best interests at heart."
+},
+{
+"k": "14287",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[a little disappointed]Yes…"
+},
+{
+"k": "14288",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[anxiously]Did she mention me at all?"
+},
+{
+"k": "14289",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[satisfied]Ah. Your silence speaks volumes."
+},
+{
+"k": "14290",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "The last thing she said was for me to be careful."
+},
+{
+"k": "14291",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Of course, we must avenge Miss White! I want you to know I plan to do whatever must be done to achieve justice.  I trust you feel the same."
+},
+{
+"k": "14292",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Yes. Well."
+},
+{
+"k": "14293",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We will find those responsible, and they will be punished."
+},
+{
+"k": "14294",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Her loss shall not go unanswered."
+},
+{
+"k": "14295",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "If necessary."
+},
+{
+"k": "14296",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'll do whatever I have to do."
+},
+{
+"k": "14297",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Things may become… unsavory."
+},
+{
+"k": "14298",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "No holds barred?"
+},
+{
+"k": "14299",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Indeed."
+},
+{
+"k": "14300",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'm no stranger to unsavory."
+},
+{
+"k": "14301",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Well I'm glad to hear you say it."
+},
+{
+"k": "14302",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We must work quickly, before this goes any further."
+},
+{
+"k": "14303",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Fortunately, we already have the Woodsman in custody."
+},
+{
+"k": "14304",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We've done what you declined to do and had the Woodsman brought in for questioning."
+},
+{
+"k": "14305",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "To my own ears, not half an hour ago.  \"Me and my friend cut her up.\""
+},
+{
+"k": "14306",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Woodsman? He was with me, he didn't kill her."
+},
+{
+"k": "14307",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "No, but he knows who did."
+},
+{
+"k": "14308",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "He's involved. He's already confessed to dismembering the first victim."
+},
+{
+"k": "14309",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "How?"
+},
+{
+"k": "14310",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "He did?"
+},
+{
+"k": "14311",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Indeed. But first we need to find out who he's working with, who is the brains."
+},
+{
+"k": "14312",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We need to find out who, and why, and right away. Because we don't have a serial killer. We have two."
+},
+{
+"k": "14313",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "That bastard. He's been playing me? I'll take him apart."
+},
+{
+"k": "14314",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "That's exactly what we're trying to ascertain."
+},
+{
+"k": "14315",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What friend? Who's he talking about?"
+},
+{
+"k": "14316",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Fine, you can speak to him yourself when we get there. Maybe you can get him to tell you who he's working with."
+},
+{
+"k": "14317",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I should handle the interrogations, Crane."
+},
+{
+"k": "14318",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We've been working on him to try to find out who his partner is."
+},
+{
+"k": "14319",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I said I didn't know her."
+},
+{
+"k": "14320",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I said she was a friend."
+},
+{
+"k": "14321",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I said she was a co-worker."
+},
+{
+"k": "14322",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I said she was an acquaintance."
+},
+{
+"k": "14323",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "There's something else going on here."
+},
+{
+"k": "14324",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Maybe there's no real motive."
+},
+{
+"k": "14325",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Some kind of message."
+},
+{
+"k": "14326",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Bad night."
+},
+{
+"k": "14327",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Thanks for the lift."
+},
+{
+"k": "14328",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Don't let it happen again."
+},
+{
+"k": "14329",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "no/ Slightly surly option"
+},
+{
+"k": "14330",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Let's just move on."
+},
+{
+"k": "14331",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'm sorry, too."
+},
+{
+"k": "14332",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Yes, she did."
+},
+{
+"k": "14333",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Whatever it takes."
+},
+{
+"k": "14334",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We can't rush this."
+},
+{
+"k": "14335",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What about the guy I handcuffed?"
+},
+{
+"k": "14336",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "He has a brother."
+},
+{
+"k": "14337",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "He's working for somebody."
+},
+{
+"k": "14338",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Who's saying that?"
+},
+{
+"k": "14339",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Fine. I'll back off."
+},
+{
+"k": "14340",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I just want to ask him some questions."
+},
+{
+"k": "14341",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Everyone has a weakness."
+},
+{
+"k": "14342",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "He's not a strong suspect"
+},
+{
+"k": "14343",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I've got questions for him."
+},
+{
+"k": "14344",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "This is bigger than the Woodsman."
+},
+{
+"k": "14345",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Who is Chuck?"
+},
+{
+"k": "14346",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'm surprised to hear that."
+},
+{
+"k": "14347",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'll kill the fucker."
+},
+{
+"k": "14348",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "She told me to be careful."
+},
+{
+"k": "14349",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "She wanted to change things."
+},
+{
+"k": "14350",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "She was frustrated with you."
+},
+{
+"k": "14351",
+"who": "RADIO",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[processed: radio] We're gonna turn now to that brazen shooting."
+},
+{
+"k": "14352",
+"who": "RADIO JFK JR",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[processed: radio; recorded outside] Closeness is only good for… what, horseshoes."
+},
+{
+"k": "14353",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[awkward throat clearing]"
+},
+{
+"k": "14354",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] Didn't get much sleep. [long beat; to himself] Shitty night."
+},
+{
+"k": "14355",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[quietly] Yes it was."
+},
+{
+"k": "14356",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] Thanks for the lift."
+},
+{
+"k": "14357",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[a little surprised] Well… you're welcome."
+},
+{
+"k": "14358",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[quietly] Sorry about before."
+},
+{
+"k": "14359",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Water under the bridge."
+},
+{
+"k": "14360",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Sorry about before."
+},
+{
+"k": "14361",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[surly] I want to get one thing clear: I don't need your help."
+},
+{
+"k": "14362",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed, sarcastic] Oh, certainly, you don't. Because that wasn't you in police custody back there. That wasn't you, letting evidence slip into mundy possession. That wasn't you--[gets cut off]"
+},
+{
+"k": "14363",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[firm] I had it under control."
+},
+{
+"k": "14364",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] Certainly."
+},
+{
+"k": "14365",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "It's been a very… trying few days."
+},
+{
+"k": "14366",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Though it's no excuse for how I handled things."
+},
+{
+"k": "14367",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "So… I'm sorry."
+},
+{
+"k": "14368",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'm going to ignore what just happened, Bigby. Under the circumstances, it's, um, perfectly understandable that you'd lash out."
+},
+{
+"k": "14369",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "And… to prove my understanding, I want to apologize for my own behavior."
+},
+{
+"k": "14370",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I want to, erm, apologize for my behavior back there, Bigby."
+},
+{
+"k": "14371",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sullen] Don't worry about it."
+},
+{
+"k": "14372",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sullen] It's fine. Let's just move on."
+},
+{
+"k": "14373",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sullen] Yeah, well… I'm sorry, too."
+},
+{
+"k": "14374",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[moody] Just don't let it happen again."
+},
+{
+"k": "14375",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Can I tell you something, Bigby?"
+},
+{
+"k": "14376",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sighs] Sure."
+},
+{
+"k": "14377",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sad] I never feel more homesick than when one of us dies."
+},
+{
+"k": "14378",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sad] And now, for it to be Miss White?… I've never been good with this sort of thing."
+},
+{
+"k": "14379",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Our stories used to be so simple. We had a beginning, a middle, and an end."
+},
+{
+"k": "14380",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "And the end parroted the beginning. Everything made a mathematical sense… but ever since we moved to this awful city…"
+},
+{
+"k": "14381",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "…it's all gotten so confused. [pause] Snow deserved a better end than this."
+},
+{
+"k": "14382",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "She was a good friend."
+},
+{
+"k": "14383",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Everyone deserves a better end."
+},
+{
+"k": "14384",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[glum] Yes… she did."
+},
+{
+"k": "14385",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[a little glum] She was a good partner, a good friend."
+},
+{
+"k": "14386",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Everyone deserves a better end, Crane. [pause; thinks] And things were never that simple."
+},
+{
+"k": "14387",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "One befitting a woman like her."
+},
+{
+"k": "14388",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "She deserved a lovely story."
+},
+{
+"k": "14389",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "…and not something so [disgusted] common."
+},
+{
+"k": "14390",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[awkward] Did she, um, give any indication to what she was thinking…  when you saw her last, I mean?"
+},
+{
+"k": "14391",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I don't know why, but I'd like to know that she was…"
+},
+{
+"k": "14392",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "… I guess, fine, I suppose, or not about to do anything reckless."
+},
+{
+"k": "14393",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[getting mad] The last thing she said to me was that she was fuckin' pissed at you."
+},
+{
+"k": "14394",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[upset] Well, that's… that's very disappointing to hear."
+}
+]

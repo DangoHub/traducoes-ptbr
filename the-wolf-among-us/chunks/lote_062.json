@@ -1,0 +1,2822 @@
+[
+{
+"k": "16346",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your look pierces through Crane.  He won't forget that."
+},
+{
+"k": "16347",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your concerns are dismissed by Crane."
+},
+{
+"k": "16348",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Crane feel guilty."
+},
+{
+"k": "16349",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Crane feel like he offended you."
+},
+{
+"k": "16350",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your silence makes Crane worry."
+},
+{
+"k": "16351",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your response unnerves Crane.  He'll remember that."
+},
+{
+"k": "16352",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your cooperation pleases Crane.  He'll remember that."
+},
+{
+"k": "16353",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You agree with him, he'll remember that."
+},
+{
+"k": "16354",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your anger unnerves Crane.  He won't forget that."
+},
+{
+"k": "16355",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your frustration is noted by Crane."
+},
+{
+"k": "16356",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You ignore him, he notices that."
+},
+{
+"k": "16357",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You hurt Crane with that..."
+},
+{
+"k": "16358",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You suprised Crane, he'll remember that..."
+},
+{
+"k": "16359",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your silence hurts Crane."
+},
+{
+"k": "16360",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He'll remember that."
+},
+{
+"k": "16361",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He will remember your eagerness."
+},
+{
+"k": "16362",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane will remember that."
+},
+{
+"k": "16363",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woman"
+},
+{
+"k": "16364",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You suspect she knows something..."
+},
+{
+"k": "16365",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That pleased Bluebeard, he'll remember that."
+},
+{
+"k": "16366",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You don't impress Bluebeard..."
+},
+{
+"k": "16367",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That does not impress Bluebeard..."
+},
+{
+"k": "16368",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your stare causes Crane to squirm."
+},
+{
+"k": "16369",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You ignore Bluebeard, he'll remember that..."
+},
+{
+"k": "16370",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your disbelief causes Woody some anguish."
+},
+{
+"k": "16371",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He ignores that."
+},
+{
+"k": "16372",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That intimidated the Woodsman..."
+},
+{
+"k": "16373",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That pleases Bluebeard."
+},
+{
+"k": "16374",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Bluebeard will remember that."
+},
+{
+"k": "16375",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That pleases Crane."
+},
+{
+"k": "16376",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You pissed off Bluebeard, he will remember that..."
+},
+{
+"k": "16377",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You tried to hit him, he'll remember that."
+},
+{
+"k": "16378",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That agitated Bluebeard."
+},
+{
+"k": "16379",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woody will not forget this..."
+},
+{
+"k": "16380",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woody will remember that."
+},
+{
+"k": "16381",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woody is disgusted by that."
+},
+{
+"k": "16382",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That disgusted Woody"
+},
+{
+"k": "16383",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your threat scares the Woodsman."
+},
+{
+"k": "16384",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made Woody nauseous..."
+},
+{
+"k": "16385",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your stirring the Woodsman anger."
+},
+{
+"k": "16386",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You make Woody sad..."
+},
+{
+"k": "16387",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made him thirsty."
+},
+{
+"k": "16388",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He's thankful for that."
+},
+{
+"k": "16389",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He will never forget this...."
+},
+{
+"k": "16390",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You irk the Woodsman."
+},
+{
+"k": "16391",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He's very thankful for that."
+},
+{
+"k": "16392",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made Woody thankful."
+},
+{
+"k": "16393",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your glare breaks the Woodsman."
+},
+{
+"k": "16394",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That unnerved him..."
+},
+{
+"k": "16395",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Dee nervous."
+},
+{
+"k": "16396",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That alarmed Dee."
+},
+{
+"k": "16397",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You're making Dee nervous..."
+},
+{
+"k": "16398",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Dee angry."
+},
+{
+"k": "16399",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane will not forget that."
+},
+{
+"k": "16400",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That calmed Dee down."
+},
+{
+"k": "16401",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That growl shakes Crane."
+},
+{
+"k": "16402",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane will remember that..."
+},
+{
+"k": "16403",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Bluebeard will remember this...."
+},
+{
+"k": "16404",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee will remember that."
+},
+{
+"k": "16405",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He will not forget that."
+},
+{
+"k": "16406",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made Dee nauseous."
+},
+{
+"k": "16407",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Dee nauseous."
+},
+{
+"k": "16408",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Woody nauseous..."
+},
+{
+"k": "16409",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That annoyed her."
+},
+{
+"k": "16410",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "What does she know...?"
+},
+{
+"k": "16411",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She must know something about this..."
+},
+{
+"k": "16412",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She feels like cornering you."
+},
+{
+"k": "16413",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She senses how you feel..."
+},
+{
+"k": "16414",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She noticed that..."
+},
+{
+"k": "16415",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She doesn't budge after that..."
+},
+{
+"k": "16416",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That angered her."
+},
+{
+"k": "16417",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She's not going to be ok after this..."
+},
+{
+"k": "16418",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That disappointed her."
+},
+{
+"k": "16419",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That annoyed her..."
+},
+{
+"k": "16420",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That strengthened her resolve."
+},
+{
+"k": "16421",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That got her wondering..."
+},
+{
+"k": "16422",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Your silence angered her."
+},
+{
+"k": "16423",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made her smile..."
+},
+{
+"k": "16424",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That disappointed her..."
+},
+{
+"k": "16425",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made her smile, a little."
+},
+{
+"k": "16426",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She appreciated that..."
+},
+{
+"k": "16427",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Lilac Petals"
+},
+{
+"k": "16428",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That scared TJ."
+},
+{
+"k": "16429",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made Toad real angry..."
+},
+{
+"k": "16430",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That got TJ's attention."
+},
+{
+"k": "16431",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ liked that."
+},
+{
+"k": "16432",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That intimitaded TJ."
+},
+{
+"k": "16433",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That terrified TJ."
+},
+{
+"k": "16434",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That affected TJ."
+},
+{
+"k": "16435",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ appreciates that."
+},
+{
+"k": "16436",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That scared TJ..."
+},
+{
+"k": "16437",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made TJ nervous."
+},
+{
+"k": "16438",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You horrified TJ!"
+},
+{
+"k": "16439",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You're worrying Toad..."
+},
+{
+"k": "16440",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad will remember that..."
+},
+{
+"k": "16441",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made TJ wonder."
+},
+{
+"k": "16442",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That impressed TJ."
+},
+{
+"k": "16443",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ is grateful for that."
+},
+{
+"k": "16444",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You horrified TJ."
+},
+{
+"k": "16445",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad will remember that."
+},
+{
+"k": "16446",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ will remember that."
+},
+{
+"k": "16447",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That disappointed Snow."
+},
+{
+"k": "16448",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad won't forget that..."
+},
+{
+"k": "16449",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad will never forget that."
+},
+{
+"k": "16450",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "They will remember this."
+},
+{
+"k": "16451",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That irked Toad..."
+},
+{
+"k": "16452",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ agrees with that."
+},
+{
+"k": "16453",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That calms her."
+},
+{
+"k": "16454",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made her uncomfortable."
+},
+{
+"k": "16455",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That bothered her."
+},
+{
+"k": "16456",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That pissed Beauty off."
+},
+{
+"k": "16457",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That concerns her."
+},
+{
+"k": "16458",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She did not like that."
+},
+{
+"k": "16459",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That revealed her desperation."
+},
+{
+"k": "16460",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Beauty feel betrayed."
+},
+{
+"k": "16461",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That suprised Crane."
+},
+{
+"k": "16462",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane was annoyed by that."
+},
+{
+"k": "16463",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane notices that."
+},
+{
+"k": "16464",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane won't forget that."
+},
+{
+"k": "16465",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane dismisses that."
+},
+{
+"k": "16466",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Crane worry."
+},
+{
+"k": "16467",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That unnerved Crane."
+},
+{
+"k": "16468",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That unnerves Crane."
+},
+{
+"k": "16469",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane noticed that."
+},
+{
+"k": "16470",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That caused Woody to anguish."
+},
+{
+"k": "16471",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Bluebeard will remember that..."
+},
+{
+"k": "16472",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That <<id:356720757>>Your stirring the Woodsman anger."
+},
+{
+"k": "16473",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That angered the Woodsman."
+},
+{
+"k": "16474",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woody noticed that."
+},
+{
+"k": "16475",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That tested her patience."
+},
+{
+"k": "16476",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She will remember that..."
+},
+{
+"k": "16477",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made her wonder..."
+},
+{
+"k": "16478",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made her suspicious."
+},
+{
+"k": "16479",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made her wonder."
+},
+{
+"k": "16480",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That caught her attention."
+},
+{
+"k": "16481",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That aggravated her..."
+},
+{
+"k": "16482",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She won't remember that..."
+},
+{
+"k": "16483",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That confused her."
+},
+{
+"k": "16484",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane ignored that."
+},
+{
+"k": "16485",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That irked the Woodsman."
+},
+{
+"k": "16486",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made him thirsty."
+},
+{
+"k": "16487",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That bothered the Woodsman."
+},
+{
+"k": "16488",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That scared the Woodsman."
+},
+{
+"k": "16489",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That did not scare her."
+},
+{
+"k": "16490",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He notices that."
+},
+{
+"k": "16491",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane will remember this..."
+},
+{
+"k": "16492",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane is suprised by that..."
+},
+{
+"k": "16493",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That hurt Crane."
+},
+{
+"k": "16494",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane takes note of your silence."
+},
+{
+"k": "16495",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That caused Crane to squirm."
+},
+{
+"k": "16496",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Dee nervous..."
+},
+{
+"k": "16497",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Snow appreciated that..."
+},
+{
+"k": "16498",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That horrified TJ."
+},
+{
+"k": "16499",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That got her attention..."
+},
+{
+"k": "16500",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty will not forget that..."
+},
+{
+"k": "16501",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woody will not forget that..."
+},
+{
+"k": "16502",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "The Woodsman will remember that."
+},
+{
+"k": "16503",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly won't forget that."
+},
+{
+"k": "16504",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That disgusted Snow."
+},
+{
+"k": "16505",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That annoyed Snow."
+},
+{
+"k": "16506",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That irked Holly..."
+},
+{
+"k": "16507",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly liked that."
+},
+{
+"k": "16508",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly will never forget that."
+},
+{
+"k": "16509",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly will remember that..."
+},
+{
+"k": "16510",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That bothered Holly."
+},
+{
+"k": "16511",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That worried Toad..."
+},
+{
+"k": "16512",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That makes Crane nervous."
+},
+{
+"k": "16513",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She ignores that."
+},
+{
+"k": "16514",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made everyone nauseous."
+},
+{
+"k": "16515",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Snow uncomfortable..."
+},
+{
+"k": "16516",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made Crane curious..."
+},
+{
+"k": "16517",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane uncomfortably curious over that..."
+},
+{
+"k": "16518",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That sparked Crane's curiosity..."
+},
+{
+"k": "16519",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That angered Crane."
+},
+{
+"k": "16520",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Snow did not appreciate that."
+},
+{
+"k": "16521",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Snow enjoyed that."
+},
+{
+"k": "16522",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Vivian will remember that."
+},
+{
+"k": "16523",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Vivian noticed that."
+},
+{
+"k": "16524",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Vivian understood that."
+},
+{
+"k": "16525",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Vivian will not forget that."
+},
+{
+"k": "16526",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Vivian really appreciates that..."
+},
+{
+"k": "16527",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Vivian liked that."
+},
+{
+"k": "16528",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa will remember that."
+},
+{
+"k": "16529",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie will remember that."
+},
+{
+"k": "16530",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie did not appreciate that."
+},
+{
+"k": "16531",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie will never forget that."
+},
+{
+"k": "16532",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa noticed that."
+},
+{
+"k": "16533",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Georgie uncomfortable."
+},
+{
+"k": "16534",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa appreciates that."
+},
+{
+"k": "16535",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa won't forget that."
+},
+{
+"k": "16536",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa will remember that..."
+},
+{
+"k": "16537",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie will not forget that."
+},
+{
+"k": "16538",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Hans will never forget that."
+},
+{
+"k": "16539",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You destroyed Georgie's prize possession..."
+},
+{
+"k": "16540",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Georgie sad."
+},
+{
+"k": "16541",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That was an interesting choice."
+},
+{
+"k": "16542",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Georgie worry."
+},
+{
+"k": "16543",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made Georgie Porgie cry."
+},
+{
+"k": "16544",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Beauty pensive..."
+},
+{
+"k": "16545",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty will remember that..."
+},
+{
+"k": "16546",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty appreciated that."
+},
+{
+"k": "16547",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty will never forget that."
+},
+{
+"k": "16548",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty will appreciate that..."
+},
+{
+"k": "16549",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "They will remember that."
+},
+{
+"k": "16550",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty appreciates that."
+},
+{
+"k": "16551",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beast appreciates that."
+},
+{
+"k": "16552",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beast felt that."
+},
+{
+"k": "16553",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Jack will not forget that."
+},
+{
+"k": "16554",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Jack won't forget that."
+},
+{
+"k": "16555",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Jack will remember that."
+},
+{
+"k": "16556",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly got that."
+},
+{
+"k": "16557",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly appreciated that."
+},
+{
+"k": "16558",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Snow did not like that..."
+},
+{
+"k": "16559",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly will remember that."
+},
+{
+"k": "16560",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly will not forget that."
+},
+{
+"k": "16561",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee will remember that..."
+},
+{
+"k": "16562",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee found great delight in that."
+},
+{
+"k": "16563",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Snow worry..."
+},
+{
+"k": "16564",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That was pleasurable for them."
+},
+{
+"k": "16565",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Oh! Dee liked that."
+},
+{
+"k": "16566",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee enjoyed that."
+},
+{
+"k": "16567",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee took tremendous pleasure in that."
+},
+{
+"k": "16568",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That hurt Dee's too."
+},
+{
+"k": "16569",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That hurt Dum's too."
+},
+{
+"k": "16570",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee will never ever forget that."
+},
+{
+"k": "16571",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dum will never ever forget that."
+},
+{
+"k": "16572",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Kelsey noted that..."
+},
+{
+"k": "16573",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Kelsey is done with that."
+},
+{
+"k": "16574",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That had no affect on her..."
+},
+{
+"k": "16575",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made him realize..."
+},
+{
+"k": "16576",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She caught that."
+},
+{
+"k": "16577",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She will not forget that."
+},
+{
+"k": "16578",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She really appreciates that..."
+},
+{
+"k": "16579",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She really liked that..."
+},
+{
+"k": "16580",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made her suspicious..."
+},
+{
+"k": "16581",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made her suspicious about that..."
+},
+{
+"k": "16582",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You sparked her suspicion...."
+},
+{
+"k": "16583",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Kelsey will remember that..."
+},
+{
+"k": "16584",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She's had enough of that."
+},
+{
+"k": "16585",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That perturbed him..."
+},
+{
+"k": "16586",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane won't forget that..."
+},
+{
+"k": "16587",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That frustrated him..."
+},
+{
+"k": "16588",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane appreciated that..."
+},
+{
+"k": "16589",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Crane worry..."
+},
+{
+"k": "16590",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made him realize..."
+},
+{
+"k": "16591",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That he noticed."
+},
+{
+"k": "16592",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee will never forget that!"
+},
+{
+"k": "16593",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He won't forget that either."
+},
+{
+"k": "16594",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That upset Crane."
+},
+{
+"k": "16595",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That enticed Bluebeard."
+},
+{
+"k": "16596",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Hans"
+},
+{
+"k": "16597",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She appreciated that."
+},
+{
+"k": "16598",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Kelsey's Notepad"
+},
+{
+"k": "16599",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Interrogation Tape"
+},
+{
+"k": "16600",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Glamour Cylinder"
+},
+{
+"k": "16601",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa liked that."
+},
+{
+"k": "16602",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Georgie nauseous."
+},
+{
+"k": "16603",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Crane noticed your silence."
+},
+{
+"k": "16604",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Upper West Side Precinct"
+},
+{
+"k": "16605",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Witching Well Chamber"
+},
+{
+"k": "16606",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "The Pudding & Pie"
+},
+{
+"k": "16607",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "The Open Arms Hotel"
+},
+{
+"k": "16608",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Basement"
+},
+{
+"k": "16609",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "The Following Afternoon"
+},
+{
+"k": "16610",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Early Evening"
+},
+{
+"k": "16611",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Later"
+},
+{
+"k": "16612",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Bluebeard noticed that."
+},
+{
+"k": "16613",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Bluebeard noticed your silence."
+},
+{
+"k": "16614",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You got the Woodsman talking."
+},
+{
+"k": "16615",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You made the Woodsman talk."
+},
+{
+"k": "16616",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "The Woodsman won't forget that."
+},
+{
+"k": "16617",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Snow noticed that."
+},
+{
+"k": "16618",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Snow noticed your silence."
+},
+{
+"k": "16619",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He noticed your silence."
+},
+{
+"k": "16620",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "He noticed that."
+},
+{
+"k": "16621",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "She noticed your silence."
+},
+{
+"k": "16622",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad noticed that."
+},
+{
+"k": "16623",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Toad noticed your silence."
+},
+{
+"k": "16624",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ noticed that."
+},
+{
+"k": "16625",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "TJ noticed your silence."
+},
+{
+"k": "16626",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly noticed that."
+},
+{
+"k": "16627",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Holly noticed your silence."
+},
+{
+"k": "16628",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You let Snow come with you."
+},
+{
+"k": "16629",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You told Snow to stay behind."
+},
+{
+"k": "16630",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You promised Holly her sister's remains."
+},
+{
+"k": "16631",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You refused to release Lily's body."
+},
+{
+"k": "16632",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You refused to give Holly."
+},
+{
+"k": "16633",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You got Dee talking."
+},
+{
+"k": "16634",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee noticed your silence."
+},
+{
+"k": "16635",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee noticed that."
+},
+{
+"k": "16636",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Dee won't forget that."
+},
+{
+"k": "16637",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You were gentle with Holly."
+},
+{
+"k": "16638",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You avoided telling Holly."
+},
+{
+"k": "16639",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty noticed that."
+},
+{
+"k": "16640",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Beauty noticed your silence."
+},
+{
+"k": "16641",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You hit Beast when he was down."
+},
+{
+"k": "16642",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie noticed that."
+},
+{
+"k": "16643",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie noticed your silence."
+},
+{
+"k": "16644",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Georgie won't forget that."
+},
+{
+"k": "16645",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That pissed off Georgie."
+},
+{
+"k": "16646",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That upset Georgie."
+},
+{
+"k": "16647",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Nerissa noticed your silence."
+},
+{
+"k": "16648",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "That made Georgie furious."
+},
+{
+"k": "16649",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Hans noticed that."
+},
+{
+"k": "16650",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1900"
+},
+{
+"k": "16651",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1800"
+},
+{
+"k": "16652",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1650"
+},
+{
+"k": "16653",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1535"
+},
+{
+"k": "16654",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1500"
+},
+{
+"k": "16655",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1900"
+},
+{
+"k": "16656",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $800"
+},
+{
+"k": "16657",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $700"
+},
+{
+"k": "16658",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $550"
+},
+{
+"k": "16659",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $435"
+},
+{
+"k": "16660",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $400"
+},
+{
+"k": "16661",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $450"
+},
+{
+"k": "16662",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $300"
+},
+{
+"k": "16663",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $185"
+},
+{
+"k": "16664",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $150"
+},
+{
+"k": "16665",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $35"
+},
+{
+"k": "16666",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $2300"
+},
+{
+"k": "16667",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $2200"
+},
+{
+"k": "16668",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $2050"
+},
+{
+"k": "16669",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1935"
+},
+{
+"k": "16670",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $2300"
+},
+{
+"k": "16671",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $2200"
+},
+{
+"k": "16672",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1950"
+},
+{
+"k": "16673",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1835"
+},
+{
+"k": "16674",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $2050"
+},
+{
+"k": "16675",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1950"
+},
+{
+"k": "16676",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1685"
+},
+{
+"k": "16677",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1935"
+},
+{
+"k": "16678",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1835"
+},
+{
+"k": "16679",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1685"
+},
+{
+"k": "16680",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $1100"
+},
+{
+"k": "16681",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $950"
+},
+{
+"k": "16682",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $835"
+},
+{
+"k": "16683",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $800"
+},
+{
+"k": "16684",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1100"
+},
+{
+"k": "16685",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $700"
+},
+{
+"k": "16686",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $850"
+},
+{
+"k": "16687",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $735"
+},
+{
+"k": "16688",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $950"
+},
+{
+"k": "16689",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $850"
+},
+{
+"k": "16690",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $550"
+},
+{
+"k": "16691",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $585"
+},
+{
+"k": "16692",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $835"
+},
+{
+"k": "16693",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $735"
+},
+{
+"k": "16694",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $585"
+},
+{
+"k": "16695",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $435"
+},
+{
+"k": "16696",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1250"
+},
+{
+"k": "16697",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage to club: $1135"
+},
+{
+"k": "16698",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Damage total: $485"
+},
+{
+"k": "16699",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You released Dee."
+},
+{
+"k": "16700",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You kept Dee in custody."
+},
+{
+"k": "16701",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You kept the Woodsman in custody."
+},
+{
+"k": "16702",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You released the Woodsman."
+},
+{
+"k": "16703",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "test - OA time"
+},
+{
+"k": "16704",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Late Afternoon"
+},
+{
+"k": "16705",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Afternoon"
+},
+{
+"k": "16706",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Late Evening"
+},
+{
+"k": "16707",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "Woodland Luxury Apartments"
+},
+{
+"k": "16708",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "The Woodland Building"
+},
+{
+"k": "16709",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You didn't hit Beast."
+},
+{
+"k": "16710",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You ignored Crane."
+},
+{
+"k": "16711",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You connected the evidence."
+},
+{
+"k": "16712",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You promised Holly the body."
+},
+{
+"k": "16713",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You refused to give Holly the body."
+},
+{
+"k": "16714",
+"who": "",
+"ctx": "Fables102/ui_episode",
+"en": "You promised to check with Crane."
+},
+{
+"k": "16715",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [annoyed] Can you what."
+},
+{
+"k": "16716",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [laughing to himself] She's asleep ya fuckin' idiot."
+},
+{
+"k": "16717",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [grossed out] Why would she want to hear that?"
+},
+{
+"k": "16718",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] Or how it happened, then!"
+},
+{
+"k": "16719",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] What's left to explain?"
+},
+{
+"k": "16720",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [mad] And you know what?[laughs a little] You know what? Neither do I!"
+},
+{
+"k": "16721",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] Well... Can I--"
+},
+{
+"k": "16722",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] She didn't even give me a chance to explain!"
+},
+{
+"k": "16723",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] We know what happened."
+},
+{
+"k": "16724",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] Just... y'know, what happened."
+},
+{
+"k": "16725",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] Can I just, I dunno... wait here for a bit?"
+},
+{
+"k": "16726",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] I don't know."
+},
+{
+"k": "16727",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [mad] She's pissed at you. *I'm* pissed at you."
+},
+{
+"k": "16728",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] Until she wakes up?"
+},
+{
+"k": "16729",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door]Go away."
+},
+{
+"k": "16730",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door]We're closed."
+},
+{
+"k": "16731",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door]Fuck off to the East Village. We're not open."
+},
+{
+"k": "16732",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door]Didn't you fuckin' hear me?"
+},
+{
+"k": "16733",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It's me, Bigby."
+},
+{
+"k": "16734",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It's the Sheriff."
+},
+{
+"k": "16735",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ThinkingA}Guys, it's me, Bigby."
+},
+{
+"k": "16736",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ThinkingB}Guys, open up, it's the Sheriff."
+},
+{
+"k": "16737",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConcernedA}I need to talk to Holly."
+},
+{
+"k": "16738",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [annoyed]Read the sign."
+},
+{
+"k": "16739",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[while still looking at Bigby]{StonedA}Hey, look, Woody, it's the Sheriff."
+},
+{
+"k": "16740",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[greeting] {MockingB}Doc."
+},
+{
+"k": "16741",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalA}Bigby?"
+},
+{
+"k": "16742",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[making a joke] {Sarcastic}Drinking on a school night?"
+},
+{
+"k": "16743",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Or is this a business call."
+},
+{
+"k": "16744",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Apart from the three packs a day, of course."
+},
+{
+"k": "16745",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Though I guess I can't really complain about that."
+},
+{
+"k": "16746",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "No judgment either way, of course."
+},
+{
+"k": "16747",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Yeah, don't tell anybody."
+},
+{
+"k": "16748",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingA}Well... I don't know how easy that'll be."
+},
+{
+"k": "16749",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedA}No, I'm here to talk to Holly. She has her sister's things... {WorriedB}I gotta go through them."
+},
+{
+"k": "16750",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I just sedated Holly. She's resting now."
+},
+{
+"k": "16751",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ThinkingA}What are you here for?"
+},
+{
+"k": "16752",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I came to see and sedate Holly. She's resting now."
+},
+{
+"k": "16753",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingB}It's not my kind of place, but, {NormalA}you know... doctors go where treatments are needed.[beat] {Sarcastic}I think somebody said that somewhere once."
+},
+{
+"k": "16754",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Well... I don't know how easy that'll be, Sheriff."
+},
+{
+"k": "16755",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[tiredly joking] {MockingA}Yeah.[beat] Don't tell anybody, alright?"
+},
+{
+"k": "16756",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalA}Holly's inside, but... she's resting now. I sedated her."
+},
+{
+"k": "16757",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "How's she holding up?"
+},
+{
+"k": "16758",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedB}How is she, anyway."
+},
+{
+"k": "16759",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{Professional}For anyone."
+},
+{
+"k": "16760",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingA}Tonight wasn't exactly a trip to the opera."
+},
+{
+"k": "16761",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalA}Physically... getting better. Emotionally... {MockingA}I don't know."
+},
+{
+"k": "16762",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "So I can't talk to her?"
+},
+{
+"k": "16763",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedA}Is she completely out? {ThinkingA}Can I talk to her?"
+},
+{
+"k": "16764",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingA}She's asleep, Bigby. And if I were you I wouldn't bother her."
+},
+{
+"k": "16765",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "She's been through a very trying experience."
+},
+{
+"k": "16766",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Tonight wasn't exactly a trip to the opera."
+},
+{
+"k": "16767",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "For anyone."
+},
+{
+"k": "16768",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I can't leave without some info."
+},
+{
+"k": "16769",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingB}I can't leave until I get some information."
+},
+{
+"k": "16770",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingA}Can you get it without her?"
+},
+{
+"k": "16771",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{DoubtfulA}If she doesn't have it, I'll have to."
+},
+{
+"k": "16772",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Well... I'll leave you to it, then."
+},
+{
+"k": "16773",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingB}She's been through a very trying experience."
+},
+{
+"k": "16774",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingA}I broke four of my needles just getting a hole."
+},
+{
+"k": "16775",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{Sarcastic}The girl has a mountain's complexion."
+},
+{
+"k": "16776",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{Professional}Had to lather her arm in vinegar."
+},
+{
+"k": "16777",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] Gren?"
+},
+{
+"k": "16778",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: behind a door] [laughing to himself] Fuck do I care."
+},
+{
+"k": "16779",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedB}You just missed Swineheart."
+},
+{
+"k": "16780",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[lightly sarcastic]{StonedA}Well come on in, {StonedB}buddy."
+},
+{
+"k": "16781",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConfusedA}Right? I mean... {TiredA}you must not be feelin' too good after that shit show."
+},
+{
+"k": "16782",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedA}Gren..."
+},
+{
+"k": "16783",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedB}What, he's a traveler, {StonedA}a weary traveler in search of some... hospitality, right?"
+},
+{
+"k": "16784",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Yeah... sure."
+},
+{
+"k": "16785",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I need to see Lily's things."
+},
+{
+"k": "16786",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[confused]{ConfusedB}Yeah, sure. {ConfusedA}Thanks."
+},
+{
+"k": "16787",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedB}Nothin's wrong with me. In fact, {StonedA}I'm in a good Goddamned mood, so you should take advantage."
+},
+{
+"k": "16788",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[calmly confused]{ConfusedA}Just what in the fuck is wrong with you?"
+},
+{
+"k": "16789",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[laughs a little to himself]{StonedA}Whatever."
+},
+{
+"k": "16790",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConfusedA}Yeah... I'll only {ConfusedB}be here two minutes. I just need to check through Lily's things."
+},
+{
+"k": "16791",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedA}You should all take advantage."
+},
+{
+"k": "16792",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedB}What the fuck, man? I'm in a good Goddamned mood."
+},
+{
+"k": "16793",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedB}Gren, c'mon, sit down over here."
+},
+{
+"k": "16794",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You wanna drink?[beat] It's on me, on us."
+},
+{
+"k": "16795",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Bigby, c'mon, have a drink with me."
+},
+{
+"k": "16796",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedA}I wanna clear the air. We're all in this dungheap of a {StonedB}fuckin' shit town together, and we're all gonna have a toast. {StonedA}All of us."
+},
+{
+"k": "16797",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{SadA}Yes, he did, he certainly did, {TiredA}but lemme tell you something."
+},
+{
+"k": "16798",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Gren, Swineheart said you shouldn't mix it with--[gets cut off]"
+},
+{
+"k": "16799",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryA}You think I give a fuck what that fuckin' guy says?[beat] {ConfusedA}Or what you say?"
+},
+{
+"k": "16800",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "The doc gave them both Barmecidal ambrosia.[beat] For the pain."
+},
+{
+"k": "16801",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "So, c'mon.[beat] Have a drink with me."
+},
+{
+"k": "16802",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And he said that he shouldn't mix it with alcohol."
+},
+{
+"k": "16803",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "So, c'mon... have a drink with me."
+},
+{
+"k": "16804",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I give you a drink."
+},
+{
+"k": "16805",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "To the fallen."
+},
+{
+"k": "16806",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Nice sentiment, Gren..."
+},
+{
+"k": "16807",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You come into my house."
+},
+{
+"k": "16808",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}I don't wanna get loaded with him."
+},
+{
+"k": "16809",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[Drink]"
+},
+{
+"k": "16810",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm just here on business, Gren. I can't."
+},
+{
+"k": "16811",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryA}I'm running out of time, Gren."
+},
+{
+"k": "16812",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[Smack drink away]"
+},
+{
+"k": "16813",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Alright, that's what I'm talkin' about."
+},
+{
+"k": "16814",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I ever tell you why I don't have children?"
+},
+{
+"k": "16815",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "A big strapping thing like you. . ."
+}
+]

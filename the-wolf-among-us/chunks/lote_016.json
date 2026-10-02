@@ -1,0 +1,1856 @@
+[
+{
+"k": "4012",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Any information on Fables in our community will be somewhere in these books."
+},
+{
+"k": "4013",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Well, I'm sure we'll get it all cleared up. Okay. Thank you."
+},
+{
+"k": "4014",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5][having overheard the conversation, but somewhat confused]Allerleirauh... that means \"every-kind-of-fur\"."
+},
+{
+"k": "4015",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5]Well... I know what it's like to have a falling out with a Prince... I don't trust any of them at this point."
+},
+{
+"k": "4016",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {ThinkingA}Hey, Magic Mirror... I got a question."
+},
+{
+"k": "4017",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {AngryA}I don't have time for this shit."
+},
+{
+"k": "4018",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5][beat] {ThinkingA}There's no need for that...[beat] {ThinkingB}fine."
+},
+{
+"k": "4019",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {MockingA}See? Was that so hard?"
+},
+{
+"k": "4020",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {AngryC}Yeah, I'm about two seconds away from kicking a hole in ya."
+},
+{
+"k": "4021",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {thinkingA}Of which Fable do you wish to know?"
+},
+{
+"k": "4022",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {AngryA}I'm sorry, Bigby. I can only show you what can be seen."
+},
+{
+"k": "4023",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {mockingA}What you see is complete. The Woodsman stumbles down a street."
+},
+{
+"k": "4024",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {AngryA}No shit. Which street?"
+},
+{
+"k": "4025",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [as if a bit confused]{WorriedA}Through powerful magic her whereabouts concealed. Unfortunately for you, \"These lips are sealed.\""
+},
+{
+"k": "4026",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {AngryA}Get me her real name, and I'll show you what I can."
+},
+{
+"k": "4027",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {thinkingA}The name you are using no longer applies, {thinkingB}she cast off her nickname to help her disquise."
+},
+{
+"k": "4028",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [threatening] {AngryC}I'm this close."
+},
+{
+"k": "4029",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {angryB}I'm sorry... but threats won't help you. Find her name, Bigby."
+},
+{
+"k": "4030",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Tarot cards. Jack brought them back from Appalachia... who knows where they were before then... or what he did to get 'em."
+},
+{
+"k": "4031",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Strength... I guess it comes in all forms."
+},
+{
+"k": "4032",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Rub"
+},
+{
+"k": "4033",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] {MockingA}Worth a try."
+},
+{
+"k": "4034",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [muttering to himself] {SarcasticB}\"Magic lamps\" are pretty much just lamps {ThinkingA}after the genie's been freed. . ."
+},
+{
+"k": "4035",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup]We already know her name.  But feel free to have a look, if you like."
+},
+{
+"k": "4036",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup]Yeah.  That's her, alright.  A long time ago."
+},
+{
+"k": "4037",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Use with Tarot Card"
+},
+{
+"k": "4038",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "...his daughter ...Faith."
+},
+{
+"k": "4039",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Is there a listing for the Prince?"
+},
+{
+"k": "4040",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] No. Everything about him is related to Faith."
+},
+{
+"k": "4041",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup6] We'll at least be able to get her real name from the books whenever Bufkin finds them."
+},
+{
+"k": "4042",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup6] In the meantime, poke around. Maybe the mirror can help."
+},
+{
+"k": "4043",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup6] I really have to get this appointment squared away, but. . . let me know if you need anything."
+},
+{
+"k": "4044",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Whenever you're ready."
+},
+{
+"k": "4045",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Faith's father"
+},
+{
+"k": "4046",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Show me. . . Faith's father. The old King."
+},
+{
+"k": "4047",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Unfortunately for him, he died ages ago; the body's eaten by wolves so there's nothing to show."
+},
+{
+"k": "4048",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] I have a bit of a crutch, mirrors don't get out much."
+},
+{
+"k": "4049",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Do you know where Prince Lawrence lives?"
+},
+{
+"k": "4050",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Where is this?"
+},
+{
+"k": "4051",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [thinks] If he's a prince. . . probably relocated in the South Bronx. Yellow building, red window shutters?"
+},
+{
+"k": "4052",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Where's what?"
+},
+{
+"k": "4053",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Red frames."
+},
+{
+"k": "4054",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Yeah, that's the one. I can take us there."
+},
+{
+"k": "4055",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Yeah. That'll have to do for now."
+},
+{
+"k": "4056",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] I haven't seen Badger around for a while."
+},
+{
+"k": "4057",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] He likes his privacy, I think."
+},
+{
+"k": "4058",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] I wish Toad would like [emphatic/] his [/] a bit more."
+},
+{
+"k": "4059",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] . . .I've seen this before."
+},
+{
+"k": "4060",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] This symbol on the man's clothes. It's the same as the ring's."
+},
+{
+"k": "4061",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Could be her father or husband?"
+},
+{
+"k": "4062",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5]"
+},
+{
+"k": "4063",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] This has most of the emblems of the old days and usually what family they come from. If it's in here, we'll have her name."
+},
+{
+"k": "4064",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] This is the one."
+},
+{
+"k": "4065",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Where is this symbol from? Which family or story?"
+},
+{
+"k": "4066",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Yeah."
+},
+{
+"k": "4067",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [a little sad] We got what we came for."
+},
+{
+"k": "4068",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Her name's Faith, she was married to Prince Lawrence. I mean, that's more than we- - [gets cut off]"
+},
+{
+"k": "4069",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Her name [emphatic/] was [/] Faith."
+},
+{
+"k": "4070",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [a beat] [quietly] Yeah."
+},
+{
+"k": "4071",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] You think he did it?"
+},
+{
+"k": "4072",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] We should talk to the husband."
+},
+{
+"k": "4073",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] With this sort of thing, it's usually the person who knew them best."
+},
+{
+"k": "4074",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Or it's someone completely random."
+},
+{
+"k": "4075",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Nothing would surprise me, at this point. We can't rule him out."
+},
+{
+"k": "4076",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [amped] You know what?"
+},
+{
+"k": "4077",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [assertive] [hushed] Stop."
+},
+{
+"k": "4078",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Alright."
+},
+{
+"k": "4079",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [yelling over to him] We'll get on it right away, sir."
+},
+{
+"k": "4080",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] You would've just pissed him off more."
+},
+{
+"k": "4081",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Faith's Father"
+},
+{
+"k": "4082",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Faith's father, King Herman"
+},
+{
+"k": "4083",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Show me Faith's father, King Herman."
+},
+{
+"k": "4084",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] And her father was King Herman."
+},
+{
+"k": "4085",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "[stay out of it]"
+},
+{
+"k": "4086",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup7] [to himself] . . . what's he been doing?"
+},
+{
+"k": "4087",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup7] [to himself] Mph. I guess that crosses him off the suspect list. . ."
+},
+{
+"k": "4088",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup7] I can't tell, but. . . I don't know, he might be in trouble."
+},
+{
+"k": "4089",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup7] I don't know. I couldn't really tell, but. . . he could be in trouble. And we should go there anyway to search her apartment."
+},
+{
+"k": "4090",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "Huh. Me."
+},
+{
+"k": "4091",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup7] And we should go there anyway to search her apartment."
+},
+{
+"k": "4092",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup7] Toad might have to wait."
+},
+{
+"k": "4093",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[grunt of effort, lifting large object]"
+},
+{
+"k": "4094",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[yelp of panic, sees cop coming]"
+},
+{
+"k": "4095",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I'm just getting what he owes me."
+},
+{
+"k": "4096",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Thanks for letting me get that out my system."
+},
+{
+"k": "4097",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I'm answering them, the best that I can."
+},
+{
+"k": "4098",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[sobbing]But the car..."
+},
+{
+"k": "4099",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "What did we JUST talk about, Toad?"
+},
+{
+"k": "4100",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Are you insane? GO. INSIDE."
+},
+{
+"k": "4101",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "We're not discussing this. GO. Or I'll drag you there myself."
+},
+{
+"k": "4102",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You don't want to help. Trust me."
+},
+{
+"k": "4103",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "This is Wachowski. I've got a possible 10-53 on Andersen."
+},
+{
+"k": "4104",
+"who": "DISPATCHER",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[radio process] Officer Wachowski 10-4. Please advise if you need a tow."
+},
+{
+"k": "4105",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Right."
+},
+{
+"k": "4106",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Not if I can avoid it."
+},
+{
+"k": "4107",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Who do you work for, really?"
+},
+{
+"k": "4108",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I can't tell you that. I'm sorry."
+},
+{
+"k": "4109",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Hey, you like my ribbon?"
+},
+{
+"k": "4110",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Beautiful..."
+},
+{
+"k": "4111",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Thank you."
+},
+{
+"k": "4112",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Stop changing the subject."
+},
+{
+"k": "4113",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "If you don't answer... I can't help you..."
+},
+{
+"k": "4114",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "If you don't answer my questions, I can't help you."
+},
+{
+"k": "4115",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Whatsamatter, Bigby? Tempted to take a bite?"
+},
+{
+"k": "4116",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I guess those days are behind you."
+},
+{
+"k": "4117",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Wiring's gotta be back there."
+},
+{
+"k": "4118",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Car's a disaster."
+},
+{
+"k": "4119",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Those are probably the alarm wires. [beat] Probably."
+},
+{
+"k": "4120",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Pull Wires"
+},
+{
+"k": "4121",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[sigh of relief]"
+},
+{
+"k": "4122",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "What are you doing?"
+},
+{
+"k": "4123",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Leave him alone."
+},
+{
+"k": "4124",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You can't be doing that."
+},
+{
+"k": "4125",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Thanks..."
+},
+{
+"k": "4126",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Don't mention it."
+},
+{
+"k": "4127",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It's more for me. He'll be fine."
+},
+{
+"k": "4128",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Aisllle killl yew. Yew fuckin' bidch."
+},
+{
+"k": "4129",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Let me help you with that."
+},
+{
+"k": "4130",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Great."
+},
+{
+"k": "4131",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "The guy's got an axe in his brain. He's not feeling that."
+},
+{
+"k": "4132",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Let her"
+},
+{
+"k": "4133",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Guy's havin' a bad day."
+},
+{
+"k": "4134",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Suppose it is."
+},
+{
+"k": "4135",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Stop her"
+},
+{
+"k": "4136",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I think he's had enough."
+},
+{
+"k": "4137",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Is that what you'd call it? Cause it looked like I was saving your life."
+},
+{
+"k": "4138",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You're talking to him, right? Cause I'd like to leave."
+},
+{
+"k": "4139",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Gimme a sec. Okay? You just tried to kill a guy."
+},
+{
+"k": "4140",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I had it under control."
+},
+{
+"k": "4141",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Right."
+},
+{
+"k": "4142",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I did."
+},
+{
+"k": "4143",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]I know. That's why I said, \"right.\""
+},
+{
+"k": "4144",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]No problem. I wanted to do it anyway."
+},
+{
+"k": "4145",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[Genuine] Thanks. I appreciate the help."
+},
+{
+"k": "4146",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]How so?"
+},
+{
+"k": "4147",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "That doesn't change anything."
+},
+{
+"k": "4148",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]You're welcome. We can just pretend you thanked me."
+},
+{
+"k": "4149",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Right. Okay."
+},
+{
+"k": "4150",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Just... wait."
+},
+{
+"k": "4151",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Shit."
+},
+{
+"k": "4152",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I gotta get him off the street."
+},
+{
+"k": "4153",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You're not going anywhere."
+},
+{
+"k": "4154",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]He doesn't have the money he owes me so I've gotta go figure out what to do about that. There's no reason for me to be here."
+},
+{
+"k": "4155",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You're a witness. I might need a statement."
+},
+{
+"k": "4156",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You witnessed everything I did. You can fill it out."
+},
+{
+"k": "4157",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "There's a dumpster back there. Seems fitting."
+},
+{
+"k": "4158",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Where you putting him?"
+},
+{
+"k": "4159",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I'm not sure yet."
+},
+{
+"k": "4160",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You will."
+},
+{
+"k": "4161",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Sirens."
+},
+{
+"k": "4162",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Damn it."
+},
+{
+"k": "4163",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Just... please."
+},
+{
+"k": "4164",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "But you said I have a problem."
+},
+{
+"k": "4165",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pissed]Okay."
+},
+{
+"k": "4166",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "There's a cop on the way. I'm not gonna sit here babysitting you. So you need to shut up."
+},
+{
+"k": "4167",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[bleary]Looks like you got a problem then."
+},
+{
+"k": "4168",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Wait!"
+},
+{
+"k": "4169",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[Close it]"
+},
+{
+"k": "4170",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[from inside the dumpster]NO! You fuck!"
+},
+{
+"k": "4171",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[Leave it]"
+},
+{
+"k": "4172",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Stay quiet."
+},
+{
+"k": "4173",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I will."
+},
+{
+"k": "4174",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[whimpers and moans for 30 second LOOP - mourning wrecked car - sparse occasional words like \"oh god\" ... \"poor thing\" ... \"whimper\" etc]"
+},
+{
+"k": "4175",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[muffled]No!"
+},
+{
+"k": "4176",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Nooo! [whimper]  Why."
+},
+{
+"k": "4177",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[To The Woodsman] Don't. Fucking. Move."
+},
+{
+"k": "4178",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You're probably right."
+},
+{
+"k": "4179",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "More noise. Great."
+},
+{
+"k": "4180",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It's probably messed up from... the uh... you know."
+},
+{
+"k": "4181",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Falling three stories onto it?"
+},
+{
+"k": "4182",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "At some point even the mundy cops'll notice this."
+},
+{
+"k": "4183",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Light"
+},
+{
+"k": "4184",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Here..."
+},
+{
+"k": "4185",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I should stick with matches."
+},
+{
+"k": "4186",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Radar detector. 'Least he learned something from last time."
+},
+{
+"k": "4187",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "This fuckin' thing."
+},
+{
+"k": "4188",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[playful]You're not exactly helping things."
+},
+{
+"k": "4189",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Pretty messed up."
+},
+{
+"k": "4190",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Someone's gonna notice the giant pool of blood in front of this thing."
+},
+{
+"k": "4191",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I know his name."
+},
+{
+"k": "4192",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "No. [beat]Never mind."
+},
+{
+"k": "4193",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "At least you got rid of the hysterical frog."
+},
+{
+"k": "4194",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "If he was conscious, you could make him clean it up himself."
+},
+{
+"k": "4195",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[calling out]Stay inside."
+},
+{
+"k": "4196",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[calling to Toad]Hey! You need to get inside."
+},
+{
+"k": "4197",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[calling to Toad]I said hey! Can you hear me?"
+},
+{
+"k": "4198",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Not sure what I was expecting."
+},
+{
+"k": "4199",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Stay put."
+},
+{
+"k": "4200",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[process as echo inside dumpster] Ah.. Fuck... fuckin' bully..."
+},
+{
+"k": "4201",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Hot garbage... my favorite part of summer in New York."
+},
+{
+"k": "4202",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Should be safe enough there. I'll grab it when I'm\ndone."
+},
+{
+"k": "4203",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "That is a LOT of blood."
+},
+{
+"k": "4204",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Hmm... probably cover it with something."
+},
+{
+"k": "4205",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Too much, huh?"
+},
+{
+"k": "4206",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Is what?"
+},
+{
+"k": "4207",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "A chunk of hair."
+},
+{
+"k": "4208",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[beat]Glad you could clear that up."
+},
+{
+"k": "4209",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It is, by the way."
+},
+{
+"k": "4210",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "He deserved it."
+},
+{
+"k": "4211",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Ungh..."
+},
+{
+"k": "4212",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Hey. [beat] Can you hear me? You awake?"
+},
+{
+"k": "4213",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Hey yourself."
+},
+{
+"k": "4214",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "If you're just gonna throw it away..."
+},
+{
+"k": "4215",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It's evidence."
+},
+{
+"k": "4216",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You need any help?"
+},
+{
+"k": "4217",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You two make a cute couple."
+},
+{
+"k": "4218",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It's not my first time."
+},
+{
+"k": "4219",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Well, you hide bodies like a real pro."
+},
+{
+"k": "4220",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Well. Gotta get the rest of this shit taken care of."
+},
+{
+"k": "4221",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Well. Thanks for the smoke."
+},
+{
+"k": "4222",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You need to move it. NOW."
+},
+{
+"k": "4223",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I know but..."
+},
+{
+"k": "4224",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Shut up and GO!"
+},
+{
+"k": "4225",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You didn't hear me. Through the window."
+},
+{
+"k": "4226",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[shouts] GO!"
+},
+{
+"k": "4227",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "We'll talk later."
+},
+{
+"k": "4228",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "We'll talk about it later. Go!"
+},
+{
+"k": "4229",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Look, I'm sorry. But you have to go. Right now. Go."
+},
+{
+"k": "4230",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[snarl]"
+},
+{
+"k": "4231",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[fearful]Aah!"
+},
+{
+"k": "4232",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I've only had her for a week..."
+},
+{
+"k": "4233",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Unbelievable, just... unbelievable."
+},
+{
+"k": "4234",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "To think you're giving ME grief..."
+},
+{
+"k": "4235",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It's never going to be the same."
+},
+{
+"k": "4236",
+"who": "TOAD",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "It's not just banging out a new fender, I mean... this car is totalled. Absolutely totalled."
+},
+{
+"k": "4237",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[barely conscious]Nooo..."
+},
+{
+"k": "4238",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[barely conscious]Where..."
+},
+{
+"k": "4239",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[barely conscious]Stop... you..."
+},
+{
+"k": "4240",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[barely conscious]Fucker."
+},
+{
+"k": "4241",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Car"
+},
+{
+"k": "4242",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Dashboard"
+},
+{
+"k": "4243",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Parking Brake"
+},
+{
+"k": "4244",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Radar Detector"
+},
+{
+"k": "4245",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Cigarette"
+},
+{
+"k": "4246",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "TV"
+},
+{
+"k": "4247",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Trash Pile"
+},
+{
+"k": "4248",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Newspaper"
+},
+{
+"k": "4249",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Puddle of Blood"
+},
+{
+"k": "4250",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Chunk of Hair"
+},
+{
+"k": "4251",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You need to get the fuck UP. Right NOW."
+},
+{
+"k": "4252",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[incomprehensible garble]"
+},
+{
+"k": "4253",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "The cops are on the way. GET. UP."
+},
+{
+"k": "4254",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Blaarg."
+},
+{
+"k": "4255",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I hear 'em now. The sirens."
+},
+{
+"k": "4256",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Yeah, it won't be long."
+},
+{
+"k": "4257",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You need help?"
+},
+{
+"k": "4258",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I can handle it. Just stay put."
+},
+{
+"k": "4259",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[angry angry angry]The cops are on. the. way. Get up now, or I will throw you through that window."
+},
+{
+"k": "4260",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Yes, with the bars."
+},
+{
+"k": "4261",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Bumper"
+},
+{
+"k": "4262",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]You alright back there?  I mean... Your eyes... and the teeth... you're not really supposed to do that are you?"
+},
+{
+"k": "4263",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][firm but not angry.]He's had enough."
+},
+{
+"k": "4264",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][angry]He's a Fable... sonuvabitch can take plenty!"
+},
+{
+"k": "4265",
+"who": "MALEVOICE",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] [dismissive]FUCK YOU!"
+},
+{
+"k": "4266",
+"who": "MALEVOICE",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] I'm callin' the cops!"
+},
+{
+"k": "4267",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] [coming down from her fever pitch into something resembling apologetic]Sorry."
+},
+{
+"k": "4268",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]  [screamed up at the apartments down the street]NO, FUCK YOU!"
+},
+{
+"k": "4269",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] [screamed up at the apartments down the street]GO AHEAD, ASSHOLE!"
+},
+{
+"k": "4270",
+"who": "FEMALEVOICE",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Hey!  Shut the hell up down there!"
+},
+{
+"k": "4271",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][top of her voice, expressing her frustration with the Woodsman situation]Damn it!"
+},
+{
+"k": "4272",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][with force/worry]What the hell are you doing?"
+},
+{
+"k": "4273",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] You sure you weren't just trying to get your money?"
+},
+{
+"k": "4274",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][smirk] Guess you'll never know."
+},
+{
+"k": "4275",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][genuine]Thanks."
+},
+{
+"k": "4276",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Well, I still appreciate the help."
+},
+{
+"k": "4277",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] [I'd say it's about fifty fifty."
+},
+{
+"k": "4278",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] [I'm sure that was more about hurting him, than helping me."
+},
+{
+"k": "4279",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][calm but forceful]In any case, you're not going anywhere."
+},
+{
+"k": "4280",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][a little frustrated with Bigby]Look, I've gotta figure out what to do about the money this asshole doesn't have. I can't waste time if there's no reason for me to be here."
+},
+{
+"k": "4281",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][hoping to get out of the job]And... you don't need me for that.  Right?"
+},
+{
+"k": "4282",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][e.g.\"This is why I can't just run away.\"]I gotta stay and hide this. Grab everything that points to Fabletown."
+},
+{
+"k": "4283",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][expecting him to leave, but seeing he's not]You gonna leave?"
+},
+{
+"k": "4284",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Sure it is.  You walk that way.  [Faith points down the street]For a long time. Til you get somewhere else."
+},
+{
+"k": "4285",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]It's not that easy."
+},
+{
+"k": "4286",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Hey.  Given my night so far, I don't really wanna be here when the cops show up, so... Until next time."
+},
+{
+"k": "4287",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][ignoring Faith's sarcasm]Look at this place. What do you see?"
+},
+{
+"k": "4288",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "How about some help?"
+},
+{
+"k": "4289",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "You're in this too."
+},
+{
+"k": "4290",
+"who": "",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Protect Fabletown"
+},
+{
+"k": "4291",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][sigh, reluctant]I guess I'm at least part of the reason you're here at all, so..."
+},
+{
+"k": "4292",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Fine, I'll give you a hand.  But you owe me one, right?"
+},
+{
+"k": "4293",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]I don't need you but I could use you."
+},
+{
+"k": "4294",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]You put the axe in his head.  You could at least help with that."
+},
+{
+"k": "4295",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Fine, don't do it for me.  Do it for yourself.  You're a Fable too."
+},
+{
+"k": "4296",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Sure.  We'll see."
+},
+{
+"k": "4297",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Nothing worth sticking around for."
+},
+{
+"k": "4298",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][insistent, hit CRIME SCENE hard]It looks like a crime scene.  I leave, the Mundy cops show up, and they'll start asking questions.  Next thing, they're knocking on Toad's door.  And then we're ALL screwed."
+},
+{
+"k": "4299",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]I'm dumping this in the trash."
+},
+{
+"k": "4300",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]Broken glass over here. I'll look for somewhere to sweep it."
+},
+{
+"k": "4301",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]Damn, is that... someone's hair? That's not gonna go over well."
+},
+{
+"k": "4302",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]You're good at this."
+},
+{
+"k": "4303",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]I really do need to leave, you know."
+},
+{
+"k": "4304",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]Is this clean enough, you think?"
+},
+{
+"k": "4305",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]I can't tell if this is blood or... maybe brake fluid..."
+},
+{
+"k": "4306",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][talking in the street projection]Damn! Glad I found this before they did..."
+},
+{
+"k": "4307",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup][from inside the dumpster]You and your fucking whore!"
+},
+{
+"k": "4308",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Toad. Get inside."
+},
+{
+"k": "4309",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[softer]Right... Fine. [then warning]You got thirty seconds."
+},
+{
+"k": "4310",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "Yeah. It is."
+},
+{
+"k": "4311",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[Changing the subject] This is a real mess."
+},
+{
+"k": "4312",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]Is that a chunk of hair."
+},
+{
+"k": "4313",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][after being nice, he then admonishes Toad]Then you gotta get the hell outta here."
+},
+{
+"k": "4314",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][break this up so delivery sounds more natural]We probably don't have a lot of time here.  So just grab whatever looks incriminating.  And hide it."
+},
+{
+"k": "4315",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][alt] Fucked."
+},
+{
+"k": "4316",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][alt2] Fucked up?"
+},
+{
+"k": "4317",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1][alt] Aright, we don't have a lot time. Just get rid of everything that looks..."
+},
+{
+"k": "4318",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1] Same thing."
+},
+{
+"k": "4319",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "[pickup1]...incriminating."
+},
+{
+"k": "4320",
+"who": "FAITH",
+"ctx": "Fables101/env_fabletownandersen_cleanup",
+"en": "I guess it's a good thing Fables are hard to kill."
+}
+]

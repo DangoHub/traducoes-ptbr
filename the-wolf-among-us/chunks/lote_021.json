@@ -1,0 +1,2036 @@
+[
+{
+"k": "5362",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] I guess \"Shoes by Cinderella\" would've been too obvious. . ."
+},
+{
+"k": "5363",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] I think I heard they might have to raise their rent. Something about the cost of the spells that keep us all hidden, their base materials are pricing more. I don't ask questions."
+},
+{
+"k": "5364",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] \"Luxury Apartments.\" I wish they wouldn't advertise that . . ."
+},
+{
+"k": "5365",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Snow can sometimes be a disciplinarian. . ."
+},
+{
+"k": "5366",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Just some loose trash."
+},
+{
+"k": "5367",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] I'm surprised the garbage men can even find their way here."
+},
+{
+"k": "5368",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "I've seen enough."
+},
+{
+"k": "5369",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] [resigned] Okay."
+},
+{
+"k": "5370",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] [starts to protest] But. . ."
+},
+{
+"k": "5371",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Um, no, not yet."
+},
+{
+"k": "5372",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] [big sigh]"
+},
+{
+"k": "5373",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] [uncomfortable] Uh, what, uh, {ThinkingA}what do you want to do next?"
+},
+{
+"k": "5374",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] We still have some time. . . I should keep investigating the area."
+},
+{
+"k": "5375",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] {Body-X}{NormalA}Okay. {ThinkingA} Good idea."
+},
+{
+"k": "5376",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Nothing much else to do."
+},
+{
+"k": "5377",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Not ready to say, yet."
+},
+{
+"k": "5378",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] There's some kind of symbol here."
+},
+{
+"k": "5379",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Mm. I...I don't recognize it."
+},
+{
+"k": "5380",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Neither do I."
+},
+{
+"k": "5381",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] [alt] Okay. We can look into Lawrence after that."
+},
+{
+"k": "5382",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] [alt] Okay. We'll go to Lawrence's after that."
+},
+{
+"k": "5383",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "There's no walking on the grass. Snow White's orders."
+},
+{
+"k": "5384",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Jacket"
+},
+{
+"k": "5385",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Is there some sort of curfew I don't know about? What's with the third degree."
+},
+{
+"k": "5386",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] He worries too much as it is and..."
+},
+{
+"k": "5387",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] It would just make my life a lot easier."
+},
+{
+"k": "5388",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Just, please..."
+},
+{
+"k": "5389",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Promise me."
+},
+{
+"k": "5390",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Maybe you shouldn't mention the grass thing to, Snow."
+},
+{
+"k": "5391",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] She blows this stuff out of proportion."
+},
+{
+"k": "5392",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] I really don't want to spend an afternoon in the Business Office."
+},
+{
+"k": "5393",
+"who": "BEAUTY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup5] Right. Sorry."
+},
+{
+"k": "5394",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Scrap of Fabric"
+},
+{
+"k": "5395",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup6]  Shouldn't we question Grimble?"
+},
+{
+"k": "5396",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "[pickup7] It's her ribbon."
+},
+{
+"k": "5397",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Remove Item"
+},
+{
+"k": "5398",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "Compare Fabric"
+},
+{
+"k": "5399",
+"who": "SNOW",
+"ctx": "Fables101/env_fabletownwoodlandbuilding",
+"en": "{ThinkingC}I'll meet you at the Business Office."
+},
+{
+"k": "5400",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{WorriedA}Bigby! Hey! Wait up."
+},
+{
+"k": "5401",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{WorriedB}Have you seen my wife? {ThinkingA}Have you seen Beauty?"
+},
+{
+"k": "5402",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{AngryA}Damnit... {ThinkingA}something's going on."
+},
+{
+"k": "5403",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalA}Yeah. I did."
+},
+{
+"k": "5404",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{ThinkingA}What? {ShockedA}When?"
+},
+{
+"k": "5405",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{ConfusedA}Just now?"
+},
+{
+"k": "5406",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{ConfusedB}You saw her just now?"
+},
+{
+"k": "5407",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Just a second ago."
+},
+{
+"k": "5408",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalA}Just a few seconds ago."
+},
+{
+"k": "5409",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] She walked past me."
+},
+{
+"k": "5410",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] {ThinkingA}You can probably still catch her."
+},
+{
+"k": "5411",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] {Body-StandA}{HappyA}Thanks!"
+},
+{
+"k": "5412",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Yesterday."
+},
+{
+"k": "5413",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalA}Yesterday. {ThinkingA}Why?"
+},
+{
+"k": "5414",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{SuspiciousA}Oh... okay..."
+},
+{
+"k": "5415",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "She told me not to tell you."
+},
+{
+"k": "5416",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] {Body-StandA}{ThinkingB}She told me not to tell you."
+},
+{
+"k": "5417",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] [grave]{Body-StandA}{ConcernedA}She did?"
+},
+{
+"k": "5418",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] {ThinkingA}Yeah. {NormalB}I thought it was weird too."
+},
+{
+"k": "5419",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] {EmbarrassedA}Thanks, Bigby."
+},
+{
+"k": "5420",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Haven't seen her."
+},
+{
+"k": "5421",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalA}Nope. {NormalB}Haven't seen her."
+},
+{
+"k": "5422",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4] {Body-StandA}{WorriedA}Oh... Okay. {EmbarrassedA}Sorry to bother you."
+},
+{
+"k": "5423",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Staying out of this."
+},
+{
+"k": "5424",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{ThinkingA}I'm staying out of it."
+},
+{
+"k": "5425",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{ConfusedA}Out of what?"
+},
+{
+"k": "5426",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{NormalB}Whatever it is, Beast. {SarcasticA}I'm not a marriage counselor."
+},
+{
+"k": "5427",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalA}Always good to check first..."
+},
+{
+"k": "5428",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{ThinkingA}No matter how many times they clean it, {NormalB}this thing always reeks of... [he trails off]"
+},
+{
+"k": "5429",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]So, hBEAST:<<id:357273633>>\t[pickup4]So, have you?ave you?"
+},
+{
+"k": "5430",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]Damn it."
+},
+{
+"k": "5431",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4][grunt]"
+},
+{
+"k": "5432",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{WorriedA}So have you?"
+},
+{
+"k": "5433",
+"who": "BEAST",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4][heard from behind closed elevator doors][frustrated]{Body-StandA}{ShockedA}Mother  {AngryA}fucker."
+},
+{
+"k": "5434",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{AngryA}Seventh day in a row."
+},
+{
+"k": "5435",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalB}Been awhile since I got any mail."
+},
+{
+"k": "5436",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4][to himself]{Body-StandA}{ThinkingA}How much longer is this gonna go on?"
+},
+{
+"k": "5437",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{ThinkingB}You'd think the Sheriff would get a permanent listing."
+},
+{
+"k": "5438",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{AngryA}Damn thing fell off again."
+},
+{
+"k": "5439",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4]{Body-StandA}{NormalA}Flycatcher needs to dust this guy."
+},
+{
+"k": "5440",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4][not overly loud]{Body-StandA}{SarcasticA}Hey...you awake?"
+},
+{
+"k": "5441",
+"who": "BIGBY",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "[pickup4][to himself]{ThinkingA}Hm.  Probably for the best."
+},
+{
+"k": "5442",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Elevator Button"
+},
+{
+"k": "5443",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Mailbox"
+},
+{
+"k": "5444",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Woodland Directory"
+},
+{
+"k": "5445",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Desk"
+},
+{
+"k": "5446",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Security Guard"
+},
+{
+"k": "5447",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Elevator Interior"
+},
+{
+"k": "5448",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Suit of Armor"
+},
+{
+"k": "5449",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Bigby's Nametag"
+},
+{
+"k": "5450",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Use Nametag With"
+},
+{
+"k": "5451",
+"who": "",
+"ctx": "Fables101/env_fabletownwoodlandslobby",
+"en": "Stairs"
+},
+{
+"k": "5452",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Ichabod yelled at me for another twenty minutes before sending me here to get you. So thanks for that."
+},
+{
+"k": "5453",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Hello, Snow."
+},
+{
+"k": "5454",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Had to follow a lead."
+},
+{
+"k": "5455",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You don't need to apologize."
+},
+{
+"k": "5456",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm sorry. I should've been there."
+},
+{
+"k": "5457",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "I understand. I just could've used the help explaining things to him."
+},
+{
+"k": "5458",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "You can handle him."
+},
+{
+"k": "5459",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm sure you can handle a guy like Crane. He's all bark."
+},
+{
+"k": "5460",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "First, you of all people shouldn't be using that phrase. Second, who said I couldn't handle him? It just would've been nice to not to have some backup. Sorry I asked. I won't next time."
+},
+{
+"k": "5461",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You're not kicking this guys door in, okay? We don't even know if he did anything wrong, so bursting in there just to tell him his wife is dead might not be the best approach. Find another way in if he's not answering."
+},
+{
+"k": "5462",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "See? Life closes a door, and it opens a window."
+},
+{
+"k": "5463",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You know, support a friend in need. Something you clearly don't understand the concept of."
+},
+{
+"k": "5464",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Aarrrgh. What the fuck?"
+},
+{
+"k": "5465",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "You know who I am?"
+},
+{
+"k": "5466",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Yeah..."
+},
+{
+"k": "5467",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Then you know why I'm here."
+},
+{
+"k": "5468",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Why did you do it?!?"
+},
+{
+"k": "5469",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "...thought it was a bad dream."
+},
+{
+"k": "5470",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "It wasn't! Tell me what's going on!"
+},
+{
+"k": "5471",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I couldn't take it anymore. Alright?"
+},
+{
+"k": "5472",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Aaargh... what are you doing here?"
+},
+{
+"k": "5473",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm here about your wife..."
+},
+{
+"k": "5474",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "No... no... what happened? Where is she?"
+},
+{
+"k": "5475",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Why did you do it?!"
+},
+{
+"k": "5476",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "I just have a few questions."
+},
+{
+"k": "5477",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm here about your wife."
+},
+{
+"k": "5478",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Couldn't handle her being a whore?"
+},
+{
+"k": "5479",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Couldn't handle her being a whore, huh?"
+},
+{
+"k": "5480",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Of course not. It made me sick to my stomach just thinking about it."
+},
+{
+"k": "5481",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "So you wanted to show her how you felt."
+},
+{
+"k": "5482",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "What? No."
+},
+{
+"k": "5483",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I did it because I was ashamed."
+},
+{
+"k": "5484",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Ashamed of her?"
+},
+{
+"k": "5485",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "No. Ashamed of myself. I... I love her."
+},
+{
+"k": "5486",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "That didn't keep you from killing her, did it?"
+},
+{
+"k": "5487",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Wait, what? She..."
+},
+{
+"k": "5488",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "No...no, no, no, no..."
+},
+{
+"k": "5489",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I knew this would happen... I knew it..."
+},
+{
+"k": "5490",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Is that reason enough to kill her?"
+},
+{
+"k": "5491",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "And in your mind that was reason enough to kill her?"
+},
+{
+"k": "5492",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Decided to teach her a lesson?"
+},
+{
+"k": "5493",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "So you decided to teach her a lesson."
+},
+{
+"k": "5494",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Your wife is missing."
+},
+{
+"k": "5495",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Someone heard a gunshot."
+},
+{
+"k": "5496",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Someone heard a gunshot... we're following up on it."
+},
+{
+"k": "5497",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "You're following up on a gunshot from a week ago?"
+},
+{
+"k": "5498",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "We're a little backed up at the office."
+},
+{
+"k": "5499",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm sorry, but your wife was murdered."
+},
+{
+"k": "5500",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "What? Oh, no."
+},
+{
+"k": "5501",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "You killed her!"
+},
+{
+"k": "5502",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Huh."
+},
+{
+"k": "5503",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "It's about Faith... isn't it?"
+},
+{
+"k": "5504",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Did you kill your wife?"
+},
+{
+"k": "5505",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "You need to pull it together."
+},
+{
+"k": "5506",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[play as if about to speak a longer thought] Lawrence, I uh..."
+},
+{
+"k": "5507",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[play as if about to speak a longer thought.] Lawrence..."
+},
+{
+"k": "5508",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Who is Georgie?"
+},
+{
+"k": "5509",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Your gunshot?"
+},
+{
+"k": "5510",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "We'll be right in that closet over there."
+},
+{
+"k": "5511",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "We won't let anything happen to you. Okay?"
+},
+{
+"k": "5512",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[hushed, to Lawrence] You can't move in the condition you're in, so just lie there and stay still. Once we've figured out what they're looking for, Bigby'll arrest them."
+},
+{
+"k": "5513",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Okay?"
+},
+{
+"k": "5514",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[alarmed] Bigby. He has a gun."
+},
+{
+"k": "5515",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Don't be like that."
+},
+{
+"k": "5516",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Please don't."
+},
+{
+"k": "5517",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "That's not what I meant."
+},
+{
+"k": "5518",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Yeah, I know. Sorry."
+},
+{
+"k": "5519",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[grudgingly accepts help]Hm. Alright."
+},
+{
+"k": "5520",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[mild] Hey!"
+},
+{
+"k": "5521",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[bigger, after mild] Hey!"
+},
+{
+"k": "5522",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Excuse me."
+},
+{
+"k": "5523",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Sir?"
+},
+{
+"k": "5524",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "It's about your wife."
+},
+{
+"k": "5525",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Are you Lawrence?"
+},
+{
+"k": "5526",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Bigby! Look at this."
+},
+{
+"k": "5527",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Don't just peep into someone's house. Check if he's home."
+},
+{
+"k": "5528",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Do you see something?"
+},
+{
+"k": "5529",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}[alarmed] Can you hear me?!"
+},
+{
+"k": "5530",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}Are you okay?"
+},
+{
+"k": "5531",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}Hey! {angryA}Answer me!"
+},
+{
+"k": "5532",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedB}[to himself] Dammit."
+},
+{
+"k": "5533",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Stay here!"
+},
+{
+"k": "5534",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "So. The shooter is standing here... and the bullet goes... there?"
+},
+{
+"k": "5535",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Why shoot a guy who already killed himself?"
+},
+{
+"k": "5536",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Dry."
+},
+{
+"k": "5537",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Who walked away from the bed. And why?"
+},
+{
+"k": "5538",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "But who the hell bled out here?"
+},
+{
+"k": "5539",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Sharp. And [sniffs]blood on the blade."
+},
+{
+"k": "5540",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "They're way too nice for this shit hole."
+},
+{
+"k": "5541",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Wedding gift."
+},
+{
+"k": "5542",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Damn."
+},
+{
+"k": "5543",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Like that one."
+},
+{
+"k": "5544",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[amazed, not angry]Son of a ..."
+},
+{
+"k": "5545",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Huh. So is this where he killed her? Or himself?"
+},
+{
+"k": "5546",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "More dried blood. Now at least I know it's his."
+},
+{
+"k": "5547",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "And then moved here?"
+},
+{
+"k": "5548",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Was he shot here?"
+},
+{
+"k": "5549",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The wrists are making me think suicide."
+},
+{
+"k": "5550",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Thinking it happened there."
+},
+{
+"k": "5551",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "What exactly?"
+},
+{
+"k": "5552",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "There was a fight. Someone got stabbed right there."
+},
+{
+"k": "5553",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I think he did this to himself. The slashed wrists, the knife."
+},
+{
+"k": "5554",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The shooter was bleeding. Stood here."
+},
+{
+"k": "5555",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "The way his wrists are slashed, and the knife... makes me think he did it to himself."
+},
+{
+"k": "5556",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "It's... just... I think you're right..."
+},
+{
+"k": "5557",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "There's no blood here, though. It should be everywhere."
+},
+{
+"k": "5558",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Or where he killed Faith... or someone else..."
+},
+{
+"k": "5559",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Oh no. Is that where he was murdered?"
+},
+{
+"k": "5560",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Blood spilled over the edge here."
+},
+{
+"k": "5561",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[about the blood]Strange. Hard edge to this pool. Like something was here, and got moved."
+},
+{
+"k": "5562",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Poor guy. Well, now we know where the blood came from."
+},
+{
+"k": "5563",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Slit his wrists. Poor bastard."
+},
+{
+"k": "5564",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "You tried once over there, with the knife. It didn't work."
+},
+{
+"k": "5565",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm sorry to say, it looks like I was right."
+},
+{
+"k": "5566",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[ruling that out as an option]Nope..."
+},
+{
+"k": "5567",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Well, can you narrow it down?"
+},
+{
+"k": "5568",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "What's wrong?"
+},
+{
+"k": "5569",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[through clenched teeth, still lighting the smoke]Everything!"
+},
+{
+"k": "5570",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The angle of the shot is all wrong. It's too low. If there was a shooter, where did he shoot from?"
+},
+{
+"k": "5571",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The blood. He slit his wrists, and he's sitting in the chair. So what the hell is up with all the blood over here?"
+},
+{
+"k": "5572",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Maybe he tried, and it didn't work.."
+},
+{
+"k": "5573",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Maybe there was no shooter... [trails off]"
+},
+{
+"k": "5574",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "We just... we don't usually kill ourselves. Immortals..."
+},
+{
+"k": "5575",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "And when it happens, it takes a lot more than this. I don't understand it."
+},
+{
+"k": "5576",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You're gonna have to talk to me sometime."
+},
+{
+"k": "5577",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "So what happened to you?"
+},
+{
+"k": "5578",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Hmm... makes sense, the wrists and then he finished the job."
+},
+{
+"k": "5579",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[sad, realizing the death wasn't a nice one]It must have taken hours."
+},
+{
+"k": "5580",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "So, after he cut himself, someone shot him?\nWhile kneeling?"
+},
+{
+"k": "5581",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "I guess I don't see it. But you're the Sheriff."
+},
+{
+"k": "5582",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Line it up like... like he shot himself."
+},
+{
+"k": "5583",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Do me a favor?"
+},
+{
+"k": "5584",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "I had a feeling."
+},
+{
+"k": "5585",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "I see now."
+},
+{
+"k": "5586",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "BIGBY"
+},
+{
+"k": "5587",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[calling to Bigby]Did you find it yet?"
+},
+{
+"k": "5588",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Dusty. No one's read these in awhile."
+},
+{
+"k": "5589",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Second-hand paperbacks. Old encyclopedias."
+},
+{
+"k": "5590",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Looks like Faith took all her stuff out."
+},
+{
+"k": "5591",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Guess this is where he tried the first time."
+},
+{
+"k": "5592",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Jump Out"
+},
+{
+"k": "5593",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Yell In"
+},
+{
+"k": "5594",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Gun"
+},
+{
+"k": "5595",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Bullet Hole"
+},
+{
+"k": "5596",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Shell Casing"
+},
+{
+"k": "5597",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Knives"
+},
+{
+"k": "5598",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Wrist"
+},
+{
+"k": "5599",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Book Case"
+},
+{
+"k": "5600",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Note"
+},
+{
+"k": "5601",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Hey!"
+},
+{
+"k": "5602",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{angryA}Hey!"
+},
+{
+"k": "5603",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "english"
+},
+{
+"k": "5604",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{doubtfulA}Excuse me."
+},
+{
+"k": "5605",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Sir?"
+},
+{
+"k": "5606",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{doubtfulA}Are you Lawrence?"
+},
+{
+"k": "5607",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}It's about your wife, Faith."
+},
+{
+"k": "5608",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{normalA}You got it open. Great. {thinkingC}Let's get in there."
+},
+{
+"k": "5609",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You {surprisedA}need a boost?"
+},
+{
+"k": "5610",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Is that a joke about my height?"
+},
+{
+"k": "5611",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "No. I'm trying to be helpful."
+},
+{
+"k": "5612",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You know, support a friend in need. Something you clearly don't understand concept of."
+},
+{
+"k": "5613",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{happyB}Well, help me up when {normalA}you get in there."
+},
+{
+"k": "5614",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingA}I'll just open the door for you."
+},
+{
+"k": "5615",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{sarcasticA}I don't need to be coddled, Bigby."
+},
+{
+"k": "5616",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingC}Come on. Help me up."
+},
+{
+"k": "5617",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}[alarmed] Bigby. {flusteredA}He has a gun."
+},
+{
+"k": "5618",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Good. I {thinkingB}have a few questions."
+},
+{
+"k": "5619",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{sadA}I should know his face. There {worriedA}are so few of us... I {flusteredB}should know his face."
+},
+{
+"k": "5620",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "What-what are you doing here?"
+},
+{
+"k": "5621",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}Calm down..."
+},
+{
+"k": "5622",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{doubtfulA}You know who I am?"
+},
+{
+"k": "5623",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[Give Him The Letter]"
+},
+{
+"k": "5624",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I found this. It's addressed to you."
+},
+{
+"k": "5625",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Lawrence. Have you heard from... [she thinks the better of it]."
+},
+{
+"k": "5626",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[more confused than interrogating]What?"
+},
+{
+"k": "5627",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "When was the last time you saw your wife?"
+},
+{
+"k": "5628",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}When was the last time you {angryA}saw your wife, Lawrence?"
+},
+{
+"k": "5629",
+"who": "LAWRENCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I… I don't know… a few weeks ago. She… came by to get some things… that's what she said… but I think it was so she could leave some money. I didn't find it 'til later. We've been… separated for some time now."
+},
+{
+"k": "5630",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Why did you do it?"
+},
+{
+"k": "5631",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I want to know something, Lawrence. Why did you do it?"
+},
+{
+"k": "5632",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}Why? Wh--What's this about?"
+},
+{
+"k": "5633",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Shit... I was here. Dead. Least I thought I'd be dead. Fuck has it really been a week?"
+},
+{
+"k": "5634",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Tuesday."
+},
+{
+"k": "5635",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I don't know. What's today?"
+},
+{
+"k": "5636",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Yeah. I guess so."
+},
+{
+"k": "5637",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "You shot yourself a week ago?"
+},
+{
+"k": "5638",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Where were you last night, Lawrence?"
+},
+{
+"k": "5639",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Who shot you?"
+},
+{
+"k": "5640",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Aaarrgh."
+},
+{
+"k": "5641",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Hurts like fuckin' hell."
+},
+{
+"k": "5642",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{confusedA}Your heart's actually a {thinkingA}little more to the center. {doubtfulA}You probably hit a lung."
+},
+{
+"k": "5643",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Great. Can't even fuckin' do that right."
+},
+{
+"k": "5644",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "We found your suicide note..."
+},
+{
+"k": "5645",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Why is there blood on the bed? And why are there knives laid out in the kitchen?"
+},
+{
+"k": "5646",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "What were you going to use them for?"
+},
+{
+"k": "5647",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I was going to use them."
+},
+{
+"k": "5648",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "It was slow and it hurt too much... I thought the bullet would be faster... guess I was wrong."
+},
+{
+"k": "5649",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "What? I don't know what..."
+},
+{
+"k": "5650",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "It wasn't!"
+},
+{
+"k": "5651",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Well it wasn't! Tell me what's going on!"
+},
+{
+"k": "5652",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "What was a bad dream?"
+},
+{
+"k": "5653",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "What was a bad dream? What are you talking about?"
+},
+{
+"k": "5654",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Make sense, dammit!"
+},
+{
+"k": "5655",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm tired of this bullshit! Start making sense."
+},
+{
+"k": "5656",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalA}I did it because I {NormalB}was ashamed. I... {WorriedA}couldn't live with myself knowing I had done that to her."
+},
+{
+"k": "5657",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalA}I'm a fuckin' burden, {NormalB}I'm useless... I don't {WorriedA}want her to have to worry about me anymore."
+},
+{
+"k": "5658",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{WorriedA}But she still worries about me. {NormalB}She comes by, makes sure I'm okay."
+},
+{
+"k": "5659",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[Half-truth] Your wife is missing."
+},
+{
+"k": "5660",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{doubtfulA}Your wife is missing."
+},
+{
+"k": "5661",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{WorriedA}What?"
+},
+{
+"k": "5662",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[Lie] Someone heard a gunshot."
+},
+{
+"k": "5663",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalB}You're following up on a gunshot from a week ago?"
+},
+{
+"k": "5664",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}Huh."
+},
+{
+"k": "5665",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalB}This isn't about a gunshot. {NormalA}This is about Faith... isn't it?"
+},
+{
+"k": "5666",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Hey, we're a little backed {angryA}up at the office."
+},
+{
+"k": "5667",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{normalA}Someone heard a gunshot... and {thinkingA}we're following up on it."
+},
+{
+"k": "5668",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Your wife has been killed."
+},
+{
+"k": "5669",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalB}I knew this would happen..."
+},
+{
+"k": "5670",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}I'm sorry... I {worriedB}am... but {thinkingB}I'm gonna need you to help me {angryA}find whoever did this. So you {thinkingA}need to try and remember anything that could {worriedA}possibly help us--"
+},
+{
+"k": "5671",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "... fuckin' Georgie."
+},
+{
+"k": "5672",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalA}No...no, no, no, no..."
+},
+{
+"k": "5673",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm sorry to inform you… that… your wife has been killed."
+},
+{
+"k": "5674",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}I'm sorry, but {flusteredA}your wife... {worriedA}your wife {sadB}was murdered."
+},
+{
+"k": "5675",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{NormalB}What? Oh, no."
+},
+{
+"k": "5676",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{WorriedA}Just fucking go away."
+},
+{
+"k": "5677",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[crying] {NormalA}Go away."
+},
+{
+"k": "5678",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}Oh my god."
+},
+{
+"k": "5679",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Snow, go get help."
+},
+{
+"k": "5680",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Go get Dr. Swineheart. {worriedB}I'll stay with him."
+},
+{
+"k": "5681",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "{normalB}[raspy] No! No. {normalA}Let me go."
+},
+{
+"k": "5682",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Stay with me, man!"
+},
+{
+"k": "5683",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}Stay with me, Lawrence. You're {worriedA}gonna be—"
+},
+{
+"k": "5684",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{angryA}Hey! Hey."
+},
+{
+"k": "5685",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "You're gonna be okay."
+},
+{
+"k": "5686",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}You're gonna be okay. {thinkingB}Just—"
+},
+{
+"k": "5687",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{flusteredB}He can still make it. I'll {fearA}go get Swinehear—"
+},
+{
+"k": "5688",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{flusteredA}Bigby. {thinkingB}Water. Kitchen."
+},
+{
+"k": "5689",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Bigby, the shirt. {sadA}Behind you."
+},
+{
+"k": "5690",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{sadB}What is it that {flusteredB}you're telling us?"
+},
+{
+"k": "5691",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Waaaah... waauu... tur."
+},
+{
+"k": "5692",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Et..ss... she..."
+},
+{
+"k": "5693",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{flusteredB}If you have something to ask him, {sadB}you should do it now."
+},
+{
+"k": "5694",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Is this about {worriedA}Faith?"
+},
+{
+"k": "5695",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}Who did {angryA}this to you?"
+},
+{
+"k": "5696",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedB}What happened?"
+},
+{
+"k": "5697",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{sadB}Oh my god."
+},
+{
+"k": "5698",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingC}Fingerprints?"
+},
+{
+"k": "5699",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingA}[don't worry]They'll be on the {doubtfulA}grip and the trigger."
+},
+{
+"k": "5700",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingA}[sniff]"
+}
+]

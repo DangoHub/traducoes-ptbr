@@ -1,0 +1,1388 @@
+[
+{
+"k": "23185",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "She... gets under my skin, you know. Creeps me out. [beat]I try to avoid her..."
+},
+{
+"k": "23186",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{worriedc}She, uh... [uncomfortable]gets under my skin, you know? [beat]I... I try to avoid her..."
+},
+{
+"k": "23187",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}[breathing heavy, but regaining his cool]If Mary works outta there, I need to look into it..."
+},
+{
+"k": "23188",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{sadb}Things you can't find anywhere else."
+},
+{
+"k": "23189",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Bigby, if there's anything you can do."
+},
+{
+"k": "23190",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Maybe you can help us"
+},
+{
+"k": "23191",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[emploring][frightened]If you go there... maybe you can fix things."
+},
+{
+"k": "23192",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But, if you deal with that place, it could make a lot of things right."
+},
+{
+"k": "23193",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We could use a friend right now."
+},
+{
+"k": "23194",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You could really help us out."
+},
+{
+"k": "23195",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{nervousa}I can see now that it was a mistake, but..."
+},
+{
+"k": "23196",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Are you saying you won't be able to help us?"
+},
+{
+"k": "23197",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It's a nice mess you've made for yourself. I hope all this stuff you got here was worth it."
+},
+{
+"k": "23198",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You're making it out to be... a lot simpler than it really is."
+},
+{
+"k": "23199",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Or is this [derisive]stuff more important than your lives?"
+},
+{
+"k": "23200",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "If you're so worried about what thiscrooked bastard is going to do to you, why don't you just sell something and pay him off?"
+},
+{
+"k": "23201",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It doesn't take a genius to figure out."
+},
+{
+"k": "23202",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[gently]But tell me... [to Beauty]Are you really worse off than all those girls you saw going in and out of that dump hotel when you were working the desk?"
+},
+{
+"k": "23203",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[softer][pulling back on agitation]I'm sure Colin [thinks]or Toad would be happy to have that going for them."
+},
+{
+"k": "23204",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beast][agitation building]Or you? At least you can pass for human... most of the time."
+},
+{
+"k": "23205",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[defensive]Whatever. This isn't easy for us."
+},
+{
+"k": "23206",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}Yeah, I think I need to pay Jersey Devil a visit at the Lucky Pawn. See if he knows how {angryb}Woody's axe found its way to my neck."
+},
+{
+"k": "23207",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}It's not going to do us much good on the money front, but maybe you'll give them a more important target... for a while."
+},
+{
+"k": "23208",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{worrieda}[to Bigby]We need your help."
+},
+{
+"k": "23209",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{confuseda}For me?"
+},
+{
+"k": "23210",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{nervousa}[to Bigby]I'm sorry about when you came in, we're just... [reluctant to say it]{sada}We need help."
+},
+{
+"k": "23211",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We wouldn't burden you with this if we didn't need you."
+},
+{
+"k": "23212",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But... you are the Sheriff, after all."
+},
+{
+"k": "23213",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We're at our wits' end here."
+},
+{
+"k": "23214",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{annoyedb}Watch it, Bigby..."
+},
+{
+"k": "23215",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{doubtfula}I may not get the chance to go to the butcher's..."
+},
+{
+"k": "23216",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "The Lucky Pawn's probably just a dead end."
+},
+{
+"k": "23217",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "The packages... a rare appearance by Mary... [dismissive]there's not much to go on."
+},
+{
+"k": "23218",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{thinkingb}I want to know what the Crooked Man is hiding at that butcher shop."
+},
+{
+"k": "23219",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "In fact, it's probably just a dead end."
+},
+{
+"k": "23220",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You know, when you get the Crooked Man and you... do what you do..."
+},
+{
+"k": "23221",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Well, maybe you could forget about all this?"
+},
+{
+"k": "23222",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{nervousa}We would really appreciate it."
+},
+{
+"k": "23223",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{sada}[relieved]Oh, thank you, Bigby."
+},
+{
+"k": "23224",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{worrieda}I'm sure you'll do the right thing."
+},
+{
+"k": "23225",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{sada}Just, keep us in mind. {sadb}Please?"
+},
+{
+"k": "23226",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}What's this about?"
+},
+{
+"k": "23227",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{annoyeda}You're just going around, knocking on doors?"
+},
+{
+"k": "23228",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{thinkingb}Once I make my appearance at the pawn shop, word is gonna spread."
+},
+{
+"k": "23229",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{thinkingb}[rakish][roguish]Unless I make a strong enough impression at The Cut Above."
+},
+{
+"k": "23230",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[phone filter]Beeee---"
+},
+{
+"k": "23231",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[phone filter]And we can't come to the phone right now. So leave a message at the beep and we'll get back to you as..."
+},
+{
+"k": "23232",
+"who": "CALLER",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[aggravated] That... fucking message. I'm gonna come down there and bash your heads in with your machine if I have to call again and hear that fucking message one more time."
+},
+{
+"k": "23233",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[direct][no bullshit]Talk. Now."
+},
+{
+"k": "23234",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What trouble are you in?"
+},
+{
+"k": "23235",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What the hell did you get yourselves into?"
+},
+{
+"k": "23236",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Fuck this..."
+},
+{
+"k": "23237",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I gotta say, your place... It looks... [judgmental]expensive."
+},
+{
+"k": "23238",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Well, you've got me here, so what did you want to tell me about him?"
+},
+{
+"k": "23239",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You've lived here a long time and you've never called me over."
+},
+{
+"k": "23240",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We're in some serious trouble."
+},
+{
+"k": "23241",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pleading]Bigby, we're in trouble."
+},
+{
+"k": "23242",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It doesn't look like it."
+},
+{
+"k": "23243",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[judgmental]I thought you were having money problems."
+},
+{
+"k": "23244",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You have a nice place."
+},
+{
+"k": "23245",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Nothing, it's... a nice place you got here."
+},
+{
+"k": "23246",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[unsure]Oh, thanks. [beat]But, I called you 'cause we need to have a serious talk."
+},
+{
+"k": "23247",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[unsure]Thanks, but... that's really not why I called."
+},
+{
+"k": "23248",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "This is where your money went."
+},
+{
+"k": "23249",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Yeah. [to Beast - a little snipe]What's that you always say?"
+},
+{
+"k": "23250",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Centuries of marriage come with centuries of baggage?"
+},
+{
+"k": "23251",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Sorry, we've had a long night."
+},
+{
+"k": "23252",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Sorry, it's been a long night."
+},
+{
+"k": "23253",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Yeah, you know what they say."
+},
+{
+"k": "23254",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Centuries of marriage come with centuries of baggage."
+},
+{
+"k": "23255",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We talked about it already."
+},
+{
+"k": "23256",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Do we really need to bring Bigby into this?"
+},
+{
+"k": "23257",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But I...[searching for a tactful phrasing] I just don't think he is going to improve our situation."
+},
+{
+"k": "23258",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "So can we finish this later? Now that Bigby's here, let's just..."
+},
+{
+"k": "23259",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We're out of money and we're up against the wall here, okay?"
+},
+{
+"k": "23260",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What's HE doing here?"
+},
+{
+"k": "23261",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We'll finish this later. But we need to talk to Bigby about this."
+},
+{
+"k": "23262",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Fine. If you want, we'll talk."
+},
+{
+"k": "23263",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We don't need to bring him into this."
+},
+{
+"k": "23264",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Beast!"
+},
+{
+"k": "23265",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I just don't think we can trust him... not after the way he went behind my back."
+},
+{
+"k": "23266",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We're out of money. And answers. That's why I had to call him."
+},
+{
+"k": "23267",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beauty]Well now he knows why I called."
+},
+{
+"k": "23268",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Bigby]I'm sorry about when you came in, we're just... [reluctant to say it]We need help."
+},
+{
+"k": "23269",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beast]Fine, you're right. We need him."
+},
+{
+"k": "23270",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "If I can't track down the Crooked Man there, maybe I can make enough noise that the Crooked Man will come find me."
+},
+{
+"k": "23271",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "If Bloody Mary goes through there... I guess I'm going to the Cut Above. [thinks]I wanna know what those deliveries are, too."
+},
+{
+"k": "23272",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It's not going to do us much good on the money front, but maybe you'll give them a more important target... for a while."
+},
+{
+"k": "23273",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Wait... no, don't go to the butcher. It will only get Beast in trouble."
+},
+{
+"k": "23274",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You asked where I got the money."
+},
+{
+"k": "23275",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "So forget the butcher shop. The Lucky Pawn is the place where all the action is. Go there instead. Beast has enough to worry about as it is."
+},
+{
+"k": "23276",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beauty]Okay, you're right."
+},
+{
+"k": "23277",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Bigby]We need your help."
+},
+{
+"k": "23278",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beast]That's why I called. It's no secret anymore, so can you just cooperate?"
+},
+{
+"k": "23279",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "For me?"
+},
+{
+"k": "23280",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Maybe if you go there you can sort some things out."
+},
+{
+"k": "23281",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I think I need to pay Jersey Devil a visit at the Lucky Pawn. See if he knows how Woody's axe found its way to my neck."
+},
+{
+"k": "23282",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Hold on, Bigby, don't go there. Sounds like you're just going to get Beauty in trouble. And..."
+},
+{
+"k": "23283",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I may have something you  might want to look into, instead."
+},
+{
+"k": "23284",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Anyway, forget the pawn shop. If you go there, you might make things worse for Beauty. But something's going on at The Cut Above, and if you go there, well, it leaves her out of it."
+},
+{
+"k": "23285",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You know the butcher shop? The Cut Above?"
+},
+{
+"k": "23286",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[knows it] Oh yeah."
+},
+{
+"k": "23287",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Well, I've been delivering packages from there for a while."
+},
+{
+"k": "23288",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It's the butcher on Tubman Street. Same block as the baker and the candlestick maker."
+},
+{
+"k": "23289",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[giving in]Because it's for the Crooked Man."
+},
+{
+"k": "23290",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You have to believe us."
+},
+{
+"k": "23291",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We didn't think it would get like this."
+},
+{
+"k": "23292",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I haven't... I'm not doing anything really wrong."
+},
+{
+"k": "23293",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "How did you get involved with this?"
+},
+{
+"k": "23294",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Johann, the butcher, called. He had a problem with the refrigeration unit one night."
+},
+{
+"k": "23295",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "She said I was reliable, she liked that, and... then she offered me more work."
+},
+{
+"k": "23296",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But when I finished, it was that psycho, Mary, who showed up to pay me."
+},
+{
+"k": "23297",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It was a rush job, and I took care of it fast."
+},
+{
+"k": "23298",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It's the only work I've been able to pick up."
+},
+{
+"k": "23299",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It's up to me to take care of her."
+},
+{
+"k": "23300",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "And it's still not enough."
+},
+{
+"k": "23301",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I don't want Beauty to have to work, especially not where she was."
+},
+{
+"k": "23302",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Live within your means!"
+},
+{
+"k": "23303",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Work is work. All I do is deliver stuff."
+},
+{
+"k": "23304",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[backing off][still heated]You can't work for the Crooked Man and keep your hands clean. You do know that, don't you?"
+},
+{
+"k": "23305",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Have you worked with Mary?"
+},
+{
+"k": "23306",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[getting agitated][losing his cool]It's Mary you deal with? That fury Bloody Mary is there?"
+},
+{
+"k": "23307",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "No, Johann is the one who hands over the packages. You know, day to day."
+},
+{
+"k": "23308",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But I've seen her around there, from time to time."
+},
+{
+"k": "23309",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "She... [uncomfortable]gets under my skin, you know. [beat]I try to avoid her..."
+},
+{
+"k": "23310",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[breathing heavy, but regaining his cool]If Mary works outta there, I need to look into it..."
+},
+{
+"k": "23311",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[uncomfortable]But I don't need to tell you what she's like."
+},
+{
+"k": "23312",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[barely restrained rage]You're damn right you don't. I don't need a run down on her reputation."
+},
+{
+"k": "23313",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[interjecting][intense][sharp]I know her. [barely restrained rage]We are not on good terms. Just leave it at that."
+},
+{
+"k": "23314",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Well you're done working there. If you want my help, this is over."
+},
+{
+"k": "23315",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Yeah, of course. Of course."
+},
+{
+"k": "23316",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I just wanted to provide for Beauty. Give her the kind of life she deserves."
+},
+{
+"k": "23317",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I really needed the money. [ashamed] I still do."
+},
+{
+"k": "23318",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Tell me about the butcher shop."
+},
+{
+"k": "23319",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "This place, \"The Cut Above.\" What's going on there? How does this fit into the Crooked Man's operation?"
+},
+{
+"k": "23320",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[apologetic]I couldn't tell you."
+},
+{
+"k": "23321",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But I do know this... he's the only butcher I know who doesn't carry filet. I'm not sure how much actual  butchery goes on there."
+},
+{
+"k": "23322",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[slow burn]Listen to me very carefully. Did you ever deliver to the Crooked Man? Can you give me an address?"
+},
+{
+"k": "23323",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I delivered to places all over town. But never to the man himself. It never seems to be heading to the same place."
+},
+{
+"k": "23324",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But it always comes out of the butcher shop."
+},
+{
+"k": "23325",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pissed off][disbelieving][accusatory]You're telling me that with a place like this, you're so hard up that you need to fucking work for the Crooked Man? That same guy you just told me you think is gonna kill you? [pointed]Bullshit."
+},
+{
+"k": "23326",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[defensive]It's not like he[theCrooked Man] runs the counter and hands me the boxes. I've never met the guy."
+},
+{
+"k": "23327",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I think I've seen those packages before."
+},
+{
+"k": "23328",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "How do these packages tie in to this?"
+},
+{
+"k": "23329",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "At the Tweedles'..."
+},
+{
+"k": "23330",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "At Aunty Greenleaf's place."
+},
+{
+"k": "23331",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What do packages from a butcher have to do with this?"
+},
+{
+"k": "23332",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I know that name..."
+},
+{
+"k": "23333",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "The Lucky Pawn. That's where I got the loan. The Crooked Man is behind that place."
+},
+{
+"k": "23334",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I'd seen people talking to Jersey in the back about loans, so... when I needed money..."
+},
+{
+"k": "23335",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "And I can see now that it was a mistake going there..."
+},
+{
+"k": "23336",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I'm not sure what else there is to tell."
+},
+{
+"k": "23337",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You heard the message."
+},
+{
+"k": "23338",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I guess he's hit hard times, too."
+},
+{
+"k": "23339",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I saw the Woodsman's axe at the Lucky Pawn a couple of days ago. It was in a display case."
+},
+{
+"k": "23340",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "There's a lot of that going around."
+},
+{
+"k": "23341",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I can't imagine he has a lot of \"marketable skills.\""
+},
+{
+"k": "23342",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Those Tweedles were always going in and out, probably dropping off a loan payment they sqeezed out of some poor Fable."
+},
+{
+"k": "23343",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Mainly it's just regular Fables. [defensive]I'm not the only one who goes there, you know."
+},
+{
+"k": "23344",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But never the Crooked Man."
+},
+{
+"k": "23345",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Hope this stuff was worth it."
+},
+{
+"k": "23346",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[calling back to Beast's decription of Mary]His psycho, Mary, tried to chop my head off with an axe last night!"
+},
+{
+"k": "23347",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "His attack dog Mary tried to chop my head off with an axe last night!"
+},
+{
+"k": "23348",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Loans to pay for this place?"
+},
+{
+"k": "23349",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "So you needed the loans to pay for this place? [beat]Who gets loans at a pawn shop anyway? That's not exactly the way it usually works."
+},
+{
+"k": "23350",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "The Crooked Man knows what people need to get by. So he provides. [disdainful]Do you think he cares if it doesn't match up with the shingle over the door?"
+},
+{
+"k": "23351",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I'm not going there for your debts."
+},
+{
+"k": "23352",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What do you think I'm going there for? This is murder and kidnapping we're talking about. Anything else is just... background noise."
+},
+{
+"k": "23353",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Are you going to be able to help us?"
+},
+{
+"k": "23354",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Yeah, Jack mentioned the place."
+},
+{
+"k": "23355",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Yeah, I've heard of the place."
+},
+{
+"k": "23356",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You dealt with WHO?"
+},
+{
+"k": "23357",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Wait, who do you deal with?"
+},
+{
+"k": "23358",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[partly to himself]That slimy prick... I didn't realize he was back on this side of the river."
+},
+{
+"k": "23359",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[recognizing]Oh, yeah..."
+},
+{
+"k": "23360",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Jersey. [beat]You know, the Jersey Devil?"
+},
+{
+"k": "23361",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Really? The Lucky Pawn?"
+},
+{
+"k": "23362",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[exhasperated]Really, Beauty? What the hell are you doing hanging out at a place like the Lucky Pawn?"
+},
+{
+"k": "23363",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You can find some real gems there. Sometimes Fables sell things they brought from the Homelands."
+},
+{
+"k": "23364",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You do know there's a difference between pawning something and selling it, don't you?"
+},
+{
+"k": "23365",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You're buying a piece of someone else's misery... with money you don't have."
+},
+{
+"k": "23366",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[moving on]Well, that's over now..."
+},
+{
+"k": "23367",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I... I know that."
+},
+{
+"k": "23368",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Who would we be if we just lived like... [trailing off, as the phone has started ringing]"
+},
+{
+"k": "23369",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You're in so much debt? Look around you. This isn't the way people short on cash live. You've got the chandelier. Chairs that look about as comfortable as a straight-jacket, and--"
+},
+{
+"k": "23370",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Then tell me what the fuck is going on!"
+},
+{
+"k": "23371",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Maybe I should..."
+},
+{
+"k": "23372",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Let me just..."
+},
+{
+"k": "23373",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I can protect you. But only if you tell me what I need to know. And that means fucking details. Stop wasting my time."
+},
+{
+"k": "23374",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I can leave if you like."
+},
+{
+"k": "23375",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pushing them]If you want me to go, I'll leave. I told you I don't have time for this runaround crap!"
+},
+{
+"k": "23376",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "No, Bigby... Don't go."
+},
+{
+"k": "23377",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "No, don't go. Please..."
+},
+{
+"k": "23378",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "YOU spent the money."
+},
+{
+"k": "23379",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[angry]This is your own mess. You spent the money."
+},
+{
+"k": "23380",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Bigby, don't you hear us? We're in danger here."
+},
+{
+"k": "23381",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What kind of trouble are you in?"
+},
+{
+"k": "23382",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You called me here. Remember? So cut the bullshit and quit wasting my time."
+},
+{
+"k": "23383",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "But... I have to work sometimes... The Crooked Man knows that."
+},
+{
+"k": "23384",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What if you don't get the Crooked Man? And he finds out it we talked to you?"
+},
+{
+"k": "23385",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beauty]We have to tell him. He's the only one who can help."
+},
+{
+"k": "23386",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Just answer me this first..."
+},
+{
+"k": "23387",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beast]I don't want to end up like that girl in the Open Arms."
+},
+{
+"k": "23388",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beast]We have to tell him. He's the only one who can help us with... the Crooked Man."
+},
+{
+"k": "23389",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[curt]\tI gotta know one thing, first..."
+},
+{
+"k": "23390",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What if you don't get him? The Crooked Man. And all this comes back on us?"
+},
+{
+"k": "23391",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beauty]I don't want to end up getting taken like Crane."
+},
+{
+"k": "23392",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "So that's how we came upon... well, frankly, some serious financial trouble."
+},
+{
+"k": "23393",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "If you two have a problem, I can help. But only if you tell me what's going on."
+},
+{
+"k": "23394",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "It's money trouble, isn't it?"
+},
+{
+"k": "23395",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Well he's here now, so let's see what he can do."
+},
+{
+"k": "23396",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beast]Why... [starting over] We can't bring him into this. He's just going to make things worse. He always does."
+},
+{
+"k": "23397",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[to Beauty]We should just deal with this on our own. Bigby... he's just going to complicate things."
+},
+{
+"k": "23398",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I called him here, and I want to see if he can help."
+},
+{
+"k": "23399",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "And this is why I called you."
+},
+{
+"k": "23400",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "And now you know why I called."
+},
+{
+"k": "23401",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "We were royalty once. We were accustomed to a certain lifestyle. All we want is to make this place feel a little bit like home."
+},
+{
+"k": "23402",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[telling her to let it go]It's been a long time."
+},
+{
+"k": "23403",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "This place... this world... it's still so foreign to us. Even after all these years."
+},
+{
+"k": "23404",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You wouldn't understand, Bigby."
+},
+{
+"k": "23405",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "No, probably not."
+},
+{
+"k": "23406",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Watch it Bigby..."
+},
+{
+"k": "23407",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Fuck. Off. There are a lot of Fables who have it a lot worse off than you. Or me, for that matter."
+},
+{
+"k": "23408",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I don't need to understand. It's not my fucking job to understand. My job is to keep Fabletown safe."
+},
+{
+"k": "23409",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Why did you call me here?"
+},
+{
+"k": "23410",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I want to help you."
+},
+{
+"k": "23411",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I won't tell on you."
+},
+{
+"k": "23412",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You made your bed."
+},
+{
+"k": "23413",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You want me to kill him?"
+},
+{
+"k": "23414",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angryb}It's not a place a husband wants to find his wife."
+},
+{
+"k": "23415",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{doubtfula}Wonder what the electric bill is for that thing?"
+}
+]

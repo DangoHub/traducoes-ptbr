@@ -1,0 +1,335 @@
+[
+ {
+  "file": "_resourcedescriptions_500_Boot.lenc",
+  "name": "Boot",
+  "logicalName": "<Boot>",
+  "logicalDestination": "<>",
+  "priority": 10.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "bootable",
+  "archives": [
+   "Fables_pc_Boot_anichore.ttarch2",
+   "Fables_pc_Boot_data.ttarch2",
+   "Fables_pc_Boot_ms.ttarch2",
+   "Fables_pc_Boot_txmesh.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Engine_Lua.lenc",
+  "name": "Engine Lua",
+  "logicalName": "<Engine Lua>",
+  "logicalDestination": "<>",
+  "priority": -9989.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_Engine Lua_data.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Fables101.lenc",
+  "name": "Fables101",
+  "logicalName": "<Fables101>",
+  "logicalDestination": "<>",
+  "priority": 20.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "bootable",
+  "archives": [
+   "Fables_pc_Fables101_anichore.ttarch2",
+   "Fables_pc_Fables101_data.ttarch2",
+   "Fables_pc_Fables101_ms.ttarch2",
+   "Fables_pc_Fables101_txmesh.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Fables102.lenc",
+  "name": "Fables102",
+  "logicalName": "<Fables102>",
+  "logicalDestination": "<>",
+  "priority": 20.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "bootable",
+  "archives": [
+   "Fables_pc_Fables102_anichore.ttarch2",
+   "Fables_pc_Fables102_data.ttarch2",
+   "Fables_pc_Fables102_ms.ttarch2",
+   "Fables_pc_Fables102_txmesh.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Fables103.lenc",
+  "name": "Fables103",
+  "logicalName": "<Fables103>",
+  "logicalDestination": "<>",
+  "priority": 20.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "gameDataEnableMode",
+  "enableMode": "bootable",
+  "version": "trunk",
+  "archives": [
+   "Fables_pc_Fables103_anichore.ttarch2",
+   "Fables_pc_Fables103_data.ttarch2",
+   "Fables_pc_Fables103_mesh.ttarch2",
+   "Fables_pc_Fables103_ms.ttarch2",
+   "Fables_pc_Fables103_tx.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Fables104.lenc",
+  "name": "Fables104",
+  "logicalName": "<Fables104>",
+  "logicalDestination": "<>",
+  "priority": 20.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "gameDataEnableMode",
+  "enableMode": "bootable",
+  "version": "trunk",
+  "archives": [
+   "Fables_pc_Fables104_anichore.ttarch2",
+   "Fables_pc_Fables104_data.ttarch2",
+   "Fables_pc_Fables104_mesh.ttarch2",
+   "Fables_pc_Fables104_ms.ttarch2",
+   "Fables_pc_Fables104_tx.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Fables105.lenc",
+  "name": "Fables105",
+  "logicalName": "<Fables105>",
+  "logicalDestination": "<>",
+  "priority": 20.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "gameDataEnableMode",
+  "enableMode": "bootable",
+  "version": "trunk",
+  "archives": [
+   "Fables_pc_Fables105_anichore.ttarch2",
+   "Fables_pc_Fables105_data.ttarch2",
+   "Fables_pc_Fables105_mesh.ttarch2",
+   "Fables_pc_Fables105_ms.ttarch2",
+   "Fables_pc_Fables105_tx.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Menu.lenc",
+  "name": "Menu",
+  "logicalName": "<Menu>",
+  "logicalDestination": "<>",
+  "priority": 10.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "bootable",
+  "archives": [
+   "Fables_pc_Menu_anichore.ttarch2",
+   "Fables_pc_Menu_data.ttarch2",
+   "Fables_pc_Menu_ms.ttarch2",
+   "Fables_pc_Menu_txmesh.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac-TTG_Update_01_Boot.lenc",
+  "name": "PC-Mac-TTG_Update_01_Boot",
+  "logicalName": "<PC-Mac-TTG_Update_01_Boot>",
+  "logicalDestination": "<Boot>",
+  "priority": 50.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_PC-Mac-TTG_Update_01_Boot_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac-TTG_Update_01_Engine_Lua.lenc",
+  "name": "PC-Mac-TTG_Update_01_Engine_Lua",
+  "logicalName": "<PC-Mac-TTG_Update_01_Engine_Lua>",
+  "logicalDestination": "<Engine Lua>",
+  "priority": 50.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_PC-Mac-TTG_Update_01_Engine_Lua_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac-TTG_Update_01_Menu.lenc",
+  "name": "PC-Mac-TTG_Update_01_Menu",
+  "logicalName": "<PC-Mac-TTG_Update_01_Menu>",
+  "logicalDestination": "<Menu>",
+  "priority": 50.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_PC-Mac-TTG_Update_01_Menu_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac-TTG_Update_01_Project.lenc",
+  "name": "PC-Mac-TTG_Update_01_Project",
+  "logicalName": "<PC-Mac-TTG_Update_01_Project>",
+  "logicalDestination": "<Project>",
+  "priority": 50.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_PC-Mac-TTG_Update_01_Project_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Episode_03_Menu.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Menu",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Menu>",
+  "logicalDestination": "<Menu>",
+  "priority": 70.0,
+  "descriptionPriority": 100.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep3_pc",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_03_Episode_03_Menu_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Episode_03_Project.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Project",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Project>",
+  "logicalDestination": "<Project>",
+  "priority": 70.0,
+  "descriptionPriority": 100.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep3_pc",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_03_Episode_03_Project_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Episode_04_Menu.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Menu",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Menu>",
+  "logicalDestination": "<Menu>",
+  "priority": 80.0,
+  "descriptionPriority": 120.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep4_pc",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_03_Episode_04_Menu_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Episode_04_Project.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Project",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Project>",
+  "logicalDestination": "<Project>",
+  "priority": 80.0,
+  "descriptionPriority": 120.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep4_pc",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_03_Episode_04_Project_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Episode_05_Menu.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Menu",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Menu>",
+  "logicalDestination": "<Menu>",
+  "priority": 85.0,
+  "descriptionPriority": 140.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep5_pc",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Menu_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Episode_05_Project.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Project",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Project>",
+  "logicalDestination": "<Project>",
+  "priority": 85.0,
+  "descriptionPriority": 140.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep5_pc",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Project_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Update_02_Episode_02_Menu.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Menu",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Menu>",
+  "logicalDestination": "<Menu>",
+  "priority": 60.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_02_Episode_02_Menu_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC-Mac_TTG_Update_02_Episode_02_Project.lenc",
+  "name": "PC-Mac_TTG_Update_02_Episode_02_Project",
+  "logicalName": "<PC-Mac_TTG_Update_02_Episode_02_Project>",
+  "logicalDestination": "<Project>",
+  "priority": 60.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_PC-Mac_TTG_Update_02_Episode_02_Project_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_PC105_Sub.lenc",
+  "name": "PC105",
+  "logicalName": "<PC105>",
+  "logicalDestination": "<Fables105>",
+  "priority": 85.0,
+  "descriptionPriority": 140.0,
+  "gameDataPriority": 0.0,
+  "enableMode": "constant",
+  "version": "ep5_pc",
+  "archives": [
+   "Fables_pc_105_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Project.lenc",
+  "name": "Project",
+  "logicalName": "<Project>",
+  "logicalDestination": "<>",
+  "priority": -8888.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "Fables_pc_Project_all.ttarch2"
+  ]
+ },
+ {
+  "file": "_resourcedescriptions_500_Shaders.lenc",
+  "name": "Shaders",
+  "logicalName": "<Shaders>",
+  "logicalDestination": "<>",
+  "priority": -9979.0,
+  "descriptionPriority": 0.0,
+  "gameDataPriority": "localDirIncludeBase",
+  "enableMode": "constant",
+  "archives": [
+   "6_pc_shader.ttarch2"
+  ]
+ }
+]

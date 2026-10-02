@@ -1,0 +1,1208 @@
+[
+{
+"k": "2082",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, making light]Right, I'm a shit housekeeper.  Least it's not more blood, eh?"
+},
+{
+"k": "2083",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, defensive]Right, my door's broke AND I'm a shit housekeeper.  Thanks for pointing that out."
+},
+{
+"k": "2084",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious]What is it?  More blood?"
+},
+{
+"k": "2085",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, defensive]Right, I'm fucking mental AND I'm a shit housekeeper.  Thanks for pointing that out."
+},
+{
+"k": "2086",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "What toy could have made this mark?"
+},
+{
+"k": "2087",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "The broken lamp was here."
+},
+{
+"k": "2088",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Uh huh, really. . ."
+},
+{
+"k": "2089",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]You said the lamp fell off the table by the door.  But it wasn't on that table."
+},
+{
+"k": "2090",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]It was here."
+},
+{
+"k": "2091",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]And now... it's there."
+},
+{
+"k": "2092",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Uh huh, really."
+},
+{
+"k": "2093",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [nervous] Yeah, really."
+},
+{
+"k": "2094",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Blood.  It's fresh."
+},
+{
+"k": "2095",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]I heal fast. Perks of being a Fable, right?"
+},
+{
+"k": "2096",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]What is it?"
+},
+{
+"k": "2097",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Right."
+},
+{
+"k": "2098",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]I didn't notice any cuts."
+},
+{
+"k": "2099",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][lying][enunciate \"foot\"]Oh right, yeah.  I was poking the coals and I dropped that fucking thing on my foot.  It cut me right open.  Hurt like a bugger."
+},
+{
+"k": "2100",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][to himself]Thought I smelled something."
+},
+{
+"k": "2101",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]More blood."
+},
+{
+"k": "2102",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][rattled][enunciate \"foot\"]Right... that's how I cut myself!  I was poking the coals.  Dropped that fucking thing on my foot, and it cut me right open.  Hurt like a bugger."
+},
+{
+"k": "2103",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]What's that?"
+},
+{
+"k": "2104",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]What'd you find?"
+},
+{
+"k": "2105",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]What is it?  More shattered valuables?"
+},
+{
+"k": "2106",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]What is it?  More crumbling infrastructure?"
+},
+{
+"k": "2107",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious]THAT shouldn't be over there.  Guess I AM a shit housekeeper."
+},
+{
+"k": "2108",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious]What?  What is it?"
+},
+{
+"k": "2109",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious]What?  What's the trouble?"
+},
+{
+"k": "2110",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][warning]Don't tell me this happened after you went 'mental' last night.  It hasn't even dried yet."
+},
+{
+"k": "2111",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Blood.  Your blood."
+},
+{
+"k": "2112",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I thought you cut your hand…"
+},
+{
+"k": "2113",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Why's the poker still out?"
+},
+{
+"k": "2114",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Made a fire in a heat wave?"
+},
+{
+"k": "2115",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Why aren't you bleeding?"
+},
+{
+"k": "2116",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][to self, thru gritted teeth]Still smarts a bit, though."
+},
+{
+"k": "2117",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][scornful]I told you, mate.  I heal up quick.  Wasn't THAT bad of a cut."
+},
+{
+"k": "2118",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]You told me before that you cut your hand.  Now you say you cut your foot.  Which is it?"
+},
+{
+"k": "2119",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][not convinced]Hm."
+},
+{
+"k": "2120",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][rattled, lying, defensive]Right, well - I mean - I cut my hand AND my foot.  I dropped the poker on my foot, then like a dickwit I grabbed it, and cut my hand."
+},
+{
+"k": "2121",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][scornful]My knee?  No, my foot.  I cut my foot.  You even paying attention?"
+},
+{
+"k": "2122",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Didn't you tell me before that you cut your knee?"
+},
+{
+"k": "2123",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][giving in]Maybe not."
+},
+{
+"k": "2124",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][irritated, mocking]Ooh.  Is it a secret?"
+},
+{
+"k": "2125",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][murmured, under breath]Wanker."
+},
+{
+"k": "2126",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Sounds like a rough night."
+},
+{
+"k": "2127",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Oh.  Right.  I know what that is.  Last night, when you totaled my car, well... you can understand... I went a bit mental."
+},
+{
+"k": "2128",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Actually it was an awesome night.  Bo made tequila punch."
+},
+{
+"k": "2129",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Marks on the windowsill.  Like fingers."
+},
+{
+"k": "2130",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]You know.  Potty.  Off my nut."
+},
+{
+"k": "2131",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Mental?"
+},
+{
+"k": "2132",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Riiight."
+},
+{
+"k": "2133",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]When I came outside - which I shouldn't have done, I get that - I forgot the keys to my place.  Locked myself out.  I had to climb in through my own window."
+},
+{
+"k": "2134",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]No, not blood.  Marks on the windowsill.  Like fingers."
+},
+{
+"k": "2135",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious]I bet that's when I broke the lamp.  Must have bumped it off the table without even noticing."
+},
+{
+"k": "2136",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][huh?]Mental?"
+},
+{
+"k": "2137",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Oh.  I know what that is.  Last night, when you [emotional]totaled my car, well... you can understand... I went a bit mental."
+},
+{
+"k": "2138",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, defensive]You checking for dust?  I told you, housekeeping's not my thing."
+},
+{
+"k": "2139",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, defensive][exasperated sigh]So what? I told you, housekeeping ain't my thing."
+},
+{
+"k": "2140",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Marks on the windowsill."
+},
+{
+"k": "2141",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][short sniff, smelling a clue]"
+},
+{
+"k": "2142",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][to self, thoughtful]They're like fingers..."
+},
+{
+"k": "2143",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [anxious, nervous] You heard, uh, the new, uh. . .Shakin' Stevens album yet?"
+},
+{
+"k": "2144",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] But you wouldn't need keys, since the lock's broken. So why'd you climb in through the window?"
+},
+{
+"k": "2145",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "You wouldn't need keys."
+},
+{
+"k": "2146",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Why didn't Junior let you in?"
+},
+{
+"k": "2147",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]This is the ground floor.  You didn't have to 'climb' anywhere."
+},
+{
+"k": "2148",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][incredulous]Hello?  You noticed I'm a bit shorter than average?  I have to climb to use the bloody toilet!"
+},
+{
+"k": "2149",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]You may have a point there."
+},
+{
+"k": "2150",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][lippy sigh of exasperation]"
+},
+{
+"k": "2151",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "You don't have spare keys?"
+},
+{
+"k": "2152",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]I don't think you made those marks.  So who did?"
+},
+{
+"k": "2153",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][exasperated]Who else COULD have made 'em? You think anybody else has fingers like mine?"
+},
+{
+"k": "2154",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][unconvinced grunt]Hmph."
+},
+{
+"k": "2155",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][soft, to self, incredulous]To think I pay taxes for this shit."
+},
+{
+"k": "2156",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Lucky you made it home at all."
+},
+{
+"k": "2157",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Yeah, I heal fast. Perks of being a Fable, right?"
+},
+{
+"k": "2158",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][lying][enunciate \"hand\"]Oh!  That's... I cut my hand.  Stupid accident.  I was running about like a tit, looking for a plaster.  I bet I got blood everywhere."
+},
+{
+"k": "2159",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][short sniff]"
+},
+{
+"k": "2160",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Blood."
+},
+{
+"k": "2161",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, lying][enunciate \"hand\"]Oh!  That's... when I cut my hand on the fireplace poker, I was running about like a tit, looking for a plaster.  I bet I got blood everywhere."
+},
+{
+"k": "2162",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]When you called it a \"bloody building,\" I didn't realize you meant it literally."
+},
+{
+"k": "2163",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious]What's that?  Don't tell me the WALL'S falling apart?"
+},
+{
+"k": "2164",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][anxious, forcing a joke]Did I mention I'm a shit housekeeper?"
+},
+{
+"k": "2165",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I thought you cut your foot."
+},
+{
+"k": "2166",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Why aren't you bleeding?"
+},
+{
+"k": "2167",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Is that what really happened?"
+},
+{
+"k": "2168",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]You told me before that your cut your foot.  Now you say you cut your hand.  Which is it."
+},
+{
+"k": "2169",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][scornful]My knee?  No, my hand.  I cut my hand.  You even paying attention?"
+},
+{
+"k": "2170",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [defensive, anxious] What the-- what the fuck are you doing?"
+},
+{
+"k": "2171",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'm not sure."
+},
+{
+"k": "2172",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I think someone was attacked."
+},
+{
+"k": "2173",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I think you're hiding something."
+},
+{
+"k": "2174",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4][defensive, anxious]Look, I told you, it was a false alarETCETERA!"
+},
+{
+"k": "2175",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]Look, Toad.  You called me about an intruder. Now I'm finding blood on the walls.  What really happened?"
+},
+{
+"k": "2176",
+"who": "HOLLY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[exhasperated sigh]"
+},
+{
+"k": "2177",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'll get back to you on that."
+},
+{
+"k": "2178",
+"who": "HOLLY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[defensive]Anyway, I don't see what the problem is.  I'm fine.  No harm no foul, right?"
+},
+{
+"k": "2179",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I think you're lying."
+},
+{
+"k": "2180",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [mostly to himself] ...who is that?"
+},
+{
+"k": "2181",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Silence"
+},
+{
+"k": "2182",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [process - barely, BARELY intelligible] That's enough, alright! Just shut it!"
+},
+{
+"k": "2183",
+"who": "KIDTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [process - muffled, barely heard] [shouting] I'm sorry!"
+},
+{
+"k": "2184",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [smile fades] {SadA}Sorry, Bigby. {FearA}It's embarrassing to have to admit, but, eh, {FlusteredA}I thought there was someone else in Woody's place."
+},
+{
+"k": "2185",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [forced cheer] {SurprisedA}Bigby! [sees Snow] {HappyA}...and Miss White! [to Snow, big fake smile] {SadA}Surely you didn't come all this way just for {SurprisedA}my {WorriedA}bother!"
+},
+{
+"k": "2186",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {NormalB}There [empathic] {DoubtfulA}was [/] someone... {NormalA}but they took off when we {NormalB}got here."
+},
+{
+"k": "2187",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [feigning amazement] {SurprisedA}Is that right? [to Toad Jr, fake bravado] {HappyA}I guess your Dad's ears have a year or two left. [to Bigby] {SurprisedA}Haven't gone totally to the dogs, eh?"
+},
+{
+"k": "2188",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "What's going on?"
+},
+{
+"k": "2189",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [suddenly defensive] {SurprisedA}Nothin's going on, {FlusteredA}Bigby... {SurprisedA}I don't know what you mean. {FlusteredA}Truly. {FearA}False alarm is all. {WorriedA}Sorry."
+},
+{
+"k": "2190",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {SurprisedA}Whaddya mean?"
+},
+{
+"k": "2191",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {AngryA}What's going on?"
+},
+{
+"k": "2192",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {AnnoyedA}Oh!"
+},
+{
+"k": "2193",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {AngryA}{DoubtfulA}Heard someone {NormalA}crying."
+},
+{
+"k": "2194",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {FearA}The boy stubbed his toe on the {SurprisedA}bedframe, {WorriedA}is all. {SurprisedA}It stings, {FlusteredA}you know, but [in Toad Jr's direction] {SurprisedA}it's nothin' to kick up a fuss about! [back to Bigby]"
+},
+{
+"k": "2195",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]{SurprisedA}--but thanks {HappyA}for coming, {SurprisedA}much {HappyA}appreciated."
+},
+{
+"k": "2196",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {WorriedA}Sorry {SadA}for dragging Miss White into this--"
+},
+{
+"k": "2197",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {HappyA}So, ya know, {FlusteredA}false alarm."
+},
+{
+"k": "2198",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {FearA}He's fine, {FlusteredA}Miss White. {FearA}Just stung himself there."
+},
+{
+"k": "2199",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [To Toad Jr] {WorriedA}Are {SadA}you alright?{WorriedA}"
+},
+{
+"k": "2200",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {HappyA}Better swimmer than walker, just like his dad."
+},
+{
+"k": "2201",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] What for, mate?"
+},
+{
+"k": "2202",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] I'm gonna take a look around."
+},
+{
+"k": "2203",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {FlusteredA}I mean, {SurprisedA}I'm sorry {FearA}you came all the way here for nothin'..."
+},
+{
+"k": "2204",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {AngryA}...but {SurprisedA}it [emphatic] was [/i] {AnnoyedA}nothin', {AngryA}really."
+},
+{
+"k": "2205",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [emphatic/] Somebody [/] was in your building, Toad, it's for your own safety. You called us, remember?"
+},
+{
+"k": "2206",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'll leave when I'm ready."
+},
+{
+"k": "2207",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [stern] Because I feel like it, Toad. [sarcastic] Is that OK with you?"
+},
+{
+"k": "2208",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'm gonna look around."
+},
+{
+"k": "2209",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Because someone was here and something's going on, and just so this trip wasn't a [emphatic/] complete [/] waste of time, I'm gonna look around before we leave, OK?"
+},
+{
+"k": "2210",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Silent"
+},
+{
+"k": "2211",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [a little angry] I'm not going to argue with you, Toad..."
+},
+{
+"k": "2212",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]  Look, I- I know I called you, [through gritted teeth] but I don't exactly need your services now. Alright, mate?"
+},
+{
+"k": "2213",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [starting to panic] You're making this a bigger thing than it is!"
+},
+{
+"k": "2214",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] The longer you talk the longer this takes, so sit over there and shut up."
+},
+{
+"k": "2215",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [awkwardly trying to connect with Toad Jr] Phew! Grown-ups, am I right?"
+},
+{
+"k": "2216",
+"who": "KIDTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [a beat, then:] [nervous] Uh..."
+},
+{
+"k": "2217",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Hey, you know what, Flycatcher said you had a \"pretty awesome\" insect collection...I'd really love to see it. Is it in your room?"
+},
+{
+"k": "2218",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [wide-eyed, fake impressed, almost whispering] Cool . . ."
+},
+{
+"k": "2219",
+"who": "KIDTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [pause] [quietly] It has a weevil."
+},
+{
+"k": "2220",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [defeated] Just mind the upholstery while you're lookin' for nothin'."
+},
+{
+"k": "2221",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] The longer you talk the longer this takes, so just sit over there and we'll be outta here soon."
+},
+{
+"k": "2222",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {FlusteredA}Eh?"
+},
+{
+"k": "2223",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup5] For Christ's sakes, the fuckin' wood's been busted for weeks, mate, you know that. [to himself] Just like everything else in this bloody building."
+},
+{
+"k": "2224",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {DoubtfulA}Your lock's busted."
+},
+{
+"k": "2225",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [noncommittal grunt]{AngryB} Mm."
+},
+{
+"k": "2226",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {ThinkingB}The lock. It looks like{DoubtfulA} somebody kicked in the door."
+},
+{
+"k": "2227",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Well I sure as hell didn't."
+},
+{
+"k": "2228",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {ThinkingA}Why's the lock busted."
+},
+{
+"k": "2229",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [suspicious] Does this have anything to do with the blood..."
+},
+{
+"k": "2230",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] No! The lock… [thinks, nervous]"
+},
+{
+"k": "2231",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {ThinkingA}Your lock's busted, too. {ThinkingB}This place is falling apart."
+},
+{
+"k": "2232",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] And your lock's busted."
+},
+{
+"k": "2233",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [defensive] A spot of dust and a broken lock. . .what are you getting at mate?"
+},
+{
+"k": "2234",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [suspicious] {ThinkingA}And this doesn't have anything to do with the blood?{DoubtfulA}"
+},
+{
+"k": "2235",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {DoubtfulA}And why's the lock busted."
+},
+{
+"k": "2236",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [pissed] The \"story\", Sheriff, is that this place is falling to crackers."
+},
+{
+"k": "2237",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup5] [suspicious] Busted, huh."
+},
+{
+"k": "2238",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [not getting it] {ConfusedA}Huh?"
+},
+{
+"k": "2239",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup5] [flustered, but trying to be dismissive] Fuckin' hell, just what are you on about, mate? After the state I was in, I didn't have me head, that's all it was, I forgot the fuckin' handle was fuckin' busted."
+},
+{
+"k": "2240",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup5] [more serious] Why'd you climb in through the window? You said it yourself, the lock's been broken for weeks…"
+},
+{
+"k": "2241",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4]{DoubtfulA} You wouldn't have needed a key to get in."
+},
+{
+"k": "2242",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {SarcasticB}Why'd you climb in through the window, then?"
+},
+{
+"k": "2243",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] {ThinkingB}Why haven't you fixed this? {SarcasticB}Anyone on the street could just walk right in.{SarcasticA}"
+},
+{
+"k": "2244",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup5] There's better priorities than busted door knobs. And who's gonna come in and take anything? There's nothin' to take!"
+},
+{
+"k": "2245",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup5] [increasingly annoyed] It's [emphatic] just a busted door lock. [/] Nothin' to get your fur all wet."
+},
+{
+"k": "2246",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [very annoyed] {FlusteredA}Bigby, {FearA}c'mon, I'm {SurprisedA}begging for mercy over here, {FlusteredA}old boy."
+},
+{
+"k": "2247",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] How'd this happen?"
+},
+{
+"k": "2248",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] How'd what happen?"
+},
+{
+"k": "2249",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [sad] Fucking hell. Damn thing must have fell off the table."
+},
+{
+"k": "2250",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [disbelieving] Uh-huh. The lamp just fell off the table."
+},
+{
+"k": "2251",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [nervous] Or the boy was faffin' about, [weak smile] playin' sods and swordfish… [back to nervous] Who knows with the lad."
+},
+{
+"k": "2252",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] And, uh, how'd this happen?"
+},
+{
+"k": "2253",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [nervous] I think I scraped it when I was looking for a plaster-- a, uh, bandage. I didn't notice, I guess."
+},
+{
+"k": "2254",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] It is?"
+},
+{
+"k": "2255",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [nervous] You know with this place, it's like living on a foundation of termites, it is. All's so cheap, it's a wonder it stays standing as long as it does."
+},
+{
+"k": "2256",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] And the lamp's broke, too."
+},
+{
+"k": "2257",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [feigning playful bashfulness] Of all the times for you to come over, to see my place in such a condition--"
+},
+{
+"k": "2258",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] You came in the window... you were \"in a tizzy\"... how'd this get smashed?"
+},
+{
+"k": "2259",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] How'd what get smashed?"
+},
+{
+"k": "2260",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [nervous and covering] Like I said, I was distracted, you know, from the climb, and the car, feeling a twit... I must have knocked it off without noticing."
+},
+{
+"k": "2261",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [defensive] And why the Hell not?"
+},
+{
+"k": "2262",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] The lamp couldn't have fallen off the table."
+},
+{
+"k": "2263",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [irritated] Tending to my boy, Bigby. Doin' other things."
+},
+{
+"k": "2264",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Your lamp shatters and you haven't noticed? What have you been doing today, Toad?"
+},
+{
+"k": "2265",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Well... that's what happened, isn't it?"
+},
+{
+"k": "2266",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [dismissive] Must've been when it fell."
+},
+{
+"k": "2267",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] So the lamp just fell somehow. And this is the story you're sticking to?"
+},
+{
+"k": "2268",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] It's mangled, bent. Looks like it's been ripped from the wall."
+},
+{
+"k": "2269",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] I'll clean it, eventually. Don't bother with it."
+},
+{
+"k": "2270",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] It's my own place--"
+},
+{
+"k": "2271",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] --don't you think I know what happens in it?"
+},
+{
+"k": "2272",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] I don't know. . . something about it seems fishy."
+},
+{
+"k": "2273",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [defensive] Oy, dancing broomsticks and talking toasters are one little thing but a Wolf in Sheriff's Clothing can't fathom a knocked over desk light?!"
+},
+{
+"k": "2274",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [sad, desperate] Bloody hell, mate, c'mon, get off with this."
+},
+{
+"k": "2275",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] Because the lamp was always over there, Toad."
+},
+{
+"k": "2276",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] I can see the lamp's imprint in the dust where it used to be."
+},
+{
+"k": "2277",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [rattled] I-I did some refiguring-- who fuckin' cares?"
+},
+{
+"k": "2278",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] I always heard cats were the curious ones. [sad, desperate]  Bloody hell, mate, get off with this."
+},
+{
+"k": "2279",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [rattled] I-I did some refiguring-- who fuckin' cares? I can't move a lamp in my own bloody home?"
+},
+{
+"k": "2280",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] It was plugged in over there..."
+},
+{
+"k": "2281",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] ...and now it's here."
+},
+{
+"k": "2282",
+"who": "TOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[pickup4] [upset] I just hadn't gotten around to it, yet! You see how many damned plugs there are."
+}
+]

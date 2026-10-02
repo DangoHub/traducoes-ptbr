@@ -1,0 +1,2204 @@
+[
+{
+"k": "6263",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Look, it's been a long fuckin' day... and I'm startin' to get a little cranky. I've got questions, and I'm not leavin' without answers."
+},
+{
+"k": "6264",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "Maybe he don't want to talk to you."
+},
+{
+"k": "6265",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "I just want to talk."
+},
+{
+"k": "6266",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I just want to talk. This doesn't have to go like this."
+},
+{
+"k": "6267",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't fuck with me..."
+},
+{
+"k": "6268",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] . . .ended up getting hurt pretty bad."
+},
+{
+"k": "6269",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Really fascinating."
+},
+{
+"k": "6270",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "That's really fascinating stuff, but... it's gettin' late."
+},
+{
+"k": "6271",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "No reason to hurt her."
+},
+{
+"k": "6272",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Not a reason to do what you did."
+},
+{
+"k": "6273",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "No. It's not. That's why I'm not puttin' up a fight."
+},
+{
+"k": "6274",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "The hand you're dealt."
+},
+{
+"k": "6275",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I'm not exactly comfortable with it either. But you play the hand you're dealt."
+},
+{
+"k": "6276",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "No shit."
+},
+{
+"k": "6277",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "No shit. You beat the hell out of her."
+},
+{
+"k": "6278",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "No. Not her…"
+},
+{
+"k": "6279",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Who? Save who?"
+},
+{
+"k": "6280",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "What are you talking about?"
+},
+{
+"k": "6281",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "What are you talking about? I suggest you start making sense real soon."
+},
+{
+"k": "6282",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Fine. So you weren't there to help."
+},
+{
+"k": "6283",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Is there a short version?"
+},
+{
+"k": "6284",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[laugh dry] Yeah..."
+},
+{
+"k": "6285",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Shut up, already."
+},
+{
+"k": "6286",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[part 1 of 4] I'd walked past her place for weeks..."
+},
+{
+"k": "6287",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "[glass him]"
+},
+{
+"k": "6288",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "We're done here."
+},
+{
+"k": "6289",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I think we're done here."
+},
+{
+"k": "6290",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "This is a bunch of bullshit. Stop talking."
+},
+{
+"k": "6291",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "You were pissed."
+},
+{
+"k": "6292",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "Putting a dress on? Why not just eat her the second she walks in?"
+},
+{
+"k": "6293",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "Not sure what you were thinking.."
+},
+{
+"k": "6294",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Where did you go… after?"
+},
+{
+"k": "6295",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "And that's it? You didn't see that girl again?"
+},
+{
+"k": "6296",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "No. [Confused] Crawled out the dumpster… Came straight here. Why? What'd she say?"
+},
+{
+"k": "6297",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Where'd you go after you crawled out of that dumpster? Tell it to me straight."
+},
+{
+"k": "6298",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "Came here. Patched myself up best I could. I won't lie… I've had a couple… for the pain, you know?"
+},
+{
+"k": "6299",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "I'm not. I assumed you had it. Evidence or somethin'. You tellin' me you don't got it ?"
+},
+{
+"k": "6300",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Where's your axe?"
+},
+{
+"k": "6301",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "You don't have it?"
+},
+{
+"k": "6302",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't give me that shit-"
+},
+{
+"k": "6303",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Why did you kill Faith?"
+},
+{
+"k": "6304",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Why did you kill her?"
+},
+{
+"k": "6305",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "Kill who?"
+},
+{
+"k": "6306",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "It doesn't look good when a girl you were just smackin' around shows up dead hours later."
+},
+{
+"k": "6307",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "The girl you were beatin' on this morning."
+},
+{
+"k": "6308",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "No. No. No. No. I was here. I swear."
+},
+{
+"k": "6309",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "And now you don't know where your axe is? Doesn't look good."
+},
+{
+"k": "6310",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "He was here."
+},
+{
+"k": "6311",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "That's the fuckin' truth, Sheriff."
+},
+{
+"k": "6312",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[still crying] You see? Bigby please. You can't. They'll throw me down the Witching Well. That's what they'll do and I didn't do it. You know that."
+},
+{
+"k": "6313",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "She's dead? [sobs] Bigby listen... I'm a piece of shit, okay... I know that. I hit that girl. I did. I shouldn't've but... I didn't kill her. You believe me, right?"
+},
+{
+"k": "6314",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Enough"
+},
+{
+"k": "6315",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Enough. I've heard about all I can stand."
+},
+{
+"k": "6316",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "[loud, intense] Shut the fuck up, Woody. Shit ain't just about you. It's about this fuckin' lap dog. Only comes sniffing around this part of town when the rich fucks in the Woodlands need a shakedown. Ain't that right, Bigby."
+},
+{
+"k": "6317",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Lap dog? Really?"
+},
+{
+"k": "6318",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "It's not like that."
+},
+{
+"k": "6319",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "It's not like that. There are problems with the way things go, I get it. But that's got nothing to do with what's happening right now."
+},
+{
+"k": "6320",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You're backing the wrong guy."
+},
+{
+"k": "6321",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You're backing the wrong guy. If you saw what I saw last night, you'd know that."
+},
+{
+"k": "6322",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "Holly's sister goes missing and no one gives two shits about her. Paperwork, waiting rooms, and that bitch Snow White looking right past me, then ushering me out the fuckin' door."
+},
+{
+"k": "6323",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't call her that."
+},
+{
+"k": "6324",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I wouldn't call her that. It's happened before and it doesn't end well."
+},
+{
+"k": "6325",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "I didn't realize you were the bitch of the bitch."
+},
+{
+"k": "6326",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Big mouth"
+},
+{
+"k": "6327",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Anyone tell you you've got a big fuckin' mouth?"
+},
+{
+"k": "6328",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "Oh, it gets bigger."
+},
+{
+"k": "6329",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[low growl]"
+},
+{
+"k": "6330",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "I can growl too."
+},
+{
+"k": "6331",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Come on. You're scaring the lady."
+},
+{
+"k": "6332",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Oh. Good."
+},
+{
+"k": "6333",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar",
+"en": "Should've walked out of here when you had the chance."
+},
+{
+"k": "6334",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Cool heads can prevail."
+},
+{
+"k": "6335",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Come on. It doesn't have to go down like this."
+},
+{
+"k": "6336",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "I don't hit women."
+},
+{
+"k": "6337",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Unlike some people in this room... I don't hit wome--"
+},
+{
+"k": "6338",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "[Hit Him Again]"
+},
+{
+"k": "6339",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "How about that time?"
+},
+{
+"k": "6340",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "No. It was your decision."
+},
+{
+"k": "6341",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "He's had enough!"
+},
+{
+"k": "6342",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "[tear off his arm]"
+},
+{
+"k": "6343",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I'm the lap dog, huh? Here. Fetch."
+},
+{
+"k": "6344",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "YOU FUCKING MONSTER!"
+},
+{
+"k": "6345",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "[walk away]"
+},
+{
+"k": "6346",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "That's about right."
+},
+{
+"k": "6347",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Should stick you in the dumpster."
+},
+{
+"k": "6348",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You're lucky you didn't end up in a dumpster."
+},
+{
+"k": "6349",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Stop talking."
+},
+{
+"k": "6350",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Stop. Talking."
+},
+{
+"k": "6351",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Whiskey."
+},
+{
+"k": "6352",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Double."
+},
+{
+"k": "6353",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You didn't see any of this."
+},
+{
+"k": "6354",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "All this... never happened."
+},
+{
+"k": "6355",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I'm good."
+},
+{
+"k": "6356",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "[Pay for the drink]"
+},
+{
+"k": "6357",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "[shocked, reluctant]It's not like you were gonna pay for it anyway."
+},
+{
+"k": "6358",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Send the bill to Crane."
+},
+{
+"k": "6359",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Charge the drink on there, too."
+},
+{
+"k": "6360",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "...and the glass."
+},
+{
+"k": "6361",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Submit a damage report with my office. Fabletown'll pay for this."
+},
+{
+"k": "6362",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "Right. You weren't gonna pay anyway."
+},
+{
+"k": "6363",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "You don't have to..."
+},
+{
+"k": "6364",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Arrest him."
+},
+{
+"k": "6365",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Then you got nothing to worry about."
+},
+{
+"k": "6366",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "C'mon. You're under arrest."
+},
+{
+"k": "6367",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "I didn't do it."
+},
+{
+"k": "6368",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "C'mon, handsome. You're under arrest."
+},
+{
+"k": "6369",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "I would have come quietly."
+},
+{
+"k": "6370",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Warn him."
+},
+{
+"k": "6371",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "You gonna arrest me?"
+},
+{
+"k": "6372",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "If you even think about skipping town, know that when I find you, I'll throw you down the fuckin' Witching Well myself."
+},
+{
+"k": "6373",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't make me come after you."
+},
+{
+"k": "6374",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Ask About"
+},
+{
+"k": "6375",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Only one next to you..."
+},
+{
+"k": "6376",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "But there's only one right next to you."
+},
+{
+"k": "6377",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "I don't want to have to yell."
+},
+{
+"k": "6378",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "If I sit over there, I'm gonna have to yell to talk to you. And I don't like raising my voice unless I really have to."
+},
+{
+"k": "6379",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You got a problem?"
+},
+{
+"k": "6380",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "I don't like you, and now you're sittin' right next to me."
+},
+{
+"k": "6381",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You could ask me to move."
+},
+{
+"k": "6382",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You got a problem, friend?"
+},
+{
+"k": "6383",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "You gonna order something, or you just here to bother my customers."
+},
+{
+"k": "6384",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Customers?"
+},
+{
+"k": "6385",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Sorry, you're busy..."
+},
+{
+"k": "6386",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Sorry. I realize you're busy."
+},
+{
+"k": "6387",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Anyone else here?"
+},
+{
+"k": "6388",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Is there anyone else here?"
+},
+{
+"k": "6389",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "You know what I mean."
+},
+{
+"k": "6390",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Gimme a Midas' Gold."
+},
+{
+"k": "6391",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "You want a lime?"
+},
+{
+"k": "6392",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Sure"
+},
+{
+"k": "6393",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "I think they have some at the bar down the street."
+},
+{
+"k": "6394",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Sure."
+},
+{
+"k": "6395",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "Well, I don't got any anyway."
+},
+{
+"k": "6396",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "Cause I think they got some at the bar down the street."
+},
+{
+"k": "6397",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Think that's funny?"
+},
+{
+"k": "6398",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "It was alright."
+},
+{
+"k": "6399",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Who's is that?"
+},
+{
+"k": "6400",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Why didn't you dump it?"
+},
+{
+"k": "6401",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I'm sensing a very hostile tone from you. Don't deny it. I'm good at picking up on this stuff."
+},
+{
+"k": "6402",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't lie to me."
+},
+{
+"k": "6403",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Enough already. Just tell me where he is."
+},
+{
+"k": "6404",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "The Woodsman?"
+},
+{
+"k": "6405",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You guys playing right now?"
+},
+{
+"k": "6406",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Erase"
+},
+{
+"k": "6407",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Ask about"
+},
+{
+"k": "6408",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "So who's \"W-D\"?"
+},
+{
+"k": "6409",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "No idea."
+},
+{
+"k": "6410",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "\"H.\" Well, that'd be you, Holly."
+},
+{
+"k": "6411",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Because it's also the first letter in the name..."
+},
+{
+"k": "6412",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "Woodsman. Yeah, I get it."
+},
+{
+"k": "6413",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "The Woodsman's apartment."
+},
+{
+"k": "6414",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "[flat, sarcasm]That's amazing... [beat]I had no idea he smoked."
+},
+{
+"k": "6415",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Know where I picked up this matchbook?"
+},
+{
+"k": "6416",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Oh, I know what they are... I'm just trying to figure out why anyone would eat this."
+},
+{
+"k": "6417",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You got any change for this thing?"
+},
+{
+"k": "6418",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Look, I'm not even gonna ask where he is now, okay? I just wanna know the last time he was here. That's all."
+},
+{
+"k": "6419",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "He hasn't been here for a few weeks."
+},
+{
+"k": "6420",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "No...maybe. I don't know. But yeah, he hasn't been here in a while if he's been here at all... which...I...I don't know."
+},
+{
+"k": "6421",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Does he tell you when to close, too?"
+},
+{
+"k": "6422",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You're your own woman."
+},
+{
+"k": "6423",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't let him tell you what to do. You're your own woman."
+},
+{
+"k": "6424",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "I'd just like some help."
+},
+{
+"k": "6425",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "Well, I'd be willing to help you out of here. [beat] Would that help?"
+},
+{
+"k": "6426",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "I'd just like some help, then I'll be out of here."
+},
+{
+"k": "6427",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Big guy. Beard. Flannel. Kind of a shitbag. Hard to miss. You sure you don't know him?"
+},
+{
+"k": "6428",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Come on. Have you seen The Woodsman around?"
+},
+{
+"k": "6429",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Don't lie to me. It'd be bad for everybody."
+},
+{
+"k": "6430",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Would a drink help you remember?"
+},
+{
+"k": "6431",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "How about I buy you a drink?"
+},
+{
+"k": "6432",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "I know you're an asshole, and you're not wanted here. How's that?"
+},
+{
+"k": "6433",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "It's fine. I walked into that one."
+},
+{
+"k": "6434",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Come on. Tell me what you know."
+},
+{
+"k": "6435",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Cigarette Machine"
+},
+{
+"k": "6436",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "You're under arrest…"
+},
+{
+"k": "6437",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "You won't need to. We'll settle this now."
+},
+{
+"k": "6438",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "If he runs, I'm coming after you first."
+},
+{
+"k": "6439",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "(Smile, let it go)"
+},
+{
+"k": "6440",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "(Teach Gren Some Manners)"
+},
+{
+"k": "6441",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "STUB"
+},
+{
+"k": "6442",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Pictures"
+},
+{
+"k": "6443",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Pickled Eggs"
+},
+{
+"k": "6444",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Half Empty Glass"
+},
+{
+"k": "6445",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Chalkboard"
+},
+{
+"k": "6446",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Bar stool"
+},
+{
+"k": "6447",
+"who": "HOLLY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup1]Who?"
+},
+{
+"k": "6448",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup1]I'm being nice.  So try again."
+},
+{
+"k": "6449",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4]Don't even think about it."
+},
+{
+"k": "6450",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4]Is this the type of treatment I can expect if I let you take me in?"
+},
+{
+"k": "6451",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Run and it'll be worse."
+},
+{
+"k": "6452",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "He started it."
+},
+{
+"k": "6453",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Hey, he started it."
+},
+{
+"k": "6454",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4]  If you run, it'll be worse. Trust me."
+},
+{
+"k": "6455",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4]No. If you come quietly, you'll be treated with respect."
+},
+{
+"k": "6456",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] But if it turns out you killed that girl... well... you know what that means."
+},
+{
+"k": "6457",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Yeah... but he was being an asshole."
+},
+{
+"k": "6458",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4][outrage]You hit him first!"
+},
+{
+"k": "6459",
+"who": "DEE",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4]Alright, I got a hundred bucks for the first bloke that can tell me something about a girl named..."
+},
+{
+"k": "6460",
+"who": "DEE",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4]Fuck."
+},
+{
+"k": "6461",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Your brother won't be saving you this time."
+},
+{
+"k": "6462",
+"who": "DEE",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Fuck man! That's not necessary."
+},
+{
+"k": "6463",
+"who": "DEE",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] He's the one you want. Not me."
+},
+{
+"k": "6464",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Shit..."
+},
+{
+"k": "6465",
+"who": "DEE",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Aaargh. There're fuckin' splinters on this shit!"
+},
+{
+"k": "6466",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] You said you wouldn't run."
+},
+{
+"k": "6467",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Aaaargh! You said you wouldn't hurt me!"
+},
+{
+"k": "6468",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Guy's covered in blood and you let him go?"
+},
+{
+"k": "6469",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] Aaargh!"
+},
+{
+"k": "6470",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] No one asked you."
+},
+{
+"k": "6471",
+"who": "DEE",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup4] I told you. I didn't do it."
+},
+{
+"k": "6472",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "You know what he wants."
+},
+{
+"k": "6473",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup]Does he tell you when to close, too?"
+},
+{
+"k": "6474",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "He sure as shit ain't here to see us."
+},
+{
+"k": "6475",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "Go home, Sheriff."
+},
+{
+"k": "6476",
+"who": "GREN",
+"ctx": "Fables101/env_trollbar",
+"en": "We know what you want.  Go home."
+},
+{
+"k": "6477",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "#1 or #2?"
+},
+{
+"k": "6478",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] ended up an axe in his head."
+},
+{
+"k": "6479",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] So you wanted revenge, is that it?"
+},
+{
+"k": "6480",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] No... that wasn't it..."
+},
+{
+"k": "6481",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] It's funny... just a minute ago no one seemed to know who you were."
+},
+{
+"k": "6482",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] [transition into next line] Yeah... well... [hmph]"
+},
+{
+"k": "6483",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "I'm taking you in."
+},
+{
+"k": "6484",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You know why I'm here."
+},
+{
+"k": "6485",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You play the hand you're dealt."
+},
+{
+"k": "6486",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Come on, Woody."
+},
+{
+"k": "6487",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] You know why I'm here."
+},
+{
+"k": "6488",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] You wanna know what happened."
+},
+{
+"k": "6489",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Amongst other things, sure."
+},
+{
+"k": "6490",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] It's funny... the shit you're willin' to do for money."
+},
+{
+"k": "6491",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Why'd you do it? No bullshit."
+},
+{
+"k": "6492",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] [beat] For money."
+},
+{
+"k": "6493",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Same reason people do a lot of awful things."
+},
+{
+"k": "6494",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Well, some folks are forced to play with shit..."
+},
+{
+"k": "6495",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Guess you wanna know about the girl."
+},
+{
+"k": "6496",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] That's a lovely image."
+},
+{
+"k": "6497",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] There's not much to explain... it's no big secret... I needed money."
+},
+{
+"k": "6498",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[alt] [pickup5] And the night I finally get up the nerve to do it... there you are..."
+},
+{
+"k": "6499",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "You think this is funny?"
+},
+{
+"k": "6500",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "So this was a robbery?"
+},
+{
+"k": "6501",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Fuckin' things up for me."
+},
+{
+"k": "6502",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] You killed that girl! And for what? For money?"
+},
+{
+"k": "6503",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] You think this is funny?"
+},
+{
+"k": "6504",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Depends on how you look at it."
+},
+{
+"k": "6505",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] You're coming with me."
+},
+{
+"k": "6506",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] For what?"
+},
+{
+"k": "6507",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "For questioning."
+},
+{
+"k": "6508",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Arresting you for murder."
+},
+{
+"k": "6509",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Just blowin' off some steam is all."
+},
+{
+"k": "6510",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] We've had punch ups before, Bigby."
+},
+{
+"k": "6511",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] It never had to get official."
+},
+{
+"k": "6512",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "[Glass Him]"
+},
+{
+"k": "6513",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Cause fuck you. That's why. Get up."
+},
+{
+"k": "6514",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] [alarmed] [groggy] For what?"
+},
+{
+"k": "6515",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] I'm draggin' you back to The Woodlands."
+},
+{
+"k": "6516",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Jesus Bigby... that fuckin' hurt."
+},
+{
+"k": "6517",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] For questioning in the murder of Faith."
+},
+{
+"k": "6518",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] What? Faith? Who's that?"
+},
+{
+"k": "6519",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Cause I'm arresting you for the murder of Faith."
+},
+{
+"k": "6520",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] This isn't right! Stop!"
+},
+{
+"k": "6521",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] I'd walked past her place for weeks..."
+},
+{
+"k": "6522",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "For questioning in the murder of Faith."
+},
+{
+"k": "6523",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] I'm taking ya in."
+},
+{
+"k": "6524",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Just shut up!"
+},
+{
+"k": "6525",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "I already know this story."
+},
+{
+"k": "6526",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] What are you talking about exactly?"
+},
+{
+"k": "6527",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[Pickup5] [as if saying, Uhm, Obviously...] Red Riding Hood... her Grandmother. I was there to rob them... when I showed up you were already there... lying in the bed."
+},
+{
+"k": "6528",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] 'Cept a buncha people thinkin' I'm somethin' I ain't."
+},
+{
+"k": "6529",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] I only saved her 'cause I thought she might give me a reward... but she didn't give me shit."
+},
+{
+"k": "6530",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] I played along as long as I could."
+},
+{
+"k": "6531",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Only thing I managed to get from it was a free drink every now and again... huh, lotta good that did."
+},
+{
+"k": "6532",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Did you kill Faith?"
+},
+{
+"k": "6533",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] I'm not talking about Red Riding Hood, I'm here about Faith. She was murdered."
+},
+{
+"k": "6534",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] You should. You were there."
+},
+{
+"k": "6535",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5]I already know this story, Woody."
+},
+{
+"k": "6536",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Did you kill Faith?"
+},
+{
+"k": "6537",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5]Wasting my fuckin' time..."
+},
+{
+"k": "6538",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Please! Bigby, I was just talking about robbing Red Riding Hood's Grandmother... I didn't kill anyone!"
+},
+{
+"k": "6539",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] So, you were planning on robbing her?"
+},
+{
+"k": "6540",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Grandma? Wait, what are you talking about?"
+},
+{
+"k": "6541",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup5] Yeah... her and her grandma."
+},
+{
+"k": "6542",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Chase Dee"
+},
+{
+"k": "6543",
+"who": "",
+"ctx": "Fables101/env_trollbar",
+"en": "Chase Woodsman"
+},
+{
+"k": "6544",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup7] You'll never guess where I found one of these."
+},
+{
+"k": "6545",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "[pickup7] The Woodsman's place."
+},
+{
+"k": "6546",
+"who": "BIGBY",
+"ctx": "Fables101/env_trollbar",
+"en": "Here. Fetch."
+},
+{
+"k": "6547",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] You got some fuckin' nerve comin' down here like this."
+},
+{
+"k": "6548",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Way everybody talks about ya, I was expectin' more."
+},
+{
+"k": "6549",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Stay outta this, Holly!"
+},
+{
+"k": "6550",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] [yelling] How about now, huh? Take a shot now!"
+},
+{
+"k": "6551",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] [yelling] Send you back to the Woodlands with your tail between your legs."
+},
+{
+"k": "6552",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] You think you're the only one with a past?"
+},
+{
+"k": "6553",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] [yelling]I'm Grendel!"
+},
+{
+"k": "6554",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] The only one who terrorized kingdoms..."
+},
+{
+"k": "6555",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] slaughtered armies!"
+},
+{
+"k": "6556",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Big bad wolf is lookin' like a pup."
+},
+{
+"k": "6557",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Get over here!"
+},
+{
+"k": "6558",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Come on, lap dog!"
+},
+{
+"k": "6559",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] That all you got?"
+},
+{
+"k": "6560",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] This is a fuckin' joke."
+},
+{
+"k": "6561",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Not much to say all of a sudden?"
+},
+{
+"k": "6562",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] You fuckin' dog!"
+},
+{
+"k": "6563",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Fuckin' piece of shit!"
+},
+{
+"k": "6564",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Fuck you!"
+},
+{
+"k": "6565",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] No! Please!"
+},
+{
+"k": "6566",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Holly! Tell him!"
+},
+{
+"k": "6567",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] You fucking monster!"
+},
+{
+"k": "6568",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] STOP!"
+},
+{
+"k": "6569",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] NO! Not again!"
+},
+{
+"k": "6570",
+"who": "GRENDEL",
+"ctx": "Fables101/env_trollbar_fight",
+"en": "[pickup4] Help me!"
+},
+{
+"k": "6571",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "maybe"
+},
+{
+"k": "6572",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "no"
+},
+{
+"k": "6573",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "friendly lie"
+},
+{
+"k": "6574",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "friendly partial truth"
+},
+{
+"k": "6575",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "surly lie"
+},
+{
+"k": "6576",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Be surly, distract cop"
+},
+{
+"k": "6577",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Partial truth - This street IS weird"
+},
+{
+"k": "6578",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Be evasive"
+},
+{
+"k": "6579",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "cover story1 (friendly)"
+},
+{
+"k": "6580",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "cover story2 (flippant)"
+},
+{
+"k": "6581",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "cover story3 (surly)"
+},
+{
+"k": "6582",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Be rude, push him away"
+},
+{
+"k": "6583",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Back off, say sorry"
+},
+{
+"k": "6584",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Offer bribe"
+},
+{
+"k": "6585",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "He stumbled off while you were talking to the Mundy Cop."
+},
+{
+"k": "6586",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Why didn't you say something?"
+},
+{
+"k": "6587",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "\"Hey Sheriff of Fabletown, the guy we stashed in the dumpster with the gash in his head is crawling--\""
+},
+{
+"k": "6588",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "\"Hey,\" would have sufficed."
+},
+{
+"k": "6589",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "How about you, Bigby?"
+},
+{
+"k": "6590",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You look tired is all. How are you doing?"
+},
+{
+"k": "6591",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'm hunky dory"
+},
+{
+"k": "6592",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I haven't been sleeping much."
+},
+{
+"k": "6593",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Have we met before?"
+},
+{
+"k": "6594",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Now who's the one being difficult?"
+},
+{
+"k": "6595",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'm hunky dory... thanks for asking."
+},
+{
+"k": "6596",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's probably the weather. Shouldn't be this hot at night. Gets people on edge. They say Mundy murder rates skyrocket in heat waves."
+},
+{
+"k": "6597",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I haven't been sleeping much..."
+},
+{
+"k": "6598",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "How much was it he owed you?"
+},
+{
+"k": "6599",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[hesitates] A hundred bucks..."
+},
+{
+"k": "6600",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[muttering to himself] ...and I'm guessing it'd be bad for you to show up empty handed."
+},
+{
+"k": "6601",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I've got..."
+},
+{
+"k": "6602",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's twenty, forty... seven-- eight. Fifty eight. It's all I've got-- it'll help, right?"
+},
+{
+"k": "6603",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'm not paying for him. I'm giving it to you."
+},
+{
+"k": "6604",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[playful, not mean]It'd been nicer for you to ask that before taking it."
+},
+{
+"k": "6605",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'll see you around... Wolf."
+},
+{
+"k": "6606",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Why are you paying his tab?"
+},
+{
+"k": "6607",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'll be fine."
+},
+{
+"k": "6608",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Take it."
+},
+{
+"k": "6609",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I need... to tell you something."
+},
+{
+"k": "6610",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You're not as bad as everyone says you are."
+},
+{
+"k": "6611",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "You sure you can afford it?"
+},
+{
+"k": "6612",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Wish I could help"
+},
+{
+"k": "6613",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Do I know you?"
+},
+{
+"k": "6614",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's Faith."
+},
+{
+"k": "6615",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "What's your name? Really? I'm not gonna write this up..."
+},
+{
+"k": "6616",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "We all sort of knew each other at some point... but things change... it's probably better that way."
+},
+{
+"k": "6617",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I'm giving it to you."
+},
+{
+"k": "6618",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Keep you out of trouble."
+},
+{
+"k": "6619",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Makes my job easier if you stay outta trouble."
+},
+{
+"k": "6620",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Just take it"
+},
+{
+"k": "6621",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Just... take the money, okay?"
+},
+{
+"k": "6622",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Well. I appreciate it. Really."
+},
+{
+"k": "6623",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I wouldn't be paying for him, I'd be giving it to you... if I had it."
+},
+{
+"k": "6624",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's okay. I'll be fine."
+},
+{
+"k": "6625",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "Well, I appreciate it."
+},
+{
+"k": "6626",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I've got... shit. I gave it all to that cop back there."
+},
+{
+"k": "6627",
+"who": "FAITH",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "It's weird that you'd be paying his tab anyway."
+},
+{
+"k": "6628",
+"who": "",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "[give her some money]"
+},
+{
+"k": "6629",
+"who": "BIGBY",
+"ctx": "Fables101/fabletownandersen_cop",
+"en": "I wish I could help."
+}
+]

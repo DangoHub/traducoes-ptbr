@@ -1,0 +1,1550 @@
+[
+{
+"k": "17985",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-handsfront}{worriedA}She loved being around them. In{happyA} good times and bad."
+},
+{
+"k": "17986",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-handsfront}I never met Lily, but, from... what I've been told..."
+},
+{
+"k": "17987",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "She'd would have liked to be here tonight."
+},
+{
+"k": "17988",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[Wave her over]"
+},
+{
+"k": "17989",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Pssst! Snow!"
+},
+{
+"k": "17990",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "We need to leave."
+},
+{
+"k": "17991",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[loud whisper] {confusedB}I know, I know, but... something's happened."
+},
+{
+"k": "17992",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] What the fuck!"
+},
+{
+"k": "17993",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[whisper; angry] {angryA}{body-standA}Not right now."
+},
+{
+"k": "17994",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[loud whisper] We have to--"
+},
+{
+"k": "17995",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[mad]{angryB}{body-standB} Bigby, what the Hell are you doing?!"
+},
+{
+"k": "17996",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{normalA}{body-standA}Something's happened. {normalB}We have to get out of here."
+},
+{
+"k": "17997",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] Bigby, what is this about?"
+},
+{
+"k": "17998",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[pissed] Oh, really?"
+},
+{
+"k": "17999",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quiet] {annoyedA}{body-standA}Who?"
+},
+{
+"k": "18000",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{fearA}{body-standA}What?! {angryA}No!{angryB} I deserve to know!"
+},
+{
+"k": "18001",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}Maybe we should talk{angryA} about this somewhere else?"
+},
+{
+"k": "18002",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "We're not suspects![beat] Show some respect."
+},
+{
+"k": "18003",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly stern] {angryA}{body-handsfront}This isn't the way to go about this."
+},
+{
+"k": "18004",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{thinkingB}I know, {flusteredA}I know, but...[trails off]"
+},
+{
+"k": "18005",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "It's the perfect time!"
+},
+{
+"k": "18006",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}{body-standA}I don't give a {angryB}fuck about \"the way.\""
+},
+{
+"k": "18007",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Who was it? Tell me."
+},
+{
+"k": "18008",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I don't care who hears."
+},
+{
+"k": "18009",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I wanna know. Right now."
+},
+{
+"k": "18010",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I think it was Crane."
+},
+{
+"k": "18011",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Can't talk about it yet."
+},
+{
+"k": "18012",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I need to talk to Snow."
+},
+{
+"k": "18013",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[loud whisper] {angryA}{thinkingA}No, you don't understand..."
+},
+{
+"k": "18014",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{sadA}{body-standA}I'm sorry, everyone.{sadA} I don't... [trails off]"
+},
+{
+"k": "18015",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Holly, wait."
+},
+{
+"k": "18016",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] {angryA}{body-standA}We're supposed to burn everything, all of it, all of her, and now all we have left is all of her {angryB}shit!"
+},
+{
+"k": "18017",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[sheepishly] C'mon, it's going to be okay."
+},
+{
+"k": "18018",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Wait, please, Holly, it wasn't Bigby's fault."
+},
+{
+"k": "18019",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Holly--"
+},
+{
+"k": "18020",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] Don't cover for him."
+},
+{
+"k": "18021",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[stressed] {sadA}And I'm {angryA}sure he has a very good reason for being here."
+},
+{
+"k": "18022",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{flusteredA}Everything okay?"
+},
+{
+"k": "18023",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{annoyedA}{body-standA}And don't say it's cause you care about this."
+},
+{
+"k": "18024",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[stern] Alright, that's enough."
+},
+{
+"k": "18025",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{angryA}Why are you here, anyway?"
+},
+{
+"k": "18026",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] {body-standA}{annoyedA}What right does he have{angryA} to be here! {angryB}What right after what he did!"
+},
+{
+"k": "18027",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[surprised] {FearA}What?!"
+},
+{
+"k": "18028",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quiet] {annoyedA}Crane..."
+},
+{
+"k": "18029",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{normalB}I think it was Ichabod Crane."
+},
+{
+"k": "18030",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[shocked] {body-standA}{surprisedA}Crane?"
+},
+{
+"k": "18031",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I'm not... we're not certain yet.[beat] I shouldn't have even brought it up."
+},
+{
+"k": "18032",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I don't care if you're not \"certain\" yet. Just say what you know."
+},
+{
+"k": "18033",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Just spill it, Sheriff."
+},
+{
+"k": "18034",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Who was it."
+},
+{
+"k": "18035",
+"who": "LAWRENCE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Whoever killed Faith... they're the same person, right?"
+},
+{
+"k": "18036",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{sadA}It's about Faith."
+},
+{
+"k": "18037",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}{body-standA}No, {angryB}screw that, my sister's dead, and I don't give a shit who she looked like when it happened."
+},
+{
+"k": "18038",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{normalA}I came here to talk to {normalB}Snow about this."
+},
+{
+"k": "18039",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "It's not about her.[beat] It's about Lily."
+},
+{
+"k": "18040",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "And if anyone should be told, it's me, it's us, right now."
+},
+{
+"k": "18041",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "So open your trap and talk."
+},
+{
+"k": "18042",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "If anyone should be told, it's me, it's us.[beat] Right now."
+},
+{
+"k": "18043",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "So talk."
+},
+{
+"k": "18044",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Yeah. Who was it?"
+},
+{
+"k": "18045",
+"who": "LAWRENCE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Yeah, who?"
+},
+{
+"k": "18046",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryB}{body-standA}Just tell us who it was!"
+},
+{
+"k": "18047",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}I'm sorry, Holly, {body-hands}but until Bigby and I have spoken about this..."
+},
+{
+"k": "18048",
+"who": "LAWRENCE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] Oh my God..."
+},
+{
+"k": "18049",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "It's not about you.[beat] It's about Lily."
+},
+{
+"k": "18050",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryB}{body-standA}We all deserve to know!"
+},
+{
+"k": "18051",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "We can't just start implicating people!"
+},
+{
+"k": "18052",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Holly, please go back to the ceremony."
+},
+{
+"k": "18053",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "This is such total fucking bullshit."
+},
+{
+"k": "18054",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{annoyedA}{body-standA}What? I'm not just gonna sit here and-- [gets cut off]"
+},
+{
+"k": "18055",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{worriedA}Please.I promise I will let you know just as soon as there's something to tell, but... {sadA}just let us do our jobs, first."
+},
+{
+"k": "18056",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "C'mon,  Holly. Let's not make tonight about the murder. Okay?[beat] Tonight should be about Lily."
+},
+{
+"k": "18057",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "It's your turn to talk."
+},
+{
+"k": "18058",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[stern] {body-standA}{angryB}Okay, everyone, {angryA}just stop. Bigby and I are going to have a little chat {flusteredB}while everyone else gets back to the funeral."
+},
+{
+"k": "18059",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{annoyedA}{body-standA}What? {angryA}He says that fucking Crane murdered Lily and you expect me to--"
+},
+{
+"k": "18060",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Please. {angryA}{body-standA}I promise I will tell you what the Hell is going on just as soon as I know there's something to tell, {sadA}but... just let us do our jobs, first."
+},
+{
+"k": "18061",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[almost to herself] {body-standA}{angryA}This is such total fucking bullshit."
+},
+{
+"k": "18062",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Look, Holly, I know how this must--"
+},
+{
+"k": "18063",
+"who": "NERISSA",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] {sadA}{body-standA}Let's go, Holly."
+},
+{
+"k": "18064",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}{body-standA}Okay, {flusteredA}okay, look, Bigby and I are going to have a little chat {sadA}far away from the ceremony, alright?"
+},
+{
+"k": "18065",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{NormalA}{body-standA}Let's just continue, okay?"
+},
+{
+"k": "18066",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[cold] No. You don't \"know\" how this \"must feel.\"[beat] You have no idea."
+},
+{
+"k": "18067",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{normalA}{body-standA}It's your turn to talk."
+},
+{
+"k": "18068",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[still pissed] {angryA}{body-standA}Don't fuck anything up. {angryB}Don't bother anybody."
+},
+{
+"k": "18069",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[still pissed] {angryA}And when the first sign of trouble comes - and it will come, because you're a goddamn walking trap for it - I want you the {angryB}fuck out of here."
+},
+{
+"k": "18070",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Vivian. She works at the Pudding N' Pie.[beat] She was a friend of Lily's."
+},
+{
+"k": "18071",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Who is that?"
+},
+{
+"k": "18072",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{thinkingB}{body-hips}This better be wildly important."
+},
+{
+"k": "18073",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[annoyed]{angryA}{body-standA}I know you didn't come here to pay your respects, {thinkingA}{body-hips}so... whatever it is better be wildly important."
+},
+{
+"k": "18074",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "When you pull this kind of stuff it just resets the clock."
+},
+{
+"k": "18075",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}It's been hard enough making a connection with these people."
+},
+{
+"k": "18076",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{thinkingB}{body-standA}Okay...[sighs] You think you know who the killer is.[beat]{body-hips} What have you got?"
+},
+{
+"k": "18077",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[are you kidding me?] Crane?"
+},
+{
+"k": "18078",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[plainly] Yeah."
+},
+{
+"k": "18079",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[plainly] {body-x}I can't believe this."
+},
+{
+"k": "18080",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "What have you got."
+},
+{
+"k": "18081",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{ThinkingA}This is someone I've worked with for decades. This is a guy...  {thinkingC}he gets the frickin' shakes when he has to order food."
+},
+{
+"k": "18082",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I don't care about \"procedure.\""
+},
+{
+"k": "18083",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Oh, fuck off! Don't backpedal now!"
+},
+{
+"k": "18084",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}{body-standA}Why?{confusedA} Why is this some secret club all of a sudden?"
+},
+{
+"k": "18085",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{thinkingA}What's going on?"
+},
+{
+"k": "18086",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}Bigby..."
+},
+{
+"k": "18087",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I think I know who the killer is."
+},
+{
+"k": "18088",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "The really short version of this is... I think Crane's the killer."
+},
+{
+"k": "18089",
+"who": "<<ID",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{8A5491D1-F15E-4134-B9C6-535D9208A53D}>>"
+},
+{
+"k": "18090",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "What?! Crane?"
+},
+{
+"k": "18091",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Crane's obsessed with you."
+},
+{
+"k": "18092",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Lily was Crane's prostitute."
+},
+{
+"k": "18093",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[not buying it] Crane."
+},
+{
+"k": "18094",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Yes!"
+},
+{
+"k": "18095",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Crane?!"
+},
+{
+"k": "18096",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "This is someone I've worked with for decades."
+},
+{
+"k": "18097",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Character, motive, past misconduct, history of violence..."
+},
+{
+"k": "18098",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Well, I wasn't there so fill it in for me."
+},
+{
+"k": "18099",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Snow, Crane is completely obsessed with you."
+},
+{
+"k": "18100",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "He plays out your whole story. Or the mundy version of it, at least."
+},
+{
+"k": "18101",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Oh my God, if this is about how Crane treats me at work--"
+},
+{
+"k": "18102",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{worriedA}I followed a lead to this {angryA}shit hole motel. The Open Arms."
+},
+{
+"k": "18103",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "There were photos of you. Photos of Lily.[beat] Photos of us."
+},
+{
+"k": "18104",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{worriedA}Crane had a room there, and he's been taking prostitutes... or, at the very least Lily... {worriedA}and making her look like you while he was...[sighs] you know."
+},
+{
+"k": "18105",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[not buying it] Lily was Crane's prostitute."
+},
+{
+"k": "18106",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}Lily was Crane's prostitute."
+},
+{
+"k": "18107",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[stern] I just left his room at the Open Arms Motel where the bed was drenched in blood, Snow, so forgive me if I don't give a shit about his eating habits!"
+},
+{
+"k": "18108",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "He replays your story. Over and over again."
+},
+{
+"k": "18109",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Forget about the killer for a second."
+},
+{
+"k": "18110",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I thought this was about the killer."
+},
+{
+"k": "18111",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{worriedA}{thinkingA}Are you sure this isn't personal."
+},
+{
+"k": "18112",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Just listen to me for a second, alright?"
+},
+{
+"k": "18113",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I mean, what do you want to do, storm into Crane's office and accuse him? Throw him down the Witching Well?"
+},
+{
+"k": "18114",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[sighs] I understand that you've seen some things tonight."
+},
+{
+"k": "18115",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "We can't storm into his office without proof."
+},
+{
+"k": "18116",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Don't you trust me?"
+},
+{
+"k": "18117",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Crane took photos."
+},
+{
+"k": "18118",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[Show Snow the illicit photo]"
+},
+{
+"k": "18119",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "This would be a gigantic deal."
+},
+{
+"k": "18120",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Do you know how big of a deal this is? \"Circumstantial\" won't cut it."
+},
+{
+"k": "18121",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Look, forgive me if I'm finding this hard to believe. And if I'm finding this hard to believe, King Cole will find it impossible."
+},
+{
+"k": "18122",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I do. I really do."
+},
+{
+"k": "18123",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I'm just afraid you're chasing down the wrong rabbit hole."
+},
+{
+"k": "18124",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] And maybe for personal reasons..."
+},
+{
+"k": "18125",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Do you understand how serious this is?"
+},
+{
+"k": "18126",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I thought you trusted me more than that."
+},
+{
+"k": "18127",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Photos that show him...[trails off]?"
+},
+{
+"k": "18128",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "He's been... recording his \"visits\" with Lily."
+},
+{
+"k": "18129",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Crane has been taking photos. Lots of photos."
+},
+{
+"k": "18130",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Crane has been taking photos, Snow. Lots of photos."
+},
+{
+"k": "18131",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Look, let's go back to the Business Office. I doubt Crane's there at this hour, but... we need to talk and this isn't the place."
+},
+{
+"k": "18132",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[numb] You took a cab here, right?"
+},
+{
+"k": "18133",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[numb] I'll drive."
+},
+{
+"k": "18134",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-handsfront}{worriedA}I know, in my heart... that she would have liked to be here tonight."
+},
+{
+"k": "18135",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{ThinkingC}{body-standA}And if we get this wrong... it would mean more than our jobs."
+},
+{
+"k": "18136",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I do, or... I want to."
+},
+{
+"k": "18137",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}Look, I'm sorry Bigby mentioned anything at all,{thinkingA} but I need to verify what he's--"
+},
+{
+"k": "18138",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "It's a troll custom to burn the body and all of their possessions.[beat] It's why she was so angry."
+},
+{
+"k": "18139",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I mean... what do you have? Do you have proof? Verifiable proof?"
+},
+{
+"k": "18140",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-handsfront}{sadA}We'd get kicked out of Fabletown for messing all of this up so badly."
+},
+{
+"k": "18141",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{sadA}{body-standA}Because, please, Bigby... don't confuse things."
+},
+{
+"k": "18142",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{thinkingA}Deposing Crane would be the next step."
+},
+{
+"k": "18143",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "But with something this big... I can't just jump in the canoe with you and hope you know where you're going."
+},
+{
+"k": "18144",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] I do."
+},
+{
+"k": "18145",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] God..."
+},
+{
+"k": "18146",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[sighs] {worriedA}{body-standA}Are they starting the burn?"
+},
+{
+"k": "18147",
+"who": "NERISSA",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}Snow?"
+},
+{
+"k": "18148",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}Two minutes?"
+},
+{
+"k": "18149",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I'm sorry, but Holly's asking for you."
+},
+{
+"k": "18150",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Yes. Everyone who spoke should really be present for this part..."
+},
+{
+"k": "18151",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "She's kind of distraught. You're not leaving yet, are you?"
+},
+{
+"k": "18152",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I don't even remember what I said."
+},
+{
+"k": "18153",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I, um, really liked what you had to say."
+},
+{
+"k": "18154",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "We should go."
+},
+{
+"k": "18155",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[annoyed] {thinkingA}And we will, okay? {thinkingB}Two minutes.[beat] {worriedA}This is important, too."
+},
+{
+"k": "18156",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{thinkingA}{body-standA}We really should go."
+},
+{
+"k": "18157",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[cautiously] {normalA}{body-standA}Are you okay? {normalB}You don't have to do this right now."
+},
+{
+"k": "18158",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}It won't take long."
+},
+{
+"k": "18159",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}No, I get it. Take your time."
+},
+{
+"k": "18160",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[cold] This is important, too."
+},
+{
+"k": "18161",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly to Bigby] {happyA}How do ya do?"
+},
+{
+"k": "18162",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] {happyA}Or at least a question."
+},
+{
+"k": "18163",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {frustratedA}Except it isn't our plans you should be concernin' yourself with."
+},
+{
+"k": "18164",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly seething] {angryA}Now is really not the time for whatever you jag-offs are planning to do."
+},
+{
+"k": "18165",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {sarcasticA}Well isn't that the thing of it? Plans."
+},
+{
+"k": "18166",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] {sarcasticA}You and all of your acquaintances."
+},
+{
+"k": "18167",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly] {defensiveA}So you leave Crane alone, {happyA}and we'll leave you alone."
+},
+{
+"k": "18168",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}No, not later."
+},
+{
+"k": "18169",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "You work for Crane?"
+},
+{
+"k": "18170",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {angryA}Are you working for Crane? {angryB}Did he send you?"
+},
+{
+"k": "18171",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}No, see now, you're already askin' too many questions.{defensiveA} Just pay attention."
+},
+{
+"k": "18172",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {happyA}Just sit in your office and whistle to Heaven for a few short days."
+},
+{
+"k": "18173",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {sarcasticA}Don't even have to go anywhere."
+},
+{
+"k": "18174",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {happyA}I don't know either."
+},
+{
+"k": "18175",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {sarcasticA}Is that a yes? I don't know."
+},
+{
+"k": "18176",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed; intense] {happyA}So what's it gonna be? {angryA}We have a deal? You leave Crane alone and we leave you to yours?"
+},
+{
+"k": "18177",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed; intense] {angryA}What's it gonna be?"
+},
+{
+"k": "18178",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed; intense] {angryA}Speak your mind. Fastly now."
+},
+{
+"k": "18179",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] [Let's get going...] {worriedA}Brother..."
+},
+{
+"k": "18180",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "You think I'm scared?"
+},
+{
+"k": "18181",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Fine, it's a deal."
+},
+{
+"k": "18182",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Just don't hurt anyone."
+},
+{
+"k": "18183",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed; pissed] {angryA}Always wanting to do things the fun way..."
+},
+{
+"k": "18184",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly simmering] {angryA}You think this {angryB}act you got going scares me?[beat] '{angryA}Cuz it doesn't."
+},
+{
+"k": "18185",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[quietly simmering] Crane is mine and there's nothing you fuckers can do to stop it."
+},
+{
+"k": "18186",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {angryA}Yeah, fine, I'll leave Crane alone, just get out of here."
+},
+{
+"k": "18187",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed] {happyA}Pleasure to hear it."
+},
+{
+"k": "18188",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[hushed; pissed] {angryA}Just don't hurt anyone, Dee."
+},
+{
+"k": "18189",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[concerned] {worriedA}What's happening?"
+},
+{
+"k": "18190",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] {angryA}What the fuck are you doing?"
+},
+{
+"k": "18191",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{happyA}And we're happy to report that everything went smoothly, {sarcasticA}so if you'll just allow us to get out of your hair...[trails off]"
+},
+{
+"k": "18192",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{happyA}And we're unhappy to report that things did not go as smoothly as planned."
+},
+{
+"k": "18193",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[getting pissed] {angryA}{body-hips}Bigby, what is he talking about?"
+},
+{
+"k": "18194",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{happyA}Like we're just out havin' a Spring picnic."
+},
+{
+"k": "18195",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}That wasn't right, tellin' everyone our dealings."
+},
+{
+"k": "18196",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}Awww, {angryA}now you shouldn't've done that, old boy, really."
+},
+{
+"k": "18197",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "They want Crane left alone."
+},
+{
+"k": "18198",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{thinkingB}Crane?"
+},
+{
+"k": "18199",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{happyA}And go we shall, as men of our word."
+},
+{
+"k": "18200",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[getting pissed] What do you two want?"
+},
+{
+"k": "18201",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Do they look like friends of Bigby's."
+},
+{
+"k": "18202",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Yeah! We know!"
+},
+{
+"k": "18203",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[getting really angry] You bring these fucking psychos here!?"
+},
+{
+"k": "18204",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[weakly] Guys. Please. This is a... funeral."
+},
+{
+"k": "18205",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Oh, we're not friends."
+},
+{
+"k": "18206",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}Exactly our intention! {sarcasticA}He's been a good sport."
+},
+{
+"k": "18207",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{happyA}Not makin' our lives any easier."
+},
+{
+"k": "18208",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{sarcasticA}He hasn't exactly been a good sport about this."
+},
+{
+"k": "18209",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{happyA}Consider the shit stopped."
+},
+{
+"k": "18210",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] {angryB}What deal?!"
+},
+{
+"k": "18211",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{defensiveA}This is a private matter between Bigby and us, {suspiciousA}so if you all just please..."
+},
+{
+"k": "18212",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{sarcasticA}We won't ruin any more of the wedding or whatever."
+},
+{
+"k": "18213",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Calm down, darling. It was just a simple business transaction."
+},
+{
+"k": "18214",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[furious, anger building] {angryB}{body-standA}You... mother fuckers come here uninvited? You interrupt my sister's funeral!"
+},
+{
+"k": "18215",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryB}You fuckin' [howls]freaks are not getting away with this!"
+},
+{
+"k": "18216",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{confusedA}Yeah, listen to your lady, love."
+},
+{
+"k": "18217",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{fearA}Holly! Don't move!"
+},
+{
+"k": "18218",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{surprisedA}Things don't have to turn sloppy now."
+},
+{
+"k": "18219",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Let's spare all the fuss."
+},
+{
+"k": "18220",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[serious] If he moves."
+},
+{
+"k": "18221",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[concerned] Bigby."
+},
+{
+"k": "18222",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Went to all this trouble we should take a souvenir."
+},
+{
+"k": "18223",
+"who": "DEE",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Just give it a second!"
+},
+{
+"k": "18224",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[cold] Don't move."
+},
+{
+"k": "18225",
+"who": "DUM",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Forgive us, Snowball, but you're not exactly an imposing figure."
+},
+{
+"k": "18226",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[whisper] I'm sorry, Holly, but"
+},
+{
+"k": "18227",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[angry] {angryB}{body-X}Bigby?"
+},
+{
+"k": "18228",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{body-standA}{angryB}Huh?"
+},
+{
+"k": "18229",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[whisper; angry] {angryA}{body-standA}What on earth{body-handsfront} do you think you're--"
+},
+{
+"k": "18230",
+"who": "MUSIC",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Think a music box version of the \"Merry Go Round of Life\" from Howl's Moving Castle."
+},
+{
+"k": "18231",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Holly, I'm sorry."
+},
+{
+"k": "18232",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}Holly, {normalA}settle down."
+},
+{
+"k": "18233",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "Settle down."
+},
+{
+"k": "18234",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{angryA}{body-standA}Just back off."
+},
+{
+"k": "18235",
+"who": "",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "I don't want trouble."
+},
+{
+"k": "18236",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{worriedA}{body-standA}Look, Holly, {confusedB}I'm not here to start trouble."
+},
+{
+"k": "18237",
+"who": "HOLLY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[pissed] {body-standA}{angryB}Don't cover for him."
+},
+{
+"k": "18238",
+"who": "VIVIAN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[sheepishly] Holly. It's gonna be okay."
+},
+{
+"k": "18239",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{flusteredA}{body-standA}But this genuinely wasn't his fault."
+},
+{
+"k": "18240",
+"who": "SNOW",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[c'mon man...] Bigby..."
+},
+{
+"k": "18241",
+"who": "BIGBY",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "[muttering to himself, angry] {angryA}{body-standA}Crane's a fuckin' prick, {doubtfulA}so this doesn't surprise me."
+},
+{
+"k": "18242",
+"who": "GREN",
+"ctx": "Fables103/env_buckinghambridge_fight",
+"en": "{normalA}{body-standA}Hey, whaddya know, we actually agree on somethin'."
+}
+]

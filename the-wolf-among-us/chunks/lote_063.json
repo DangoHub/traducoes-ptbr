@@ -1,0 +1,1646 @@
+[
+{
+"k": "16816",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "My mother used to say, Grendel my boy..."
+},
+{
+"k": "16817",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "But I never did!"
+},
+{
+"k": "16818",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You know why that is?"
+},
+{
+"k": "16819",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You should go out, snatch some villagers..."
+},
+{
+"k": "16820",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[Grab him]"
+},
+{
+"k": "16821",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I have zero time for this."
+},
+{
+"k": "16822",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[growly] Gren, you better sober the up *right* fucking now. *Where* is Lily's stuff?"
+},
+{
+"k": "16823",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[plainly] You're too ugly and no one wants to be seen with you."
+},
+{
+"k": "16824",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I don't have time to listen to this *bullshit*. Just tell me where Lily's stuff is."
+},
+{
+"k": "16825",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And this is coming from a literal *monster*."
+},
+{
+"k": "16826",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Like this fuckin' idiot.[beat] They don't understand restraint. They don't have *self control*!"
+},
+{
+"k": "16827",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You two are the biggest *babies* I know. And I didn't get the pleasure of raping you into existence, so... *I* don't know what to do with you."
+},
+{
+"k": "16828",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Because children make a mess of things."
+},
+{
+"k": "16829",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[cold] You two are the biggest *babies* I know, and I didn't even get the pleasure of raping you into existence."
+},
+{
+"k": "16830",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Like this fuckin' idiot.[beat] They don't understand *restraint*. They don't have *self control*."
+},
+{
+"k": "16831",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And this is coming from a fuckin' *monster.*"
+},
+{
+"k": "16832",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedB}What more do you want?"
+},
+{
+"k": "16833",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I want *literally* nothing."
+},
+{
+"k": "16834",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}I don't want anything from you, Woody."
+},
+{
+"k": "16835",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryC}I want there to be a big black hole where your fat, dumb, fucking ass used to be."
+},
+{
+"k": "16836",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I said I was sorry!"
+},
+{
+"k": "16837",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Why are you pissed at Woody?"
+},
+{
+"k": "16838",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Why are you so pissed off at Woody? What did *he* do?"
+},
+{
+"k": "16839",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "What did he do? What-- you were the fucking one who told us in the first place!"
+},
+{
+"k": "16840",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}Oh, I forgot! {AngryC}You haven't heard the news!"
+},
+{
+"k": "16841",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}This walking lard cake was paying Holly's sister to let him {AngryC}fuck her! Behind all of our backs!"
+},
+{
+"k": "16842",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[Grab Gren]"
+},
+{
+"k": "16843",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Look, whatever petty fucking bullshit you are *still* hanging onto... just *drop* it, okay?"
+},
+{
+"k": "16844",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Petty?[beat; laughs a little] Petty?"
+},
+{
+"k": "16845",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "This walking lard cake was *fucking* Holly's sister! Behind all of our backs!"
+},
+{
+"k": "16846",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "These aren't *small things*! He lied to our faces for *years*!"
+},
+{
+"k": "16847",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Fuck off, I'm trying to help."
+},
+{
+"k": "16848",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Fuck off, Gren. You think I *want* to keep coming back here? I do because I *have* to if I want to fix this."
+},
+{
+"k": "16849",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "No no no no, suuuure. Everything's gonna get *fixed*, right? Look at Mr. Bob Fucking Villa over here."
+},
+{
+"k": "16850",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And all the while, you know what Woody was doin'? While you were *fixing* shit?"
+},
+{
+"k": "16851",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You know what this guy was doin', Sheriff? You know what Woody was doin'?"
+},
+{
+"k": "16852",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[nervous]Okay, okay, before you get all huffy, it was Snow who let me go, alright?"
+},
+{
+"k": "16853",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryA}Don't soil yourself, Woody, I'm sure he understands."
+},
+{
+"k": "16854",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedB}And if he doesn't, he can take it up with the missus, later."
+},
+{
+"k": "16855",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryA}And none of it would have come out if Bigby hadn't've said nothin'!"
+},
+{
+"k": "16856",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}Give me a break, like it's his fuckin' fault."
+},
+{
+"k": "16857",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "*This* is why I asked you not to say anything. *Why* mention it at all?"
+},
+{
+"k": "16858",
+"who": "<<ID",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{87E2D96E-9593-4778-8414-10DAB67B3135}>>"
+},
+{
+"k": "16859",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Holly won't even look at me!"
+},
+{
+"k": "16860",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "This whole thing just could've...[trails off]"
+},
+{
+"k": "16861",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "This whole Lily *dying* thing almost worked out perfect for you, didn't it."
+},
+{
+"k": "16862",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And why should she!"
+},
+{
+"k": "16863",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It could've what?"
+},
+{
+"k": "16864",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "That's *not* what I was going to say."
+},
+{
+"k": "16865",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "But you were thinkin' it, anyway."
+},
+{
+"k": "16866",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "*Died* with Lily?"
+},
+{
+"k": "16867",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Holly deserved to know."
+},
+{
+"k": "16868",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Lily was Holly's *sister*, Woody. She deserved to know."
+},
+{
+"k": "16869",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Because I felt like it."
+},
+{
+"k": "16870",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Because I fucking felt like it, alright? I don't need *permission* from you to do anything."
+},
+{
+"k": "16871",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It was part of the investigation."
+},
+{
+"k": "16872",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I don't give a shit if it's embarrassing for you, this stuff needs to get talked about."
+},
+{
+"k": "16873",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It was information pertaining to an ongoing investigation."
+},
+{
+"k": "16874",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[quieter] God... damn it, if you just hadn't've said anything..."
+},
+{
+"k": "16875",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}No, but you knew Holly would flip out, and you {AngryC}knew for a damned good fucking reason."
+},
+{
+"k": "16876",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[getting pissed] {AngryA}I didn't plan for that, alright? And our thing, whatever it was... it wasn't a big deal."
+},
+{
+"k": "16877",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[hugely sarcastic]{StonedA}And Holly had to find out going through all of her sister's shit! {StonedB}What fun that must have been!"
+},
+{
+"k": "16878",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "*What* \"good reason\"?!"
+},
+{
+"k": "16879",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "What good reason? \"What good reason?\""
+},
+{
+"k": "16880",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "For the life of me, I can't think of a *bad* reason."
+},
+{
+"k": "16881",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "They're all good!"
+},
+{
+"k": "16882",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Every last one!"
+},
+{
+"k": "16883",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Take your pick!"
+},
+{
+"k": "16884",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Both of you get over it."
+},
+{
+"k": "16885",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Both of you, knock it off and get the fuck over it."
+},
+{
+"k": "16886",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "When did this happen?"
+},
+{
+"k": "16887",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm gonna remember that when shit goes real bad for you."
+},
+{
+"k": "16888",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "When did all this happen?"
+},
+{
+"k": "16889",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It was *happening* for *years*!"
+},
+{
+"k": "16890",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Gross, Woody."
+},
+{
+"k": "16891",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[disgusted] Ugh. Woody... really?"
+},
+{
+"k": "16892",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[big sigh]"
+},
+{
+"k": "16893",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "That would have been a lot easier just *not* putting your dick in Troll meat."
+},
+{
+"k": "16894",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "The littler the better."
+},
+{
+"k": "16895",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "What the *Hell* would you know about it."
+},
+{
+"k": "16896",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedA}It wasn't. I never fucked her when she was Snow, {WorriedB}and I didn't know nothin' about that."
+},
+{
+"k": "16897",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I just wanted to spare everyone."
+},
+{
+"k": "16898",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[drunkenly sarcastic] Okay."
+},
+{
+"k": "16899",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[childishly bitter] Do whatever the fuck you want."
+},
+{
+"k": "16900",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Look, when Holly wakes up, just tell her again that I'm sorry, okay. Will you just do that for me."
+},
+{
+"k": "16901",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "She was nice.[beat] She was nice to me."
+},
+{
+"k": "16902",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "\"She was nice to him.\" What do you think about that, Sheriff?"
+},
+{
+"k": "16903",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Just don't tell me you were her fuckin' John."
+},
+{
+"k": "16904",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[plainly] Tell me you were in love![beat] I'll buy that."
+},
+{
+"k": "16905",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[plainly] Tell me you fell in love... that you cared about her more than anyone else... and I'll tell that to Holly, and she'll find a way to forgive you."
+},
+{
+"k": "16906",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Requires a lotta dexterity, I'd think."
+},
+{
+"k": "16907",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I've heard of some fucked up fetishes in my day..."
+},
+{
+"k": "16908",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "But screwing one sister while fucking over another... that's a new one."
+},
+{
+"k": "16909",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Woody messed up."
+},
+{
+"k": "16910",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I think Woody knows that what he did was wrong, so let's just close the book on this, alright."
+},
+{
+"k": "16911",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Gren, give it a rest."
+},
+{
+"k": "16912",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConfusedB}I think whatever happened was between them, {WorriedA}and Lily is dead, {WorriedB}so let's put this whole thing to rest, Gren."
+},
+{
+"k": "16913",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And the other is most definitely *not* you, Gren. So let's cut him some slack."
+},
+{
+"k": "16914",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I think this conversation's over."
+},
+{
+"k": "16915",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You wanna know what I think? I think this conversation's over."
+},
+{
+"k": "16916",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I also think I didn't come here to talk about this."
+},
+{
+"k": "16917",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You came for Lily's shit?"
+},
+{
+"k": "16918",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[tired] Why'd you come."
+},
+{
+"k": "16919",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I need to look through Lily's things."
+},
+{
+"k": "16920",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[getting tired] {body-SitA}{SadA}I don't know where Lily's shit is.[beat] {TiredA}Check Holly's room, I dunno."
+},
+{
+"k": "16921",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[sleepy]{body-SitA}{TiredA}Sleep walkers and trolls, I think that's the rule."
+},
+{
+"k": "16922",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[sleepy]Maybe ogres, too."
+},
+{
+"k": "16923",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[sleepy] So I wouldn't wake her if I were you."
+},
+{
+"k": "16924",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Thanks for the advice."
+},
+{
+"k": "16925",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Actually, Bigby, if you'll excuse me, it seems as if I'm gonna pass out."
+},
+{
+"k": "16926",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[sarcstic] Thanks for the--(advice][gets cut off]"
+},
+{
+"k": "16927",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I might have to."
+},
+{
+"k": "16928",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalB}If I can't find her stuff, I might {ThinkingA}have to--[gets cut off]"
+},
+{
+"k": "16929",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You're a waste of life."
+},
+{
+"k": "16930",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}You're such a waste of fuckin' --[gets cut off]"
+},
+{
+"k": "16931",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[falling asleep]What a fuckin' day."
+},
+{
+"k": "16932",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[tired]{TiredA}{body-SitA}What a day, am I right, Sheriff?"
+},
+{
+"k": "16933",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalA}Holly's sedated. That's why I'm here. She's resting now."
+},
+{
+"k": "16934",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{Sarcastic}Poor timing. They just closed up."
+},
+{
+"k": "16935",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I wouldn't think you the type, but..."
+},
+{
+"k": "16936",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It just-- there wasn't no sense in me stayin' in jail, she... she said so herself."
+},
+{
+"k": "16937",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "There's no way to wake Holly up?"
+},
+{
+"k": "16938",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{SuspiciousA}Ohhhhhh, no. {StonedB}And anyways, the doctor gave me strict orders to let the fine woman sleep."
+},
+{
+"k": "16939",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConcernedA}There's no way to wake her up?"
+},
+{
+"k": "16940",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "No way to wake Holly?"
+},
+{
+"k": "16941",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm after Crane."
+},
+{
+"k": "16942",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Not yet. Not entirely."
+},
+{
+"k": "16943",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Great. So you're wasted."
+},
+{
+"k": "16944",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{TiredA}We'll get to whatever you're {ConfusedA}here for in a sec."
+},
+{
+"k": "16945",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I haven't seen it..."
+},
+{
+"k": "16946",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}I'm after Crane, alright? {MockingB}The guy we all hate? {AngryA}And there's a time limit here, so {ConfusedB}try and focus for a minute."
+},
+{
+"k": "16947",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ThinkingA}Gren, Bigby didn't come here to get loaded with you."
+},
+{
+"k": "16948",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{StonedA}I haven't felt this good in a long time, fat boy..."
+},
+{
+"k": "16949",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And it's not just the drugs singing to me, okay."
+},
+{
+"k": "16950",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "So... *I* don't know what to do with you."
+},
+{
+"k": "16951",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryA}What else can I  fuckin' say, here?!"
+},
+{
+"k": "16952",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "It takes you to outer fucking space, I mean, what do you think. It's a drug, it knocks you out."
+},
+{
+"k": "16953",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingA}I suppose after the funeral..."
+},
+{
+"k": "16954",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{Sarcastic}A little hair of the dog couldn't hurt."
+},
+{
+"k": "16955",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And if you resist falling asleep like *I* am, you get really fuckin' high."
+},
+{
+"k": "16956",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Have yourself some kids."
+},
+{
+"k": "16957",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "What good did that do?"
+},
+{
+"k": "16958",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Well he *did*, okay? He *did* say something."
+},
+{
+"k": "16959",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[trying to wake him] {WorriedA}Gren."
+},
+{
+"k": "16960",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[muttering whisper] That must be Lily's things."
+},
+{
+"k": "16961",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[getting tired] The last thing she said before she conked out? \"Anyone touch Lily's shit, I'll take their teeth for a necklace.\""
+},
+{
+"k": "16962",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[sleepy] I don't know."
+},
+{
+"k": "16963",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[Snore-cough]"
+},
+{
+"k": "16964",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[trying to wake her up] {WorriedA}Holly."
+},
+{
+"k": "16965",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[trying to wake her up] {ConfusedB}Holly!"
+},
+{
+"k": "16966",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalA}[waking up groans]"
+},
+{
+"k": "16967",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[very tired] That you, Woody?"
+},
+{
+"k": "16968",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[huge, sleepy sigh]"
+},
+{
+"k": "16969",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Is that you..."
+},
+{
+"k": "16970",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Woody..."
+},
+{
+"k": "16971",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Yeah, sure."
+},
+{
+"k": "16972",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Woody?[beat] Why'd you fuck my baby sister..."
+},
+{
+"k": "16973",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Bar's closed.[beat] And Lily ain't around anyway, so... you can fly away back to the woods I guess..."
+},
+{
+"k": "16974",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[uncaring] {ConfusedB}Yeah, sure."
+},
+{
+"k": "16975",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Ran around too much..."
+},
+{
+"k": "16976",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]She was a nice girl..."
+},
+{
+"k": "16977",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]But a nice girl..."
+},
+{
+"k": "16978",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Of course I cared."
+},
+{
+"k": "16979",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] You coulda told me."
+},
+{
+"k": "16980",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] I'm lonely, too, but you don't see me doin' stuff like that..."
+},
+{
+"k": "16981",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Well that's somethin'."
+},
+{
+"k": "16982",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I was lonely.[beat] It wasn't anything more than that."
+},
+{
+"k": "16983",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I liked her.[beat] She was nice to me. I was nice to her... We kept each other company."
+},
+{
+"k": "16984",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Keepin' each other company... [disdainfully] That's somethin'..."
+},
+{
+"k": "16985",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm not the Woodsman."
+},
+{
+"k": "16986",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Mm? Bigby?"
+},
+{
+"k": "16987",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConfusedA}I'm not the Woodsman, Holly. {WorriedA}It's the Sheriff, it's Bigby."
+},
+{
+"k": "16988",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Did you care about her at all?"
+},
+{
+"k": "16989",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Bar's closed.[beat] And Lily ain't around anyway, so... you can run off back to the woods I guess..."
+},
+{
+"k": "16990",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] It's alright, I guess. You're tryin'."
+},
+{
+"k": "16991",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] I mean, I'm lonely, too, you don't think I'm fuckin' lonely..."
+},
+{
+"k": "16992",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedA}Of course I cared.[beat] {WorriedB}I still care."
+},
+{
+"k": "16993",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]I hope so.[beat] I hope you do."
+},
+{
+"k": "16994",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] I knew you were an asshole.[beat] Sittin' here every fuckin' night, gettin' free drinks..."
+},
+{
+"k": "16995",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConfusedB}I don't know, Holly."
+},
+{
+"k": "16996",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]I don't know why you fuckin' came here..."
+},
+{
+"k": "16997",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Sorry for what happened."
+},
+{
+"k": "16998",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'll make it up to you."
+},
+{
+"k": "16999",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Sure you will, kid...[sighs] When the rivers turn course... and the sky bleeds fuckin' gypsies."
+},
+{
+"k": "17000",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm sorry, Holly. I'm sorry for what happened..."
+},
+{
+"k": "17001",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm sorry you found out."
+},
+{
+"k": "17002",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm... sorry. I'm sorry you found out the way you did."
+},
+{
+"k": "17003",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Sure you will, kid...[sighs] When the rivers turn course... and the grapes grow on willow trees."
+},
+{
+"k": "17004",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Go back to sleep."
+},
+{
+"k": "17005",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Go to sleep, Holly. We'll talk in the morning."
+},
+{
+"k": "17006",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] I can't sleep..."
+},
+{
+"k": "17007",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]And I'm not in an entertaining mood."
+},
+{
+"k": "17008",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]There's nothin' left for you to ruin..."
+},
+{
+"k": "17009",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "No, it's me, Bigby."
+},
+{
+"k": "17010",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]And excuse me, but... I'm not in the mood for entertaining."
+},
+{
+"k": "17011",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Do you care about us?"
+},
+{
+"k": "17012",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "No, Holly. It's me. Bigby."
+},
+{
+"k": "17013",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Bar's closed."
+},
+{
+"k": "17014",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Bigby... bar's closed."
+},
+{
+"k": "17015",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm here for Lily's stuff."
+},
+{
+"k": "17016",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm just here for Lily's things, Holly. Go back to sleep."
+},
+{
+"k": "17017",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Do you even give a shit about us?[beat] The strays?"
+},
+{
+"k": "17018",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]The ones that aren't in that fancy high rise."
+},
+{
+"k": "17019",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Lily..."
+},
+{
+"k": "17020",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I care about every Fable."
+},
+{
+"k": "17021",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalB}You may not believe this, but... {WorriedB}yeah. I care about everyone who came over."
+},
+{
+"k": "17022",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]You're friends with your friends... and we ain't friends..."
+},
+{
+"k": "17023",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Believe you me."
+},
+{
+"k": "17024",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]I don't know about that, Sheriff..."
+},
+{
+"k": "17025",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Why'd you even come here?"
+},
+{
+"k": "17026",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm one of you."
+},
+{
+"k": "17027",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{WorriedB}Holly... just because I live in the Woodlands doesn't mean I'm not one of your \"strays.\""
+},
+{
+"k": "17028",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ThinkingB}I'm not Crane, or Cole. I didn't exactly grow up wearing clothes."
+},
+{
+"k": "17029",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Yeahhh.... I know you didn't."
+},
+{
+"k": "17030",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You make it hard sometimes."
+},
+{
+"k": "17031",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{MockingB}You know, {SarcasticB}you make it hard to sometimes."
+},
+{
+"k": "17032",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]Yeahhh... I know we do."
+},
+{
+"k": "17033",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep]There's nothin' here to investigate."
+},
+{
+"k": "17034",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] That wasn't right."
+},
+{
+"k": "17035",
+"who": "HOLLYTROLL",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[half-asleep] Or Faith..."
+},
+{
+"k": "17036",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "To say I was sorry."
+},
+{
+"k": "17037",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm tracking a lead."
+},
+{
+"k": "17038",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "To see Lily's things."
+},
+{
+"k": "17039",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'm just... I'm tracking a lead."
+},
+{
+"k": "17040",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I need to look through your sister's things."
+},
+{
+"k": "17041",
+"who": "FRIDAY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Something else blah blah"
+},
+{
+"k": "17042",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Aunty Greenleaf..."
+},
+{
+"k": "17043",
+"who": "MONDAY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Woodsman. 10:00 PM."
+},
+{
+"k": "17044",
+"who": "WEDNESDAY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Crane. 11:00 AM. (fire escape, second dress)"
+},
+{
+"k": "17045",
+"who": "THURSDAY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "No reservations yet."
+},
+{
+"k": "17046",
+"who": "TUESDAY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Aunty Greenleaf. 8:00 PM. (need new glamour tube)"
+},
+{
+"k": "17047",
+"who": "10",
+"ctx": "Fables103/env_bartriptrap",
+"en": "00   Crane (fire escape, second dress)\nEggs, garlic bread, light bulb."
+},
+{
+"k": "17048",
+"who": "4",
+"ctx": "Fables103/env_bartriptrap",
+"en": "00   Aunty Greenleaf (new glamour box)"
+},
+{
+"k": "17049",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Snow."
+},
+{
+"k": "17050",
+"who": "SNOW",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: phone] Business Office."
+},
+{
+"k": "17051",
+"who": "SNOW",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[processed: phone] Bigby. What's going on."
+},
+{
+"k": "17052",
+"who": "SWINEHEART",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{Professional}Well... I'll leave you to it, then. {NormalA}Goodnight, Bigby."
+},
+{
+"k": "17053",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I don't care what Snow said."
+},
+{
+"k": "17054",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}Do you think I care what Snow said? When I arrest someone, {AngryC}it's cause I want them arrested, {AngryA}not out on the town."
+},
+{
+"k": "17055",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[a little sad] C'mon, Bigby. What good would it do? You know I didn't kill her."
+},
+{
+"k": "17056",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "That's not important now."
+},
+{
+"k": "17057",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Get back to jail."
+},
+{
+"k": "17058",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}Luckily for you, I don't have the time to get pissed off about this right now."
+},
+{
+"k": "17059",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{AngryB}Stop whatever the Hell you're doing and go back to jail. {AngryC}Now."
+},
+{
+"k": "17060",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{TiredA}Okay, relax, big guy. {EvilA}He's a shithead, {ConfusedA}but he didn't kill anybody."
+},
+{
+"k": "17061",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[hey, pay attention]{AngryB}Fellas. I'm here for one thing: {AngryC}to look through Lily's belongings and get out of here. N{MockingB}ow--"
+},
+{
+"k": "17062",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{ConfusedA}Yeah, yeah, I know, I know, and I wanna help you, okay? {StonedA}And I will... {TiredA}but first indulge me, it'll take two seconds."
+},
+{
+"k": "17063",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[mildly threatening] And there's a bit of a time crunch, so..."
+},
+{
+"k": "17064",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{SadA}To the dead."
+},
+{
+"k": "17065",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "What could you possibly want to drink to with all that's happened."
+},
+{
+"k": "17066",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{EvilA}Not gonna hurt anybody."
+},
+{
+"k": "17067",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{TiredA}It's just a quick slug."
+},
+{
+"k": "17068",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Unless... you have a *problem* with that."
+},
+{
+"k": "17069",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "\"To the dead.\""
+},
+{
+"k": "17070",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[Don't Drink]"
+},
+{
+"k": "17071",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Fuck you, Gren. None of this was cause of me."
+},
+{
+"k": "17072",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[solemn] To the dead."
+},
+{
+"k": "17073",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[forcefully] Where is Holly?"
+},
+{
+"k": "17074",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[getting pissed] You'll talk to Holly or get her sister's shit or whatever the fuck you want to do when I *let* you, *Sheriff* and not a minute sooner!"
+},
+{
+"k": "17075",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And right now I wanna talk about why I don't have children, okay!"
+},
+{
+"k": "17076",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Gren, c'mon."
+},
+{
+"k": "17077",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Fuck off, Woody."
+},
+{
+"k": "17078",
+"who": "BIGBY",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[ice cold] You are going to take me to Lily's stuff, or Woody's gonna watch me make *damned* sure you *never* have kids."
+},
+{
+"k": "17079",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[angry] {AngryC}How many times you fuckin' gonna warn me about it, huh?! You're not my fuckin' mother, so just get off my back!"
+},
+{
+"k": "17080",
+"who": "WOODSMAN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "{NormalA}Gren, the doc said you needed to rest."
+},
+{
+"k": "17081",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "See, this is why I never had any children! They don't have *restraint*, no *self control*!"
+},
+{
+"k": "17082",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "The two of you *fuck up* everything you touch, King Midas's retarded shithead cousins!"
+},
+{
+"k": "17083",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "[cold] What do you care about any of this, huh."
+},
+{
+"k": "17084",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "You ripped off my *arm*, and you talk like you ran over my flowerbed!"
+},
+{
+"k": "17085",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "And this fucking guy!"
+},
+{
+"k": "17086",
+"who": "GREN",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Tearing off my arm was *fixing* stuff, right?"
+},
+{
+"k": "17087",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Woody, I have questions."
+},
+{
+"k": "17088",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "I'll let her know."
+},
+{
+"k": "17089",
+"who": "",
+"ctx": "Fables103/env_bartriptrap",
+"en": "Woody, get out."
+}
+]

@@ -1,0 +1,968 @@
+[
+{
+"k": "22204",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] Do you think this is tied to the murders?"
+},
+{
+"k": "22205",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] Mmm, maybe..."
+},
+{
+"k": "22206",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] I mean..."
+},
+{
+"k": "22207",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] I guess it doesn't matter yet."
+},
+{
+"k": "22208",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] We still have to find him."
+},
+{
+"k": "22209",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [reading] \"I'm sorry. I know this is late, but Snow may be starting to suspect the missing money. I'll get it to you soon. Ichabod Crane.\""
+},
+{
+"k": "22210",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] Okay."
+},
+{
+"k": "22211",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] No... I sent Bufkin to check on Bluebeard up at Crane's... when he gets back, I'll have him start looking for the record."
+},
+{
+"k": "22212",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] Bluebeard went to Crane's, of course... so you might want to see if he's found anything."
+},
+{
+"k": "22213",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] [processed: phone call] They'll have to have something about Greenleaf."
+},
+{
+"k": "22214",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[pickup2] They may have what I need at the Trip Trap. Just... just call Snow and tell her what's happened, okay? Can you do that for me?"
+},
+{
+"k": "22215",
+"who": "BEAUTY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[surprised] Oh, it's you."
+},
+{
+"k": "22216",
+"who": "BEAUTY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[annoyed] What are *you* doing here?"
+},
+{
+"k": "22217",
+"who": "BEAST",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[annoyed] What do *you* want?"
+},
+{
+"k": "22218",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[pointed] You need to tell me what you know."
+},
+{
+"k": "22219",
+"who": "NERISSA",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "I just wanted to come here and tell you..."
+},
+{
+"k": "22220",
+"who": "NERISSA",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[starting over]About what happened at the club earlier."
+},
+{
+"k": "22221",
+"who": "NERISSA",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Do you think people deserve second chances?"
+},
+{
+"k": "22222",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "And this is *not* the old days."
+},
+{
+"k": "22223",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "We are a community of laws."
+},
+{
+"k": "22224",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "We don't just go around killing people."
+},
+{
+"k": "22225",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "These are not the old days."
+},
+{
+"k": "22226",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "When people hear what you did to Dum... they're going to think you've gone back to your old ways."
+},
+{
+"k": "22227",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "What'd you wanna talk about?"
+},
+{
+"k": "22228",
+"who": "NERISSA",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[alt] I just wanted to..."
+},
+{
+"k": "22229",
+"who": "NERISSA",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[alt] [starting over] About last night..."
+},
+{
+"k": "22230",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "After what they did to you... are you even going to be able to stop them?"
+},
+{
+"k": "22231",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "This is getting worse by the minute."
+},
+{
+"k": "22232",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "I'll get things under control."
+},
+{
+"k": "22233",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "We don't have time to sit around and wait for their next move."
+},
+{
+"k": "22234",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Trust me. One day, *you'll* want me to the Big Bad Wolf again, too."
+},
+{
+"k": "22235",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Everybody wants me to act a certain way, until they have a problem they can't fix. Then they don't care how it's done."
+},
+{
+"k": "22236",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "*I* care."
+},
+{
+"k": "22237",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Can I rely on you to do this the right way?"
+},
+{
+"k": "22238",
+"who": "SNOW",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[alt] I don't want to just wait around to see what happens next."
+},
+{
+"k": "22239",
+"who": "WOODSMAN",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "This doesn't concern you!"
+},
+{
+"k": "22240",
+"who": "WOODSMAN",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[frustrated] Back off, Dog!"
+},
+{
+"k": "22241",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[angry] I'm not gonna tell you again."
+},
+{
+"k": "22242",
+"who": "BIGBY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Woody..."
+},
+{
+"k": "22243",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "You know that if I'm calling, you've already ignored"
+},
+{
+"k": "22244",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[matter of fact] I don't want it. You don't want it."
+},
+{
+"k": "22245",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[inconvenienced] Don't make me come down there to deal with you."
+},
+{
+"k": "22246",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "You guys already know that."
+},
+{
+"k": "22247",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "If you can't pay, there are *other* arrangements that can be made."
+},
+{
+"k": "22248",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[sarcastic, but delivered dry] Aww, the happy couple. [shifting gears] You know who this is."
+},
+{
+"k": "22249",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "But *you* have to step up to that plate."
+},
+{
+"k": "22250",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Do me proud."
+},
+{
+"k": "22251",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Ciao."
+},
+{
+"k": "22252",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "The time for friendly reminders has passed. [candid] And let's be honest, this doesn't fall to me unless it has."
+},
+{
+"k": "22253",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Another pick up for you. Be there in twenty minutes."
+},
+{
+"k": "22254",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "And *don't* be late this time."
+},
+{
+"k": "22255",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "No excuses."
+},
+{
+"k": "22256",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "That's the job. It's not for everybody. But you don't have much of a choice."
+},
+{
+"k": "22257",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[alt] No excuses this time."
+},
+{
+"k": "22258",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "These are on a tight schedule and we don't have room for fuck-ups."
+},
+{
+"k": "22259",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "We don't keep schedules just for the fun of it."
+},
+{
+"k": "22260",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Well, then... maybe this job isn't for you."
+},
+{
+"k": "22261",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "If you can't keep a schedule..."
+},
+{
+"k": "22262",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Then again, you don't have much choice at this point, do you?"
+},
+{
+"k": "22263",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "Twenty minutes. Synchronize watches... [long beat] now."
+},
+{
+"k": "22264",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "You know you're supposed to be checking your messages."
+},
+{
+"k": "22265",
+"who": "MARY",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "[laughs]"
+},
+{
+"k": "22266",
+"who": "SWINEHEART",
+"ctx": "Fables103/nexttimeon_episode4",
+"en": "He's lucky to be alive. And he won't be next time if he keeps going like this."
+},
+{
+"k": "22267",
+"who": "CRANE",
+"ctx": "Fables103/previouslyon_episode2",
+"en": "[solemn] {AngryA}But ever since we moved to this awful city... {SadA}everything's gotten so confused."
+},
+{
+"k": "22268",
+"who": "WOODSMAN",
+"ctx": "Fables103/previouslyon_episode2",
+"en": "[tired] I... I can't tell you anything."
+},
+{
+"k": "22269",
+"who": "BIGBY",
+"ctx": "Fables103/previouslyon_episode2",
+"en": "{AngryC}I just want you to be careful. {WorriedA}I almost lost you once, and--"
+},
+{
+"k": "22270",
+"who": "BEAUTY",
+"ctx": "Fables103/previouslyon_episode2",
+"en": "[in shock] {body-StandA}{NervousA}Oh my {SurpriseA}God."
+},
+{
+"k": "22271",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "A Crooked Mile"
+},
+{
+"k": "22272",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "WRITTEN BY\nAdam Hines - Lead\nNicole Martinez\n\nDESIGNED BY\nRyan Kaufman - Lead\nJoe Pinney\nJohn Drake\n\nDIRECTED BY\nMartin Montgomery\n\nART DIRECTION\nDavid Bogan\n\nMUSIC BY\nJared Emerson-Johnson\n\nCONTENT PROGRAMMING\nKeenan Patterson - Lead\nCarl Muckenhoupt\nJohn Mauldin\nJason Reis\nJason Kim\n\nANIMATION\nJeff Sarre - Lead\nTyler Helton\nArmando LLuch\nWest Munz\nRJ Torralba\n\nCINEMATIC ARTISTS\nRyan Wetherall - Lead\nBridget Bougan\nAiryque Ervin\nJavier J. Espinoza\nMartin Montgomery\nKent Mudle\nChristopher Rieser\nJonathan Stauder\nEric Stirpe\nVahram Antonian\nAdam Waters\nMichael Gambino\nVanessa Blair\nAnthony Tso\nAshley Ruhl\nJason Pyke\nSean Manning\nDavid Ramirez Ch.\nGrady Standard\n\nENVIRONMENT ARTISTS\nKim Lyons - Lead\nBrian Gillies\nMark Sheppard\nJan Wyss\nAmanda Stewart\n\nCHARACTER LIGHTING\nDave Bogan\n\nCHARACTER ARTISTS\nMegan Gritzfeld\nSteven Moore\n\nUSER INTERFACE\nD. Reed Monroe - Lead\nCrystal Rogers\nTodd Colby\nHain Lee\n\nSOUND DESIGN\nLazar Levine - Lead\nJack Fusting\nNick Mastroianni\nScott Gilmore\n\nCONCEPT ARTISTS\nGray Rogers\nDerek Stratton\nJesse Maccabe\nRyan Jones\n\nTECHNICAL ART AND EFFECTS\nMichael Perretta\nBrian Eby\nNora Magyar\nAlex Jacobs\n\nEXECUTIVE PRODUCERS\nDan Connors\nKevin Bruner\nBrett Tosti\n\nPRODUCER\nChris Schroyer\n\nASSOCIATE PRODUCER\nPeter Cornforth\n\nASSISTANT PRODUCER\nArthur von Nagel\nChris Plumer\nJeff Armstead\n\nBUILD & DISTRIBUTION\nMark Gabby\nMario Valencia\n\nQA TESTING\nChristopher Donnelley - Lead\nKory Harsh\nAdam Brown\nBen Knoll\nBen Vizcaino\nDavid Mahoney\nEvan Koepf\nHannah Bradshaw Lozier\nMichael Vallejo\nHelena Norton\nJonathan Rozmarin\nJoshua Zygman\nMatthew Paris\nMax Ince\nWilliam Wheeler\nDevin McCarthy\n\nADDITIONAL ART\nShawn Shain\nMike Sherak\nCalvin Huang\nMolly Maloney\nMatthew Paris\n\nADDITIONAL ANIMATION\nJanel Drewis\n\nADDITIONAL ART SERVICES\nOriginal Force\nHydrogen Whiskey\nSuper Genius\n\nADDITIONAL QA SERVICES\nVMC Game Labs\nPole To Win\n\nVOICE DIRECTION\nJulian Kwasneski\nJared Emerson-Johnson\n\nVOICE PRODUCTION\nJulian Kwasneski\n\nVOICE RECORDING\nTim Galida\nJory Prum\nLarry Winer\nSpencer Herzog\nMark Estdale\n\nDIALOG EDITING\nConnor Stock\n\n\n\nCAST\n\nBIGBY WOLF\nAdam Harrington\n\nSNOW WHITE\nErin Yvette\n\nICHABOD CRANE\nRoger Jackson\n\nGEORGIE\nKevin Howarth\n\nBLUEBEARD\nDave Fennoy\n\nJACK HORNER\nColin Benoit\n\n\n\n\nNERISSA\nMolly Benson\n\nGRENDEL\nKid Beyond\n\nTHE WOODSMAN\nAdam Harrington\n\nBEAST\nGavin Hammon\n\nBEAUTY\nMelissa Hutchison\n\nBUFKIN\nChuck Kourouklis\n\nDEE / DUM\nGavin Hammon\n\n\n\n\n\nVIVIAN\nSandy Delonga\n\nHOLLY\nJanet Lipsey\n\nLAWRENCE\nAnthony Lam\n\nFLYCATCHER\nDustin Rubin\n\nRACHEL / AUNTIE GREENLEAF\nLaura Bailey\n\nBLOODY MARY\nKat Cressida\n\n\n\nCREATED WITH THE TELLTALE TOOL\nKevin Bruner\nJonathan Sgro\nRandy Tudor\nZacariah Litton\nBen Ingram\nDavid Brady\nDavid Bromberg\nAlex Montgomery\nTim Ingram\nChris Bauer\nGuy Somberg\nMarcus Whitlock\nMichael Eads\n\n\n\n\nTELLTALE GAMES, INC\n\nCEO \nDan Connors\n\nPRESIDENT & CTO\nKevin Bruner\n\nHEAD OF STUDIO\nColum Slevin\n\nCFO\nKathy McElwee\n\nSENIOR VICE PRESIDENT OF PUBLISHING\nSteve Allison\n\nVICE PRESIDENT OF ENGINEERING\nZacariah Litton\n\nCREATIVE DEVELOPMENT DIRECTOR\nStephan Vladimir Bugaj\n\nDIRECTOR OF ART DEPARTMENT\nDave Bogan\n\nSUPERVISING DIRECTOR\nDennis Lenart\n\nDIRECTOR OF DESIGN\nRyan Kaufman\n\nDIRECTOR OF PRODUCTION TECHNOLOGIES\nJonathan Sgro\n\nDIRECTOR OF PRODUCTION SERVICES\nDave Felton\n\nTECHNOLOGY PRODUCER\nTrevor McCann\n\nTECHNICAL DIRECTOR\nMichael Perretta\n\nRELEASE AND SUBMISSION MANAGER\nEmmy Bautista\n\nSENIOR DIRECTOR OF MARKETING\nRichard Iggo\n\nSENIOR MARKETING AND RELEASE MANAGER\nJonathan \"JR\" Rosales\n\nDIRECTOR OF PUBLIC RELATIONS\nJob J. Stauffer\n\nCOMMUNITY AND PR SPECIALIST\nLaura Perusco\n\nSENIOR CREATIVE SERVICES MANAGER\nPaolo Asuncion\n\nMARKETING MEDIA PRODUCER\nShaun Finney\n\nVIDEO EDITOR\nMary Stark\n\nLEAD WEB ARCHITECT\nMichael Lindsay\n\nSENIOR SERVER ENGINEER\nJohn Gamble\n\nWEB DEVELOPMENT\nMichael Lindsay\nJesse Wagstaff\n\nPRODUCT SUPPORT\nMatthew Pedonti\nEvan Koepf\nMichael Vallejo\n\nIT DIRECTOR\nStan Shambaugh\n\nIT\nKelly Robertson\n\nFINANCE & OPERATIONS\nBetsy Delis\nRhoda Gravador\nSerena Sinn\n\nRECRUITING\nJonathan Khalife\nSarah Roth\n\nLEGAL\nMark Barbolak\n\n\n\nWARNER BROS. INTERACTIVE ENTERTAINMENT\n\nPRODUCER\nGeoff Bent\n\nVICE PRESIDENT, PRODUCTION DIGITAL\nChris Miller\n\nVICE PRESIDENT, PRODUCTION DC FRANCHISES\nAmes Kirshen\n\nMANAGER PRODUCTION SERVICES\nJamie O'Brien Moore\n\nEXECUTIVE ASSISTANT\nNicole Scates\n\nMANAGER, RIGHTS & CLEARANCES\nJane Elms\n\nMARKETING ASSOCIATE\nSaena Park\n\nMANAGER, BRAND MARKETING\nDavid Lebovic\n\nDIRECTOR, BRAND MARKETING\nJeff Neinstein\n\nVICE PRESIDENT, BRAND MARKETING\nStephanie Johnson\n\nPR MANAGER\nKehau Rodenhurst\n\nPR SPECIALIST\nGenna Forkey\n\nVICE PRESIDENT, PUBLIC RELATIONS\nRemi Sklar\n\nDIRECTOR, BUSINESS DEVELOPMENT & LICENSING\nBen Elliot\n\nVICE PRESIDENT, BUSINESS DEVELOPMENT\nScott Johnson\n\nVICE PRESIDENT & ASSOCIATE GENERAL COUNSEL\nJennifer Stump\n\nVICE PRESIDENT, FINANCE AND ADMINISTRATION\nSteve Chalk\n\nSENIOR VICE PRESIDENT, WORLDWIDE MARKETING\nRussell Arons\n\nSENIOR VICE PRESIDENT, PRODUCTION & DEVELOPMENT\nSamantha Ryan\n\nSENIOR VICE PRESIDENT, BUSINESS DEVELOPMENT\nDebra Baker\n\nSENIOR VICE PRESIDENT, SALES, AMERICA\nKevin Kebodeaux\n\nSENIOR VICE PRESIDENT, GAMES, EU\nOlivier Wolff\n\nPRESIDENT\nMartin Tremblay\n\n\n\nDC ENTERTAINMENT\n\nCHIEF CREATIVE OFFICER\nGeoff Johns\n\nCREATIVE DIRECTOR, INTERACTIVE\nPatrick McCallum\n\nCREATIVE ASSOCIATE, INTERACTIVE\nRandy Ma\n\nPRESIDENT\nDiane Nelson \n\nCO-PUBLISHERS\nDan DiDio and Jim Lee\n\nEXECUTIVE VP - SALES, MARKETING AND BUSINESS DEVELOPMENT\nJohn Rood\n\nSENIOR VP - BUSINESS AND LEGAL AFFAIRS\nAmy Genkins\n\nSENIOR VP - FINANCE\nNairi Gardiner\n\n\n\n\nSPECIAL THANKS\n\nAdam, Mom and E\nAmber \"Beast\" von Nagel\nB.J. & Katie Colby\nBob and Becka Montgomery, Joel and Elaine Montgomery, J.T. and Mary Evelyn O'Neil\nC.P.K. & Slimgoodie\nDanielle \"Bubbles\" Bysouth\nDeena Mustin, Peter Canada, Luis, Alicia and Miguel Rosales, Alyn and Oscar Maynez, Dustin Garza, Stephen Nasrat\nDeena, Dane, Mom and Dad\nDianne, Carl and Tom Gambino.\nElvia Arenales, Ociel Solano, Ace Waters, Loris Waters\nHeather Dugger\nHitoshi and Yumiko Suzuki\nJason Rogers, Aidan Rogers &  the Baucom Gang\nJen, Noah and Aaron Sarre\n\n\n\nJi Yeon Shin and Orlando LLuch\nJohn and Angel Armstead\nJohn, Jackson & Cooper Lyons\nJohnny Owens\nJondy Lee\nJoy & Grace Brown\nLinda Martinez and Joshua Mobley\nMarie and Chrisee Vizcaino\nMegan Murphy\nMike, Heidi, Laura, Ashley, and Ben\nMonica Burrowes\nNatalie Helton\nNicole, Enzo and Antonello Munz\nOwen and Luke Sgro\nPaula Ramirez Ch.\nProf. Jonathan Ferguson\nRobert Hodsdon\nRosemary Montgomery\n\n\n\nSherry & Tom Bougan\nSteph, Mom & Dad\nThe Bradshaw-Lozier Family\nThe Mannings, The Riggs', and Jenny \"The Thug Unit\" Hamlin\nThe Perusco family, Jeff Sinclair\nThe Rhode Island Stirpes\nThe Vallejo Family\nTorralba Clan\nZoe Shepard-Monson\n\n\nand You\n\n\n\nVERY SPECIAL THANKS\nBill Willingham\nMark Buckingham\n\n\n\nTELLTALE PETS\nAllie & Carmen\nArthur\nBofurd\nBuffy and Scout\nCharlie \"Bob\" Plumer & Mr. Lloyd Dobler\nCharlotte & Howl\nCody the Snuggle Nugget\nDudley Hines\nGabby the Cat\nGarrus, Ratchet\nHenry aka Jeremy the Magnificent\nJack Roth\nJacknLuna\nJake & Agro\n\n\n\nJinro\nKarma\nLizzie\nLuna & Vincent\nMaggie 'The Wags' Mae\nMighty Pirate Pete\nMojo Jojo\nMojo Ovdi Jojo\nMy boi Blu and Chewie the One Eyed Wonder Pup\nNarasimha & Manashthala\nNeji & Yoshi\nNo\nOdo\nOllie\n\n\n\nPeek-a-Boo the Cat\nPickles and Cheese\nPixel and Dolce\nPrincess Melody Belle Fluffybottom\nQuint and Hooper\nSage\nSnarffles\nSophie\nStitch\nTangle\nTobexter the Statue Dog\nTopanga\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBased upon the Vertigo comic book series 'FABLES' by Bill Willingham\n\n\n\n(C) Bill Willingham and DC Comics\nFABLES: TM Bill Willingham\nWBIE LOGO, WB SHIELD: TM & (C) Warner Bros. Entertainment Inc.\n(s13)\n\nPortions Copyright\nFirelight Technologies\nPortions Copyright\n(C) 2002 Jean-Marc Valin"
+},
+{
+"k": "22273",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "Martin Montgomery"
+},
+{
+"k": "22274",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "Ryan Wetherall"
+},
+{
+"k": "22275",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "Dan Connors"
+},
+{
+"k": "22276",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "Adam Hines\nRyan Kaufman"
+},
+{
+"k": "22277",
+"who": "",
+"ctx": "Fables103/ui_credits",
+"en": "\"A CROOKED MILE\""
+},
+{
+"k": "22278",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Tweedle Office"
+},
+{
+"k": "22279",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Crane's Apartment"
+},
+{
+"k": "22280",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "DEE'S OFFICE"
+},
+{
+"k": "22281",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "HOLLY'S BAR"
+},
+{
+"k": "22282",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "CRANE'S APARTMENT"
+},
+{
+"k": "22283",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Rachel"
+},
+{
+"k": "22284",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Aunty Greenleaf"
+},
+{
+"k": "22285",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Mary"
+},
+{
+"k": "22286",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Jack noticed that."
+},
+{
+"k": "22287",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "The Tweedles will remember that."
+},
+{
+"k": "22288",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Gren will remember that."
+},
+{
+"k": "22289",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Flycatcher will remember that."
+},
+{
+"k": "22290",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Gren won't remember this."
+},
+{
+"k": "22291",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Rachel will remember that."
+},
+{
+"k": "22292",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Auntie Greenleaf will remember that."
+},
+{
+"k": "22293",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "The Buckingham Bridge"
+},
+{
+"k": "22294",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "10:28 PM"
+},
+{
+"k": "22295",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "11:43 PM"
+},
+{
+"k": "22296",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Ichabod Crane's Apartment"
+},
+{
+"k": "22297",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "The Tweedle Brothers' Office"
+},
+{
+"k": "22298",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Flycatcher noticed your silence."
+},
+{
+"k": "22299",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "12:05 AM"
+},
+{
+"k": "22300",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1:02 AM"
+},
+{
+"k": "22301",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "12:35 AM"
+},
+{
+"k": "22302",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "12:52 AM"
+},
+{
+"k": "22303",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "12:38 AM"
+},
+{
+"k": "22304",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1:15 AM"
+},
+{
+"k": "22305",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1 hour and 55 minutes left"
+},
+{
+"k": "22306",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "58 minutes left"
+},
+{
+"k": "22307",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1 hour and 25 minutes left"
+},
+{
+"k": "22308",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1 hour and 8 minutes left"
+},
+{
+"k": "22309",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1 hour and 22 minutes left"
+},
+{
+"k": "22310",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "45 minutes left"
+},
+{
+"k": "22311",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Auntie Greenleaf's Apartment"
+},
+{
+"k": "22312",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "2:14 AM"
+},
+{
+"k": "22313",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You agreed to a deal."
+},
+{
+"k": "22314",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Snow will remember this."
+},
+{
+"k": "22315",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You took Crane's money."
+},
+{
+"k": "22316",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You noticed a letter to the Crooked Man."
+},
+{
+"k": "22317",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You noticed a package from the Butcher."
+},
+{
+"k": "22318",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You helped Flycatcher get his job back."
+},
+{
+"k": "22319",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You killed Tweedle Dum."
+},
+{
+"k": "22320",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You let Tweedle Dum live."
+},
+{
+"k": "22321",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "14 minutes late"
+},
+{
+"k": "22322",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "1284 White Plains Ave."
+},
+{
+"k": "22323",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You declined the offer."
+},
+{
+"k": "22324",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "They noticed your silence."
+},
+{
+"k": "22325",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You interrupted Snow's eulogy."
+},
+{
+"k": "22326",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "You waited for Snow to finish."
+},
+{
+"k": "22327",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "They noticed that."
+},
+{
+"k": "22328",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Find the witch."
+},
+{
+"k": "22329",
+"who": "",
+"ctx": "Fables103/ui_episode",
+"en": "Snow won't forget that."
+},
+{
+"k": "22330",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Expecting someone else?"
+},
+{
+"k": "22331",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Snow sent me"
+},
+{
+"k": "22332",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I took things too far?"
+},
+{
+"k": "22333",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Sorry about your eyes"
+},
+{
+"k": "22334",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Fine, but..."
+},
+{
+"k": "22335",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "<pointed> This isn't like keeping a name out of a case file."
+},
+{
+"k": "22336",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Calls from the Tweedles?"
+},
+{
+"k": "22337",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Who has been calling?"
+},
+{
+"k": "22338",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "That's easy to say when it's not your wife there."
+},
+{
+"k": "22339",
+"who": "<<ID",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{364A421D-82E4-4F5D-8BDC-AEDB1F687C65}>>"
+},
+{
+"k": "22340",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Look, I can't leave til I hear what you have to say about the Crooked Man. So can we get to the point?"
+},
+{
+"k": "22341",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{ThinkingA}[surprised]Oh, it's you."
+},
+{
+"k": "22342",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{ConfusedB}[surprised]Oh."
+},
+{
+"k": "22343",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Oh, it's you. What are you doing here?"
+},
+{
+"k": "22344",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Bigby. What do you want?"
+},
+{
+"k": "22345",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{suspiciousa}Well?"
+},
+{
+"k": "22346",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What's this about?"
+},
+{
+"k": "22347",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}Listen, I've had a shitty night..."
+},
+{
+"k": "22348",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}Well, you're not the only one."
+},
+{
+"k": "22349",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{doubtfula}Okay, I--"
+},
+{
+"k": "22350",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}[leaning in] You know, if you had just kept your mouth shut about me, Beast wouldn't have lost his head over at the Open Arms."
+},
+{
+"k": "22351",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}I lost my job because of you. I needed that."
+},
+{
+"k": "22352",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{annoyedb}Well, I didn't call. Must have been Beauty. She's been... surprising me a lot lately."
+},
+{
+"k": "22353",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}So have you, Bigby."
+},
+{
+"k": "22354",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angryb}If you had just told me what was going on, things would have been different at that... at that shithole."
+},
+{
+"k": "22355",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "I didn't tell her to go to work at the Open Arms."
+},
+{
+"k": "22356",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Try not to hold it against her. She had good intentions."
+},
+{
+"k": "22357",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "That's easy to say when it's not your wife."
+},
+{
+"k": "22358",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{doubtfula}Just consider yourself lucky I had other things to do."
+},
+{
+"k": "22359",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "That's funny, 'cause you're always sticking your nose where it doesn't belong."
+},
+{
+"k": "22360",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{annoyedb}No, I guess you wouldn't have anything to say about that."
+},
+{
+"k": "22361",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You can't blame me for getting ."
+},
+{
+"k": "22362",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}Even if she was just working the desk..."
+},
+{
+"k": "22363",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{doubtfula}Are you gonna let me in or what?"
+},
+{
+"k": "22364",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "You're not the only one who can bust down doors, you know."
+}
+]

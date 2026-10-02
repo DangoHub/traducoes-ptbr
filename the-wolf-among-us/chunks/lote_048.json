@@ -1,0 +1,1616 @@
+[
+{
+"k": "12614",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Detective Brannigan. Or, just plain \"detective\" if you like."
+},
+{
+"k": "12615",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{ThinkingA}You got a name?"
+},
+{
+"k": "12616",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Am I free to go?"
+},
+{
+"k": "12617",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What are you doing to find the killer?"
+},
+{
+"k": "12618",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Am I being charged with anything?"
+},
+{
+"k": "12619",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I need to get out of here."
+},
+{
+"k": "12620",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtfulA}I guess this makes you the \"good cop.\""
+},
+{
+"k": "12621",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}{body-SitA}We'll see."
+},
+{
+"k": "12622",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}{body-SitB}I'm sure you'll be happy to know that officer Wachowski is fine, and he's agreed not to take any legal action. {body-SitA}{WorriedA}I know you were upset last night. But in the future, {AngryA}please try to control yourself around my crime scenes. {WorriedA}That'll give me a better chance to catch this young woman's killer."
+},
+{
+"k": "12623",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}[to no one]Damn these chairs.{NormalB}"
+},
+{
+"k": "12624",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalA}I'm doing exactly what I {NormalB}need to be doing."
+},
+{
+"k": "12625",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{NormalA}What are you doing to find the killer? {DoubtfulA}Got any leads?"
+},
+{
+"k": "12626",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{ThinkingA}That depends.{body-SitB}"
+},
+{
+"k": "12627",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}{body-SitArmsDesk}Are you going to charge me with anything?"
+},
+{
+"k": "12628",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'd like to leave now."
+},
+{
+"k": "12629",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'd really like to leave now, if you don't mind."
+},
+{
+"k": "12630",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}{body-SitA}I'm going to ask you some questions.  Cooperate with me, {HappyA}{body-SitB} answer them honestly, you can go home."
+},
+{
+"k": "12631",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedA}Maybe get some sleep."
+},
+{
+"k": "12632",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I know you were upset last night. But in the future, please try to control yourself around my crime scenes."
+},
+{
+"k": "12633",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You and Miss White {body-SitB}worked {ThinkingA}together at the Woodland Luxury Apartments."
+},
+{
+"k": "12634",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}{body-SitArmsDesk}What am I doing here?"
+},
+{
+"k": "12635",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ConfusedB}Right… things are a little foggy, after…"
+},
+{
+"k": "12636",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You did punch out a cop last night."
+},
+{
+"k": "12637",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{MockingB}{body-SitArmsDesk}Am I free to go? {WorriedA}{body-SitA}There are things I need to do."
+},
+{
+"k": "12638",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Evidence Bin"
+},
+{
+"k": "12639",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Mirror"
+},
+{
+"k": "12640",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Camera"
+},
+{
+"k": "12641",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Wire"
+},
+{
+"k": "12642",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Birth Certificates"
+},
+{
+"k": "12643",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Arrest Report"
+},
+{
+"k": "12644",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Autopsy Box"
+},
+{
+"k": "12645",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Interrogation Room"
+},
+{
+"k": "12646",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Observation Room"
+},
+{
+"k": "12647",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Tape Deck"
+},
+{
+"k": "12648",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Tape"
+},
+{
+"k": "12649",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Hallway"
+},
+{
+"k": "12650",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Case File"
+},
+{
+"k": "12651",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Photograph"
+},
+{
+"k": "12652",
+"who": "COVERAGE FOR",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "1) Crane while Bigby is in the hallway\n2) Crane voice while Bigby is in the Interrogation Room = sounds like it's coming from down the hallway\n3) Crane voice while Bigby is in the observation room = he's nearer but still in the hallway"
+},
+{
+"k": "12653",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[PickUp1] [To himself] {Body-StandA}{ThinkingB}She's gonna wake up soon."
+},
+{
+"k": "12654",
+"who": "MUNDYCOP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[PickUp1] [over static] Steve? Hello? [to someone nearby, slightly quieter] He's not answering either…"
+},
+{
+"k": "12655",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[PickUp1] [Urgent] {Body-StandA}{AngryA}Hurry up. Someone's been trying to contact the station."
+},
+{
+"k": "12656",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[PickUp1] {Body-StandA}{WorriedA}We might have company in a minute here."
+},
+{
+"k": "12657",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[PickUp1] [urgent] {Body-StandA}{AnnoyedA}The effects are wearing off. {AngryA}They'll be coming around soon."
+},
+{
+"k": "12658",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Notepad"
+},
+{
+"k": "12659",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[check recorded material] [sigh]"
+},
+{
+"k": "12660",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]No. This interrogation is over."
+},
+{
+"k": "12661",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]That's your opinion. You can take it up with the captain."
+},
+{
+"k": "12662",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][stern, cool]I'm afraid there's some concern about how this case is being handled."
+},
+{
+"k": "12663",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][increasingly insistent]Mr. Wolf. Mr. Wolf. Mr. Wolf!"
+},
+{
+"k": "12664",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Bigby!"
+},
+{
+"k": "12665",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Transfer of jurisdiction. We're handing over the whole case to the FBI, I'm afraid."
+},
+{
+"k": "12666",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][agreeing]No, it isn't."
+},
+{
+"k": "12667",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You, come with me."
+},
+{
+"k": "12668",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]I'll need these files, as well."
+},
+{
+"k": "12669",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Nice glamour, Crane."
+},
+{
+"k": "12670",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]It had better be, it was expensive."
+},
+{
+"k": "12671",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]This whole escapade has been a disaster."
+},
+{
+"k": "12672",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Transfer of jurisdiction. Our agency is assuming control as of now."
+},
+{
+"k": "12673",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Actually, it is."
+},
+{
+"k": "12674",
+"who": "COP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][clears throat]"
+},
+{
+"k": "12675",
+"who": "COP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Gotta let this guy go."
+},
+{
+"k": "12676",
+"who": "COP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Sorry, not a joke. He must know the mayor or something. Anyways, I gotta take him."
+},
+{
+"k": "12677",
+"who": "COP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Captain's orders. Go on and ask him."
+},
+{
+"k": "12678",
+"who": "COP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][increasingly insistent]OK, come on, Mr. Wolf. Mr. Wolf. Mr. Wolf!"
+},
+{
+"k": "12679",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][fake, businesslike]Oh dear, someone appears to have dropped something."
+},
+{
+"k": "12680",
+"who": "COP",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][thanks for the bribe]I'll see that the rightful owner is found."
+},
+{
+"k": "12681",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]This interrogation is over."
+},
+{
+"k": "12682",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Sometimes the simplest approach is best."
+},
+{
+"k": "12683",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[genuine] {normalb}Maybe get some sleep."
+},
+{
+"k": "12684",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][Somber, anything but] I'm hunky dory. Thanks for asking."
+},
+{
+"k": "12685",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I need to find the killer."
+},
+{
+"k": "12686",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][simmering] I'll be better when I find who did this… [beat]which I can't do while sitting in here."
+},
+{
+"k": "12687",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm pissed off."
+},
+{
+"k": "12688",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]I'd like to smash everything in this room."
+},
+{
+"k": "12689",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][nonchalant] Depends on how much you like the furniture."
+},
+{
+"k": "12690",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]I'm feeling pretty fucking pissed off right now, if I'm honest."
+},
+{
+"k": "12691",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You don't know who did it."
+},
+{
+"k": "12692",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I don't think you do."
+},
+{
+"k": "12693",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Then it's probably not the first time you've heard it today. Maybe you should take a hint… you're a detective, right?"
+},
+{
+"k": "12694",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Well, I'd appreciate if you'd fuck off."
+},
+{
+"k": "12695",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Ya know, I hate to say it, but I don't think you do."
+},
+{
+"k": "12696",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You don't know anything. If you did, you wouldn't be sitting here talking to me. You'd be talking to the piece of shit that did this."
+},
+{
+"k": "12697",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]What is it with you cops always trying to empathize with people?"
+},
+{
+"k": "12698",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]No? Didn't think so."
+},
+{
+"k": "12699",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Your nose is bleeding."
+},
+{
+"k": "12700",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You missed a spot."
+},
+{
+"k": "12701",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You look nuts."
+},
+{
+"k": "12702",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Are you… okay?"
+},
+{
+"k": "12703",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You missed a spot."
+},
+{
+"k": "12704",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You… You just smeared it… across your face."
+},
+{
+"k": "12705",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You got a tissue or something?"
+},
+{
+"k": "12706",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You look nuts right now. You realize that, right?[beat] It's kinda hard to take this seriously with that all over your face.[beat] It's weird."
+},
+{
+"k": "12707",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]You don't look so good."
+},
+{
+"k": "12708",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]Detective Brannigan?"
+},
+{
+"k": "12709",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][beat]Uh, yeah. I know… I just said that. Is there something--"
+},
+{
+"k": "12710",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]What did you do to her?"
+},
+{
+"k": "12711",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]What the fuck is going on?"
+},
+{
+"k": "12712",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2]What are you doing here?"
+},
+{
+"k": "12713",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{worrieda}How are you feeling?"
+},
+{
+"k": "12714",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I know spending the night in a holding cell can't be pleasant, but your behavior last night was a little…concerning."
+},
+{
+"k": "12715",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Look…"
+},
+{
+"k": "12716",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] [raised voice] {angrya}Mr. Wolf!"
+},
+{
+"k": "12717",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] [calming a bit] {worrieda}You're making this more difficult than it has to be."
+},
+{
+"k": "12718",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] {normalB}If you'd just cooperate and answer the questions,{thinkinga} you can go home."
+},
+{
+"k": "12719",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] {thinkinga}You look like you could use some rest."
+},
+{
+"k": "12720",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] {normalb}I know it's been a long night for you."
+},
+{
+"k": "12721",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] [keeping her cool] {thinkinga}There's no need to get aggressive. I'm trying to help you."
+},
+{
+"k": "12722",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] [keeping her cool]{thinkinga} We all want the same thing here, Bigby."
+},
+{
+"k": "12723",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt1] [pretty long beat][keeping her cool]{thinkinga}I didn't think that was funny… in case you were waiting for me to laugh."
+},
+{
+"k": "12724",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt]{doubta} Nice."
+},
+{
+"k": "12725",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt] {normalb}Look… {paina}I know what you must be going through…"
+},
+{
+"k": "12726",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt] {paina}…but I could use your cooperation."
+},
+{
+"k": "12727",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt]{normalb}Really, I do…"
+},
+{
+"k": "12728",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2] [alt] [a little heated] {doubta}Well, you stonewalling me like this isn't helping either of us, {angrya}so why don't you cut the shit and…"
+},
+{
+"k": "12729",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2] [alt] [calm, collected] I'm trying to help you, Bigby."
+},
+{
+"k": "12730",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2] [alt] [seeing he's right] {normalb}Of course… {worrieda}you're… you're right. I can't imagine what you're going through right now."
+},
+{
+"k": "12731",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2] [alt] [as if to say gimme a break]{thinkinga}Bigby… I've been interviewing people all night."
+},
+{
+"k": "12732",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{painx}[pickup2] [alt] [small, scared] Do you hear that?"
+},
+{
+"k": "12733",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2][alt2][deadpan] That's hilarious. [beat] This is what I sound like when I think things are hilarious."
+},
+{
+"k": "12734",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[pickup2] [alt] [genuine/sarcastic] {thinkinga}That's very helpful. Thank you."
+},
+{
+"k": "12735",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{painx}[pickup2] [alt][pleading] make it stop… please."
+},
+{
+"k": "12736",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{painx}[pickup2] [alt][pleading] I'm sorry, just…"
+},
+{
+"k": "12737",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{paina}[pickup2] [alt][pleading] Please… please…"
+},
+{
+"k": "12738",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[new ID]{worrieda}I'm Detective Brannigan."
+},
+{
+"k": "12739",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Don't answer]"
+},
+{
+"k": "12740",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Smoke]"
+},
+{
+"k": "12741",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[mocking, sincere voice] \"I know this must be hard for you.\" Do you? Do you fucking know? Have you had a friend killed and their head left at your fucking doorstep?"
+},
+{
+"k": "12742",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Why are you here?"
+},
+{
+"k": "12743",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "Welcome to Puddin' N Pie."
+},
+{
+"k": "12744",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "What a shame"
+},
+{
+"k": "12745",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "No thanks, I'm on duty."
+},
+{
+"k": "12746",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Know Charlotte?"
+},
+{
+"k": "12747",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Where's Your Boss"
+},
+{
+"k": "12748",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "They call me Narissa"
+},
+{
+"k": "12749",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "Charlotte is a sweet girl."
+},
+{
+"k": "12750",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "If you're looking for\nGeorgie, then I think he's around here someplace."
+},
+{
+"k": "12751",
+"who": "NERISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "Here, take this.  You should put that away, it's your good luck charm, now."
+},
+{
+"k": "12752",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Hey buddy, the place is closed!  Come back later."
+},
+{
+"k": "12753",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Blame Nerissa"
+},
+{
+"k": "12754",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Let Myself In"
+},
+{
+"k": "12755",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Dodge Question"
+},
+{
+"k": "12756",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Nerissa let me in, Georgie."
+},
+{
+"k": "12757",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I let myself in, Georgie."
+},
+{
+"k": "12758",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Never mind how I got in here, Georgie.  I have  a few questions for you."
+},
+{
+"k": "12759",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Now with all due respect Sherriff, get the fuck out of my club."
+},
+{
+"k": "12760",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Mention Faith"
+},
+{
+"k": "12761",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Where'd you get it"
+},
+{
+"k": "12762",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Ask to see ribbon"
+},
+{
+"k": "12763",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I know a girl named Faith who has a ribbon just like that one."
+},
+{
+"k": "12764",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "Faith is a sweet girl."
+},
+{
+"k": "12765",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Where'd you get that ribbon around your neck?"
+},
+{
+"k": "12766",
+"who": "NARISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "You look tired, Sherriff."
+},
+{
+"k": "12767",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Charlotte dead"
+},
+{
+"k": "12768",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Charlotte missing"
+},
+{
+"k": "12769",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "She owes me"
+},
+{
+"k": "12770",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm sorry to say, Charlotte was killed."
+},
+{
+"k": "12771",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "You want to talk, so talk."
+},
+{
+"k": "12772",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I have a few questions for you."
+},
+{
+"k": "12773",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "What?  Oh no!  Not another one of my girls dead?"
+},
+{
+"k": "12774",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Missing?  FIrst Faith and now Charlotte?  Jeez, I hope she's ok."
+},
+{
+"k": "12775",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Uh, Charlotte is missing."
+},
+{
+"k": "12776",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Look pal, if you have money issues with her, you take them elsewhere."
+},
+{
+"k": "12777",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Charlotte owes me money."
+},
+{
+"k": "12778",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Just answer my question."
+},
+{
+"k": "12779",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Evade"
+},
+{
+"k": "12780",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Evasion"
+},
+{
+"k": "12781",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Alright goddamnit, alright. The answer is I haven't seen her since yesterday."
+},
+{
+"k": "12782",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "W"
+},
+{
+"k": "12783",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Compliment"
+},
+{
+"k": "12784",
+"who": "NERISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "They call me Nerissa."
+},
+{
+"k": "12785",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Who are you?  What's your name?"
+},
+{
+"k": "12786",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "My name's Bigby."
+},
+{
+"k": "12787",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Have we met before?  I feel like you know me but I don't know you."
+},
+{
+"k": "12788",
+"who": "NERISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "You know me now, don't you?  You can call me Nerissa."
+},
+{
+"k": "12789",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Thanks for the drink."
+},
+{
+"k": "12790",
+"who": "NERISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "Your'e not drinking your drink, Bigby.  Can I get you something else?"
+},
+{
+"k": "12791",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Pretty name"
+},
+{
+"k": "12792",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Nerissa, that's a pretty name."
+},
+{
+"k": "12793",
+"who": "NERISSA",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm glad you like it."
+},
+{
+"k": "12794",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I didn't get your name."
+},
+{
+"k": "12795",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "."
+},
+{
+"k": "12796",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Can I take a look at your ribbon?"
+},
+{
+"k": "12797",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Hide note"
+},
+{
+"k": "12798",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Don't hide note"
+},
+{
+"k": "12799",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Nerissa,"
+},
+{
+"k": "12800",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[to Nerissa] Nerissa, what the hell is going on?  [to Bigby] The place is closed, pal.  How'd you get in here?"
+},
+{
+"k": "12801",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Oh she did, did she?  We'll we'll have to have a discussion about that later, won't we?"
+},
+{
+"k": "12802",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Breaking and entering, huh Sherriff?  Is this the kind of gestapo tactics the Woodland office is using nowadays?"
+},
+{
+"k": "12803",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[sarcastic] Well, since you're being so professional…"
+},
+{
+"k": "12804",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[to Nerissa]  Real chatty, ain't he?"
+},
+{
+"k": "12805",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Harsh"
+},
+{
+"k": "12806",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Professional"
+},
+{
+"k": "12807",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Considerate"
+},
+{
+"k": "12808",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Not Faith, Charlotte."
+},
+{
+"k": "12809",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Don't worry about her.  She can't say nothin' about what we discuss."
+},
+{
+"k": "12810",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm here about the death of one of your girls, Georgie."
+},
+{
+"k": "12811",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I don't want to talk about this in front of Nerissa."
+},
+{
+"k": "12812",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Alright Bigby, let's talk"
+},
+{
+"k": "12813",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Alright. [to Nerissa] Buzz off, honey."
+},
+{
+"k": "12814",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm not asking…"
+},
+{
+"k": "12815",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Look Georgie, your girl Charlotte's sitting in the morgue minus one head."
+},
+{
+"k": "12816",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Oh Jesus, no…just like Faith."
+},
+{
+"k": "12817",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm investigating a murder, Georgie.  One of your employees, Charlotte.  She's been murdered."
+},
+{
+"k": "12818",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Ah shit.  First Faith, and now Charlotte?"
+},
+{
+"k": "12819",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm sorry to tell you this, Georgie, but Charlotte's dead."
+},
+{
+"k": "12820",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "What?  Ah, damnit I knew I shouldn't have let her go out after Faith was killed."
+},
+{
+"k": "12821",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Did you come here be an asshole or can we talk about Faith now?"
+},
+{
+"k": "12822",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Of course she did!"
+},
+{
+"k": "12823",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Faith?  Are you telling me Faith worked here as well?"
+},
+{
+"k": "12824",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I think you may be in some fucking trouble, Georgie…"
+},
+{
+"k": "12825",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I may or may not have some answers for you, Bigby."
+},
+{
+"k": "12826",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "[to himself] Shit… Two girls, working at the same place, end up dead."
+},
+{
+"k": "12827",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Alibi?"
+},
+{
+"k": "12828",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Any suspects?"
+},
+{
+"k": "12829",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "The last time you saw either of them?"
+},
+{
+"k": "12830",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I may or may not have answers for you, Sheriff…"
+},
+{
+"k": "12831",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Do you have any idea who may have killed them? Any suspects? Did Charlotte or Faith have any enemies?"
+},
+{
+"k": "12832",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Two girls die, and they both worked for you, Georgie. I don't think it's a surprise if I ask you this: did you have anything to do with their murders?"
+},
+{
+"k": "12833",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "What the fuck? Why would I kill my own girls? Do you know how hard it is to find Fables willing to do what my girls do? Killing my employees ain't good business, Sheriff."
+},
+{
+"k": "12834",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I don't know nothin' about that. I run the club; the girls do what they need to do. As well, we get a lot of people running in and out, it's hard to keep track of who's who."
+},
+{
+"k": "12835",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "When was the last time you saw any of them?"
+},
+{
+"k": "12836",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Listen Sheriff. The girls come and go all night long. You think I pay attention to that shit?"
+},
+{
+"k": "12837",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "You think I'm going to believe that?"
+},
+{
+"k": "12838",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Listen, Sheriff. I have a business to run. What do you think would happen to it if I told the Woodlands folk my customers' names? I wouldn't have a business no more, that's for sure. Do you want that, Sheriff?"
+},
+{
+"k": "12839",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm having trouble believing you, Georgie…"
+},
+{
+"k": "12840",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I don't give a fuck what you believe or don't believe, that's just how it is."
+},
+{
+"k": "12841",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Shit…"
+},
+{
+"k": "12842",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "What was that, Sheriff?"
+},
+{
+"k": "12843",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "That would be a shame…"
+},
+{
+"k": "12844",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'd love it"
+},
+{
+"k": "12845",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "God forbid"
+},
+{
+"k": "12846",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'd be  dream come true, Georgie. Would save me from coming down here all the time."
+},
+{
+"k": "12847",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I provide a service that people want, Sheriff, regardless of what want."
+},
+{
+"k": "12848",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I shutter to think…"
+},
+{
+"k": "12849",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Fuck you, Bigby…"
+},
+{
+"k": "12850",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Maybe when you ain't Sheriff no more you'll sing a different tune…"
+},
+{
+"k": "12851",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I didn't think so…"
+},
+{
+"k": "12852",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Where were you the last two nights?"
+},
+{
+"k": "12853",
+"who": "PORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "What does that matter? I ain't got nothing to do with it."
+},
+{
+"k": "12854",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Two girls die, and they both worked for you, Georgie. I don't think it would be a big surprise if you were the one that killed them, Georgie."
+},
+{
+"k": "12855",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Well you should."
+},
+{
+"k": "12856",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "The Woodsman has been eliminated as a suspect in this investigation…for the time being."
+},
+{
+"k": "12857",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "That's bullshit, man.  You know he did it, why are you wasting your time?"
+},
+{
+"k": "12858",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I've questioned him already.  I'm convinced he's not the killer."
+},
+{
+"k": "12859",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Questioned him?  What good does that do?  You know the only way to get through to that guy. Take him in the back room  work him over."
+},
+{
+"k": "12860",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "What's your beef with the Woodsman anwyay?  You're pretty gung ho to pin this all on him."
+},
+{
+"k": "12861",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Look Sherriff, I've seen Faith's face after that scumbag's finished with her.  And I know you know what he's capable of.  You find any rocks stuffed in Charlotte's body?"
+},
+{
+"k": "12862",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Oh, I assume you've already had that conversation then.  That couldn't have been too pretty."
+},
+{
+"k": "12863",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "If they did, they never told me."
+},
+{
+"k": "12864",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "What kind of business?"
+},
+{
+"k": "12865",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I made a liquor run, upstate.  You think I can just conjure up all this booze outta think air?"
+},
+{
+"k": "12866",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Well, if you're finished with me, get lost, I've got a club to run."
+},
+{
+"k": "12867",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Verify Alibi"
+},
+{
+"k": "12868",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Accuse"
+},
+{
+"k": "12869",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Upstate?"
+},
+{
+"k": "12870",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Can anyone corraborate this story, Georgie?"
+},
+{
+"k": "12871",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I went alone, like I always do.  There's a crate-load of bourbon in the back room that will testify on my behalf."
+},
+{
+"k": "12872",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "You got a receipt for that?"
+},
+{
+"k": "12873",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "Ah, must've left it in my other shirt."
+},
+{
+"k": "12874",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "I'm starting to like you for these murders, Georgie.  Your story doesn't add up."
+},
+{
+"k": "12875",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "And again I ask, why would I kill my own girls?"
+},
+{
+"k": "12876",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "Upstate? Last time I checked, New York City's got lots of liqour stores."
+},
+{
+"k": "12877",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I got a wholesaler up in Rochester that gives me a good discount on the cheap stuff.  These perverts don't care so much about \"top shelf\"."
+},
+{
+"k": "12878",
+"who": "BIGBY",
+"ctx": "Fables102/env_puddinpie",
+"en": "You got a name for that wholesaler?"
+},
+{
+"k": "12879",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "[sarcastic] Ah, slipped my mind.  I'll get back to you on that one."
+},
+{
+"k": "12880",
+"who": "GEORGIE",
+"ctx": "Fables102/env_puddinpie",
+"en": "I don't know what else I can tell you, Sherriff.  I was out of town."
+},
+{
+"k": "12881",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Rough him up"
+},
+{
+"k": "12882",
+"who": "",
+"ctx": "Fables102/env_puddinpie",
+"en": "Keep cool"
+}
+]

@@ -1,0 +1,1628 @@
+[
+{
+"k": "2916",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [muffled through door] Let go!"
+},
+{
+"k": "2917",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [muffled through door] Get off of me!"
+},
+{
+"k": "2918",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [muffled through door] Aaaargh!"
+},
+{
+"k": "2919",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [muffled through door] ... you're gonna know who I fuckin' am. You hear me? Hey! Look at me!"
+},
+{
+"k": "2920",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] What're you gonna fuckin' do? Huh?"
+},
+{
+"k": "2921",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Get the fuck out of the way before y-"
+},
+{
+"k": "2922",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I'm bleeding."
+},
+{
+"k": "2923",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I'll fuckin' kill you."
+},
+{
+"k": "2924",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You fucker!"
+},
+{
+"k": "2925",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Get the fuck out of the way before you get the axe again."
+},
+{
+"k": "2926",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Say that word again."
+},
+{
+"k": "2927",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Be nice, or I'll make you wait outside."
+},
+{
+"k": "2928",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Wud? [bead] Bidch?"
+},
+{
+"k": "2929",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] WHAT did I say?"
+},
+{
+"k": "2930",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Aaaaarrgh."
+},
+{
+"k": "2931",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [under his breath]Yew fuuuuhggger."
+},
+{
+"k": "2932",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [intense] Yew heeear mee?"
+},
+{
+"k": "2933",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [intense] Aisle fuhged puhd yew in  de gounnd…"
+},
+{
+"k": "2934",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Fuhged... shid..."
+},
+{
+"k": "2935",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Come on. Let's get this over with."
+},
+{
+"k": "2936",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Are you hurt?"
+},
+{
+"k": "2937",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Seriously. I need to know if you're okay."
+},
+{
+"k": "2938",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Why was he hitting you?"
+},
+{
+"k": "2939",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Sorry."
+},
+{
+"k": "2940",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Look, I'm sorry. I probably should have been here sooner."
+},
+{
+"k": "2941",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Hey, I didn't know someone else was here."
+},
+{
+"k": "2942",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "You should've known better"
+},
+{
+"k": "2943",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Yeah, you should know better. I'm guessing you don't meet many nice people in your line of work, huh."
+},
+{
+"k": "2944",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "I don't need 'em to be nice, Sheriff. As long as they pay for it, they can be as not nice as they like."
+},
+{
+"k": "2945",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [to Woodsman, stern] Knock it off."
+},
+{
+"k": "2946",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Ders moar where dad cameb frumb, gurlie."
+},
+{
+"k": "2947",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] A little misunderstanding that turned into a real shit show. Don't worry. You saw all the best bits."
+},
+{
+"k": "2948",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] What the hell is going on? What happened?"
+},
+{
+"k": "2949",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [still intense] Everybody needs to calm down right now."
+},
+{
+"k": "2950",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You two probably woke up half the damn city."
+},
+{
+"k": "2951",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] We're lucky this place isn't crawling with Mundy cops by now."
+},
+{
+"k": "2952",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Sorry, Sheriff. Wouldn't want to add any difficulty to your night."
+},
+{
+"k": "2953",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Don't make this more difficult than it has to be."
+},
+{
+"k": "2954",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Look, this is just the start of a shitty night for me. I just need the money he owes me, then I can go."
+},
+{
+"k": "2955",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Shit…"
+},
+{
+"k": "2956",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Yer nod geddig a dimb frum mee."
+},
+{
+"k": "2957",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Why does he owe you money?"
+},
+{
+"k": "2958",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "He's not your boyfriend?"
+},
+{
+"k": "2959",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]So... he's not your boyfriend?"
+},
+{
+"k": "2960",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Fuhg goff."
+},
+{
+"k": "2961",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] There are probably nicer ways to spend an hour."
+},
+{
+"k": "2962",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] We had an arrangement. He paid for my time. What he does with that time is his business. But he still owes."
+},
+{
+"k": "2963",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] What does he owe you money for?"
+},
+{
+"k": "2964",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Yeah… sure… for the night."
+},
+{
+"k": "2965",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Why was he hitting you?"
+},
+{
+"k": "2966",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Maybe you should ask him that."
+},
+{
+"k": "2967",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I will, but I asked you first."
+},
+{
+"k": "2968",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "You need to leave."
+},
+{
+"k": "2969",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]I let you slap me around for a while. You're lucky I'm not charging extra."
+},
+{
+"k": "2970",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Alright, you need to go."
+},
+{
+"k": "2971",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]I'm not going anywhere until that piece of shit pays up."
+},
+{
+"k": "2972",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Foar whaat?"
+},
+{
+"k": "2973",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "You're putting us at risk."
+},
+{
+"k": "2974",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You realize you're putting us all at risk going on like this? Do you have any idea what it'd take to relocate Fabletown if the Mundys were to discover us? This isn't just about you."
+},
+{
+"k": "2975",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Look, this kinda work is all about discretion. Obviously, this isn't exactly how I imagined my night going."
+},
+{
+"k": "2976",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]  Or this idiot."
+},
+{
+"k": "2977",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Prostitution isn't allowed."
+},
+{
+"k": "2978",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]You know prostitution isn't allowed here."
+},
+{
+"k": "2979",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I'm not IN Fabletown right now Bigby."
+},
+{
+"k": "2980",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] It doesn't matter."
+},
+{
+"k": "2981",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Look, I can't ignore the fact that you're breaking the rules."
+},
+{
+"k": "2982",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [looks over to the Woodsman]Yeah? Where does beatin' on someone for half an hour fit into those rules?"
+},
+{
+"k": "2983",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]\tWell, I guess just sayin' it's a rule doesn't keep it from happening then, does it?"
+},
+{
+"k": "2984",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]\t[hesitates, feeling guilty] That isn't allowed either."
+},
+{
+"k": "2985",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][soft]So... this is all about money?"
+},
+{
+"k": "2986",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][harsh]So this is all about money?"
+},
+{
+"k": "2987",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "... aye saved liddle Red Riding Hood frum this monster... I cut dis fugger oben... [he's getting louder and starting to stand] and filled hids belly full of stones.  [building, spitty yelling] AND THREW HIM IN THE FUCKING RIVER. That's who the Fuck I am, you stupid bitch!"
+},
+{
+"k": "2988",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "HEY!"
+},
+{
+"k": "2989",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[Throw him out]"
+},
+{
+"k": "2990",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "I said be nice, or you wait.. out... side!"
+},
+{
+"k": "2991",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Sit down!"
+},
+{
+"k": "2992",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]We all got stories, Woody... and right now, I don't give a shit about yours. So sit the fuck  back down before I sit you down."
+},
+{
+"k": "2993",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Will you excuse me a moment?"
+},
+{
+"k": "2994",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[deadpan] By all means."
+},
+{
+"k": "2995",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Look, I'm not leaving until I get what's mine."
+},
+{
+"k": "2996",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Yer nod geddig shid, bidch."
+},
+{
+"k": "2997",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][alt] You know who I am now, don't you? Don't you!"
+},
+{
+"k": "2998",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][alt]You've got something on your face..."
+},
+{
+"k": "2999",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][alt] Fuck are you talking about you stupid cu--"
+},
+{
+"k": "3000",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "What's going on here?"
+},
+{
+"k": "3001",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Alright, why'd you hit her?"
+},
+{
+"k": "3002",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Everyone calm down!"
+},
+{
+"k": "3003",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Aright, what's going on here?"
+},
+{
+"k": "3004",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Alright, why'd you hit her?"
+},
+{
+"k": "3005",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Alright, everyone just c--"
+},
+{
+"k": "3006",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "This is your last warning."
+},
+{
+"k": "3007",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "You're drunk..."
+},
+{
+"k": "3008",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[threaten him]"
+},
+{
+"k": "3009",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Woody, this is your last warning."
+},
+{
+"k": "3010",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]You're drunk, alright? Think this through."
+},
+{
+"k": "3011",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]If you keep on like this, I won't have any choice but to put you down."
+},
+{
+"k": "3012",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Put ME down?"
+},
+{
+"k": "3013",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][alt]Well this is THIS time."
+},
+{
+"k": "3014",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] This isn't last time."
+},
+{
+"k": "3015",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [calm]Woody, I'm gonna break your fuckin' face."
+},
+{
+"k": "3016",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][snorts]Is that a fact?"
+},
+{
+"k": "3017",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][calm]Yeah, that's a fact."
+},
+{
+"k": "3018",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I warned you! Didn't I?"
+},
+{
+"k": "3019",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Go fuck yourself."
+},
+{
+"k": "3020",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] There was an easy way, and a hard way."
+},
+{
+"k": "3021",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You're a fuckin' glutton for punishment, Woody."
+},
+{
+"k": "3022",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Why do you always have to pick the hard way?"
+},
+{
+"k": "3023",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You hear me? She's gonna watch you die."
+},
+{
+"k": "3024",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] That whore is gonna watch me kill you... then it'll be her turn."
+},
+{
+"k": "3025",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Why does everything have to be so fuckin' difficult with you?"
+},
+{
+"k": "3026",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Somethin' to remember you by."
+},
+{
+"k": "3027",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] That way I can skin you this time, make a nice little cloak for myself."
+},
+{
+"k": "3028",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] At least make this a fuckin' challenge."
+},
+{
+"k": "3029",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] What're you fuckin' around for?"
+},
+{
+"k": "3030",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Show me the wolf."
+},
+{
+"k": "3031",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Didn't think so."
+},
+{
+"k": "3032",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Yeah? How's that feel?"
+},
+{
+"k": "3033",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Got anything else to say?"
+},
+{
+"k": "3034",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You're not foolin' me with this?"
+},
+{
+"k": "3035",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Tell her how many you've killed. Back in the Homelands."
+},
+{
+"k": "3036",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Imagine fuckin' that."
+},
+{
+"k": "3037",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I'll show her who you are. Who you really are."
+},
+{
+"k": "3038",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Bet she'd love to fuckin' hear it. Probably thinks I'm the monster in this room."
+},
+{
+"k": "3039",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] All high and fuckin' mighty."
+},
+{
+"k": "3040",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Don't look at me like that."
+},
+{
+"k": "3041",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] They say it's a disease. Alcoholism."
+},
+{
+"k": "3042",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] But it's the only thing I got right now."
+},
+{
+"k": "3043",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Back when people gave a fuck about what you had to say."
+},
+{
+"k": "3044",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You should really look into getting some help."
+},
+{
+"k": "3045",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] That was a long time ago, Woody."
+},
+{
+"k": "3046",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Please..."
+},
+{
+"k": "3047",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Yeah. Alright... alright."
+},
+{
+"k": "3048",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You gonna calm down?"
+},
+{
+"k": "3049",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Thankfully those days are over."
+},
+{
+"k": "3050",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] And despite how nice it feels, I'm not sure the cure is kicking the shit out of you."
+},
+{
+"k": "3051",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You win... just... stop."
+},
+{
+"k": "3052",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Had enough?"
+},
+{
+"k": "3053",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Calm the fuck down!"
+},
+{
+"k": "3054",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] He's never gonna know what you're talking about."
+},
+{
+"k": "3055",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You just said that to him in the least calm way possible."
+},
+{
+"k": "3056",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Stop talking!"
+},
+{
+"k": "3057",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] It's a terrible example to be setting."
+},
+{
+"k": "3058",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] There' s a razor on the sink..."
+},
+{
+"k": "3059",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] There' s gotta be a better way to work out this animosity."
+},
+{
+"k": "3060",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Maybe you guys should just talk more."
+},
+{
+"k": "3061",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Told ya."
+},
+{
+"k": "3062",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I get there' s history but..."
+},
+{
+"k": "3063",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Saw it when I came in."
+},
+{
+"k": "3064",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Great."
+},
+{
+"k": "3065",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] My coat. It was right here."
+},
+{
+"k": "3066",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You guys deserve each other."
+},
+{
+"k": "3067",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] What're you talking about?"
+},
+{
+"k": "3068",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] That's just... awesome."
+},
+{
+"k": "3069",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Anyone seen my coat?"
+},
+{
+"k": "3070",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You should stop talking with your mouth like that."
+},
+{
+"k": "3071",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I really liked your story."
+},
+{
+"k": "3072",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Fuck you!"
+},
+{
+"k": "3073",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You sound like an idiot."
+},
+{
+"k": "3074",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [to herself]Godamnit..."
+},
+{
+"k": "3075",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Hope you didn't put down a deposit."
+},
+{
+"k": "3076",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] You're probably not gettin' much back."
+},
+{
+"k": "3077",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1][laughs] You've got a shit fuckin' memory, Wolf. That's not how it went last time."
+},
+{
+"k": "3078",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Goddamn you!"
+},
+{
+"k": "3079",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Fucking loser..."
+},
+{
+"k": "3080",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]He's got a knife!"
+},
+{
+"k": "3081",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Fuck you!"
+},
+{
+"k": "3082",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Watch out!"
+},
+{
+"k": "3083",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] What a couple 'a assholes..."
+},
+{
+"k": "3084",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]Back off, asshole."
+},
+{
+"k": "3085",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1]I'm sorry!"
+},
+{
+"k": "3086",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] Just stop! Okay? You're drunk."
+},
+{
+"k": "3087",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] I didn't mean to offend you. Please. Just... stop."
+},
+{
+"k": "3088",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [sad] I was just... I need to get out of here."
+},
+{
+"k": "3089",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [sad] Can we hurry this up?"
+},
+{
+"k": "3090",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [sad] I don't want to be here either so..."
+},
+{
+"k": "3091",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [sad] This doesn't have to be like this, okay? I'm sorry."
+},
+{
+"k": "3092",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup1] [sad] I'm sorry, okay? Please calm down. I'm sorry."
+},
+{
+"k": "3093",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup][E3][out of breath]You... should probably get out of here."
+},
+{
+"k": "3094",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Phone"
+},
+{
+"k": "3095",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "What are you doing here?"
+},
+{
+"k": "3096",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup4] What are you doing here?"
+},
+{
+"k": "3097",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup4] These lips are sealed..."
+},
+{
+"k": "3098",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [concerned] There's a razor on the sink."
+},
+{
+"k": "3099",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [concerned] He has his axe!"
+},
+{
+"k": "3100",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [concerned] Watch out!"
+},
+{
+"k": "3101",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [yelled] LET GO! PLEASE!"
+},
+{
+"k": "3102",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt]Yer nod geddig shid..."
+},
+{
+"k": "3103",
+"who": "WOODSMAN",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] Wud ees rawwg widd yeww..."
+},
+{
+"k": "3104",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt] [sad but assertive]I can't leave until I get what's mine."
+},
+{
+"k": "3105",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [assertively melancholy, if that's even a thing] [alt] Just a misunderstanding that turned into a bit of a shit show. Don't worry... you saw all the best parts."
+},
+{
+"k": "3106",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt] I'm... [searching for the word] hunky dory... thanks for asking."
+},
+{
+"k": "3107",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt] You pay for the time, okay? I'd have preferred if you not spent the time the way that you did... but that doesn't change what you owe."
+},
+{
+"k": "3108",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt] [stern]I can't go until this deadbeat pays me."
+},
+{
+"k": "3109",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt]  Look, I'm the least difficult person in this room. Trust me."
+},
+{
+"k": "3110",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt] It doesn't matter."
+},
+{
+"k": "3111",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "[pickup5] [alt] Don't be difficult."
+},
+{
+"k": "3112",
+"who": "FAITH",
+"ctx": "Fables101/env_andersenwoodsmanaptnight_fight",
+"en": "Just stop, okay? You're drunk!"
+},
+{
+"k": "3113",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Right. Sorry. I'll move."
+},
+{
+"k": "3114",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Thanks. Couple thousand more of these and we'll be even on that house you owe me."
+},
+{
+"k": "3115",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Got a smoke?"
+},
+{
+"k": "3116",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Thanks. Couple thousand more of these, we'll be even on that house you owe me."
+},
+{
+"k": "3117",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "You don't know what it's like, okay? You haven't been there."
+},
+{
+"k": "3118",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I take it all back... this is why everyone hates you."
+},
+{
+"k": "3119",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "[hard] Nice."
+},
+{
+"k": "3120",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "No. I'm just giving you shit."
+},
+{
+"k": "3121",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Clearly, that's not true, what with the selfishness with the bourbon."
+},
+{
+"k": "3122",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "But no, hate's the wrong word. They fear you more than anything. You ate a lot of people back in your day."
+},
+{
+"k": "3123",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Look, I'm not saying it's fair... but it's real.  People are scared of you."
+},
+{
+"k": "3124",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I mean, look at your face."
+},
+{
+"k": "3125",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I mean, look at your hands."
+},
+{
+"k": "3126",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Okay, sure.  Silent treatment. I can do the same."
+},
+{
+"k": "3127",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Awesome. Great example."
+},
+{
+"k": "3128",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Where is she from?"
+},
+{
+"k": "3129",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "That's what I thought."
+},
+{
+"k": "3130",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Life is easier with friends, Bigby, and we live a long fuckin' time."
+},
+{
+"k": "3131",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I know you like this whole Lone Wolf thing you got going for yourself, but I've seen the way you look at Snow, okay? You're not foolin' me."
+},
+{
+"k": "3132",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Yup. Like I said."
+},
+{
+"k": "3133",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Snow White. The girl that you've been pining for ever since-- oh you're fucking with me. Hilarious."
+},
+{
+"k": "3134",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "How would anyone know? I answered the phone. You know how hard it was to get it back on the hook."
+},
+{
+"k": "3135",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "She called earlier."
+},
+{
+"k": "3136",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "The fresh air and sunshine pitch they sell you on is bullshit. I didn't escape out of the Homelands to end up in some prison.  Don't send me back there, Bigby."
+},
+{
+"k": "3137",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "This has to stop. You can't keep sneaking off The Farm like this."
+},
+{
+"k": "3138",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "You're just gonna stand there holdin' it? Great."
+},
+{
+"k": "3139",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Well, you can't change people's memories either."
+},
+{
+"k": "3140",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Who'd you get in a fight with? A Fable, right? I'm sure you're not going around punching Mundy's."
+},
+{
+"k": "3141",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Don't shoot the messenger... or eat the messenger. Whatever it is you do."
+},
+{
+"k": "3142",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "[mirthless laugh] Fuck you."
+},
+{
+"k": "3143",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "[deadpan] Your job is to beat the shit out of Fables."
+},
+{
+"k": "3144",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Mister Toad?  You just told me you threatened to send him back to the Farm!"
+},
+{
+"k": "3145",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Mister Toad? Okay. How're his kids doing?"
+},
+{
+"k": "3146",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I get the impression you say that a lot."
+},
+{
+"k": "3147",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Alright, sure."
+},
+{
+"k": "3148",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "(making fun of him) \"By being big, and being baaaad.\" Don't say that shit in front of people."
+},
+{
+"k": "3149",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "This is your problem. You can't have a normal relationship with anyone cause all this bullshit you're carrying around."
+},
+{
+"k": "3150",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I don't know. How?"
+},
+{
+"k": "3151",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I'm sure you were shitty to everyone you came across tonight."
+},
+{
+"k": "3152",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Sounds about right."
+},
+{
+"k": "3153",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "She's here."
+},
+{
+"k": "3154",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Right before you walked in."
+},
+{
+"k": "3155",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Really?"
+},
+{
+"k": "3156",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Name one."
+},
+{
+"k": "3157",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Only to see you take it back off the second you walk--"
+},
+{
+"k": "3158",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Do me a favor... stay quiet."
+},
+{
+"k": "3159",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Yeah.  I wouldn't wanna be a pain in the ass..."
+},
+{
+"k": "3160",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Yeah, yeah, alright... [emphasis] probably."
+},
+{
+"k": "3161",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "See? You don't send me to the Farm, I stay quiet to keep you outta trouble. That's why it pays to be nice to people."
+},
+{
+"k": "3162",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Oooooh. This is too dramatic..."
+},
+{
+"k": "3163",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "You're not people. That's the problem."
+},
+{
+"k": "3164",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "You're the problem."
+},
+{
+"k": "3165",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "[muttering]I still want that drink..."
+},
+{
+"k": "3166",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Shut up."
+},
+{
+"k": "3167",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Nice."
+},
+{
+"k": "3168",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Needs ice."
+},
+{
+"k": "3169",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "[from the other room]  Bigby?  Is that you, man?"
+},
+{
+"k": "3170",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Hey Bigby!  Come in here!"
+},
+{
+"k": "3171",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Bring me a drink. It's hot as shit."
+},
+{
+"k": "3172",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Hey Bigby."
+},
+{
+"k": "3173",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "[realizing] I'm in your chair, huh?"
+},
+{
+"k": "3174",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Hey, it's Brian Summers for Stars. Hell was that? Yeah well maybe if you had more that one seat in this shitbox you wouldn't have to go around kickin people would ya? Hey you got a smoke? Thanks. You know, couple thousand more of these and we'll be even on that house you owe me. Aw come on, I can't deal with that fesh air bullshit and sunshine that they sell down there. The city Bigby! That's what calls to me. I wanna smell the streets, feel the steam come out of the manhole covers, get chased through central park by hobos and lunatics! Is that too much to ask? This is where I beloong, its home for me. Blind eye? How about just not being a jerk? You know uh, the house didn't blow itself down, Bigby. That's all I'm sayin'. Do with that, what you will. I'm not saying it's reason enough for me to have definitely been offered a drink, but... it would have helped ease some of the pain you once caused me, yes. It would also show everyone how different you are now. You know, I take it all back, this is why everyone hates you. That and all the murdering you used to do. Nah, I'm just giving you shit. Well, clearly thats not true, what with all the selfishness with all the burben an all of that? ut no, hate's the wrong word. They are more scared of you more than anything. You ate a lot of people back in your day. Yeah and things like that don't help matters. That far off look like that when you think about the old days. Don't smile when you do that, makes people uncomfortable."
+},
+{
+"k": "3175",
+"who": "NOTE",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "This anim includes taking phone off the hook too"
+},
+{
+"k": "3176",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Damn... should've cracked a window."
+},
+{
+"k": "3177",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "This should help."
+},
+{
+"k": "3178",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Yeah.  Get out."
+},
+{
+"k": "3179",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I've only got the one."
+},
+{
+"k": "3180",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "So yeah."
+},
+{
+"k": "3181",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I'm tired, Colin. It's been a long day."
+},
+{
+"k": "3182",
+"who": "COLIN",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Alright, alright."
+},
+{
+"k": "3183",
+"who": "",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Don't be dramatic."
+},
+{
+"k": "3184",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "C'mon. That's a little dramatic."
+},
+{
+"k": "3185",
+"who": "",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "I won't."
+},
+{
+"k": "3186",
+"who": "BIGBY",
+"ctx": "Fables101/env_bigbyapartment",
+"en": "Calm down.  I'm not sending you back."
+}
+]

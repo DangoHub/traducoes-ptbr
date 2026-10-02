@@ -1,0 +1,1676 @@
+[
+{
+"k": "5701",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}What is it?"
+},
+{
+"k": "5702",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "This gun wasn't fired recently. Maybe a week ago. Or more.."
+},
+{
+"k": "5703",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Yeah, the angle doesn't work."
+},
+{
+"k": "5704",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Plausible."
+},
+{
+"k": "5705",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "But why would I leave the gun?"
+},
+{
+"k": "5706",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "His? Where'd he get it, I wonder..."
+},
+{
+"k": "5707",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingA}Bullet passed through the chair."
+},
+{
+"k": "5708",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Snow. Do me a favor. Stand over there."
+},
+{
+"k": "5709",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Now aim your gun straight at the chair."
+},
+{
+"k": "5710",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The angle is all wrong."
+},
+{
+"k": "5711",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "So what happened?"
+},
+{
+"k": "5712",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Shooter stood to the side"
+},
+{
+"k": "5713",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'm thinking the shooter stood off-center. Sent the bullet diagonally through. Probably there."
+},
+{
+"k": "5714",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "It's a strange place to stand, if you're confronting someone with a gun. You know?"
+},
+{
+"k": "5715",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Suicide?"
+},
+{
+"k": "5716",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Not murder?"
+},
+{
+"k": "5717",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "We'll see."
+},
+{
+"k": "5718",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "So where's the knife?"
+},
+{
+"k": "5719",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Self-inflicted"
+},
+{
+"k": "5720",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Could be self-inflicted."
+},
+{
+"k": "5721",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Not saying that just yet."
+},
+{
+"k": "5722",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[shocked]Suicide?"
+},
+{
+"k": "5723",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Bullet ricochet."
+},
+{
+"k": "5724",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Bullets ricochet. Hard to tell exactly."
+},
+{
+"k": "5725",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Well. Let me know..."
+},
+{
+"k": "5726",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}[sigh]Yeah. The angle works if he {worriedA}shot himself."
+},
+{
+"k": "5727",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[first half of his theory.]Shell could have ejected from that position..."
+},
+{
+"k": "5728",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Or from right here."
+},
+{
+"k": "5729",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Or fallen straight to the ground. From this chair."
+},
+{
+"k": "5730",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[not entirely confident]I guess that lines up pretty well."
+},
+{
+"k": "5731",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Probably where the shooter stood."
+},
+{
+"k": "5732",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[confusion]I walk back into the kitchen to put the knife... away again?"
+},
+{
+"k": "5733",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Must be from the first attempt, when he walked the knife back into the kitchen."
+},
+{
+"k": "5734",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "How can you tell?"
+},
+{
+"k": "5735",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Yeah. This would do it."
+},
+{
+"k": "5736",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The hell? So who used the knife? Him or... someone else."
+},
+{
+"k": "5737",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Smells like the blood from over there."
+},
+{
+"k": "5738",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[calling]Bigby, hurry."
+},
+{
+"k": "5739",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{confusedB}[amazed, not angry]Son of a ..."
+},
+{
+"k": "5740",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1]Here. Like a crayon."
+},
+{
+"k": "5741",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1]I might wreck it."
+},
+{
+"k": "5742",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1]Thanks."
+},
+{
+"k": "5743",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1][to Snow]You got a pencil?  I need to mark something."
+},
+{
+"k": "5744",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I had a solid lead. It couldn't wait."
+},
+{
+"k": "5745",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[hushed] What?"
+},
+{
+"k": "5746",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{angryA}[hushed, to Lawrence] Are you expecting anyone?"
+},
+{
+"k": "5747",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[hushed] What do I do?"
+},
+{
+"k": "5748",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{surprisedA}[hushed] No. {thinkingB}Wait."
+},
+{
+"k": "5749",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{doubtfulA}[hushed] I'll see who it is."
+},
+{
+"k": "5750",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingC}[hushed] Just play dead."
+},
+{
+"k": "5751",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[hushed] We need to know why whoever's out there is trying to break in. They may know something about your wife. Something going on here and you're part of it now."
+},
+{
+"k": "5752",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{flusteredA}[hushed] I need your help."
+},
+{
+"k": "5753",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{confusedB}[hushed] What?"
+},
+{
+"k": "5754",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}Trust me."
+},
+{
+"k": "5755",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Terrible idea."
+},
+{
+"k": "5756",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Snow, that's a terrible idea."
+},
+{
+"k": "5757",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Let me handle this."
+},
+{
+"k": "5758",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Snow, I can handle this."
+},
+{
+"k": "5759",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You don't have to. I will."
+},
+{
+"k": "5760",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Can I get the gun back? Just in case."
+},
+{
+"k": "5761",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Where's my wife, you motherfucker!"
+},
+{
+"k": "5762",
+"who": "DEE",
+"ctx": "Fables101/env_faithapartment",
+"en": "Hey, listen... you don't wanna do this, man."
+},
+{
+"k": "5763",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "What did you do with my wife?"
+},
+{
+"k": "5764",
+"who": "DEE",
+"ctx": "Fables101/env_faithapartment",
+"en": "I don't know what you're talkin' about, okay? I'm just a guy lookin' for answers too."
+},
+{
+"k": "5765",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{angryB}Hey!"
+},
+{
+"k": "5766",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Panel"
+},
+{
+"k": "5767",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "You don't have to apologize."
+},
+{
+"k": "5768",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "First, you of all people shouldn't be using that phrase. Second, who said I couldn't handle him? It just would've been nice to have some backup. Sorry I asked. I won't next time."
+},
+{
+"k": "5769",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{fearA}No. Leave it open- {flusteredA}leave it open..."
+},
+{
+"k": "5770",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "This is bigger than I though it was."
+},
+{
+"k": "5771",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "The angle of the shot"
+},
+{
+"k": "5772",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "The pool of blood"
+},
+{
+"k": "5773",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "The suicide"
+},
+{
+"k": "5774",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Shot yourself"
+},
+{
+"k": "5775",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "It makes sense, I guess. The wrists and then he tried to finish himself off."
+},
+{
+"k": "5776",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Someone else did"
+},
+{
+"k": "5777",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "So, after he slashed his wrists, someone shot him? While kneeling?"
+},
+{
+"k": "5778",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[drawn out, his dying breath] Faith."
+},
+{
+"k": "5779",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "We need to find out what happened here."
+},
+{
+"k": "5780",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "I think I already know..."
+},
+{
+"k": "5781",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "He killed himself..."
+},
+{
+"k": "5782",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "He took his own life, Snow... probably found out about Faith."
+},
+{
+"k": "5783",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "He was murdered..."
+},
+{
+"k": "5784",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Someone killed him. I don't know why, but there's more to this than we're seeing."
+},
+{
+"k": "5785",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "We should have come here first.."
+},
+{
+"k": "5786",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[beat] Give me a minute look around."
+},
+{
+"k": "5787",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "We were too late. I don't know exactly what happened, but his wound is recent... we could have stopped this."
+},
+{
+"k": "5788",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Have a look around."
+},
+{
+"k": "5789",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[lost] I didn't know Fables lived like this."
+},
+{
+"k": "5790",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "I'd feel better if we knew for sure."
+},
+{
+"k": "5791",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "May I see it?"
+},
+{
+"k": "5792",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Do you still have that letter?"
+},
+{
+"k": "5793",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1]Judging from what I've seen here, I think I might already know the answer to this...  but..."
+},
+{
+"k": "5794",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] Wait! What are you doing?"
+},
+{
+"k": "5795",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] Where's the... you didn't get it?"
+},
+{
+"k": "5796",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[open it yourself]"
+},
+{
+"k": "5797",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[give it to Snow]"
+},
+{
+"k": "5798",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[leave it on Lawrence's body]"
+},
+{
+"k": "5799",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Tell her"
+},
+{
+"k": "5800",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Let Snow read it"
+},
+{
+"k": "5801",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "It wouldn't be right."
+},
+{
+"k": "5802",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[we should keep it]"
+},
+{
+"k": "5803",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "[leave it with Lawrence]"
+},
+{
+"k": "5804",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "yes"
+},
+{
+"k": "5805",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "I might still need it"
+},
+{
+"k": "5806",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] What did it say?"
+},
+{
+"k": "5807",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1]I opened it."
+},
+{
+"k": "5808",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] \"I'm sorry... Faith.\""
+},
+{
+"k": "5809",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] Really..."
+},
+{
+"k": "5810",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] Thank you... at least... [exhale]I don't know..."
+},
+{
+"k": "5811",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Here."
+},
+{
+"k": "5812",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] I wish he had known that."
+},
+{
+"k": "5813",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "It wouldn't be right. If it wasn't evidence I wouldn't have looked at it myself. Sorry."
+},
+{
+"k": "5814",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Sure... okay."
+},
+{
+"k": "5815",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] It wasn't meant for us."
+},
+{
+"k": "5816",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1] Of course."
+},
+{
+"k": "5817",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "The shooter bled out."
+},
+{
+"k": "5818",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Suicide attempt."
+},
+{
+"k": "5819",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "He stabbed someone."
+},
+{
+"k": "5820",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{doubtfulA}Second-hand paperbacks.  Old encyclopedias."
+},
+{
+"k": "5821",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingA}Dusty. No one's read these in awhile."
+},
+{
+"k": "5822",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]Bigby... Is there something I should know about, before we go in there?"
+},
+{
+"k": "5823",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Let's focus on what we saw in the mirror."
+},
+{
+"k": "5824",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "It's not that simple."
+},
+{
+"k": "5825",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "We need to question Lawrence."
+},
+{
+"k": "5826",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]{angryA}Hey!  Open up!"
+},
+{
+"k": "5827",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]It's... [he hesitates yelling out 'The Sheriff']It's me."
+},
+{
+"k": "5828",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]{angryA}Lawrence!  You {doubtfulA}in there?"
+},
+{
+"k": "5829",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]Whoever did this... they might have killed Faith, too."
+},
+{
+"k": "5830",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]Look at this... place.  I don't know what happened here, but none of it was good."
+},
+{
+"k": "5831",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]Why? Out of guilt? [putting it together; emphasize 'he']You think he killed her?"
+},
+{
+"k": "5832",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]Unless, Lawrence did this to himself."
+},
+{
+"k": "5833",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]So now we know he shot himself.  Bullet passed diagonally thru his body.   And ended up in the wall.  Here."
+},
+{
+"k": "5834",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]And the blood from the bed..."
+},
+{
+"k": "5835",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]Is too old to be Faith's."
+},
+{
+"k": "5836",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]That's the way it looks."
+},
+{
+"k": "5837",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]So this is a suicide... not a murder."
+},
+{
+"k": "5838",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]Okay... but what about Faith?  Did she... die here too?"
+},
+{
+"k": "5839",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]And then he moved her?  I don't know.  I don't think so, but... we should look around."
+},
+{
+"k": "5840",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]They're all just slipping through cracks."
+},
+{
+"k": "5841",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "A shell casing."
+},
+{
+"k": "5842",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Seems to match the caliber of the gun on the floor."
+},
+{
+"k": "5843",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingC}The knife doesn't really match the others."
+},
+{
+"k": "5844",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingB}Is that the same knife {thinkingC}you saw in the mirror?"
+},
+{
+"k": "5845",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[she appreciates him having told her about the weapon, but doesn't quite know how to acknowledge that.]Okay.  Uh, good... yeah.   Thanks."
+},
+{
+"k": "5846",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Just like in the mirror.  Damn.  Maybe I should have come here first."
+},
+{
+"k": "5847",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[talking about the blood]Looks like it's been here for more than a few days tho. Sticky."
+},
+{
+"k": "5848",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "The blood dripped off the bed, and dried here.  But it's been a week at least."
+},
+{
+"k": "5849",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Faith was only killed last night.."
+},
+{
+"k": "5850",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "This blood is dry too.   Whatever happened here... happened awhile back."
+},
+{
+"k": "5851",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "So... long before you met Faith, then."
+},
+{
+"k": "5852",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Now it's both of them..."
+},
+{
+"k": "5853",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Both of them?"
+},
+{
+"k": "5854",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Did they have enemies?"
+},
+{
+"k": "5855",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}I don't know, Snow."
+},
+{
+"k": "5856",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{flusteredA}I just don't understand... Why {worriedA}would someone want to kill him?"
+},
+{
+"k": "5857",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Fired pretty recently."
+},
+{
+"k": "5858",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{confusedB}The slug should've {angryA}gone over there.  Right behind {thinkingA}him.  Not here."
+},
+{
+"k": "5859",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Snow.  Do me a favor.  Stand where we found the gun."
+},
+{
+"k": "5860",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]Now pretend you're the shooter.  Point the gun at... well, at Lawrence."
+},
+{
+"k": "5861",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "He put the gun to his own chest."
+},
+{
+"k": "5862",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "Right.  So the shooter either stood somewhere else or..."
+},
+{
+"k": "5863",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "Or we don't have the whole story yet."
+},
+{
+"k": "5864",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}This is...  {thinkingC}feels strange."
+},
+{
+"k": "5865",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingB}Still a little sticky."
+},
+{
+"k": "5866",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingC}What is that?"
+},
+{
+"k": "5867",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedB}It's stuck to the bed a little."
+},
+{
+"k": "5868",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]God, it's so sad."
+},
+{
+"k": "5869",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]Explains a lot though..."
+},
+{
+"k": "5870",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Did you hurt Faith?"
+},
+{
+"k": "5871",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]It's addressed to him, you know."
+},
+{
+"k": "5872",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]Yeah, I know..."
+},
+{
+"k": "5873",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup]What did she say, again?"
+},
+{
+"k": "5874",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup1]\"I'm sorry...\" [this can actually be an edit of 357126435]"
+},
+{
+"k": "5875",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}Snow, could you {thinkingA}stand over there?"
+},
+{
+"k": "5876",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingB}Point towards Lawrence, as if {doubtfulA}you're the shooter."
+},
+{
+"k": "5877",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}What are you thinking?"
+},
+{
+"k": "5878",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}Right. So the {thinkingB}shooter stood somewhere else."
+},
+{
+"k": "5879",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}Maybe... or we {thinkingB}don't have the whole story."
+},
+{
+"k": "5880",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}There's a hard edge to this blood {thinkingA}stain. Like something was {thinkingB}here, then got moved."
+},
+{
+"k": "5881",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sadA}Hopefully they're {sadB}together now."
+},
+{
+"k": "5882",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}About all we can hope for at this point."
+},
+{
+"k": "5883",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}Matches the caliber of the gun on the floor."
+},
+{
+"k": "5884",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}The mirror showed me this... maybe {worriedA}I should've come here first."
+},
+{
+"k": "5885",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}It's sharp... and there's {worriedA}blood on the blade."
+},
+{
+"k": "5886",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}Hmm. Then {confusedB}who used the knife? {thinkingB}If not him then... {doubtfulA}someone else?"
+},
+{
+"k": "5887",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] See? There's no need for property damage."
+},
+{
+"k": "5888",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sarcasticB}I'll manage. Thanks."
+},
+{
+"k": "5889",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sarcasticA}That you're short and I'm {happyB}trying to help you up there."
+},
+{
+"k": "5890",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sarcasticA}Suit yourself."
+},
+{
+"k": "5891",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingB}What are you trying to say?"
+},
+{
+"k": "5892",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingB}It's Bigby. I need {normalA}to talk to ya."
+},
+{
+"k": "5893",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sadB}[grave] Oh god... we're {sadA}too late."
+},
+{
+"k": "5894",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}That makes two Fables dead... we {flusteredA}need to figure out what the {thinkingB}hell is going on here..."
+},
+{
+"k": "5895",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {fearA}Who would do {sadA}this to them?"
+},
+{
+"k": "5896",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}I don't know... I..."
+},
+{
+"k": "5897",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] I... shot myself... in the heart... thought I'd be dead by now..."
+},
+{
+"k": "5898",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {normalB}Shit."
+},
+{
+"k": "5899",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}We found your note..."
+},
+{
+"k": "5900",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {normalB}I made a decision... for us... {worriedA}it felt like the only way out... so..."
+},
+{
+"k": "5901",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] At least... that's how I think it happened..."
+},
+{
+"k": "5902",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] things are a little fuzzy..."
+},
+{
+"k": "5903",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {flusteredB}Do you..."
+},
+{
+"k": "5904",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {flusteredA}Why did you do it, {sadB}Lawrence?"
+},
+{
+"k": "5905",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}I don't want to stay here any longer than {worriedA}we have to, so {thinkingC}let's just pick an approach and stick to it, okay?"
+},
+{
+"k": "5906",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {normalB}When the magic mirror showed me this apartment. . . {thinkingB}I think I saw a knife inside, covered in {worriedA}what looked like {snow - flusteredB}blood."
+},
+{
+"k": "5907",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}And if he {doubtfulA}objects?"
+},
+{
+"k": "5908",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {normalB}Yeah."
+},
+{
+"k": "5909",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [pause] [trying to make light of it] I wasn't {thinkingC}expecting that."
+},
+{
+"k": "5910",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}Well, like I said, let's {thinkingB}not overcomplicate things. {worriedA}You can question him while I {thinkingB}look around for it."
+},
+{
+"k": "5911",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}We're here on {thinkingB}official Fabletown business. And {sadB}we can be {sadA}persuasive {worriedA}if necessary. Or. . . {sarcasticA}you can."
+},
+{
+"k": "5912",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] For mundies, maybe. But this is different."
+},
+{
+"k": "5913",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] I just. . . I just don't think he did it."
+},
+{
+"k": "5914",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] In cases like these isn't it usually the husband?"
+},
+{
+"k": "5915",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] We're here to question Lawrence and bump him up on the suspect list or cross him off entirely."
+},
+{
+"k": "5916",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] Okay. . ."
+},
+{
+"k": "5917",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}This is a murder investigation, Snow. Things {thinkingB}aren't that simple."
+},
+{
+"k": "5918",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}Alright."
+},
+{
+"k": "5919",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedB}[a little frustrated] Just... {thinkingB}leave it to me, alright? {doubtfulA}Let's see what happens when we get inside."
+},
+{
+"k": "5920",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}If we try and do everything at once all the time {flusteredB}some things are going to slip {sadB}through the cracks."
+},
+{
+"k": "5921",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}For mundies, maybe. But {thinkingB}this is different."
+},
+{
+"k": "5922",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}In cases like these isn't {confusedB}it usually the husband?"
+},
+{
+"k": "5923",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}What is it?"
+},
+{
+"k": "5924",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {flusteredA}I just. . . I just {sadB}don't think he did it."
+},
+{
+"k": "5925",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}Okay. . ."
+},
+{
+"k": "5926",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}We're here to question Lawrence and {thinkingB}bump him up on the suspect list or {doubtfulA}cross him off entirely."
+},
+{
+"k": "5927",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {flusteredB}Let's just {sadB}keep our focus on questioning Lawrence. {worriedA}Where she was, who {thinkingA}she was with. . . {thinkingB}that sort of thing."
+},
+{
+"k": "5928",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingB}Just {worriedA}humor me."
+},
+{
+"k": "5929",
+"who": "<<ID",
+"ctx": "Fables101/env_faithapartment",
+"en": "{79DCD63C-6982-4598-B9A0-04532A51B9C4}>>"
+},
+{
+"k": "5930",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}Yeah."
+},
+{
+"k": "5931",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] I was ashamed. I... I couldn't live with what I had done to her... put her in the position to have to..."
+},
+{
+"k": "5932",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {NormalB}I did what I could to keep her away."
+},
+{
+"k": "5933",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {NormalB}She's better off without me... {NormalA}without me being here to drag her down. She deserves that. {WorriedA}She's been through a lot."
+},
+{
+"k": "5934",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] Give me back the gun. Just in case."
+},
+{
+"k": "5935",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [somber] {flusteredB}It's only two words... but {worriedA}he died without {sadB}seeing them..."
+},
+{
+"k": "5936",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sadA}I'm sorry."
+},
+{
+"k": "5937",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {flusteredA}Should I open it?"
+},
+{
+"k": "5938",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}I'm not sure if {sadB}it's right."
+},
+{
+"k": "5939",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "It's your decision."
+},
+{
+"k": "5940",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingB}What does it say?"
+},
+{
+"k": "5941",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [beat] {sadA}I'm sorry... {worriedA}Faith."
+},
+{
+"k": "5942",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {doubtfulA}It's your decision. Do {thinkingA}what you think is right."
+},
+{
+"k": "5943",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {thinkingA}I need to know."
+},
+{
+"k": "5944",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}You should. There might {thinkingA}be something that helps up. A {doubtfulA}clue. A lead."
+},
+{
+"k": "5945",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}You're right."
+},
+{
+"k": "5946",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {normalB}It wasn't meant for us."
+},
+{
+"k": "5947",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sadA}It says... I'm sorry... {worriedA}Faith."
+},
+{
+"k": "5948",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sadB}I'm sorry {worriedA}too."
+},
+{
+"k": "5949",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {worriedA}[somber]Do you still have that letter?"
+},
+{
+"k": "5950",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{worriedA}[pickup5] [somber] Yes."
+},
+{
+"k": "5951",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [stern] {worriedA}We need to figure out {sadA}what happened here... and {thinkingB}find whoever did this."
+},
+{
+"k": "5952",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] {sadB}Lawrence, what {sadA}did you do?"
+},
+{
+"k": "5953",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Opening"
+},
+{
+"k": "5954",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{angryC}Stay here!"
+},
+{
+"k": "5955",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "{thinkingA}Looks like Faith took all her stuff out."
+},
+{
+"k": "5956",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] Sir, I'm gonna need you to open the door."
+},
+{
+"k": "5957",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] Oh my God. Bigby, he's alive."
+},
+{
+"k": "5958",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "You'll be okay."
+},
+{
+"k": "5959",
+"who": "",
+"ctx": "Fables101/env_faithapartment",
+"en": "Bad day?"
+},
+{
+"k": "5960",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] Let's get him back up."
+},
+{
+"k": "5961",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5]What's going on?"
+},
+{
+"k": "5962",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] We found you here, in your chair, with what we thought was a fatal injury. We should call Swineheart, have him take a look at you."
+},
+{
+"k": "5963",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] Wait a second on that, Snow."
+},
+{
+"k": "5964",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] {NormalB}I just wish I could've done better by her..."
+},
+{
+"k": "5965",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] She's always been there for me."
+},
+{
+"k": "5966",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] I couldn't handle it anymore... the guilt."
+},
+{
+"k": "5967",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] [hushed] We need to know why whoever's out there is breaking in."
+},
+{
+"k": "5968",
+"who": "CAKEPRINCE",
+"ctx": "Fables101/env_faithapartment",
+"en": "... {NormalA}fuckin' Georgie."
+},
+{
+"k": "5969",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] The second we figure out what they're here for, Bigby will arrest them."
+},
+{
+"k": "5970",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] [conditional to knowing about Faith] Think about your wife."
+},
+{
+"k": "5971",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [alt] You can't move in your condition anyway, so just stay still."
+},
+{
+"k": "5972",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] My dearest Faith, I never meant to hurt you, and I cannot endure knowing that I have. This was for the best. I'll see you again. Love, your devoted Lawrence."
+},
+{
+"k": "5973",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] That doesn't really help."
+},
+{
+"k": "5974",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] What are they?"
+},
+{
+"k": "5975",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [reads] Prescription sleeping pills."
+},
+{
+"k": "5976",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] Looks like he... or they... tried a bit of everything."
+},
+{
+"k": "5977",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [to himself] That left a mark."
+},
+{
+"k": "5978",
+"who": "BIGBY",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [to himself] Ruined his shirt."
+},
+{
+"k": "5979",
+"who": "SNOW",
+"ctx": "Fables101/env_faithapartment",
+"en": "[pickup5] [quietly] I wouldn't know."
+}
+]

@@ -1,0 +1,1802 @@
+[
+{
+"k": "27807",
+"who": "CROOKED MAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "We've been expecting you."
+},
+{
+"k": "27808",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pat on the back]Thank you, Tim."
+},
+{
+"k": "27809",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pat on the back]I know the Sheriff isn't the... accommodating sort."
+},
+{
+"k": "27810",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[out of breath, nervous]I'm so sorry sir. He wouldn't wait for--[gets cut off]"
+},
+{
+"k": "27811",
+"who": "CROOKED",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "It is ok Timothy, not all of us understand the needs of us forgotten Fabletown citizens."
+},
+{
+"k": "27812",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Thank you, sir."
+},
+{
+"k": "27813",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I can't handle myself Bigby, I'm tough!"
+},
+{
+"k": "27814",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I can handle myself Bigby, I'm tough!"
+},
+{
+"k": "27815",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Hello Tim."
+},
+{
+"k": "27816",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Hello Bigby.\nv"
+},
+{
+"k": "27817",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[to himself]That's it, all right."
+},
+{
+"k": "27818",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Bigby, you're doing the right thing and the wrong thing at the same time."
+},
+{
+"k": "27819",
+"who": "<<ID",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "{8BE2BBD9-AFC3-4B69-BE45-231C3E9384FF}>>"
+},
+{
+"k": "27820",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Sure, but try to keep up."
+},
+{
+"k": "27821",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Okay, sure no problem, but try to keep up with me."
+},
+{
+"k": "27822",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Say your last prayers."
+},
+{
+"k": "27823",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You're all under arrest!"
+},
+{
+"k": "27824",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "All right. Let's talk."
+},
+{
+"k": "27825",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Thank you sir thank you."
+},
+{
+"k": "27826",
+"who": "CROOKED MAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I'm really proud of you.  I'll make sure there's an extra something for you and your family this week."
+},
+{
+"k": "27827",
+"who": "CROOKED MAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Good job Timothy."
+},
+{
+"k": "27828",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Sorry sir, he wouldn't wait up for me, with my leg issue and all."
+},
+{
+"k": "27829",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[dry, but not unfriendly]Good evening, Sheriff."
+},
+{
+"k": "27830",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[surprised, to himself]What?"
+},
+{
+"k": "27831",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I'm here to take you to the boss."
+},
+{
+"k": "27832",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[Ignore]"
+},
+{
+"k": "27833",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Let's get going."
+},
+{
+"k": "27834",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Yeah... kind of only one reason, right?"
+},
+{
+"k": "27835",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[impatient]All right, let's go. Take me to him."
+},
+{
+"k": "27836",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Not a lot of visitors come through here."
+},
+{
+"k": "27837",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Fast or slow, he's waiting for you in there. So you can brush me off all you want, but it's not gonna change what you find."
+},
+{
+"k": "27838",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[unsure]I'm supposed to bring you right on in, so... if you'll come this way..."
+},
+{
+"k": "27839",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I see you found the place all right."
+},
+{
+"k": "27840",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I mean, of course you are."
+},
+{
+"k": "27841",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[knowing]Don't worry Tim, I'll show myself in."
+},
+{
+"k": "27842",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I'll follow you."
+},
+{
+"k": "27843",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[terse]Fine. Lead on."
+},
+{
+"k": "27844",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I got the call, what you think I'm going to say no?"
+},
+{
+"k": "27845",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Find another job."
+},
+{
+"k": "27846",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You work here?"
+},
+{
+"k": "27847",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Go ahead. You got a job to do."
+},
+{
+"k": "27848",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Step back."
+},
+{
+"k": "27849",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[out of breath][sarcastic]How polite of you to knock."
+},
+{
+"k": "27850",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Give me some breathing room, will ya?"
+},
+{
+"k": "27851",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[frustrated]Excuse me, but I have a job to do."
+},
+{
+"k": "27852",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "All right, you got me here. Let's talk."
+},
+{
+"k": "27853",
+"who": "TINY TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Sorry sir, he wouldn't wait up for me"
+},
+{
+"k": "27854",
+"who": "CROOKED MAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I'll make sure there's an extra something for you and your family this week."
+},
+{
+"k": "27855",
+"who": "CROOKED",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "It's all right, Tim."
+},
+{
+"k": "27856",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[nervous]I'm sorry, sir, he-- he wouldn't let me--[gets cut off]"
+},
+{
+"k": "27857",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[panicked]I'm so sorry, sir. [insistent]I had no idea he would--[gets cut off]"
+},
+{
+"k": "27858",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[announcing]Sheriff Wolf, sir."
+},
+{
+"k": "27859",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[professional, not overly cordial]Why don't you have a seat, Sheriff? [pointed]We have a great deal to discuss."
+},
+{
+"k": "27860",
+"who": "CROOKED",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I suppose this meeting was only a matter of time."
+},
+{
+"k": "27861",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[forceful]It's over. I'm bringing you in."
+},
+{
+"k": "27862",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[laughs to himself][menacing]I'm gonna enjoy this."
+},
+{
+"k": "27863",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Get this over with."
+},
+{
+"k": "27864",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "All right, let's get this over with. [terse]Come on."
+},
+{
+"k": "27865",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pointed]Hey! Fast or slow, he's waiting for you in there. [beat, struggling to keep up]So you can brush me off if you want, but it's not gonna change what you're walking into."
+},
+{
+"k": "27866",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "But make it quick."
+},
+{
+"k": "27867",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "For leaving off the \"Tiny\" part."
+},
+{
+"k": "27868",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You're Tim, right?"
+},
+{
+"k": "27869",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Whatever you may think about it... a lot of us depend on him."
+},
+{
+"k": "27870",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Hey, Sheriff, hold up..."
+},
+{
+"k": "27871",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I gotta go in with you."
+},
+{
+"k": "27872",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Can't you just wait up, Sheriff?"
+},
+{
+"k": "27873",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[Wait for him]"
+},
+{
+"k": "27874",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[dismissive]I don't have time for this."
+},
+{
+"k": "27875",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[calling from a growing distance]Hey! Wait up!"
+},
+{
+"k": "27876",
+"who": "PORGIE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[resigning] I'll… I'll… oh Bloody hell, just forget it."
+},
+{
+"k": "27877",
+"who": "PORGIE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[defiant] I'll.. I'll… I'll put a bloody ribbon round that skinny little neck of yours."
+},
+{
+"k": "27878",
+"who": "PORGIE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[annoyed] Laughin', laughin'… You're always laughin'."
+},
+{
+"k": "27879",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[exhasperated curse to himself]Oh, God bless us everyone!"
+},
+{
+"k": "27880",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[jumps on his line]Not so bad? Are you fucking blind, Tim? He's a murderer."
+},
+{
+"k": "27881",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[calling from behind]Ah, so you're telling me you agree with everything the Business Office does? Or Crane?"
+},
+{
+"k": "27882",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I know you have a job to do."
+},
+{
+"k": "27883",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You're a part of this."
+},
+{
+"k": "27884",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[understanding]I get it. You have a job to do."
+},
+{
+"k": "27885",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I do tonight. [defensive]I got the call and... well, do you think I'm gonna say no? It's a job."
+},
+{
+"k": "27886",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Thanks, by the way."
+},
+{
+"k": "27887",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "And I'm lucky to have it. [beat]This is the only option I've got."
+},
+{
+"k": "27888",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "It's dangerous for you here."
+},
+{
+"k": "27889",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[dismissive]You can drop the small talk. I'm not here for you."
+},
+{
+"k": "27890",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You should leave now."
+},
+{
+"k": "27891",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I can find the door myself."
+},
+{
+"k": "27892",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Leave? You think you're the only one with a job here?"
+},
+{
+"k": "27893",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Don't you realize you're not just minding the door? You work for that crooked bastard, your hands get dirty too."
+},
+{
+"k": "27894",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "It's not so bad."
+},
+{
+"k": "27895",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[exasperated]Hold on!"
+},
+{
+"k": "27896",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "So it's just that easy?"
+},
+{
+"k": "27897",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Maybe not, but you don't want to be a part of this."
+},
+{
+"k": "27898",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I understand your situation, but you know you don't have to do this. There are other places to find work."
+},
+{
+"k": "27899",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You've been warned. Stick around and you're a part of this, just like anyone else."
+},
+{
+"k": "27900",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Let me get the door."
+},
+{
+"k": "27901",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[out of breath][sarcastic]Now you wait?"
+},
+{
+"k": "27902",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[to Bigby]I was wondering when you'd turn up."
+},
+{
+"k": "27903",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Who's back there?"
+},
+{
+"k": "27904",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Tell me who the fuck is back there."
+},
+{
+"k": "27905",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[nervous]I... I don't exactly know. I-- I just mind the door. The boss is there. I know that much."
+},
+{
+"k": "27906",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "He's expecting you."
+},
+{
+"k": "27907",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "He's right in there."
+},
+{
+"k": "27908",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "What, you're not in a rush?"
+},
+{
+"k": "27909",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[nervous laugh]Well, I thought you were going to barrel right through me."
+},
+{
+"k": "27910",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "'Cause the way you came in, I thought..."
+},
+{
+"k": "27911",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Or escort a guest for that matter."
+},
+{
+"k": "27912",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I know I'm not first person who comes to mind to guard a door."
+},
+{
+"k": "27913",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I was a little surprised, myself, when they asked me to do it."
+},
+{
+"k": "27914",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I'm... an easy target."
+},
+{
+"k": "27915",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[nervous laugh]I thought it was a joke, acutally."
+},
+{
+"k": "27916",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I have to admit, I wasn't sure... [shrugs]what to expect from you when you came through that portal."
+},
+{
+"k": "27917",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I know I'm just minding the door and all."
+},
+{
+"k": "27918",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I know this isn't a social call."
+},
+{
+"k": "27919",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "But, I'm not stupid."
+},
+{
+"k": "27920",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "He's right. It was fine when Crane was smoothing things over, but this guy off his leash is a whole other barrel of... [thinking]crap that I don't wanna deal with."
+},
+{
+"k": "27921",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Let slip the dogs of war? Hm?"
+},
+{
+"k": "27922",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "So that's it then?"
+},
+{
+"k": "27923",
+"who": "DEE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I say he'd be more useful killed, skinned, and made into a rug for me to wipe me shoes on."
+},
+{
+"k": "27924",
+"who": "CROOKED",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Well done. Your impatience just cost him his job."
+},
+{
+"k": "27925",
+"who": "FC",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Portal surface."
+},
+{
+"k": "27926",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "We will tame the whelp, and like Crane, he will eventually be of more use to us alive."
+},
+{
+"k": "27927",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "None of you can see fit to stare him down?"
+},
+{
+"k": "27928",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "That's easy for you to say, he didn't pull the claws out on you."
+},
+{
+"k": "27929",
+"who": "DEE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Well I don't like it."
+},
+{
+"k": "27930",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "It's not for you to like."
+},
+{
+"k": "27931",
+"who": "DEE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[indignant]That bloody monster killed my poor brother!"
+},
+{
+"k": "27932",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[Knock]"
+},
+{
+"k": "27933",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "That won't be necessary."
+},
+{
+"k": "27934",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[accusatory towards Bigby]I shouldn't have expected the Sheriff to give you respect enough to do your job."
+},
+{
+"k": "27935",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[cordial]You can go now."
+},
+{
+"k": "27936",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pat on the back]But you handled it. You did well."
+},
+{
+"k": "27937",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pat on the back]But you did fine. You can go now."
+},
+{
+"k": "27938",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You see? Everyone in Fabletown has a role to fill. You just have to pay attention to what they need to help them find it."
+},
+{
+"k": "27939",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[surprised]Tim? What the hell are you doing here?"
+},
+{
+"k": "27940",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pissed]This fucking guy..."
+},
+{
+"k": "27941",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[ad lib surprise]"
+},
+{
+"k": "27942",
+"who": "DEE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[surprised]Bloody hell..."
+},
+{
+"k": "27943",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[ad lib shock]"
+},
+{
+"k": "27944",
+"who": "DEE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[surprised]What the fuck?"
+},
+{
+"k": "27945",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[shock]Holy shit!"
+},
+{
+"k": "27946",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Thanks, by the way... for leaving off \"Tiny\"."
+},
+{
+"k": "27947",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[shakes his head][to himself]\"Tiny Tim.\""
+},
+{
+"k": "27948",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You'd think I'd have outgrown that centuries ago."
+},
+{
+"k": "27949",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I don't need you to hold my hand."
+},
+{
+"k": "27950",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I don't want to get in trouble."
+},
+{
+"k": "27951",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Look, this is the one thing I have to do."
+},
+{
+"k": "27952",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Please, don't make this hard on me..."
+},
+{
+"k": "27953",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[unsure]Will you just... follow me?"
+},
+{
+"k": "27954",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "That's all I want, Sheriff."
+},
+{
+"k": "27955",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[exasperated curse TO HIMSELF]God bless us everyone."
+},
+{
+"k": "27956",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "But... this place?"
+},
+{
+"k": "27957",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Thanks for understanding. This is all I'm here to do, and... I don't want to mess it up."
+},
+{
+"k": "27958",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Or an escort for that matter."
+},
+{
+"k": "27959",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[nervous laugh]I know I'm probably the last person you'd expect to be a... guard."
+},
+{
+"k": "27960",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You should just get the hell outta here. Things are gonna get ugly in a minute."
+},
+{
+"k": "27961",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "If you're helping that crooked bastard, even in just... some small way, you're supporting everything he does."
+},
+{
+"k": "27962",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "There's a price to being a part of this. Even if you don't see it now."
+},
+{
+"k": "27963",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Thanks for not taking it out me... I'm just watching the door."
+},
+{
+"k": "27964",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "It's... not like that."
+},
+{
+"k": "27965",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You shouldn't be here, Tim. This place is dangerous. Especially for someone... like you[you know, crippled]."
+},
+{
+"k": "27966",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Tim, how can you be working here? You know who this guy is, don't you?"
+},
+{
+"k": "27967",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "He's not... [momentarily loses confidence to continue, then presses on]He's not as bad as you think."
+},
+{
+"k": "27968",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[defensive]He doesn't treat me like some... [pained]broken little kid."
+},
+{
+"k": "27969",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[a little defiant]He gave me a job."
+},
+{
+"k": "27970",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[defensive]Whatever you may think of him..."
+},
+{
+"k": "27971",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "But you gotta ask yourself if you wanna be involved with this guy."
+},
+{
+"k": "27972",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "The Business Office could learn a thing or two about that."
+},
+{
+"k": "27973",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[more to himself]I think he gets what it's like."
+},
+{
+"k": "27974",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "But I'm not stupid."
+},
+{
+"k": "27975",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I know I'm just minding the door and all..."
+},
+{
+"k": "27976",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[accusatory]Don't you realize you're not just minding the door? You work for that crooked bastard, your hands get dirty too."
+},
+{
+"k": "27977",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[calling from behind]So you're telling me you agree with everything Crane does?"
+},
+{
+"k": "27978",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Leave? I told you, I have to do this."
+},
+{
+"k": "27979",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Hey, you've been warned. Stick around and you're a part of this, just like anyone else."
+},
+{
+"k": "27980",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I understand the position you're in, but you don't have to do this. There are other things you could do."
+},
+{
+"k": "27981",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[clears his throat]Look... I know what you probably think of him..."
+},
+{
+"k": "27982",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[clears his throat]But he takes me seriously..."
+},
+{
+"k": "27983",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[struggling]Some of us never get to the front of the line at the Business office. But he's there."
+},
+{
+"k": "27984",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[struggling]A lot of us depend on him."
+},
+{
+"k": "27985",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You know, Tim would have been happy to have let you in."
+},
+{
+"k": "27986",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Portal Door"
+},
+{
+"k": "27987",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[Shake Hand]"
+},
+{
+"k": "27988",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[Smack Hand Away]"
+},
+{
+"k": "27989",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Working here means you're involved."
+},
+{
+"k": "27990",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "He'll come around."
+},
+{
+"k": "27991",
+"who": "CROOKED",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "The only solution you can come up with is to kill him?"
+},
+{
+"k": "27992",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You're not… frightened, are you?"
+},
+{
+"k": "27993",
+"who": "CROOKED",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I see we have the wolf among us."
+},
+{
+"k": "27994",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You needn't worry."
+},
+{
+"k": "27995",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "The best outcome you can picture is having him dead?"
+},
+{
+"k": "27996",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "I like to think a little bigger than that."
+},
+{
+"k": "27997",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "And like Crane before him, I'm sure he will prove himself quite handy to have in my pocket."
+},
+{
+"k": "27998",
+"who": "CROOKEDMAN",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Either he's smart enough to see this is for the best... or dim enough to do as he's told."
+},
+{
+"k": "27999",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "You were expecting me?"
+},
+{
+"k": "28000",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Where the hell am I?"
+},
+{
+"k": "28001",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "Kinda small for a guard..."
+},
+{
+"k": "28002",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pcikup1]But, you can't blame him for wanting to make it hard to find."
+},
+{
+"k": "28003",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]I'm not sure."
+},
+{
+"k": "28004",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]I know I'm not in Central Park anymore."
+},
+{
+"k": "28005",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]Or... where is it?"
+},
+{
+"k": "28006",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]What is this place?"
+},
+{
+"k": "28007",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]Maybe he just wants to talk?"
+},
+{
+"k": "28008",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]You know, I kinda thought the Crooked Man would have bigger guards."
+},
+{
+"k": "28009",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]Hold on, you've just been waiting for me to show up?"
+},
+{
+"k": "28010",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]That's what they told me."
+},
+{
+"k": "28011",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]I mean, that's what they told me."
+},
+{
+"k": "28012",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]You knew I was coming?"
+},
+{
+"k": "28013",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][relieved]I have to admit, when they asked me to watch the door..."
+},
+{
+"k": "28014",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]I know you aren't here on a social call."
+},
+{
+"k": "28015",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][relieved]I wasn't sure what to expect when you came through that portal."
+},
+{
+"k": "28016",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][unsure]I have to admit, when they asked me to watch the door..."
+},
+{
+"k": "28017",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][unsure]I wasn't sure what to expect when you came through it."
+},
+{
+"k": "28018",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][resigned]But I get it... You're not here on a social call."
+},
+{
+"k": "28019",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]Then again, I guess I don't know what else I should have expected..."
+},
+{
+"k": "28020",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][hurt]I know this isn't a social call..."
+},
+{
+"k": "28021",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]But I'm just watching the door, here."
+},
+{
+"k": "28022",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1][shrugs]I don't even know what borough it's in."
+},
+{
+"k": "28023",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup 1]I've only ever come in through one of the portals. I don't think you can get in from the actual street."
+},
+{
+"k": "28024",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]I'm almost insulted he doesn't."
+},
+{
+"k": "28025",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]Trolls. Ogres."
+},
+{
+"k": "28026",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]I dunno, they said you made it pretty clear."
+},
+{
+"k": "28027",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]So thanks for not giving me a hard time."
+},
+{
+"k": "28028",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]And if you're here, it can't be good."
+},
+{
+"k": "28029",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]So I hope you two can... come to an understanding."
+},
+{
+"k": "28030",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]Just... keep that in mind, maybe?"
+},
+{
+"k": "28031",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]'Cause if you and the boss go up against each other... the rest of Fabletown is gonna get caught in the middle."
+},
+{
+"k": "28032",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]What we don't need is a war."
+},
+{
+"k": "28033",
+"who": "TIM",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup1]We need you... but we need him too."
+},
+{
+"k": "28034",
+"who": "",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[Don't Shake]"
+},
+{
+"k": "28035",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup2]It's over. Dead or alive, you're coming with me."
+},
+{
+"k": "28036",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup3][a challenge]You'll what?"
+},
+{
+"k": "28037",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup3]It's the wolf I got a problem with."
+},
+{
+"k": "28038",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup3]I ain't scared of you."
+},
+{
+"k": "28039",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup3][Derisive laughter]"
+},
+{
+"k": "28040",
+"who": "JERSEY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[pickup3]Oh yeah? Make me."
+},
+{
+"k": "28041",
+"who": "PORGIE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[annoyed] Laughin', laughin', you're always fuckin' laughin'."
+},
+{
+"k": "28042",
+"who": "GEORGIE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[annoyed] Am I some kind of a fucking joke to you?"
+},
+{
+"k": "28043",
+"who": "GEORGIE",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[annoyed] What did I tell you, eh? Stop laughin' at me."
+},
+{
+"k": "28044",
+"who": "BIGBY",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "[edit]No, I'm bringing you in. One way or another."
+},
+{
+"k": "28045",
+"who": "CHOER",
+"ctx": "Fables104/env_crookedmanlair",
+"en": "This should probably be the same as env_CrookedManLair_cs_walkAndTalk_3a.chore without the Tim line. Possibly a more pained/rushed Tim crutch walk animation."
+},
+{
+"k": "28046",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Cute, someone has a sense of humour."
+},
+{
+"k": "28047",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Strange, the Hangman's rope, Jack Ketch."
+},
+{
+"k": "28048",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Guess so,  public executions thing of the past."
+},
+{
+"k": "28049",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from the cashier> Oh is that where they are?"
+},
+{
+"k": "28050",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Jack did you pawn the Trip Trap Darts?"
+},
+{
+"k": "28051",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[muttering to himself] Reminds me of Briar Rose..."
+},
+{
+"k": "28052",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "<sighs>"
+},
+{
+"k": "28053",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "Yeah Bigby."
+},
+{
+"k": "28054",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "<to himself>Cute someone has a sense of humour."
+},
+{
+"k": "28055",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<little frustrated> Yes Bigby"
+},
+{
+"k": "28056",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "How much is it?"
+},
+{
+"k": "28057",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Who made this?"
+},
+{
+"k": "28058",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Get rid of this shit."
+},
+{
+"k": "28059",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>I don't know some Fable, but obviously they're not fans."
+},
+{
+"k": "28060",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Who made this set up?"
+},
+{
+"k": "28061",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "<sheepishly> Thanks."
+},
+{
+"k": "28062",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "How much for the all the toys?"
+},
+{
+"k": "28063",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "Sold already."
+},
+{
+"k": "28064",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Who bought it?"
+},
+{
+"k": "28065",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Do I know the person?"
+},
+{
+"k": "28066",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Strange obsession."
+},
+{
+"k": "28067",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>Bluebeard, it was Bluebeard."
+},
+{
+"k": "28068",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>Paid full price, didn't even haggle."
+},
+{
+"k": "28069",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>Done already.  It's all sold."
+},
+{
+"k": "28070",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Jack, get rid of this shit as soon as possible."
+},
+{
+"k": "28071",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>and better yet, get this Bigby it's all sold."
+},
+{
+"k": "28072",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "Like it that much?  Too late all sold."
+},
+{
+"k": "28073",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>Went fast."
+},
+{
+"k": "28074",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting>I know I was speechless too, but it's all sold."
+},
+{
+"k": "28075",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Who bought the whole set?"
+},
+{
+"k": "28076",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "You can't tell me it's someone that I know."
+},
+{
+"k": "28077",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting> I sure can."
+},
+{
+"k": "28078",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Stra-"
+},
+{
+"k": "28079",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "Yeah freaky, who would want to play with toys that like you guys?"
+},
+{
+"k": "28080",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting> Careful with that Bigby, jeez."
+},
+{
+"k": "28081",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Why, what's the problem?"
+},
+{
+"k": "28082",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "I told you to be quiet."
+},
+{
+"k": "28083",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Relax, I'm being careful."
+},
+{
+"k": "28084",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting> Because it's the damn Phoenix ashes."
+},
+{
+"k": "28085",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Why? What's the problem?"
+},
+{
+"k": "28086",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting> Ok Bigby, ok! Relax."
+},
+{
+"k": "28087",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Fuck you, I'll do what I want, this is official business."
+},
+{
+"k": "28088",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<from cashier position projecting> Woah."
+},
+{
+"k": "28089",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "I'm being as careful as can be, relax."
+},
+{
+"k": "28090",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Lawrence dagger, really?"
+},
+{
+"k": "28091",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "Blacksmith was here, haven't seen him for a while."
+},
+{
+"k": "28092",
+"who": "BILLYGOAT",
+"ctx": "Fables104/env_pawnshop",
+"en": "<sighing> Uh oh, come on in Bigby,  I don't need any of this noise."
+},
+{
+"k": "28093",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<to himself> Oh God, this is all I need."
+},
+{
+"k": "28094",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "Are you listening to me, this is a legitimate item.  I swear it.  I fucking double swear it."
+},
+{
+"k": "28095",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "<acts surprised and happy> Bigby!"
+},
+{
+"k": "28096",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "Ah for fuck's sake!"
+},
+{
+"k": "28097",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "Quick let's finish this transaction before Bigby fucks the whole place up."
+},
+{
+"k": "28098",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "Ok, ok don't rush me."
+},
+{
+"k": "28099",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "You seem to have a lethargic way with things."
+},
+{
+"k": "28100",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "<stressing> I have to  get me hands on some -"
+},
+{
+"k": "28101",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "I understand Toad."
+},
+{
+"k": "28102",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Where's your glamour, Toad?"
+},
+{
+"k": "28103",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "This is official business."
+},
+{
+"k": "28104",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "What's going on? What are you doing here, Toad..."
+},
+{
+"k": "28105",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "Here we go again with Bigby."
+},
+{
+"k": "28106",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "Toad please, I don't need Bigby fucking this gig up for me."
+}
+]

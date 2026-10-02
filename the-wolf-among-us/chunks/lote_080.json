@@ -1,0 +1,1640 @@
+[
+{
+"k": "21646",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[impatient] {AngryB}{body-SmokePocket}Flycatcher, {ThinkingA}{body-HandOnHipLeft}I'm in a hurry."
+},
+{
+"k": "21647",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{DoubtfulA}{body-HandOnHipLeft}Why don't you take the night off?"
+},
+{
+"k": "21648",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "That's OK..."
+},
+{
+"k": "21649",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Of course. Bigby, their office is right down the hall here."
+},
+{
+"k": "21650",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I was just headed that way. I can let you in."
+},
+{
+"k": "21651",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[awkward]That's nice of you, but... I can't. I still have to clean their office."
+},
+{
+"k": "21652",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You're in luck. I was just heading to thier office next. I'll let you in."
+},
+{
+"k": "21653",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You know Sherrif, I was just headed to thier office next.\nFLYCATCHERL Why don't I let you in?"
+},
+{
+"k": "21654",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingB}{body-StandA}Sure. [awkward] {ThinkingA}{body-SmokePocket}Thanks."
+},
+{
+"k": "21655",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[conversational] They've just been so nice, y'know? I'd hate to mess it up."
+},
+{
+"k": "21656",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They were kind enough to offer me the job."
+},
+{
+"k": "21657",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They told me I might get a raise soon."
+},
+{
+"k": "21658",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[laughs] Oh, Dum came in with the funniest joke."
+},
+{
+"k": "21659",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "This is intresting and might be releavent to my case, but I can't quite tell for sure."
+},
+{
+"k": "21660",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Nothing here."
+},
+{
+"k": "21661",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I know these guys can come off... abrasive at times, but they aren't so bad once you get to know them."
+},
+{
+"k": "21662",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{AngryA}{body-X}How do you mean, they {AngryC}\"help\"{AngryA} people?{body-StandA}"
+},
+{
+"k": "21663",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "These guys aren't the nice guys you think they are."
+},
+{
+"k": "21664",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[hesitant] Wh-- What i-- What if you're wrong about them?"
+},
+{
+"k": "21665",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I mean, you know, like when I think about it, you guys aren't that different."
+},
+{
+"k": "21666",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[sheepishly]Yeah, Maybe your right Bigby."
+},
+{
+"k": "21667",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "See, I knew you wouldn't find anything. Anything of interest, anyways..."
+},
+{
+"k": "21668",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-HandOnHipLeft}They only care about helping{body-X} criminals."
+},
+{
+"k": "21669",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{body-StandA}{AngryA}Don't be naive.{body-X} Do you really think they're {DoubtfulA}\"helping people\"?"
+},
+{
+"k": "21670",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[angry]{AngryD}{body-Hips}Let's get one thing straight:"
+},
+{
+"k": "21671",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[angry; hurt]{AngryD}Is{AngryE}{body-Hips} that what you think?"
+},
+{
+"k": "21672",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[angry]{AngryD}{body-HandOnHipLeft}You don't know what you're{AngryE} talking about.{AngryD}"
+},
+{
+"k": "21673",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[irritated]{AngryB}{body-Pocket}Look, just trust me on this. {ThinkingA}Tweedle Dee and Dum are not{AngryC}{body-ArmsOut} \"nice\", {NormalA}{body-StandA}they're not \"helping\"{body-X} anyone."
+},
+{
+"k": "21674",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[defeated] Okay. Sorry."
+},
+{
+"k": "21675",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[irritated]Why would these \"nice guys\" shoot up a funeral?"
+},
+{
+"k": "21676",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[irritated] Why would these \"nice guys\" by trailing Snow White?"
+},
+{
+"k": "21677",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[noticing blood]Bigby!"
+},
+{
+"k": "21678",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "There's your detectives. Those basards shot me!"
+},
+{
+"k": "21679",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll tell you who they are."
+},
+{
+"k": "21680",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-HandOnHipLeft}\tYou wanna know what this is? {AngryA}This is them showing up to Lily's funeral with fucking {AngryE}{body-StandA}shotguns!"
+},
+{
+"k": "21681",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "That's the \"nice guys\" you're talking about."
+},
+{
+"k": "21682",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Jesus Bigby."
+},
+{
+"k": "21683",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'm sorry. You're right."
+},
+{
+"k": "21684",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "\"Other office?!\" Show me the way."
+},
+{
+"k": "21685",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[frustrated] And you're just wasting my time here."
+},
+{
+"k": "21686",
+"who": "FLYCATHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Perhaps you might have better luck in thier \"other\" office"
+},
+{
+"k": "21687",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-Pocket}I haven't found anything {DoubtfulA}yet."
+},
+{
+"k": "21688",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{AngryC}{body-StandA}Just-- {AngryA}...stay out of this. {body-HandOnHipLeft}I have work to do."
+},
+{
+"k": "21689",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-StandA}I'm finding{AngryB}{body-X} enough."
+},
+{
+"k": "21690",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They probably wouldn't like me taking you down here."
+},
+{
+"k": "21691",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "This was definately destined for a witch. But was it Crane's?"
+},
+{
+"k": "21692",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I wonder what they were weighing?"
+},
+{
+"k": "21693",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "This is interesting and makes me feel like I'm making progress"
+},
+{
+"k": "21694",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{body-HandOnHipLeft}We found her hair like this inside{ThinkingA} Lily's glamour."
+},
+{
+"k": "21695",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[this is gross]I guess Dee and Dum were getting the hair for Crane and sending it to her?"
+},
+{
+"k": "21696",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{WorriedA}{body-StandA}It's Snow's hair."
+},
+{
+"k": "21697",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Oh, hi... Sheriff Bigby! Great-- Great to see you. [hesitant] I... don't know if you remember me..."
+},
+{
+"k": "21698",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-X}[\"don't be silly\"]I know who you are, Flycatcher. You've worked at the Woodlands for...{ConfusedA}{body-ArmsOut} how many years now?"
+},
+{
+"k": "21699",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}[clearing throat cough]"
+},
+{
+"k": "21700",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{body-Pocket}Excuse me."
+},
+{
+"k": "21701",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[small chuckle] Heh. I think I've lost count."
+},
+{
+"k": "21702",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[humming \"Froggy Went A-Courtin'\"; slow pace]"
+},
+{
+"k": "21703",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[changing the subject]So... what brings you here? I mean can I help you with anything?"
+},
+{
+"k": "21704",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "It's probably top secret government type stuff, right?"
+},
+{
+"k": "21705",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Are you here to see one of the brothers?"
+},
+{
+"k": "21706",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'm-- I'm sorry! I-- I don't mean to pry."
+},
+{
+"k": "21707",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll do what I can."
+},
+{
+"k": "21708",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They-- They aren't-- They aren't here right now. [thinking] Not sure when they'll be back."
+},
+{
+"k": "21709",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Did you make an appointment?"
+},
+{
+"k": "21710",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "'Cause I can let you in if you want to wait."
+},
+{
+"k": "21711",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Dee or Dum?"
+},
+{
+"k": "21712",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-SmokeHandOnHipLeft}I was hoping to have a talk with Dee or Dum."
+},
+{
+"k": "21713",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I don't really think he likes me."
+},
+{
+"k": "21714",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Not around here. I saw him leave the Woodlands earlier, but I'm not supposed to bother him."
+},
+{
+"k": "21715",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Uh, I don't know her name, or where she lives, really. She just sometimes drops stuff off for the brothers... to deliver."
+},
+{
+"k": "21716",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}Deliver to who?"
+},
+{
+"k": "21717",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Um, I dunno, sometimes, but--"
+},
+{
+"k": "21718",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Oh... sorry."
+},
+{
+"k": "21719",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "No... they don't really keep regular hours as far as I can tell. Sorry."
+},
+{
+"k": "21720",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I think the twins are out... Probaby working on a case."
+},
+{
+"k": "21721",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Sometimes I don't see them for days."
+},
+{
+"k": "21722",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Probaby working on a case."
+},
+{
+"k": "21723",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "But I like it here. Gotta stay busy, you know...?"
+},
+{
+"k": "21724",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They gave me the job after Crane told me to get lost."
+},
+{
+"k": "21725",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[changing the subject; slightly sad] Well, it's nice working here anyway."
+},
+{
+"k": "21726",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Oh, right this way. I was going there next anyway."
+},
+{
+"k": "21727",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[disappointed] Oh, sorry."
+},
+{
+"k": "21728",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I can let you in if you want. You can wait for them there..."
+},
+{
+"k": "21729",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[awkward] I was just gonna clean their office next."
+},
+{
+"k": "21730",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[distracted]{AngryB} I'm gonna have to take a look around."
+},
+{
+"k": "21731",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Uh... Well, I guess that would be okay."
+},
+{
+"k": "21732",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[nervous] Right. You're the sheriff. [nervous babbling] I just don't want to get in trouble or anything."
+},
+{
+"k": "21733",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-Smoke}It's official Fabletown business.{ThinkingA} Don't worry."
+},
+{
+"k": "21734",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[offhand]{ThinkingA}{body-Smoke} I wasn't really asking for permission."
+},
+{
+"k": "21735",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Looking for Dee and Dum."
+},
+{
+"k": "21736",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Have you seen Crane?"
+},
+{
+"k": "21737",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Seen a witch?"
+},
+{
+"k": "21738",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Where's their office?"
+},
+{
+"k": "21739",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'm in a hurry."
+},
+{
+"k": "21740",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Take the night off."
+},
+{
+"k": "21741",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "And, you know, it pays well."
+},
+{
+"k": "21742",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They even let me work at night, so it doesn't interfere with my schedule at The Woodlands."
+},
+{
+"k": "21743",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Said I had good work ethic."
+},
+{
+"k": "21744",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Isn't that something?"
+},
+{
+"k": "21745",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "It was... [trying to remember] Oh, how did it go?"
+},
+{
+"k": "21746",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "It was probably better when he told it anyway."
+},
+{
+"k": "21747",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "A pretzel walks into a bar..."
+},
+{
+"k": "21748",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "So he says, \"Help me! The pretzels are complimentary!\"."
+},
+{
+"k": "21749",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "No, the pretzels were already there... a man walks in..."
+},
+{
+"k": "21750",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "And they really care about helping people."
+},
+{
+"k": "21751",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "And they do what they can."
+},
+{
+"k": "21752",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I see people come in here, looking for help..."
+},
+{
+"k": "21753",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "This one time I was having a really bad day, you know."
+},
+{
+"k": "21754",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're nice guys. Really."
+},
+{
+"k": "21755",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "It's like if someone lost their cat or something, they could hire them to track her down."
+},
+{
+"k": "21756",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "The way Dee explains it... It's like if someone lost their cat, they could hire them to, you know, track it down."
+},
+{
+"k": "21757",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "No, I think you've got the wrong idea. They help all kinds of people."
+},
+{
+"k": "21758",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[frustrated]They aren't tracking down cats here."
+},
+{
+"k": "21759",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[a little annoyed] It was just an example."
+},
+{
+"k": "21760",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're detectives. Anyone can come in here with a problem and they'll do their best to fix it."
+},
+{
+"k": "21761",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "That's what they do."
+},
+{
+"k": "21762",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "For who?"
+},
+{
+"k": "21763",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ConfusedA}{body-Pocket}Sure, Flycatcher."
+},
+{
+"k": "21764",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[not convinced] Anyways, I'm just saying... you just don't know them like I do."
+},
+{
+"k": "21765",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "See?"
+},
+{
+"k": "21766",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're detectives. Like I said."
+},
+{
+"k": "21767",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Just-- Just trying to make an honest living!"
+},
+{
+"k": "21768",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[stern; irritated] {ConfusedA}{body-StandA}Okay, great, {NormalA}they helped{ThinkingA}{body-ArmsOut} you. {AngryA}{body-Hips}That's one person."
+},
+{
+"k": "21769",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I mean, how many guys do you know that would be willing to help me out like they did?"
+},
+{
+"k": "21770",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[annoyed] I'm not."
+},
+{
+"k": "21771",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Not that it's any of my business, but..."
+},
+{
+"k": "21772",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Maybe if you just give them a chance..."
+},
+{
+"k": "21773",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "People can surprise you."
+},
+{
+"k": "21774",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[angry]they are{AngryE} nothing{AngryD} like me."
+},
+{
+"k": "21775",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "How do you mean?"
+},
+{
+"k": "21776",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They only help criminals."
+},
+{
+"k": "21777",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Don't be naïve."
+},
+{
+"k": "21778",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'm finding enough."
+},
+{
+"k": "21779",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're nothing like me."
+},
+{
+"k": "21780",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Is that what you think?"
+},
+{
+"k": "21781",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You don't know anything."
+},
+{
+"k": "21782",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{AngryD}{body-StandA}[angry]Because they're{AngryE}{body-ArmsOut} lying{body-StandA} to you, {NormalB}okay Flycatcher? {AngryD}That's why."
+},
+{
+"k": "21783",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{AngryA}They{body-Hips} {AngryE}aren't \"detectives\"!"
+},
+{
+"k": "21784",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{AngryB}{body-ArmsOut}[angry]They're hired guns. {AngryE}Hitmen!"
+},
+{
+"k": "21785",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[unsure]No..."
+},
+{
+"k": "21786",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[angry]{AngryA}{body-Hips}They shot at Snow White!"
+},
+{
+"k": "21787",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[unsure]They... what?"
+},
+{
+"k": "21788",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[angry]{AngryA}{body-HandOnHipLeft}They're somehow involved in the murders, Flycatcher. {AngryC}Two Fables are{AngryB} dead!"
+},
+{
+"k": "21789",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're hired hitmen!"
+},
+{
+"k": "21790",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They shot at Snow White!"
+},
+{
+"k": "21791",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're involved in the murders."
+},
+{
+"k": "21792",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Do you get it {AngryE}{body-ArmsOut}now?"
+},
+{
+"k": "21793",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[listing]{AngryA}{body-X} Holly and Gren both got injured,{body-StandA} Snow White nearly got her {body-Hips}{AngryE}head{AngryB} blown off..."
+},
+{
+"k": "21794",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They're bad people!"
+},
+{
+"k": "21795",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I-- I'm sorry, I'm sorry, I-- I didn't know..."
+},
+{
+"k": "21796",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[defeated] You coming?"
+},
+{
+"k": "21797",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[slight annoyance] Coming where?"
+},
+{
+"k": "21798",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "If what you're looking for isn't in here..."
+},
+{
+"k": "21799",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Well, you know..."
+},
+{
+"k": "21800",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I didn't know..."
+},
+{
+"k": "21801",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[feeling awkward; still agitated]{WorriedA}{body-StandA} I {WorriedB}{body-X}didn't mean to..."
+},
+{
+"k": "21802",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They told me I didn't have to clean this room. I never thought..."
+},
+{
+"k": "21803",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "It doesn't matter."
+},
+{
+"k": "21804",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I hope this helps."
+},
+{
+"k": "21805",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Snow White? Why w--"
+},
+{
+"k": "21806",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingB}Aunty Greenleaf.{body-StandA} This must be the witch {AngryA}Crane was using."
+},
+{
+"k": "21807",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "There's no address on it."
+},
+{
+"k": "21808",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I should call the Business Office."
+},
+{
+"k": "21809",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Snow needs to know about this."
+},
+{
+"k": "21810",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Maybe Bufkin found something."
+},
+{
+"k": "21811",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-X}I'll check in with the Business Office. Maybe there's a record of{ThinkingB} Aunty Greenleaf."
+},
+{
+"k": "21812",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-StandA}I should tell Snow about this.{WorriedA} {body-HandOnHipLeft}She might need to change her locks."
+},
+{
+"k": "21813",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I can take care of that. If you want."
+},
+{
+"k": "21814",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-X}Maybe she can find a record on this Aunty Greenleaf."
+},
+{
+"k": "21815",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-X}\tI wonder if Bufkin and Snow had any luck. {ThinkingA}Maybe they found an address."
+},
+{
+"k": "21816",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{DoubtfulA}{body-StandA}Or can check for a record on Aunty Greenleaf."
+},
+{
+"k": "21817",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "So what now?"
+},
+{
+"k": "21818",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Did you get what you needed?"
+},
+{
+"k": "21819",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Snow would probably want to know about this..."
+},
+{
+"k": "21820",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Don't you think?"
+},
+{
+"k": "21821",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "So-- So what now?"
+},
+{
+"k": "21822",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I think I saw a phone near the back."
+},
+{
+"k": "21823",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You're welcome, Sheriff."
+},
+{
+"k": "21824",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-StandA}Thanks."
+},
+{
+"k": "21825",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call; rushed]Business Office, this is Snow White."
+},
+{
+"k": "21826",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call; relieved] Oh, it's you. Sorry, I've been answering angry phone calls for hours. People want to know where Crane is."
+},
+{
+"k": "21827",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{body-Pocket}{ThinkingA}Hey, Snow."
+},
+{
+"k": "21828",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Any luck with the Tweedle Brothers?"
+},
+{
+"k": "21829",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They weren't here."
+},
+{
+"k": "21830",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Define luck."
+},
+{
+"k": "21831",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I ran into Flycatcher."
+},
+{
+"k": "21832",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call]No... I'll get Bufkin started looking for her record, but it might take some time."
+},
+{
+"k": "21833",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}You heard of her?"
+},
+{
+"k": "21834",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Dee and Dum weren't around."
+},
+{
+"k": "21835",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "No, but I did get her name. Aunty Greenleaf."
+},
+{
+"k": "21836",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[sigh; annoyed] So you didn't find Crane's witch."
+},
+{
+"k": "21837",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Define \"luck\"."
+},
+{
+"k": "21838",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I ran into Flycatcher over here. He's working the night shift as the janitor."
+},
+{
+"k": "21839",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Even a name would help."
+},
+{
+"k": "21840",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "We're not making any progress over here."
+},
+{
+"k": "21841",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Without any info I don't think we're gonna find anything."
+},
+{
+"k": "21842",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call]Or Crane's. You might find something there."
+},
+{
+"k": "21843",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call]You might want to try Holly's place. See if she hasn't burned Lily's things yet."
+},
+{
+"k": "21844",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You gonna tell her about Aunty Greenleaf?"
+},
+{
+"k": "21845",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Did he say \"Greenleaf\"?"
+},
+{
+"k": "21846",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Are you still there?"
+},
+{
+"k": "21847",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[louder] Bigby?"
+},
+{
+"k": "21848",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingB}{body-Pocket}No address yet, but I got a name for Crane's witch.{NormalB} Aunty Greenleaf."
+},
+{
+"k": "21849",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[sigh]Did you find anything about Crane's witch?"
+},
+{
+"k": "21850",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Flycatcher's working the night shift here. Don't worry, he's not involved."
+},
+{
+"k": "21851",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Huh. Did you find anything about Crane's witch?"
+},
+{
+"k": "21852",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[clearing throat]"
+},
+{
+"k": "21853",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll go to the Trip Trap."
+},
+{
+"k": "21854",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll go to Crane's apartment."
+},
+{
+"k": "21855",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call]Crane is meeting her at two am."
+},
+{
+"k": "21856",
+"who": "SNOW",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[processed: phone call]I'll leave it up to you, but we don't have much time."
+},
+{
+"k": "21857",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll head over to the Trip Trap."
+},
+{
+"k": "21858",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{NormalA}{body-Pocket}I'll go to Crane's apartment. See if there's an address or {ThinkingA}{body-StandA}something there."
+},
+{
+"k": "21859",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself]{DoubtfulA}{body-StandA}Let's see if they've got a file on Crane."
+},
+{
+"k": "21860",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[reading; to himself]{ThinkingB}{body-HandOnHipLeft}\"Dear Brother Dee, I think we should get ourselves a dog. Sincerely, Brother Dum.\""
+},
+{
+"k": "21861",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[muttering]Couple of freaks."
+},
+{
+"k": "21862",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "They do have their quirks."
+},
+{
+"k": "21863",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingB}{body-HandOnHipLeft}[reading; to himself]\"Dear Brother Dum, I hate dogs and you know it! Sincerely, Brother Dee.\""
+},
+{
+"k": "21864",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-StandA}[muttering]Couple of freaks."
+},
+{
+"k": "21865",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself] {ConfusedA}{body-StandA}What's that about?"
+},
+{
+"k": "21866",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself]{ConfusedA}{body-StandA}He actually mailed this?"
+},
+{
+"k": "21867",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to Flycatcher] Hey, Flycatcher."
+},
+{
+"k": "21868",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "No info about his witch on this."
+},
+{
+"k": "21869",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Sorry, no."
+},
+{
+"k": "21870",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You sure you don't know anything about a witch coming by here?"
+},
+{
+"k": "21871",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Do you know of a witch who might have come by to see these guys?"
+},
+{
+"k": "21872",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Not that I know of. Do you know her name? Maybe I just didn't realize..."
+},
+{
+"k": "21873",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[sigh]Nevermind."
+},
+{
+"k": "21874",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Worth a shot, right?"
+},
+{
+"k": "21875",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You could try under \"W\"."
+},
+{
+"k": "21876",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[frustrated] I'm not gonna find her this way."
+},
+{
+"k": "21877",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[grumbles]Hmm. Nothing about his witch."
+},
+{
+"k": "21878",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself]He's been gambling?"
+},
+{
+"k": "21879",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself]Looks like Beauty's got herself into some trouble."
+},
+{
+"k": "21880",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself]{ThinkingB}{body-StandA}This is worse than I thought."
+},
+{
+"k": "21881",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself;disappointed and worried] Beauty."
+},
+{
+"k": "21882",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself; this is bad]{WorriedA}{body-StandA} Beauty's in debt to the Crooked Man?"
+},
+{
+"k": "21883",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself]{NormalB}{body-StandA}Shit."
+},
+{
+"k": "21884",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[to himself; confused]{ConfusedA}{body-StandA} Detective Brannigan?"
+},
+{
+"k": "21885",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[reading]{ThinkingB} \"Keep an eye on her\"."
+},
+{
+"k": "21886",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Ah... Fuck.  Really?"
+},
+{
+"k": "21887",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll have it cleaned up, don't worry.  In a jiff.. maybe... an hour?  A few hours?"
+},
+{
+"k": "21888",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[sad]It'll take awhile."
+},
+{
+"k": "21889",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "What the hell happened?"
+},
+{
+"k": "21890",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "See, Mr Bluebeard came in... he was looking for something.  Real serious about it."
+},
+{
+"k": "21891",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "[growling in frustration to himself]Bluebeard, you troublesome son of a... one-step-ahead-of-me FUCK."
+},
+{
+"k": "21892",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Don't you know me, Mr Bigby?"
+},
+{
+"k": "21893",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Flycatcher.   Hey.  Sorry.  My mind was somewhere else."
+},
+{
+"k": "21894",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Um... Mr Bigby, why are you here?"
+},
+{
+"k": "21895",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I didn't send him."
+},
+{
+"k": "21896",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I have to go."
+},
+{
+"k": "21897",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "And Mr Bigby, you're always nice to me.  The Tweedles aren't.  In fact, after this...  Can I maybe get my old job back at the Woodlands?  Mister Crane banished me..."
+},
+{
+"k": "21898",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "She's always nice to me."
+},
+{
+"k": "21899",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You get to work with Snow White?"
+},
+{
+"k": "21900",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "You can work for us."
+},
+{
+"k": "21901",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Talk to Snow."
+},
+{
+"k": "21902",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "What an asshole!"
+},
+{
+"k": "21903",
+"who": "",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "What did he take?"
+},
+{
+"k": "21904",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "That's okay."
+},
+{
+"k": "21905",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I should get in touch with Snow."
+},
+{
+"k": "21906",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Hey kid... you work in this shit hole?"
+},
+{
+"k": "21907",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "It's alright.  I probably deserved it.  I got in his way."
+},
+{
+"k": "21908",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{WorriedA}{body-StandA}Are you okay? Your face..."
+},
+{
+"k": "21909",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "{ThinkingA}{body-StandA}What the Hell happened?"
+},
+{
+"k": "21910",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'll have it cleaned up soon.  I'm sorry."
+},
+{
+"k": "21911",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Did the Tweedles do that?"
+},
+{
+"k": "21912",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "No.  Mr Bluebeard did.  But I think it was an accident."
+},
+{
+"k": "21913",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Then, maybe a couple minutes before you got here, he whooped a little and ran out again.  He found it, I guess."
+},
+{
+"k": "21914",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I think he had trouble finding his thing at first.  He looked hard.  REAL hard.  Which is why... all the mess."
+},
+{
+"k": "21915",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "I'm not supposed to let anyone in, and that made Mr Bluebeard really mad, and he sort of ...  his hand kind of... right in my eye.  I saw stars for a second, and when I shook em off, he was in the office."
+},
+{
+"k": "21916",
+"who": "BIGBY",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Yup.  She's a nice person.  Mostly."
+},
+{
+"k": "21917",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "What? Where?"
+},
+{
+"k": "21918",
+"who": "FLYCATCHER",
+"ctx": "Fables103/env_tweedleoffice",
+"en": "Okay! I-- I guess..."
+}
+]

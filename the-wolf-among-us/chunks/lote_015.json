@@ -1,0 +1,1364 @@
+[
+{
+"k": "3785",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "But they-- they all have Fables in them."
+},
+{
+"k": "3786",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]So... what did you do with her."
+},
+{
+"k": "3787",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] There's bound to be information on her here... somewhere."
+},
+{
+"k": "3788",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Her name."
+},
+{
+"k": "3789",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Not sure"
+},
+{
+"k": "3790",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Just going to look around."
+},
+{
+"k": "3791",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]I want to start by finding out her real name."
+},
+{
+"k": "3792",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Okay.  I'll have Bufkin pull the history books."
+},
+{
+"k": "3793",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]I want to put a name to her face... if we have any paintings or old photo albums back there."
+},
+{
+"k": "3794",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]I'll just poke around on my own first."
+},
+{
+"k": "3795",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Why don't I find Bufkin?"
+},
+{
+"k": "3796",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Be back in a few minutes."
+},
+{
+"k": "3797",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][calling out]I got them! [less energy]The books you wanted... [even less]in case you still ...  [least energy]give a toot."
+},
+{
+"k": "3798",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]I've got to go."
+},
+{
+"k": "3799",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]It's not my problem.  [pause]NO.  It isn't."
+},
+{
+"k": "3800",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Well, I don't have any control over that."
+},
+{
+"k": "3801",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Okay, why don't you tell me then?"
+},
+{
+"k": "3802",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Yes, but he's not staying."
+},
+{
+"k": "3803",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Hello.  Woodland Building Business Office."
+},
+{
+"k": "3804",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][to Bigby, hushed, annoyed]What?  Give me a minute!"
+},
+{
+"k": "3805",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]C'mon.  Stop fucking around."
+},
+{
+"k": "3806",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][big sigh, very reluctant] {ThinkingB}Mirror, mirror, if you're... [thinks] {ThinkingA}able... {AngryA}tell me all about this Fable..."
+},
+{
+"k": "3807",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Hey Mirror.  I got a question."
+},
+{
+"k": "3808",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [mildly sarcastic] Well done."
+},
+{
+"k": "3809",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]That's why it's the rule."
+},
+{
+"k": "3810",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][sighs]...You know I'm not good at this."
+},
+{
+"k": "3811",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{doubtfulA}You know the rule."
+},
+{
+"k": "3812",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "Which Fable do you wish to know about?"
+},
+{
+"k": "3813",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [equally sarcastic] Thanks."
+},
+{
+"k": "3814",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Anyway."
+},
+{
+"k": "3815",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][fast, annoyed] {DoubtfulA}Mirror, mirror, blah blah able... blah blah blah about this Fable."
+},
+{
+"k": "3816",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{thinkingA}Show me the Woodsman."
+},
+{
+"k": "3817",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {thinkingB}Where is he?"
+},
+{
+"k": "3818",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]I'm sorry, Bigby, I don't know more than can be seen."
+},
+{
+"k": "3819",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {AngryA}Show me... Donkeyskin Girl."
+},
+{
+"k": "3820",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {ThinkingA}Show me... [hesitant, this could be bad] {WorriedA}Show me Faith."
+},
+{
+"k": "3821",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][narrows his eyes, recognizes the phrase] {ThinkingB}What?"
+},
+{
+"k": "3822",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Why did you say that?"
+},
+{
+"k": "3823",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][yes, a purposeful repetition] {WorriedA}These lips are sealed."
+},
+{
+"k": "3824",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [The Mirror realizes its bound by magic and is amused by it] Mmm, this is interesting... [pause] These lips are sealed."
+},
+{
+"k": "3825",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{thinkingB}Nobody, right now."
+},
+{
+"k": "3826",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{ThinkingA}He's a Prince, I think. {ThinkingB}Show me Prince Lawrence."
+},
+{
+"k": "3827",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{ThinkingA}1929 Andersen Street."
+},
+{
+"k": "3828",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{MockingA}Show me ... Bufkin."
+},
+{
+"k": "3829",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] It's not my choice of phrasing, Bigby. It's simply the way this has to be."
+},
+{
+"k": "3830",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][yelling out over his shoulder somewhere]{AngryB}Ey!  Put down the bottle and get to work!"
+},
+{
+"k": "3831",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][yelling]{sarcasticB}Still looking!"
+},
+{
+"k": "3832",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] You KNOW who I'm talking about."
+},
+{
+"k": "3833",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {AngryA}Well... until you do, I can't help you."
+},
+{
+"k": "3834",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [sighs] {MockingA}There's {DoubtfulA}no one who goes by that name anymore."
+},
+{
+"k": "3835",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {DoubtfulA}Tarot is a backwards art. I wouldn't put too much stock in its wisdom, Bigby."
+},
+{
+"k": "3836",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {ThinkingA}You know what this means?"
+},
+{
+"k": "3837",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {sarcasticA} Prevision's muddy. {MockingA}I'm as clear as a window."
+},
+{
+"k": "3838",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [grumpy] {SarcasticB}Not when you've been so helpful."
+},
+{
+"k": "3839",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Anything we can use?"
+},
+{
+"k": "3840",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{DoubtfulA}Yeah, an address for the husband."
+},
+{
+"k": "3841",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Cards.  Something Jack brought back from Appalachia.  God knows where they were before then."
+},
+{
+"k": "3842",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] A little on the nose, but I'll take it. . ."
+},
+{
+"k": "3843",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Anything more about the Prince?"
+},
+{
+"k": "3844",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][muttering] About fuckin' time."
+},
+{
+"k": "3845",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][to the line] Deputy Mayor Crane won't be able to see anyone today."
+},
+{
+"k": "3846",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][pissed] What? You said the same shit yesterday?"
+},
+{
+"k": "3847",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Sorry for any inconvenience this may cause you."
+},
+{
+"k": "3848",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][under his breath] Bitch..."
+},
+{
+"k": "3849",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]HEY!"
+},
+{
+"k": "3850",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Don't. It's fine."
+},
+{
+"k": "3851",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]What is it with that word tonight."
+},
+{
+"k": "3852",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]I've heard worse. You don't make a lot of friends in this job."
+},
+{
+"k": "3853",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Tarot Deck"
+},
+{
+"k": "3854",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Lamp"
+},
+{
+"k": "3855",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Flying Ship"
+},
+{
+"k": "3856",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] The name you're referring no longer applies, she'd adopted a new one to help her disguise."
+},
+{
+"k": "3857",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [a little scolding] No, Bigby. Only if you know her current name. . ."
+},
+{
+"k": "3858",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [annoyed] I don't know her current name."
+},
+{
+"k": "3859",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [In the middle of talking] --It's horrible, truly, absolutely, plainly horrible that this travesty happened right outside-- RIGHT outside, on the Woodlands' front porch! Right where-- where-- where we all live! Where we make our home! Haven't we suffered enough, I ask you! Haven't we suffered enough as a people! [turns to Bigby]"
+},
+{
+"k": "3860",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Miss White, I'm sorry, but it frankly doesn't matter at all what you think, and your influence here will only surely unspool the investigation into a tangle of dull twine. You can serve us best by doing what you do best: administrate, NOT surmise!"
+},
+{
+"k": "3861",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I've helped, Mr. Crane. Even if Bigby won't readily admit it right now. . ."
+},
+{
+"k": "3862",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] You're far too valuable here, my dear."
+},
+{
+"k": "3863",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Bigby, I'm sure, has this whole thing under complete control."
+},
+{
+"k": "3864",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] She's not going with. And that's absolutely final. With a rampant killer on the loose? Are you out of your wits? You're liable to put the poor girl in danger!"
+},
+{
+"k": "3865",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Look, Crane, I need Snow's help. It's a waste of resources to leave her in the office. It's better off for everyone if she comes with me."
+},
+{
+"k": "3866",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I'm not-- Mr. Crane, SIR, I don't NEED or WANT your protection, alright?"
+},
+{
+"k": "3867",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Yes! You do! Clearly you do! We ALL do, but it's only Bigby's JOB to put himself in harm's way."
+},
+{
+"k": "3868",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Why on Earth would I stay here filing UTILITY PAPERS when Bigby could be needing my help?"
+},
+{
+"k": "3869",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] You're just looking for any excuse now, aren't you? Any excuse!"
+},
+{
+"k": "3870",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] And utility papers still NEED to be filed, and I have more pressing matters to contend with, wouldn't you agree?!"
+},
+{
+"k": "3871",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] It's not an EXCUSE, it's a--"
+},
+{
+"k": "3872",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Right. [pause] Thank you, Bigby."
+},
+{
+"k": "3873",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [sad and discouraged] You're both mad, entirely mad. [beat, thinks] If you're so hellbent on her destruction, be my guest, but I'll hold you completely responsible for our Miss White's safety, Bigby. If anything happens, it'll be your head, I can assure you of that."
+},
+{
+"k": "3874",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] If Snow wants to come, she should come. She can handle herself and I could use the help."
+},
+{
+"k": "3875",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [quietly] Or... safER, at least."
+},
+{
+"k": "3876",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [relieved] Well I'm glad at least one of you has the prudent idea."
+},
+{
+"k": "3877",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [angry] Very well, then. I suppose there's no need to further discuss it."
+},
+{
+"k": "3878",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Snow... I think Crane's right. Maybe it'd be best for you to stay here. You can still help, but this way you'll be safe..."
+},
+{
+"k": "3879",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] And Bigby agrees with me, but is just too embarassed for your sake to say so!"
+},
+{
+"k": "3880",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Use with 3rd Card"
+},
+{
+"k": "3881",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Ring Symbol"
+},
+{
+"k": "3882",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] [muttering to himself] Damn... Just what the fuck is this supposed to mean?"
+},
+{
+"k": "3883",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{SarcasticA}Show me... Snow White."
+},
+{
+"k": "3884",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "I don't know her name."
+},
+{
+"k": "3885",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{ThinkingA}I don't know her name.  Not yet anyway."
+},
+{
+"k": "3886",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Then I regret I cannot help you, Bigby."
+},
+{
+"k": "3887",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{sarcasticA}Not much of a request... {sarcasticB}She's in this very room."
+},
+{
+"k": "3888",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] The picture's complete, he's on a dumb street."
+},
+{
+"k": "3889",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]Yeah, which street?"
+},
+{
+"k": "3890",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]{thinkingA}Very well. Please return should you wish to ask about someone else ... {sarcasticB}or someone new."
+},
+{
+"k": "3891",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] What're you-- blind?"
+},
+{
+"k": "3892",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] What? You don't see there's a line?"
+},
+{
+"k": "3893",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "I don't have time for this."
+},
+{
+"k": "3894",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I don't have time for this."
+},
+{
+"k": "3895",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "I work here."
+},
+{
+"k": "3896",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Hmm... that didn't feel very genuine."
+},
+{
+"k": "3897",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I work here."
+},
+{
+"k": "3898",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [sarcastic] And what great work you do, Sheriff."
+},
+{
+"k": "3899",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "I'm cutting the line."
+},
+{
+"k": "3900",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I know. I'm taking cuts."
+},
+{
+"k": "3901",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Fucker..."
+},
+{
+"k": "3902",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [defending herself] You asked me a question!"
+},
+{
+"k": "3903",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [yelling] Don't interrupt me Miss Snow!"
+},
+{
+"k": "3904",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [In the middle of yelling] --because you are the one bringing this to me, Miss Snow. The one who so simply \"stumbled\" upon this catastrophe on our very doorstep! The last thing I need with Mayor Cole away is a hysteria. Do you understand me?"
+},
+{
+"k": "3905",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [defending herself]Yes. Of course I do but--"
+},
+{
+"k": "3906",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "No one to blame."
+},
+{
+"k": "3907",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "It's my fault."
+},
+{
+"k": "3908",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] If anyone's to blame, it's me. You don't need to be yelling at her."
+},
+{
+"k": "3909",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] It isn't anyone's fault."
+},
+{
+"k": "3910",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Oh? Is that how you see things?"
+},
+{
+"k": "3911",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Instead of trying to assign blame, maybe we should figure out how to catch the fucker who did this."
+},
+{
+"k": "3912",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Back off!"
+},
+{
+"k": "3913",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Back off, Ichabod!"
+},
+{
+"k": "3914",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Instead of trying to assign blame, maybe we should try to figure out how to catch the fucker who did this."
+},
+{
+"k": "3915",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I don't need your help, Bigby."
+},
+{
+"k": "3916",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] It's not her fault."
+},
+{
+"k": "3917",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Sheriff, you are the one charged with protecting the citizens of Fabletown. Your failure to do so cost someone their life, and the safety of the entire community!"
+},
+{
+"k": "3918",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Oh. Says the man who is most to blame for this catastrophe! How convenient."
+},
+{
+"k": "3919",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense, poisonous] Oh, your role in this is duly noted!  Yes, let's talk about that!"
+},
+{
+"k": "3920",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Tell me you've been doing something. Are there any leads? Suspects?"
+},
+{
+"k": "3921",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Any shred of evidence you two know what the hell you're doing."
+},
+{
+"k": "3922",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Anything? Anything at all?"
+},
+{
+"k": "3923",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Because right now I have half a mind to fire the both of you."
+},
+{
+"k": "3924",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][intense] Well this is just wonderful. Not only is a Fable killed, but it was a Fable hooker to boot."
+},
+{
+"k": "3925",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] She was worried about a money situation."
+},
+{
+"k": "3926",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] The Woodsman? That drunk wretch was the cause of this?"
+},
+{
+"k": "3927",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] It's a lead. Nothing's certain yet."
+},
+{
+"k": "3928",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Well find him! Get him in here if that's all you have to go on."
+},
+{
+"k": "3929",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Bluebeard came to mind. It's his M.O. It's shaky, but--"
+},
+{
+"k": "3930",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Bluebeard is out of the country as we speak, so don't even think about accusing him of such a treacherous affair!"
+},
+{
+"k": "3931",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Bluebeard was mentioned..."
+},
+{
+"k": "3932",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4]If all you're operating off of is ancient history, we're all in more much trouble than I imagined."
+},
+{
+"k": "3933",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Don't be absurd!"
+},
+{
+"k": "3934",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [annoyed] The guy has a history of beheading young women. I'd say that's something worth checking out."
+},
+{
+"k": "3935",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] By that rationale, you're a suspect as well, Wolf."
+},
+{
+"k": "3936",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] The last thing we need is all of Fabletown knowing there's a killer amongst us."
+},
+{
+"k": "3937",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] You two need to get a handle on this situation quickly, and quietly."
+},
+{
+"k": "3938",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Call Vivian right this minute and let her know I'm coming in early for my massage."
+},
+{
+"k": "3939",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Snow!"
+},
+{
+"k": "3940",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I will."
+},
+{
+"k": "3941",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [gritted teeth] Yes... sir?"
+},
+{
+"k": "3942",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [unsure] I left it on your desk..."
+},
+{
+"k": "3943",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [flustered] Where is the bottle of wine you were to purchase?"
+},
+{
+"k": "3944",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [snarky] Do you see it? It's not a large desk Miss White."
+},
+{
+"k": "3945",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Yes. Thankfully."
+},
+{
+"k": "3946",
+"who": "BUFKIN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup1] Is... is he gone?"
+},
+{
+"k": "3947",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [unsure] I'm sure I..."
+},
+{
+"k": "3948",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [shitty] Oh, bother. Forget it. [muttering]Can't do anything right."
+},
+{
+"k": "3949",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [menacing]...or we'll find someone who can."
+},
+{
+"k": "3950",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [intense] Do your job, Sheriff."
+},
+{
+"k": "3951",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [flustered pissed yelling][alt] Do your fucking job, Sheriff!"
+},
+{
+"k": "3952",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [sighs]Well, that could've gone better."
+},
+{
+"k": "3953",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Crane is an asshole."
+},
+{
+"k": "3954",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "He gets a morning massage?"
+},
+{
+"k": "3955",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "What's the wine about?"
+},
+{
+"k": "3956",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Oh-- Crane doesn't like people smoking in--"
+},
+{
+"k": "3957",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Nevermind."
+},
+{
+"k": "3958",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [beat]Smoke away."
+},
+{
+"k": "3959",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] What an asshole."
+},
+{
+"k": "3960",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Yup. That was about an 8 on the asshole scale."
+},
+{
+"k": "3961",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [to herself]...asshole scale... that doesn't sound right."
+},
+{
+"k": "3962",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Who gets a massage this early?"
+},
+{
+"k": "3963",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Crane. It doesn't really matter the time of day. The mere scent of stress and he's out the door."
+},
+{
+"k": "3964",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Wine to a massage?"
+},
+{
+"k": "3965",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Probably a gift. The weird part of that is that he's actually being nice to someone."
+},
+{
+"k": "3966",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I know I bought that damn bottle."
+},
+{
+"k": "3967",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] [not shitty] I told you not to tell him."
+},
+{
+"k": "3968",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] I know... I probably should've listened to you."
+},
+{
+"k": "3969",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] For what it's worth... I still think it was better to tell him."
+},
+{
+"k": "3970",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Well... maybe we should have \"dragged it out.\""
+},
+{
+"k": "3971",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Yeah. Maybe..."
+},
+{
+"k": "3972",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Wasn't gonna say I told you so."
+},
+{
+"k": "3973",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] Well... I guess I should've listened to you and waited."
+},
+{
+"k": "3974",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] You don't have to say it. It would've been better to have more offer. Get our ducks in a row."
+},
+{
+"k": "3975",
+"who": "MIRROR",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4] {AngryA}Your impatience is callow, {AngryB}you're needlessly cruel, {doubtfulA}but have some respect for our historied rules."
+},
+{
+"k": "3976",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "Don't change the subject!  You are to blame for this unpleasantness, Miss Snow!"
+},
+{
+"k": "3977",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "I brought you this news as soon as I could!"
+},
+{
+"k": "3978",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "See?  Even Bigby agrees with me...as incompetent as he is."
+},
+{
+"k": "3979",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "You are trusted to keep things running smoothly around here!  This is a disaster!"
+},
+{
+"k": "3980",
+"who": "CRANE",
+"ctx": "Fables101/env_businessoffice",
+"en": "Who else is to blame, if not you?"
+},
+{
+"k": "3981",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Office Door"
+},
+{
+"k": "3982",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[upset, annoyed] I been standing here a half hour already."
+},
+{
+"k": "3983",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[upset, annoyed] You get to just walk in?"
+},
+{
+"k": "3984",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[upset, annoyed] Must be nice, being the Sheriff...  Do whatever the fuck you like."
+},
+{
+"k": "3985",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[bitter!]Yeah, you and all the rest of em in there."
+},
+{
+"k": "3986",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[angry]Is that supposed to be funny?"
+},
+{
+"k": "3987",
+"who": "GREN",
+"ctx": "Fables101/env_businessoffice",
+"en": "[angry]You see anyone here laughing, Sheriff?"
+},
+{
+"k": "3988",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Fuck you."
+},
+{
+"k": "3989",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "You're an asshole."
+},
+{
+"k": "3990",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Do it yourself."
+},
+{
+"k": "3991",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup4][low, tired]Fuck you, Crane."
+},
+{
+"k": "3992",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[dry laugh]Yeah, well. Good luck with that."
+},
+{
+"k": "3993",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[straight, flat]Yes.  Absolutely, sir.  Right away."
+},
+{
+"k": "3994",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Turn Page Right"
+},
+{
+"k": "3995",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Turn Page Left"
+},
+{
+"k": "3996",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Book of Symbols"
+},
+{
+"k": "3997",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Book of Symbols\n<<id:357110588>>"
+},
+{
+"k": "3998",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Symbol"
+},
+{
+"k": "3999",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Odd Name"
+},
+{
+"k": "4000",
+"who": "",
+"ctx": "Fables101/env_businessoffice",
+"en": "Elvish Text"
+},
+{
+"k": "4001",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] We should probably start by finding out her real name."
+},
+{
+"k": "4002",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] I gotta be honest... I don't quite know where to start.  This is your office, after all."
+},
+{
+"k": "4003",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5]That works."
+},
+{
+"k": "4004",
+"who": "BIGBY",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5]I'm gonna poke around a bit. I'll let you know if I need anything."
+},
+{
+"k": "4005",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Well, I'll get this appointment squared away. Let me know if you need anything."
+},
+{
+"k": "4006",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Hello, Vivian? Hi, this is Snow White, Mr. Crane's assistant? Hi, yes, I'm just calling to let you know that Mr. Crane's schedule seems to have filled up for the rest of the day and he's coming in early for his appointment."
+},
+{
+"k": "4007",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] I'll be sure to let him know. Yes. That's not a problem. Okay. Thank you."
+},
+{
+"k": "4008",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Yes, that's right.  Mmm hmm. No, we got your invoice. [beat] Yes. [beat] It should be squared away. Yup. [beat] No, I can wait."
+},
+{
+"k": "4009",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Yes, I mean, I questioned it only due to the amount. It seemed a bit excessive. Mmm hmm. I have the record right here, give me one moment."
+},
+{
+"k": "4010",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Well, that's not what I have here. I can look through it again and get back to you. Mmm hmm."
+},
+{
+"k": "4011",
+"who": "SNOW",
+"ctx": "Fables101/env_businessoffice",
+"en": "[pickup5] Bigby... it's for you."
+}
+]

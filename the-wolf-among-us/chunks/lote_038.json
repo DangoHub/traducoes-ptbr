@@ -1,0 +1,1388 @@
+[
+{
+"k": "10022",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] I have-- I have to take a piss, I think."
+},
+{
+"k": "10023",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] Could use a little more… of a-- a drink or somethin'."
+},
+{
+"k": "10024",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] I'm getting pretty tired."
+},
+{
+"k": "10025",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] When ya gonna let me go?"
+},
+{
+"k": "10026",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] This whole thing sucks."
+},
+{
+"k": "10027",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] [moans in slight discomfort] Ermph. My ass is getting' chafed."
+},
+{
+"k": "10028",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] My wrists fuckin' hurt."
+},
+{
+"k": "10029",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] Bunch of fuckin' assholes."
+},
+{
+"k": "10030",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] This is just the biggest heaping pile of cow shit."
+},
+{
+"k": "10031",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] I can't wait to get out of this  goddamned chair!"
+},
+{
+"k": "10032",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] [moans in pain] You are gonna regret this, dog, oh man, are you gonna regret this."
+},
+{
+"k": "10033",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] [mumbling to himself] You better watch your back motherfucker… be pissing blood when I'm finished…"
+},
+{
+"k": "10034",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] [mumbling to himself] Shitheel fuckin' burn me…"
+},
+{
+"k": "10035",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] [moaning in pain] Goddamn it."
+},
+{
+"k": "10036",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] [still in some pain] Shitbag mongrel."
+},
+{
+"k": "10037",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] Let me out of here!"
+},
+{
+"k": "10038",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired] {body-SitCuffed}This is useless. Just… completely useless. There's just no reason for any of it."
+},
+{
+"k": "10039",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Speak. Why did you run at the bar?"
+},
+{
+"k": "10040",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "C'mon. Why'd you run?"
+},
+{
+"k": "10041",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] I didn't *do* anything."
+},
+{
+"k": "10042",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Why were your friends hiding you?"
+},
+{
+"k": "10043",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Woody. Talk. Why'd your friends give you cover?"
+},
+{
+"k": "10044",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] She was just a girl. There's… there's nothin' going on."
+},
+{
+"k": "10045",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Why did you beat up Faith? What's the reason?"
+},
+{
+"k": "10046",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What did she do? What were you two involved in?"
+},
+{
+"k": "10047",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Where'd you go? Huh? After we fought."
+},
+{
+"k": "10048",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] Nowhere. I went nowhere."
+},
+{
+"k": "10049",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Woody. Where'd you go? Got an alibi?"
+},
+{
+"k": "10050",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Snow wasn't supposed to be where? At the Woodlands?"
+},
+{
+"k": "10051",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] This… just leave it alone, alright?"
+},
+{
+"k": "10052",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] This… just leave it alone, alright?"
+},
+{
+"k": "10053",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What did you mean? What was supposed to happen?"
+},
+{
+"k": "10054",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] There's nothin' to say!"
+},
+{
+"k": "10055",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me what you know about Snow."
+},
+{
+"k": "10056",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What did you expect to happen to Snow?"
+},
+{
+"k": "10057",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] You have no fuckin' idea what's going on, do you?"
+},
+{
+"k": "10058",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] Fuck off."
+},
+{
+"k": "10059",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] Nothing, it's nothing."
+},
+{
+"k": "10060",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Who wasn't supposed to be there? Who are you talking about?"
+},
+{
+"k": "10061",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Who were you talking about? Huh? Who?"
+},
+{
+"k": "10062",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] [muttering] It was my own fault… but…it's not about the killings, it's not."
+},
+{
+"k": "10063",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "If it's not Snow, then who were you talking about?"
+},
+{
+"k": "10064",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Who was supposed to be where, Woody? Tell me."
+},
+{
+"k": "10065",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] Nobody you give a fuck about."
+},
+{
+"k": "10066",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] This is none of your goddamned concern, wolf."
+},
+{
+"k": "10067",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Faith wasn't supposed to be there. Who'd you expect, and why?"
+},
+{
+"k": "10068",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] [muttering] I don't know, I don't know!"
+},
+{
+"k": "10069",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] Nobody got killed cause of me, nobody…"
+},
+{
+"k": "10070",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Faith shouldn't have been there. Who should've?"
+},
+{
+"k": "10071",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] It's not important!"
+},
+{
+"k": "10072",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What should've happened, Woody?"
+},
+{
+"k": "10073",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] I'm not a fucking murderer!"
+},
+{
+"k": "10074",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Woodsman…[sighs] you've gotta talk to me. Because Crane and Bluebeard? They think you're shit."
+},
+{
+"k": "10075",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "But you think I don't know what that feels like? To be the \"bad guy\"?"
+},
+{
+"k": "10076",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] [big sigh] Yeah… I know you do, wolf."
+},
+{
+"k": "10077",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I know you know."
+},
+{
+"k": "10078",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Go to Hell."
+},
+{
+"k": "10079",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] I know what you think of me, dog. You've been showing it ever since you walked in the room."
+},
+{
+"k": "10080",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Help me help you, Woody. Let me get you out of here."
+},
+{
+"k": "10081",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] I'm getting pretty sleepy, Sheriff."
+},
+{
+"k": "10082",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] You're gonna eat my fuckin' boots one day. This \"sensitivity\" bullcrap won't fly with me."
+},
+{
+"k": "10083",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You're better than this, Woody. Just help us."
+},
+{
+"k": "10084",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "C'mon, just give us something to go on here."
+},
+{
+"k": "10085",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You say you had nothing to do with it. Then prove it."
+},
+{
+"k": "10086",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "This would go a lot quicker if you stopped blaming me for the situation you're in."
+},
+{
+"k": "10087",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "This ain't my fault. I can get you home, just work with me here."
+},
+{
+"k": "10088",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Sing it to the fuckin' clouds, Sheriff, cause I don't give a shit."
+},
+{
+"k": "10089",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Tell you what. You let me bite your goddamn nose off, we'll call this whole thing even."
+},
+{
+"k": "10090",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] I'd tell you somethin' if there was something to tell."
+},
+{
+"k": "10091",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] I don't know what you think I know, but there's just…there's just nothin' there, Sheriff."
+},
+{
+"k": "10092",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very cold] No."
+},
+{
+"k": "10093",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I'm not a patient man, Woodsman."
+},
+{
+"k": "10094",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; sad] No?"
+},
+{
+"k": "10095",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You're in deep shit."
+},
+{
+"k": "10096",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Got it?"
+},
+{
+"k": "10097",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] I am going to start having fun with you."
+},
+{
+"k": "10098",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] If you don't start talking… and I mean fast…"
+},
+{
+"k": "10099",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] You'll pray to any God who'll listen that your mother never shit you into this fucking world."
+},
+{
+"k": "10100",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] I'm going to cut off your fingers, one by one, till the kids down the block call you, \"Oven Mitts.\""
+},
+{
+"k": "10101",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] I'm not very patient, either, you know."
+},
+{
+"k": "10102",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] You already hit me with a bottle, asshole."
+},
+{
+"k": "10103",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] I could not give less of a fuck right now."
+},
+{
+"k": "10104",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Burning me isn't blowin' your hair back anymore?"
+},
+{
+"k": "10105",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] Oh, what?"
+},
+{
+"k": "10106",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Hitting me isn't thrilling you, now?"
+},
+{
+"k": "10107",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] You won't do shit with the Deputy there."
+},
+{
+"k": "10108",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] [big sigh] I'm done with this whole fucking thing, Bigby."
+},
+{
+"k": "10109",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired; perturbed] It's not worth all that, fuck."
+},
+{
+"k": "10110",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] Woody, I'm gonna start breaking bones. And I'm gonna start with the ones you *need*, understand?"
+},
+{
+"k": "10111",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] Go for it. I ain't talkin' no more."
+},
+{
+"k": "10112",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] That shit won't work anymore, Wolf."
+},
+{
+"k": "10113",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] I swear to God, Woody, you're gonna be my own personal chew toy in about five seconds if you don't open your mouth and talk."
+},
+{
+"k": "10114",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] Look, you better start talking, right fucking now."
+},
+{
+"k": "10115",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] Do not fuck with me, Woodsman."
+},
+{
+"k": "10116",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] You're a big stupid fucking mutt, and I'm not in the talking mood."
+},
+{
+"k": "10117",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed] Blow me."
+},
+{
+"k": "10118",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] Sure. Whatever you wanna say to make yourself feel big."
+},
+{
+"k": "10119",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[very tired] Is this how you get your rocks off, wolf?"
+},
+{
+"k": "10120",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[being punched] Aarh!"
+},
+{
+"k": "10121",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[after being punched in the face] Fucking Christ, I'm tied up here! Fuck!"
+},
+{
+"k": "10122",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[after being punched; punch drunk] My tooth, you fucking asshole!"
+},
+{
+"k": "10123",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[being punched in the face] Aah!"
+},
+{
+"k": "10124",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Get me out of this goddamned chair!"
+},
+{
+"k": "10125",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[being punched] {body-SitCuffed}Arhg!"
+},
+{
+"k": "10126",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[being punched in the face] {body-SitCuffed}Aaghgh!"
+},
+{
+"k": "10127",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; peeved] I don't… [coughs through his nose] I don't know what you're gettin' outta this."
+},
+{
+"k": "10128",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[big sigh] [punch drunk; very tired] It's like the old days, huh?"
+},
+{
+"k": "10129",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[punch drunk; pissed; muttering to himself] Bitch. Fuckin' bitch."
+},
+{
+"k": "10130",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; sad] Yeah, it's like the old days."
+},
+{
+"k": "10131",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cold] Who were you expecting?"
+},
+{
+"k": "10132",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cold] No, it doesn't."
+},
+{
+"k": "10133",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Lily is [in pain]errmph-- Holly's sister."
+},
+{
+"k": "10134",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cold] [cut]You can worry about Holly later."
+},
+{
+"k": "10135",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Yeah, detective, her sister's a prostitute."
+},
+{
+"k": "10136",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Holly, the bartender?"
+},
+{
+"k": "10137",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] Don't tell Holly. Please, Bigby.[beat] They're not right, the two of them. She'd be pissed."
+},
+{
+"k": "10138",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] I couldn't… I didn't want to say anything. Having been seen with that woman, Faith, and now… having ties to Lily, a girl who's missing… it doesn't look good."
+},
+{
+"k": "10139",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cold] Who was it?[beat] Tell me."
+},
+{
+"k": "10140",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] Lily."
+},
+{
+"k": "10141",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Lily? Who's Lily?"
+},
+{
+"k": "10142",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Bigby, really, this has gone far enough."
+},
+{
+"k": "10143",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Sheriff, that is it. Okay? I just-- I have to put a stop to this."
+},
+{
+"k": "10144",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You said you would find another way, and you haven't. So that's it. The man has rights."
+},
+{
+"k": "10145",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I warned you earlier, and you haven't listened. And now, it's just truly gone too far. The man has rights."
+},
+{
+"k": "10146",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[groaning in pain; very tired; sighing]"
+},
+{
+"k": "10147",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Bluebeard, that's enough now!"
+},
+{
+"k": "10148",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[amused, to himself] His rights are on temporary leave."
+},
+{
+"k": "10149",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You don't give a shit about the Woodsman's rights, you just don't want any heat on you."
+},
+{
+"k": "10150",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "It only so happens that my, uh, more beaurocratic concerns also happen to line up with what's ethically right!"
+},
+{
+"k": "10151",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cut]Yes, fine, you got me, I care what Fabletown will think about this!"
+},
+{
+"k": "10152",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cut]But I have to care what Fabletown will think because no one else in this room does!"
+},
+{
+"k": "10153",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cut]If the town finds out about this, Bigby, it won't matter what we drained out of the Woodsman because nobody is going to care!"
+},
+{
+"k": "10154",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You're not thinking of the bigger picture here!"
+},
+{
+"k": "10155",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cut]You're acting like I set the guy on fire."
+},
+{
+"k": "10156",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[Trimmed]Snow deserves justice, Crane… and the little arm-twisting I did to get us closer shouldn't keep any of us up at night."
+},
+{
+"k": "10157",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "We're getting what I came here for, Crane. Information."
+},
+{
+"k": "10158",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "And then we'll never catch who did this. The whole thing will have been for naught."
+},
+{
+"k": "10159",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I dare say this is the exact kind of infantile rashness that got Miss White killed."
+},
+{
+"k": "10160",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You never think out the ramifications for things! Beating information out of someone will simply never get the people aligned with us."
+},
+{
+"k": "10161",
+"who": "BUFKIN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I think they're in here…?"
+},
+{
+"k": "10162",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[through gritted teeth] You have absolutely no fucking idea what this has been like for--"
+},
+{
+"k": "10163",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[furious; through his teeth] Fuck. You."
+},
+{
+"k": "10164",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[getting angry himself] I have some idea, yes, I think I do."
+},
+{
+"k": "10165",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[furious] Don't you blame me for Snow's death!"
+},
+{
+"k": "10166",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[sputtering, scared] I only meant…you know…"
+},
+{
+"k": "10167",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[amused; chuckles] [cut] Well now there's a thought."
+},
+{
+"k": "10168",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] Yeah, her sister's a prostitute."
+},
+{
+"k": "10169",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired] Lily."
+},
+{
+"k": "10170",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] Lily is Holly's sister."
+},
+{
+"k": "10171",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] Who were you expecting?"
+},
+{
+"k": "10172",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] I couldn't… I didn't want to say anything."
+},
+{
+"k": "10173",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; sad] Just please, don't tell anyone, Bigby.[beat] Gren and her, that whole bar, they just-- they wouldn't understand."
+},
+{
+"k": "10174",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] I think Grendel stopped by the office this week to report her missing. Not that you fuckers would notice."
+},
+{
+"k": "10175",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] So la-dee-fucking-da, congrats. You cracked the case wide open, shithead."
+},
+{
+"k": "10176",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] And now I'm sure you think I'm the killer. I was seen last with that bitch, Faith, and I was also fucking the missing girl."
+},
+{
+"k": "10177",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed; sadder now] [cut]Bet you can't wait to run off and tell Holly and ruin my goddamned life."
+},
+{
+"k": "10178",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "This barbarian knows more than he's letting on. You can't continue to treat him like some stupid American waif!"
+},
+{
+"k": "10179",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Well, congratulations, Sheriff, we've been here for God knows how long and what do we have to show for it?"
+},
+{
+"k": "10180",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You had the right idea earlier, but then softened up. We're never going to get anywhere just \"chatting\" with him!"
+},
+{
+"k": "10181",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "He's talking, alright? My \"methods\" work fine."
+},
+{
+"k": "10182",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "No, they don't. They're not working at all."
+},
+{
+"k": "10183",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I am here to find Snow White's killer. And seeing how much you've embarrassed yourself, I'm glad for her sake that I am."
+},
+{
+"k": "10184",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[annoyed] I was under the impression you were just here to watch…"
+},
+{
+"k": "10185",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Or what? Because if today's events have been any indication, I have nothing to fear from your pitiful threats."
+},
+{
+"k": "10186",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[intimidating] Find the door or shut the hell up."
+},
+{
+"k": "10187",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Oh, now you turn on the charm."
+},
+{
+"k": "10188",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Then you have no imagination, I'm sorry to say."
+},
+{
+"k": "10189",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Because my best is a whole lot better than this!"
+},
+{
+"k": "10190",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[weakly] I really think it's going the best that it can…"
+},
+{
+"k": "10191",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[frustrated] Bigby, look, you had your turn. Now it's time to try things my way."
+},
+{
+"k": "10192",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[CUT!!!] Now, Bluebeard, let's let Bigby handle this, please…[CUT!!!]"
+},
+{
+"k": "10193",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calming down a little] And interrogations are supposed to be fun, you know."
+},
+{
+"k": "10194",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[CUT!!!] Now… move aside so I can expedite things. [CUT!!!]"
+},
+{
+"k": "10195",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[CUT!!!] Snow White is dead! She was one of us! Not one of them! [CUT!!!]"
+},
+{
+"k": "10196",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[CUT!!!] They scrabble around in the streets like rats, and to think one of them would dare kill one of us is just more than I can stomach this year, thank you. [CUT!!!]"
+},
+{
+"k": "10197",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[fearful] Bluebeard! Please!"
+},
+{
+"k": "10198",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "How worse can they get?!"
+},
+{
+"k": "10199",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[fearful] Don't make things worse!"
+},
+{
+"k": "10200",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[highly dismissive] You're pathetic, Bluebeard."
+},
+{
+"k": "10201",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[quietly cold] You are no friend to justice, Bigby."
+},
+{
+"k": "10202",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[cold] Don't take another step."
+},
+{
+"k": "10203",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Maybe not. But you have no fucking friends [emphatic/]at all[/].[beat] So what does that make you?"
+},
+{
+"k": "10204",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pissed] You will never learn."
+},
+{
+"k": "10205",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Mmph."
+},
+{
+"k": "10206",
+"who": "BUFKIN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Yes, here they are."
+},
+{
+"k": "10207",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired disappointment] Thanks."
+},
+{
+"k": "10208",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[quietly] Oh my God."
+},
+{
+"k": "10209",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What--? I thought--?"
+},
+{
+"k": "10210",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired; big sigh]"
+},
+{
+"k": "10211",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You'll have to explain this."
+},
+{
+"k": "10212",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I'm so relieved!"
+},
+{
+"k": "10213",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What took you so long?"
+},
+{
+"k": "10214",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[confused] Okay, you're gonna have to explain this, cause I'm really not getting it yet."
+},
+{
+"k": "10215",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[quietly relieved] Snow… I've been thinking you were dead for hours."
+},
+{
+"k": "10216",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[relaxed] Hi, Snow. What took you so long?"
+},
+{
+"k": "10217",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very matter of fact] Yeah.[beat] Not dead."
+},
+{
+"k": "10218",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[plainly] We found the body."
+},
+{
+"k": "10219",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[stunned] How is this possible?"
+},
+{
+"k": "10220",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "We don't know who it is yet."
+},
+{
+"k": "10221",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired sarcasm] Surprise."
+},
+{
+"k": "10222",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[plainly] She was \"made\" to look like me, and… [small sigh]we don't know who it is yet."
+},
+{
+"k": "10223",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[knowingly] What's going on here?"
+},
+{
+"k": "10224",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[plainly disappointed] What have you been doing, Bigby?"
+},
+{
+"k": "10225",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I tried to stop them."
+},
+{
+"k": "10226",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Just questioning a suspect."
+},
+{
+"k": "10227",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "We can admit that it got a little… out of control."
+},
+{
+"k": "10228",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Interrogating the Woodsman."
+},
+{
+"k": "10229",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "That's a good question."
+},
+{
+"k": "10230",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "At Toad's, most of the night…"
+},
+{
+"k": "10231",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[plain] Yeah.[beat] Not dead."
+},
+{
+"k": "10232",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "We were interrogating the Woodsman."
+},
+{
+"k": "10233",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[stern] Trying to find out who killed you."
+},
+{
+"k": "10234",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What have I been doing… that's a good question."
+},
+{
+"k": "10235",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired; annoyed] I've been up all night."
+},
+{
+"k": "10236",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[dismissive] It's fine, I…"
+},
+{
+"k": "10237",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired; a little annoyed] It's fine, I don't-- [big sigh] I've been up all night."
+},
+{
+"k": "10238",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[plain] We've got work to do, so, just… whenever you're done messing around down here, I have something upstairs to show you."
+},
+{
+"k": "10239",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What a harrowing turn of--"
+},
+{
+"k": "10240",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Don't think for a [emphatic/]moment[/] this gets you off the hook."
+},
+{
+"k": "10241",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Yes, well… there is still the body. And the first girl, of course."
+},
+{
+"k": "10242",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Let him go."
+},
+{
+"k": "10243",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Keep him for now."
+},
+{
+"k": "10244",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "At Toad's for most of the night."
+},
+{
+"k": "10245",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Why on Earth were you at Mr. Toad's?"
+},
+{
+"k": "10246",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired] They found the body."
+},
+{
+"k": "10247",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "We-- [stops herself]"
+},
+{
+"k": "10248",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[plainly] Where I've been most of the night, actually. At Toad's. They found her."
+},
+{
+"k": "10249",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[shocked] What? Where?"
+},
+{
+"k": "10250",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You know what? Nevermind."
+},
+{
+"k": "10251",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; sad] I want a smoke, you… you took my smokes."
+},
+{
+"k": "10252",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] I want a smoke, you-- you took my smokes."
+}
+]

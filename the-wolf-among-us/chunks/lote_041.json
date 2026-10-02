@@ -1,0 +1,1556 @@
+[
+{
+"k": "10880",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[nervous] {body-StandA} {NervousA} Is Beast with you?"
+},
+{
+"k": "10881",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadB} {body-StandA}He's not… parking the car, or something?"
+},
+{
+"k": "10882",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "No, don't worry."
+},
+{
+"k": "10883",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "No, but I saw him earlier."
+},
+{
+"k": "10884",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Just what are you doing?"
+},
+{
+"k": "10885",
+"who": "<<ID",
+"ctx": "Fables102/env_openarms",
+"en": "{99E59632-A8AD-4F22-A2D9-4F467D3EF558}>>"
+},
+{
+"k": "10886",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[breathes out] {body-StandA} {ThinkingA} Okay."
+},
+{
+"k": "10887",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} {body-ArmsOut} Beast isn't here. {body-StandA} {WorriedB} Don't worry."
+},
+{
+"k": "10888",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} {body-Hips} Because he doesn't know you're here… {ConfusedA} right?"
+},
+{
+"k": "10889",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-X}{ConfusedA} This isn't anything nefarious."
+},
+{
+"k": "10890",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NervousA} {body-X}I know how this looks…{body-StandA}"
+},
+{
+"k": "10891",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[serious] {DoubtfulA} Why are you here."
+},
+{
+"k": "10892",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[knowingly] {ThinkingB} {body-StandA} I keep running into you in {body-SmokeHandOnHipLeft} the strangest places…"
+},
+{
+"k": "10893",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sigh] {ConfusedA} Beast is a proud man, Bigby. He wants to do right by me, and {ThinkingA} he… he just couldn't handle it if he knew I had to do this so we don't get evicted."
+},
+{
+"k": "10894",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadB} All of our friends live at the Woodlands. He'd be mortified."
+},
+{
+"k": "10895",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadA} {body-StandA}I work here, okay? I work the front desk. [beat; just running through it] It's to help pay rent."
+},
+{
+"k": "10896",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA}{body-X}But Beast would lose his mind if you knew."
+},
+{
+"k": "10897",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-HandToHead}{SadA}I know I should've told somebody…"
+},
+{
+"k": "10898",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "You should tell Beast."
+},
+{
+"k": "10899",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{AngryA} Bigby, I have to say, {body-StandA}that night when you saw me… {body-StandA}I really didn't appreciate you telling Beast when I expressly asked you not to."
+},
+{
+"k": "10900",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[a little shamed] {body-StandA}{WorriedA} I know."
+},
+{
+"k": "10901",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadA} He confronted me and I had to just make up something.{ThinkingA} {body-X}I hate doing that. I hate lying to him, {body-StandA}but I- - I wasn't ready, yet."
+},
+{
+"k": "10902",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[hurt] {SadA} You promised me. [beat] {ConfusedA} Why did you do that?"
+},
+{
+"k": "10903",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "He confronted me and I had to just make up something. I hate doing that. I hate lying to him, but I- - I wasn't ready, yet."
+},
+{
+"k": "10904",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[hurt] {SadB}{body-X}Why did you do that?"
+},
+{
+"k": "10905",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedB} {body-StandA}I told you then, I couldn't promise anything."
+},
+{
+"k": "10906",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA}I know, but still…"
+},
+{
+"k": "10907",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{AngryA}{body-X}Do you know how bad that makes me look?"
+},
+{
+"k": "10908",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadB}{body-HandToHead}…and this just makes it harder."
+},
+{
+"k": "10909",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NervousA}I wanted to tell him in my own way…"
+},
+{
+"k": "10910",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "I thought you were in trouble."
+},
+{
+"k": "10911",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "I wasn't thinking."
+},
+{
+"k": "10912",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[talking over him a bit] {body-X}Aren't I your friend?"
+},
+{
+"k": "10913",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-StandA} {AngryA}Beast is a friend…"
+},
+{
+"k": "10914",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[continuing]… {body-StandA}and I didn't think it {body-Hips}right to lie to him. Not without knowing why I should, anyway."
+},
+{
+"k": "10915",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-StandA}I thought that {body-Pocket}you might be in trouble."
+},
+{
+"k": "10916",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[starting to interrupt] {body-StandA}I'm not- -"
+},
+{
+"k": "10917",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[firm] {body-Hips}And this counts as trouble. [beat] It does."
+},
+{
+"k": "10918",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{Body-StandA}I don't know. {body-HandOnHipLeft}I don't know what I thought. But it felt {body-StandA}like the right thing to do."
+},
+{
+"k": "10919",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-Hips}You know it does, {body-ArmsOut} or you wouldn't be sneaking around in shrubs {body-X}trying to keep other people from finding out."
+},
+{
+"k": "10920",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} {body-ArmsOut} How do {body-StandA} you know I did?"
+},
+{
+"k": "10921",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[tired] {SadB} {body-StandA} I will, I will, I just need to in my own time."
+},
+{
+"k": "10922",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadA} I talked to Beast.{body-StandA} He said he ran into you that night you saw me. He would have said something if you'd told him."
+},
+{
+"k": "10923",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} By the way, thanks for covering for me."
+},
+{
+"k": "10924",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-StandA}Well… your secret's safe with me, alright?{body-ArmsOut} {MockingB}Let's not {body-StandA}make a big thing of it."
+},
+{
+"k": "10925",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} {body-Hips} You should really tell Beast. {body-StandA}He's worried about you."
+},
+{
+"k": "10926",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "I won't say anything."
+},
+{
+"k": "10927",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[a little peeved] {AngryA} Well, it is a big thing to me, Bigby. {body-StandA} And my secret wasn't exactly safe with you before."
+},
+{
+"k": "10928",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{AngryA} I mean, I have to say, {body-StandA} that night when you saw me… I really didn't appreciate you telling Beast when {SadB} I expressly asked you not to."
+},
+{
+"k": "10929",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[tired] {NervousA} {body-StandA}Thanks, Bigby. [beat] And thanks for covering for me last time, too."
+},
+{
+"k": "10930",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "I don't care."
+},
+{
+"k": "10931",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[sighs] {body-StandA}{ThinkingB}Beauty, I could honestly not care less about this. {HappyA}Do what you want."
+},
+{
+"k": "10932",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[peeved] {AngryA} You know, I don't know why I ever expected anything from you. You told Beast you saw me when I expressly asked you not to, and now you say you don't even care?"
+},
+{
+"k": "10933",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pissed] {SuspiciousA} {body-HandToHead}Anyways… {ThinkingA}I'm just explaining what I'm doing here, sorry."
+},
+{
+"k": "10934",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pissed] Anyways… I'm just explaining what I'm doing here, sorry."
+},
+{
+"k": "10935",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[peeved] {AngryA}{body-StandA}Alright, geez. {SadB}I thought since you didn't tell Beast you saw me, {body-X}you cared how I felt, but I guess not."
+},
+{
+"k": "10936",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-StandA} [sighs]"
+},
+{
+"k": "10937",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pissed] So what's your story."
+},
+{
+"k": "10938",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[awkward] Do you, uh, do you have a room here?"
+},
+{
+"k": "10939",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SuspiciousA} You have a key already, so… [a little grossed out] {body-X}are you here to…?"
+},
+{
+"k": "10940",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "No, no, I don't have a room."
+},
+{
+"k": "10941",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[solemn] {NormalB} Someone else was murdered last night."
+},
+{
+"k": "10942",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} The victim was someone who worked at the Pudding and Pie.[beat] Lily. {DoubtfulA} She come around here ever?"
+},
+{
+"k": "10943",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[solemn] {SadA} {body-StandA}I heard."
+},
+{
+"k": "10944",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} She was a troll, when not glamoured as something else."
+},
+{
+"k": "10945",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[a subtle surprise of recognition] {SurpriseA} Oh! Oh, yes… the, uh, the troll. I did see her."
+},
+{
+"k": "10946",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} {body-X}The name… I'm sorry, the name sounds familiar, but I'm not sure."
+},
+{
+"k": "10947",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sad] {SadA} That's…[sighs] that's really too bad."
+},
+{
+"k": "10948",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sincere] I don't really know what else I could do to help…?"
+},
+{
+"k": "10949",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Did you know Faith?"
+},
+{
+"k": "10950",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Ever see Lily with anyone?"
+},
+{
+"k": "10951",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Has a \"Mr. Smith\" ever checked in here?"
+},
+{
+"k": "10952",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Have you seen Snow here?"
+},
+{
+"k": "10953",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "[Go up to room]"
+},
+{
+"k": "10954",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[sad] {WorriedA} Look, if this ever happens again… come see me, or Snow, first, alright?"
+},
+{
+"k": "10955",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[ashamed] {SadA} I took out a loan for backpay-- it was like our third notice-- and ever since then those annoying freaks have been pestering me for the money plus interest."
+},
+{
+"k": "10956",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadA} I tried."
+},
+{
+"k": "10957",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{AngryA} You don't know how desperate I was, Bigby! I had nowhere else to go!"
+},
+{
+"k": "10958",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[sighs; disappointed] {WorriedB} Beauty…"
+},
+{
+"k": "10959",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[surprised] {ThinkingA} Why take out a loan from those two?"
+},
+{
+"k": "10960",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{SarcasticA} I talked to Tweedledee earlier today…"
+},
+{
+"k": "10961",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "We'd used up all our advances and I-- I--[drops down to resignation] {NervousA} I just didn't have anywhere else to turn."
+},
+{
+"k": "10962",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[really ashamed] {SadB} It was from the Crooked Man."
+},
+{
+"k": "10963",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalB} He mentioned you in passing.[beat] Do you know him… or his brother?"
+},
+{
+"k": "10964",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-X}[pause; nervous] {NervousA} Yes?"
+},
+{
+"k": "10965",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sheepish] {NervousA} No, I didn't. Not from them…"
+},
+{
+"k": "10966",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Who then?"
+},
+{
+"k": "10967",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Did you work last night?"
+},
+{
+"k": "10968",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalB} {body-StandA}Ever see Lily with someone here? Maybe on a \"job\"?"
+},
+{
+"k": "10969",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-X}{ConfusedA} Sometimes, but nobody I've recognized. I haven't worked here that long, though…"
+},
+{
+"k": "10970",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Is there a room register, or… a book where the guests have to sign in?"
+},
+{
+"k": "10971",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "In a place like this? No."
+},
+{
+"k": "10972",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Everyone would use a fake name, anyway, I'd imagine."
+},
+{
+"k": "10973",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} Have you seen Snow White down here? {body-Hips}Or maybe somebody glamoured as her?"
+},
+{
+"k": "10974",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} Ever meet a girl named Faith, {body-Hips}or just maybe hear that name?"
+},
+{
+"k": "10975",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Ever meet her, maybe… or hear that name?"
+},
+{
+"k": "10976",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} No one I saw. {ThinkingA} I think she just forgot something because she had a key, went up to a room, and came back in two minutes."
+},
+{
+"k": "10977",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalB} Who was she with?"
+},
+{
+"k": "10978",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[thinks] {body-X}{ThinkingA} You know, it's funny. I did see someone who I thought looked a lot like her, but… {SuspiciousA} she didn't say anything when she saw me, even though she knew that I saw her."
+},
+{
+"k": "10979",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} I just assumed it wasn't Snow and went about my business."
+},
+{
+"k": "10980",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingB} Which room?"
+},
+{
+"k": "10981",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} If they have a key, I never check. [beat] Sorry."
+},
+{
+"k": "10982",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-X} I might have. I don't know."
+},
+{
+"k": "10983",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "No, I'll get in trouble anyway if they spot you alone without an escort. They have cameras everywhere."
+},
+{
+"k": "10984",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[like he made a decision] {body-StandA}Thanks."
+},
+{
+"k": "10985",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "What."
+},
+{
+"k": "10986",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "I was kidding."
+},
+{
+"k": "10987",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "There's like a bunch of people here and they're all a bunch of weirdoes."
+},
+{
+"k": "10988",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "You're gonna tell me another woman was killed last night - someone that, as it turns out, I vaguely knew  - and then leave me alone in this creepy hotel?"
+},
+{
+"k": "10989",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Alright, I'm coming with you."
+},
+{
+"k": "10990",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Beauty, I don't think- - [stops; considers]"
+},
+{
+"k": "10991",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[like an afterthought to himself] Eh, what do I know, one of them could be the killer."
+},
+{
+"k": "10992",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Wait a minute."
+},
+{
+"k": "10993",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "I'll take you up."
+},
+{
+"k": "10994",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Yeah. Nerissa at the Pudding N' Pie gave it to me. [beat] It was kind of strange, actually."
+},
+{
+"k": "10995",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Uh huh. It's unoccupied. Right up the hall."
+},
+{
+"k": "10996",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NervousA} By the end of the night, {body-HandToHead}it's kind of a blur with all the names. Tara, Brandy, Amber, Heather… Sorry."
+},
+{
+"k": "10997",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Play Tape"
+},
+{
+"k": "10998",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Crumbled Paper"
+},
+{
+"k": "10999",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Move Chair"
+},
+{
+"k": "11000",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Keys"
+},
+{
+"k": "11001",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "The bed."
+},
+{
+"k": "11002",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "The chair."
+},
+{
+"k": "11003",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "The dresser."
+},
+{
+"k": "11004",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Someone needed more light."
+},
+{
+"k": "11005",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "[wrong answer]"
+},
+{
+"k": "11006",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Drapes were torn down and removed from the room."
+},
+{
+"k": "11007",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Murderer needed more light."
+},
+{
+"k": "11008",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Body was covered and removed from the room."
+},
+{
+"k": "11009",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Looks old."
+},
+{
+"k": "11010",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "It's been moved."
+},
+{
+"k": "11011",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Nothing important."
+},
+{
+"k": "11012",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Maybe she didn't like the decour…"
+},
+{
+"k": "11013",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Just some torn wallpaper."
+},
+{
+"k": "11014",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "There was a struggle."
+},
+{
+"k": "11015",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "May have been a struggle."
+},
+{
+"k": "11016",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Lily was murdered here."
+},
+{
+"k": "11017",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "You don't want to know."
+},
+{
+"k": "11018",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "[Lie] Not sure."
+},
+{
+"k": "11019",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Maybe it's a message."
+},
+{
+"k": "11020",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "She's under the bed."
+},
+{
+"k": "11021",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "What the hell is going on, Beast?"
+},
+{
+"k": "11022",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Something was moved."
+},
+{
+"k": "11023",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Some kind of stain."
+},
+{
+"k": "11024",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Lily may have"
+},
+{
+"k": "11025",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[waiting] [cut]{MockingA} Yessss…"
+},
+{
+"k": "11026",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sighs] [cut]{NervousA} {body-X}You're kind of… banned."
+},
+{
+"k": "11027",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-StandA}\"Kind of\"?"
+},
+{
+"k": "11028",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NervousA} {body-X}You're just on the \"Don't Service\" list. I'll-- I don't know… {body-StandA}I'll have to go with you."
+},
+{
+"k": "11029",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[a little annoyed] {ThinkingB} Really."
+},
+{
+"k": "11030",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} It'll be better if anyone sees you that they at least see you with me, so they know I didn't let you just wander around by yourself."
+},
+{
+"k": "11031",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SuspiciousA} Just be ready to act like I'm trying to kick you out."
+},
+{
+"k": "11032",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "Everything I'm gonna find up there, I've gotta find right now, before anyone checks out the room again."
+},
+{
+"k": "11033",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "This is gonna take longer than \"five minutes.\""
+},
+{
+"k": "11034",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[quietly to himself] That won't be hard."
+},
+{
+"k": "11035",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sarcastic] Great."
+},
+{
+"k": "11036",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Just be ready to act like I've been trying to get you to leave the whole time."
+},
+{
+"k": "11037",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "I don't know what I'm walking into, Beauty. This could take a while."
+},
+{
+"k": "11038",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-X}{SurprisedA}[a little mad] I know [emphatic/]you[/] don't, but I have to! {ThinkingA} Unless you know any grocery stores that pay their cashiers what I make here."
+},
+{
+"k": "11039",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[a little petulant] Five minutes, fine."
+},
+{
+"k": "11040",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "I really need this job."
+},
+{
+"k": "11041",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "And if anyone catches us I'm screwed."
+},
+{
+"k": "11042",
+"who": "DESIGN",
+"ctx": "Fables102/env_openarms",
+"en": "DOJA"
+},
+{
+"k": "11043",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Everything's important."
+},
+{
+"k": "11044",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Do I tell you how to do your work?"
+},
+{
+"k": "11045",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "The life of a Sheriff…"
+},
+{
+"k": "11046",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Do I tell you what to do at your job?"
+},
+{
+"k": "11047",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Bigby…? What do you think happened?"
+},
+{
+"k": "11048",
+"who": "STUB (<<AUTHOR>>MATT LOPRESTI, MON SEP 23 13",
+"ctx": "Fables102/env_openarms",
+"en": "36:28 2013<<date:1379968588>>) Beauty asks Bigby again."
+},
+{
+"k": "11049",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Maybe she didn't like the decor?"
+},
+{
+"k": "11050",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Lily died here."
+},
+{
+"k": "11051",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Not sure yet."
+},
+{
+"k": "11052",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Don't worry about it, Beauty"
+},
+{
+"k": "11053",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "The girl."
+},
+{
+"k": "11054",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "The painting."
+},
+{
+"k": "11055",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "It's crappy."
+},
+{
+"k": "11056",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Photo"
+},
+{
+"k": "11057",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "To clean up the blood."
+},
+{
+"k": "11058",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[muttering to himsef] {NormalA} Ehh, this shit'll kill you."
+},
+{
+"k": "11059",
+"who": "<<ID",
+"ctx": "Fables102/env_openarms",
+"en": "{048A157E-92F8-4C41-ACB1-D088BE87760D}>>"
+},
+{
+"k": "11060",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[muttering to himself] {WorriedA}They should probably repair that…"
+},
+{
+"k": "11061",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[muttering to himself] {SarcasticA} If the rooms are anything like the lobby, they should cut their rates."
+},
+{
+"k": "11062",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[bored on the job] {ThinkingA} Want it by the hour or for the whole night?"
+},
+{
+"k": "11063",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Keep your pants on, Buddy. You have to check in first if you want a room."
+},
+{
+"k": "11064",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "You have to check in first and get a key."
+},
+{
+"k": "11065",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Mosey on back and we'll get you set up."
+},
+{
+"k": "11066",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Payment's in advance."
+},
+{
+"k": "11067",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "So, c'mon…"
+},
+{
+"k": "11068",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Are you hiding something?"
+},
+{
+"k": "11069",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "I'm not here for a room."
+},
+{
+"k": "11070",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "I don't HAVE to do anything."
+},
+{
+"k": "11071",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[surprised] Bigby!"
+},
+{
+"k": "11072",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{AngryA} Why can't I go upstairs? {body-ArmsOut}What's going on up there?{body-StandA}"
+},
+{
+"k": "11073",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{SarcasticA} {body-X}I'm not here for a room."
+},
+{
+"k": "11074",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalB} {body-StandA}You're not exactly in a position to {ThinkingA}give orders, Miss. {body-Hips}I don't [emphatic/]have[/] to do anything."
+},
+{
+"k": "11075",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[startled] {SurprisedA} Bigby!"
+},
+{
+"k": "11076",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[nervous] S-sorry."
+},
+{
+"k": "11077",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[nervous] {NervousA} You, uh, you can't go upstairs unless you have a key."
+},
+{
+"k": "11078",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[nervous] I don't make the rules."
+},
+{
+"k": "11079",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[feeble] {SadB} You knew it was me, right?"
+},
+{
+"k": "11080",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{MockingA} I have a key."
+},
+{
+"k": "11081",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[feeble] {body-StandA}{NervousA} Great."
+},
+{
+"k": "11082",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} {body-Hips}I'm here on Fabletown business, which, {ThinkingA}if you know me, {MockingA} I'm sure you'll understand."
+},
+{
+"k": "11083",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-SmokePocket} Uh huh."
+},
+{
+"k": "11084",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[big sigh] {AngryA} {body-StandA} Alright, fine."
+},
+{
+"k": "11085",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Just why are you here?"
+},
+{
+"k": "11086",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sorry] {SadA} {Body-StandA}I guess you were just trying to help."
+},
+{
+"k": "11087",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sighs] {ThinkingA} So… what are you doing here?"
+},
+{
+"k": "11088",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "No…"
+},
+{
+"k": "11089",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Who's got the time?"
+},
+{
+"k": "11090",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{AngryA} {body-ArmsOut} No! {body-X}Why would you assume that? {body-Pocket}"
+},
+{
+"k": "11091",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "Alright, just asking."
+},
+{
+"k": "11092",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-StandA}Of course not, c'mon."
+},
+{
+"k": "11093",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{SarcasticB} {body-HandOnHipLeft} Who's got the time?"
+},
+{
+"k": "11094",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-StandA} What?"
+},
+{
+"k": "11095",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "I'm kidding."
+},
+{
+"k": "11096",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-StandA}Just asking."
+},
+{
+"k": "11097",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} {body-StandA}Alright, I'm just {body-StandA}asking."
+},
+{
+"k": "11098",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SuspiciousA} That's all we get are Smith's, Jones's or Johnson's.[beat, then quietly:] {ThinkingA} {body-StandA}I think the last ones are {NormalA} jokes."
+},
+{
+"k": "11099",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "I'm specifically looking for a guy who calls himself, \"Mr. Smith.\""
+},
+{
+"k": "11100",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[suspicious] {ConfusedA} {body-HandToHead}But she was found at the Woodlands, right?"
+},
+{
+"k": "11101",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "It looks like it."
+},
+{
+"k": "11102",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "You have nothing to worry about."
+},
+{
+"k": "11103",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} This… does {body-X}this have anything to do with the Open Arms?"
+},
+{
+"k": "11104",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SuspiciousA} Does it?"
+},
+{
+"k": "11105",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sighs]{body-X} {NervousA} Crap."
+},
+{
+"k": "11106",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingB} {body-StandA}I don't know for sure yet, but… it looks like it."
+},
+{
+"k": "11107",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingB} I don't know yet."
+},
+{
+"k": "11108",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{WorriedA} {body-StandA}You have nothing to worry about. I'm just looking for information."
+},
+{
+"k": "11109",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} {body-X}Okay."
+},
+{
+"k": "11110",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SuspiciousA} {body-X}You don't have to treat me like a kid."
+},
+{
+"k": "11111",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ConfusedA} I mean, you know, we never really spoke, but… {ThinkingA} she came off a tad intimidating."
+},
+{
+"k": "11112",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[sad] {SadB} {body-StandA}It's just tragic."
+},
+{
+"k": "11113",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} How about a room register? {body-ArmsOut}Or someone named \"Mr. Smith?\"{body-X}"
+},
+{
+"k": "11114",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Why am I banned?"
+},
+{
+"k": "11115",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Like I care."
+},
+{
+"k": "11116",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} You get in fights a lot and hurt people."
+},
+{
+"k": "11117",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalB} {body-SmokeHandOnHipLeft} Give me one good {body-SmokePocket} reason."
+},
+{
+"k": "11118",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{SarcasticB} Give me another."
+},
+{
+"k": "11119",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} {body-X}I think you know why."
+},
+{
+"k": "11120",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{MockingA} {body-StandA}Why would I be banned?"
+},
+{
+"k": "11121",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[almost just to himself] {body-StandA}{ConfusedA} Like I give a shit."
+},
+{
+"k": "11122",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{SadA} {body-X}I know, I know."
+},
+{
+"k": "11123",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "But it's"
+},
+{
+"k": "11124",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-StandA}{nervousA}But this is my job."
+},
+{
+"k": "11125",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{body-HandToHead}I have to take this stuff seriously."
+},
+{
+"k": "11126",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[muttering] {SarcasticB} That won't be hard."
+},
+{
+"k": "11127",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{NormalA} We'll see, Beauty."
+},
+{
+"k": "11128",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{NervousA} Five minutes? Please?"
+},
+{
+"k": "11129",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Bell"
+},
+{
+"k": "11130",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Soda Machine"
+},
+{
+"k": "11131",
+"who": "",
+"ctx": "Fables102/env_openarms",
+"en": "Would that be a problem?"
+},
+{
+"k": "11132",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "{ThinkingA} No, I… {body-StandA}it's just…"
+},
+{
+"k": "11133",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "{MockingA} {body-Smoke} Would that {body-ArmsOut} be a problem?"
+},
+{
+"k": "11134",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup1][nervous, recognizing Bigby]{NervousA} Oh!"
+},
+{
+"k": "11135",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup1][nervous, disguising voice]{NervousA}You, uh, you can't go upstairs unless you have a key."
+},
+{
+"k": "11136",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup1][nervous, disguising voice]{SadA}{body-StandA}I don't make the rules."
+},
+{
+"k": "11137",
+"who": "BEAUTY",
+"ctx": "Fables102/env_openarms",
+"en": "[pickup1][nervous, disguising voice]{SadA}{body-StandA}S-sorry."
+},
+{
+"k": "11138",
+"who": "BIGBY",
+"ctx": "Fables102/env_openarms",
+"en": "[PickUp1] [stern] He's worried about you."
+}
+]

@@ -1,0 +1,3734 @@
+[
+{
+"k": "453",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Panic in the Parlours"
+},
+{
+"k": "454",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "A Light Snowfall"
+},
+{
+"k": "455",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 3 of Episode 1."
+},
+{
+"k": "456",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 3 of Episode 1."
+},
+{
+"k": "457",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 - Path 1 of Episode 1."
+},
+{
+"k": "458",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 4 - Path 2 of Episode 1."
+},
+{
+"k": "459",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 - Path 2 of Episode 1."
+},
+{
+"k": "460",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 5 of Episode 1."
+},
+{
+"k": "461",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlock all Book of Fables entries in Episode 1."
+},
+{
+"k": "462",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Welcome to Fabletown"
+},
+{
+"k": "463",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "And All Were Happy"
+},
+{
+"k": "464",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "The Frog or the Prince?"
+},
+{
+"k": "465",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Novice Librarian"
+},
+{
+"k": "466",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Right to an Attorney"
+},
+{
+"k": "467",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Breaking Point"
+},
+{
+"k": "468",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Sisters"
+},
+{
+"k": "469",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Made Them Cry"
+},
+{
+"k": "470",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Can I Get a Fresh \nSet of Towels?"
+},
+{
+"k": "471",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "No Respect for the Dead"
+},
+{
+"k": "472",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Belly Full of Stones"
+},
+{
+"k": "473",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "What Big Eyes You Have"
+},
+{
+"k": "474",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Severe Case of Lycanthropy"
+},
+{
+"k": "475",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "The Enchanted Land of New York City"
+},
+{
+"k": "476",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Once Upon a Time"
+},
+{
+"k": "477",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "There was a Wolf"
+},
+{
+"k": "478",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Who Ruled the Land"
+},
+{
+"k": "479",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "He was Much Feared"
+},
+{
+"k": "480",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "But Soon He Mended His Evil Ways"
+},
+{
+"k": "481",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Journeyman Librarian"
+},
+{
+"k": "482",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Master Librarian"
+},
+{
+"k": "483",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Beginning of the End"
+},
+{
+"k": "484",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "This House of Straw"
+},
+{
+"k": "485",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "My Last Cigarette"
+},
+{
+"k": "486",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "The North Wind Blows"
+},
+{
+"k": "487",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Happily Ever After"
+},
+{
+"k": "488",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Grand Master Librarian"
+},
+{
+"k": "489",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completionist"
+},
+{
+"k": "490",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Huff and Puff"
+},
+{
+"k": "491",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Severe Case \nof Lycanthropy"
+},
+{
+"k": "492",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "The Enchanted Land \nof New York City"
+},
+{
+"k": "493",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "There Was a Wolf"
+},
+{
+"k": "494",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "He Was Much Feared"
+},
+{
+"k": "495",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "But Soon He Mended \nHis Evil Ways"
+},
+{
+"k": "496",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "omplete chapter 1 of episode 1"
+},
+{
+"k": "497",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 1 \nof Episode 1."
+},
+{
+"k": "498",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 1 of Episode 1."
+},
+{
+"k": "499",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 2 \nof Episode 1."
+},
+{
+"k": "500",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 2 of Episode 1."
+},
+{
+"k": "501",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 3 \nof Episode 1."
+},
+{
+"k": "502",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 4 \nof Episode 1."
+},
+{
+"k": "503",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 of Episode 1."
+},
+{
+"k": "504",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 5 \nof Episode 1."
+},
+{
+"k": "505",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 5 of Episode 1."
+},
+{
+"k": "506",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Episode 1: Faith"
+},
+{
+"k": "507",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Episode 1: Faith"
+},
+{
+"k": "508",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlock all Book of Fables \nentries in Episode 1."
+},
+{
+"k": "509",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlocked all Book of Fables entries in Episode 1."
+},
+{
+"k": "510",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 1 \nof Episode 2."
+},
+{
+"k": "511",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 1 of Episode 2."
+},
+{
+"k": "512",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 2 \nof Episode 2."
+},
+{
+"k": "513",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 2 of Episode 2."
+},
+{
+"k": "514",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 3 \nof Episode 2."
+},
+{
+"k": "515",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 3 of Episode 2."
+},
+{
+"k": "516",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 4 \nof Episode 2."
+},
+{
+"k": "517",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 of Episode 2."
+},
+{
+"k": "518",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 5 \nof Episode 2."
+},
+{
+"k": "519",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 5 of Episode 2."
+},
+{
+"k": "520",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Episode 2: \nSmoke and Mirrors"
+},
+{
+"k": "521",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Episode 2: Smoke and Mirrors"
+},
+{
+"k": "522",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlock all Book of Fables \nentries in Episode 2."
+},
+{
+"k": "523",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlocked all Book of Fables entries in Episode 2."
+},
+{
+"k": "524",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 1\nof Episode 3."
+},
+{
+"k": "525",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 1 of Episode 3."
+},
+{
+"k": "526",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 2 \nof Episode 3."
+},
+{
+"k": "527",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 2 of Episode 3."
+},
+{
+"k": "528",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 3 \nof Episode 3."
+},
+{
+"k": "529",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 3 of Episode 3."
+},
+{
+"k": "530",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 4 \nof Episode 3."
+},
+{
+"k": "531",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 of Episode 3."
+},
+{
+"k": "532",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 5 \nof Episode 3."
+},
+{
+"k": "533",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 5 of Episode 3."
+},
+{
+"k": "534",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Episode 3: \nA Crooked Mile"
+},
+{
+"k": "535",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Episode 3: A Crooked Mile"
+},
+{
+"k": "536",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlock all Book of Fables \nentries in Episode 3."
+},
+{
+"k": "537",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlocked all Book of Fables entries in Episode 3."
+},
+{
+"k": "538",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 1 \nof Episode 4."
+},
+{
+"k": "539",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 1 of Episode 4."
+},
+{
+"k": "540",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 2 \nof Episode 4."
+},
+{
+"k": "541",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 2 of Episode 4."
+},
+{
+"k": "542",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 3 \nof Episode 4."
+},
+{
+"k": "543",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 3 of Episode 4."
+},
+{
+"k": "544",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 4 \nof Episode 4."
+},
+{
+"k": "545",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 of Episode 4."
+},
+{
+"k": "546",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 5 \nof Episode 4."
+},
+{
+"k": "547",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 5 of Episode 4."
+},
+{
+"k": "548",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Episode 4: In Sheep's Clothing"
+},
+{
+"k": "549",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Episode 4: In Sheep's Clothing"
+},
+{
+"k": "550",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlock all Book of Fables entries in Episode 4."
+},
+{
+"k": "551",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlocked all Book of Fables entries in Episode 4."
+},
+{
+"k": "552",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 1 \nof Episode 5."
+},
+{
+"k": "553",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 1 of Episode 5."
+},
+{
+"k": "554",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 2 \nof Episode 5."
+},
+{
+"k": "555",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 2 of Episode 5."
+},
+{
+"k": "556",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 3 \nof Episode 5."
+},
+{
+"k": "557",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 3 of Episode 5."
+},
+{
+"k": "558",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 4 \nof Episode 5."
+},
+{
+"k": "559",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 4 of Episode 5."
+},
+{
+"k": "560",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Chapter 5 \nof Episode 5."
+},
+{
+"k": "561",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Chapter 5 of Episode 5."
+},
+{
+"k": "562",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Complete Episode 5: \nCry Wolf."
+},
+{
+"k": "563",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Completed Episode 5: Cry Wolf."
+},
+{
+"k": "564",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlock all Book of Fables \nentries in Episode 5."
+},
+{
+"k": "565",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Unlocked all Book of Fables entries in Episode 5."
+},
+{
+"k": "566",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Earn every Trophy \nin every episode\nof The Wolf Among Us."
+},
+{
+"k": "567",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Earned every Trophy in every episode of The Wolf Among Us."
+},
+{
+"k": "568",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Full Moon"
+},
+{
+"k": "569",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Earn every Achievement \nin every episode\nof The Wolf Among Us."
+},
+{
+"k": "570",
+"who": "",
+"ctx": "Menu/ui_achievements",
+"en": "Earned every Achievement in every episode of The Wolf Among Us."
+},
+{
+"k": "571",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Continue"
+},
+{
+"k": "572",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "New Game"
+},
+{
+"k": "573",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase"
+},
+{
+"k": "574",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Quit"
+},
+{
+"k": "575",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Return to Game"
+},
+{
+"k": "576",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save & Load"
+},
+{
+"k": "577",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Help & Settings"
+},
+{
+"k": "578",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Oops, no!"
+},
+{
+"k": "579",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Yes, I do!"
+},
+{
+"k": "580",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You want to start a new game?"
+},
+{
+"k": "581",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "No, don't!"
+},
+{
+"k": "582",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Yes, quit!"
+},
+{
+"k": "583",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit?"
+},
+{
+"k": "584",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Load Game"
+},
+{
+"k": "585",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save Game"
+},
+{
+"k": "586",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "(Auto Save)"
+},
+{
+"k": "587",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to delete this saved game?"
+},
+{
+"k": "588",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to load this game?\nAny unsaved progress in your current game will be lost."
+},
+{
+"k": "589",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to overwrite this saved game?"
+},
+{
+"k": "590",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Empty Slot"
+},
+{
+"k": "591",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SORRY, YOU CAN'T SAVE RIGHT NOW."
+},
+{
+"k": "592",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unknown Date"
+},
+{
+"k": "593",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unknown Location"
+},
+{
+"k": "594",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unknown Story"
+},
+{
+"k": "595",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Apply"
+},
+{
+"k": "596",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "off"
+},
+{
+"k": "597",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "on"
+},
+{
+"k": "598",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Music:"
+},
+{
+"k": "599",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Effects:"
+},
+{
+"k": "600",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Voice:"
+},
+{
+"k": "601",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Hint Level:"
+},
+{
+"k": "602",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Subtitles:"
+},
+{
+"k": "603",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pop Up Text:"
+},
+{
+"k": "604",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Screen Resolution:"
+},
+{
+"k": "605",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Full Screen:"
+},
+{
+"k": "606",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Graphics Quality:"
+},
+{
+"k": "607",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Shadow Quality:"
+},
+{
+"k": "608",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Anti-Aliasing:"
+},
+{
+"k": "609",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "After Effects:"
+},
+{
+"k": "610",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Sound Volume Levels"
+},
+{
+"k": "611",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Subtitles and Help"
+},
+{
+"k": "612",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Graphics"
+},
+{
+"k": "613",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Sample Button"
+},
+{
+"k": "614",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Cover Flow"
+},
+{
+"k": "615",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pause Menu"
+},
+{
+"k": "616",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Main Menu"
+},
+{
+"k": "617",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Menu Gym"
+},
+{
+"k": "618",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Test"
+},
+{
+"k": "619",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Another Test"
+},
+{
+"k": "620",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 1"
+},
+{
+"k": "621",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 2"
+},
+{
+"k": "622",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 3"
+},
+{
+"k": "623",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 4"
+},
+{
+"k": "624",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 5"
+},
+{
+"k": "625",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 6"
+},
+{
+"k": "626",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 7"
+},
+{
+"k": "627",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 8"
+},
+{
+"k": "628",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 9"
+},
+{
+"k": "629",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 10"
+},
+{
+"k": "630",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 11"
+},
+{
+"k": "631",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 12"
+},
+{
+"k": "632",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 13"
+},
+{
+"k": "633",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 14"
+},
+{
+"k": "634",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 15"
+},
+{
+"k": "635",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 16"
+},
+{
+"k": "636",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 17"
+},
+{
+"k": "637",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 18"
+},
+{
+"k": "638",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 19"
+},
+{
+"k": "639",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 20"
+},
+{
+"k": "640",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 21"
+},
+{
+"k": "641",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 22"
+},
+{
+"k": "642",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 23"
+},
+{
+"k": "643",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 24"
+},
+{
+"k": "644",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 25"
+},
+{
+"k": "645",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 26"
+},
+{
+"k": "646",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 27"
+},
+{
+"k": "647",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 28"
+},
+{
+"k": "648",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 29"
+},
+{
+"k": "649",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 30"
+},
+{
+"k": "650",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 31"
+},
+{
+"k": "651",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 32"
+},
+{
+"k": "652",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 33"
+},
+{
+"k": "653",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 34"
+},
+{
+"k": "654",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 35"
+},
+{
+"k": "655",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 36"
+},
+{
+"k": "656",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 37"
+},
+{
+"k": "657",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 38"
+},
+{
+"k": "658",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 39"
+},
+{
+"k": "659",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 40"
+},
+{
+"k": "660",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 41"
+},
+{
+"k": "661",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 42"
+},
+{
+"k": "662",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 43"
+},
+{
+"k": "663",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 44"
+},
+{
+"k": "664",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 45"
+},
+{
+"k": "665",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 46"
+},
+{
+"k": "666",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 47"
+},
+{
+"k": "667",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 48"
+},
+{
+"k": "668",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 49"
+},
+{
+"k": "669",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Button 50"
+},
+{
+"k": "670",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Back"
+},
+{
+"k": "671",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Game Paused"
+},
+{
+"k": "672",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SELECT"
+},
+{
+"k": "673",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PREVIOUS MENU"
+},
+{
+"k": "674",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Resume"
+},
+{
+"k": "675",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Restart Chapter"
+},
+{
+"k": "676",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "View Controls"
+},
+{
+"k": "677",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Fablespedia"
+},
+{
+"k": "678",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Achievements"
+},
+{
+"k": "679",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Settings/Credits"
+},
+{
+"k": "680",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Return to Main Menu"
+},
+{
+"k": "681",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Exit Game"
+},
+{
+"k": "682",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Settings"
+},
+{
+"k": "683",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Audio/Video"
+},
+{
+"k": "684",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Gameplay"
+},
+{
+"k": "685",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode Credits"
+},
+{
+"k": "686",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Voice Volume"
+},
+{
+"k": "687",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Music Volume"
+},
+{
+"k": "688",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Sound Volume"
+},
+{
+"k": "689",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "On"
+},
+{
+"k": "690",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Off"
+},
+{
+"k": "691",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Display Subtitles"
+},
+{
+"k": "692",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "English"
+},
+{
+"k": "693",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "French"
+},
+{
+"k": "694",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Italian"
+},
+{
+"k": "695",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "German"
+},
+{
+"k": "696",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Spanish"
+},
+{
+"k": "697",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Language"
+},
+{
+"k": "698",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Brightness"
+},
+{
+"k": "699",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Invert Y"
+},
+{
+"k": "700",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Controller Rumble"
+},
+{
+"k": "701",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Show Controller Buttons"
+},
+{
+"k": "702",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Detect Selectables"
+},
+{
+"k": "703",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Story Notifications"
+},
+{
+"k": "704",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Mouse Sensitivity"
+},
+{
+"k": "705",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "High"
+},
+{
+"k": "706",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Medium"
+},
+{
+"k": "707",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Low"
+},
+{
+"k": "708",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Graphics Quality"
+},
+{
+"k": "709",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Shadow Quality"
+},
+{
+"k": "710",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Aftereffects"
+},
+{
+"k": "711",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Texture Quality"
+},
+{
+"k": "712",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Antialiasing"
+},
+{
+"k": "713",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Full Screen"
+},
+{
+"k": "714",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "800x600"
+},
+{
+"k": "715",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1024x768"
+},
+{
+"k": "716",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1152x864"
+},
+{
+"k": "717",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1280x1024"
+},
+{
+"k": "718",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1600x900"
+},
+{
+"k": "719",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1600x1200"
+},
+{
+"k": "720",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1920x1200"
+},
+{
+"k": "721",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "1920x1440"
+},
+{
+"k": "722",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Resolution"
+},
+{
+"k": "723",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "jflsk jsdlk jdlk djkd kdk"
+},
+{
+"k": "724",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Telltale and the Telltale Games logo are trademarks of Telltale, Inc.  All rights reserved.  ©2010 Sam & Max Created by Steve Purcell.  Sam & Max Copyright and Trademark Steve Purcell.  Homestar Runner World and Characters Created by Mike Chapman and Matt Chapman. The Heavy is the property of Valve.  Tycho is the property of Penny Arcade.  \"Max,\" \"Strong Bad,\" \"The Heavy\" and \"Tycho\" each appear in Poker Night at the Inventory under license from their respective owners."
+},
+{
+"k": "725",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Book of Fables"
+},
+{
+"k": "726",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save"
+},
+{
+"k": "727",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save File Select"
+},
+{
+"k": "728",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DELETE"
+},
+{
+"k": "729",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Chapter Select"
+},
+{
+"k": "730",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Extras"
+},
+{
+"k": "731",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "A NEW BRANCH WILL BE CREATED\n\nDon't worry! This will not overwrite your current save file. A new save file will be automatically creates."
+},
+{
+"k": "732",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode Select"
+},
+{
+"k": "733",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "OK"
+},
+{
+"k": "734",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to delete \"NAME\"?"
+},
+{
+"k": "735",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Do you want to overwrite this save file or create a new branch?"
+},
+{
+"k": "736",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ARE YOU SURE YOU WANT TO OVERWRITE THIS FILE?"
+},
+{
+"k": "737",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to revert \"NAME\"?"
+},
+{
+"k": "738",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Previous Menu"
+},
+{
+"k": "739",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ACHIEVEMENTS"
+},
+{
+"k": "740",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SETTINGS"
+},
+{
+"k": "741",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "GRAPHICS"
+},
+{
+"k": "742",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "GAMEPLAY"
+},
+{
+"k": "743",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "AUDIO & VIDEO"
+},
+{
+"k": "744",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BOOK OF FABLES"
+},
+{
+"k": "745",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CHAPTER SELECT"
+},
+{
+"k": "746",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SAVE FILE SELECT"
+},
+{
+"k": "747",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EXTRAS"
+},
+{
+"k": "748",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PLAYER CHOICES"
+},
+{
+"k": "749",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "VIDEOS"
+},
+{
+"k": "750",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE CREDITS"
+},
+{
+"k": "751",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Scroll"
+},
+{
+"k": "752",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Change Storage Devices"
+},
+{
+"k": "753",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Change Save File"
+},
+{
+"k": "754",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Player Choice Stats"
+},
+{
+"k": "755",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Videos"
+},
+{
+"k": "756",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "VIEW CONTROLS"
+},
+{
+"k": "757",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PAUSED"
+},
+{
+"k": "758",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pedia unlocks"
+},
+{
+"k": "759",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Reticle Hint Dots"
+},
+{
+"k": "760",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Windowed"
+},
+{
+"k": "761",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Toad"
+},
+{
+"k": "762",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Woodsman"
+},
+{
+"k": "763",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Ichabod"
+},
+{
+"k": "764",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Lawrence"
+},
+{
+"k": "765",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Tweedle"
+},
+{
+"k": "766",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Kesley"
+},
+{
+"k": "767",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Farm"
+},
+{
+"k": "768",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save Changes"
+},
+{
+"k": "769",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Debug Options"
+},
+{
+"k": "770",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 1"
+},
+{
+"k": "771",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 2"
+},
+{
+"k": "772",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 3"
+},
+{
+"k": "773",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 4"
+},
+{
+"k": "774",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Epsidoe 5"
+},
+{
+"k": "775",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Show Reticle Hint Dots"
+},
+{
+"k": "776",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Hint Dots"
+},
+{
+"k": "777",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Delete"
+},
+{
+"k": "778",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Rename"
+},
+{
+"k": "779",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MANAGE DOWNLOADS"
+},
+{
+"k": "780",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Manage Downloads"
+},
+{
+"k": "781",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Yes"
+},
+{
+"k": "782",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "No"
+},
+{
+"k": "783",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Enter a new name for this save file."
+},
+{
+"k": "784",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Start"
+},
+{
+"k": "785",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save File {NAME}"
+},
+{
+"k": "786",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "My First Playthrough"
+},
+{
+"k": "787",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Branch"
+},
+{
+"k": "788",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Overwrite"
+},
+{
+"k": "789",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save limit reached"
+},
+{
+"k": "790",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You have reached the maximum number of save files. Please delete one before starting a new game."
+},
+{
+"k": "791",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "New"
+},
+{
+"k": "792",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Cancel"
+},
+{
+"k": "793",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "navhelp_resume"
+},
+{
+"k": "794",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Resume Game"
+},
+{
+"k": "795",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "navhelp_cancel"
+},
+{
+"k": "796",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Branched from {CHAPTER}, Save File {NAME}"
+},
+{
+"k": "797",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "STATS/STATES"
+},
+{
+"k": "798",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Start Fables102"
+},
+{
+"k": "799",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Start Episode 2"
+},
+{
+"k": "800",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Start Episode 3"
+},
+{
+"k": "801",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Start Episode 4"
+},
+{
+"k": "802",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Start Episode 5"
+},
+{
+"k": "803",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Installed"
+},
+{
+"k": "804",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Uninstalled"
+},
+{
+"k": "805",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Available"
+},
+{
+"k": "806",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unavailable"
+},
+{
+"k": "807",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Don't worry! This will not overwrite your current save file. A new save file will be automatically created."
+},
+{
+"k": "808",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "NEW BRANCH WILL BE CREATED"
+},
+{
+"k": "809",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "A new branch will be created"
+},
+{
+"k": "810",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to uninstall this episode?"
+},
+{
+"k": "811",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Install Failed"
+},
+{
+"k": "812",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Downloading..."
+},
+{
+"k": "813",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Uninstall Failed"
+},
+{
+"k": "814",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Minimal Mode"
+},
+{
+"k": "815",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Master Volume"
+},
+{
+"k": "816",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase Failed"
+},
+{
+"k": "817",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase season pass"
+},
+{
+"k": "818",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "label_start"
+},
+{
+"k": "819",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "test"
+},
+{
+"k": "820",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Test baby one more time"
+},
+{
+"k": "821",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "test test test"
+},
+{
+"k": "822",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Quit!"
+},
+{
+"k": "823",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game return to Windows desktop?"
+},
+{
+"k": "824",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Main menu"
+},
+{
+"k": "825",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want return to the Main Menu? All unsaved progress will be lost!"
+},
+{
+"k": "826",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PurchaseFailed"
+},
+{
+"k": "827",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "purchase failed message"
+},
+{
+"k": "828",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BOOK OF FABLES      ."
+},
+{
+"k": "829",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Swineheart"
+},
+{
+"k": "830",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Exodus"
+},
+{
+"k": "831",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "13thFloor"
+},
+{
+"k": "832",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BigbyMercy"
+},
+{
+"k": "833",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BigbyVengeance"
+},
+{
+"k": "834",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ANTIALIASING"
+},
+{
+"k": "835",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "AFTEREFFECTS"
+},
+{
+"k": "836",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "AUDIO/VIDEO"
+},
+{
+"k": "837",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "AVAILABLE"
+},
+{
+"k": "838",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BRANCH"
+},
+{
+"k": "839",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BRANDCHED FROM {CHAPTER}, SAVE FILE {NAME}"
+},
+{
+"k": "840",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BRIGHTNESS"
+},
+{
+"k": "841",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CANCEL"
+},
+{
+"k": "842",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CHANGE SAVE FILE"
+},
+{
+"k": "843",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DEBUG OPTIONS"
+},
+{
+"k": "844",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MINIMAL MODE"
+},
+{
+"k": "845",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 1"
+},
+{
+"k": "846",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 2"
+},
+{
+"k": "847",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 3"
+},
+{
+"k": "848",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 4"
+},
+{
+"k": "849",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 5"
+},
+{
+"k": "850",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EXIT GAME"
+},
+{
+"k": "851",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "GRAPHICS QUALITY"
+},
+{
+"k": "852",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "INVERT Y"
+},
+{
+"k": "853",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "INSTALLED"
+},
+{
+"k": "854",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "LANGUAGE"
+},
+{
+"k": "855",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ENGLISH"
+},
+{
+"k": "856",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "FRENCH"
+},
+{
+"k": "857",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "GERMAN"
+},
+{
+"k": "858",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ITALIAN"
+},
+{
+"k": "859",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SPANISH"
+},
+{
+"k": "860",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MAIN MENU"
+},
+{
+"k": "861",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MOUSE SENSITIVITY"
+},
+{
+"k": "862",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "NEW"
+},
+{
+"k": "863",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "NO"
+},
+{
+"k": "864",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "OFF"
+},
+{
+"k": "865",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ON"
+},
+{
+"k": "866",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "REWIND"
+},
+{
+"k": "867",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE FAILED"
+},
+{
+"k": "868",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RENAME"
+},
+{
+"k": "869",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RESTART CHAPTER"
+},
+{
+"k": "870",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RESUME GAME"
+},
+{
+"k": "871",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RESOLUTION"
+},
+{
+"k": "872",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CONTROLLER RUMBLE"
+},
+{
+"k": "873",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SAVE FILE {NAME}"
+},
+{
+"k": "874",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SAVE LIMIT REACHED!"
+},
+{
+"k": "875",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE SEASON PASS"
+},
+{
+"k": "876",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SHADOW QUALITY"
+},
+{
+"k": "877",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "START"
+},
+{
+"k": "878",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "START EPISODE 2"
+},
+{
+"k": "879",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "START EPISODE 3"
+},
+{
+"k": "880",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "START EPISODE 4"
+},
+{
+"k": "881",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "START EPISODE 5"
+},
+{
+"k": "882",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DISPLAY SUBTITLES"
+},
+{
+"k": "883",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "TEXTURE QUALITY"
+},
+{
+"k": "884",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "UNAVAILABLE"
+},
+{
+"k": "885",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "UNINSTALLED"
+},
+{
+"k": "886",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MASTER VOLUME"
+},
+{
+"k": "887",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MUSIC VOLUME"
+},
+{
+"k": "888",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SOUND VOLUME"
+},
+{
+"k": "889",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "VOICE VOLUME"
+},
+{
+"k": "890",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "FULL SCREEN"
+},
+{
+"k": "891",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "YES"
+},
+{
+"k": "892",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "LABEL_START"
+},
+{
+"k": "893",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SWINEHEART"
+},
+{
+"k": "894",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EXODUS"
+},
+{
+"k": "895",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "13THFLOOR"
+},
+{
+"k": "896",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BIGBYMERCY"
+},
+{
+"k": "897",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BIGBYVENGEANCE"
+},
+{
+"k": "898",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CONTINUE"
+},
+{
+"k": "899",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure \"NAME\"?"
+},
+{
+"k": "900",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure \"NAME\" ?"
+},
+{
+"k": "901",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "blah blah"
+},
+{
+"k": "902",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to delete \"NAME\" ?"
+},
+{
+"k": "903",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "dadada"
+},
+{
+"k": "904",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to overwrite save file {NAME}? Current progress will be lost."
+},
+{
+"k": "905",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Overwrite or Branch?"
+},
+{
+"k": "906",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BRANCH will allow you to replay this scene by creating a new save file, whereas REWIND will erase your currently selected save file back to this Chapter?"
+},
+{
+"k": "907",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Save Limit Reached"
+},
+{
+"k": "908",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "There is no more space."
+},
+{
+"k": "909",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "QUIT GAME"
+},
+{
+"k": "910",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "OVERWRITE"
+},
+{
+"k": "911",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "OVERWRITE OR BRANCH?"
+},
+{
+"k": "912",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SAVE LIMIT REACHED"
+},
+{
+"k": "913",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to OVERWRITE: SAVE FILE NAME? Any progress made after the Selected Chapter will be lost."
+},
+{
+"k": "914",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to delete: SAVE FILE NAME?"
+},
+{
+"k": "915",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Actions"
+},
+{
+"k": "916",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Fight Actions"
+},
+{
+"k": "917",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Cycle through inventory"
+},
+{
+"k": "918",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Move Bigby"
+},
+{
+"k": "919",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pause menu"
+},
+{
+"k": "920",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Move reticle"
+},
+{
+"k": "921",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Run"
+},
+{
+"k": "922",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Show selectables"
+},
+{
+"k": "923",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pause"
+},
+{
+"k": "924",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Move character"
+},
+{
+"k": "925",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Select action"
+},
+{
+"k": "926",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Select actions/\nCycle through inventory"
+},
+{
+"k": "927",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Show selectables/\nFight actions"
+},
+{
+"k": "928",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Run/fight action"
+},
+{
+"k": "929",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Run/\nFight actions"
+},
+{
+"k": "930",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Show p<<id:356725117>>Point of interest/fight action"
+},
+{
+"k": "931",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BRANCH OR REWIND"
+},
+{
+"k": "932",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "navhelp_manageInstalls"
+},
+{
+"k": "933",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Manage Installs"
+},
+{
+"k": "934",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PLAY"
+},
+{
+"k": "935",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Replay"
+},
+{
+"k": "936",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode is Unavailable"
+},
+{
+"k": "937",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Try again later."
+},
+{
+"k": "938",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE EPISODE"
+},
+{
+"k": "939",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "navhelp_continue"
+},
+{
+"k": "940",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 1: Faith"
+},
+{
+"k": "941",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "\"Smoke & Mirrors\""
+},
+{
+"k": "942",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 3: \"A Crooked Mile\""
+},
+{
+"k": "943",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 4: IN SHEEP'S CLOTHING"
+},
+{
+"k": "944",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 5: CRY WOLF"
+},
+{
+"k": "945",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 5"
+},
+{
+"k": "946",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode 2: \"Smoke & Mirrors\""
+},
+{
+"k": "947",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Play"
+},
+{
+"k": "948",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Buy"
+},
+{
+"k": "949",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE EPISODE 2"
+},
+{
+"k": "950",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "NO THANKS"
+},
+{
+"k": "951",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DEMO"
+},
+{
+"k": "952",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PLAY DEMO"
+},
+{
+"k": "953",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Download"
+},
+{
+"k": "954",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Not Available"
+},
+{
+"k": "955",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You have reached your save file limit. Please DELETE any unwanted Save Files to make room."
+},
+{
+"k": "956",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You have reached your save file limit. Delete any unwanted Save Files to make room."
+},
+{
+"k": "957",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the Xbox Dashboard?"
+},
+{
+"k": "958",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the XMB?"
+},
+{
+"k": "959",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "A new Branch has been created. Don't worry! This will not overwrite your current save file. A new save file will be automatically created. Select Ok to start your Branch game!"
+},
+{
+"k": "960",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BRANCH CREATED"
+},
+{
+"k": "961",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DOWNLOAD"
+},
+{
+"k": "962",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "TRY AGAIN LATER"
+},
+{
+"k": "963",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unable to download at this time. Please try again later."
+},
+{
+"k": "964",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DOWNLOADING"
+},
+{
+"k": "965",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "UNINSTALL FAILED"
+},
+{
+"k": "966",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unable to uninstall this episode at this time."
+},
+{
+"k": "967",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unable to install this episode at this time."
+},
+{
+"k": "968",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "INSTALL FAILED"
+},
+{
+"k": "969",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "UNINSTALL"
+},
+{
+"k": "970",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to uninstall Episode #? Note you will not loose any save data and you can always reinstall the episode at a later date.  The game will restart upon uninstalling."
+},
+{
+"k": "971",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "label_downloads"
+},
+{
+"k": "972",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DOWNLOAD CONTENT"
+},
+{
+"k": "973",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BEST VALUE! Purchase all 5 The Wolf Among Us episodes and play them when they come out!"
+},
+{
+"k": "974",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase just the first episode and dip your toe into the world of Fables."
+},
+{
+"k": "975",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Best Value!"
+},
+{
+"k": "976",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Best Value! Get all 5 Episodes\nof The Wolf Among Us and \nplay them as they come out!"
+},
+{
+"k": "977",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SEASON PASS"
+},
+{
+"k": "978",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pre-purchase this episode today and download it when it becomes available!"
+},
+{
+"k": "979",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Out now! Download and Play this episode today!"
+},
+{
+"k": "980",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit to the desktop?"
+},
+{
+"k": "981",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the desktop?"
+},
+{
+"k": "982",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "START EPISODE 1"
+},
+{
+"k": "983",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE EPISODE 1"
+},
+{
+"k": "984",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE EPISODE 3"
+},
+{
+"k": "985",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE EPISODE 4"
+},
+{
+"k": "986",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE EPISODE 5"
+},
+{
+"k": "987",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "TROPHIES"
+},
+{
+"k": "988",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SAVE FILES"
+},
+{
+"k": "989",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unlock Full Game"
+},
+{
+"k": "990",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "UNLOCK FULL GAME"
+},
+{
+"k": "991",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unlock Episode 1 and experience the world of Fables!"
+},
+{
+"k": "992",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "FAITH"
+},
+{
+"k": "993",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SMOKE & MIRRORS"
+},
+{
+"k": "994",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "A CROOKED MILE"
+},
+{
+"k": "995",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "IN SHEEP'S CLOTHING"
+},
+{
+"k": "996",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CRY WOLF"
+},
+{
+"k": "997",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BEST VALUE"
+},
+{
+"k": "998",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RESTART EPISODE"
+},
+{
+"k": "999",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Coming Soon!"
+},
+{
+"k": "1000",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PURCHASE"
+},
+{
+"k": "1001",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODES"
+},
+{
+"k": "1002",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "label_episodes"
+},
+{
+"k": "1003",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the Xbox 360 Dashboard? All unsaved progress will be lost!"
+},
+{
+"k": "1004",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the XMB? All unsaved progress will be lost!"
+},
+{
+"k": "1005",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the desktop? All unsaved progress will be lost!"
+},
+{
+"k": "1006",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DETECT SELECTABLES"
+},
+{
+"k": "1007",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Online service is disabled on your Sony Entertainment Network account due to parental control restrictions."
+},
+{
+"k": "1008",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Online Service Disabled"
+},
+{
+"k": "1009",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SHOW SELECTABLES"
+},
+{
+"k": "1010",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "HIGH"
+},
+{
+"k": "1011",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "LOW"
+},
+{
+"k": "1012",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE"
+},
+{
+"k": "1013",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Adjust Slider/Toggle"
+},
+{
+"k": "1014",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DOWNLOAD EPISODE"
+},
+{
+"k": "1015",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BUY!"
+},
+{
+"k": "1016",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "USD"
+},
+{
+"k": "1017",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase failed. Please check your network connection and try again."
+},
+{
+"k": "1018",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please check your network connection and try again."
+},
+{
+"k": "1019",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ONLINE DISABLED"
+},
+{
+"k": "1020",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Unlock Episode 1"
+},
+{
+"k": "1021",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "UNLOCK EPISODE 1"
+},
+{
+"k": "1022",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "No player choice stats available yet. Check again when you've seen more of the story!"
+},
+{
+"k": "1023",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "NO STATS YET"
+},
+{
+"k": "1024",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You have not yet done anything that we have stats for in the current game. Check again when you've seen more of the story!"
+},
+{
+"k": "1025",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Choice stats will show up as you make choices in the current game. Check again when you've seen more of the story!"
+},
+{
+"k": "1026",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SETTINGS CHANGED"
+},
+{
+"k": "1027",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You have changed your settings.  Save these changes?"
+},
+{
+"k": "1028",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "APPLY"
+},
+{
+"k": "1029",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RESTORE"
+},
+{
+"k": "1030",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 1: FAITH"
+},
+{
+"k": "1031",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 2: SMOKE & MIRRORS"
+},
+{
+"k": "1032",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE 3: A CROOKED MILE"
+},
+{
+"k": "1033",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CONTROLS"
+},
+{
+"k": "1034",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CREDITS"
+},
+{
+"k": "1035",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "PLAYER CHOICES: EPSIODE 1"
+},
+{
+"k": "1036",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "OWNED"
+},
+{
+"k": "1037",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Loading Save File"
+},
+{
+"k": "1038",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "New Downloadable Content"
+},
+{
+"k": "1039",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "New Downloadable Content is available!  \nWould you like to Install?\n\nSelecting OK will return you to the Title Screen."
+},
+{
+"k": "1040",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please connect your Xbox 360 Console to the Internet"
+},
+{
+"k": "1041",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please connect your PlayStation®3 system to the Internet"
+},
+{
+"k": "1042",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please connect your PC to the Internet"
+},
+{
+"k": "1043",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Network Unavailable"
+},
+{
+"k": "1044",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "An error occurred. Please try again!"
+},
+{
+"k": "1045",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please connect your PlayStation®3 system to the PlayStation®Network"
+},
+{
+"k": "1046",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase Episode 1 first!"
+},
+{
+"k": "1047",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Demo Mode"
+},
+{
+"k": "1048",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Buy Episode 1"
+},
+{
+"k": "1049",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Something Bad Here!"
+},
+{
+"k": "1050",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "ERROR"
+},
+{
+"k": "1051",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Coming Soon"
+},
+{
+"k": "1052",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "NETWORK UNAVAILABLE"
+},
+{
+"k": "1053",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DOWNLOAD NEW CONTENT"
+},
+{
+"k": "1054",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "BUY EPISODE 1"
+},
+{
+"k": "1055",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Welcome to The Wolf Among Us!"
+},
+{
+"k": "1056",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Visit The Wolf Among Us community pages."
+},
+{
+"k": "1057",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Join The Discussion Now!"
+},
+{
+"k": "1058",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "INSTALL"
+},
+{
+"k": "1059",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Purchase Episode 1!"
+},
+{
+"k": "1060",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EMPTY"
+},
+{
+"k": "1061",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CURRENT SAVE"
+},
+{
+"k": "1062",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CLEAR"
+},
+{
+"k": "1063",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Clear"
+},
+{
+"k": "1064",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "To Rewind this chapter, you must select a Save File to copy to."
+},
+{
+"k": "1065",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "REPLAY - SAVE FILE SELECT"
+},
+{
+"k": "1066",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Buy Episode 1 First, Then Buy The Season Pass!"
+},
+{
+"k": "1067",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Copy"
+},
+{
+"k": "1068",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SELECT A SAVE FILE"
+},
+{
+"k": "1069",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Rewind"
+},
+{
+"k": "1070",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SELECT SAVE FILE"
+},
+{
+"k": "1071",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "To rewind this chapter, please choose a save file to copy the data."
+},
+{
+"k": "1072",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Best Value – Save on all 5 episodes and play them as they become available!"
+},
+{
+"k": "1073",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Best Value - save on all 5 episodes and play them as they become available!"
+},
+{
+"k": "1074",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Best Value - save on all \nremaining episodes \n(Episodes 2-5) and play \nthem as they become available!"
+}
+]

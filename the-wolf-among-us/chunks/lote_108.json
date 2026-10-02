@@ -1,0 +1,1076 @@
+[
+{
+"k": "29324",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Dagger"
+},
+{
+"k": "29325",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Pin Cushion"
+},
+{
+"k": "29326",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Mirror Shard"
+},
+{
+"k": "29327",
+"who": "JD",
+"ctx": "Fables104/env_pawnshop",
+"en": "Then then tries with his left, making a massive swing that Bigby narrowly ducks"
+},
+{
+"k": "29328",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "Hey, assholes."
+},
+{
+"k": "29329",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Display Case"
+},
+{
+"k": "29330",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "[Shut Him Up]"
+},
+{
+"k": "29331",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "[Hear Him Out]"
+},
+{
+"k": "29332",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Empty Case"
+},
+{
+"k": "29333",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Hm, I don't like the looks of any of this stuff."
+},
+{
+"k": "29334",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]And... before you ask, I've never seen the Crooked Man in here."
+},
+{
+"k": "29335",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Neither hide nor hair, and all that. [hoping to convince Bigby to leave.]"
+},
+{
+"k": "29336",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]In fact, as far as I can tell, he's never even actually stepped foot in here."
+},
+{
+"k": "29337",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]But Bloody Mary works for him. And the last time I saw her, she had the Woodsman's axe."
+},
+{
+"k": "29338",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Look, I know some Fables can switch from hairy beast to... well, hairier beast on a whim."
+},
+{
+"k": "29339",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1] But it's not so easy for the rest of us to look human, alright?"
+},
+{
+"k": "29340",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][under his breath][can't believe Bigby fell for it]You've gotta be kidding me..."
+},
+{
+"k": "29341",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][growing anger][more to himself]I thought you said you'd never take something like this."
+},
+{
+"k": "29342",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][nervous stammer]Uh... um, what?"
+},
+{
+"k": "29343",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]I-- I don-- I don't... um...[trails off]"
+},
+{
+"k": "29344",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][short nervous laugh]"
+},
+{
+"k": "29345",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Just shut the fuck up, will ya?"
+},
+{
+"k": "29346",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][to himself]I don't have to listen to this shit."
+},
+{
+"k": "29347",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][ALT]Shut the fuck up."
+},
+{
+"k": "29348",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]But... the axe would probably have been in a bigger case..."
+},
+{
+"k": "29349",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][to himself]No axe... but..."
+},
+{
+"k": "29350",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][to himself]The Crooked Man's got a real stockpile going here."
+},
+{
+"k": "29351",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][nervous]So, uh, are you done... looking around?"
+},
+{
+"k": "29352",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]I'll be done when I'm good and ready."
+},
+{
+"k": "29353",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][to himself]He's got quite an inventory here... and this is just what's out on the floor..."
+},
+{
+"k": "29354",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][to himself]There's gotta be something here that'll lead me to the Crooked Man"
+},
+{
+"k": "29355",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][to himself]If Jersey were here, I could just beat it out of him."
+},
+{
+"k": "29356",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][nervous]But... he's not, so..."
+},
+{
+"k": "29357",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487438] [nervous]High interest isn't servitude.[beat] And nobody's complained before."
+},
+{
+"k": "29358",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487424][nervous] You know, um... I'm sorry, Bigby, but... I really shouldn't be talking about this with you."
+},
+{
+"k": "29359",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487479][nervous]Look, I work here sometimes for the extra cash. It's something \"stable.\""
+},
+{
+"k": "29360",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357488323][nervous]You know, between more... entrepreneurial bouts."
+},
+{
+"k": "29361",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487635][lying - badly][nervous]We'd never take something like that."
+},
+{
+"k": "29362",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487484][nervous]Is this really why you came down here?"
+},
+{
+"k": "29363",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487494][sigh] Okay. Fine.[beat] Fire away."
+},
+{
+"k": "29364",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487495][sigh] Okay... what do you want to know."
+},
+{
+"k": "29365",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487507][nervous]Maybe I'm the manager, you ever think of that?"
+},
+{
+"k": "29366",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487546]That would be quite the magic trick."
+},
+{
+"k": "29367",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487525][hushed]Could be anything from... the loan plus interest, family heirlooms to... novelties of a more exotic nature."
+},
+{
+"k": "29368",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487523][hushed]Uh, magic. Memories. Parts of you.[beat] It's bad."
+},
+{
+"k": "29369",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487532][nervous]They check my records. I have to open up so many loans a month or I'm in the shit, too."
+},
+{
+"k": "29370",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487531][nervous][hushed - giving up info]That's the real business here, Bigby, not the pawn shop crap."
+},
+{
+"k": "29371",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487559][unsure]What can I say, Jersey likes to run at odd hours."
+},
+{
+"k": "29372",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487560]And, really, he'd be the one to talk to, so... [pleading]can't you just swing by later."
+},
+{
+"k": "29373",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357488328][over the end of Bigby's line]It's not here."
+},
+{
+"k": "29374",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487569][nervous]I'd really rather you not physically be here if he comes back, you know..."
+},
+{
+"k": "29375",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487654][nervous]I don't know anything about that."
+},
+{
+"k": "29376",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487669][nervous]Look, I don't know anything, alright?"
+},
+{
+"k": "29377",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487677][sighs] It was Mary, she took it, okay. That's all I know!"
+},
+{
+"k": "29378",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487597][to himself] Yeah, well... what can I say."
+},
+{
+"k": "29379",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357488042][nervous]Maybe? I don't know."
+},
+{
+"k": "29380",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487605][nervous]I don't know."
+},
+{
+"k": "29381",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487612][nervous] I'm not here every day. And even when I am here, people sometimes dump boxes of shit."
+},
+{
+"k": "29382",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487614][nervous]What does it matter?"
+},
+{
+"k": "29383",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487621][nervous]Because he's poor, that's why."
+},
+{
+"k": "29384",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487625][nervous] Whoever did it, must've needed the money bad. Which shouldn't come as a total shock."
+},
+{
+"k": "29385",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487628][more to himself]Oh please. Sad is watching Dickory Dock sell the mouse and the clock so he can afford clean sheets."
+},
+{
+"k": "29386",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487609][nervous][worried]You're not touching anything, are you?"
+},
+{
+"k": "29387",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487578][nervous request] Hey, look with your eyes, not your hands, okay?"
+},
+{
+"k": "29388",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487580] That's like one of the most expensive things we have in here."
+},
+{
+"k": "29389",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487581][nervous][touchy subject]And I know you don't have the scratch to cover it, so..."
+},
+{
+"k": "29390",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487579] Just do me a favor and put it down, please?"
+},
+{
+"k": "29391",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487307][sighs][c'mon, man] Really?"
+},
+{
+"k": "29392",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487398][this is not good]Bigby's here."
+},
+{
+"k": "29393",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][alt for 357487339]This is a surprise."
+},
+{
+"k": "29394",
+"who": "TOAD",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Look, I know some Fables can switch from man to beast and back again, like changing shirts..."
+},
+{
+"k": "29395",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]This is my fight, dammit."
+},
+{
+"k": "29396",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Dammit, Bigby!"
+},
+{
+"k": "29397",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]This is my fucking fight!"
+},
+{
+"k": "29398",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Dammit, Bigby..."
+},
+{
+"k": "29399",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]This fucker stole from me!"
+},
+{
+"k": "29400",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Not now!"
+},
+{
+"k": "29401",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Go sniff around somewhere else."
+},
+{
+"k": "29402",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][a warning]Woody!"
+},
+{
+"k": "29403",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1][bewildered frightened non-verbal][like \"huawhah??\"]Wha--"
+},
+{
+"k": "29404",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]I found him first!"
+},
+{
+"k": "29405",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]You're damn right it is."
+},
+{
+"k": "29406",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Good..."
+},
+{
+"k": "29407",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "I'm planning on it."
+},
+{
+"k": "29408",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "I'll do my job."
+},
+{
+"k": "29409",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]It's my job. I'll get him."
+},
+{
+"k": "29410",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "That's all I'm doing."
+},
+{
+"k": "29411",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]Believe me..."
+},
+{
+"k": "29412",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]That's all I've been doing."
+},
+{
+"k": "29413",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup1]This whole damn time."
+},
+{
+"k": "29414",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup][dawning on him][should have gone there]The Cut Above."
+},
+{
+"k": "29415",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Jewelry"
+},
+{
+"k": "29416",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]So you can roar, smash the place up."
+},
+{
+"k": "29417",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]Shit, you can wail on me all you want, but what good is it gonna do ya?"
+},
+{
+"k": "29418",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]But what good is it gonna do ya?"
+},
+{
+"k": "29419",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]'Cause he ain't in your town. You're in his."
+},
+{
+"k": "29420",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]And he sure as shit is ready for you."
+},
+{
+"k": "29421",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit][laughs]"
+},
+{
+"k": "29422",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup2]Back it up, Jersey. You're dealing with me, now."
+},
+{
+"k": "29423",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup2]Go fuck yourself, Jersey."
+},
+{
+"k": "29424",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup2][threatening]Right... Crane. Now we're getting somewhere."
+},
+{
+"k": "29425",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]Jack! What the fuck is going on?"
+},
+{
+"k": "29426",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3][stage whisper]Jack! What the hell is going on in here?"
+},
+{
+"k": "29427",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]And I'm gonna make you suffer for what you did to him."
+},
+{
+"k": "29428",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]This ain't gonna go like it went with Tweedle Dum."
+},
+{
+"k": "29429",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3][a little lower, angry]And you got real fucking lucky that's all you got, after how you did Tweedle Dum like that."
+},
+{
+"k": "29430",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]And you... I can't believe you'd even show your face in here."
+},
+{
+"k": "29431",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]You think I'm just gonna forget Tweedle Dum, and greet you with a fucking smile?"
+},
+{
+"k": "29432",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]So tell me what you're here for, or get the fuck out."
+},
+{
+"k": "29433",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]The fucking gall."
+},
+{
+"k": "29434",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]After what you did to our guy Tweedle Dum?"
+},
+{
+"k": "29435",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]Considering the Crooked Man was so generous with your life."
+},
+{
+"k": "29436",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]I gotta say, I'm surprised you're already making trouble again."
+},
+{
+"k": "29437",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]Shut up, Jack."
+},
+{
+"k": "29438",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]If the Jersey Devil isn't here to answer my questions... it also means he isn't here to get in my way."
+},
+{
+"k": "29439",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[pickup3]So, I'm gonna take a look around... as long as I've got the elbow room."
+},
+{
+"k": "29440",
+"who": "WOODSMAN",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]What the hell are you doing?"
+},
+{
+"k": "29441",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Why push a loan on Toad?"
+},
+{
+"k": "29442",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Enough. Get the manager."
+},
+{
+"k": "29443",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "What's the manager up to?"
+},
+{
+"k": "29444",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Where's the manager?"
+},
+{
+"k": "29445",
+"who": "JACK",
+"ctx": "Fables104/env_pawnshop",
+"en": "I'm, uh, just gonna, uh... you know..."
+},
+{
+"k": "29446",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]You don't want no part of this, pal."
+},
+{
+"k": "29447",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]You push me one more time, and I will have one hell of a mess on my hands."
+},
+{
+"k": "29448",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]And I really don't feel like mopping out this room today."
+},
+{
+"k": "29449",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]So I'm giving you one more shot to thank me for my sunny attitude and generous disposition..."
+},
+{
+"k": "29450",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]Turn the fuck around, and walk out that door with your life."
+},
+{
+"k": "29451",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "{AnnoyedA}[edit]Walking out with your axe, or whatever other bullshit is not on the table."
+},
+{
+"k": "29452",
+"who": "JERSEY",
+"ctx": "Fables104/env_pawnshop",
+"en": "{AngryA}[edit]So get the fuck outta my sight! {AnnoyedA}Hit the bricks. See ya later."
+},
+{
+"k": "29453",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "Where do I find the Crooked Man?"
+},
+{
+"k": "29454",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]Aww, protecting your friend... too bad you couldn't protect those whores."
+},
+{
+"k": "29455",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "[Stop Him]"
+},
+{
+"k": "29456",
+"who": "",
+"ctx": "Fables104/env_pawnshop",
+"en": "[Let Him]"
+},
+{
+"k": "29457",
+"who": "BIGBY",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]Hey! What's going on here?"
+},
+{
+"k": "29458",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit]Those girls are still dead... and there's nothin' you can do to bring them back."
+},
+{
+"k": "29459",
+"who": "JERSEYDEVIL",
+"ctx": "Fables104/env_pawnshop",
+"en": "[edit] And I don't know what they did, but I do know this..."
+},
+{
+"k": "29460",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "You want to know who the killer is?"
+},
+{
+"k": "29461",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[whisper]The Big Bad Wolf."
+},
+{
+"k": "29462",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "I wish I could have seen it."
+},
+{
+"k": "29463",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "And you'd give it to them."
+},
+{
+"k": "29464",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "How you picked off those men one by one."
+},
+{
+"k": "29465",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "Some would just drop to their knees where they stood, close their eyes, and wait for death."
+},
+{
+"k": "29466",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "I've heard stories about you. Back in the homelands."
+},
+{
+"k": "29467",
+"who": "BIGBY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[processed - wolf growl]"
+},
+{
+"k": "29468",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[being held against wall]Is this the kind of sheriff you are?"
+},
+{
+"k": "29469",
+"who": "BEAUTY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[angry]What do you have to say for yourself?"
+},
+{
+"k": "29470",
+"who": "BLUEBEARD",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "Murderer!"
+},
+{
+"k": "29471",
+"who": "BEAUTY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[angry]You should be ashamed!"
+},
+{
+"k": "29472",
+"who": "BIGBY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[angry]Give me one good reason not to rip you apart right now."
+},
+{
+"k": "29473",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[muttering]Let's see what your little princess thinks of that."
+},
+{
+"k": "29474",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[small laugh]"
+},
+{
+"k": "29475",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "You're just a monster."
+},
+{
+"k": "29476",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "You want your killer..."
+},
+{
+"k": "29477",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "So why don't you tell me..."
+},
+{
+"k": "29478",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "Who do you think did it?"
+},
+{
+"k": "29479",
+"who": "CROOKED",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[laughs] Do you have any idea what you're doing?"
+},
+{
+"k": "29480",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "I've heard stories about you."
+},
+{
+"k": "29481",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "In the old days… How you picked off those men one by one."
+},
+{
+"k": "29482",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "Oh, how they screamed."
+},
+{
+"k": "29483",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[whisper]\"The wolf is coming.\""
+},
+{
+"k": "29484",
+"who": "BIGBY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[processed- wolf growl]"
+},
+{
+"k": "29485",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "And they would wait…"
+},
+{
+"k": "29486",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "…hiding anywhere they could squeeze their pathetic shivering corpses."
+},
+{
+"k": "29487",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "Some would just drop to their knees where they stood, close their eyes…"
+},
+{
+"k": "29488",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "…and wait for death."
+},
+{
+"k": "29489",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[small laugh]I wish I could have seen it."
+},
+{
+"k": "29490",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[menacing]Oh well."
+},
+{
+"k": "29491",
+"who": "BIGBY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[Grunt of pain]"
+},
+{
+"k": "29492",
+"who": "JERSEY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[cry of fear]"
+},
+{
+"k": "29493",
+"who": "DEE",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[terror]No!"
+},
+{
+"k": "29494",
+"who": "MARY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[SCREAM of fury]"
+},
+{
+"k": "29495",
+"who": "BIGBY",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[HOWL of pain]"
+},
+{
+"k": "29496",
+"who": "SNOW",
+"ctx": "Fables104/nexttimeon_episode5",
+"en": "[horrified]What have you done?"
+},
+{
+"k": "29497",
+"who": "MARY",
+"ctx": "Fables104/previouslyon_episode3",
+"en": "It just didn't know when to end."
+},
+{
+"k": "29498",
+"who": "BIGBY",
+"ctx": "Fables104/previouslyon_episode3",
+"en": "If you can't afford to look human, you're going to The Farm. It's as simple as that."
+},
+{
+"k": "29499",
+"who": "TOAD",
+"ctx": "Fables104/previouslyon_episode3",
+"en": "Do you have any idea how much it costs to have an entire family in glamour?"
+},
+{
+"k": "29500",
+"who": "MARY",
+"ctx": "Fables104/previouslyon_episode3",
+"en": "It was a good show, but, you know..."
+},
+{
+"k": "29501",
+"who": "MARY",
+"ctx": "Fables104/previouslyon_episode3",
+"en": "{mockinga}Well, this is gonna be... a beautiful relationship we have with you guys. {happya}Really. I mean it."
+},
+{
+"k": "29502",
+"who": "MARY",
+"ctx": "Fables104/previouslyon_episode3",
+"en": "My nickname. You know what I'm talking about."
+}
+]

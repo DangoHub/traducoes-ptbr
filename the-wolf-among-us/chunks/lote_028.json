@@ -1,0 +1,722 @@
+[
+{
+"k": "7211",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "WRITTEN BY\nMike Stemmle\n\nDIRECTED BY\nJason Latino\n\nDIRECTOR OF ART\nDave Bogan\n\nART DIRECTION\nPeter Tsaykel\n\nEXECUTIVE PRODUCERS\nDan Connors\nKevin Bruner\n\nTECHNICAL DIRECTOR\nZacariah Litton\n\nDIRECTOR OF PRODUCTION TECHNOLOGIES\nJonathan Sgro\n\nLEAD PROGRAMMER\nRandy Tudor\n\nLEAD ANIMATOR\nJeff Sarre\n\nLEAD CHOREOGRAPHER\nEric Parsons\n\nLEAD ENVIRONMENT ARTIST\nKim Lyons\n\nSEASON DESIGN BY\nMike Stemmle\nJohn Drake\n\nEPISODE DESIGN BY\nMike Stemmle\nJohn Drake\n\nCONCEPT ARTIST\nRyan Jones\nGray Rogers\n\nDIRECTOR OF DESIGN\nDave Grossman\n\nPRODUCED BY\nBrett Tosti\n\nASSOCIATE PRODUCER \nKirsten Kennedy \n\nPROGRAMMING\nKeenan Patterson\n\nANIMATION\nMichael Tjosvold\nPeter Tsaykel\n\nCHOREOGRAPHY\nVahram Antonian\nRebekah Gamin\nSean Ainsworth\nMarius Fietzek\nThorsten Fietzek\nDennis Lenart\nKent Mudle\n\nCHARACTER ART\nCemre Ozkurt\n\nENVIRONMENT ART\nBrian Gillies\nDrew Di Domenico\n\nTECHNICAL ART AND EFFECTS\nNora Magyar\nMichael Perretta\n\nUSER INTERFACE\nJim Ingraham \n\nINTERFACE ARTWORK AND TITLE DESIGN\nJake Rodkin\n\nASSISTANT PRODUCER\nJacob Miller\nBryan Roth\n\nLOCALIZATION/QA SUPERVISOR \nErik O'Keady\n\nQA TESTING LEAD\nCaleb M. Hoffman\n\nQA PROJECT LEAD\nJeremy Acs\n\nQA TESTING\nDan Morris\nJohn Douglas Joy\nAlex Culang\nJeff Armstead\nTrent Burg\nChuck Jose\nBen Knoll\n\nADDITIONAL ANIMATION BY\nTim Reardon \n\nADDITIONAL CHARACTER AND ENVIRONMENT MODELING BY\nDQ Entertainment International\n\n\n\n\nAUDIO PRODUCTION\nBay Area Sound, Inc.\n\nMUSIC BY\nJared Emerson-Johnson\n\nVOICE PRODUCER\nJulian Kwasneski\n\nVOICE DIRECTION\nJulian Kwasneski\nJared Emerson-Johnson\n\nDIALOG RECORDING AND EDITING\nJory Prum\nJulian Kwasneski\n\nSOUND DESIGN\nJulian Kwasneski\nBill Storkson\nJared Emerson-Johnson\n\nSOUND COORDINATOR \nLazar Levine\n\nAUDIO IMPLEMENTATION\nDamian Kastbauer\n\n\n\n\nMARKETING AND PUBLIC RELATIONS\nSteve Allison\nRichard Iggo\nJoshua Viloria\nJoel Dreskin\nPaolo Asuncion\nAlex Brewer / Highwater Group\nSelena Rodriguez / Highwater Group\n\nWEB DEVELOPMENT\nJesse Wagstaff\n\nPUBLIC RELATIONS AND SOCIAL MEDIA\nAlan Johnson\n\nMARKETING MEDIA PRODUCER\nShaun Finney\n\nPRODUCT SUPPORT\nAmy Lukima\n\nIT DIRECTOR\nStan Shambaugh\n\nBUILD & DISTRIBUTION ENGINEERING\nJeff Brill\nNate Whiteside\n\nOPERATIONS\nAndre Blanadet\nRhoda Gravador-Kao\nGreg Koll\nLorin Smedley\nKathy McElwee\nSerena Sinn\n\nPUBLISHING\nJames Lamorticelli\n\nLEGAL\nMark Barbolak\n\n\n\n\nCAST\n\nMarty McFly\nA.J. LoCascio\n\nDoctor Emmett Brown\nChristopher Lloyd\n\nYoung Emmett Brown\nJames Arnold Taylor\n\nEdna Strickland & Phone Operator & Voices\nRebecca Schweitzer\n\nYoung Edna Strickland\nShannon Nicholson\n\nBeauregard Tannen & Kid Tannen & Voices\nOwen Thomas\n\nArthur McFly & George McFly\nMichael Sommers\n\nTrixie Trotter\nMelissa Hutchison\n\nCueball & Hostile Guy & Judge Brown & Hampton\nRoger Jackson\n\nBiff Tannen\nKid Beyond\n\nOfficer Parker\nMark Barbolak\n\n\n\n\nLOCALIZATION\n\nINTERNATIONAL PRODUCTION\nSeher Basak\n\nLOCALIZATION QA\nJason Pimentel\n\nGERMAN & FRENCH QA \nAnnetta Kolzow\nBenjamin Hair\n\nLOCALIZATION SERVICES BY\nExequo\n\n\n\n\nCREATED WITH THE TELLTALE TOOL\nKevin Bruner\nJonathan Sgro\nGraham McDermott\nCarlo Morgantini\nRandy Tudor\nBen Ingram\nBruce Wilcox\n\nPortions Copyright\nFirelight Technologies\nPortions Copyright\n(C) 2002 Jean-Marc Valin\n\n\n\n\nFOCUS TESTERS\nSkyler Bunderson\nAshley Greigo\nMarlene Preclaro\nAndrew Lee\nJoel Luce\nBenjamin Canant\nGreg Royball\nWoody Chang\n\n\n\n\nSPECIAL THANKS\nDenise, Alexis & Ryan Tosti\nElisa, Nick, Justice & Liberty Tudor\nGwendolyn, Owen & Luke Sgro\nHarmony, Stephen & Claire Sakai\nJohn, Jackson & Cooper Lyons\nJen, Noah & Aaron Sarre\nThe Joys, the Kicins, the Hermans, & Sage Herman-Joy\nMolly, Max & Charlie\nRegina Wu & Renelly Morel\nMom, Dad & Kevin\nCasey & Ada - my girls!\nAl, Debbie & Ikumi\nErin Ashe\nJackson O'Keady\nJLM\nBob Gale\nRobert Zemeckis\nDixie Dunbar\nNicole Burch\nStephen Clark\nMegan Elliot\nJoe Walser\nThe Gamins & Joe\nDaggs Ainsworth\nThe folks at the Kenwood Group\n\nand You\n\n\n\n\nTELLTALE PETS\nMax the Dog, Tess, Belle, Cornnut, Kitty, Stumpy, Kaya,\nInky, Squiggle, Tobie, Patches, Holly, Yoshi, Fu, Buddha,\nNick Charles Koll, Nitro T1, Eero, Misfit, Karma, Beau,\nFritz, Brady, Indiva, Satindica, Mocha, Chai, Becky, Gomez,\nMuttley, Alpha, Marty, Ocelot, Monster Mash, Molly, Snarffles,\nMomo, Walter, Marlowe & Gwen, David Bowie, \nIvan, Sadie, Mohrle, Mia & Brendan Q. Ferguson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n©2012 Telltale, Inc.\nAll rights reserved"
+},
+{
+"k": "7212",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Death of a Stepsister"
+},
+{
+"k": "7213",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "WRITTEN BY\nPierre Shorette - Lead\n\nDESIGNED BY\nRyan Kaufman - Lead\nJoe Pinney\nMatt LoPresti\n\nDIRECTED BY\nNick Herman\nDennis Lenart\n\nART DIRECTION\nDavid Bogan\n\nMUSIC BY\nJared Emerson-Johnson\n\nCONTENT PROGRAMMING\nKeenan Patterson - Lead\nAndrew Langley\nMark Gabby\nCarl Muckenhoupt\nJohn Mauldin\nJason Reis\nJason Kim\n\nANIMATION\nJeff Sarre - Lead\nJanel Drewis\nJed Heuer\nTyler Helton\nArmando LLuch\nChris Waltner\nMike Dacko\nMarat Davletshin\nMike Hollander\nMila Kirillova\nJustin Mettam\nTim Reardon\nJustin Rosenthal-Kambic\n\nCINEMATIC ARTIST\nVahram Antonian - Lead\nBridget Bougan\nAiryque Ervin\nJavier J. Espinoza\nRebekah Gamin\nScott Hammack\nDaniel Farjam Herrera\nJason Latino\nNick Mastroianni\nJolie Menzel\nMartin Montgomery\nKent Mudle\nEric Parsons\nChristopher Rieser\nGrady Standard\nJonathan Stauder\nEric Stirpe\nRyann Lynn Weller\nRyan Wetherall\n\nENVIRONMENT ARTIST\nKim Lyons - Lead\nErik Ose\nBrian Gillies\nMark Sheppard\n\nCHARACTER ARTIST\nJason Findley - Lead\nMegan Gritzfeld\nSteven Moore\n\nUSER INTERFACE\nD. Reed Monroe - Lead\nTodd Colby\nCrystal Langley\nHain Lee\n\nSOUND DESIGN\nLazar Levine - Lead\nJack Fusting\n\nCONCEPT ARTISTS\nGray Rogers\nDerek Stratton\nJesse Maccabe\nRyan Jones\n\nTECHNICAL ART AND EFFECTS\nBrian Eby\nNora Magyar\n\nEXECUTIVE PRODUCERS\nDan Connors\nKevin Bruner\nBrett Tosti\n\nASSOCIATE PRODUCER\nChris Schroyer\n\nASSISTANT PRODUCERS\nJeff Armstead\nJohn Joy\nJuan Vaca\n\nBUILD & DISTRIBUTION\nMark Gabby\n\nQA TESTING\nWilliam Wheeler - Lead\nAndrew Schnieder\nArthur Von Nagel\nBen Knoll\nBen Vizcaino\nBrendin Christolear\nCalvin Huang\nChristopher Donnelley\nDavid Ramirez\nEmmy Bautista\nEvan Koepf\nHelena Norton\nJason Pimentel\nJessica Watkins\nMatthew Paris\nMax Ince\nMike Sherak\n\nADDITIONAL ART\nShawn Shain\nMike Sherak\nDrew Di Domenico\nJan Wyss\nAlex Jacobs\nCalvin Huang\n\nADDITIONAL WRITING\nAdam Hines\nJason Latino\n\nADDITIONAL ART SERVICES\nHydrogen Whiskey\nOriginal Force\nSuper Genius\n\nADDITIONAL QA SERVICES\nPole To Win\n\nVOICE PRODUCTION\nJulian Kwasneski\nJared Emerson-Johnson\nJory Prum\n\n\nCAST\n\nBIGBY WOLF\nAdam Harrington\n\nSNOW WHITE\nErin Yvette\n\nMR. TOAD\nChuck Kourouklis\n\nTOAD JUNIOR\nMelissa Hutchison\n\nICHABOD CRANE\nRoger Jackson\n\nFAITH\nCia Court\n\nGRENDEL\nKid Beyond\n\nTHE WOODSMAN\nAdam Harrington\n\nBEAST\nGavin Hammon\n\nBEAUTY\nMelissa Hutchison\n\nBUFKIN\nChuck Kourouklis\n\nDEE\nGavin Hammon\n\nMAGIC MIRROR\nGavin Hammon\n\nCABBIES\nJulian Kwasneski\nSam Joan\n\nHOLLY\nJanet Lipsey\n\n\n\nCREATED WITH THE TELLTALE TOOL\nKevin Bruner\nJonathan Sgro\nRandy Tudor\nZacariah Litton\nBen Ingram\nDavid Brady\nDavid Bromberg\nAlex Montgomery\nTim Ingram\nChris Bauer\nGuy Somberg\n\n\nTELLTALE GAMES, INC\n\nCEO \nDan Connors\n\nPRESIDENT & CTO\nKevin Bruner\n\nCFO\nKathy McElwee\n\nSENIOR VICE PRESIDENT OF PUBLISHING\nSteve Allison\n\nVICE PRESIDENT OF ENGINEERING\nZacariah Litton\n\nVICE PRESIDENT OF ONLINE\nDavid Fox\n\nDIRECTOR OF ART DEPARTMENT\nDave Bogan\n\nDIRECTOR OF DESIGN\nRyan Kaufman\n\nDIRECTOR OF WRITING\nDave Grossman\n\nDIRECTOR OF PRODUCTION TECHNOLOGIES\nJonathan Sgro\n\nDIRECTOR OF CINEMATOGRAPHY\nDennis Lenart\n\nDIRECTOR OF PRODUCTION SERVICES\nDave Felton\n\nTECHNICAL DIRECTOR\nMichael Perretta\n\nSENIOR LEAD TESTER\nEmmy Bautista\n\nSENIOR DIRECTOR OF MARKETING\nRichard Iggo\n\nSENIOR MARKETING AND RELEASE MANAGER\nJonathan \"JR\" Rosales\n\nDIRECTOR OF PUBLIC RELATIONS\nJob J. Stauffer\n\nCOMMUNITY AND PR SPECIALIST\nLaura Perusco\n\nSENIOR CREATIVE SERVICES MANAGER\nPaolo Asuncion\n\nMARKETING MEDIA PRODUCER\nShaun Finney\n\nASSISTANT VIDEO EDITOR\nMary Stark\n\nSENIOR SERVER ENGINEER\nMichael Lindsay\n\nLEAD WEB ARCHITECT\nJohn Gamble\n\nWEB DEVELOPMENT\nJoshua LeBeau\nJesse Wagstaff\nTodd Stritter\n\nPRODUCT SUPPORT\nMatthew Pedonti\nEvan Koepf\n\nIT\nStan Shambaugh\nKelly Robertson\n\nFINANCE & OPERATIONS\nRhoda Gravador\nSerena Sinn\n\nRECRUITING\nJon Khalife\nSarah Roth\n\nLEGAL\nMark Barbolak\n\n\n\n\n\nWARNER BROS. INTERACTIVE ENTERTAINMENT\n\nPRODUCER\nNathan Whitman\n\nVICE PRESIDENT, PRODUCTION DIGITAL\nChris Miller\n\nVICE PRESIDENT, PRODUCTION DC FRANCHISES\nAmes Kirshen\n\nMANAGER PRODUCTION SERVICES\nJamie O'Brien Moore\n\nEXECUTIVE ASSISTANT\nNicole Scates\n\nMANAGER, RIGHTS & CLEARANCES\nJane Elms\n\nMARKETING ASSOCIATE\nSaena Park\n\nMANAGER, BRAND MARKETING\nDavid Lebovic\n\nDIRECTOR, BRAND MARKETING\nJeff Neinstein\n\nVICE PRESIDENT, BRAND MARKETING\nStephanie Johnson\n\nPR MANAGER\nKehau Rodenhurst\n\nVICE PRESIDENT, PUBLIC RELATIONS\nRemi Sklar\n\nDIRECTOR, BUSINESS DEVELOPMENT & LICENSING\nBen Elliot\n\nVICE PRESIDENT, BUSINESS DEVELOPMENT\nScott Johnson\n\nVICE PRESIDENT & ASSOCIATE GENERAL COUNSEL\nJennifer Stump\n\nVICE PRESIDENT, FINANCE AND ADMINISTRATION\nSteve Chalk\n\nSENIOR VICE PRESIDENT, WORLDWIDE MARKETING\nRussell Arons\n\nSENIOR VICE PRESIDENT, PRODUCTION & DEVELOPMENT\nSamantha Ryan\n\nSENIOR VICE PRESIDENT, BUSINESS DEVELOPMENT\nDebra Baker\n\nSENIOR VICE PRESIDENT, SALES, AMERICA\nKevin Kebodeaux\n\nSENIOR VICE PRESIDENT, GAMES, EU\nOlivier Wolff\n\nPRESIDENT\nMartin Tremblay\n\n\n\nDC ENTERTAINMENT\n\nCHIEF CREATIVE OFFICER\nGeoff Johns\n\nCREATIVE DIRECTOR, INTERACTIVE\nPatrick McCallum\n\nPRESIDENT\nDiane Nelson\n\nCO-PUBLISHERS\nDan DiDio and Jim Lee\n\nEXECUTIVE VP - SALES, MARKETING AND BUSINESS DEVELOPMENT\nJohn Rood\n\nSENIOR VP - BUSINESS AND LEGAL AFFAIRS\nAmy Genkins\n\nSENIOR VP - FINANCE\nNairi Gardiner\n\n\n\nSPECIAL THANKS\nJoe Arcovitch\nJohn and Angel Armstead\nNicohl, Ellen, & Callum Bogan\nDanielle Bysouth\nPeter Canada\nCharacter team and Home Base\nKayla Chavez\nThe Chromatics\nStephanie Cooke\nMichael Detzner\nDeena, Dane, Janet, Dale\nAlex Dudley\nAnna Embree\nJoaquin & Connie Espinoza\nHassan & Zahra Farjamrad\nBobby Farjamrad & Sahba Motallebi\nDustin Garza\nNatalie Helton\nCristina Herrera & Gustavo De Lafore\nDavid & Cherie Herrera\nFaranak Farjamrad Herrera\nLia Farjam Herrera\nRobert Hodsdon\nJen, Noah, Aaron, Quint and Hooper\nThe Joys, the Kicins, the Hermans, and Sage Herman-Joy\nRosie Kaser\nAlan & Esther Latino\nBradley Latino\nKristen Latino\nKyle Latino\nDavid Lebovic\nJondy Lee\nBeau Leslie\nLiz Levine\nMicah Levine\nShale Levine\nOrlando LLuch\nJohn, Jackson and Cooper Lyons\nAlyn and Oscar Maynez\nMichelle, Max and Izzy\nMom, Dad, and Didi\nMom, Dad, and Yuki\nBob and Becca Montgomery\nDeena Mustin\nXander Novion\nElisa Pagliarulo\nMichael Pazeretti\nJune Piccolo\nRoger Podacter\nKyle Priess\nKehau Rodenhurst\nJason & Aidan Rogers\nAlicia Rosales\nLuis L. Rosales\nMiguel Rosales\nIkumi Sato\nSaul, Lillian, Steffie and Diana\nTory Setian\nMindy Shambaugh and Ethan Shambaugh\nJi Yeon Shin\nOwen & Luke Sgro\nRob Skorjanc\nSteph, Luna, Vincent, Mom & Dad\nMichelle Steranko\nBrad Thomte\nDenise Tosti, Alexis Tosti, Ryan Tosti\nToto\nRandy Tudor\nKim and Jose Vizcaino\nYohanna Weller\nNeal, Heidi and Linda Wetherall\nRashelle & Jeff Wilson\n\nand You\n\n\n\nVERY SPECIAL THANKS\nBill Willingham\nMark Buckingham\n\n\n\nTELLTALE PETS\nAdonis and Aphrodite\nAthena and Katniss\nBofurd\nBrodie\nChewie \"The One Eyed Wonder Pup\"\nChippy, Pickles, Ginger, and George\nChuco\nFreddie Mercury & Cat Stevens\nJack\nJake & Agro\nJeremy \"Henry\"\nJinro\nKarma\nKensey the Dog Face\nPrincess Melody Belle Fluffybottom\nMitch\nMomo\nMuttley and Ziggy Herman-Joy\nPatches\nPeek-a-boo the Cat\nPenny & Desmond\nMighty Pirate Pete\nPixel\nRose\nSage\nSophie\nSnarffles\nTangle\nTankster\nTess\nToblerone\nTorgo & Cabot\nWillow, Sammy and Mr. Bix\nWalter\nWiki\n\n\n\nBased upon the Vertigo comic book series 'FABLES' by Bill Willingham\n\n\n\n\n(C) Bill Willingham and DC Comics\nFABLES: TM Bill Willingham\nWBIE LOGO, WB SHIELD: TM & (C) Warner Bros. Entertainment Inc.\n(s13)\n\nPortions Copyright\nFirelight Technologies\nPortions Copyright\n(C) 2002 Jean-Marc Valin"
+},
+{
+"k": "7214",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Adam Harrington"
+},
+{
+"k": "7215",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Erin Yvette"
+},
+{
+"k": "7216",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Chuck Kourouklis"
+},
+{
+"k": "7217",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "and"
+},
+{
+"k": "7218",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Melissa Hutchison"
+},
+{
+"k": "7219",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Gavin Hammon"
+},
+{
+"k": "7220",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Dave Bogan"
+},
+{
+"k": "7221",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "ART DIRECTOR"
+},
+{
+"k": "7222",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "WRITTEN BY"
+},
+{
+"k": "7223",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Pierre Shorette"
+},
+{
+"k": "7224",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "DESIGNED BY"
+},
+{
+"k": "7225",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Ryan Kaufman"
+},
+{
+"k": "7226",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "LEAD PROGRAMMER"
+},
+{
+"k": "7227",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Keenan Patterson"
+},
+{
+"k": "7228",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "LEAD ENVIROMENT ARTIST"
+},
+{
+"k": "7229",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Kim Lyons"
+},
+{
+"k": "7230",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "MUSIC BY"
+},
+{
+"k": "7231",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Jared Emerson-Johnson"
+},
+{
+"k": "7232",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "LEAD CINEMATIC ARTIST"
+},
+{
+"k": "7233",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "FABLES CREATED BY"
+},
+{
+"k": "7234",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "LEAD ANIMATOR"
+},
+{
+"k": "7235",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Jeff Sarre"
+},
+{
+"k": "7236",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "DIRECTED BY"
+},
+{
+"k": "7237",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Nick Herman"
+},
+{
+"k": "7238",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Dennis Lenart"
+},
+{
+"k": "7239",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "BASED ON THE VERTIGO COMIC FABLES BY"
+},
+{
+"k": "7240",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Bill Willingham"
+},
+{
+"k": "7241",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "A TelltaleGame Series"
+},
+{
+"k": "7242",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "A TELLTALE STORY BY"
+},
+{
+"k": "7243",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Pierre Shorette\nRyan Kaufman"
+},
+{
+"k": "7244",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Nick Herman\nDennis Lenart"
+},
+{
+"k": "7245",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "ART DIRECTION"
+},
+{
+"k": "7246",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "DAVID BOGAN"
+},
+{
+"k": "7247",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "ENVIRONMENTS"
+},
+{
+"k": "7248",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "ANIMATION"
+},
+{
+"k": "7249",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "CHOREOGRAPHY"
+},
+{
+"k": "7250",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Vahram Antonian"
+},
+{
+"k": "7251",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "PROGRAMMING"
+},
+{
+"k": "7252",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "EXECUTIVE PRODUCERS"
+},
+{
+"k": "7253",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Kevin Bruner\n Dan Connors\n     Brett Tosti"
+},
+{
+"k": "7254",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Based on the vertigo comic series"
+},
+{
+"k": "7255",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "FABLES BY"
+},
+{
+"k": "7256",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "BASED ON THE VERTIGO COMIC"
+},
+{
+"k": "7257",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "TELLTALE GAMES PRESENTS"
+},
+{
+"k": "7258",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "David Bogan"
+},
+{
+"k": "7259",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Kevin Bruner"
+},
+{
+"k": "7260",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Brett Tosti"
+},
+{
+"k": "7261",
+"who": "",
+"ctx": "Fables101/ui_credits",
+"en": "Dan Connors\n    Brett Tosti"
+},
+{
+"k": "7262",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Cryer"
+},
+{
+"k": "7263",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "This is some text to test the Story So Far interface. It comes from Fables101/Dialogs/ui_episode.dlog."
+},
+{
+"k": "7264",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "*** FAKE *** Duck is alive!"
+},
+{
+"k": "7265",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Hooker"
+},
+{
+"k": "7266",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Bigby's Office"
+},
+{
+"k": "7267",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Bigby's Apartment"
+},
+{
+"k": "7268",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Back Alley Chase"
+},
+{
+"k": "7269",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Business Office"
+},
+{
+"k": "7270",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Taxi"
+},
+{
+"k": "7271",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Woodlands"
+},
+{
+"k": "7272",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Trip Trap Bar"
+},
+{
+"k": "7273",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Next Time On..."
+},
+{
+"k": "7274",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Woodsman Fight"
+},
+{
+"k": "7275",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Fight Cleanup"
+},
+{
+"k": "7276",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Colin will remember that."
+},
+{
+"k": "7277",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You were silent."
+},
+{
+"k": "7278",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Colin took your silence as agreement."
+},
+{
+"k": "7279",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You were truthful with Beast."
+},
+{
+"k": "7280",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beast appreciates what you said."
+},
+{
+"k": "7281",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beast will remember that."
+},
+{
+"k": "7282",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beast noticed that."
+},
+{
+"k": "7283",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You remained silent."
+},
+{
+"k": "7284",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You didn't respond."
+},
+{
+"k": "7285",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beast noticed your silence."
+},
+{
+"k": "7286",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beast took your silence as agreement."
+},
+{
+"k": "7287",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Mr. Toad will remember that."
+},
+{
+"k": "7288",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You tried to apologize."
+},
+{
+"k": "7289",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Your silence annoyed Mr. Toad."
+},
+{
+"k": "7290",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Mr. Toad noticed your silence."
+},
+{
+"k": "7291",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Toad remembers what you told him."
+},
+{
+"k": "7292",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The Woodland Luxury Apartments"
+},
+{
+"k": "7293",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The Woodsman's Apartment"
+},
+{
+"k": "7294",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Fabletown Business Office"
+},
+{
+"k": "7295",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Tenement Building"
+},
+{
+"k": "7296",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The Bronx"
+},
+{
+"k": "7297",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Fabletown Woodland Building"
+},
+{
+"k": "7298",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Early Morning"
+},
+{
+"k": "7299",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Mid Afternoon"
+},
+{
+"k": "7300",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Evening"
+},
+{
+"k": "7301",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She will remember that."
+},
+{
+"k": "7302",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She appreciated your apology."
+},
+{
+"k": "7303",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Sometime after midnight..."
+},
+{
+"k": "7304",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Proclamation"
+},
+{
+"k": "7305",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Bar Tab"
+},
+{
+"k": "7306",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Medal"
+},
+{
+"k": "7307",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Letter"
+},
+{
+"k": "7308",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Flower Petal"
+},
+{
+"k": "7309",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She will remember what you did for her."
+},
+{
+"k": "7310",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose not to give her any money."
+},
+{
+"k": "7311",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "2:10 AM"
+},
+{
+"k": "7312",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You annoyed Colin."
+},
+{
+"k": "7313",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You refused his request."
+},
+{
+"k": "7314",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beast appreciates your offer to help."
+},
+{
+"k": "7315",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You changed the subject."
+},
+{
+"k": "7316",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You avoided the question."
+},
+{
+"k": "7317",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beauty appreciates your help."
+},
+{
+"k": "7318",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told her no."
+},
+{
+"k": "7319",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow is skeptical of your theory."
+},
+{
+"k": "7320",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow agrees with your theory."
+},
+{
+"k": "7321",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You took the blame."
+},
+{
+"k": "7322",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Crane didn't appreciate that."
+},
+{
+"k": "7323",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You let Snow take the blame."
+},
+{
+"k": "7324",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You took Snow's side."
+},
+{
+"k": "7325",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You named the Woodsman as a suspect."
+},
+{
+"k": "7326",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You implicated Bluebeard."
+},
+{
+"k": "7327",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow put forth her own theory."
+},
+{
+"k": "7328",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You named the girl's pimp as your suspect."
+},
+{
+"k": "7329",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He will remember that."
+},
+{
+"k": "7330",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You angered the Deputy Mayor."
+}
+]

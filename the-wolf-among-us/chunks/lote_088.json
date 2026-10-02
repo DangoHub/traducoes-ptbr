@@ -1,0 +1,1922 @@
+[
+{
+"k": "23673",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]The guy you're so afraid of?"
+},
+{
+"k": "23674",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]You're telling me that with a place like this, you're so hard up that you need to work for the Crooked Man?"
+},
+{
+"k": "23675",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Wait... I don't know what you're planning to do when you find the Crooked Man, but is there any way you could... help us out?"
+},
+{
+"k": "23676",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Just, please, don't let anyone know about any of this."
+},
+{
+"k": "23677",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1][concerned about reputation]What would people think?"
+},
+{
+"k": "23678",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]We do have appearances to keep up."
+},
+{
+"k": "23679",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]And... if the Crooked Man's people ever found out..."
+},
+{
+"k": "23680",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]And at the very least, it'll leave Beast out of it."
+},
+{
+"k": "23681",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]I guess I'll go check out The Cut Above."
+},
+{
+"k": "23682",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]I guess I'll go check out the Lucky Pawn."
+},
+{
+"k": "23683",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Anyway, if you go there, well, at least it leaves her out of it."
+},
+{
+"k": "23684",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]There may be nothing left for you to see if you go to the Lucky Pawn after."
+},
+{
+"k": "23685",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Well, I guess I'll find out."
+},
+{
+"k": "23686",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]You know, Bigby, once you show up there, word is gonna spread."
+},
+{
+"k": "23687",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]There may be nothing left to see if you go to the butcher shop after."
+},
+{
+"k": "23688",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]You know, Bigby, once you show your face there, word is going to get out."
+},
+{
+"k": "23689",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]But I'm not going there for a shopping trip."
+},
+{
+"k": "23690",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Look, you don't have to explain yourself to me."
+},
+{
+"k": "23691",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1][direct]This is murder and kidnapping we're talking about."
+},
+{
+"k": "23692",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Anything else is just... background noise."
+},
+{
+"k": "23693",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]And if the axe was there... so were the people behind all this."
+},
+{
+"k": "23694",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]Yet, with all the sneaking around and secrets, somehow, I'm still the bad guy in this."
+},
+{
+"k": "23695",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]I've had to hear about it all night long from her."
+},
+{
+"k": "23696",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]And I wouldn't have had to spend the whole night defending myself for it."
+},
+{
+"k": "23697",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]But he never would have even found me there without your help."
+},
+{
+"k": "23698",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]He's been laying that crap on me all night."
+},
+{
+"k": "23699",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]He never would have even found the place."
+},
+{
+"k": "23700",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup1]And I wouldn't have had to spend the night defending myself for \"keeping secrets\" with Bigby Wolf."
+},
+{
+"k": "23701",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Armoire"
+},
+{
+"k": "23702",
+"who": "",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "Egg"
+},
+{
+"k": "23703",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[pickup2]The thing is... it's for the Crooked Man."
+},
+{
+"k": "23704",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{doubtfula}[edit]And... I don't think it's meat in the packages."
+},
+{
+"k": "23705",
+"who": "BEAST",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{worrieda}[edit]She said I was reliable, she liked that, and..."
+},
+{
+"k": "23706",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{nervousa}[edit]I'd overheard people talking to Jersey about loans before."
+},
+{
+"k": "23707",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "[edit]So... when I needed money..."
+},
+{
+"k": "23708",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{angrya}Who gets loans at a pawn shop anyway?"
+},
+{
+"k": "23709",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "What's really going on at this place?"
+},
+{
+"k": "23710",
+"who": "BEAUTY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "{sada}{body-sita}The Crooked Man knows what people need to get by. So... he provides."
+},
+{
+"k": "23711",
+"who": "BIGBY",
+"ctx": "Fables104/env_beautybeastapt",
+"en": "<<id:>>\t{doubtfula}[it's about time they talked]Finally."
+},
+{
+"k": "23712",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Oh, hi. Nerissa, right?"
+},
+{
+"k": "23713",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[nervous]Yeah. [beat] I was hoping I could talk to you… for a minute."
+},
+{
+"k": "23714",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can it wait?"
+},
+{
+"k": "23715",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Come on in."
+},
+{
+"k": "23716",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Sure. Come on in."
+},
+{
+"k": "23717",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm sorry, I didn't know you had company."
+},
+{
+"k": "23718",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[a little awkward]Hello."
+},
+{
+"k": "23719",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "He's not company."
+},
+{
+"k": "23720",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "He was just leaving."
+},
+{
+"k": "23721",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That's Colin."
+},
+{
+"k": "23722",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "He's not really company."
+},
+{
+"k": "23723",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[annoyed] Hey!"
+},
+{
+"k": "23724",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[angry]Not anymore."
+},
+{
+"k": "23725",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to Nerissa; bitter] Nice meeting you."
+},
+{
+"k": "23726",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Don't worry. He was just leaving."
+},
+{
+"k": "23727",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Nerissa, this is Colin."
+},
+{
+"k": "23728",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[flat] Name's Colin."
+},
+{
+"k": "23729",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to Nerissa] It's nice to meet you."
+},
+{
+"k": "23730",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to Bigby]You gonna offer your guest a drink?"
+},
+{
+"k": "23731",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Sorry, my friend here isn't too good with hospitality."
+},
+{
+"k": "23732",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You talking about yourself?"
+},
+{
+"k": "23733",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Unless you're busy."
+},
+{
+"k": "23734",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I know I should have made an appointment."
+},
+{
+"k": "23735",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Uh, can it wait? I'm a little-"
+},
+{
+"k": "23736",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[from inside; flat] Let her in."
+},
+{
+"k": "23737",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I don't have a lot of… free time, Sheriff."
+},
+{
+"k": "23738",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I just mean…"
+},
+{
+"k": "23739",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I probably can't come back."
+},
+{
+"k": "23740",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[from in the room; \"don't be a dick\"] Just let her in."
+},
+{
+"k": "23741",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[uneasy]Can we… talk inside?"
+},
+{
+"k": "23742",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Is something wrong? You look-"
+},
+{
+"k": "23743",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Have a seat."
+},
+{
+"k": "23744",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I think you need it more than I do."
+},
+{
+"k": "23745",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[quiet]Thanks."
+},
+{
+"k": "23746",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[flat] No."
+},
+{
+"k": "23747",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[awkward] Can I get you anything? Something to drink?"
+},
+{
+"k": "23748",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[nervous]That would be great."
+},
+{
+"k": "23749",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You want anything?"
+},
+{
+"k": "23750",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I've got whiskey and… water."
+},
+{
+"k": "23751",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You'll have to forgive him. He thinks he's funny."
+},
+{
+"k": "23752",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You better not be talking about yourself here."
+},
+{
+"k": "23753",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sarcastic] Ha ha. [beat] Though I wouldn't mind a drink while you're at it."
+},
+{
+"k": "23754",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I try to teach him manners…"
+},
+{
+"k": "23755",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[small nervous laugh]"
+},
+{
+"k": "23756",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So, what'll it be?"
+},
+{
+"k": "23757",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Don't be fooled by this shithole apartment. He's got some damn good whiskey."
+},
+{
+"k": "23758",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[awkward]Sure. [more comfortable]That sounds nice."
+},
+{
+"k": "23759",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[processed: muffled]Best seat in the house."
+},
+{
+"k": "23760",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[processed: muffled; joking]You sure he won't mind?"
+},
+{
+"k": "23761",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[processed: muffled]I wouldn't want to make him mad."
+},
+{
+"k": "23762",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[processed: muffled]Eh, he's not so tough. You could take him."
+},
+{
+"k": "23763",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[processed: muffled; laughs]"
+},
+{
+"k": "23764",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[serious]You alright in here?"
+},
+{
+"k": "23765",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You should leave."
+},
+{
+"k": "23766",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Did she say what she wanted?"
+},
+{
+"k": "23767",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Give us a minute?"
+},
+{
+"k": "23768",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You don't look so good."
+},
+{
+"k": "23769",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You should go talk to her."
+},
+{
+"k": "23770",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "She's asking for you."
+},
+{
+"k": "23771",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You should probably go."
+},
+{
+"k": "23772",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "DId she say what she wanted? Why she came here?"
+},
+{
+"k": "23773",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can you give us a minute?"
+},
+{
+"k": "23774",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "No. I think she'd like to speak with you alone."
+},
+{
+"k": "23775",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[you okay?] Bigby?"
+},
+{
+"k": "23776",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Go talk to her."
+},
+{
+"k": "23777",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'll be in the back."
+},
+{
+"k": "23778",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Holler if you need me."
+},
+{
+"k": "23779",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So what did you want to talk to me about?"
+},
+{
+"k": "23780",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[professional] So… what did you want to talk to me about?"
+},
+{
+"k": "23781",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I just wanted to come here and tell you…"
+},
+{
+"k": "23782",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Spare me the lecture."
+},
+{
+"k": "23783",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Make it quick."
+},
+{
+"k": "23784",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can we make this quick?"
+},
+{
+"k": "23785",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[concerned] Is, uh, everything okay?"
+},
+{
+"k": "23786",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If you're here to lecture me about what I did-"
+},
+{
+"k": "23787",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "No, that isn't-"
+},
+{
+"k": "23788",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I know I may not understand why you… [killed that man]"
+},
+{
+"k": "23789",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Even if it turns out it wasn't… good, you know, in the end."
+},
+{
+"k": "23790",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I- [stops herself][frustrated sigh]"
+},
+{
+"k": "23791",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I mean, I gotta hope you know what you're doing, right?"
+},
+{
+"k": "23792",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I like to think they do."
+},
+{
+"k": "23793",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I hope they do."
+},
+{
+"k": "23794",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "At least…"
+},
+{
+"k": "23795",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Change is hard."
+},
+{
+"k": "23796",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[slight frustration]Where is this going exactly? I thought you had something to tell me."
+},
+{
+"k": "23797",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So, yeah. Everyone deserves a second chance."
+},
+{
+"k": "23798",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I wouldn't be here without them."
+},
+{
+"k": "23799",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yeah… I do."
+},
+{
+"k": "23800",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm getting to that. I just-"
+},
+{
+"k": "23801",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[dark]Not everyone."
+},
+{
+"k": "23802",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's not easy for me to say this."
+},
+{
+"k": "23803",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I feel…  Everything that's [she struggles to phrase this]… happened."
+},
+{
+"k": "23804",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[quicker; almost rambling]At the time, you thought it was fine. You thought [swallows]… it was gonna be okay."
+},
+{
+"k": "23805",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[quicker; almost rambling]But then… [struggles] You found out you were wrong. People you thought- [cut off by the magic] Tha- [That] [cut off again]"
+},
+{
+"k": "23806",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Have you ever done something  really bad?"
+},
+{
+"k": "23807",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But it just made things worse."
+},
+{
+"k": "23808",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What are you saying?"
+},
+{
+"k": "23809",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Is this about \"work\"?"
+},
+{
+"k": "23810",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Are you involved in this?"
+},
+{
+"k": "23811",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I know you must feel like I'm withholding information."
+},
+{
+"k": "23812",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I need you to know… I want to help, but…"
+},
+{
+"k": "23813",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[deep breath; calming down]"
+},
+{
+"k": "23814",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to herself; upset] I thought I could do this."
+},
+{
+"k": "23815",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[defeated whisper]These lips are sealed. [angry] Damn it."
+},
+{
+"k": "23816",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What are you trying to tell me?"
+},
+{
+"k": "23817",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "When we first met you told me you couldn't talk about work… Is that what's happening now?"
+},
+{
+"k": "23818",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Are you involved? Do you know something about all this?"
+},
+{
+"k": "23819",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I have to- [tell you]"
+},
+{
+"k": "23820",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If there's anything I can do."
+},
+{
+"k": "23821",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[finishing her sentence]You can't."
+},
+{
+"k": "23822",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sad]Right."
+},
+{
+"k": "23823",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can you help me?"
+},
+{
+"k": "23824",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Just tell me something."
+},
+{
+"k": "23825",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[frustrated]So you're just wasting my time."
+},
+{
+"k": "23826",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pleading] Is there any way around this? Some way you can help?"
+},
+{
+"k": "23827",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[frustrated with situation] Just tell me something. Please."
+},
+{
+"k": "23828",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I shouldn't even be here."
+},
+{
+"k": "23829",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[heavy; sorry for everything]I'm sorry."
+},
+{
+"k": "23830",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If that's all I can say…"
+},
+{
+"k": "23831",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "At least you'll know that."
+},
+{
+"k": "23832",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to herself]If anyone finds out I came here…"
+},
+{
+"k": "23833",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[don't worry]That's probably Snow."
+},
+{
+"k": "23834",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[relieved]Oh, okay. Good."
+},
+{
+"k": "23835",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can you keep this conversation between us?"
+},
+{
+"k": "23836",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What's got you worried?"
+},
+{
+"k": "23837",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Sure thing."
+},
+{
+"k": "23838",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I could be in a lot of… trouble."
+},
+{
+"k": "23839",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I shouldn't be talking to you."
+},
+{
+"k": "23840",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What are you worried about?"
+},
+{
+"k": "23841",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Just… please don't say anything."
+},
+{
+"k": "23842",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I won't tell anyone. Don't worry."
+},
+{
+"k": "23843",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm gonna have to tell Snow."
+},
+{
+"k": "23844",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If you have to. Just… don't tell anyone else."
+},
+{
+"k": "23845",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[surprised]Oh, hi. [recovering] I remember you from the, uh, incident last night. How are you and Vivian holding up?"
+},
+{
+"k": "23846",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[awkward] Oh. Fine, I guess."
+},
+{
+"k": "23847",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I don't think I ever got your name."
+},
+{
+"k": "23848",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Nerissa. [beat] I'm sorry, I have to get going."
+},
+{
+"k": "23849",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What was that about?"
+},
+{
+"k": "23850",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[Lie to Snow]"
+},
+{
+"k": "23851",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I understand the ribbons."
+},
+{
+"k": "23852",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "She knows something, but she can't talk about it."
+},
+{
+"k": "23853",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[that makes sense]That magic Crane was talking about… it keeps them from revealing what they know."
+},
+{
+"k": "23854",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[thinking]You should look into it later."
+},
+{
+"k": "23855",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We should keep an eye on her. She's involved somehow, but she can't talk about it."
+},
+{
+"k": "23856",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I need you to go talk to Beauty and Beast in their apartment."
+},
+{
+"k": "23857",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "They called the office just now. They've got information for you, about the Crooked Man."
+},
+{
+"k": "23858",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'll head there now."
+},
+{
+"k": "23859",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I've got some things to take care of, but call me if you need anything."
+},
+{
+"k": "23860",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Colin, Nerissa."
+},
+{
+"k": "23861",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm… Nerissa."
+},
+{
+"k": "23862",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Don't be fooled by this shithole. He's got some damn good whiskey."
+},
+{
+"k": "23863",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[quiet grunt; sore]"
+},
+{
+"k": "23864",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "but I trust that you did it for a reason."
+},
+{
+"k": "23865",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You still did what you thought was right… at the time."
+},
+{
+"k": "23866",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Listen, Sheriff."
+},
+{
+"k": "23867",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[Groans]"
+},
+{
+"k": "23868",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{normalA}Easy there. Try not to move."
+},
+{
+"k": "23869",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[Groans - with an element of gargle, as he has bled into his airways]"
+},
+{
+"k": "23870",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sarcastic}We can't keep meeting this way, old boy..."
+},
+{
+"k": "23871",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}Just stay still and let me finish."
+},
+{
+"k": "23872",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}But there's little I can do for the pain."
+},
+{
+"k": "23873",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to Snow, offscreen] He's coming around."
+},
+{
+"k": "23874",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}I'd figured I'd be done before you were conscious."
+},
+{
+"k": "23875",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{mockingA}Yes, very ugly. But not life-threatening."
+},
+{
+"k": "23876",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedB}My arm...[ it's...]"
+},
+{
+"k": "23877",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{Professional}You got lucky, and found yourself in the care of a most skillful surgeon."
+},
+{
+"k": "23878",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[beat]{sarcastic} Me."
+},
+{
+"k": "23879",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}What[groans]... what happened to me?"
+},
+{
+"k": "23880",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Where's Snow? Is she…"
+},
+{
+"k": "23881",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Now, the more you struggle, the longer this is going to take."
+},
+{
+"k": "23882",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}\t[Groans]"
+},
+{
+"k": "23883",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{druggedA}\t[Groan - sudden sharp pain]"
+},
+{
+"k": "23884",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}Look, I'm a bit engaged saving his life at the moment... {sarcastic}but if the fractured extremity concerns him that much, he can set it himself."
+},
+{
+"k": "23885",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[a quick, tight groan of pain]"
+},
+{
+"k": "23886",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm fine. It's not mine."
+},
+{
+"k": "23887",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[regarding the Blood] Snow… Are you alright?"
+},
+{
+"k": "23888",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "It's… yours."
+},
+{
+"k": "23889",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Thankfully, Ms. White had the presence of mind to drag you to her car and secure medical attention right away."
+},
+{
+"k": "23890",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "(beat) I'm fine, by the way. Thanks for your concern."
+},
+{
+"k": "23891",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Yes. He's gone."
+},
+{
+"k": "23892",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Did they get away with Crane?"
+},
+{
+"k": "23893",
+"who": "SWINEGHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You took quite a beating. I sincerely doubt you've been on the edge of death like that in a long time."
+},
+{
+"k": "23894",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What happened back there?"
+},
+{
+"k": "23895",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That will do."
+},
+{
+"k": "23896",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Of course, I'll want to re-set it myself when I'm done."
+},
+{
+"k": "23897",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But you'll thank me for that later."
+},
+{
+"k": "23898",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{happyA}I'm glad you're not dead."
+},
+{
+"k": "23899",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "How is he?"
+},
+{
+"k": "23900",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'd count on the fights."
+},
+{
+"k": "23901",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Based on the way things have gone thus far?"
+},
+{
+"k": "23902",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Does it mean investigating and interviewing, or gunfights and fisticuffs?"
+},
+{
+"k": "23903",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[weak] I'll be fine. I've come back from worse than this…"
+},
+{
+"k": "23904",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[weak] I'm right here, damnit. Don't you think that should be my decision?"
+},
+{
+"k": "23905",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[to Snow] He's lucky to be alive."
+},
+{
+"k": "23906",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}Well, he should."
+},
+{
+"k": "23907",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}He's lucky to be alive. And he won't be next time if he keeps going like this."
+},
+{
+"k": "23908",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}[to Snow] Bigby's been through a lot. Even for him."
+},
+{
+"k": "23909",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "In the heat of the moment, I had to make a split-second decision, and its..."
+},
+{
+"k": "23910",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}Hollow-point bullets are a nasty business. The silver slug deformed and shredded on impact."
+},
+{
+"k": "23911",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[muttering to himself]And all of this blasted buckshot doesn't help the process, either..."
+},
+{
+"k": "23912",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}If I don't extract every single scrap of silver... he's liable to suffer some long-term toxicosis..."
+},
+{
+"k": "23913",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "But you're in good hands."
+},
+{
+"k": "23914",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "See, now? That wasn't so difficult, was it?"
+},
+{
+"k": "23915",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sympathetic] Oh, Bigby..."
+},
+{
+"k": "23916",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "He's gone..."
+},
+{
+"k": "23917",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Are you almost done? I could really use a drink..."
+},
+{
+"k": "23918",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I would advise against consuming alcohol. In fact, I would advise against doing much of anything, not that you'll listen."
+},
+{
+"k": "23919",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{druggedA}\t[tired] How do you think {angryA}I feel? Like shit."
+},
+{
+"k": "23920",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sarcasticA}\tYou should see how you look."
+},
+{
+"k": "23921",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You did the right thing"
+},
+{
+"k": "23922",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You should have left me"
+},
+{
+"k": "23923",
+"who": "WIR",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Bigby says everyone wants him to be different. But when they want something done, they don't care about the method."
+},
+{
+"k": "23924",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And the right way is the way you say it is?"
+},
+{
+"k": "23925",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sarcastic}This way, I won't have to re-set it later."
+},
+{
+"k": "23926",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{professional}You're probably better off."
+},
+{
+"k": "23927",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'll make myself scarce."
+},
+{
+"k": "23928",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[in pain]{angryA} Colin... shut the hell up, will ya?"
+},
+{
+"k": "23929",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can't you just let him be, Snow?"
+},
+{
+"k": "23930",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Whatever it is just got more complicated. We can add a kidnapping to it."
+},
+{
+"k": "23931",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{AngryD}You know, I couldn't really give a shit what they want out of this.[colder; to himself] {AngryC}They just made the wrong fuckin' enemy."
+},
+{
+"k": "23932",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "And you're starting to sound like one."
+},
+{
+"k": "23933",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[no nonsense - he really means it this time] Flycatcher is taking the truck up to the Farm tomorrow at first light. Be on it."
+},
+{
+"k": "23934",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "They called the office just now. They've got information for you, about the Crooked Man, but they wouldn't say what it was over the phone."
+},
+{
+"k": "23935",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[frustrated with her]So you're just wasting my time."
+},
+{
+"k": "23936",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}You had us...[awkward cough] {worrieda}You had us worried there for a while."
+},
+{
+"k": "23937",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[groans - sharp pain]"
+},
+{
+"k": "23938",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "His personality's intact."
+},
+{
+"k": "23939",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}There was--[gets cut off]"
+},
+{
+"k": "23940",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{mockingA}He didn't listen to me last time.[beat]{professional} Maybe he'll listen to you."
+},
+{
+"k": "23941",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{Professional}Well, not the worst I've seen but damn near it. {sarcastic}I must say... you're testing even my skills here."
+},
+{
+"k": "23942",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Swineheart[groans]{thinkingA}... How bad is it?"
+},
+{
+"k": "23943",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}I don't know about that..."
+},
+{
+"k": "23944",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Otherwise, the next time I see you will be in the morgue."
+},
+{
+"k": "23945",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Trust me. One day, you'll want me to the Big Bad Wolf again, too."
+},
+{
+"k": "23946",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sharp inhale]{fearA} Please, Bigby, don't move it. Doctor..."
+},
+{
+"k": "23947",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Hey, you're not really gonna send me to The Farm, are ya?"
+},
+{
+"k": "23948",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "If you're asking if he'll be able to resume his duties anytime soon, I'd say that depends."
+},
+{
+"k": "23949",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Hardly."
+},
+{
+"k": "23950",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Are all his interanl organs intact?"
+},
+{
+"k": "23951",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[sighs] {worriedA}He'll be okay, though..."
+},
+{
+"k": "23952",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{normalA}[However... ]His internal organs are positively riddled."
+},
+{
+"k": "23953",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{mockingA} At this point I can safely say he'll live."
+},
+{
+"k": "23954",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[relieved]{worriedA} Bigby..."
+},
+{
+"k": "23955",
+"who": "COLIN",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Ah, I knew you'd make it. [defusing the seriousness with sarcasm] I knew we weren't that lucky."
+},
+{
+"k": "23956",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sadA}You, uh, you stopped breathing, you know... {worrieda}when you passed out or... or died... I guess."
+},
+{
+"k": "23957",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{worriedA}\tI've never seen you like that."
+},
+{
+"k": "23958",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{thinkingA}You know him, he's never worried, and even {sadB}he thought you were..."
+},
+{
+"k": "23959",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "{sadA}And when Swineheart arrived..."
+},
+{
+"k": "23960",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I did what I had to do"
+},
+{
+"k": "23961",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "That's doing it by the book."
+},
+{
+"k": "23962",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "So, why did you want to talk to me alone?"
+},
+{
+"k": "23963",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You don't answer your phone in here either?"
+},
+{
+"k": "23964",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Didn't even ring"
+},
+{
+"k": "23965",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Just 'cause I can't... [struggles - starts over] You can ask, but I..."
+},
+{
+"k": "23966",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Oh, I get it... if I tried to pull that off, it would hurt you?"
+},
+{
+"k": "23967",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Bad enough to...kill you?"
+},
+{
+"k": "23968",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "This isn't easy to talk about..."
+},
+{
+"k": "23969",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Ok, I get it..."
+},
+{
+"k": "23970",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I don't die easy."
+},
+{
+"k": "23971",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm here for you."
+},
+{
+"k": "23972",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You were really worried?"
+},
+{
+"k": "23973",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Get Crane"
+},
+{
+"k": "23974",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "This is a bigger thing now."
+},
+{
+"k": "23975",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Snow can decide what's best."
+},
+{
+"k": "23976",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We looked weak."
+},
+{
+"k": "23977",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Thanks for saving me, Snow."
+},
+{
+"k": "23978",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "We're doing our best here."
+},
+{
+"k": "23979",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I can only do things MY way."
+},
+{
+"k": "23980",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You'll want the wolf"
+},
+{
+"k": "23981",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "No promises"
+},
+{
+"k": "23982",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "You can count on me"
+},
+{
+"k": "23983",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Calm down everybody."
+},
+{
+"k": "23984",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "This is how they died."
+},
+{
+"k": "23985",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I'm getting somewhere."
+},
+{
+"k": "23986",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Beauty is angry."
+},
+{
+"k": "23987",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I make hard decisions every day."
+},
+{
+"k": "23988",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Can you give us some more time?"
+},
+{
+"k": "23989",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "I forgot to leave it off the hook."
+},
+{
+"k": "23990",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Making any progress here?"
+},
+{
+"k": "23991",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Give us some time."
+},
+{
+"k": "23992",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "What do you think she wants?"
+}
+]

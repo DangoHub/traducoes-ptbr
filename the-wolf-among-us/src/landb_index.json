@@ -1,0 +1,382 @@
+[
+{
+"group": "<Boot>",
+"name": "boot_english.landb",
+"archive": "Fables_pc_Boot_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_alleychase_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_andersenwoodsmanapt_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_andersenwoodsmanaptnight_fight_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_bigbyapartment_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_businessoffice_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_fabletownandersen_cleanup_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_fabletownandersen_fight_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_fabletownandersen_intro_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_fabletownwoodlandbuilding_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_fabletownwoodlandslobby_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_faithapartment_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_taxi_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_trollbar_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "env_trollbar_fight_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "fabletownandersen_cop_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "nexttimeon_episode2_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "ui_credits_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables101>",
+"name": "ui_episode_english.landb",
+"archive": "Fables_pc_Fables101_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_businessoffice_questiontj_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_fabletown_woodlandscell_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_fabletown_woodlandscell_fight_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_fabletown_woodlandscell_woodsman_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_fabletownwoodlandslobby_walkandtalk_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_openarms_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_openarmsupstairs_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_openarmsupstairs_fight_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_policestationinterrogationroom_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_puddinpie_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_streettile_carcrane_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_triptrapbar_confrontation_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "env_witchingwellexamination_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "nexttimeon_episode3_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "previouslyon_episode1_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "ui_credits_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables102>",
+"name": "ui_episode_english.landb",
+"archive": "Fables_pc_Fables102_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_bartriptrap_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_buckinghambridge_fight_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_businessoffice_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_craneapt_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_fabletownbackalley_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_greenleafapt_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_openarmslobby_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_puddingandpie_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "env_tweedleoffice_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "nexttimeon_episode4_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "previouslyon_episode2_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "ui_credits_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables103>",
+"name": "ui_episode_english.landb",
+"archive": "Fables_pc_Fables103_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_beautybeastapt_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_bigbyapartment_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_bigbyoffice_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_businessoffice_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_butchershop_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_crookedmanlair_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "env_pawnshop_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "nexttimeon_episode5_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "previouslyon_episode3_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "ui_credits_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables104>",
+"name": "ui_episode_english.landb",
+"archive": "Fables_pc_Fables104_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_businessoffice_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_crookedmanlair_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_foundry_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_foundryoffice_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_puddingnpie_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_streetchase_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_witchingwelltrial_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "env_woodlandstreet_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "previouslyon_episode4_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "ui_credits_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Fables105>",
+"name": "ui_episode_english.landb",
+"archive": "Fables_pc_Fables105_data.ttarch2"
+},
+{
+"group": "<Menu>",
+"name": "chapters_english.landb",
+"archive": "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Menu_all.ttarch2"
+},
+{
+"group": "<Menu>",
+"name": "fablespedia_english.landb",
+"archive": "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Menu_all.ttarch2"
+},
+{
+"group": "<Menu>",
+"name": "ui_achievements_english.landb",
+"archive": "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Menu_all.ttarch2"
+},
+{
+"group": "<Menu>",
+"name": "ui_menu_english.landb",
+"archive": "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Menu_all.ttarch2"
+},
+{
+"group": "<Project>",
+"name": "ui_text_english.landb",
+"archive": "Fables_pc_PC-Mac_TTG_Update_03_Episode_05_Project_all.ttarch2"
+}
+]

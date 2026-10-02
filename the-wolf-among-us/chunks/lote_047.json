@@ -1,0 +1,2048 @@
+[
+{
+"k": "12273",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You know, walking through an open crime scene, trampling on evidence, refusing to leave until five officers dragged you out."
+},
+{
+"k": "12274",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Sorry to hear that."
+},
+{
+"k": "12275",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Not just yet."
+},
+{
+"k": "12276",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "These might help."
+},
+{
+"k": "12277",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm sorry to hear that."
+},
+{
+"k": "12278",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Shall we get started?"
+},
+{
+"k": "12279",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}Well then this must {body-SitA}also be {AngryA}a coincidence."
+},
+{
+"k": "12280",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Messed up records?"
+},
+{
+"k": "12281",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalB}I'll get to that, Mr. Wolf."
+},
+{
+"k": "12282",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}{body-SitArmsDesk}Someone must have screwed up."
+},
+{
+"k": "12283",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}{body-SitA}The records are wrong."
+},
+{
+"k": "12284",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedA}I don't know what else to say."
+},
+{
+"k": "12285",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{SarcasticA}{body-SitArmsDesk}I told you, {NormalA}it's a {body-SitA}coincidence."
+},
+{
+"k": "12286",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{ThinkingB}I told you. {SarcasticA}It's a family name.{body-SitA}"
+},
+{
+"k": "12287",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{MockingB}If the records are messed up that's{NormalB} not on me."
+},
+{
+"k": "12288",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] {body-SitArmsDesk}{AngryB}What the {AngryC}{body-SitA}fuck does this have to do with{AngryD} Miss White?{AngryA}"
+},
+{
+"k": "12289",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Are you referring to Miss White?"
+},
+{
+"k": "12290",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{angryA}Back {DoubtfulA}{body-SitA}off."
+},
+{
+"k": "12291",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalB}Not a {AngryA}chance, Mr. Wolf."
+},
+{
+"k": "12292",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to herself] Shit."
+},
+{
+"k": "12293",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I was told her name was Susan."
+},
+{
+"k": "12294",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You both have strange records, though I admit yours are the most alarming."
+},
+{
+"k": "12295",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}You and Miss White both have strange records, forged documents…"
+},
+{
+"k": "12296",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{MockingB}Like vampires or…{SarcasticB}elves."
+},
+{
+"k": "12297",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Bullshit."
+},
+{
+"k": "12298",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I {MockingA}can't talk about it."
+},
+{
+"k": "12299",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[threatening] {body-SitA}{AngryB}Don't {AngryC}you {AngryD}{body-SitArmsDesk}dare."
+},
+{
+"k": "12300",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Just peachy."
+},
+{
+"k": "12301",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Hunky dory."
+},
+{
+"k": "12302",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Peachy"
+},
+{
+"k": "12303",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[sarcastic] Hunky dory."
+},
+{
+"k": "12304",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}It's not up to you."
+},
+{
+"k": "12305",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Something big enough to kill for."
+},
+{
+"k": "12306",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "This must be much bigger than the two of you."
+},
+{
+"k": "12307",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{DoubtA}Very funny.{AngryA}"
+},
+{
+"k": "12308",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How do you explain all this?"
+},
+{
+"k": "12309",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}You're hiding {AngryA}something!"
+},
+{
+"k": "12310",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Your time's up, Mr. Wolf."
+},
+{
+"k": "12311",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Time's up, {NormalB}Mr. Wolf."
+},
+{
+"k": "12312",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You're making a mistake!"
+},
+{
+"k": "12313",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Please! Wait."
+},
+{
+"k": "12314",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryB}Stop!"
+},
+{
+"k": "12315",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[growls]"
+},
+{
+"k": "12316",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[back to reality]{ThinkingA}What? {AngryA}Do I have to repeat myself?"
+},
+{
+"k": "12317",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[tense] {body-SitA}I said…"
+},
+{
+"k": "12318",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[slow, pointed] {NormalB}You have three birth certificates."
+},
+{
+"k": "12319",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes, weird birth certificates."
+},
+{
+"k": "12320",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}Oh…{NormalA}{body-SitB}"
+},
+{
+"k": "12321",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtfulA}{body-SitArmsDesk}You already asked that."
+},
+{
+"k": "12322",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That's true."
+},
+{
+"k": "12323",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes…"
+},
+{
+"k": "12324",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}{body-SitArmsDesk}Yeah, with messed up years…"
+},
+{
+"k": "12325",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingB}We went over this already."
+},
+{
+"k": "12326",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I have your birth certificate."
+},
+{
+"k": "12327",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "birth certificates."
+},
+{
+"k": "12328",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ConfusedB}{body-SitArmsDesk}What's going on?"
+},
+{
+"k": "12329",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}[heavy breathing]"
+},
+{
+"k": "12330",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[in pain, but softly] {body-SitB}{WorriedA}No.{PainA}"
+},
+{
+"k": "12331",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{ThinkingA}Uh…{body-StandA}"
+},
+{
+"k": "12332",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You knew her!"
+},
+{
+"k": "12333",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Leave]"
+},
+{
+"k": "12334",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Help her]"
+},
+{
+"k": "12335",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Do nothing]"
+},
+{
+"k": "12336",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}Are you okay?"
+},
+{
+"k": "12337",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes…I knew her."
+},
+{
+"k": "12338",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Don't lie…Wolf."
+},
+{
+"k": "12339",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That's right! I knew you were…"
+},
+{
+"k": "12340",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Don't lie, Wolf."
+},
+{
+"k": "12341",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}[moans in pain]"
+},
+{
+"k": "12342",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}[pleading] Don't lie to me."
+},
+{
+"k": "12343",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}[panic] Who {WorriedA}are you?"
+},
+{
+"k": "12344",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Ahh!"
+},
+{
+"k": "12345",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Detective?"
+},
+{
+"k": "12346",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{ThinkingA}You okay?"
+},
+{
+"k": "12347",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[gasping] {PainX}Mr. {PainA}Wolf?"
+},
+{
+"k": "12348",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[gasping] {PainA}Answer…"
+},
+{
+"k": "12349",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to herself] {body-SitB}{PainA}What is that?"
+},
+{
+"k": "12350",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[still tense] {body-SitArmsDesk}{ConfusedB}What?"
+},
+{
+"k": "12351",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We're not finished yet."
+},
+{
+"k": "12352",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Or rather, I have thr-"
+},
+{
+"k": "12353",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{CreepyA}Ah, Detective Brannigan. Sorry I'm late, {HappyA}please have a seat."
+},
+{
+"k": "12354",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What did you do to her?"
+},
+{
+"k": "12355",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Help the Detective]"
+},
+{
+"k": "12356",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{ThinkingB}What the fuck is {body-X}going on?"
+},
+{
+"k": "12357",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryB}What's wrong with her?"
+},
+{
+"k": "12358",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{ConfusedB}What the hell did you {body-Hips}{AngryA}do to her?"
+},
+{
+"k": "12359",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Don't provoke her."
+},
+{
+"k": "12360",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[weakly] Who are you people?"
+},
+{
+"k": "12361",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm-"
+},
+{
+"k": "12362",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{WorriedB}Hey…"
+},
+{
+"k": "12363",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I just saved your ass, Bigby."
+},
+{
+"k": "12364",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{SuspiciousA}Nothing!"
+},
+{
+"k": "12365",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Some very expensive magic. She won't remember what happened here, but we have to hurry. She'll come around in a couple minutes."
+},
+{
+"k": "12366",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}{body-StandA}She'll be {AngryB}fine!"
+},
+{
+"k": "12367",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We can't afford mistakes like this, Bigby!"
+},
+{
+"k": "12368",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[defensive] I wiped their memories."
+},
+{
+"k": "12369",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[accusing] What exactly did you just do, Crane?"
+},
+{
+"k": "12370",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I knew you'd be trouble, Bigby!"
+},
+{
+"k": "12371",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "The whole station will forget the last 24 hours and everything they saw at The Woodland."
+},
+{
+"k": "12372",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "They found Snow."
+},
+{
+"k": "12373",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's not my fault."
+},
+{
+"k": "12374",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "They were there because of Snow, Crane."
+},
+{
+"k": "12375",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Or did you forget about her already?"
+},
+{
+"k": "12376",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Or did you already forget what brought them there?"
+},
+{
+"k": "12377",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It wasn't my fault, Crane."
+},
+{
+"k": "12378",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What about the detective?"
+},
+{
+"k": "12379",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "They won't remember what they saw."
+},
+{
+"k": "12380",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What happens to her and everyone else you did this to?"
+},
+{
+"k": "12381",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I wiped their memories of the last 24 hours."
+},
+{
+"k": "12382",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[defensive] Nothing!"
+},
+{
+"k": "12383",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You should be thanking me!"
+},
+{
+"k": "12384",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "If I didn't wipe their memories, all of Fabletown would be ruined. Don't you understand that? We'd all be found out."
+},
+{
+"k": "12385",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I saved you."
+},
+{
+"k": "12386",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No. She wouldn't."
+},
+{
+"k": "12387",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Snow would've backed me up on this."
+},
+{
+"k": "12388",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[little laugh] Sorry, you don't care about that, do you?"
+},
+{
+"k": "12389",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "These chairs are shit."
+},
+{
+"k": "12390",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Right? I keep telling them to get something more comfortable, but you know…"
+},
+{
+"k": "12391",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Bigby Wolf. I know who you are."
+},
+{
+"k": "12392",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "At The Woodland?"
+},
+{
+"k": "12393",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{NormalB}Is that where you last saw her?"
+},
+{
+"k": "12394",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Yes, at work."
+},
+{
+"k": "12395",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No, we took a taxi together."
+},
+{
+"k": "12396",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{ThinkingA}Yeah. I {NormalB}saw her {body-SitA}at work that day."
+},
+{
+"k": "12397",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}Do you know where she went after that?"
+},
+{
+"k": "12398",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedB}{body-SitArmsDesk}No, we shared a taxi. {body-SitA}I got out and {ConfusedB}she drove off…"
+},
+{
+"k": "12399",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "So you've known her for a while then."
+},
+{
+"k": "12400",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[slightly annoyed] {body-SitA}{NormalB}Please try, {ThinkingA}Mr. Wolf."
+},
+{
+"k": "12401",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{MockingB}I can't remember.{body-SitHead}"
+},
+{
+"k": "12402",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[annoyed] {body-SitA}{AngryA}Please try to cooperate, Mr. Wolf."
+},
+{
+"k": "12403",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}{body-SitA}At The Woodland?"
+},
+{
+"k": "12404",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryA}Something's up!"
+},
+{
+"k": "12405",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How about saying you're welcome?"
+},
+{
+"k": "12406",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Everywhere you go…"
+},
+{
+"k": "12407",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I will do whatever it takes to get the truth from you, Mr. Wolf."
+},
+{
+"k": "12408",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "these IDs have been around for {WorriedA}over a hundred years!"
+},
+{
+"k": "12409",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What's with the attitude?"
+},
+{
+"k": "12410",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What's wrong with you?"
+},
+{
+"k": "12411",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}That's the last I saw of her.{body-SitBackSmoke}"
+},
+{
+"k": "12412",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}Someone she might have gone to see?"
+},
+{
+"k": "12413",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}{body-SitA}No boyfriend or anything?"
+},
+{
+"k": "12414",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalA}Do you know where she was {NormalB}going?"
+},
+{
+"k": "12415",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}Do you have any idea where she might have gone {NormalB}that night?"
+},
+{
+"k": "12416",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let's move on."
+},
+{
+"k": "12417",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[understanding] {WorriedA}I guess you didn't know her that well {NormalA}then."
+},
+{
+"k": "12418",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I guess not."
+},
+{
+"k": "12419",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[small chuckle]"
+},
+{
+"k": "12420",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{FearA}Shit."
+},
+{
+"k": "12421",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Whoa, calm down!"
+},
+{
+"k": "12422",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What the fuck?"
+},
+{
+"k": "12423",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Disarm her]"
+},
+{
+"k": "12424",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[Knock her down]"
+},
+{
+"k": "12425",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{FearA}{body-StandA}Whoa!"
+},
+{
+"k": "12426",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Put that away!"
+},
+{
+"k": "12427",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}Put your {AngryA}hands on your head!{PainA}"
+},
+{
+"k": "12428",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainA}I said, {AngryA}put your hands up!"
+},
+{
+"k": "12429",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}I said…"
+},
+{
+"k": "12430",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{NormalB}Calm down!"
+},
+{
+"k": "12431",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}Back {AngryA}off!"
+},
+{
+"k": "12432",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[yelling] {PainX}What the {AngryA}fuck is happening?"
+},
+{
+"k": "12433",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedA}What's happening?"
+},
+{
+"k": "12434",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{AngryC}Ah, fuck!"
+},
+{
+"k": "12435",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[yelling] {WorriedA}What do you want?"
+},
+{
+"k": "12436",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Put your fucking hands up!"
+},
+{
+"k": "12437",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}I said {AngryA}don't fucking move!"
+},
+{
+"k": "12438",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtfulA}{body-StandA}You didn't-"
+},
+{
+"k": "12439",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[sharp pain]{AngryD} Ah, shit!"
+},
+{
+"k": "12440",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "And the detective?"
+},
+{
+"k": "12441",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She'll be fine! Just a little…disoriented."
+},
+{
+"k": "12442",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She pulled a gun!"
+},
+{
+"k": "12443",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She almost shot me in there!"
+},
+{
+"k": "12444",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's not my fault you fucked up!"
+},
+{
+"k": "12445",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "How was I supposed to warn you when you've been locked up in mundy prison all night?"
+},
+{
+"k": "12446",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You could have given me some warning!"
+},
+{
+"k": "12447",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm not bulletproof, you know."
+},
+{
+"k": "12448",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She almost shot me in there."
+},
+{
+"k": "12449",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "She pulled a gun on me, Crane!"
+},
+{
+"k": "12450",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Besides, it should have been a simple memory wipe."
+},
+{
+"k": "12451",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You want a warning? You've been locked up in mundy prison all night. How was I supposed to give you a warning?"
+},
+{
+"k": "12452",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You couldn't have warned me?"
+},
+{
+"k": "12453",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm not fucking bulletproof, Crane."
+},
+{
+"k": "12454",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "All those cops at our doorstep…"
+},
+{
+"k": "12455",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Now can we get out of here?"
+},
+{
+"k": "12456",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I told you…"
+},
+{
+"k": "12457",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{ThinkingA}I don't know what to {body-SitA}tell you."
+},
+{
+"k": "12458",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedB}Wait a minute."
+},
+{
+"k": "12459",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{WorriedA}{body-SitA}Please!"
+},
+{
+"k": "12460",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Oh, am I? I guess I'll just have to wait and see."
+},
+{
+"k": "12461",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Until then…"
+},
+{
+"k": "12462",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitA}{AngryC}You're making a big mistake!"
+},
+{
+"k": "12463",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}How do you explain this?"
+},
+{
+"k": "12464",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}This is an interrogation, Mr. Wolf! Did you for-{NormalA}{body-SitB}"
+},
+{
+"k": "12465",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}Shut up!"
+},
+{
+"k": "12466",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[low] {PainA}What is this?"
+},
+{
+"k": "12467",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}Mr. Wolf…"
+},
+{
+"k": "12468",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[her mind is going to pieces now]{PainA}Don't… {PainX}lie…"
+},
+{
+"k": "12469",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{FearA}Detective?"
+},
+{
+"k": "12470",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "That was me saving your ass!"
+},
+{
+"k": "12471",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Did you see her back there?"
+},
+{
+"k": "12472",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Don't you dare take this out on me. I didn't get us into this mess!"
+},
+{
+"k": "12473",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You can't tell me she's going to be the same after that!"
+},
+{
+"k": "12474",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[flippant] Temporary effects."
+},
+{
+"k": "12475",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] You can't just do that to people."
+},
+{
+"k": "12476",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It isn't my fault we're in this situation."
+},
+{
+"k": "12477",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Bigby, it had to be done."
+},
+{
+"k": "12478",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm not fucking bulletproof!"
+},
+{
+"k": "12479",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}Do you know how much magic like that costs?"
+},
+{
+"k": "12480",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You should be {AngryB}thanking me!"
+},
+{
+"k": "12481",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I found the Case File"
+},
+{
+"k": "12482",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No Case file yet"
+},
+{
+"k": "12483",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "No Case File, but I found this Tape"
+},
+{
+"k": "12484",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Found a Case file and a Tape"
+},
+{
+"k": "12485",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Did you find the file?"
+},
+{
+"k": "12486",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I found a tape."
+},
+{
+"k": "12487",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm not done looking."
+},
+{
+"k": "12488",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let's go."
+},
+{
+"k": "12489",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{CreepyA}It'll be over soon."
+},
+{
+"k": "12490",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{PainX}[screams] No! God… damn it! Ah!  {AngryA}Shit! Ah…{PainX} ah… ah!"
+},
+{
+"k": "12491",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's just a standard memory wipe."
+},
+{
+"k": "12492",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[quick, nervous] We have to hurry. She'll come around in a few minutes and we need to be out of here."
+},
+{
+"k": "12493",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We have to hurry. We've only got a couple minutes before she comes out of it."
+},
+{
+"k": "12494",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "It's a standard memory wipe. Pretty expensive magic. She won't remember a thing."
+},
+{
+"k": "12495",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[anxious] I've been trying to find the case file. I don't want to leave it behind just to have her come looking for us later."
+},
+{
+"k": "12496",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[anxious] Let's just grab what we can and get out of here."
+},
+{
+"k": "12497",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[weakly] Who are you?"
+},
+{
+"k": "12498",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryA}We have to go. {WorriedA}Now!"
+},
+{
+"k": "12499",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to himself] {Body-StandA}{ThinkingA}One-way mirror. {ThinkingB}There's gotta be a room back there."
+},
+{
+"k": "12500",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to himself] No tape?"
+},
+{
+"k": "12501",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to himself] {Body-StandA}{ThinkingA}Something back there."
+},
+{
+"k": "12502",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We have to go. Now!"
+},
+{
+"k": "12503",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We're out of time!"
+},
+{
+"k": "12504",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryB}Don't worry about that!"
+},
+{
+"k": "12505",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryB}I told you! {AngryC}We don't have a lot of time."
+},
+{
+"k": "12506",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[muttering] {AngryB}Come on."
+},
+{
+"k": "12507",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[mutering] {AngryA}Damn."
+},
+{
+"k": "12508",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I found the file"
+},
+{
+"k": "12509",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[surprised, slight embarassment] Oh."
+},
+{
+"k": "12510",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I found that file you're looking for."
+},
+{
+"k": "12511",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Good. Yes, great."
+},
+{
+"k": "12512",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Grabbed the surveilance footage too."
+},
+{
+"k": "12513",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}Oh! {AngryA}Yes, I didn't think of that."
+},
+{
+"k": "12514",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{SarcasticB}You know the mundy cops tape {AngryB}all their interrogations."
+},
+{
+"k": "12515",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Glad you caught that. Let's get out of here then."
+},
+{
+"k": "12516",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[low] {Body-StandA}{AngryA}We have to go!"
+},
+{
+"k": "12517",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[low] {Body-StandA}{AngryC}Now, Bigby!"
+},
+{
+"k": "12518",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[low] {ThinkingA}Keep your head down."
+},
+{
+"k": "12519",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[low] {Body-StandA}{TenseA}Damn."
+},
+{
+"k": "12520",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Let's get out of here then."
+},
+{
+"k": "12521",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Are we good?"
+},
+{
+"k": "12522",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "There isn't much time."
+},
+{
+"k": "12523",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Unless you think we missed something."
+},
+{
+"k": "12524",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm not finished yet."
+},
+{
+"k": "12525",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[impatient] Well, hurry up!"
+},
+{
+"k": "12526",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "All right, let's get out of here."
+},
+{
+"k": "12527",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You find that file yet?"
+},
+{
+"k": "12528",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[annoyed] {AngryB}Does it look like I've found it?"
+},
+{
+"k": "12529",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[annoyed] {SuspiciousA}What do you think?"
+},
+{
+"k": "12530",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryC}Keep looking."
+},
+{
+"k": "12531",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] {AngryB}No, I {AngryC}haven't found it!"
+},
+{
+"k": "12532",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{ThinkingA}I found a surveilance tape."
+},
+{
+"k": "12533",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{SurprisedA}Good."
+},
+{
+"k": "12534",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "And I found that file you're looking for."
+},
+{
+"k": "12535",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You should have said that sooner."
+},
+{
+"k": "12536",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}See if you can find {SuspiciousA}that file too!"
+},
+{
+"k": "12537",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "But be quick! We have to get out of here before they come to."
+},
+{
+"k": "12538",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryB}Well then stop standing around, {AngryC}and go look for that file!"
+},
+{
+"k": "12539",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{ThinkingA}Nevermind."
+},
+{
+"k": "12540",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{ThinkingB}Nothing."
+},
+{
+"k": "12541",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[impatient] {AngryA}What is it, {AngryB}Bigby?"
+},
+{
+"k": "12542",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryC}It's not here!"
+},
+{
+"k": "12543",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryB}Will you stop {AngryC}standing around? {AnnoyedA}Go make sure we don't leave anything {AngryB}behind."
+},
+{
+"k": "12544",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[muttering] {AngryB}Still no damn file."
+},
+{
+"k": "12545",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[whispers] Hurry up!"
+},
+{
+"k": "12546",
+"who": "NOTE FROM AARON",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Director notes it should be set up like a Station. Hitting (B) exits them out"
+},
+{
+"k": "12547",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[low] Crane…"
+},
+{
+"k": "12548",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[whispering] Careful."
+},
+{
+"k": "12549",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[off screen] Damn!"
+},
+{
+"k": "12550",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[muttering] Dammit."
+},
+{
+"k": "12551",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to himself] Her notes."
+},
+{
+"k": "12552",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to himself, fast] Come on, come on, come on."
+},
+{
+"k": "12553",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[anxious] There isn't enough time!"
+},
+{
+"k": "12554",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[anxious, frustrated] I don't want to cut it so close, but we need that file."
+},
+{
+"k": "12555",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[frustrated, slightly frantic] Where is it?"
+},
+{
+"k": "12556",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[frantic, angry] Where the hell is it?"
+},
+{
+"k": "12557",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Just get what you can! I don't want to leave any evidence."
+},
+{
+"k": "12558",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Where is that file?"
+},
+{
+"k": "12559",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[barely audible, in pain, broken record] {PainX}No, no, no, no…"
+},
+{
+"k": "12560",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[barely audible] Provoke her…"
+},
+{
+"k": "12561",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Am I being charged with a crime here?"
+},
+{
+"k": "12562",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We'll see. Right now I'm more interested in getting some answers from you."
+},
+{
+"k": "12563",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I'm willing to forget about your behavior last night if you cooperate."
+},
+{
+"k": "12564",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Thank you for your patience, Mr. Wolf. I know spending the night in a holding cell can't be pleasant, but your behavior last night was a little…concerning."
+},
+{
+"k": "12565",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "We wanted to make sure you had time to cool down."
+},
+{
+"k": "12566",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Any better?"
+},
+{
+"k": "12567",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Less… agitated?"
+},
+{
+"k": "12568",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You know they sell those in crush-proof boxes now."
+},
+{
+"k": "12569",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}The Knights of Malta here in the city."
+},
+{
+"k": "12570",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}[impatient, to self] {AnnoyedA}All right, where is it?"
+},
+{
+"k": "12571",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[annoyed] What are you so upset about?"
+},
+{
+"k": "12572",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "What's with the attitude."
+},
+{
+"k": "12573",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[impaitent] Okay?"
+},
+{
+"k": "12574",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] What?!"
+},
+{
+"k": "12575",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{AnnoyedA}It's just a memory wipe spell. Very expensive, but {NormalA}it works."
+},
+{
+"k": "12576",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] {body-StandA}{AngryC}What?!{body-ArmsOut}{AngryD}"
+},
+{
+"k": "12577",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AnnoyedA}What are {ConfusedA}you so upset about?"
+},
+{
+"k": "12578",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You can't just do that to people!"
+},
+{
+"k": "12579",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "You can't just do that!"
+},
+{
+"k": "12580",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Fine. Let's go."
+},
+{
+"k": "12581",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{ThinkingA}They'll all come around in a few minutes, {NormalA}back to normal, like nothing ever happened."
+},
+{
+"k": "12582",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{AnnoyedA}They'll be fine. The side-effects are {ThinkingA}only… temporary."
+},
+{
+"k": "12583",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] {AngryB}{body-ArmsOut}You can't just {AngryC}do that to people.{body-X}"
+},
+{
+"k": "12584",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}[dismissive] {AnnoyedA}Temporary side-effects."
+},
+{
+"k": "12585",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[angry] {body-X}{AngryA}What about {AngryB}the detective?"
+},
+{
+"k": "12586",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}{body-X}Fine. Let's get out of here."
+},
+{
+"k": "12587",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}{body-StandA}Not yet."
+},
+{
+"k": "12588",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I've been trying to find the case file"
+},
+{
+"k": "12589",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "I've been trying to find this case file they've got."
+},
+{
+"k": "12590",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}I saw a filing cabinet in the hallway. {ThinkingA}I'll check there. Take a look around and {AnnoyedA}see if you can find that file."
+},
+{
+"k": "12591",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}The spell won't do much good if they still have all that {AngryB}information on us."
+},
+{
+"k": "12592",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}[anxious] {AnnoyedB}We don't have a lot of time before they come around, but I've been trying to find this {NormalA}case file they've got."
+},
+{
+"k": "12593",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AnnoyedA}Just be quick about it."
+},
+{
+"k": "12594",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}And grab anything else that might implicate us."
+},
+{
+"k": "12595",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AnnoyedA}I had to go to Bluebeard for an advance on {AnnoyedB}his donation."
+},
+{
+"k": "12596",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryA}The whole station will forget the last 24 hours and everything they saw at The Woodlands."
+},
+{
+"k": "12597",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-StandA}{SuspiciousA}We're lucky I was able to get one."
+},
+{
+"k": "12598",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[muttering] Is that it?"
+},
+{
+"k": "12599",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{CreepyA}Good."
+},
+{
+"k": "12600",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{SuspiciousA}Did you find that file?"
+},
+{
+"k": "12601",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AnnoyedB}Did you find that file?"
+},
+{
+"k": "12602",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{AngryC}Dammit!"
+},
+{
+"k": "12603",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{AngryB}We're running out of time!"
+},
+{
+"k": "12604",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[to himself] {Body-StandA}{ThinkingB}{SarcasticB}That's it."
+},
+{
+"k": "12605",
+"who": "CRANE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{Body-StandA}{SuspiciousA}See if you can find that {ThinkingA}case file."
+},
+{
+"k": "12606",
+"who": "NOTE",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Proper name for th Woodlands: The Woodland Luxury Apartments."
+},
+{
+"k": "12607",
+"who": "QUESTIONS",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "\"FBI\" is coming up a lot here, maybe vary with the language with \"feds\" or something?"
+},
+{
+"k": "12608",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "[dazed groan]"
+},
+{
+"k": "12609",
+"who": "SANIM",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "sk54_action_bigbyGetsShotInArm"
+},
+{
+"k": "12610",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Why am I here?"
+},
+{
+"k": "12611",
+"who": "",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "Got a name?"
+},
+{
+"k": "12612",
+"who": "KELSEY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{DoubtA}{body-SitA}You know they sell those in crush-proof boxes now. Active guy like you might want to look into that."
+},
+{
+"k": "12613",
+"who": "BIGBY",
+"ctx": "Fables102/env_policestationinterrogationroom",
+"en": "{body-SitArmsDesk}{ThinkingB}Thanks for the cigarettes."
+}
+]

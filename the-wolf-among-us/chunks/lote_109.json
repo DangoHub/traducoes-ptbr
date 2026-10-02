@@ -1,0 +1,998 @@
+[
+{
+"k": "29503",
+"who": "",
+"ctx": "Fables104/ui_credits",
+"en": "WRITTEN BY\nDan Martin - Lead\n\nDESIGNED BY\nAaron Casillas - Lead\n\nDIRECTED BY\nKent Mudle\n\nART DIRECTION\nDavid Bogan\n\nMUSIC BY\nJared Emerson-Johnson\n\nCONTENT PROGRAMMING\nJason Reis - Lead\nPatrick Algermissen\nJason Kim\nAndrew Langley\nCarl Muckenhoupt\nJohn Mauldin\nKeenan Patterson\n\nANIMATION\nJeff Sarre - Lead\nTyler Helton\nArmando LLuch\nWest Munz\nRJ Torralba\n\nCINEMATIC ARTISTS\nJonathan Stauder - Lead\nVahram Antonian\nVanessa Blair\nBridget Bougan\nJavier Espinoza\nAiryque Ervin\nMichael Gambino\nDaniel Herrera\nBradford Hillam\nMatthew Leach\nSean Manning\nJolie Menzel\nMartin Montgomery\nKent Mudle\nJason Pyke\nDavid Ramirez Chaverri\nChristopher Rieser\nZachariah Scott\nEric Stirpe\nAdam Waters\nJessica Watkins\nRyan Wetherall\nRyann Lynn Weller\n\nENVIRONMENT ARTISTS\nKim Lyons - Lead\nBrian Gillies\nMark Sheppard\nJan Wyss\nAmanda Stewart\n\nCHARACTER LIGHTING\nDave Bogan\nLeif Estes \n\nCHARACTER ARTISTS\nMegan Gritzfeld - Lead\nJason findley \nSteven Moore\n\nUSER INTERFACE\nD. Reed Monroe - Lead\nCrystal Rogers\nTodd Colby\nHain Lee\n\nSOUND DESIGN\nLazar Levine - Lead\nJack Fusting\nNick Mastroianni\nScott Gilmore\n\nCONCEPT ARTISTS\nGray Rogers\nDerek Stratton\nRyan Jones\nJesse Maccabe\n\nTECHNICAL ART AND EFFECTS\nMichael Perretta\nBrian Eby\nNora Magyar\nAlex Jacobs\n\nEXECUTIVE PRODUCERS\nDan Connors\nKevin Bruner\nBrett Tosti\n\nPRODUCER\nChris Schroyer\n\nASSOCIATE PRODUCER\nPeter Cornforth\n\nASSISTANT PRODUCERS\nArthur von Nagel\nChris Plumer\nJeff Armstead\n\nBUILD & DISTRIBUTION\nMark Gabby\nMario Valencia\n\nSR. LEAD TESTER\nMatthew Warner\n\nQA TESTING\nChristopher Donnelley - Lead\nGregory Masto\nAndrew Smallwood\nBen Knoll\nBen Vizcaino\nDavid Mahoney\nDevin McCarthy\nEvan Koepf\nHannah Bradshaw Lozier\nHelena Norton\nJonathan Rozmarin\nJoshua Zygman\nKyle Killian\nMatthew Paris\nMax Ince\nMichael Vallejo\nWilliam Wheeler\n\nADDITIONAL WRITING\nAdam Hines\nNicole Martinez\n\nADDITIONAL ART\nShawn Shain\nMike Sherak\nCalvin Huang\nMolly Maloney\nMatthew Paris\n\nADDITIONAL CONCEPT ART\nMin Fu\nPaul Mica\n\nADDITIONAL ANIMATION\nChris Waltner\n\nADDITIONAL ART SERVICES\nOriginal Force\nHydrogen Whiskey\nVirtuos Games\n\nADDITIONAL QA SERVICES\nVMC Game Labs\nPole To Win\n\nVOICE DIRECTION\nJulian Kwasneski\nJared Emerson-Johnson\n\nVOICE PRODUCTION\nJulian Kwasneski\n\nVOICE RECORDING\nTim Galida\nJory Prum\nLarry Winer\nSpencer Herzog\nMark Estdale\n\nDIALOG EDITING\nConnor Stock\n\n\n\nCAST\n\nBIGBY WOLF\nAdam Harrington\n\nSNOW WHITE\nErin Yvette\n\nICHABOD CRANE\nRoger Jackson\n\nGEORGIE\nKevin Howarth\n\nBLUEBEARD\nDave Fennoy\n\nJACK HORNER\nColin Benoit\n\n\n\n\nNERISSA\nMolly Benson\n\nGRENDEL\nKid Beyond\n\nTHE WOODSMAN\nAdam Harrington\n\nBEAST\nGavin Hammon\n\nBEAUTY\nMelissa Hutchison\n\nBUFKIN\nChuck Kourouklis\n\nDEE / DUM\nGavin Hammon\n\n\n\n\n\nVIVIAN\nSandy Delonga\n\nHOLLY\nJanet Lipsey\n\nLAWRENCE\nAnthony Lam\n\nFLYCATCHER\nDustin Rubin\n\nRACHEL / AUNTIE GREENLEAF\nLaura Bailey\n\nBLOODY MARY\nKat Cressida\n\nBUTCHER\nTerry McGovern\n\nCALLER\nJulian Kwasneski\n\nColin\nBrian Sommer\n\nCROOKED MAN\nPhilip Banks\n\nJERSEY DEVIL\nBobby Vickers\n\nMAGIC MIRROR\nGavin Hammon\n\nDR. SWINEHEART\nDavid Kaye\n\nTIM\nNoam Smooha\n\nMR. TOAD\nChuck Kourouklis\n\n\nCREATED WITH THE TELLTALE TOOL\nKevin Bruner\nJonathan Sgro\nRandy Tudor\nZacariah Litton\nBen Ingram\nDavid Brady\nDavid Bromberg\nAlex Montgomery\nTim Ingram\nChris Bauer\nGuy Somberg\nMarcus Whitlock\nMichael Eads\n\n\n\n\nTELLTALE GAMES, INC\n\nCEO \nDan Connors\n\nPRESIDENT & CTO\nKevin Bruner\n\nHEAD OF STUDIO\nColum Slevin\n\nCFO\nKathy McElwee\n\nSENIOR VICE PRESIDENT OF PUBLISHING\nSteve Allison\n\nVICE PRESIDENT OF ENGINEERING\nZacariah Litton\n\nCREATIVE DEVELOPMENT DIRECTOR\nStephan Vladimir Bugaj\n\nDIRECTOR OF ART DEPARTMENT\nDave Bogan\n\nSUPERVISING DIRECTOR\nDennis Lenart\n\nDIRECTOR OF DESIGN\nRyan Kaufman\n\nDIRECTOR OF PRODUCTION TECHNOLOGIES\nJonathan Sgro\n\nDIRECTOR OF PRODUCTION SERVICES\nDave Felton\n\nTECHNOLOGY PRODUCER\nTrevor McCann\n\nTECHNICAL DIRECTOR\nMichael Perretta\n\nRELEASE AND SUBMISSION MANAGER\nEmmy Bautista\n\nSENIOR DIRECTOR OF MARKETING\nRichard Iggo\n\nSENIOR MARKETING AND RELEASE MANAGER\nJonathan \"JR\" Rosales\n\nDIRECTOR OF PUBLIC RELATIONS\nJob J. Stauffer\n\nCOMMUNITY AND PR SPECIALIST\nLaura Perusco\n\nSENIOR CREATIVE SERVICES MANAGER\nPaolo Asuncion\n\nMARKETING MEDIA PRODUCER\nShaun Finney\n\nVIDEO EDITOR\nMary Stark\n\nLEAD WEB ARCHITECT\nMichael Lindsay\n\nSENIOR SERVER ENGINEER\nJohn Gamble\n\nWEB DEVELOPMENT\nMichael Lindsay\nJesse Wagstaff\n\nPRODUCT SUPPORT\nMatthew Pedonti\nEvan Koepf\nMichael Vallejo\n\nIT DIRECTOR\nStan Shambaugh\n\nIT\nKelly Robertson\n\nFINANCE & OPERATIONS\nBetsy Delis\nRhoda Gravador\nSerena Sinn\nOlga Malkiman \n\nRECRUITING\nJonathan Khalife\nSarah Roth\n\nLEGAL\nMark Barbolak\n\n\n\n\n\n\nWARNER BROS. INTERACTIVE ENTERTAINMENT\n\nPRODUCER\nGeoff Bent\n\nVICE PRESIDENT, PRODUCTION DIGITAL\nChris Miller\n\nVICE PRESIDENT, PRODUCTION DC FRANCHISES\nAmes Kirshen\n\nMANAGER PRODUCTION SERVICES\nJamie O'Brien Moore\n\nEXECUTIVE ASSISTANT\nNicole Scates\n\nMANAGER, RIGHTS & CLEARANCES\nJane Elms\n\nMARKETING ASSOCIATE\nSaena Park\n\nMANAGER, BRAND MARKETING\nDavid Lebovic\n\nDIRECTOR, BRAND MARKETING\nJeff Neinstein\n\nVICE PRESIDENT, BRAND MARKETING\nStephanie Johnson\n\nPR MANAGER\nKehau Rodenhurst\n\nPR SPECIALIST\nGenna Forkey\n\nVICE PRESIDENT, PUBLIC RELATIONS\nRemi Sklar\n\nDIRECTOR, BUSINESS DEVELOPMENT & LICENSING\nBen Elliot\n\nVICE PRESIDENT, BUSINESS DEVELOPMENT\nScott Johnson\n\nVICE PRESIDENT & ASSOCIATE GENERAL COUNSEL\nJennifer Stump\n\nVICE PRESIDENT, FINANCE AND ADMINISTRATION\nSteve Chalk\n\nSENIOR VICE PRESIDENT, WORLDWIDE MARKETING\nRussell Arons\n\nSENIOR VICE PRESIDENT, PRODUCTION & DEVELOPMENT\nSamantha Ryan\n\nSENIOR VICE PRESIDENT, BUSINESS DEVELOPMENT\nDebra Baker\n\nSENIOR VICE PRESIDENT, SALES, AMERICA\nKevin Kebodeaux\n\nSENIOR VICE PRESIDENT, GAMES, EU\nOlivier Wolff\n\nPRESIDENT\nMartin Tremblay\n\n\n\nDC ENTERTAINMENT\n\nCHIEF CREATIVE OFFICER\nGeoff Johns\n\nCREATIVE DIRECTOR, INTERACTIVE\nPatrick McCallum\n\nCREATIVE ASSOCIATE, INTERACTIVE\nRandy Ma\n\nPRESIDENT\nDiane Nelson \n\nCO-PUBLISHERS\nDan DiDio and Jim Lee\n\nEXECUTIVE VP - SALES, MARKETING AND BUSINESS DEVELOPMENT\nJohn Rood\n\nSENIOR VP - BUSINESS AND LEGAL AFFAIRS\nAmy Genkins\n\nSENIOR VP - FINANCE\nNairi Gardiner\n\n\n\n\n\nSPECIAL THANKS\n\nAdam Cochran, Grandma JoJo\nAnu and Nadja\nBritt and Brayden Casillas\nC.P.K. and Slimgoodie\nCorb & Jane Hillam\nDanielle \"Bubbles\" Bysouth \nDeirdre Rippe\nEmi Eads\nEva, Anastasia, & Daciana Algermissen\nFaranak Farjamrad Herrera, Lia Farjam Herrera,\nNavin Farjam Herrera, David Herrera, \nCherie Herrera, Cristina Herrera, \nGustavo De Laforé , Hassan Farjamrad,\nZahra Farjamrad, Bobby Farjamrad, \nSahba Motallebi\nHeidi Stauder\n\n\nJason, Aidan, the Rogers Pirates and Baucom Family\nJen, Noah & Aaron Sarre\nJi Yeon Shin, Hye Jeong Shin, Orlando LLuch\nJoy & Grace Brown\nKeri Johnson, Donna Thorland, and the Martin Family\nKevin, Mimi, Max, and Tess Killian\nLuis, Alicia, and Miguel Rosales\nAlyn and Oscar Maynez\nPeter Canada\nDeena Mustin\nDustin Garza\nMarie, Chrisee, and Jose Vizcaino\nMegan Murphy, Eric Gorski\nMike, Heidi, Laura, Ashley, and Ben\nMichelle Steranko, Sage Wessner, Nurse Rachel\nMonica Burrowes\nNae Hak Lee, Sun Young Kang, Michael David Gong\nNatalie Helton\nNicole, Enzo and Antonello Munz\nPeek-a-Boo the Cat \nPerry Karavello\nProf. Dev Jana\nRobert Hodsdon\nSaul Bautista, Lillian Bautista,Diana Bautista,\nStefanie San Miguel, Ronald San Miguel & Sonia Linares\nStephanie Cooke\nThe Mannings, The Riggs', Jenny \"Hossenfeffer\" Hamlin\nThe Perusco family, Jeff Sinclair\nThe Vallejo Family\nThe Watkins Family\nTorralba Clan\nYohanna Bulan Weller, Rashelle & Jeff Wilson\nZoe Shepard-Monson\n\n\nand You\n\n\n\nVERY SPECIAL THANKS\nBill Willingham\nMark Buckingham\n\n\n\nTELLTALE PETS\nAllie & Carmen\nAthena and Katniss\nBell and Bubba\nBuffy and Scout\nButters and OD\nCharlie Plumer & Mr. Lloyd Dobler\nCharlotte & Howl\nCody\nGabby\nGrumbles\nHarley Quinn, Ivy, and Zatanna\nJacknLuna\nJake & Agro\nJeremy\nKensey the Dog Face\nLuke & Buck\nMaggie 'Bobo' Mae\nMighty Pirate Pete\nMojo Jojo\nMy three legged boi Blu, and Chewie \"The One Eyed Wonderpup\"\nNeji & Yoshi\nOllie\nOzzie\nPenny & Desmond\nPrincess Melody Belle Fluffybottom\nQuint and Hooper\nShay\nShiro\nShelby, Bonnie and Clyde\nSophie\nTangle\nToby Or Not Toby\n\n\n\n\n\nBased upon the Vertigo comic book series 'FABLES' by Bill Willingham\n\n\n\n(C) Bill Willingham and DC Comics\nFABLES: TM Bill Willingham\nWBIE LOGO, WB SHIELD: TM & (C) Warner Bros. Entertainment Inc.\n(s13)\n\nPortions Copyright\nFirelight Technologies\nPortions Copyright\n(C) 2002 Jean-Marc Valin"
+},
+{
+"k": "29504",
+"who": "",
+"ctx": "Fables104/ui_credits",
+"en": "Jonathan Stauder"
+},
+{
+"k": "29505",
+"who": "",
+"ctx": "Fables104/ui_credits",
+"en": "Jason Reis"
+},
+{
+"k": "29506",
+"who": "",
+"ctx": "Fables104/ui_credits",
+"en": "Dan Martin\nAaron Casillas"
+},
+{
+"k": "29507",
+"who": "",
+"ctx": "Fables104/ui_credits",
+"en": "\"IN SHEEP'S CLOTHING\""
+},
+{
+"k": "29508",
+"who": "",
+"ctx": "Fables104/ui_credits",
+"en": "Kent Mudle"
+},
+{
+"k": "29509",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Woodsman noticed that."
+},
+{
+"k": "29510",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Jersey will remember that."
+},
+{
+"k": "29511",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Crooked Man WILL remember that..."
+},
+{
+"k": "29512",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Swineheart will remember that."
+},
+{
+"k": "29513",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Bufkin noticed that."
+},
+{
+"k": "29514",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Jersey noticed that."
+},
+{
+"k": "29515",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Crooked Man noticed that."
+},
+{
+"k": "29516",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Swineheart noticed that."
+},
+{
+"k": "29517",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Bufkin noticed your silence."
+},
+{
+"k": "29518",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Crooked Man noticed your silence."
+},
+{
+"k": "29519",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Jack noticed your silence."
+},
+{
+"k": "29520",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Jersey noticed your silence."
+},
+{
+"k": "29521",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Swineheart noticed your silence."
+},
+{
+"k": "29522",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Woodsman noticed your silence."
+},
+{
+"k": "29523",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Colin noticed that."
+},
+{
+"k": "29524",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Colin will remember that..."
+},
+{
+"k": "29525",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Beast remembered that."
+},
+{
+"k": "29526",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Johann will remember that."
+},
+{
+"k": "29527",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "text_ToadNotification"
+},
+{
+"k": "29528",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Tiny Tim will remember that."
+},
+{
+"k": "29529",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Tiny Tim noticed that."
+},
+{
+"k": "29530",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "You chose to send Toad to the Farm."
+},
+{
+"k": "29531",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Tim"
+},
+{
+"k": "29532",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "You chose to send Colin to the Farm."
+},
+{
+"k": "29533",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Crooked Man will remember that..."
+},
+{
+"k": "29534",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "LUCKY PAWN"
+},
+{
+"k": "29535",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "BUTCHER SHOP"
+},
+{
+"k": "29536",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "You chose to betray Beast."
+},
+{
+"k": "29537",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "You chose to betray Beauty."
+},
+{
+"k": "29538",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Crooked Man's Lair"
+},
+{
+"k": "29539",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Lucky Pawn"
+},
+{
+"k": "29540",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Cut Above - Butcher Shop"
+},
+{
+"k": "29541",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Beauty and Beast's Apartment"
+},
+{
+"k": "29542",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Tubman St."
+},
+{
+"k": "29543",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Central Park, 94th Street"
+},
+{
+"k": "29544",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "The Gothic Bridge"
+},
+{
+"k": "29545",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Morning"
+},
+{
+"k": "29546",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Noon"
+},
+{
+"k": "29547",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Night"
+},
+{
+"k": "29548",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "Woody says goodbye..."
+},
+{
+"k": "29549",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "You chose to enforce the rules."
+},
+{
+"k": "29550",
+"who": "",
+"ctx": "Fables104/ui_episode",
+"en": "You chose friendship over the rules."
+},
+{
+"k": "29551",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Tweedle Dee."
+},
+{
+"k": "29552",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "The Tweedles."
+},
+{
+"k": "29553",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Bloody Mary."
+},
+{
+"k": "29554",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Jersey Devil."
+},
+{
+"k": "29555",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Beauty & Beast."
+},
+{
+"k": "29556",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Flycatcher."
+},
+{
+"k": "29557",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Holly."
+},
+{
+"k": "29558",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Greenleaf."
+},
+{
+"k": "29559",
+"who": "GREN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}\tThis fuckin' line."
+},
+{
+"k": "29560",
+"who": "BEAUTY",
+"ctx": "Fables105/env_businessoffice",
+"en": "At least she's gonna talk to us. You know what it was like with Crane."
+},
+{
+"k": "29561",
+"who": "BUTCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tThanks anyway."
+},
+{
+"k": "29562",
+"who": "BUTCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tDo you know how much longer it'll be?"
+},
+{
+"k": "29563",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tMiss White stepped away for a minute... {ThinkingA} some business upstairs I think."
+},
+{
+"k": "29564",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ConfusedB}\tSnow?"
+},
+{
+"k": "29565",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tWhen's she coming back?"
+},
+{
+"k": "29566",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}[hurried] Uh, soon I think. I don't really know. You can check the mirror if you want."
+},
+{
+"k": "29567",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{FlusteredA}\tYes, just a moment. I'll call you in."
+},
+{
+"k": "29568",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{WorriedA}Yes, I understand. I--[is cut off]"
+},
+{
+"k": "29569",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{FlusteredB}\t[rushed]Business Office."
+},
+{
+"k": "29570",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tHey, Snow..."
+},
+{
+"k": "29571",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}Okay, just one second."
+},
+{
+"k": "29572",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tYes. You're right. Can I call-- [you back]"
+},
+{
+"k": "29573",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "Sorry, I have to deal with this."
+},
+{
+"k": "29574",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Sorry about what I did to Crooked Man."
+},
+{
+"k": "29575",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Everything okay?"
+},
+{
+"k": "29576",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Can we talk?"
+},
+{
+"k": "29577",
+"who": "",
+"ctx": "Fables105/env_businessoffice",
+"en": "Uh, thanks."
+},
+{
+"k": "29578",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ConcernedA}\tI'm sorry... about what happened with the Crooked Man."
+},
+{
+"k": "29579",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{WorriedA}\tI didn't--[is cut off]"
+},
+{
+"k": "29580",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\t[all business]I'm-- I'm sorry, Sheriff. I have to take care of this."
+},
+{
+"k": "29581",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{WorriedA}\tIs everything okay? You look--"
+},
+{
+"k": "29582",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "I'm sorry, I- I have to take care of this, Bigby."
+},
+{
+"k": "29583",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{WorriedB}\tListen, Snow... can we talk? I wanted to--"
+},
+{
+"k": "29584",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tYou wanted to talk to me?"
+},
+{
+"k": "29585",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{FlusteredB}\t[distracted]Yeah, I--"
+},
+{
+"k": "29586",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tMm-hm."
+},
+{
+"k": "29587",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{HappyA}\tSure."
+},
+{
+"k": "29588",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{HappyA}[more hopeful]We'll talk later, okay?"
+},
+{
+"k": "29589",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryB}\tNo, I am fully aware-- [gets interrupted]"
+},
+{
+"k": "29590",
+"who": "BUTCHER",
+"ctx": "Fables105/env_businessoffice",
+"en": "We've been waiting!"
+},
+{
+"k": "29591",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_businessoffice",
+"en": "You'll get your turn."
+},
+{
+"k": "29592",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tGood morning, Miss White."
+},
+{
+"k": "29593",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}[sigh]You're late."
+},
+{
+"k": "29594",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryB}\t[muttering to himself] What a bunch of garbage."
+},
+{
+"k": "29595",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ThinkingA}\t[muttering] Huh."
+},
+{
+"k": "29596",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{WorriedA}\t[muttering to himself] I'm guessin' that's not a good sign."
+},
+{
+"k": "29597",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tI keep forgetting he's not in there anymore."
+},
+{
+"k": "29598",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\t[answering the phone] Business Office."
+},
+{
+"k": "29599",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ThinkingB}[muttering to himself] Maybe a wrong number..."
+},
+{
+"k": "29600",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\t[muttering to himself] What was so wrong with carrier pigeons..."
+},
+{
+"k": "29601",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ThinkingA}What kind of errands?"
+},
+{
+"k": "29602",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}Hey, Bufkin."
+},
+{
+"k": "29603",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tI'm sorry, Mr. Bigby, but I have quite a few errands to finish before Miss White returns."
+},
+{
+"k": "29604",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tSnow should be back any minute now, so... just sit tight."
+},
+{
+"k": "29605",
+"who": "BUFKIN",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticB}\tEverything it appears Crane wasn't doing."
+},
+{
+"k": "29606",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] No, not yet."
+},
+{
+"k": "29607",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] Not yet."
+},
+{
+"k": "29608",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] By tomorrow, at the latest."
+},
+{
+"k": "29609",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] That won't be necess--[is cut off]"
+},
+{
+"k": "29610",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] Yes, sir."
+},
+{
+"k": "29611",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] They're coming in next month."
+},
+{
+"k": "29612",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] Yes, I can wait."
+},
+{
+"k": "29613",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tHey, Mirror."
+},
+{
+"k": "29614",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\t[yawning] Yes?"
+},
+{
+"k": "29615",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\tMm? Want to see somebody?"
+},
+{
+"k": "29616",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\t[clears his throat]"
+},
+{
+"k": "29617",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "Someone you want to check in on?"
+},
+{
+"k": "29618",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tRepaired, yes. Recovered, no.[beat] {MockingA}But I take it this isn't a social call."
+},
+{
+"k": "29619",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tYou look pretty much... repaired already."
+},
+{
+"k": "29620",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ConcernedA}\tHow you holding up?"
+},
+{
+"k": "29621",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\tBroken bones mend, as will I, in the end."
+},
+{
+"k": "29622",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tIs there someone you wish to check in on?"
+},
+{
+"k": "29623",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "Very well."
+},
+{
+"k": "29624",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tThat'll do for now."
+},
+{
+"k": "29625",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}No, I'm fine."
+},
+{
+"k": "29626",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\t{alias 357564515} Very well."
+},
+{
+"k": "29627",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{WorriedA}Where's Snow White?"
+},
+{
+"k": "29628",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticB}\tShe's easily found if you just turn around."
+},
+{
+"k": "29629",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tOh."
+},
+{
+"k": "29630",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}Where's Tweedle Dee?"
+},
+{
+"k": "29631",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\tA bit melancholy for him, isn't it?"
+},
+{
+"k": "29632",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB} His brother's dead."
+},
+{
+"k": "29633",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[muttering] I should have ate him when I had the chance..."
+},
+{
+"k": "29634",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "Show me Colin."
+},
+{
+"k": "29635",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}Show me the Tweedles."
+},
+{
+"k": "29636",
+"who": "DEE",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}Oy! Cabbie!"
+},
+{
+"k": "29637",
+"who": "DEE",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}\t[muttering] Why don't you show some fuckin' leg..."
+},
+{
+"k": "29638",
+"who": "DUM",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA} You're never gonna get one if you don't show any leg."
+},
+{
+"k": "29639",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tShow me the Woodsman."
+},
+{
+"k": "29640",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tAnyone else?"
+},
+{
+"k": "29641",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticB}\tA little... maybe I have one more in me..."
+},
+{
+"k": "29642",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\t[big sigh] Anyone else?"
+},
+{
+"k": "29643",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{MockingA}You getting tired?"
+},
+{
+"k": "29644",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tGive it a few days, I'll be back in good shape."
+},
+{
+"k": "29645",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tI know the feeling..."
+},
+{
+"k": "29646",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{DoubtfulA}\tI'm afraid my powers aren't at their best... perhaps I need to take a rest."
+},
+{
+"k": "29647",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB}\tTill then, Sheriff..."
+},
+{
+"k": "29648",
+"who": "SNOW",
+"ctx": "Fables105/env_businessoffice",
+"en": "[on phone] Uh huh."
+},
+{
+"k": "29649",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}What's Bluebeard doing?"
+},
+{
+"k": "29650",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}\tWell, why the blazes, {ThinkingA} why didn't you get any at the market?"
+},
+{
+"k": "29651",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[muttering] {AngryA}I can't wait for that guy to screw up..."
+},
+{
+"k": "29652",
+"who": "BLUEBEARD",
+"ctx": "Fables105/env_businessoffice",
+"en": "{ThinkingA}\tHobbes? Are we out of garlic?"
+},
+{
+"k": "29653",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tShow me Beauty... Or Beast."
+},
+{
+"k": "29654",
+"who": "MIRROR",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticA}\tDon't concern yourself, they're both in the same place."
+},
+{
+"k": "29655",
+"who": "BEAUTY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tThe debt doesn't exist anymore, okay? He's a crow."
+},
+{
+"k": "29656",
+"who": "BEAUTY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}And maybe if you won -- ever -- I'd believe this was a plausible way to get some."
+},
+{
+"k": "29657",
+"who": "BEAUTY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}So there's no reason for you to still be gambling."
+},
+{
+"k": "29658",
+"who": "BEAST",
+"ctx": "Fables105/env_businessoffice",
+"en": "{LyingA} We still need money!"
+},
+{
+"k": "29659",
+"who": "BEAST",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalB} I know, but--[is cut off]"
+},
+{
+"k": "29660",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{SarcasticB}\t[muttering] Just get a fuckin' divorce already."
+},
+{
+"k": "29661",
+"who": "BEAUTY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}The debt doesn't exist anymore, okay? {NervousA}He's dead."
+},
+{
+"k": "29662",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{NormalA}\tShow me Auntie Greenleaf."
+},
+{
+"k": "29663",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}\tThat Fairy Witch bitch better keep her nose to herself."
+},
+{
+"k": "29664",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryB}\t[muttering] Why do I have so many books..."
+},
+{
+"k": "29665",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "[humming a song]"
+},
+{
+"k": "29666",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "[muttering] Stay outta trouble."
+},
+{
+"k": "29667",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_businessoffice",
+"en": "{HappyA}\t[humming a song]"
+},
+{
+"k": "29668",
+"who": "BIGBY",
+"ctx": "Fables105/env_businessoffice",
+"en": "{AngryA}\t[muttering] Stay outta trouble."
+}
+]

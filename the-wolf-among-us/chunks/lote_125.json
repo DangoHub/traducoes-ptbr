@@ -1,0 +1,1556 @@
+[
+{
+"k": "34173",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "No... it's time for me to go."
+},
+{
+"k": "34174",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "I wish you luck."
+},
+{
+"k": "34175",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "I've got a bus to catch."
+},
+{
+"k": "34176",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "What, am I hurting your feelings?"
+},
+{
+"k": "34177",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Colin, it's for the best. I can't have you running around without a glamour. Something could happen..."
+},
+{
+"k": "34178",
+"who": "KIDTOAD",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}That's a big one."
+},
+{
+"k": "34179",
+"who": "KIDTOAD",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}They're cool, 'cause when they're little they have these pouches"
+},
+{
+"k": "34180",
+"who": "KIDTOAD",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}that squirt juice at you if you touch 'em."
+},
+{
+"k": "34181",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{DoubtfulA}That's... interesting, TJ."
+},
+{
+"k": "34182",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "You didn't really have a choice did you?"
+},
+{
+"k": "34183",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I... I guess everyone knows what happened at the Witching Well by now."
+},
+{
+"k": "34184",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Yeah... not like it really took long. [sigh] People love to talk."
+},
+{
+"k": "34185",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Like the one at the Open Arms?"
+},
+{
+"k": "34186",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "No- I need to."
+},
+{
+"k": "34187",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I know what I said."
+},
+{
+"k": "34188",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{AngryA}But it wasn't the truth, was it?"
+},
+{
+"k": "34189",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I just needed you to know."
+},
+{
+"k": "34190",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Lily convinced Crane to help us out. He said he could get our ribbons removed. Said he knew people."
+},
+{
+"k": "34191",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "So she convinced him to help us out, and he promised he could get our ribbons removed. Said he knew people."
+},
+{
+"k": "34192",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}And he always liked Lily. I mean he never really knew her, but he liked her for what she… did… for him."
+},
+{
+"k": "34193",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}That's when it all started to fall apart."
+},
+{
+"k": "34194",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[warning]Toad, that's enough! Snow's just doing her job."
+},
+{
+"k": "34195",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[understanding]Thanks for doing that."
+},
+{
+"k": "34196",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[tense; holding back emotion]{WorriedA}I needed you to make them pay for what they did to her. To both of them."
+},
+{
+"k": "34197",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[upset; slight anger]{WorriedA}They couldn't get away with it! I couldn't let that happen. So I--[can't continue]"
+},
+{
+"k": "34198",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Easier to side with the boss lady, right?"
+},
+{
+"k": "34199",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I guess."
+},
+{
+"k": "34200",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}The rules say all unglamoured Fables have to go to the Farm. I shouldn't be making exceptions for anyone."
+},
+{
+"k": "34201",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}There was nothing I could do."
+},
+{
+"k": "34202",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Toad's probably given you enough shit already, so I'm not gonna harp on it."
+},
+{
+"k": "34203",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}You had your reasons..."
+},
+{
+"k": "34204",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Gotta enjoy it while I can, right?"
+},
+{
+"k": "34205",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{ThinkingA}You got another one of those?"
+},
+{
+"k": "34206",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[sarcastic]{HappyA}Yeah, me too."
+},
+{
+"k": "34207",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[sarcastic]{NormalA}Yeah, me neither."
+},
+{
+"k": "34208",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{HappyA}Maybe sooner than you think."
+},
+{
+"k": "34209",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "It couldn't have been easy."
+},
+{
+"k": "34210",
+"who": "TOAD",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[bitter]{AnnoyedA}What's the fuckin' point?"
+},
+{
+"k": "34211",
+"who": "TOAD",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[muttering]{AnnoyedA}Oh, just piss off."
+},
+{
+"k": "34212",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}That's everybody."
+},
+{
+"k": "34213",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}We're about ready to head out."
+},
+{
+"k": "34214",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Now that I finally can."
+},
+{
+"k": "34215",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}She kept my old place for me, so it's like I never left."
+},
+{
+"k": "34216",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Snow, uh, caught me eating flies again… so I'm back working here for a while."
+},
+{
+"k": "34217",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Maybe."
+},
+{
+"k": "34218",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}But anyway..."
+},
+{
+"k": "34219",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Just thought you might be interested..."
+},
+{
+"k": "34220",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Good to have you back, Fly."
+},
+{
+"k": "34221",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{HappyA}Thanks."
+},
+{
+"k": "34222",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Right... I did."
+},
+{
+"k": "34223",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Don't thank me... thank Snow."
+},
+{
+"k": "34224",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Good for you, Flycatcher."
+},
+{
+"k": "34225",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}You'd better get going. Get 'em out of the city before the mundies start sniffing around."
+},
+{
+"k": "34226",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Good idea."
+},
+{
+"k": "34227",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Thanks. For your help, I mean."
+},
+{
+"k": "34228",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I'd better get going then..."
+},
+{
+"k": "34229",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I'm not sure where to start..."
+},
+{
+"k": "34230",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Especially after-- [stops herself]"
+},
+{
+"k": "34231",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}You two make a good team."
+},
+{
+"k": "34232",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "It's nice to see you and Snow in charge."
+},
+{
+"k": "34233",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Snow doesn't need me."
+},
+{
+"k": "34234",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "I don't know where we stand."
+},
+{
+"k": "34235",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "No one's ever fucking happy."
+},
+{
+"k": "34236",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}The way you look out for each other..."
+},
+{
+"k": "34237",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}It's nice."
+},
+{
+"k": "34238",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}You don't see that a lot these days."
+},
+{
+"k": "34239",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Fabletown needs people like you."
+},
+{
+"k": "34240",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[sullen]{WorriedA}Snow doesn't really need me."
+},
+{
+"k": "34241",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I'm sure that's not true."
+},
+{
+"k": "34242",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{WorriedA}I don't really know where we stand anymore. Things are just... {WorriedB}different."
+},
+{
+"k": "34243",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}There's still a lot of work to be done. {WorriedA}And Snow..."
+},
+{
+"k": "34244",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}There will always be more to do."
+},
+{
+"k": "34245",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[small laugh]{NormalA}Things are always different."
+},
+{
+"k": "34246",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[thinking]But maybe you were hoping for more..."
+},
+{
+"k": "34247",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Nothing in Fabletown ever stays the same for long. [beat] It's constantly shifting, reshaping itself."
+},
+{
+"k": "34248",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}But that's the beautiful thing… {HappyA}It's like the ocean. Never quite the same shade of blue."
+},
+{
+"k": "34249",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "And it's because of the people who call this place home. Those who fight to protect it. And who we choose to be along the way."
+},
+{
+"k": "34250",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "I've made a lot of mistakes."
+},
+{
+"k": "34251",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "I hope I've done some good."
+},
+{
+"k": "34252",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "None of it matters in the end."
+},
+{
+"k": "34253",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[regret]{NormalA}I've... been making a lot of mistakes lately."
+},
+{
+"k": "34254",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I hope I've at least done some good here."
+},
+{
+"k": "34255",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{WorriedA}No... it doesn't matter what I do. In the end it's all the same shit it always was."
+},
+{
+"k": "34256",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}You've changed this place. For better or worse… Fabletown wouldn't be the same without you."
+},
+{
+"k": "34257",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[intimate; like a secret]{NormalA}And one day... she's gonna realize that."
+},
+{
+"k": "34258",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{HappyA}And it's because of people like you..."
+},
+{
+"k": "34259",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}and Snow."
+},
+{
+"k": "34260",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Even Vivian and Georgie."
+},
+{
+"k": "34261",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}All of us."
+},
+{
+"k": "34262",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}just trying to get by the best we can."
+},
+{
+"k": "34263",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}We're all strangers in this world..."
+},
+{
+"k": "34264",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Hoping we'll leave something worthwhile behind."
+},
+{
+"k": "34265",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}It's about what happened to Faith and Lily."
+},
+{
+"k": "34266",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "So I..."
+},
+{
+"k": "34267",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[emotional]{SadA}So I did the only thing I could do."
+},
+{
+"k": "34268",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "I found her too late."
+},
+{
+"k": "34269",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[emotional]{SadA}and I left her."
+},
+{
+"k": "34270",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[emotional]{SadA}I walked her over here"
+},
+{
+"k": "34271",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "So I would notice..."
+},
+{
+"k": "34272",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "That was you? You left her there?"
+},
+{
+"k": "34273",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[understanding]{ThinkingA}You were trying to get my attention."
+},
+{
+"k": "34274",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{ThinkingA}Why would you do that?"
+},
+{
+"k": "34275",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I had to do something."
+},
+{
+"k": "34276",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I owed them that much."
+},
+{
+"k": "34277",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Else"
+},
+{
+"k": "34278",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Her too."
+},
+{
+"k": "34279",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Maybe this isn't what you were hoping for..."
+},
+{
+"k": "34280",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "But it's not over yet."
+},
+{
+"k": "34281",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{HappyA}And look out for us."
+},
+{
+"k": "34282",
+"who": "COLIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[disappointed sigh]{AnnoyedB}"
+},
+{
+"k": "34283",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}You forgot these."
+},
+{
+"k": "34284",
+"who": "FLYCATCHER",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[embarassed] {SurprisedA}Oh! Thank you. {NormalA}It's, uh, been pretty busy around here."
+},
+{
+"k": "34285",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{WorriedA}Sorry about all this... I tried to help."
+},
+{
+"k": "34286",
+"who": "TOAD",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{WorriedA}I told her I had the money, {NormalA}but she didn't wanna hear it!"
+},
+{
+"k": "34287",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[kind]{HappyA}You're wrong."
+},
+{
+"k": "34288",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}What about Lily? Did you leave her head at the Woodlands too?"
+},
+{
+"k": "34289",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}No... That was Georgie's doing... trying to send a message I guess. Though I'm sure the Crooked Man had something to do with it."
+},
+{
+"k": "34290",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I hope you understand..."
+},
+{
+"k": "34291",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}Now that Vivian and Georgie are dead... the spell is broken."
+},
+{
+"k": "34292",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "You didn't know?"
+},
+{
+"k": "34293",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I'm not sure... who did it, but we're all free now. I guess I should be glad for that."
+},
+{
+"k": "34294",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Now I can tell you-- [stops; not sure how to continue]"
+},
+{
+"k": "34295",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "{NormalA}I thought you knew."
+},
+{
+"k": "34296",
+"who": "WITH THIS INFORMATION UNKNOWN TO THE PLAYERS, IT MAKES THE FOLLOWING LINES VERY CONFUSING TO PLAYERS, SUCH AS",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "o\tBIGBY--\tYou're still wearing that thing?\no\tBIGBY--You know you can take it off now… Vivian's dead. The spell is broken.\no\tBIGBY--It can't hurt you anymore. The spell's broken, you can take it off.\no\tBIGBY--I guess I'm just wondering why you haven't removed it yet.\no\tBIGBY--The spell's broken...\no\tNERISSA--I know the spell's broken, but...\nThere is no way for the players to understand why it is that Narissa can speak freely now, or what caused the spell to be broken.\n\nJoe Note - So, this exchange seems to cover the note"
+},
+{
+"k": "34297",
+"who": "\"\tIN THIS PATH, (KILLING THE CROOKED MAN, NOT GOING TO THE PUDDING AND PIE THEN LEAVING BEFORE NARISSA CAN SPEAK) HERE ARE THE THINGS THAT PLAYER DOES NOT LEARN IF CHOOSING THIS PATH",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "o\tVivian was the original Ribbon Girl\no\tGeorgie and Vivian are dead\no\tThe spell over the girls speech was broken by Vivian's death\no\tVivian's involvement in the plot"
+},
+{
+"k": "34298",
+"who": "2014<<DATE",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "1398128039>>) Bigby looks confused."
+},
+{
+"k": "34299",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][awkward]So... now that I can finally talk--"
+},
+{
+"k": "34300",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][surprise; confused]You can?"
+},
+{
+"k": "34301",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]The ribbons can't hurt us anymore."
+},
+{
+"k": "34302",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]But... you're still wearing yours."
+},
+{
+"k": "34303",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Things are just... different."
+},
+{
+"k": "34304",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]But that's okay."
+},
+{
+"k": "34305",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Don't worry..."
+},
+{
+"k": "34306",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]It's just..."
+},
+{
+"k": "34307",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]I know it seems like I should be able to..."
+},
+{
+"k": "34308",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]The minute Faith stole that photo, we had dirt on one of the Crooked Man's allies. There's no way they'd just let us leave!"
+},
+{
+"k": "34309",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][starting to worry]Problem is, Crane noticed it was missing. He got the Tweedles involved, everything got more... complicated."
+},
+{
+"k": "34310",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]It's okay. Just calm down."
+},
+{
+"k": "34311",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][to herself]Just hoping that maybe, if I couldn't save them..."
+},
+{
+"k": "34312",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][to herself; whispered]I could at least... save the rest of us."
+},
+{
+"k": "34313",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Here."
+},
+{
+"k": "34314",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Thank you."
+},
+{
+"k": "34315",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]They thought they could get away with it because... because to them I'm just a whore."
+},
+{
+"k": "34316",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]But I started this, and I wasn't gonna let it end this way."
+},
+{
+"k": "34317",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Someone like me turns up dead... and people just look the other way."
+},
+{
+"k": "34318",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]The Crooked Man was counting on that."
+},
+{
+"k": "34319",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]If they even notice at all."
+},
+{
+"k": "34320",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]To them we're just..."
+},
+{
+"k": "34321",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Not worth the time."
+},
+{
+"k": "34322",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]We all have a part in this."
+},
+{
+"k": "34323",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][tense; holding back emotion]{WorriedA}I needed to make them pay for what they did to her. To both of them."
+},
+{
+"k": "34324",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]But then Faith decided to get some… leverage. She stole a picture of Crane and Lily together."
+},
+{
+"k": "34325",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "We had dirt on one of the Crooked Man's allies. Once he found out- There's no way they'd just let us leave!"
+},
+{
+"k": "34326",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]I guess she thought we could bribe him, or something..."
+},
+{
+"k": "34327",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "It should've been simple… but Faith decided to get some… leverage."
+},
+{
+"k": "34328",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Crane said he could get our ribbons removed. Said he knew people…"
+},
+{
+"k": "34329",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]The minute Faith stole that photo, we had dirt on one of the Crooked Man's allies. If he found out- !"
+},
+{
+"k": "34330",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Crane said he could get our ribbons removed. Said he knew people."
+},
+{
+"k": "34331",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]The minute Faith stole that photo, we had dirt on one of the Crooked Man's allies. If he found out--!"
+},
+{
+"k": "34332",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]What happened... can you tell me anything else?"
+},
+{
+"k": "34333",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[Touch her arm]"
+},
+{
+"k": "34334",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "Tell me more."
+},
+{
+"k": "34335",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[Give her a cigarette]"
+},
+{
+"k": "34336",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]Do you know where Faith... where they left her body?"
+},
+{
+"k": "34337",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1][disappointed; to himself] She deserved so much better."
+},
+{
+"k": "34338",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]If we can find her, maybe--"
+},
+{
+"k": "34339",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup1]You... what?"
+},
+{
+"k": "34340",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[new]He had to make an example of us... we had committed treason."
+},
+{
+"k": "34341",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2][whispered]Oh god..."
+},
+{
+"k": "34342",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]Georgie, he..."
+},
+{
+"k": "34343",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "That piece of fabric..."
+},
+{
+"k": "34344",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "That blood I found..."
+},
+{
+"k": "34345",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "That ring in her mouth..."
+},
+{
+"k": "34346",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]So you... you started all this?"
+},
+{
+"k": "34347",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]It seems like no matter what I do, it's just... not enough for her. Or anyone."
+},
+{
+"k": "34348",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]I don't know..."
+},
+{
+"k": "34349",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]I know it might feel that way, but... they need you, Bigby. Both of you."
+},
+{
+"k": "34350",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]What's the point in trying to help these people if they're just gonna hate me anyway?"
+},
+{
+"k": "34351",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2][frustrated; angry]I just- I go out there and I do my job... I put my life on the line, I get shot at... I do what has to be done for them."
+},
+{
+"k": "34352",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]I put my life on the line, get shot at for them."
+},
+{
+"k": "34353",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2][frustrated]To them I'll always be the Big Bad Wolf."
+},
+{
+"k": "34354",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]None one said the job would be easy."
+},
+{
+"k": "34355",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]I know... but they'll come around. You'll see..."
+},
+{
+"k": "34356",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]They still think I'm a monster."
+},
+{
+"k": "34357",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]I keep them all safe in their little beds while I get shot at, but you know what?"
+},
+{
+"k": "34358",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]In the end none of it matters. Everyone has an opinion, everyone thinks I'm the bad guy."
+},
+{
+"k": "34359",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]In the end, none of that matters."
+},
+{
+"k": "34360",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]Everyone has an opinion, everyone thinks I'm the bad guy."
+},
+{
+"k": "34361",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]What's the point?"
+},
+{
+"k": "34362",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]They'll come around."
+},
+{
+"k": "34363",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2][frustrated; sad]It doesn't make any difference... I'll always be the Big Bad Wolf to them."
+},
+{
+"k": "34364",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]But at the end of the day, I'm still the bad guy."
+},
+{
+"k": "34365",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2][frustrated]I can't make everyone happy."
+},
+{
+"k": "34366",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]You'll see..."
+},
+{
+"k": "34367",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2][quiet; surprised]You?"
+},
+{
+"k": "34368",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]I just can't win with these people."
+},
+{
+"k": "34369",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]You listened... when no one else would."
+},
+{
+"k": "34370",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]You protected your friends... no matter the cost."
+},
+{
+"k": "34371",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]You knew when to show mercy..."
+},
+{
+"k": "34372",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "And you brought justice to this town... finally."
+},
+{
+"k": "34373",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]If you hadn't killed the Crooked Man back there, he would've just talked his way out of it like he always does."
+},
+{
+"k": "34374",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]Because you brought the Crooked Man in, everyone saw who he really was."
+},
+{
+"k": "34375",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]So from where I'm standing... you did the right thing."
+},
+{
+"k": "34376",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]Fabletown needs the Big Bad Wolf."
+},
+{
+"k": "34377",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]You've been given this job for a reason."
+},
+{
+"k": "34378",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][for MKTG]You're not as bad as everyone says you are."
+},
+{
+"k": "34379",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]We all do."
+},
+{
+"k": "34380",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]Look, Bigby..."
+},
+{
+"k": "34381",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]Maybe they don't want to admit it, but... without the \"Big Bad Wolf\", none of this would have happened."
+},
+{
+"k": "34382",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]After everything you've done for us-"
+},
+{
+"k": "34383",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]if anyone stood a chance against the Crooked Man, it was you."
+},
+{
+"k": "34384",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]And I left Faith at your doorstep, because I knew..."
+},
+{
+"k": "34385",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]You've changed this place."
+},
+{
+"k": "34386",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]You're really not as bad as everyone says you are."
+},
+{
+"k": "34387",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]You're really not as bad as they say you are."
+},
+{
+"k": "34388",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]You're not as bad as they say you are."
+},
+{
+"k": "34389",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][smiling]You wanna know something?"
+},
+{
+"k": "34390",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT] You're still not as bad as they say you are."
+},
+{
+"k": "34391",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]After all that's happened..."
+},
+{
+"k": "34392",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]You're not so bad afterall."
+},
+{
+"k": "34393",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup4][ALT]Will I see you around?"
+},
+{
+"k": "34394",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]You just might."
+},
+{
+"k": "34395",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]Maybe someday."
+},
+{
+"k": "34396",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]Maybe they don't want to admit it, but... without you, none of this would have happened."
+},
+{
+"k": "34397",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]You've changed this place."
+},
+{
+"k": "34398",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]Take care of yourself, Bigby."
+},
+{
+"k": "34399",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup2]So, what are you gonna do now?"
+},
+{
+"k": "34400",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]"
+},
+{
+"k": "34401",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3] Fabletown wouldn't be the same without you."
+},
+{
+"k": "34402",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]But you've also done a lot of good. Don't forget that."
+},
+{
+"k": "34403",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]You've done a lot of good here too. Remember that."
+},
+{
+"k": "34404",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][sigh]I'm getting out of the city. [beat] There's just too much... too much I'm trying to forget here."
+},
+{
+"k": "34405",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]Try to make Faith and Lily proud."
+},
+{
+"k": "34406",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]Take care of them, Bigby."
+},
+{
+"k": "34407",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup4]Send me a message."
+},
+{
+"k": "34408",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]I just... pointed you in the right direction."
+},
+{
+"k": "34409",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3][ALT]I know."
+},
+{
+"k": "34410",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]If you hadn't killed the Crooked Man back there, who knows what h"
+},
+{
+"k": "34411",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[pickup3]Because of what you did, the Crooked Man finally knows the pain he put us through. Knows what it's like to be powerless... without a voice of your own."
+},
+{
+"k": "34412",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[Let Her Go]"
+},
+{
+"k": "34413",
+"who": "",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[Go After Her]"
+},
+{
+"k": "34414",
+"who": "FAITH",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357138781]I'll see you around... Wolf."
+},
+{
+"k": "34415",
+"who": "FAITH",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357138782]I need to tell you something."
+},
+{
+"k": "34416",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[edited down 57560577]I have to tell you something."
+},
+{
+"k": "34417",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357250488]You're trying to place me."
+},
+{
+"k": "34418",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357139054]I feel like we've met before."
+},
+{
+"k": "34419",
+"who": "GREENLEAF",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "You have no idea what's going on, do you?"
+},
+{
+"k": "34420",
+"who": "PORGIE",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "People get up to all kinds of things when nobody's watching."
+},
+{
+"k": "34421",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357212788]Did Dr. Swineheart ever get back to you about Faith?"
+},
+{
+"k": "34422",
+"who": "SNOW",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[edited down 357213406]He said he wanted to run more tests."
+},
+{
+"k": "34423",
+"who": "BIGBY",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357524160]Faith wore one too."
+},
+{
+"k": "34424",
+"who": "BUFKIN",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[edited down 357110026]Would hide her beauty, so she could escape his kingdom."
+},
+{
+"k": "34425",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357523808]Do you like it?"
+},
+{
+"k": "34426",
+"who": "FAITH",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[cut down from 357113861]You like my ribbon?"
+},
+{
+"k": "34427",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357250491]They used to call me The Little Mermaid."
+},
+{
+"k": "34428",
+"who": "NERISSA",
+"ctx": "Fables105/env_woodlandstreet",
+"en": "[357250645]I hope you find what you're looking for."
+},
+{
+"k": "34429",
+"who": "FAITH",
+"ctx": "Fables105/previouslyon_episode4",
+"en": "I mean... Your eyes... and the teeth... you're not really supposed to do that are you?"
+},
+{
+"k": "34430",
+"who": "CHOIRE",
+"ctx": "Fables105/previouslyon_episode4",
+"en": "env_greenleafApt_cs_bigbyBurnsTree_1.chore"
+},
+{
+"k": "34431",
+"who": "HOLLYTROLL",
+"ctx": "Fables105/previouslyon_episode4",
+"en": "[half-asleep]Be honest, Sheriff..."
+}
+]

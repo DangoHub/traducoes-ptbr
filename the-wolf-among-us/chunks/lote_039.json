@@ -1,0 +1,1838 @@
+[
+{
+"k": "10253",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[whatever] You know, that's funny coming from you."
+},
+{
+"k": "10254",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "You're not touching him."
+},
+{
+"k": "10255",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[shocked] Miss White! How is-- how-- are you alright?"
+},
+{
+"k": "10256",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[wanting to quickly move past this] I'm fine. I've been fine--"
+},
+{
+"k": "10257",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Then who--?"
+},
+{
+"k": "10258",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Who is the woman in--?"
+},
+{
+"k": "10259",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[confused] You were dead."
+},
+{
+"k": "10260",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired; annoyed]] No, Bluebeard, I was never dead, but, you know, I understand the confusion."
+},
+{
+"k": "10261",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[tired; quick breath] Hi, Bigby."
+},
+{
+"k": "10262",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "We wanted answers, Snow."
+},
+{
+"k": "10263",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Now that you're back, I don't really know."
+},
+{
+"k": "10264",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[annoyed] Which girl."
+},
+{
+"k": "10265",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; angry] Faith, alright! That's it! Faith! This pup here knows."
+},
+{
+"k": "10266",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; angry] Someone else was supposed to show up and this bitch I don't even know comes over!"
+},
+{
+"k": "10267",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "So. Why did you run at the bar?"
+},
+{
+"k": "10268",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "So. Why were your friends covering for you?"
+},
+{
+"k": "10269",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "So. Why were you beating on Faith, really?"
+},
+{
+"k": "10270",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "So. Where'd you go after our fight?"
+},
+{
+"k": "10271",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Okay, that's something, you weren't talking about Snow. But who did you mean?"
+},
+{
+"k": "10272",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Where are you talking about? Where was she \"supposed\" to be? What was supposed to happen?"
+},
+{
+"k": "10273",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[very tired] Nothin'. Nothin' was supposed to happen. It's my own shit, alright, just forget it."
+},
+{
+"k": "10274",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] This has nothing to do with the fucking killings. I can't tell you shit."
+},
+{
+"k": "10275",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Stop protecting whoever murdered these women."
+},
+{
+"k": "10276",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; sad] I was expecting someone else and this girl I didn't even know shows up!"
+},
+{
+"k": "10277",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Faith? This is about her?"
+},
+{
+"k": "10278",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Faith? This has to do with Faith?"
+},
+{
+"k": "10279",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Her sister's--"
+},
+{
+"k": "10280",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "From the Trip Trap?"
+},
+{
+"k": "10281",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Her sister's a--"
+},
+{
+"k": "10282",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "A thorough retelling of the Woodsman's sexual misadventures."
+},
+{
+"k": "10283",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; tired] [cut]She would kill me if she ever found out that I was… you know, just another John banging her sister."
+},
+{
+"k": "10284",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; tired] I was a regular of hers, okay? I paid, she did her thing, and that was it."
+},
+{
+"k": "10285",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; pissed] When Faith came to the door, it just set me off… Lily usually comped me if I didn't have cash. Fuckin' bitch Faith didn't have any decency."
+},
+{
+"k": "10286",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; tired] [cut]It wasn't a big deal, not really, but… Holly and her, they have some shit going on. Holly really fucking hates Lily whoring herself."
+},
+{
+"k": "10287",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; sad] When Faith came to the door, it just set me off… Lily usually comped me if I didn't have cash. Faith didn't want to give me a break."
+},
+{
+"k": "10288",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[punch drunk; sad] No one's behind anything. This-- I can't get into it. It's my own personal shit, so fuck off."
+},
+{
+"k": "10289",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[turning to Bigby, shouting now] How about we take off his pants next and you can suck him off!"
+},
+{
+"k": "10290",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "I thought you were dead for hours…"
+},
+{
+"k": "10291",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[in his own head; weakly] It perhaps got a little… out of control."
+},
+{
+"k": "10292",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "To know you're just trying your fucking best, and to still get shit on, day and night?"
+},
+{
+"k": "10293",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm; cold] You may not share my glee, however, once the fun begins."
+},
+{
+"k": "10294",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm; cold] You are in way more trouble than you know, Woody."
+},
+{
+"k": "10295",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[calm] And if you don't start talking, and I mean fast, there's nothing that'll stop them from turning you into lunch meat."
+},
+{
+"k": "10296",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Duty called."
+},
+{
+"k": "10297",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "\"Duty?\" This isn't your job. You don't even [emphatic/]have[/] a job."
+},
+{
+"k": "10298",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Prescription Bottle"
+},
+{
+"k": "10299",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Pamphlet"
+},
+{
+"k": "10300",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Cigarettes"
+},
+{
+"k": "10301",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Booze"
+},
+{
+"k": "10302",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Start talking, now."
+},
+{
+"k": "10303",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Talk or I'll chew you up."
+},
+{
+"k": "10304",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[finished drinking sound] [sighs; tired] Thanks."
+},
+{
+"k": "10305",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[quick cough]"
+},
+{
+"k": "10306",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[finishes drinking] [sighs; tired] …never get tired of that."
+},
+{
+"k": "10307",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Thanks again."
+},
+{
+"k": "10308",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "{body-SitCuffed}[tired] Why not."
+},
+{
+"k": "10309",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[getting angry] Oh, this is a fine show, isn't it!"
+},
+{
+"k": "10310",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup1][punch drunk; pissed] Sing it to the fuckin' clouds, Sheriff, cause I don't give a shit."
+},
+{
+"k": "10311",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup1][punch drunk; pissed] Tell you what. You let me bite your goddamn nose off, we'll call this whole thing even."
+},
+{
+"k": "10312",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup1][very tired; sad] I'd tell you somethin' if there was something to tell."
+},
+{
+"k": "10313",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup1][very tired; sad] I don't know what you think I know, but there's just…there's nothin' there, Sheriff."
+},
+{
+"k": "10314",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "It's not what it looks like!"
+},
+{
+"k": "10315",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Faith."
+},
+{
+"k": "10316",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Why don't you start with the first girl… the prostitute."
+},
+{
+"k": "10317",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Why don't you tell us about the first girl… the prostitute."
+},
+{
+"k": "10318",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Where were you when she was murdered?"
+},
+{
+"k": "10319",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][talking almost to himself; punch drunk] Look, I got nothin' to say. So just-- just let me go."
+},
+{
+"k": "10320",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] It's fine to use force, but…"
+},
+{
+"k": "10321",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][a little louder to Bigby] Think you can handle it?"
+},
+{
+"k": "10322",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] We must do whatever it takes to find the killer."
+},
+{
+"k": "10323",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Don't forget what we talked about."
+},
+{
+"k": "10324",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Yes."
+},
+{
+"k": "10325",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][curious; apprehensive] What did you tell him?"
+},
+{
+"k": "10326",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][fed up; under breath] Oh, give me a break."
+},
+{
+"k": "10327",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] We need answers, Bigby."
+},
+{
+"k": "10328",
+"who": "CRANE",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Though it's ultimately up to you… of course."
+},
+{
+"k": "10329",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][punch drunk, reluctant]The girl… it was…"
+},
+{
+"k": "10330",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][punch drunk; sad] Listen, it's not what you think. If I told you [stops himself]… No, I can't get into it. It's my own personal shit, so fuck off."
+},
+{
+"k": "10331",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][very tired; muttering to himself] You've got it all wrong, I-- I can't. Just leave it alone."
+},
+{
+"k": "10332",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][very tired; muttering] I don't wanna talk about it."
+},
+{
+"k": "10333",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][very tired; muttering] Please, Bigby."
+},
+{
+"k": "10334",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] I can't leave it alone, Woody. You need to tell me what you know."
+},
+{
+"k": "10335",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][very tired] She was…[stops himself]"
+},
+{
+"k": "10336",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][punch drunk; angry] This is bullshit! It's not what you think-- I don't-- It's nothing, okay! Just leave it alone!"
+},
+{
+"k": "10337",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][cold] I can't just leave it alone, Woody. You need to tell me what you know."
+},
+{
+"k": "10338",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][ALT][punch drunk; pissed] Listen, I-- I can't tell you shit."
+},
+{
+"k": "10339",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Let me handle this."
+},
+{
+"k": "10340",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][very tired] Please! I don't-- I don't wanna look at that."
+},
+{
+"k": "10341",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][very tired] Just… put that away. Okay."
+},
+{
+"k": "10342",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][punch drunk; uncomfortable] I don't-- I don't wanna look at that shit."
+},
+{
+"k": "10343",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][punch drunk; angry] So just put that away!"
+},
+{
+"k": "10344",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][scoffs] Really?"
+},
+{
+"k": "10345",
+"who": "WOODSMAN",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2][very tired; impatient]What do you want, Sheriff?"
+},
+{
+"k": "10346",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2] Don't fall for his lies, Bigby. He knows something."
+},
+{
+"k": "10347",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[pickup2]Looks like you'll have to beat it out of him."
+},
+{
+"k": "10348",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me why you ran."
+},
+{
+"k": "10349",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Again, why did you run?"
+},
+{
+"k": "10350",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me why your friends hid you."
+},
+{
+"k": "10351",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Again, why did your friends hide you?"
+},
+{
+"k": "10352",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me why you hurt Faith."
+},
+{
+"k": "10353",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What did Faith do to you?"
+},
+{
+"k": "10354",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Examine Again"
+},
+{
+"k": "10355",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Where were you when Faith died?"
+},
+{
+"k": "10356",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Again, what's your alibi?"
+},
+{
+"k": "10357",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What's your alibi?"
+},
+{
+"k": "10358",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What about Snow?"
+},
+{
+"k": "10359",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Talk to me about Snow."
+},
+{
+"k": "10360",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Again, what about Snow?"
+},
+{
+"k": "10361",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What did you mean about Snow?"
+},
+{
+"k": "10362",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me what you meant about Snow."
+},
+{
+"k": "10363",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Who were you talking about?"
+},
+{
+"k": "10364",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me who you're talking about."
+},
+{
+"k": "10365",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "What what supposed to happen?"
+},
+{
+"k": "10366",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me what you expected to happen."
+},
+{
+"k": "10367",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Again, who were you expecting?"
+},
+{
+"k": "10368",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Tell me who you were expecting."
+},
+{
+"k": "10369",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Work with me, and you can go."
+},
+{
+"k": "10370",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Just work with me."
+},
+{
+"k": "10371",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Don't fuck with me, Woody."
+},
+{
+"k": "10372",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Yeah, \"help.\""
+},
+{
+"k": "10373",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "Where were you?"
+},
+{
+"k": "10374",
+"who": "",
+"ctx": "Fables102/env_fabletown_woodlandscell_woodsman",
+"en": "[leave him alone]"
+},
+{
+"k": "10375",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I thought you were dead."
+},
+{
+"k": "10376",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I thought he knew something."
+},
+{
+"k": "10377",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "It wasn't my fault."
+},
+{
+"k": "10378",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedB}I thought you were dead, Snow."
+},
+{
+"k": "10379",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SadB}[serious] I know."
+},
+{
+"k": "10380",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I knew you weren't dead."
+},
+{
+"k": "10381",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Sure you did."
+},
+{
+"k": "10382",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Where were you, Snow?"
+},
+{
+"k": "10383",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Where have you been?"
+},
+{
+"k": "10384",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}What the hell was going on down there, Bigby?"
+},
+{
+"k": "10385",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{NormalA}After our conversation in the taxi last night, I got a call from Toad. {WorriedA}He said his son found a body."
+},
+{
+"k": "10386",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "He said his son found the body. You remember TJ."
+},
+{
+"k": "10387",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Well, was it worth it?"
+},
+{
+"k": "10388",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Dealing with the body…"
+},
+{
+"k": "10389",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Eventually he calmed down and led us to her body."
+},
+{
+"k": "10390",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "We never could get him to finish the story. Whenever I ask him what he saw after the body fell in, he just stops talking. Won't say another word."
+},
+{
+"k": "10391",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[remembering] We thought it was Faith at the time."
+},
+{
+"k": "10392",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I should have been there."
+},
+{
+"k": "10393",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I'm glad you took care of it."
+},
+{
+"k": "10394",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "That's not your job."
+},
+{
+"k": "10395",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedB}I should have been there, Snow."
+},
+{
+"k": "10396",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}I couldn't find you. {FlusteredA}Or anyone."
+},
+{
+"k": "10397",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}I tried calling the Business Office, {AngryA}but there was no answer."
+},
+{
+"k": "10398",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Then when I got back this morning, it was practically deserted."
+},
+{
+"k": "10399",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I guess you were still in custody."
+},
+{
+"k": "10400",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[explaining] Bufkin filled me in."
+},
+{
+"k": "10401",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{HappyA}I'm glad you took care of things.{NormalA}"
+},
+{
+"k": "10402",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SarcasticA}Thanks. {NormalA}"
+},
+{
+"k": "10403",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I'm glad you're not dead."
+},
+{
+"k": "10404",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I should talk to TJ."
+},
+{
+"k": "10405",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}I'm glad you're {HappyA}not dead."
+},
+{
+"k": "10406",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{HappyA}Me too."
+},
+{
+"k": "10407",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{FlusteredA}It's hard to believe this is happening. {SadB}Especially here."
+},
+{
+"k": "10408",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB} [cut] Some Fables don't like me. {WorriedA}I know that."
+},
+{
+"k": "10409",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SadA}I feel responsible, {SadB}in a way. She looked just like me."
+},
+{
+"k": "10410",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{FearA}[hint of worry]  [cut] But to want me dead…"
+},
+{
+"k": "10411",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "No one wants you dead."
+},
+{
+"k": "10412",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You need to be careful."
+},
+{
+"k": "10413",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I don't think it's about you."
+},
+{
+"k": "10414",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{DoubtfulA}I'm sure no one wants you dead."
+},
+{
+"k": "10415",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedA}[tense] I'm hard pressed to think of a better explanation."
+},
+{
+"k": "10416",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You're in danger, Snow."
+},
+{
+"k": "10417",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{NormalA}I don't think it's about you. {ThinkingB}There's something else going on here."
+},
+{
+"k": "10418",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I think they might be trying to get to me."
+},
+{
+"k": "10419",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "It was my head, Bigby."
+},
+{
+"k": "10420",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}Maybe."
+},
+{
+"k": "10421",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Yeah. I guess you're right."
+},
+{
+"k": "10422",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Luckily it wasn't you."
+},
+{
+"k": "10423",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I wouldn't say that."
+},
+{
+"k": "10424",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You say it's lucky…that woman is still dead, Bigby."
+},
+{
+"k": "10425",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[low] Don't say that."
+},
+{
+"k": "10426",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "It's just lucky it wasn't you."
+},
+{
+"k": "10427",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I'm just a little on edge… I guess. With everything that's happened."
+},
+{
+"k": "10428",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I don't know why she looks like me, but whoever she is… she still matters."
+},
+{
+"k": "10429",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "She had friends, family, a whole life she never got to live …there's nothing lucky about that."
+},
+{
+"k": "10430",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[worried] It's only getting worse, isn't it?"
+},
+{
+"k": "10431",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You would have survived."
+},
+{
+"k": "10432",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[worried] Two Fables are dead now."
+},
+{
+"k": "10433",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You should lie low."
+},
+{
+"k": "10434",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "We keep working."
+},
+{
+"k": "10435",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I'll figure this out."
+},
+{
+"k": "10436",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}Until we figure out what's going on."
+},
+{
+"k": "10437",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB}Maybe you should lie low for a while."
+},
+{
+"k": "10438",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryC}[annoyed] And what?"
+},
+{
+"k": "10439",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{MockingA}Don't worry."
+},
+{
+"k": "10440",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}I'll figure this out."
+},
+{
+"k": "10441",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryC}[annoyed] And what am I supposed to do?"
+},
+{
+"k": "10442",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}Sit around the Business Office twiddling my thumbs? {AngryC}Waiting for the Big Bad Wolf to solve all my problems?"
+},
+{
+"k": "10443",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I'm the Sheriff."
+},
+{
+"k": "10444",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{FlusteredB}Then what did you mean? I told you, {AngryA}I'm tired of sitting around!"
+},
+{
+"k": "10445",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB}That's not what I meant."
+},
+{
+"k": "10446",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryA}I'm the sheriff, Snow."
+},
+{
+"k": "10447",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryA}And what am I here for then?"
+},
+{
+"k": "10448",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}I'm not going to be an errand girl for Crane anymore!"
+},
+{
+"k": "10449",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryC}I just want you to be careful. {WorriedA}I almost lost you once-"
+},
+{
+"k": "10450",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryC}I'm not yours to lose!"
+},
+{
+"k": "10451",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I know it's dangerous out there, but I'm not helpless you know."
+},
+{
+"k": "10452",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I appreciate your trying to look out for me, I really do, but I don't need you holding my hand through this."
+},
+{
+"k": "10453",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I'm sorry I brought it up."
+},
+{
+"k": "10454",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Let's just get to work."
+},
+{
+"k": "10455",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I didn't know you felt that way."
+},
+{
+"k": "10456",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedA}We're a team, {SarcasticA}aren't we?"
+},
+{
+"k": "10457",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Are we?"
+},
+{
+"k": "10458",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I work alone."
+},
+{
+"k": "10459",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{MockingA}Of course we are."
+},
+{
+"k": "10460",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Then let's get to work."
+},
+{
+"k": "10461",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[concerned] He's pretty shaken up though, so try not to be too…"
+},
+{
+"k": "10462",
+"who": "",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Myself."
+},
+{
+"k": "10463",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SarcasticA}Myself."
+},
+{
+"k": "10464",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{HappyA}Right."
+},
+{
+"k": "10465",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I guess that means you also know where I was last night."
+},
+{
+"k": "10466",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{DoubtfulA}That' s not your job, Snow."
+},
+{
+"k": "10467",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SurprisedA}[annoyed] {AngryC}What was I supposed to do?"
+},
+{
+"k": "10468",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ConfusedB}Are-- Are you going to be {WorriedB}okay?"
+},
+{
+"k": "10469",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{FlusteredB}I'll be fine."
+},
+{
+"k": "10470",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{DoubtfulA}I mean… {WorriedB}with all that's happened…"
+},
+{
+"k": "10471",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "We have two murders to deal with now."
+},
+{
+"k": "10472",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[sighs] I don't know which is worse."
+},
+{
+"k": "10473",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "So it's either a serial killer or two unrelated assholes…"
+},
+{
+"k": "10474",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB}I go out and do the dirty work to {DoubtfulA}keep you all safe."
+},
+{
+"k": "10475",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}It's too dangerous out there."
+},
+{
+"k": "10476",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Then that's on me!"
+},
+{
+"k": "10477",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "That's my risk to take."
+},
+{
+"k": "10478",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedB}Sorry I brought it up."
+},
+{
+"k": "10479",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB}I want us to work together on this."
+},
+{
+"k": "10480",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}I just…{SadA}"
+},
+{
+"k": "10481",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{DoubtfulA}Let's just get to work."
+},
+{
+"k": "10482",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingC}We can help each other, Bigby."
+},
+{
+"k": "10483",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedB}I didn't know you felt that way."
+},
+{
+"k": "10484",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedA}It's hard… {SadA}feeling like you could do so much more, but everyone just says {AngryA}you can't, or it's too hard, or too dangerous."
+},
+{
+"k": "10485",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}I've heard every excuse."
+},
+{
+"k": "10486",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedA}I just want us to work together on this."
+},
+{
+"k": "10487",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ConfusedA}Are we?"
+},
+{
+"k": "10488",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SadB}I thought we were."
+},
+{
+"k": "10489",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryA}[cold] I work alone."
+},
+{
+"k": "10490",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{MockingA}What?"
+},
+{
+"k": "10491",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}Just be nice. Okay?"
+},
+{
+"k": "10492",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SarcasticA}I'm always nice."
+},
+{
+"k": "10493",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{MockingB}I can handle the kid."
+},
+{
+"k": "10494",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You know…"
+},
+{
+"k": "10495",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Or at least to figure out who she is."
+},
+{
+"k": "10496",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I don't know what to think."
+},
+{
+"k": "10497",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}[tense] We just have to find out who did this."
+},
+{
+"k": "10498",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[annoyed] I tried calling the Business Office, but there was no answer."
+},
+{
+"k": "10499",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "What does that mean?"
+},
+{
+"k": "10500",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB}We just have to keep doing our jobs."
+},
+{
+"k": "10501",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryC}[annoyed] And I'm supposed to do what?"
+},
+{
+"k": "10502",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryA}Because that's what my job is right now."
+},
+{
+"k": "10503",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You said you trusted me to make the right decision."
+},
+{
+"k": "10504",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I know you had reservations about me helping out, you said as much in the taxi last night.  But I've proven myself."
+},
+{
+"k": "10505",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Last night you said you appreciated my help."
+},
+{
+"k": "10506",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Last night you said I was doing a good job."
+},
+{
+"k": "10507",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You told me as much in the taxi."
+},
+{
+"k": "10508",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "surreal."
+},
+{
+"k": "10509",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Is it my fault…"
+},
+{
+"k": "10510",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "It could have so easily been me."
+},
+{
+"k": "10511",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "that she died?"
+},
+{
+"k": "10512",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "If they came after me instead of her…"
+},
+{
+"k": "10513",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "But they didn't."
+},
+{
+"k": "10514",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "And now a woman is dead!"
+},
+{
+"k": "10515",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You're a well-known Fable. Still in all the mundy stories. It's a lot harder to kill you than…"
+},
+{
+"k": "10516",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "She had friends… a family."
+},
+{
+"k": "10517",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "We don't even know who she was."
+},
+{
+"k": "10518",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Than her."
+},
+{
+"k": "10519",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "there's nothing lucky about that."
+},
+{
+"k": "10520",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "but just because I'm more…"
+},
+{
+"k": "10521",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[disgusted] popular."
+},
+{
+"k": "10522",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "That means I get to live, and she doesn't?"
+},
+{
+"k": "10523",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "All that is just gone."
+},
+{
+"k": "10524",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "She had a whole life, Bigby. Friends, family…"
+},
+{
+"k": "10525",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingB}So what's our next move?"
+},
+{
+"k": "10526",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You're really not going to tell me what you're thinking?"
+},
+{
+"k": "10527",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You know, I'm not going to sit by and do nothing."
+},
+{
+"k": "10528",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You're always so secretive."
+},
+{
+"k": "10529",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryC}If we're going to work together on this, you need to actually talk to me."
+},
+{
+"k": "10530",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "We should help eachother out."
+},
+{
+"k": "10531",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SarcasticA}You know…"
+},
+{
+"k": "10532",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedA}[if you say so, but I have slight reservations]Okay."
+},
+{
+"k": "10533",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedB}I'd like {ThinkingB}to talk to TJ about what he saw."
+},
+{
+"k": "10534",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "That's about it."
+},
+{
+"k": "10535",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I couldn't recover anything else from the river. Whoever dumped that body covered their tracks pretty well."
+},
+{
+"k": "10536",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "You can try talking to TJ. He didn't have much information, but maybe he'll remember something."
+},
+{
+"k": "10537",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Like I said, the body is waiting upstairs. Hopefully that will lead us somewhere."
+},
+{
+"k": "10538",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Snow…"
+},
+{
+"k": "10539",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "It seems like"
+},
+{
+"k": "10540",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}If someone wants you dead, at some point they'll realize {DoubtfulA}they missed their target."
+},
+{
+"k": "10541",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryA}[serious] And they'll come looking for me."
+},
+{
+"k": "10542",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Just when I thought it couldn't get worse…"
+},
+{
+"k": "10543",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "We can't even keep our own people safe."
+},
+{
+"k": "10544",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{FlusteredB}If you don't want my help, {WorriedA}then say so."
+},
+{
+"k": "10545",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryB}But I am not going back to just sitting around the Business Office twiddling my thumbs {AngryA}while you do all the real work."
+},
+{
+"k": "10546",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{HappyA}Good."
+},
+{
+"k": "10547",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{AngryA}[annoyed] Abusing a prisoner like that…"
+},
+{
+"k": "10548",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I guess I'm just a little worked up about it."
+},
+{
+"k": "10549",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "I just don't want to do nothing. I can't do nothing."
+},
+{
+"k": "10550",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "And with Crane… [sigh] You know how he is."
+},
+{
+"k": "10551",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{SadA}I'm sorry."
+},
+{
+"k": "10552",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{ThinkingA}I can take care of myself."
+},
+{
+"k": "10553",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{NormalA}I've been doing it for centuries."
+},
+{
+"k": "10554",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "He was just going on about big grey blocks and… rocks. I don't know."
+},
+{
+"k": "10555",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "Though we were able to get him to lead us to her."
+},
+{
+"k": "10556",
+"who": "BIGBY",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "{WorriedA}I thought Dee knew something."
+},
+{
+"k": "10557",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[annoyed] And did he?"
+},
+{
+"k": "10558",
+"who": "SNOW",
+"ctx": "Fables102/env_fabletownwoodlandslobby_walkandtalk",
+"en": "[annoyed] Well, I hope it was worth it."
+}
+]

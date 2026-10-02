@@ -1,0 +1,884 @@
+[
+{
+"k": "0",
+"who": "",
+"ctx": "Boot/boot",
+"en": "elltale and the Telltale Games logo are trademarks of Telltale, Inc.  All rights reserved.  ©2010 Sam & Max Created by Steve Purcell.  Sam & Max Copyright and Trademark Steve Purcell.  Homestar Runner World and Characters Created by Mike Chapman and Matt Chapman. The Heavy is the property of Valve.  Tycho is the property of Penny Arcade.  “Max,” “Strong Bad,” “The Heavy” and “Tycho” each appear in Poker Night at the Inventory under license from their respective owners."
+},
+{
+"k": "1",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Telltale and the Telltale Games logo are trademarks of Telltale, Inc.  All rights reserved.  ©2010 Sam & Max Created by Steve Purcell.  Sam & Max Copyright and Trademark Steve Purcell.  Homestar Runner World and Characters Created by Mike Chapman and Matt Chapman. The Heavy is the property of Valve.  Tycho is the property of Penny Arcade.  “Max,” “Strong Bad,” “The Heavy” and “Tycho” each appear in Poker Night at the Inventory under license from their respective owners."
+},
+{
+"k": "2",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Connecting to Telltale Games"
+},
+{
+"k": "3",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Press START to begin"
+},
+{
+"k": "4",
+"who": "",
+"ctx": "Boot/boot",
+"en": "© 2013. Telltale, Inc. Telltale, Telltale Games and the Telltale Games logo are trademarks of Telltale, Inc. All Rights Reserved. © Bill Willingham and DC Comics ™ Bill Willingham (2013). © Bill Willingham and DC Comics FABLES:  ™  Bill Willingham WBIE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s13)"
+},
+{
+"k": "5",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Click anywhere to begin"
+},
+{
+"k": "6",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Tap the screen to begin"
+},
+{
+"k": "7",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Connecting..."
+},
+{
+"k": "8",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Can't Login"
+},
+{
+"k": "9",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Signout and Retry Login or Exit Game"
+},
+{
+"k": "10",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Don't Own Game"
+},
+{
+"k": "11",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Go Online to www.telltalegames.com and Buy Game, Signout or Exit Game"
+},
+{
+"k": "12",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Exit"
+},
+{
+"k": "13",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Signout"
+},
+{
+"k": "14",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Buy Game"
+},
+{
+"k": "15",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Select"
+},
+{
+"k": "16",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Login Error"
+},
+{
+"k": "17",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Can't communicate with Telltale Servers"
+},
+{
+"k": "18",
+"who": "",
+"ctx": "Boot/boot",
+"en": "Ok"
+},
+{
+"k": "19",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "SHERIFF BIGBY"
+},
+{
+"k": "20",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "TAKING WORK HOME"
+},
+{
+"k": "21",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "CHOICES"
+},
+{
+"k": "22",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "CONSEQUENCES"
+},
+{
+"k": "23",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "NEED A NAME"
+},
+{
+"k": "24",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "5"
+},
+{
+"k": "25",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "1"
+},
+{
+"k": "26",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE TRIP TRAP"
+},
+{
+"k": "27",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "3"
+},
+{
+"k": "28",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "6"
+},
+{
+"k": "29",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "2"
+},
+{
+"k": "30",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "4"
+},
+{
+"k": "31",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "MIRROR MIRROR"
+},
+{
+"k": "32",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "TRIP TRAP"
+},
+{
+"k": "33",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "DISTURBANCE"
+},
+{
+"k": "34",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE WOODLANDS"
+},
+{
+"k": "35",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "REUNION"
+},
+{
+"k": "36",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "NEXT OF KIN"
+},
+{
+"k": "37",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "Police Station"
+},
+{
+"k": "38",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "xxxxxxxxxxx"
+},
+{
+"k": "39",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "xxxxxxxxxxxx"
+},
+{
+"k": "40",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "Snow"
+},
+{
+"k": "41",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "Trip Trap"
+},
+{
+"k": "42",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "Pudding N Pie"
+},
+{
+"k": "43",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "Open Arms"
+},
+{
+"k": "44",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "Bloody Bed"
+},
+{
+"k": "45",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "SISTERS"
+},
+{
+"k": "46",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "PUDDING PIE"
+},
+{
+"k": "47",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "OPEN ARMS"
+},
+{
+"k": "48",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "CHANCE OF SNOW"
+},
+{
+"k": "49",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE PRECINCT"
+},
+{
+"k": "50",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "LAST NIGHT"
+},
+{
+"k": "51",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "GRIEF"
+},
+{
+"k": "52",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "WRATH"
+},
+{
+"k": "53",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "BLOOD"
+},
+{
+"k": "54",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "SKIN"
+},
+{
+"k": "55",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "SECRETS"
+},
+{
+"k": "56",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "REVELATIONS"
+},
+{
+"k": "57",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "MARCHING SONG"
+},
+{
+"k": "58",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "TAKING CARE OF BUSINESS"
+},
+{
+"k": "59",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "CRANE'S"
+},
+{
+"k": "60",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE DUMB SOLDIER"
+},
+{
+"k": "61",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "TRIPPITY TRAP"
+},
+{
+"k": "62",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "AUNTIE GREENLEAF"
+},
+{
+"k": "63",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "PUDDIN' PIE"
+},
+{
+"k": "64",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "WINDY NIGHTS"
+},
+{
+"k": "65",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "TRAVEL"
+},
+{
+"k": "66",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "MY KINGDOM"
+},
+{
+"k": "67",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "AUTUMN FIRES"
+},
+{
+"k": "68",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "HAPPY THOUGHTS"
+},
+{
+"k": "69",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "MY SHADOW"
+},
+{
+"k": "70",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "BRUSH WITH DEATH"
+},
+{
+"k": "71",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "EXPOSED"
+},
+{
+"k": "72",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "CUT DEEP"
+},
+{
+"k": "73",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "HALF OFF"
+},
+{
+"k": "74",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "HARD CASE"
+},
+{
+"k": "75",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "PIECE TOGETHER"
+},
+{
+"k": "76",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE ONE WHO KNOCKS"
+},
+{
+"k": "77",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "COME KNOCKING"
+},
+{
+"k": "78",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "HOUSE CALL"
+},
+{
+"k": "79",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "PAST DUE"
+},
+{
+"k": "80",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "VAGABONDS"
+},
+{
+"k": "81",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE CHAPEL"
+},
+{
+"k": "82",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "DIFFERENT INCARNATIONS"
+},
+{
+"k": "83",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "ON FAIRNESS"
+},
+{
+"k": "84",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "THE LIFE OF A GOOD-FOR-NOTHING"
+},
+{
+"k": "85",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "HISTORIES"
+},
+{
+"k": "86",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "OUT IN THE OPEN"
+},
+{
+"k": "87",
+"who": "",
+"ctx": "Menu/chapters",
+"en": "FACE TO FACE"
+},
+{
+"k": "88",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Bigby"
+},
+{
+"k": "89",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Mr. Toad"
+},
+{
+"k": "90",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The Woodsman"
+},
+{
+"k": "91",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Faith"
+},
+{
+"k": "92",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Beast"
+},
+{
+"k": "93",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Colin"
+},
+{
+"k": "94",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Snow White"
+},
+{
+"k": "95",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Beauty"
+},
+{
+"k": "96",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Ichabod Crane"
+},
+{
+"k": "97",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Bufkin"
+},
+{
+"k": "98",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Prince Lawrence"
+},
+{
+"k": "99",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The Tweedles"
+},
+{
+"k": "100",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Grendel"
+},
+{
+"k": "101",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Holly"
+},
+{
+"k": "102",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fabletown"
+},
+{
+"k": "103",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The Farm"
+},
+{
+"k": "104",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Mundies"
+},
+{
+"k": "105",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Short for \"mundane,\" mundy is a catch-all term that Fables use to refer to the non-magical inhabitants of their adopted home.  Warding spells placed around the blocks of Fabletown and The Farm keep their minds distracted and dull within certain boundaries. However, if anything should pique the curiosity or scrutiny of a large group of mundies, these magical protection charms would overload and fail. As sheriff of Fabletown, one of Bigby's primary functions is ensuring the Fabletown community maintains a low profile."
+},
+{
+"k": "106",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Glamours"
+},
+{
+"k": "107",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fabletown Sheriff"
+},
+{
+"k": "108",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The renowned Big Bad Wolf, known for tormenting pigs and girls in red hoods, is trying to put those dark days behind him. Since he's reformed, Bigby, has taken on human form and acts as Fabletown's sheriff. The people of Fabletown are slow to trust him though, due to his past attempts at eating them. Bigby is determined, though to show that's he's truly changed, but some instincts are just too hard to deny."
+},
+{
+"k": "109",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Mr. Toad is the superintendent for a defunct tenement on the edge of Fabletown proper. He's a three and a half foot frog who speaks with an English accent. Toad is required by Fabletown law to keep his family and himself magically glamoured to appear human or risk forced confinement to The Farm. The problem is he's not quite put his carjacking wild streak behind him, so his income and resources aren't always leveraged for the benefit his family."
+},
+{
+"k": "110",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Slum Lord"
+},
+{
+"k": "111",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The Woodsman, of \"Little Red Riding Hood\" fame, is one of the few men who went toe to toe with Bigby in his Black Forest days and lived to tell the tale. Furthermore, he split the great wolf's belly open with an axe and filled it full of rocks before sewing it back up and throwing the beast into a river. That should have been the highlight of a heroic life, however, the Woodsman is plagued by the knowledge of his true nature. He only encountered the Big Bad Wolf that day is because he intended to rob the old lady whom the beast had devoured. He has carried that secret with him over his long life, as much as he tried to live the champion's life, this secret has been eating away at his soul through the long ages he's lived. He's a man at rock bottom, a sack of shit and self-loathing, a false hero whose name has been forgotten, he's remembered only as a woodsman."
+},
+{
+"k": "112",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Faith is one of the Fables who made it through the exodus from the magical Homelands with the clothes on her back, her husband, her life and nothing else. Her story was supposed to conclude with a \"happily ever after\" tacked onto the end. She was the fairest of her land and married the prince of a neighboring kingdom for love. The mundane city of New York has not been kind to her, or her marriage. Faith is now turning tricks to make the rent and can't even afford to live on the outskirts of Fabletown. She's world flattened, but the light of her sharp mind hasn't quite gone out. Maybe she wished on a star the first time a John paid her for doing it up against a fence, but decades later she knows there are no fairy godmothers for whores."
+},
+{
+"k": "113",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Having retreated from the enchanted castle of their meeting, Beauty and Beast now live in a modest studio above one of the Fabletown store fronts. No longer waited on by a phalanx of footmen and servants, Beauty is dependent on her husband working two and a half jobs in order to maintain any glimmer of the storied life they shared once upon a time. They share the longest marriage of any of the Fables, a record not held simply out of habit or mistake. Beauty can come off as shrill and entitled but all that is dwarfed by her genuine love and concern for her husband, Beast."
+},
+{
+"k": "114",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "As one of the three little pigs, Colin was the one that built his house out of straw. Now, he lives on The Farm with his two other pig cousins, a life Colin can't stand. Bored by life in the country, Colin takes every opportunity to sneak into the big city, despite the fact that discovery and capture would mean big trouble for him. He's a professional mooch who knows just who to approach to maximize his time between internments at the The Farm."
+},
+{
+"k": "115",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Snow White's past is a long record of betrayals and regrets-very unlike the classic fairytale known in the mundy world. Her mother gave her up to live with an aunt who tried to kill her, the dwarves mistreated and assaulted her, Prince Charming saved her from that life only to cheat on Snow and leave her for Sleeping Beauty. By the time she was named assistant to deputy mayor, Ms. White has become a cold workaholic using her to job channel all social interactions through her political station. Snow has long given up waiting for her \"prince\" to come, however, somewhere inside her is that innocent girl whom the queen's assassin couldn't force himself to murder."
+},
+{
+"k": "116",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Soft-hearted Beast is always trying to keep his wife, Beauty, happy. Not just because he loves her, but because her temper directly affects Beast's appearance-the angrier she gets at him, the more beastly he becomes! These days he's taking any odd job that comes his way (having left behind his wealth in the Homelands), hoping to supply Beauty with as much luxury as their hard life can afford. Beast is brow beaten by his looming curse and the effects it has on his marriage but he's a tireless worker and dreamer, though to some he's a pigeon ready for plucking."
+},
+{
+"k": "117",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Hailing from the haunted town of Sleepy Hollow, Ichabod Crane has been Deputy Mayor of Fabletown for nearly 115 years. Crane is a bundle of nerves that takes his job very seriously. Though that doesn't mean he always does it well. As one of Fabletown's elite, Crane is often blind to the troubles of the less well-off citizens. Crane is authoritarian, cowardly, and always hiding something."
+},
+{
+"k": "118",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Having escaped the magical Homelands with none of their riches, Prince Lawrence and his wife, Faith, immediately fell victim to the harsh realities of the mundane world. Lawrence decided to use what little funds they'd made to move to New York in hopes that they could find aid in a community of fellow Fables. Unfortunately, they didn't have enough money to move into the same neighborhood as Fabletown, they were out of sight, out of mind for there was little assistance to go around. Fed up with the situation Faith left Lawrence, thinking she could make a better go of it on her own. He's not heard from his wife in some time now, poverty was something he could withstand as long as he had Faith, but now he has to face life without his only source of support and comfort. Lawrence is settling into an emotional coma with no obvious way to wake himself from it, he's a man in despair."
+},
+{
+"k": "119",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The Tweedle brothers are thugs for hire. They possess all the benefits of being Fables while appearing human, allowing them to carry out their contracts in the mundy world without drawing suspicion. The Tweedles are as inseparable as they are ruthless."
+},
+{
+"k": "120",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Grendel just wants to be left alone. In the old days he terrorized Norse mead halls, like the Herot, for breaking the silence and solitude that he'd built for himself. These days he can be found occupying the stool furthest to the rear of a few quiet, dumpy bars around New York. He hates the noise of the city but finding work there is the only way he can maintain the costs of remaining magically glamoured to look like a human. Counter to his gruff bearing he's fiercely loyal to the few people who've learned to offer him the space and silence he desires. He's got a personality that makes dogs tuck their tails and cover their genitals. Talking to him is like watching a time bomb tick down, it's only a matter of time."
+},
+{
+"k": "121",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Holly tends bar, and occasionally bounces, at the Trip Trap Bar. As a troll magically glamoured to appear human, she finds it easy to clear the place for a handful of regular, Fable, customers. Due to her natural strength and ability to snap the head off one of her patrons as easily as popping a cork, her manners leave most people wanting. She runs a rough bar in a rough neighborhood, she's not a pleasant conversationalist."
+},
+{
+"k": "122",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fabletown is actually two places. The first is a neighborhood located on Bullfinch Street in Manhattan's Upper West Side. To regular people, it's just an ordinary New York neighborhood, but it is anything but. Fables from many worlds call it home, and inside its borders is a massive cavern, a vast library, and hundreds of magical items of immense power. The second location is \"The Farm,\" an expanse of land in upstate New York reserved for the non-human Fables that could never interact with normal society."
+},
+{
+"k": "123",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Home of the Fables"
+},
+{
+"k": "124",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Non-human looking Fables - giants, goblins, animals, etc. - are restricted to a secret facility in upstate New York known as The Farm.  It is resented by many of its residents, as they feel, regardless of the The Farm's comforts and size, that it's a prison they're forbidden from leaving. This resentment is starting to bubble over, with some of The Farm residents even talking revolution."
+},
+{
+"k": "125",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Spells purchased by non-human Fables to give them the illusion of being human, so they can leave The Farm and move freely in the mundy world. Glamours are expensive, and sometimes Fables can only afford cheap glamours, that result in flawed illusions that often fail in embracing, amusing and occasionally grotesque ways."
+},
+{
+"k": "126",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Lawrence's Wife/Prostitute"
+},
+{
+"k": "127",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Couch Surfer"
+},
+{
+"k": "128",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Caring Wife"
+},
+{
+"k": "129",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fabletown Deputy Mayor"
+},
+{
+"k": "130",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fabletown Librarian"
+},
+{
+"k": "131",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Faith's Husband"
+},
+{
+"k": "132",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Drifter"
+},
+{
+"k": "133",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Bartender"
+},
+{
+"k": "134",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fabletown Annex"
+},
+{
+"k": "135",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Non-fables"
+},
+{
+"k": "136",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Disguise Spell"
+},
+{
+"k": "137",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Hired Goons"
+},
+{
+"k": "138",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Concerned Husband"
+},
+{
+"k": "139",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Assistant to the Deputy Mayor"
+},
+{
+"k": "140",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Fallen Hero"
+},
+{
+"k": "141",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Bufkin is the talking, winged monkey from the land of Oz. Now, as Fabletown's librarian he spends his time reading and stealing the deputy mayor's booze. He's prone to mischief, so when something goes wrong he assumes he'll receive the lion's share of the blame. He's helpful when he wants to be, but most of the time he'd rather be drinking. Someone would have fired him a long time ago, but he's the only one who can make sense of the filing system."
+},
+{
+"k": "142",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Dr. Swineheart"
+},
+{
+"k": "143",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "Dr. Swineheart was a member of a roaming band of skilled army-surgeons, back in the Homelands. They were rumored to have the ability to reattach severed limbs and lost organs. Swineheart himself boasts of a particular occasion where circumstances forced him to replace his own heart with that of a pig. He acts as Fabletown's primary physician, working in a special research section at the Knights of Malta Hospital in New York City, where he treats mundy patients when the Fables don't require his attention."
+},
+{
+"k": "144",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The Exodus"
+},
+{
+"k": "145",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "All Fables hail from the Homelands, a distant and magical land connected to our world by a network of enchanted gates. Like ours, the Homelands are divided into different countries with their own cultures. When war erupted, many of these lands were consumed with battle and the Fables were forced to flee to safety. Over a span of years, these refugees pursued whispered rumors of a land bereft of natural magic that would be untouched by the war that raged on in the Homelands. It was here, in this mundane world, that they forged their hope of lasting peace into the community of Fabletown."
+},
+{
+"k": "146",
+"who": "",
+"ctx": "Menu/fablespedia",
+"en": "The 13th Floor"
+}
+]

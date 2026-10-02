@@ -1,0 +1,2360 @@
+[
+{
+"k": "7331",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You asked her not to say anything."
+},
+{
+"k": "7332",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You asked Snow to wait."
+},
+{
+"k": "7333",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You left Snow unsure."
+},
+{
+"k": "7334",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow appreciates your support."
+},
+{
+"k": "7335",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You lied to Beast."
+},
+{
+"k": "7336",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told Beast the truth."
+},
+{
+"k": "7337",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She didn't like that."
+},
+{
+"k": "7338",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose not to respond."
+},
+{
+"k": "7339",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Tarot Card"
+},
+{
+"k": "7340",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Faith's Ring"
+},
+{
+"k": "7341",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Woodsman's Apartment2"
+},
+{
+"k": "7342",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The head"
+},
+{
+"k": "7343",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Money"
+},
+{
+"k": "7344",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow's Head"
+},
+{
+"k": "7345",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The Head"
+},
+{
+"k": "7346",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow agrees..."
+},
+{
+"k": "7347",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow is worried..."
+},
+{
+"k": "7348",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She'll remember that..."
+},
+{
+"k": "7349",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She's not completely convinced..."
+},
+{
+"k": "7350",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You named Lawrence as your suspect."
+},
+{
+"k": "7351",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You named the Woodsman as your suspect."
+},
+{
+"k": "7352",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You named Dee and Dum as your suspects."
+},
+{
+"k": "7353",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You named Crane as a suspect..."
+},
+{
+"k": "7354",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You suspect Faith's pimp..."
+},
+{
+"k": "7355",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Your silence left her unsure."
+},
+{
+"k": "7356",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow appreciated that."
+},
+{
+"k": "7357",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You caught Toad in a lie."
+},
+{
+"k": "7358",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You called out Toad's lies."
+},
+{
+"k": "7359",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Toad will remember"
+},
+{
+"k": "7360",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow will remember that."
+},
+{
+"k": "7361",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You beat up Toad."
+},
+{
+"k": "7362",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You upset TJ."
+},
+{
+"k": "7363",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You discovered something."
+},
+{
+"k": "7364",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You threatened Toad."
+},
+{
+"k": "7365",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "TJ is afraid of the Big Bad Wolf."
+},
+{
+"k": "7366",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "A thing"
+},
+{
+"k": "7367",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Use the mouse wheel to select your response."
+},
+{
+"k": "7368",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Use the face buttons to select your response."
+},
+{
+"k": "7369",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Tap a response to reply to Toad."
+},
+{
+"k": "7370",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Silence is a valid option."
+},
+{
+"k": "7371",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Use the left stick to move, and the right stick to look around."
+},
+{
+"k": "7372",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "***fake thing telling you what to do***"
+},
+{
+"k": "7373",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Some items you pick up can be useful later."
+},
+{
+"k": "7374",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The things you pick up can be useful later."
+},
+{
+"k": "7375",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "To respond, click on a selection."
+},
+{
+"k": "7376",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "To reply, click on one of the responses."
+},
+{
+"k": "7377",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "To reply, tap on one of the response."
+},
+{
+"k": "7378",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He's going to remember that."
+},
+{
+"k": "7379",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Try picking up the match book on the floor."
+},
+{
+"k": "7380",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Hover over an object, then use your mouse wheel to select between actions."
+},
+{
+"k": "7381",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Look at the matchbook on the floor and use the HAND icon to pick it up."
+},
+{
+"k": "7382",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Ring"
+},
+{
+"k": "7383",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow saw you."
+},
+{
+"k": "7384",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You scared Toad."
+},
+{
+"k": "7385",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Colin is unimpressed."
+},
+{
+"k": "7386",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You avoided his question."
+},
+{
+"k": "7387",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told Beast the truth about Beauty."
+},
+{
+"k": "7388",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You refused to lie."
+},
+{
+"k": "7389",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beauty hoped you would help..."
+},
+{
+"k": "7390",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beauty will remember..."
+},
+{
+"k": "7391",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Something doesn't add up..."
+},
+{
+"k": "7392",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You gave her a compliment."
+},
+{
+"k": "7393",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She noticed that."
+},
+{
+"k": "7394",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You noticed..."
+},
+{
+"k": "7395",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You avoided her question..."
+},
+{
+"k": "7396",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You stayed silent..."
+},
+{
+"k": "7397",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Not the reaction she was looking for..."
+},
+{
+"k": "7398",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She's noticed that."
+},
+{
+"k": "7399",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "That's probably not important..."
+},
+{
+"k": "7400",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You might have missed something..."
+},
+{
+"k": "7401",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Did you miss something?"
+},
+{
+"k": "7402",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You may have missed something..."
+},
+{
+"k": "7403",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "That probably wasn't important."
+},
+{
+"k": "7404",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Toad talked his way out of that one."
+},
+{
+"k": "7405",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow took the blame."
+},
+{
+"k": "7406",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You didn't open the letter."
+},
+{
+"k": "7407",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You opened the letter.\nYou didn't open the letter."
+},
+{
+"k": "7408",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Use your joystick to choose between Toad and Lawrence."
+},
+{
+"k": "7409",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You read Prince Lawrence's letter."
+},
+{
+"k": "7410",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow trusts you a bit more."
+},
+{
+"k": "7411",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow doesn't entirely agree."
+},
+{
+"k": "7412",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow is willing to trust you."
+},
+{
+"k": "7413",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow chose to focus on Lawrence and Faith."
+},
+{
+"k": "7414",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You let Snow open the letter."
+},
+{
+"k": "7415",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You left the letter unopened..."
+},
+{
+"k": "7416",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told him Faith is dead."
+},
+{
+"k": "7417",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You lied to Lawrence."
+},
+{
+"k": "7418",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He suspects the truth..."
+},
+{
+"k": "7419",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You let Lawrence draw his own conclusion."
+},
+{
+"k": "7420",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Snow told him Faith is dead."
+},
+{
+"k": "7421",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She ."
+},
+{
+"k": "7422",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to give her money."
+},
+{
+"k": "7423",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told her you liked it."
+},
+{
+"k": "7424",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "<<id:357060838You avoided her question."
+},
+{
+"k": "7425",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She appreciates that."
+},
+{
+"k": "7426",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told her yes."
+},
+{
+"k": "7427",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You avoided her question."
+},
+{
+"k": "7428",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You redirected the conversation."
+},
+{
+"k": "7429",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to stay out of it."
+},
+{
+"k": "7430",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Beauty will remember that."
+},
+{
+"k": "7431",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You told her the truth."
+},
+{
+"k": "7432",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She didn't appreciate your answer."
+},
+{
+"k": "7433",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You stayed silent."
+},
+{
+"k": "7434",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to take him for questioning."
+},
+{
+"k": "7435",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to accuse him of murder."
+},
+{
+"k": "7436",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You got violent."
+},
+{
+"k": "7437",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose violence."
+},
+{
+"k": "7438",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to hurt Grendel."
+},
+{
+"k": "7439",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to walk away."
+},
+{
+"k": "7440",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "They will remember what you did."
+},
+{
+"k": "7441",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You gave him the drink."
+},
+{
+"k": "7442",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose to give him your drink."
+},
+{
+"k": "7443",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose wrong."
+},
+{
+"k": "7444",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose right."
+},
+{
+"k": "7445",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He'll remember that..."
+},
+{
+"k": "7446",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He gave you."
+},
+{
+"k": "7447",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He gave you the slip."
+},
+{
+"k": "7448",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Wrong door..."
+},
+{
+"k": "7449",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You stayed on his trail."
+},
+{
+"k": "7450",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "He almost gave you the slip."
+},
+{
+"k": "7451",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Hidden in New York there is a clandestine community known as Fabletown\nfilled with fairy tale characters. The Fables who live there arrived hundreds of years ago \nwhen their Homelands were attacked. Forced into exile, they protect themselves\nfrom the mundane world with a disguising magic called Glamour."
+},
+{
+"k": "7452",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You can read up on Fables you've met or heard about in the Boof of Fables, located on the Pause Menu."
+},
+{
+"k": "7453",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "To view Fables you've met,\naccess the Book of Fables on the Pause Menu."
+},
+{
+"k": "7454",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Chapter"
+},
+{
+"k": "7455",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You lied to her."
+},
+{
+"k": "7456",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You were partly truthful."
+},
+{
+"k": "7457",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You already gave your money to Faith."
+},
+{
+"k": "7458",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Lawrence's Apartment"
+},
+{
+"k": "7459",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You paid her for the drink."
+},
+{
+"k": "7460",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You chose not to mention the Woodsman."
+},
+{
+"k": "7461",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "You avoided a direct answer."
+},
+{
+"k": "7462",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "She'll remember that."
+},
+{
+"k": "7463",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Use WASD to move, and the mouse to look around."
+},
+{
+"k": "7464",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Tap and drag on the screen to move."
+},
+{
+"k": "7465",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Taking Work Home"
+},
+{
+"k": "7466",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Choices"
+},
+{
+"k": "7467",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Consequences"
+},
+{
+"k": "7468",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The Trip Trap"
+},
+{
+"k": "7469",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "The Deputy Mayor didn't appreciate that."
+},
+{
+"k": "7470",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Bufkin will remember that."
+},
+{
+"k": "7471",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "FAITH'S APARTMENT"
+},
+{
+"k": "7472",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "TOAD'S APARTMENT"
+},
+{
+"k": "7473",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Later..."
+},
+{
+"k": "7474",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Early..."
+},
+{
+"k": "7475",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Late..."
+},
+{
+"k": "7476",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Once upon a time in New York City there lived a community of fairy tale\ncharacters known as Fabletown. The Fables who live there arrived\nhundreds of years ago, after they were exiled from their Homelands."
+},
+{
+"k": "7477",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "Through the use of a magic spell called Glamour, they have protected their\nsecret community from the mundane world."
+},
+{
+"k": "7478",
+"who": "",
+"ctx": "Fables101/ui_episode",
+"en": "LAWRENCE'S APARTMENT"
+},
+{
+"k": "7479",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I told you not to touch anything!"
+},
+{
+"k": "7480",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "What's going on in here?"
+},
+{
+"k": "7481",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "…"
+},
+{
+"k": "7482",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Who the fuck are you?"
+},
+{
+"k": "7483",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "What do you think you're doing?"
+},
+{
+"k": "7484",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "How long has this been on?"
+},
+{
+"k": "7485",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's Toad. I got my glamour like you said."
+},
+{
+"k": "7486",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Long enough."
+},
+{
+"k": "7487",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] You don't recognize me, eh?"
+},
+{
+"k": "7488",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's Toad."
+},
+{
+"k": "7489",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] Yeah."
+},
+{
+"k": "7490",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] Me?"
+},
+{
+"k": "7491",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "What do you think you're doing down there?"
+},
+{
+"k": "7492",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Don't you lay a hand on him!"
+},
+{
+"k": "7493",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] You think you can just beat the shit out of people to get what you want?"
+},
+{
+"k": "7494",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You allowing torture now? Is that what we've come to?"
+},
+{
+"k": "7495",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I saw what you did to Dee."
+},
+{
+"k": "7496",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I saw what you did to the Woodsman!"
+},
+{
+"k": "7497",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] What're you doing beatin' the shit out of the Woodsman, huh? He may be a good-for-nothin' drunk, but that don't mean you can just whack him around 'cause you feel like it!"
+},
+{
+"k": "7498",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He's a fuckin' mess! You allowing this shit to happen under your watch?"
+},
+{
+"k": "7499",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Me?"
+},
+{
+"k": "7500",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Poor boy saw the whole thing."
+},
+{
+"k": "7501",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I'd love to give Tweedledee a good punch as much as the next guy, but what you did to him was way over the bloody line!"
+},
+{
+"k": "7502",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Between you and me, I think he got what's coming to him."
+},
+{
+"k": "7503",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "so why the hell are you acting like best mates all of a sudden?"
+},
+{
+"k": "7504",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "you know how he roughed me up in front of my boy,"
+},
+{
+"k": "7505",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Tell me something, you know what that man did to us,"
+},
+{
+"k": "7506",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] Is that how you treat your prisoners?"
+},
+{
+"k": "7507",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You're okay givin' me a slap, but Tweedledee…"
+},
+{
+"k": "7508",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Oh, no. He deserves the royal treatment!"
+},
+{
+"k": "7509",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Though, he ain't the only one who roughed me up in me own house."
+},
+{
+"k": "7510",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "How do you think he feels seeing his dad beat down like that?"
+},
+{
+"k": "7511",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Worst of it is, you did it in front of me own son."
+},
+{
+"k": "7512",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Toad…"
+},
+{
+"k": "7513",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Toad!"
+},
+{
+"k": "7514",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] Don't even get started with me, Sheriff."
+},
+{
+"k": "7515",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[slight anger] Toad…"
+},
+{
+"k": "7516",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "No harm done. I just took a little peek in the basement, is all."
+},
+{
+"k": "7517",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] I saw what you did down there, Sheriff."
+},
+{
+"k": "7518",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "What did you expect to see?"
+},
+{
+"k": "7519",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's none of your business."
+},
+{
+"k": "7520",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-x}I'm just doing my job, Toad."
+},
+{
+"k": "7521",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Don't put this all on me, Toad. I-"
+},
+{
+"k": "7522",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You saw them down there…"
+},
+{
+"k": "7523",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Bluebeard was out of line."
+},
+{
+"k": "7524",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I wanted to do this the right way!"
+},
+{
+"k": "7525",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{normalB}{body-standA}This is none of your business, Toad."
+},
+{
+"k": "7526",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] {body-hips}{angryA}Your job is to protect us! That's not what you've been doing."
+},
+{
+"k": "7527",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "If I didn't, Bluebeard would have."
+},
+{
+"k": "7528",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{annoyedA}{body-x}[cut] This is how things are gonna go?"
+},
+{
+"k": "7529",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedA}{body-x}People get called in for \"questioning\" {angryA}{body-hips}and they get beaten to a fucking pulp?"
+},
+{
+"k": "7530",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-x} So you've got nothing to say for yourself, then?"
+},
+{
+"k": "7531",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "For fuck's sake, Bigby! For better or worse, I never thought you were the sort of fellow to just do what he's told. Especially when Bluebeard is involved."
+},
+{
+"k": "7532",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "So that makes it right, then?"
+},
+{
+"k": "7533",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You can't blame me for thinkin' the worst."
+},
+{
+"k": "7534",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Bluebeard… He's always been a prick, hasn't he?"
+},
+{
+"k": "7535",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-hips} No."
+},
+{
+"k": "7536",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{ThinkingA}{body-standA}Okay, Mr. Toad."
+},
+{
+"k": "7537",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-X}I want an explanation."
+},
+{
+"k": "7538",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] Though I shouldn't be surprised after what you did to me."
+},
+{
+"k": "7539",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Or did you forget?"
+},
+{
+"k": "7540",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Real classy, Sheriff."
+},
+{
+"k": "7541",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Point taken."
+},
+{
+"k": "7542",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "What? You think I forgot?"
+},
+{
+"k": "7543",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I thought your job was to keep people safe!"
+},
+{
+"k": "7544",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] I was just doing my job."
+},
+{
+"k": "7545",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You're just goin' around beatin' on people to get what you want!"
+},
+{
+"k": "7546",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You're supposed to make him answer for his crimes."
+},
+{
+"k": "7547",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] That man hurt me in my own home. In front of my boy!"
+},
+{
+"k": "7548",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{body-standA}{normalB} And what did you expect to see?"
+},
+{
+"k": "7549",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Oh, well… good."
+},
+{
+"k": "7550",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Glad you see it my way."
+},
+{
+"k": "7551",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "For fuck's sake, Bigby!"
+},
+{
+"k": "7552",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "but what you did to him was barbaric!"
+},
+{
+"k": "7553",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Or are you both forgetting why we're here?"
+},
+{
+"k": "7554",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "TJ…"
+},
+{
+"k": "7555",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[muttering] Typical."
+},
+{
+"k": "7556",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[impatient] Okay, Toad."
+},
+{
+"k": "7557",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He gets it."
+},
+{
+"k": "7558",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Don't you fuckin' touch him."
+},
+{
+"k": "7559",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I thought you were better than all this."
+},
+{
+"k": "7560",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You were nice to my boy, acted like you was a friend of ours, but you're both the fuckin' same."
+},
+{
+"k": "7561",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's not her fault."
+},
+{
+"k": "7562",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Leave her alone!"
+},
+{
+"k": "7563",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's not her fault, Toad."
+},
+{
+"k": "7564",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "If there's anyone you should trust here, it's her."
+},
+{
+"k": "7565",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I already told you, it was Bluebeard's fault."
+},
+{
+"k": "7566",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Snow had nothing to do with it."
+},
+{
+"k": "7567",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "If anyone's to blame, it's Bluebeard."
+},
+{
+"k": "7568",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[sarcastic] Right, 'cause he's got all the power here."
+},
+{
+"k": "7569",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "No consequences."
+},
+{
+"k": "7570",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You think you can do whatever you want."
+},
+{
+"k": "7571",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Blame Bluebeard."
+},
+{
+"k": "7572",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Blame Crane."
+},
+{
+"k": "7573",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Leave her alone, Toad."
+},
+{
+"k": "7574",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Calm down!"
+},
+{
+"k": "7575",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Both of you."
+},
+{
+"k": "7576",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's my fault, Toad. Not her's."
+},
+{
+"k": "7577",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "If there's anyone you can trust here, it's her."
+},
+{
+"k": "7578",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "She didn't even know about it."
+},
+{
+"k": "7579",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "She didn't know anything about it."
+},
+{
+"k": "7580",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I wasn't aware of their actions in the basement."
+},
+{
+"k": "7581",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I'm just trying to do my job, and figure out what happened to those women."
+},
+{
+"k": "7582",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{sadB}But we would like to talk about what you found, {worriedA}if that's okay with you."
+},
+{
+"k": "7583",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[sniffles]{fearA}{body-standscared}"
+},
+{
+"k": "7584",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}I know you're scared."
+},
+{
+"k": "7585",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{happyA}It's all right."
+},
+{
+"k": "7586",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{happyB}Are you ready to talk to Mr. Wolf?"
+},
+{
+"k": "7587",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[sniffles]{fearA}{body-standhurt}"
+},
+{
+"k": "7588",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's not optional."
+},
+{
+"k": "7589",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I just have some questions."
+},
+{
+"k": "7590",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You can help us."
+},
+{
+"k": "7591",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{thinkingA}{body-x}It's not optional."
+},
+{
+"k": "7592",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedB}{body-x}I just have to {worriedA}ask you some questions."
+},
+{
+"k": "7593",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry]{sarcasticA}{body-X} Is that{angryA} what you told The Woodsman?"
+},
+{
+"k": "7594",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}{body-X}It would really help us, TJ."
+},
+{
+"k": "7595",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] {angryA}{body-x}Oh, really?"
+},
+{
+"k": "7596",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "She's right, son."
+},
+{
+"k": "7597",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-X}You going to keep us here against our will?"
+},
+{
+"k": "7598",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[scoffs] {happyA}{body-x}I've{body-x}{AngryA} heard that before."
+},
+{
+"k": "7599",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "We'll leave if you want."
+},
+{
+"k": "7600",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Well, I'm having no part of it!"
+},
+{
+"k": "7601",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Come on, son. We're leaving!"
+},
+{
+"k": "7602",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-x}What the hell was that?"
+},
+{
+"k": "7603",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{body-standScared}{fearA}I want{body-standA}{normalA} to help."
+},
+{
+"k": "7604",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He gets the point, Toad."
+},
+{
+"k": "7605",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[threatening] {angryA}{body-pockets}Watch yourself, Bigby. {angryA}{body-x}If you do anything to hurt me boy…"
+},
+{
+"k": "7606",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Start at the beginning."
+},
+{
+"k": "7607",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Sorry I scared you."
+},
+{
+"k": "7608",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You okay?"
+},
+{
+"k": "7609",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "This won't take long."
+},
+{
+"k": "7610",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[awkward] {confusedA}Sorry if I scared you."
+},
+{
+"k": "7611",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[awkward] {confusedA}Are you… {confusedB}okay?"
+},
+{
+"k": "7612",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}Just {confusedB}start from the beginning."
+},
+{
+"k": "7613",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}This won't take long."
+},
+{
+"k": "7614",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Are you friends with that bad man?"
+},
+{
+"k": "7615",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}{body-standscared}Why were you hurting that man?"
+},
+{
+"k": "7616",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I was pretending."
+},
+{
+"k": "7617",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "No, we're not friends."
+},
+{
+"k": "7618",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I was only pretending."
+},
+{
+"k": "7619",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "When you're the sheriff, sometimes you have to…"
+},
+{
+"k": "7620",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "strategize."
+},
+{
+"k": "7621",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Um…"
+},
+{
+"k": "7622",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Are you pretending to be my friend?"
+},
+{
+"k": "7623",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "But you were nice to him."
+},
+{
+"k": "7624",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He hit my dad, right in the head. He was bleeding and everything."
+},
+{
+"k": "7625",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I thought he hurt Snow."
+},
+{
+"k": "7626",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I thought he had information."
+},
+{
+"k": "7627",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He was lying to me."
+},
+{
+"k": "7628",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He needed information from him."
+},
+{
+"k": "7629",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "So he had to be nice."
+},
+{
+"k": "7630",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "A sheriff has to be nice to bad people sometimes."
+},
+{
+"k": "7631",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Of course not. We're friends, TJ."
+},
+{
+"k": "7632",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedB}I thought he did something{doubtfulA} very bad."
+},
+{
+"k": "7633",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[awkward] {worriedA}And… {confusedA}if you thought something happened to her{ThinkingA}… {confusedA}If you thought someone hurt her."
+},
+{
+"k": "7634",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{sarcasticA}You like Snow, {sarcasticA}right?"
+},
+{
+"k": "7635",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You'd be upset… and angry."
+},
+{
+"k": "7636",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You might want to hurt who was responsible."
+},
+{
+"k": "7637",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "That's why I hurt the Woodsman."
+},
+{
+"k": "7638",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{DoubtfulA}You might want to hurt{NormalB} who was responsible."
+},
+{
+"k": "7639",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You'd feel…"
+},
+{
+"k": "7640",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Angry."
+},
+{
+"k": "7641",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Sad."
+},
+{
+"k": "7642",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Upset."
+},
+{
+"k": "7643",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedB}And you might do things…{worriedA}"
+},
+{
+"k": "7644",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{WorriedB}You'd be angry."
+},
+{
+"k": "7645",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{WorriedB}You'd be sad."
+},
+{
+"k": "7646",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedA}You'd be{worriedA} upset."
+},
+{
+"k": "7647",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{SadA}{body-standscared}Sad?"
+},
+{
+"k": "7648",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "That's why I hurt Dee."
+},
+{
+"k": "7649",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}I thought he knew something about the mur-{fearA}{confusedA}"
+},
+{
+"k": "7650",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[awkward] {FearA}about {confusedB}the lady you found."
+},
+{
+"k": "7651",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedB}I needed him to tell me who {confusedA}did… {ThinkingA}that, but {confusedA}he wasn't being very helpful."
+},
+{
+"k": "7652",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}Don't worry."
+},
+{
+"k": "7653",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{happyA}He won't hurt you, TJ."
+},
+{
+"k": "7654",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[Smile]"
+},
+{
+"k": "7655",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You're safe here."
+},
+{
+"k": "7656",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "As long as you cooperate."
+},
+{
+"k": "7657",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{HappyA}See, {WorriedA}he's nice."
+},
+{
+"k": "7658",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "TJ, you're safe."
+},
+{
+"k": "7659",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{SarcasticA}As long as you {ThinkingB}answer my questions."
+},
+{
+"k": "7660",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{HappyB}See?"
+},
+{
+"k": "7661",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I won't let him hurt you."
+},
+{
+"k": "7662",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{crouch}He was lying to me."
+},
+{
+"k": "7663",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Sometimes I have to do things… I have to be a little rough."
+},
+{
+"k": "7664",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "So I can catch the bad guys."
+},
+{
+"k": "7665",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Bigby is worried about us… all of us."
+},
+{
+"k": "7666",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "But don't worry."
+},
+{
+"k": "7667",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He won't hurt you."
+},
+{
+"k": "7668",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{thinkingB}You don't {worriedA}have to worry, TJ. Mr. Wolf won't hurt you."
+},
+{
+"k": "7669",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Mr. Wolf won't hurt you."
+},
+{
+"k": "7670",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] {angryA}{body-standA}Are you {body-StandB}threatening my boy?"
+},
+{
+"k": "7671",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{flusteredB}{body-StandB}No, I'm sure he wasn't-"
+},
+{
+"k": "7672",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{body-standB}{angryB}We don't have to put up with this bullshit."
+},
+{
+"k": "7673",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry]{angryA} You think you have all the power here, {angryB}but I will not stick around and have you bully my son!"
+},
+{
+"k": "7674",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}We're leaving!"
+},
+{
+"k": "7675",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Where's his glamour?"
+},
+{
+"k": "7676",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I'm sorry!"
+},
+{
+"k": "7677",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{AngryB}Toad!"
+},
+{
+"k": "7678",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[angry] {angryB}{body-x}What?"
+},
+{
+"k": "7679",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}Where's the kid's glamour?"
+},
+{
+"k": "7680",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryB}Fuck you!"
+},
+{
+"k": "7681",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{body-hips}{angryB}You can't just leave!"
+},
+{
+"k": "7682",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{doubtfulA}I'm sorry!"
+},
+{
+"k": "7683",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryB}Yeah, I'll bet."
+},
+{
+"k": "7684",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[muttering] {angryB}Fuckin' prick."
+},
+{
+"k": "7685",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "I tried."
+},
+{
+"k": "7686",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Drop it."
+},
+{
+"k": "7687",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{NormalA}{body-standA}I go swimming at night sometimes, in the river…"
+},
+{
+"k": "7688",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{fearA}{body-StandScared}I wasn't doing anything bad, I promise."
+},
+{
+"k": "7689",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "You're not in trouble."
+},
+{
+"k": "7690",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "We'll talk about that later."
+},
+{
+"k": "7691",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "What did you see?"
+},
+{
+"k": "7692",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{NormalA}{body-standscared}I was there… under the big blocks. {fearA}And I heard noisy feet."
+},
+{
+"k": "7693",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{fearA}{body-standscared}I saw the lady…"
+},
+{
+"k": "7694",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{fearA}{body-standhurt}[crying]"
+},
+{
+"k": "7695",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[Comfort him]"
+},
+{
+"k": "7696",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Take your time."
+},
+{
+"k": "7697",
+"who": "",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Hurry up."
+},
+{
+"k": "7698",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedB}You're not in trouble."
+},
+{
+"k": "7699",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}Just tell me what happened."
+},
+{
+"k": "7700",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{confusedB}We'll talk about that later."
+},
+{
+"k": "7701",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "My dad says that's okay."
+},
+{
+"k": "7702",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{normalA}{body-standhurt}I stayed near the edge…where there's big grey blocks like this{fearA} so nobody can see me."
+},
+{
+"k": "7703",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{NormalA}Just {ThinkingA}tell me what you saw."
+},
+{
+"k": "7704",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "It's okay, you're not in trouble."
+},
+{
+"k": "7705",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{worriedA}{body-x}That's right, son."
+},
+{
+"k": "7706",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{normalA}{body-StandA}People walk up there sometimes."
+},
+{
+"k": "7707",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{NormalA}{body-standscared}And when I hear that, I'm supposed to go underwater and stay real still and quiet."
+},
+{
+"k": "7708",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{fearA}{body-standscared}Then I saw…"
+},
+{
+"k": "7709",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[whimpers]{fearX}{body-standscared}"
+},
+{
+"k": "7710",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[low] I wasn't trying to hurt him."
+},
+{
+"k": "7711",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[warning] {angryA}{body-x}Careful, Bigby."
+},
+{
+"k": "7712",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{Body-Crouch}I wasn't…"
+},
+{
+"k": "7713",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{doubtfulA}Take your time."
+},
+{
+"k": "7714",
+"who": "BIGBY",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{NormalB}Come on, TJ."
+},
+{
+"k": "7715",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[sniffles] {worriedA}{body-StandScared}[cut]I saw…"
+},
+{
+"k": "7716",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{angryA}{body-x}Don't rush the boy."
+},
+{
+"k": "7717",
+"who": "SNOW",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "He didn't mean-"
+},
+{
+"k": "7718",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "Oh, I know what he meant."
+},
+{
+"k": "7719",
+"who": "TOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "If this is too inconvenient for you, how 'bout we just leave then?"
+},
+{
+"k": "7720",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[sniffles] {fearA}{body-StandScared}The lady… fell in… but she didn't have{fearX} her head on! {fearA}[cries]"
+},
+{
+"k": "7721",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "{sadA}I thought… {fearA}{body-standhurt}I thought she was gonna pull me down too."
+},
+{
+"k": "7722",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "[cries]"
+},
+{
+"k": "7723",
+"who": "KIDTOAD",
+"ctx": "Fables102/env_businessoffice_questiontj",
+"en": "She touched my foot."
+}
+]

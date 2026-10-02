@@ -1,0 +1,1808 @@
+[
+{
+"k": "24509",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499371][annoyed]Please keep it down back there, [under his breath][exasperated][finally]thank you..."
+},
+{
+"k": "24510",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499382]I know, but please, don't give him the excuse."
+},
+{
+"k": "24511",
+"who": "SWINEHEART",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[alt for 357499387]And make sure he doesn't get into further altercations."
+},
+{
+"k": "24512",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Colin."
+},
+{
+"k": "24513",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup2][ugh]And I should probably change out of these clothes."
+},
+{
+"k": "24514",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup2]I thought he was just a... loan shark. But clearly, he's operating in other circles."
+},
+{
+"k": "24515",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "[pickup4][casual]I'm pretty hard to kill."
+},
+{
+"k": "24516",
+"who": "MARY",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "See you around."
+},
+{
+"k": "24517",
+"who": "",
+"ctx": "Fables104/env_bigbyapartment",
+"en": "Move Arm"
+},
+{
+"k": "24518",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I came here 'cause I wanted to tell you…"
+},
+{
+"k": "24519",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "What are you getting at?"
+},
+{
+"k": "24520",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "If you're here to lecture me about what I did--"
+},
+{
+"k": "24521",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "No, that isn't--"
+},
+{
+"k": "24522",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I-- [stops herself][frustrated sigh]"
+},
+{
+"k": "24523",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Let's hear it."
+},
+{
+"k": "24524",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "So what brings you here?"
+},
+{
+"k": "24525",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[expectant, accusatory] What's wrong?"
+},
+{
+"k": "24526",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[dismissive, cagey]I have... other matters to attend to."
+},
+{
+"k": "24527",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Okay. I will."
+},
+{
+"k": "24528",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I told you, I do it my way."
+},
+{
+"k": "24529",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I'll do what it takes."
+},
+{
+"k": "24530",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Beauty might be upset."
+},
+{
+"k": "24531",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I had a fight with Beast."
+},
+{
+"k": "24532",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "It was nothing..."
+},
+{
+"k": "24533",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}It's... nothing. Nevermind."
+},
+{
+"k": "24534",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{normalb}Which one called in? Was it Beauty or Beast?"
+},
+{
+"k": "24535",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{normalb}Did they specifically ask for me?"
+},
+{
+"k": "24536",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{doubtfula}I don't know if they're gonna be happy to see me."
+},
+{
+"k": "24537",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Why not?"
+},
+{
+"k": "24538",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}That explains why she was working at that Open Arms dump."
+},
+{
+"k": "24539",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}It's not easy for me to say this."
+},
+{
+"k": "24540",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}I feel…  Everything that's... [she struggles to phrase this]happened."
+},
+{
+"k": "24541",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sadb}[frustrated sigh] I'm sorry."
+},
+{
+"k": "24542",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sadb}[to herself; upset] I thought I could do this."
+},
+{
+"k": "24543",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}I need you to know… {sadb}I want to help, but…"
+},
+{
+"k": "24544",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}But..."
+},
+{
+"k": "24545",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Your lips are sealed."
+},
+{
+"k": "24546",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[finishing her sentence] But your lips are sealed."
+},
+{
+"k": "24547",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}It's okay. Take your time."
+},
+{
+"k": "24548",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Can't you just talk?"
+},
+{
+"k": "24549",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[frustrated, but pleading] Come on. Just talk..."
+},
+{
+"k": "24550",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Just 'cause I can't... [struggles - starts over] You can ask, even if I can't... you know..."
+},
+{
+"k": "24551",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}Ok. [beat]I get it..."
+},
+{
+"k": "24552",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[Comfort her]"
+},
+{
+"k": "24553",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "The ribbon keeps you quiet."
+},
+{
+"k": "24554",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{feara}[to herself]If anyone finds out I came here…"
+},
+{
+"k": "24555",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{doubtfula}[don't worry]That's probably Snow."
+},
+{
+"k": "24556",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{happya}[relieved]Oh, okay. Good."
+},
+{
+"k": "24557",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Listen... Sheriff..."
+},
+{
+"k": "24558",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}Can you keep this conversation between us?"
+},
+{
+"k": "24559",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[to Bigby]You don't answer your phone in here either?"
+},
+{
+"k": "24560",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Are you two making any progress here?"
+},
+{
+"k": "24561",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{flustereda}Uh, wait, you don't have to go..."
+},
+{
+"k": "24562",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "She told me enough."
+},
+{
+"k": "24563",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Look, I took care of it."
+},
+{
+"k": "24564",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}[whispers]She's trying to talk. She knows something, but... she just can't say it."
+},
+{
+"k": "24565",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[putting together the clues]That magic Crane was talking about… it keeps them from revealing what they know."
+},
+{
+"k": "24566",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[thinking]But maybe that was her way?"
+},
+{
+"k": "24567",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Magic keeps her from talking."
+},
+{
+"k": "24568",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That's... private."
+},
+{
+"k": "24569",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "She's trying to talk."
+},
+{
+"k": "24570",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Nope nothing new."
+},
+{
+"k": "24571",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}Not really. [beat]She's told me what she can, but we're... no closer than we were."
+},
+{
+"k": "24572",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "What are you afraid of?"
+},
+{
+"k": "24573",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{confusedb}What are you worried about?"
+},
+{
+"k": "24574",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}Just… please don't say anything."
+},
+{
+"k": "24575",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}I won't tell anyone, don't worry."
+},
+{
+"k": "24576",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{happya}Thank you."
+},
+{
+"k": "24577",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}I'm gonna have to tell Snow."
+},
+{
+"k": "24578",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}If you have to. Just… {sada}don't tell anyone else."
+},
+{
+"k": "24579",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Talk about Faith and Lily"
+},
+{
+"k": "24580",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Tell me about the Crooked Man"
+},
+{
+"k": "24581",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "What was Crane into?"
+},
+{
+"k": "24582",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Look at your friends."
+},
+{
+"k": "24583",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Watch out for your friends."
+},
+{
+"k": "24584",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Right under your nose."
+},
+{
+"k": "24585",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You should see the other guys."
+},
+{
+"k": "24586",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "What did Crane want with you?"
+},
+{
+"k": "24587",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I'm a loner."
+},
+{
+"k": "24588",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I guess so."
+},
+{
+"k": "24589",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}I, um... [starting over] Are you okay?"
+},
+{
+"k": "24590",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I saw what happened."
+},
+{
+"k": "24591",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "We watched out the door."
+},
+{
+"k": "24592",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{happya}Hi, Sheriff."
+},
+{
+"k": "24593",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Hi, Nerissa."
+},
+{
+"k": "24594",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[professional]Have a seat."
+},
+{
+"k": "24595",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{confuseda}I wasn't sure you'd be..."
+},
+{
+"k": "24596",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}...if I came by."
+},
+{
+"k": "24597",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}You didn't look good last night."
+},
+{
+"k": "24598",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}...you know, around..."
+},
+{
+"k": "24599",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[lying] I'm fine. Don't worry about me."
+},
+{
+"k": "24600",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[coughing, wet - blood in the airways]."
+},
+{
+"k": "24601",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[dismissive] Nothing a cup of coffee won't fix."
+},
+{
+"k": "24602",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}Let's just say I've been better."
+},
+{
+"k": "24603",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Believe me, I didn't get the worst of it."
+},
+{
+"k": "24604",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{doubtfula}Don't be fooled by... this..."
+},
+{
+"k": "24605",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}I didn't get the worst of it."
+},
+{
+"k": "24606",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{SarcasticA}Huff 'n' Puffs?"
+},
+{
+"k": "24607",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Got a light?"
+},
+{
+"k": "24608",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[insistent, not an invitation] You can start talking."
+},
+{
+"k": "24609",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}So what is it you wanted to talk to me about?"
+},
+{
+"k": "24610",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{normalb}So what was that back there with Crane? He wanted you to tell me something."
+},
+{
+"k": "24611",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That's not what I'm here for."
+},
+{
+"k": "24612",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}[appealing to her] I know what you did for me, sending me to the Open Arms. And I think you want to help me again."
+},
+{
+"k": "24613",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}[pressing on] What I can say... what I came here to say is that there are... [searching] things... that matter, and there are things that don't..."
+},
+{
+"k": "24614",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}There's not a lot that I can talk about. You know that."
+},
+{
+"k": "24615",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Last night proves what's important."
+},
+{
+"k": "24616",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Is that I know who you're after."
+},
+{
+"k": "24617",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[disappointed] Is that it?"
+},
+{
+"k": "24618",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I can't tell you what to look for,  but you can find it."
+},
+{
+"k": "24619",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "No... no, that's not..."
+},
+{
+"k": "24620",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[starting over] What I mean is..."
+},
+{
+"k": "24621",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{Worrieda}You know, it's not too late to talk."
+},
+{
+"k": "24622",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Is that there are... [searching] things... that matter, and there are things that don't."
+},
+{
+"k": "24623",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}O-- of course not. You're not wasting my time, but..."
+},
+{
+"k": "24624",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You... [sad laugh to herself] Please don't make me say... you know... that thing again."
+},
+{
+"k": "24625",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}I don't want to waste your time. But I don't want you wasting your own time, either."
+},
+{
+"k": "24626",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}Back in the dressing room - at the Pudding 'n Pie - I told you what I was looking for. {normalb}And you found a way to tell me."
+},
+{
+"k": "24627",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "So, I'll talk, and you listen?"
+},
+{
+"k": "24628",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That... that could work."
+},
+{
+"k": "24629",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You have more on Crane?"
+},
+{
+"k": "24630",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Is this about the Crooked Man?"
+},
+{
+"k": "24631",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Was Crane set up?"
+},
+{
+"k": "24632",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Is there more to this business with Crane?"
+},
+{
+"k": "24633",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}You're here because the Crooked Man just sent Crane to the bottom of my list of worries. {thinkingb}And you have something you want to say about that, right?"
+},
+{
+"k": "24634",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Crane wasn't the murderer. The Open Arms was a setup. [thinking]And you sent me there."
+},
+{
+"k": "24635",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Well, whatever it is,"
+},
+{
+"k": "24636",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[frustrated] These lips are sealed. Damn it."
+},
+{
+"k": "24637",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I just-- [cut short]"
+},
+{
+"k": "24638",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "So, this all qualifies as work, huh?"
+},
+{
+"k": "24639",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I'll tell you this."
+},
+{
+"k": "24640",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}It... might work."
+},
+{
+"k": "24641",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[really?] But you came to me."
+},
+{
+"k": "24642",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}So that spell Crane was trying to break... It's not just while you're at work, huh?"
+},
+{
+"k": "24643",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Go ahead."
+},
+{
+"k": "24644",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[frustrated]This isn't gonna work if you don't ask anything."
+},
+{
+"k": "24645",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I... guess not."
+},
+{
+"k": "24646",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[a little fed up] I don't mind asking questions. But playing guessing games don't seem to be getting us anywhere."
+},
+{
+"k": "24647",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I'm looking for the Crooked Man. I'm not asking you. I'm telling you."
+},
+{
+"k": "24648",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That's why you're here?"
+},
+{
+"k": "24649",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Friends matter, Sheriff. And I... I don't have any left."
+},
+{
+"k": "24650",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That's what you're here to tell me."
+},
+{
+"k": "24651",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "So, that's what you're here to tell me."
+},
+{
+"k": "24652",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Thanks for confirmation."
+},
+{
+"k": "24653",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Well, thanks for \"confirming\" that for me."
+},
+{
+"k": "24654",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "This... isn't going how I planned."
+},
+{
+"k": "24655",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I"
+},
+{
+"k": "24656",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}Was there someone else you wanted me to find there?"
+},
+{
+"k": "24657",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angryb}If I could answer you just like that..."
+},
+{
+"k": "24658",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}I wouldn't have had to make that appointment with you."
+},
+{
+"k": "24659",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}Then again, who knows if it'll work anyway..."
+},
+{
+"k": "24660",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}No, I guess not."
+},
+{
+"k": "24661",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Sheriff, I know it must seem like I'm... withholding."
+},
+{
+"k": "24662",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I don't follow."
+},
+{
+"k": "24663",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Faith and Lily?"
+},
+{
+"k": "24664",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}What I'm saying is friends matter. {sadb}And I... I don't have any left."
+},
+{
+"k": "24665",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}Sometimes... we have to find our way through life on our own. Grasping and fumbling in the dark."
+},
+{
+"k": "24666",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "But, it's a lot easier if there's a hand for you to hold onto. So, even if it's dark, you know you're not alone."
+},
+{
+"k": "24667",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}Is this making any sense?"
+},
+{
+"k": "24668",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}I'm not sure how I can-- [the magic cuts her off]."
+},
+{
+"k": "24669",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Is this about Faith and Lily?"
+},
+{
+"k": "24670",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}Are you trying to say something about Faith and Lily?"
+},
+{
+"k": "24671",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You can trust me."
+},
+{
+"k": "24672",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}Are you saying you need a friend right now?"
+},
+{
+"k": "24673",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}So I hope you're looking after yours."
+},
+{
+"k": "24674",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Where's this going?"
+},
+{
+"k": "24675",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{doubtfula}I'm sorry, but... is this going somewhere?"
+},
+{
+"k": "24676",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}I... I used to have friends. To help me find my way. But now... {sadb}they're gone. And I don't know what to do."
+},
+{
+"k": "24677",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angryb}Not to be blunt, but what exactly can you tell me?"
+},
+{
+"k": "24678",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}[sad]If it's something you'll think is important, {angrya}I probably... [can't]"
+},
+{
+"k": "24679",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{happya}[sad laugh to herself] Please don't make me say it again."
+},
+{
+"k": "24680",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Why don't I ask the questions here?"
+},
+{
+"k": "24681",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angryb}I don't need to hear it again."
+},
+{
+"k": "24682",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}Can't we just... take the ribbon off?"
+},
+{
+"k": "24683",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Faith had a ribbon too."
+},
+{
+"k": "24684",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I've seen a ribbon like that before. Is it the same as Faith's?"
+},
+{
+"k": "24685",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Sure I do. Colin."
+},
+{
+"k": "24686",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Any way to break the spell?"
+},
+{
+"k": "24687",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}That spell Crane talked about... Is there any way to break it?"
+},
+{
+"k": "24688",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}Is there something I can do about it?"
+},
+{
+"k": "24689",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "This is another one of those-- [stops herself][questions she can't answer]"
+},
+{
+"k": "24690",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}[indifferent]Do you like it?"
+},
+{
+"k": "24691",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}It's the ribbon, isn't it?"
+},
+{
+"k": "24692",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Whatever the magic is that \"guarantees\" your \"discretion\" also keeps that ribbon on your neck."
+},
+{
+"k": "24693",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That's why all the girls at the Pudding 'n' Pie wear them."
+},
+{
+"k": "24694",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "And taking the ribbon off would have... [heavy]consequences."
+},
+{
+"k": "24695",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[Sorry]This... this is how Faith and Lily were killed. Someone pulled their ribbons off."
+},
+{
+"k": "24696",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sadb}This isn't how I planned..."
+},
+{
+"k": "24697",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sadb}[starting over]I thought I knew how to say it..."
+},
+{
+"k": "24698",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{feara}[terrified]No! [blurting out, involuntary] These lips are sealed!"
+},
+{
+"k": "24699",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "That's why you had to send me to the Open Arms the way you did."
+},
+{
+"k": "24700",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You do?"
+},
+{
+"k": "24701",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "And you can't just take it off when you leave work. That would have... [heavy] consequences."
+},
+{
+"k": "24702",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You probably have more friends than you know."
+},
+{
+"k": "24703",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[half-joking] You don't have another key to the Open Arms for me, [hopeful]do you?"
+},
+{
+"k": "24704",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Is that all?"
+},
+{
+"k": "24705",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Just talk it out."
+},
+{
+"k": "24706",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Did you have a plan?"
+},
+{
+"k": "24707",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "If you can't talk, what was your plan in coming here?"
+},
+{
+"k": "24708",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Look, maybe if I let you just talk, you'll get something out?"
+},
+{
+"k": "24709",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "If there's nothing else you can say, are we done?"
+},
+{
+"k": "24710",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "So we're stuck?"
+},
+{
+"k": "24711",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Wait..."
+},
+{
+"k": "24712",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I thought I had a way. I thought... you'd know what I was getting at."
+},
+{
+"k": "24713",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I don't think so. But..."
+},
+{
+"k": "24714",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I just want you to know..."
+},
+{
+"k": "24715",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I don't have the key I'd need, anyway."
+},
+{
+"k": "24716",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "But you came here with a plan."
+},
+{
+"k": "24717",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[to herself] I should have thought of another way."
+},
+{
+"k": "24718",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "My friends?"
+},
+{
+"k": "24719",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Sheriff, if I needed help, there was a time when I would have turned to my friends."
+},
+{
+"k": "24720",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "But what about  your friends?"
+},
+{
+"k": "24721",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Asking about friends, again?"
+},
+{
+"k": "24722",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Would you?"
+},
+{
+"k": "24723",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Yeah. You do have friends, don't you?"
+},
+{
+"k": "24724",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Snow and I have been friends for a long time."
+},
+{
+"k": "24725",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I've always thought of myself as kind of a loner."
+},
+{
+"k": "24726",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Although, you might call it more of a \"working relationship.\""
+},
+{
+"k": "24727",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Sure, I guess so."
+},
+{
+"k": "24728",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You probably have more friends than you think."
+},
+{
+"k": "24729",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "And that's where I should look for help?"
+},
+{
+"k": "24730",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Tell me what friends!"
+},
+{
+"k": "24731",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "How does that help?"
+},
+{
+"k": "24732",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "How does that help me find the Crooked Man?"
+},
+{
+"k": "24733",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Which friends?"
+},
+{
+"k": "24734",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "You don't always get second chances."
+},
+{
+"k": "24735",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Just watch out for your friends."
+},
+{
+"k": "24736",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "It's right under your nose."
+},
+{
+"k": "24737",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Come on, don't leave it at that."
+},
+{
+"k": "24738",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I don't think getting anywhere?"
+},
+{
+"k": "24739",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[defeated]We aren't gonna be getting anywhere, are we?"
+},
+{
+"k": "24740",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{annoyeda}Not many people smoke those."
+},
+{
+"k": "24741",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I really don't know."
+},
+{
+"k": "24742",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}You can try. I just..."
+},
+{
+"k": "24743",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I get it. Just work with me."
+},
+{
+"k": "24744",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[pointed]I don't think you'll be wasting your time."
+},
+{
+"k": "24745",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I look out for everyone."
+},
+{
+"k": "24746",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}It's my job to look out for people. And not just my friends."
+},
+{
+"k": "24747",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Should I suspect my friends?"
+},
+{
+"k": "24748",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[suspicious]Are you telling me my friends are involved?"
+},
+{
+"k": "24749",
+"who": "",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Are my friends in danger?"
+},
+{
+"k": "24750",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[defeated]These lips are sealed."
+},
+{
+"k": "24751",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}Who are you talking about? {angrya}Are my friends in danger?"
+},
+{
+"k": "24752",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}I'm... sorry if I'm wasting your time."
+},
+{
+"k": "24753",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}If you're thinking what I think you are... [chokes up]"
+},
+{
+"k": "24754",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "I hope so. Because I can't tell you."
+},
+{
+"k": "24755",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "He's a pain in my ass, but maybe I deserve it sometimes."
+},
+{
+"k": "24756",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "These lips are--"
+},
+{
+"k": "24757",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angryb}[pleading] If you could just point me in the right direction, I swear, I will fix this."
+},
+{
+"k": "24758",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}I don't know how, but I'm going to fix this."
+},
+{
+"k": "24759",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worriedb}[awkward] Sorry. I... wish I could do something."
+},
+{
+"k": "24760",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}She has to know about the ribbons..."
+},
+{
+"k": "24761",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[to Bigby][professional]Sorry, I tried calling first, but... no answer."
+},
+{
+"k": "24762",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}[to Nerissa] Sorry, I just need to talk to the Sheriff for a moment. Please excuse us."
+},
+{
+"k": "24763",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[to Bigby] Bigby?"
+},
+{
+"k": "24764",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[to Nerissa] One minute."
+},
+{
+"k": "24765",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[to Bigby]Is she all right?"
+},
+{
+"k": "24766",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}[concerned and curious]Has she said anything useful?"
+},
+{
+"k": "24767",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}I have something to talk to you about."
+},
+{
+"k": "24768",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}I don't want to pull you away if you're making progress."
+},
+{
+"k": "24769",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}But if not..."
+},
+{
+"k": "24770",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[whispers]I think she's just scared."
+},
+{
+"k": "24771",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Okay, but when you wrap up come see me."
+},
+{
+"k": "24772",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "No, not really."
+},
+{
+"k": "24773",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Then I need you to wrap up and check on something else."
+},
+{
+"k": "24774",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}I might have a new lead for you, but I don't know how solid it is."
+},
+{
+"k": "24775",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}Beauty and Beast called the office just now."
+},
+{
+"k": "24776",
+"who": "NERISSA",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{worrieda}[insistent]Thank you for listening, Sheriff. You should go on to your next business."
+},
+{
+"k": "24777",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{flusteredb}[whispering][unsure]They said they wanted to talk to you about something."
+},
+{
+"k": "24778",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[unsure]Or maybe it was Beauty and Beast's that set her off."
+},
+{
+"k": "24779",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Ribbons?"
+},
+{
+"k": "24780",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "It's connected to the ribbon."
+},
+{
+"k": "24781",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "It's connected to the ribbon. And you can't take the ribbon off."
+},
+{
+"k": "24782",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "It's how Faith and Lily died."
+},
+{
+"k": "24783",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "But the way she reacted when you mentioned Beauty and Beast makes me think that maybe she was really there to try to tell me something about them."
+},
+{
+"k": "24784",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "She sure told us something the way she reacted when I mentioned the Crooked Man."
+},
+{
+"k": "24785",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Maybe there's more."
+},
+{
+"k": "24786",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Maybe she just couldn't say."
+},
+{
+"k": "24787",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}The magic that Crane was talking about..."
+},
+{
+"k": "24788",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[weary]All the girls down at the Pudding 'N' Pie wear them."
+},
+{
+"k": "24789",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[dark]It's how Faith and Lily died."
+},
+{
+"k": "24790",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "[drawn out, a growing horror]Or...?"
+},
+{
+"k": "24791",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Well, she sure told us something the way she reacted when I mentioned the Crooked Man."
+},
+{
+"k": "24792",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "Whatever it is, if Beauty and Beast have something to say about the Crooked Man, they're our best lead."
+},
+{
+"k": "24793",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}What did she tell you?"
+},
+{
+"k": "24794",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[a little confused]That was... abrupt."
+},
+{
+"k": "24795",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}I didn't mean to rush her out."
+},
+{
+"k": "24796",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}[remembering]You know, Beauty came to me a while back..."
+},
+{
+"k": "24797",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}She did?"
+},
+{
+"k": "24798",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}[thinking it through][remembering]She was looking for... financial assistance. I told her there was nothing I could do, and... {sada}and she said that meant she'd have to go somewhere else."
+},
+{
+"k": "24799",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "STUB: (<<author>>Daniel Martin, Fri Jan 31 19:28:53 2014<<date:1391225333>>) Bigby says that he already heard that  Beauty borrowed from the Crooked Man."
+},
+{
+"k": "24800",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[hint of accusation]Yeah, she told me about that."
+},
+{
+"k": "24801",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{sada}[guitily]She was pretty upset."
+},
+{
+"k": "24802",
+"who": "BIGBY",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{normalb}More than just trouble making rent."
+},
+{
+"k": "24803",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "We didn't know what a danger the Crooked man is."
+},
+{
+"k": "24804",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}[not listening to Bibgy]Assuming they've heard what happened last night..."
+},
+{
+"k": "24805",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingb}[not listening to Bibgy]And what the Crooked Man is willing to do."
+},
+{
+"k": "24806",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkinga}Why?"
+},
+{
+"k": "24807",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}I don't know. Bufkin took the message."
+},
+{
+"k": "24808",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{thinkingc}Is there something I need to know about?"
+},
+{
+"k": "24809",
+"who": "SNOW",
+"ctx": "Fables104/env_bigbyoffice",
+"en": "{angrya}Bigby, what aren't you telling me?"
+}
+]

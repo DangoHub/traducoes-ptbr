@@ -1,0 +1,2366 @@
+[
+{
+"k": "1075",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "There is no content available for download at this time. Please try again later."
+},
+{
+"k": "1076",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "LOADING TROPHIES"
+},
+{
+"k": "1077",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Hold and drag to move your character.\nTwo-finger touch to show selectables."
+},
+{
+"k": "1078",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SELECTABLES"
+},
+{
+"k": "1079",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Inventory"
+},
+{
+"k": "1080",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Selectables"
+},
+{
+"k": "1081",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please connect your device to the Internet"
+},
+{
+"k": "1082",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please Install Episode First"
+},
+{
+"k": "1083",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Episode Not Installed"
+},
+{
+"k": "1084",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "EPISODE NOT INSTALLED"
+},
+{
+"k": "1085",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "DOWNLOADS"
+},
+{
+"k": "1086",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Best Value - Save on episodes 2-5 and play them as they become available!"
+},
+{
+"k": "1087",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "MULTI-PACK"
+},
+{
+"k": "1088",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "RESTORE PURCHASES"
+},
+{
+"k": "1089",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Install"
+},
+{
+"k": "1090",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Please connect your PlayStation®Vita system to the Internet"
+},
+{
+"k": "1091",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Are you sure you want to quit the game and return to the home screen?"
+},
+{
+"k": "1092",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You defended his son\non the drug store."
+},
+{
+"k": "1093",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You told him about\nyour past."
+},
+{
+"k": "1094",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You asked him to kill\nhis son."
+},
+{
+"k": "1095",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "He was lost to the herd\ntrying to save Ben."
+},
+{
+"k": "1096",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Crooked Man"
+},
+{
+"k": "1097",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You went to \nhis place first."
+},
+{
+"k": "1098",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You prevented him\nfrom dying."
+},
+{
+"k": "1099",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "CONTINUE THE STORY"
+},
+{
+"k": "1100",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Super long blurb about buying the comics from vertigo goes here"
+},
+{
+"k": "1101",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Pick up a graphic novel today!"
+},
+{
+"k": "1102",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You promised her you \nwouldn't tell Beast\nthat you saw her \noutside the apartment."
+},
+{
+"k": "1103",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You promised her you\nwouldn't tell Beast\nthat you saw her outsire\nthe apartment."
+},
+{
+"k": "1104",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You told him that \nyou saw Beauty outside\nthe apartment."
+},
+{
+"k": "1105",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You beat him while\nhe was down."
+},
+{
+"k": "1106",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You fought him after \nthe interrogation."
+},
+{
+"k": "1107",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Butcher"
+},
+{
+"k": "1108",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You beat him up during \nthe interrogation."
+},
+{
+"k": "1109",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You promised her you\nwouldn't tell Beast\nthat you saw her outside\nthe apartment."
+},
+{
+"k": "1110",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You gave him a drink \nwhen he asked for\none in your apartment."
+},
+{
+"k": "1111",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You gave him a drink\nwhen he asked for\none in your apartment."
+},
+{
+"k": "1112",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You help him \nto avoid the farm."
+},
+{
+"k": "1113",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You took him back\nto the Witching Well."
+},
+{
+"k": "1114",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You ripped his\nhead off."
+},
+{
+"k": "1115",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You imprisoned him."
+},
+{
+"k": "1116",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You tossed him down\nthe Witching Well."
+},
+{
+"k": "1117",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to burn him\nwith a cigar during\nthe interrogation."
+},
+{
+"k": "1118",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Dee"
+},
+{
+"k": "1119",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to smash him\nover the head with a bottle\nduring the interrogation."
+},
+{
+"k": "1120",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Dum"
+},
+{
+"k": "1121",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You killed him."
+},
+{
+"k": "1122",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You gave her money\nafter the fight\nwith The Woodsman."
+},
+{
+"k": "1123",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Georgie"
+},
+{
+"k": "1124",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You made him suffer\nbefore he died."
+},
+{
+"k": "1125",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You left him\nto die."
+},
+{
+"k": "1126",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You smashed up\nhis place."
+},
+{
+"k": "1127",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Greenleaf"
+},
+{
+"k": "1128",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You kicked down\nher door."
+},
+{
+"k": "1129",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You burned\nher tree."
+},
+{
+"k": "1130",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You offered\nher a job."
+},
+{
+"k": "1131",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Gren"
+},
+{
+"k": "1132",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You ripped his arm off\nat the Trip Trap bar."
+},
+{
+"k": "1133",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You drank with Gren\nafter Lily's funeral."
+},
+{
+"k": "1134",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You interrupted her\nsister's funeral."
+},
+{
+"k": "1135",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You pretended to be\nWoodsman while \nshe was passed out."
+},
+{
+"k": "1136",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Jack"
+},
+{
+"k": "1137",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You threw him out of\nthe Trip Trap."
+},
+{
+"k": "1138",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You made a \ndeal with him."
+},
+{
+"k": "1139",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You gave her a cigarette\nduring your\nfinal conversation."
+},
+{
+"k": "1140",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You tried to take\nher ribbon off\nin Bigby's office."
+},
+{
+"k": "1141",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You tried to take\nher ribbon during\nyour final conversation."
+},
+{
+"k": "1142",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You brought her\nalong with you\nto the Trip Trap."
+},
+{
+"k": "1143",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You showed her\nCrane's photograph\nof her."
+},
+{
+"k": "1144",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You promised to bring\nthe Crooked Man\nback alive."
+},
+{
+"k": "1145",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to \nwait for him."
+},
+{
+"k": "1146",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "TJ"
+},
+{
+"k": "1147",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to\nwait for him."
+},
+{
+"k": "1148",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You accepted his \nbeetle and promised\nto give it to Snow."
+},
+{
+"k": "1149",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You slapped him\nduring the interrogation\nin his apartment."
+},
+{
+"k": "1150",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You stood up for him\nwhen Snow wanted to \nsend him to the Farm."
+},
+{
+"k": "1151",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You gave him\nmoney."
+},
+{
+"k": "1152",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You tried to\nremove her ribbon\nat the Pudding N' Pie."
+},
+{
+"k": "1153",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Woody"
+},
+{
+"k": "1154",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You glassed the Woodsman\nat the Trip Trap bar."
+},
+{
+"k": "1155",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to smash him\nover the head with\na bottle during interrogation."
+},
+{
+"k": "1156",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to burn him\nwith a cigarette\nduring interrogation."
+},
+{
+"k": "1157",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You chose to arrest him\nat the Trip Trap bar."
+},
+{
+"k": "1158",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Crane"
+},
+{
+"k": "1159",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You slapped him."
+},
+{
+"k": "1160",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Special Stats"
+},
+{
+"k": "1161",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "SPECIAL STATS"
+},
+{
+"k": "1162",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "Player Choices"
+},
+{
+"k": "1163",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You lied to him\nabout seeing Beauty\noutside the apartment."
+},
+{
+"k": "1164",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You refused to keep \nsecrets for her."
+},
+{
+"k": "1165",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You used similar \ninterrogation tactics."
+},
+{
+"k": "1166",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You offered him \nprotection at the \nBusiness Office."
+},
+{
+"k": "1167",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You advised him to\nleave town."
+},
+{
+"k": "1168",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You sent Colin \nto the farm."
+},
+{
+"k": "1169",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You reported him \nto Snow for burglary."
+},
+{
+"k": "1170",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You left him \nbehind."
+},
+{
+"k": "1171",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You refused to \ntake his present  \nto Snow."
+},
+{
+"k": "1172",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You threatened him \nat the trial."
+},
+{
+"k": "1173",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You impressed her\nwith your detective\nskills."
+},
+{
+"k": "1174",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You confiscated\nDee's money while\nhe was in custody."
+},
+{
+"k": "1175",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You took money\nfrom Georgie's safe."
+},
+{
+"k": "1176",
+"who": "",
+"ctx": "Menu/ui_menu",
+"en": "You paid her extra\nmoney when arranging\nfor your date."
+},
+{
+"k": "1177",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "TEMP TITLES"
+},
+{
+"k": "1178",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Okay"
+},
+{
+"k": "1179",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Restart"
+},
+{
+"k": "1180",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Examine"
+},
+{
+"k": "1181",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Use"
+},
+{
+"k": "1182",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Talk To"
+},
+{
+"k": "1183",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Smell"
+},
+{
+"k": "1184",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Open"
+},
+{
+"k": "1185",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Close"
+},
+{
+"k": "1186",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Remove"
+},
+{
+"k": "1187",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Listen"
+},
+{
+"k": "1188",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Transform"
+},
+{
+"k": "1189",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "[Do not translate!]\nEmpty verb text node!"
+},
+{
+"k": "1190",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "..."
+},
+{
+"k": "1191",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Look At"
+},
+{
+"k": "1192",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Pick Up"
+},
+{
+"k": "1193",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Push"
+},
+{
+"k": "1194",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Pull"
+},
+{
+"k": "1195",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Enter"
+},
+{
+"k": "1196",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Punch"
+},
+{
+"k": "1197",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Kick"
+},
+{
+"k": "1198",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Paused"
+},
+{
+"k": "1199",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "New Book of Fables entry unlocked"
+},
+{
+"k": "1200",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Back Out"
+},
+{
+"k": "1201",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Auto Saving"
+},
+{
+"k": "1202",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Woodsman's Apartment"
+},
+{
+"k": "1203",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Faith's Apartment"
+},
+{
+"k": "1204",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "FIND OUT WHY\nTOAD CALLED"
+},
+{
+"k": "1205",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "MEET FAITH'S\nHUSBAND"
+},
+{
+"k": "1206",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Confirm Choice"
+},
+{
+"k": "1207",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "[More]"
+},
+{
+"k": "1208",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "[Previous]"
+},
+{
+"k": "1209",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "This game series adapts to the choices you make.\n\nThe story is tailored by how you play."
+},
+{
+"k": "1210",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Hidden In New York there is a clandestine community known as Fabletown\nfilled with fairy tale characters. The Fables who live there arrived hundreds of years ago \nwhen their Homelands were attacked. Forced into exile, they protect themselves\nfrom the mundane world with a magic called Glamor."
+},
+{
+"k": "1211",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "The Fables who live there arrived hundreds of years ago when their Homelands were attacked."
+},
+{
+"k": "1212",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Forced into exile, they protect themselves from the mundane world with a magic called Glamor."
+},
+{
+"k": "1213",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Sheriff Bigby Wolf protects them from each other."
+},
+{
+"k": "1214",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Click"
+},
+{
+"k": "1215",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Press"
+},
+{
+"k": "1216",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "To Back Out <<id:357142549>>Click"
+},
+{
+"k": "1217",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "To Back Out Click"
+},
+{
+"k": "1218",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "TELLTALE GAMES"
+},
+{
+"k": "1219",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "<<id:{55D7DBD7-1FDF-45D0-889A-F892CAFB3FCF}>>PRESENTS"
+},
+{
+"k": "1220",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "IN ASSOCIATION WITH"
+},
+{
+"k": "1221",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "VERTIGO from DC Entertainment\nWARNER BROS. INTERACTIVE ENTERTAINMENT"
+},
+{
+"k": "1222",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "PRESENTS"
+},
+{
+"k": "1223",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "The name of the start node is the string ID for the rich presence string.  This text is the rich presence string."
+},
+{
+"k": "1224",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Playing Episode 1:  Faith."
+},
+{
+"k": "1225",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Playing Episode 2:  Smoke and Mirrors."
+},
+{
+"k": "1226",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Playing Episode 3:  A Crooked Mile."
+},
+{
+"k": "1227",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Playing Episode 4:  In Sheep's Clothing."
+},
+{
+"k": "1228",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Playing Episode 5:  Cry Wolf."
+},
+{
+"k": "1229",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Playing the final chapter."
+},
+{
+"k": "1230",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Watching the Credits."
+},
+{
+"k": "1231",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Exploring the Menus."
+},
+{
+"k": "1232",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Exploring the Book of Fables."
+},
+{
+"k": "1233",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Taking a break."
+},
+{
+"k": "1234",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Comparing everyone's choices."
+},
+{
+"k": "1235",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Saving..."
+},
+{
+"k": "1236",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Smash"
+},
+{
+"k": "1237",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Turn On"
+},
+{
+"k": "1238",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Turn Off"
+},
+{
+"k": "1239",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Move"
+},
+{
+"k": "1240",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Grab"
+},
+{
+"k": "1241",
+"who": "",
+"ctx": "Project/ui_text",
+"en": "Throw"
+},
+{
+"k": "1242",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Ease up, Bigby... We're on the same side here."
+},
+{
+"k": "1243",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[heavy breathing] You... sonuvabitch... make me... run after you..."
+},
+{
+"k": "1244",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Why did you run?"
+},
+{
+"k": "1245",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[heavy breathing] Why... [coughs] did you run?"
+},
+{
+"k": "1246",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath] What?"
+},
+{
+"k": "1247",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Fuck man, because you chased after me. The fuck was I supposed to do?"
+},
+{
+"k": "1248",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "A fuckin' guy blew his face off in front of me. The fuck would you do?"
+},
+{
+"k": "1249",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath] The same thing should be doing. Investigating. Looking for clues. The fuck you doing hiding in closets?"
+},
+{
+"k": "1250",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "What were you doing back there?"
+},
+{
+"k": "1251",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Who are you?"
+},
+{
+"k": "1252",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[heavy breathing] Who are you?"
+},
+{
+"k": "1253",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Listen, man. I'm a... private investigator."
+},
+{
+"k": "1254",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "I'm a... private investigator. Just looking for the same answers you are."
+},
+{
+"k": "1255",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "You're lookin' for The Woodsman, right?"
+},
+{
+"k": "1256",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Who's your boss?"
+},
+{
+"k": "1257",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Oh, don't worry. It still is."
+},
+{
+"k": "1258",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "I can't tell you that. It's confidential. Sorry. I'm sure you understand."
+},
+{
+"k": "1259",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Who's your \"employer\"?"
+},
+{
+"k": "1260",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "This could've been easy."
+},
+{
+"k": "1261",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Checking out the guy was married to the girl. Seemed a good place to start. Tracking down... leads."
+},
+{
+"k": "1262",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "What kind of leads?"
+},
+{
+"k": "1263",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Nope. Can't say that I do. Come on. You're coming with me."
+},
+{
+"k": "1264",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Who are you exactly?"
+},
+{
+"k": "1265",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Who hired you?"
+},
+{
+"k": "1266",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "This is for a sandwich shop."
+},
+{
+"k": "1267",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Really? Huh. Must've run out."
+},
+{
+"k": "1268",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "I'm Dee, and I'm a private investigator. There's a business card in my shirt pocket. You can see for yourself."
+},
+{
+"k": "1269",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Who are you really?"
+},
+{
+"k": "1270",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "[hit him]"
+},
+{
+"k": "1271",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Ow!"
+},
+{
+"k": "1272",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "The fuck?!"
+},
+{
+"k": "1273",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[happy] Dum."
+},
+{
+"k": "1274",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "He's Dum."
+},
+{
+"k": "1275",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "No. I'm Dee..."
+},
+{
+"k": "1276",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Dumb? Yeah, it is. Look, it'd be much easier for you to--"
+},
+{
+"k": "1277",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Come on."
+},
+{
+"k": "1278",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "I know where he is. My guy says he's holed up at the Trip Trap. We can go over there right now. The both of us. My employer is looking to ask him a few questions, too."
+},
+{
+"k": "1279",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Hey. It's the dog guy."
+},
+{
+"k": "1280",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Wow. Two car accidents in one week?"
+},
+{
+"k": "1281",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Hey, it's Superman."
+},
+{
+"k": "1282",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Hey there. You've had a busy week."
+},
+{
+"k": "1283",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "The one that hit me."
+},
+{
+"k": "1284",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "The one I was talking to"
+},
+{
+"k": "1285",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Well, come to think of it... they both hit ya."
+},
+{
+"k": "1286",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "We both know license plates are hard to remember."
+},
+{
+"k": "1287",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "That fat guy that hit you with the thing or the other fat guy that you were talkin' to?"
+},
+{
+"k": "1288",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[beat]Sorry I hit you with my car."
+},
+{
+"k": "1289",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Well, first one hit ya with a crowbar, then the other one started kickin' ya when you were out."
+},
+{
+"k": "1290",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Where are they now?"
+},
+{
+"k": "1291",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Anyway, they both ran when I came yellin', hopped in a car and drove off. Didn't catch a plate number."
+},
+{
+"k": "1292",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "The one I was talking to, I guess."
+},
+{
+"k": "1293",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Either."
+},
+{
+"k": "1294",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Either. Both."
+},
+{
+"k": "1295",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Oh. Sorry, I... [looks over at Bigby] thought you were someone else. [beat] You sure you don't want me callin' an ambulance?"
+},
+{
+"k": "1296",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "That doesn't look good."
+},
+{
+"k": "1297",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "I think we'll be fine, Officer. Thank you for the help."
+},
+{
+"k": "1298",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "He's a quick healer."
+},
+{
+"k": "1299",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Actually… it looks like the bleeding may have stopped. Weird."
+},
+{
+"k": "1300",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Yeah, that's gonna need stitches."
+},
+{
+"k": "1301",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Nice to see you again. You stayin' outta trouble?"
+},
+{
+"k": "1302",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Sneaky fuck."
+},
+{
+"k": "1303",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "I'm sorry. Have we met?"
+},
+{
+"k": "1304",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[yells after them] Next time it's gonna cost ya."
+},
+{
+"k": "1305",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[yells] I got my eye on you. [to himself] Sneaky fuck."
+},
+{
+"k": "1306",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "default"
+},
+{
+"k": "1307",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[yells] And stop runnin' in the street."
+},
+{
+"k": "1308",
+"who": "WACHOWKSI",
+"ctx": "Fables101/env_alleychase",
+"en": "Was wondering when you'd show up."
+},
+{
+"k": "1309",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "You brought your purse, I hope?"
+},
+{
+"k": "1310",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "The fuck are you doing here?"
+},
+{
+"k": "1311",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[grunting] Nice to see you, too."
+},
+{
+"k": "1312",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Car 56. Just had a major injury collision with a male pedestrian. Guy just jumped up and started running. He's gotta be on somethin'! I'm pursuing on foot, west toward 9th street."
+},
+{
+"k": "1313",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Shit shit shit!"
+},
+{
+"k": "1314",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "My employer is looking to ask him a few questions, too."
+},
+{
+"k": "1315",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Stop!"
+},
+{
+"k": "1316",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Hey!"
+},
+{
+"k": "1317",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pain] Ow!"
+},
+{
+"k": "1318",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pain] Dammit!"
+},
+{
+"k": "1319",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath] Fat little... fuck!"
+},
+{
+"k": "1320",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath] When I catch you.."
+},
+{
+"k": "1321",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[breath, running]"
+},
+{
+"k": "1322",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running] Leave me alone!"
+},
+{
+"k": "1323",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running]Just fuck off, will ya?!"
+},
+{
+"k": "1324",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running]The fuck you want?"
+},
+{
+"k": "1325",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running]Stop!"
+},
+{
+"k": "1326",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running]Hey!"
+},
+{
+"k": "1327",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running]Hey, man! Stop already!"
+},
+{
+"k": "1328",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath, running]Stop! Police!"
+},
+{
+"k": "1329",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[heavy breathing] What were you doing back there?"
+},
+{
+"k": "1330",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "DEE"
+},
+{
+"k": "1331",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[out of breath] The same shit you should be doing. Investigating. Looking for clues. The fuck are you doing hiding in closets?"
+},
+{
+"k": "1332",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "I'm asking the questions."
+},
+{
+"k": "1333",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "I could'da killed you back there."
+},
+{
+"k": "1334",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Whoa, watch it, buddy."
+},
+{
+"k": "1335",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Take it slow."
+},
+{
+"k": "1336",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Sorry I didn't stop."
+},
+{
+"k": "1337",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Oh… yeah. That's okay."
+},
+{
+"k": "1338",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Sorry for not stopping back there."
+},
+{
+"k": "1339",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Nice driving"
+},
+{
+"k": "1340",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "Whoa. Don't give me that shit. You ran out into the middle of the street. The hell was I supposed to do?"
+},
+{
+"k": "1341",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Nice driving."
+},
+{
+"k": "1342",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "What happened?"
+},
+{
+"k": "1343",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "That part I gathered."
+},
+{
+"k": "1344",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "I hit you with my patrol car."
+},
+{
+"k": "1345",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "I was responding to a burglar alarm."
+},
+{
+"k": "1346",
+"who": "WACHOWSKI",
+"ctx": "Fables101/env_alleychase",
+"en": "I was responding to a call about a gunshot."
+},
+{
+"k": "1347",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Had some questions for Larry. Didn't think it'd go how it did."
+},
+{
+"k": "1348",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] [higher pitched, like he just got slapped with something]Fuck, man!"
+},
+{
+"k": "1349",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] A man's dead."
+},
+{
+"k": "1350",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] I know how it looks, but I had nothing to do with that."
+},
+{
+"k": "1351",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Then who did?"
+},
+{
+"k": "1352",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "You're covered in blood!"
+},
+{
+"k": "1353",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "You're coming with me."
+},
+{
+"k": "1354",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] [intense] Then who did?"
+},
+{
+"k": "1355",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "Bullshit! You're covered in blood!"
+},
+{
+"k": "1356",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Questioning."
+},
+{
+"k": "1357",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] What? Why?"
+},
+{
+"k": "1358",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Come on. I'm bringing you in."
+},
+{
+"k": "1359",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4]Aaargh!"
+},
+{
+"k": "1360",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] When I mentioned her being dead, he freaked out. I figured someone'd told him. How was I supposed to know?"
+},
+{
+"k": "1361",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] I couldn't stop him, man."
+},
+{
+"k": "1362",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Look, I was just asking him about the girl. That's all."
+},
+{
+"k": "1363",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Fucker shot himself right in front of me."
+},
+{
+"k": "1364",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] [looking guilty] Shit..."
+},
+{
+"k": "1365",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "You're lookin' for the Woodsman, right?"
+},
+{
+"k": "1366",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "I know where he is. My guy says he's holed up at the Trip Trap. We can go over there right now. The both of us.  My employer is looking to ask him a few questions, too."
+},
+{
+"k": "1367",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4]Nope. Can't say that I do. Come on. You're coming with me."
+},
+{
+"k": "1368",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "Checking out the guy who was married to the girl. Seemed a good place to start. Tracking down...leads."
+},
+{
+"k": "1369",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] You almost looked peaceful."
+},
+{
+"k": "1370",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] With an open wound on the back of your head."
+},
+{
+"k": "1371",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Except you're lying in a dirty alley."
+},
+{
+"k": "1372",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Yup."
+},
+{
+"k": "1373",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Where did they go?"
+},
+{
+"k": "1374",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Just leave me here."
+},
+{
+"k": "1375",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Come on. Get up."
+},
+{
+"k": "1376",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Just leave me here."
+},
+{
+"k": "1377",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Where'd they go?"
+},
+{
+"k": "1378",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] That explains the ribs..."
+},
+{
+"k": "1379",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Well, after the one guy hit you, and the other one finished kicking you..."
+},
+{
+"k": "1380",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Explains the ribs..."
+},
+{
+"k": "1381",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Well, the one guy hit you, then the other one started kicking you."
+},
+{
+"k": "1382",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] What happened?"
+},
+{
+"k": "1383",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Then they jumped in a car and drove off."
+},
+{
+"k": "1384",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Then that's where we'll go. I'll call a cab."
+},
+{
+"k": "1385",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] We should check in on Toad. See if there's anything there that can get us back on the trail."
+},
+{
+"k": "1386",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] What next?"
+},
+{
+"k": "1387",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup4] Dee mentioned the Trip Trap."
+},
+{
+"k": "1388",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Door"
+},
+{
+"k": "1389",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Window"
+},
+{
+"k": "1390",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Fire Escape"
+},
+{
+"k": "1391",
+"who": "ANGRYMAN",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup5] He went next door, asshole!"
+},
+{
+"k": "1392",
+"who": "SNOW",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup]Guess we're out of options..."
+},
+{
+"k": "1393",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Chair"
+},
+{
+"k": "1394",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Cabinet"
+},
+{
+"k": "1395",
+"who": "DEE",
+"ctx": "Fables101/env_alleychase",
+"en": "The fuck?"
+},
+{
+"k": "1396",
+"who": "BIGBY",
+"ctx": "Fables101/env_alleychase",
+"en": "[pickup7] [heavy breathing] Why were you looking through books, huh?"
+},
+{
+"k": "1397",
+"who": "",
+"ctx": "Fables101/env_alleychase",
+"en": "Closet"
+},
+{
+"k": "1398",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "GAH!"
+},
+{
+"k": "1399",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Looks cheap."
+},
+{
+"k": "1400",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "It looks to me like you didn't spend very much."
+},
+{
+"k": "1401",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "What's with your eye?"
+},
+{
+"k": "1402",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Oy! Bigby, what the hell?"
+},
+{
+"k": "1403",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Toad?"
+},
+{
+"k": "1404",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Alright, fine. Have it your way."
+},
+{
+"k": "1405",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "The real question is... Can I help you?"
+},
+{
+"k": "1406",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Okay, but be cool."
+},
+{
+"k": "1407",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "No can do."
+},
+{
+"k": "1408",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Not now."
+},
+{
+"k": "1409",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Alright. We'll try this out. You tell me if you hear anything about the Woodsman..."
+},
+{
+"k": "1410",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I understand. It's a sensitive matter."
+},
+{
+"k": "1411",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Oh... right... okay."
+},
+{
+"k": "1412",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'm not saying anything more right now."
+},
+{
+"k": "1413",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'm gonna find out anyway, mate. It's what I'm trying to tell you."
+},
+{
+"k": "1414",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I've got to keep this quiet."
+},
+{
+"k": "1415",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Yeah, but not from me."
+},
+{
+"k": "1416",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "It's easier for me to do nothing. No offense taken."
+},
+{
+"k": "1417",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Yeah?"
+},
+{
+"k": "1418",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "...Or that girl he had here the other night."
+},
+{
+"k": "1419",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Aw, fuck. What's wrong with it?"
+},
+{
+"k": "1420",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I told the witches I needed something fast."
+},
+{
+"k": "1421",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I've used this one before."
+},
+{
+"k": "1422",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "No... They usually do a good job."
+},
+{
+"k": "1423",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "It's a frog eye."
+},
+{
+"k": "1424",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Right, well. It won't happen again."
+},
+{
+"k": "1425",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[worried] You're not saying anything..."
+},
+{
+"k": "1426",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I know. I heard something about that. Poor girl."
+},
+{
+"k": "1427",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "But I've just found out where this girl lives. I should go talk to her husband."
+},
+{
+"k": "1428",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[phone line process] Oh. So, what are you gonna do?"
+},
+{
+"k": "1429",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[phone line process] Bigby, hi, I… [Crane gets particularly loud, so she waits]"
+},
+{
+"k": "1430",
+"who": "CRANE",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[phone line process] [wild loop yelling about Bigby being irresponsible and the case going sideways, etc.]"
+},
+{
+"k": "1431",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[phone line process] I need you to come back to the office. [Crane continues to yell] I told him about the girl and—[Crane yelling again] … he'd like to speak with us about it."
+},
+{
+"k": "1432",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[down] Fine. I'll try and smooth things over. But be careful. Her husband may still be a suspect."
+},
+{
+"k": "1433",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Okay."
+},
+{
+"k": "1434",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Sorry. I gotta follow this up."
+},
+{
+"k": "1435",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Follow Lead"
+},
+{
+"k": "1436",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Go See Snow"
+},
+{
+"k": "1437",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I'll be right over."
+},
+{
+"k": "1438",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[genuine] Thank you, Bigby."
+},
+{
+"k": "1439",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "All modern conveniences."
+},
+{
+"k": "1440",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "We're on it."
+},
+{
+"k": "1441",
+"who": "DUM",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "The window's gone."
+},
+{
+"k": "1442",
+"who": "DUM",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Smells like smoke in here."
+},
+{
+"k": "1443",
+"who": "CRANE",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[improvised yelling at Snow, blaming her, whatever]"
+},
+{
+"k": "1444",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Bigby, stop! It's Toad."
+},
+{
+"k": "1445",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Toad. Is that you? What's going on here?"
+},
+{
+"k": "1446",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Thanks for being... well, decent about that."
+},
+{
+"k": "1447",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "What? Really. That-- that would be great, Miss White. Thank you."
+},
+{
+"k": "1448",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Mr Toad, please submit a report with the damages Mr Wolf has caused you and we'll look into getting you reimbursed."
+},
+{
+"k": "1449",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Oh. Well, if you were the cause of it, then we should pay for it."
+},
+{
+"k": "1450",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "I landed on it."
+},
+{
+"k": "1451",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "In my... altercation with the Woodsman, we ended up going out the window and..."
+},
+{
+"k": "1452",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Hey! Wake up!"
+},
+{
+"k": "1453",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "What did he look like?"
+},
+{
+"k": "1454",
+"who": "SNOW",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Well, I guess we should go there."
+},
+{
+"k": "1455",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[sigh] What?"
+},
+{
+"k": "1456",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "No. I swear."
+},
+{
+"k": "1457",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "You sure you didn't touch this?"
+},
+{
+"k": "1458",
+"who": "",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "You crumpled the paper."
+},
+{
+"k": "1459",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Bullshit."
+},
+{
+"k": "1460",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Where'd it come from?"
+},
+{
+"k": "1461",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[sigh]It's worthless. Old news from an old place."
+},
+{
+"k": "1462",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "You threw this away. Why?"
+},
+{
+"k": "1463",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Not sure."
+},
+{
+"k": "1464",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "No!"
+},
+{
+"k": "1465",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "A splinter, huh?"
+},
+{
+"k": "1466",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "A splinter of glass?"
+},
+{
+"k": "1467",
+"who": "GLAMOURTOAD",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "Yeah."
+},
+{
+"k": "1468",
+"who": "BIGBY",
+"ctx": "Fables101/env_andersenwoodsmanapt",
+"en": "[warning] I find out you messed up my crime scene..."
+}
+]

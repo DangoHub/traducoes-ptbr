@@ -1,0 +1,1892 @@
+[
+{
+"k": "31218",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sad]Nobody would control us, or use us... we were going to be in charge for once."
+},
+{
+"k": "31219",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "We started this place together. So nobody would control us, or use us... we were going to be in charge for once. That was the point."
+},
+{
+"k": "31220",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]We're all liars, aren't we?"
+},
+{
+"k": "31221",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[accusing; angry]But that was all bullshit, right?"
+},
+{
+"k": "31222",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[defensive]It didn't start that way! [beat] If I could take it back..."
+},
+{
+"k": "31223",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It's my life!"
+},
+{
+"k": "31224",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You're not gonna take that away from me."
+},
+{
+"k": "31225",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[slight anger; frustration]I'm sick of everyone thinking they can just-- [searches for the words] do what they want with my life."
+},
+{
+"k": "31226",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I thought it would be different here."
+},
+{
+"k": "31227",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But it's all the fucking same."
+},
+{
+"k": "31228",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in shock]No no no no no!"
+},
+{
+"k": "31229",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[horrified]Vivian…"
+},
+{
+"k": "31230",
+"who": "IN GENERAL I FEEL LIKE SOME OF THE DIALOG IDLES ARE OCCASIONALLY A LITTLE *TOO INTERESTING*",
+"ctx": "Fables105/env_puddingnpie",
+"en": ") .  They should be natural and interesting, yeah, but basically background-y.  A lot of players can't make a choice and listen to the idle at the same time.  We don't want to pull their attention in two different directions.\n\nAnd, idles should never ever move the story ball forward.  Cool important stuff belongs in the mainline.\n\nAll IMHO, feel free to disagree!"
+},
+{
+"k": "31231",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Jesus."
+},
+{
+"k": "31232",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You couldn't stop her?"
+},
+{
+"k": "31233",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I have to arrest you."
+},
+{
+"k": "31234",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]You think I'm the one to fuckin' blame?"
+},
+{
+"k": "31235",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[stern]Georgie... [calm down]"
+},
+{
+"k": "31236",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I'm not going to stop you."
+},
+{
+"k": "31237",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Get UP!"
+},
+{
+"k": "31238",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "...both of you."
+},
+{
+"k": "31239",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "{AngryC}You expect me to believe that?"
+},
+{
+"k": "31240",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Georgie, listen to me."
+},
+{
+"k": "31241",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[rage]You're not my fucking mother! So keep your goddamn fuckin' nose out of it!"
+},
+{
+"k": "31242",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[rage]I told you to shut the hell up!"
+},
+{
+"k": "31243",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[shock]Just-- [beat] Jesus..."
+},
+{
+"k": "31244",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[cold]It's for the best. Now Nerissa and the others can be free."
+},
+{
+"k": "31245",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[numb]The fuck is wrong with you?"
+},
+{
+"k": "31246",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[frustrated]Dammit!"
+},
+{
+"k": "31247",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Why would she want to be involved in this?"
+},
+{
+"k": "31248",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Said she'd rather die on her own terms. For somethin' good... or at least somethin' close to it."
+},
+{
+"k": "31249",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I know I made a mistake... killin' those girls."
+},
+{
+"k": "31250",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]I know you think it's my fault."
+},
+{
+"k": "31251",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[sympathetic]You couldn't stop her?"
+},
+{
+"k": "31252",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry]But I-- [coughing] I did what I had to!"
+},
+{
+"k": "31253",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry] That I killed 'em for some twisted pleasure of mine."
+},
+{
+"k": "31254",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[defeated; angry]And then it comes back to bite you in the ass because some good-for-nothin'-- [cough]Crooked bastard decides you're not worth shit anymore! [groans in pain]"
+},
+{
+"k": "31255",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; anry]You don't always get a choice!"
+},
+{
+"k": "31256",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry]This is just bullshit!"
+},
+{
+"k": "31257",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry] Some of the girls decided to pull a runner on us."
+},
+{
+"k": "31258",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry] Crooked Man told me to \"take care of it\". What do you think that means? Huh!"
+},
+{
+"k": "31259",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "None of this would've happened if it wasn't for that bastard!"
+},
+{
+"k": "31260",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Piece of shit."
+},
+{
+"k": "31261",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "All of it!"
+},
+{
+"k": "31262",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It's his fuckin' fault!"
+},
+{
+"k": "31263",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[sharp pain]Ah!"
+},
+{
+"k": "31264",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Come on! We can't stay here."
+},
+{
+"k": "31265",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Hang on. I need a minute."
+},
+{
+"k": "31266",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[worried]Okay..."
+},
+{
+"k": "31267",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[freaking out]And now the Sheriff is chasing us through the streets!"
+},
+{
+"k": "31268",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "We come here to escape, but all we find is even more shit."
+},
+{
+"k": "31269",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "What were we supposed to do?"
+},
+{
+"k": "31270",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]I wish you were right."
+},
+{
+"k": "31271",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "There had to be a way..."
+},
+{
+"k": "31272",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[dying]Sure it's not."
+},
+{
+"k": "31273",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Crooked Man'll be there? You're sure?"
+},
+{
+"k": "31274",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Crooked Man made me do it!"
+},
+{
+"k": "31275",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[hurt]I trusted you."
+},
+{
+"k": "31276",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You have to understand... nobody was supposed to die."
+},
+{
+"k": "31277",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "People like us could come here, and be taken care of. They'd have a home."
+},
+{
+"k": "31278",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "That was the point."
+},
+{
+"k": "31279",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[accusing]But then you put those ribbons around their necks and wouldn't let them leave."
+},
+{
+"k": "31280",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But you don't have a choice. Not really."
+},
+{
+"k": "31281",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "They'll be slaves... forever."
+},
+{
+"k": "31282",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But if you spare her..."
+},
+{
+"k": "31283",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Don't I get a say?"
+},
+{
+"k": "31284",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[seething anger]Please."
+},
+{
+"k": "31285",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Not if you're involved."
+},
+{
+"k": "31286",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Of course you do."
+},
+{
+"k": "31287",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Not if you're involved in this."
+},
+{
+"k": "31288",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You're right.  Of course you do."
+},
+{
+"k": "31289",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "What is it then?"
+},
+{
+"k": "31290",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; regret]I know what I've done."
+},
+{
+"k": "31291",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It's too late."
+},
+{
+"k": "31292",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It's the only way."
+},
+{
+"k": "31293",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I said I'm not doing it."
+},
+{
+"k": "31294",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Vivian, this is the way it has to be."
+},
+{
+"k": "31295",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; regret]I know that."
+},
+{
+"k": "31296",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But you're not going to be the one to do it."
+},
+{
+"k": "31297",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Vivian, I'm not going to kill you."
+},
+{
+"k": "31298",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I have to-"
+},
+{
+"k": "31299",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It was my ribbon... and if those girls are ever going to be free... I have to-"
+},
+{
+"k": "31300",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[wait]Vivian..."
+},
+{
+"k": "31301",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I'm not innocent here. I know that."
+},
+{
+"k": "31302",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[quiet] Goodbye, Georgie."
+},
+{
+"k": "31303",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[stern; don't do this]Vivian. I didn't mean--"
+},
+{
+"k": "31304",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[holding in angry tears]I couldn't save Faith and Lily... but if I can do something... if I can make it right for the rest of those girls..."
+},
+{
+"k": "31305",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Vivian!"
+},
+{
+"k": "31306",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I didn't fuckin' mean it."
+},
+{
+"k": "31307",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[breathing through pain]"
+},
+{
+"k": "31308",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[horror]No!"
+},
+{
+"k": "31309",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But I'm gonna be the one to make it right."
+},
+{
+"k": "31310",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But I have to make it right."
+},
+{
+"k": "31311",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[to herself]I can't believe this."
+},
+{
+"k": "31312",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Don't..."
+},
+{
+"k": "31313",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Don't you dare fucking do this."
+},
+{
+"k": "31314",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "For both of us."
+},
+{
+"k": "31315",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry, sarcastic. continuing] Couldn't take it off, couldn't talk about it."
+},
+{
+"k": "31316",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I was just--"
+},
+{
+"k": "31317",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]We used her's to make the rest."
+},
+{
+"k": "31318",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Couldn't take it off, couldn't talk about it."
+},
+{
+"k": "31319",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in a lot of pain; angry]Crooked Man gave the order!  He told me to kill those girls! And then he fuckin' sold me out! [cough]"
+},
+{
+"k": "31320",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You don't want to... right?"
+},
+{
+"k": "31321",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[what's going on] Wait..."
+},
+{
+"k": "31322",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[rage]You think you're just gonna come in here, take me away, and it's all gonna be fuckin' solved!?"
+},
+{
+"k": "31323",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[rage]That you can just blame me for all this shit!"
+},
+{
+"k": "31324",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Go ahead! Pull it."
+},
+{
+"k": "31325",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]What the fuck are you supposed to do then?"
+},
+{
+"k": "31326",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "He could kill you!"
+},
+{
+"k": "31327",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Don't make me hurt you."
+},
+{
+"k": "31328",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[threatening]If you don't get out of the way right now, I'll have to--"
+},
+{
+"k": "31329",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]You think I don't know what that means? Either I do what he says or I'm the one getting \"dealt with\"!"
+},
+{
+"k": "31330",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; in pain]Either I do what he says or I'm the one getting \"dealt with\"!"
+},
+{
+"k": "31331",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You know I didn't have a goddamn choice! What the fuck? [grunts in pain]Guh."
+},
+{
+"k": "31332",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I didn't mean--"
+},
+{
+"k": "31333",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "The both of you can go rot in Hell."
+},
+{
+"k": "31334",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Georgie, just stop. We messed up-"
+},
+{
+"k": "31335",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[betrayed; angry]You're gonna throw me to the fucking wolf too!"
+},
+{
+"k": "31336",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Oh, so now it's \"we\" is it?"
+},
+{
+"k": "31337",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "All that magic is connected to this little thing."
+},
+{
+"k": "31338",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[bitter]So did I..."
+},
+{
+"k": "31339",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You gotta pay just like I do."
+},
+{
+"k": "31340",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[snapping]Well, so did I!"
+},
+{
+"k": "31341",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[determined]I'm sure as hell gonna do it."
+},
+{
+"k": "31342",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[barely holding it together]This isn't what I wanted."
+},
+{
+"k": "31343",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[firm]No."
+},
+{
+"k": "31344",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[barely holding it together]But I won't be a villain either."
+},
+{
+"k": "31345",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "She felt responsible for Faith and Lily... [coughs] what her ribbons did to them."
+},
+{
+"k": "31346",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But I won't be a monster either."
+},
+{
+"k": "31347",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]But it's all the fucking same."
+},
+{
+"k": "31348",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; painful breathing]Either I do what he says or I'm the one getting \"dealt with\". I had to do it!"
+},
+{
+"k": "31349",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry]And Crooked Man didn't want to get his fuckin' hands dirty... so he told me to \"take care of it\"!"
+},
+{
+"k": "31350",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; angry]You think I don't know what that means?"
+},
+{
+"k": "31351",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Look, Faith and the others tried to pull a runner on us, and as you can imagine Crooked Man wasn't too thrilled."
+},
+{
+"k": "31352",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]But of course the big boss didn't want to get his fuckin' hands dirty... [painful breathing] so he told me to take care of it!"
+},
+{
+"k": "31353",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]But of course the big boss didn't want to get his fuckin' hands dirty... [painful breathing] so he told me to \"take care of it\"!"
+},
+{
+"k": "31354",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Look, Faith and the others tried to pull a runner on us, and as you can imagine Crooked Man wasn't too thrilled when he heard that."
+},
+{
+"k": "31355",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Look, Faith and the others tried to pull a runner on us, and as you can imagine the Crooked Man wasn't too thrilled."
+},
+{
+"k": "31356",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I hate you you mothergucker!"
+},
+{
+"k": "31357",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Wahfukahkfan"
+},
+{
+"k": "31358",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "What the fuck you weavil."
+},
+{
+"k": "31359",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Whtarha"
+},
+{
+"k": "31360",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]But of course the big boss didn't want to get his fuckin' hands dirty... [painful breathing]so he told me to take care of it!"
+},
+{
+"k": "31361",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[calm down!]You're not thinking. Georgie, you know that's not what I meant!"
+},
+{
+"k": "31362",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sarcastic]Georgie's the bad guy! It's all his fucking fault!"
+},
+{
+"k": "31363",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]It must be so easy being you! Just come in here and blame me for all this shit! Job's done, right?"
+},
+{
+"k": "31364",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "My death won't change nothin'. But you know what will?"
+},
+{
+"k": "31365",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "But you don't give a shit do you!"
+},
+{
+"k": "31366",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; in pain]But what was I supposed to do?"
+},
+{
+"k": "31367",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry] But it won't do any fucking good anyway!"
+},
+{
+"k": "31368",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]But it won't bring back Lily or Faith! It won't free your friend Nerissa! And I'm just the sap takin' the fall for the whole thing!"
+},
+{
+"k": "31369",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Stop whining."
+},
+{
+"k": "31370",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You could've let them go!"
+},
+{
+"k": "31371",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[bitter]At the end of the day you're just like him."
+},
+{
+"k": "31372",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]You don't know what it's like, Bigby."
+},
+{
+"k": "31373",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]How could you know?"
+},
+{
+"k": "31374",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You could've done anything else. You could've let them go!"
+},
+{
+"k": "31375",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You're supposed to make your own fucking decisions!"
+},
+{
+"k": "31376",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "When you're told to put these fucking ribbons on your employees, you're supposed to refuse."
+},
+{
+"k": "31377",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "When someone asks you to murder two innocent women you're supposed to say no!"
+},
+{
+"k": "31378",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You didn't have to kill them!"
+},
+{
+"k": "31379",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You could've freed Faith and Lily from those fucking ribbons instead of murdering them!"
+},
+{
+"k": "31380",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You had the power to let 'em go, but you chose not to!"
+},
+{
+"k": "31381",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; intense]You murdered Faith and Lily! You put those fuckin' ribbons around their necks!"
+},
+{
+"k": "31382",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[breathing through pain]Ugh."
+},
+{
+"k": "31383",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[intense pain; punched in wounded gut]Ah!"
+},
+{
+"k": "31384",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Don't feed me that bullshit, Georgie."
+},
+{
+"k": "31385",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You could've let them go, but you didn't"
+},
+{
+"k": "31386",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]I would've lost everything! All of it!"
+},
+{
+"k": "31387",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]But"
+},
+{
+"k": "31388",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]So maybe I did have a choice... but it wasn't fucking worth it!"
+},
+{
+"k": "31389",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[bitter]Come in here talkin' about options... like it was that simple!"
+},
+{
+"k": "31390",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]What would you have me do? Kill her?"
+},
+{
+"k": "31391",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]If I let them go- [angry breathing]"
+},
+{
+"k": "31392",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]You don't know what the fuck you're talking about! [angry breathing] If I freed them-"
+},
+{
+"k": "31393",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Georgie, don't."
+},
+{
+"k": "31394",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It was them or Vivian!"
+},
+{
+"k": "31395",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "So you tell me! If freeing Lily meant she had to die--"
+},
+{
+"k": "31396",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[horrified; angry]What are you doing?"
+},
+{
+"k": "31397",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry] You don't know the fuck about anything!"
+},
+{
+"k": "31398",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Do you still think I had a fucking choice?"
+},
+{
+"k": "31399",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "The \"Girl with the Ribbon\". I'm sure you've heard the stories. [beat] Couldn't take it off, couldn't talk about it."
+},
+{
+"k": "31400",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "She'll die..."
+},
+{
+"k": "31401",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]The same thing that happened to Faith."
+},
+{
+"k": "31402",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[bitter]So don't you come in here and tell me I fucked up!"
+},
+{
+"k": "31403",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I trusted you!"
+},
+{
+"k": "31404",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I know that! But did it have to be like this?"
+},
+{
+"k": "31405",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I never meant for this to happen!"
+},
+{
+"k": "31406",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[betrayed] What the hell, Georgie?"
+},
+{
+"k": "31407",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I do! [beat] Of course I do."
+},
+{
+"k": "31408",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "\"Discretion is our guarantee\"."
+},
+{
+"k": "31409",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "When we built this place... it was just a stupid idea... a gimmick.\"Discretion is our guarantee\"..."
+},
+{
+"k": "31410",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[to herself; angry]Then the Crooked Man showed up and everything just turned to shit."
+},
+{
+"k": "31411",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It didn't start that way! The girls couldn't talk about their clients, but it wasn't anything sinister. Not until the Crooked Man got involved."
+},
+{
+"k": "31412",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[slight anger]This was supposed to be our place. We were gonna be in charge for once, and nobody would try to control us, or use us... That was the point."
+},
+{
+"k": "31413",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]So you put those ribbons around their necks and wouldn't let them leave?"
+},
+{
+"k": "31414",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "He had all these demands. You don't know what he's like!"
+},
+{
+"k": "31415",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[shocked; angry]You promised you wouldn't..."
+},
+{
+"k": "31416",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "We were supposed to look out for each other!"
+},
+{
+"k": "31417",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Welcome to the club, then."
+},
+{
+"k": "31418",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You sold me out!"
+},
+{
+"k": "31419",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]So do you get it now? Why I couldn't just-- [pain; grunt]"
+},
+{
+"k": "31420",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sarcastic]If you still think it's so fucking simple then you do it! Go right ahead!"
+},
+{
+"k": "31421",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Break the spell!"
+},
+{
+"k": "31422",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Save the fuckin' day!"
+},
+{
+"k": "31423",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]You think this is hard for you?"
+},
+{
+"k": "31424",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry] My life is such a fucking burden on your conscience!"
+},
+{
+"k": "31425",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry] You assume you get to decide!"
+},
+{
+"k": "31426",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sad]Do you think I wanted to be this person?"
+},
+{
+"k": "31427",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry tears]I look at Nerissa and I hate myself."
+},
+{
+"k": "31428",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sad]Every day I have to look Gwen and Hans in the eye and pretend I don't care."
+},
+{
+"k": "31429",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sad] I can't pretend anymore."
+},
+{
+"k": "31430",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "What I did to Faith and Lily... to all of them..."
+},
+{
+"k": "31431",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry; sad]I have to forget what I've done to them. What I took away from them."
+},
+{
+"k": "31432",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Vivian..."
+},
+{
+"k": "31433",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]And I can give it back."
+},
+{
+"k": "31434",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Vivian! Don't!"
+},
+{
+"k": "31435",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]Kill her then!"
+},
+{
+"k": "31436",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[angry]What are you doing?"
+},
+{
+"k": "31437",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Like Hell I didn't!"
+},
+{
+"k": "31438",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Stop complaining and take responsibility for what you did!"
+},
+{
+"k": "31439",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I thought you cared about them!"
+},
+{
+"k": "31440",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "That's how it started anyway."
+},
+{
+"k": "31441",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[finishing his sentence]Fucked?"
+},
+{
+"k": "31442",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; quiet]No."
+},
+{
+"k": "31443",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "{PainA}[in pain]She just..."
+},
+{
+"k": "31444",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[to himself]How could  she do this to me?"
+},
+{
+"k": "31445",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Who ever thought it would end this way?"
+},
+{
+"k": "31446",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Especially when the Crooked Man gets involved."
+},
+{
+"k": "31447",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; slight anger]Didn't matter if that left me to deal with this fuckin' mess!"
+},
+{
+"k": "31448",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]We promised we'd look out for each other. So, what the fuck is this?"
+},
+{
+"k": "31449",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain; exhausted]Just leavin' me here..."
+},
+{
+"k": "31450",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Of course you don't."
+},
+{
+"k": "31451",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It wasn't supposed to go like this."
+},
+{
+"k": "31452",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Just do it already."
+},
+{
+"k": "31453",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Get it over with!"
+},
+{
+"k": "31454",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain] Fuck!"
+},
+{
+"k": "31455",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Come on, Bigby."
+},
+{
+"k": "31456",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[in pain]Please."
+},
+{
+"k": "31457",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[gasp of pain - bigby puts hand into wound]"
+},
+{
+"k": "31458",
+"who": "CABBIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[awkward]Right. [beat]Sure thing, Sheriff."
+},
+{
+"k": "31459",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[new!]Sheppard Metalworks."
+},
+{
+"k": "31460",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[ALT; new!]Look for the big yellow sign. You can't miss it."
+},
+{
+"k": "31461",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]It isn't his fault!"
+},
+{
+"k": "31462",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1][annoyed]I'm trying to help you here!"
+},
+{
+"k": "31463",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]You can't-"
+},
+{
+"k": "31464",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]You said we'd look out for each other!"
+},
+{
+"k": "31465",
+"who": "VIVIAN",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1][soft; to herself]How did this happen, Georgie? How did it get this... [trails off]"
+},
+{
+"k": "31466",
+"who": "CABBIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[awkward]Right, uh... [beat]Sure thing, Sheriff."
+},
+{
+"k": "31467",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "It's for the best."
+},
+{
+"k": "31468",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I can't kill anyone else."
+},
+{
+"k": "31469",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "I won't be a killer."
+},
+{
+"k": "31470",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "This is your punishment."
+},
+{
+"k": "31471",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I can't do it, Georgie. I can't take another life..."
+},
+{
+"k": "31472",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1][weak]You selfish bastard."
+},
+{
+"k": "31473",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I won't be a killer, Georgie."
+},
+{
+"k": "31474",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]You'll have plenty of time to think about what you've done."
+},
+{
+"k": "31475",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]So I fuckin' killed 'em! [beat]And I'd do it again!"
+},
+{
+"k": "31476",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]'Cause it's not my fault!"
+},
+{
+"k": "31477",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I can't let you off the hook. I'm taking you in."
+},
+{
+"k": "31478",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I'm really not in the mood, Bigby. [cough] So why don't you just fuck off?"
+},
+{
+"k": "31479",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Especially not with a piece of shit like you."
+},
+{
+"k": "31480",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I don't wanna talk..."
+},
+{
+"k": "31481",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Oh, you think that'll help?"
+},
+{
+"k": "31482",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I told you I don't wanna fuckin' talk."
+},
+{
+"k": "31483",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]So just... leave me the fuck alone!"
+},
+{
+"k": "31484",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Start talking, Georgie."
+},
+{
+"k": "31485",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Tell me why you did this!"
+},
+{
+"k": "31486",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "You wanna end up like her?"
+},
+{
+"k": "31487",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1][Punched in the stomach]"
+},
+{
+"k": "31488",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]You're gonna fuckin' tell me why you did this!"
+},
+{
+"k": "31489",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]If you don't talk, you're gonna end up like her!"
+},
+{
+"k": "31490",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Tell me what you did!"
+},
+{
+"k": "31491",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]She killed herself!"
+},
+{
+"k": "31492",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1][quieter]She did it."
+},
+{
+"k": "31493",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]I didn't do shit to her!"
+},
+{
+"k": "31494",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Look, she fuckin'--"
+},
+{
+"k": "31495",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Don't lie to me, Georgie!"
+},
+{
+"k": "31496",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Fuck you."
+},
+{
+"k": "31497",
+"who": "PORGIE",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]Look..."
+},
+{
+"k": "31498",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]You don't get a choice if you're involved in this."
+},
+{
+"k": "31499",
+"who": "BIGBY",
+"ctx": "Fables105/env_puddingnpie",
+"en": "[pickup1]You're right. It's your life..."
+},
+{
+"k": "31500",
+"who": "",
+"ctx": "Fables105/env_puddingnpie",
+"en": "Limousine"
+},
+{
+"k": "31501",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{FlusteredA}What was that?"
+},
+{
+"k": "31502",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "{AngryA}Shit!"
+},
+{
+"k": "31503",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "{AngryA}No you don't."
+},
+{
+"k": "31504",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[surprise]{FlusteredA}Oh!"
+},
+{
+"k": "31505",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "{PainA}What was that?"
+},
+{
+"k": "31506",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "[moaning in pain]{PainA}"
+},
+{
+"k": "31507",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{FearA}Shit!"
+},
+{
+"k": "31508",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "{PainA}Fuck."
+},
+{
+"k": "31509",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[surprise]{SurprisedA}Ah!"
+},
+{
+"k": "31510",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "{FlusteredA}Shake him off!"
+},
+{
+"k": "31511",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{FearA}I can't!"
+},
+{
+"k": "31512",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "[challenging]{EvilA}Let's see what you've got."
+},
+{
+"k": "31513",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "[dangerous]{AngryA}All right, wolf."
+},
+{
+"k": "31514",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "{AngryA}Gun it!"
+},
+{
+"k": "31515",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "[in pain]{PainA}Do it!"
+},
+{
+"k": "31516",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{FearA}Are you sure?"
+},
+{
+"k": "31517",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[warning]{TenseA}Mary..."
+},
+{
+"k": "31518",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "{NormalA}I've got it!"
+},
+{
+"k": "31519",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{FearA}Come on, Georgie!"
+},
+{
+"k": "31520",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[soothing]{WorriedA}I know. I know."
+},
+{
+"k": "31521",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "[groans in pain] {PainA}Shit."
+},
+{
+"k": "31522",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "{AngryA}Get in."
+},
+{
+"k": "31523",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "[annoyed]{NormalA}Ah, shit."
+},
+{
+"k": "31524",
+"who": "MARY",
+"ctx": "Fables105/env_streetchase",
+"en": "No you don't."
+},
+{
+"k": "31525",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "What was that?"
+},
+{
+"k": "31526",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[surprise]Oh!"
+},
+{
+"k": "31527",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[from some distance away; to Mary]{NormalA}Did you see where he got to?"
+},
+{
+"k": "31528",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{AngryA}Shit."
+},
+{
+"k": "31529",
+"who": "CROOKEDMAN",
+"ctx": "Fables105/env_streetchase",
+"en": "{WorriedA}He's not moving."
+},
+{
+"k": "31530",
+"who": "VIVIAN",
+"ctx": "Fables105/env_streetchase",
+"en": "[worried]{WorriedA}He's not moving."
+},
+{
+"k": "31531",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "{AngryA}Keep going!"
+},
+{
+"k": "31532",
+"who": "PORGIE",
+"ctx": "Fables105/env_streetchase",
+"en": "[grunts in pain]{PainA}"
+}
+]

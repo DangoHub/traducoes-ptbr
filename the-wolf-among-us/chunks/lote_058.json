@@ -1,0 +1,1928 @@
+[
+{
+"k": "15264",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Well, yes, that's how it works, doesn't it. You feed him questions while Blue feeds him knuckle sandwiches. With a side of pain salad."
+},
+{
+"k": "15265",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "He's involved."
+},
+{
+"k": "15266",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I left Dee in his cell…"
+},
+{
+"k": "15267",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[incredulous] {doubtfulA}Oh, give me a break. {sarcasticA}Bluebeard was the one who hit him. {normalA}I just asked questions."
+},
+{
+"k": "15268",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{sarcasticA}Is that how it works downtown? {FearA}You feed him questions while Blue feeds him, uh [thinks], {SarcasticA}knuckle sandwiches? With a side of pain salad?"
+},
+{
+"k": "15269",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[dubious] I mean, he's a stooge. He's not gonna know anything."
+},
+{
+"k": "15270",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{doubtfulA}Yeah, it's true. I wanted information. {normalA}He was reluctant to give it."
+},
+{
+"k": "15271",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[dubious] He's a P.I. What's he gonna know, really?"
+},
+{
+"k": "15272",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[talking over] {angryA}So?"
+},
+{
+"k": "15273",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "He's been around everything {angryB}too much for it to just be a coincidence…"
+},
+{
+"k": "15274",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "He's involved, Jack."
+},
+{
+"k": "15275",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{fearA}Jesus Christ, listen to yourself!"
+},
+{
+"k": "15276",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[talking over him] {sarcasticA}Not really."
+},
+{
+"k": "15277",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Dee's supposed to be jailed."
+},
+{
+"k": "15278",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Why believe him?"
+},
+{
+"k": "15279",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I left Dee arrested in his cell at the Woodlands. He was here?"
+},
+{
+"k": "15280",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[what of it?] Yeah, he was just here."
+},
+{
+"k": "15281",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Fuckin' Crane."
+},
+{
+"k": "15282",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[weakly] {sadA}Sorry."
+},
+{
+"k": "15283",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Seems all right to me."
+},
+{
+"k": "15284",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I've seen him around."
+},
+{
+"k": "15285",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{thinkingA}Do you even know Dee? {doubtfulA}He's not exactly a trustworthy source of information."
+},
+{
+"k": "15286",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{worriedA}Dee was caught searching the first victim's apartment."
+},
+{
+"k": "15287",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[tentatively] {normalA}Actually…"
+},
+{
+"k": "15288",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Have there been any updates?"
+},
+{
+"k": "15289",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[quietly to himself]{scaredA}Lily, God damn it."
+},
+{
+"k": "15290",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[quietly to himself] {annoyedA}I knew this would happen."
+},
+{
+"k": "15291",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[getting violent] Take one more step, take one more goddamned fucking step and I swear to the Gods I'll fix the mistake."
+},
+{
+"k": "15292",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[very cold] {angryB}[cut]Take one more step and everyone will learn what your skull looks like."
+},
+{
+"k": "15293",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{worriedA}Holly, please. Snow knew what it meant to come here. {normalA}She knew what you'd think…"
+},
+{
+"k": "15294",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "So please. Just let her try."
+},
+{
+"k": "15295",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{worriedA}She came here to help. [beat] {worriedB}So hear her out."
+},
+{
+"k": "15296",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Dee was here?"
+},
+{
+"k": "15297",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Mr. Toad was here?"
+},
+{
+"k": "15298",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[more serious] {fearA}He said you tortured him. [beat] {sarcasticA}Which… I dunno, {angryA}that seems like a breach of your legislative duties."
+},
+{
+"k": "15299",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{fearA}On my sister?"
+},
+{
+"k": "15300",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{normalA}Because it seems {angryA}like a pretty serious lapse in judgement."
+},
+{
+"k": "15301",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I didn't release him!"
+},
+{
+"k": "15302",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Not Tweedledum?"
+},
+{
+"k": "15303",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}What the hell?"
+},
+{
+"k": "15304",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryC}He's still supposed to be in custody!"
+},
+{
+"k": "15305",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryC}You sure it wasn't Tweedledum?"
+},
+{
+"k": "15306",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{normalA}Well, no, but HE seemed pretty sure."
+},
+{
+"k": "15307",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[under his breath, that idiot]{angryA}Crane."
+},
+{
+"k": "15308",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}You asking him questions makes perfect sense, then."
+},
+{
+"k": "15309",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[slight warning]{angryA}Jack."
+},
+{
+"k": "15310",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{sarcasticA}Sure, that sounds torture-worthy."
+},
+{
+"k": "15311",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{SarcasticA}Nothing to say?"
+},
+{
+"k": "15312",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Jack…"
+},
+{
+"k": "15313",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Both of you…"
+},
+{
+"k": "15314",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[defensive]{FearA}What?"
+},
+{
+"k": "15315",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}Jack…"
+},
+{
+"k": "15316",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[defensive]{annoyedA}What?"
+},
+{
+"k": "15317",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}Holly…"
+},
+{
+"k": "15318",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryB}Both of you, listen."
+},
+{
+"k": "15319",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{SurprisedA}Oh, shit."
+},
+{
+"k": "15320",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[softly]{annoyedA}Christ, {angryA}give her five minutes."
+},
+{
+"k": "15321",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I just didn't understand the choices she made."
+},
+{
+"k": "15322",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Or, I guess I did. I just wouldn't have made the same ones."
+},
+{
+"k": "15323",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Yeah. I know what you mean."
+},
+{
+"k": "15324",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I think she was off the Mundy drugs, but…"
+},
+{
+"k": "15325",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "That was probably about…"
+},
+{
+"k": "15326",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "What? Oh, god."
+},
+{
+"k": "15327",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Like I said, we didn't talk much."
+},
+{
+"k": "15328",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}Real world importance has to trump superstition at some point."
+},
+{
+"k": "15329",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[Restrain Grendel]"
+},
+{
+"k": "15330",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[Don't Interfere]"
+},
+{
+"k": "15331",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[getting a little bumped] {AngryA}Whoa."
+},
+{
+"k": "15332",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {EmbarrassedA}Bigby. Hey. How's it going."
+},
+{
+"k": "15333",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {ConfusedB}Do you… do you come here?"
+},
+{
+"k": "15334",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {ThinkingA}Normally it's not really my scene, but…"
+},
+{
+"k": "15335",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {HappyA}It did the job."
+},
+{
+"k": "15336",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "I can't talk now."
+},
+{
+"k": "15337",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{ThinkingB}Beast… are you alright?"
+},
+{
+"k": "15338",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {HappyA}I'm fine, buddy. Fit as a… as a French fiddle."
+},
+{
+"k": "15339",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{ThinkingA}Beast. What are you doing here?"
+},
+{
+"k": "15340",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {SarcasticA}Wanted a Bordeaux, settled for beer.[beat; drunkenly smiles] {HappyA}I made my peace with it."
+},
+{
+"k": "15341",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {SadA}Oh, no. I understand."
+},
+{
+"k": "15342",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{NormalA}I can't really talk now."
+},
+{
+"k": "15343",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {SarcasticA}Me, I'm as fit as a-- a French fiddle."
+},
+{
+"k": "15344",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[wary] {WorriedA}Hi, Beast."
+},
+{
+"k": "15345",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {SarcasticA}Hello, Miss White."
+},
+{
+"k": "15346",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {ConcernedB}I'm glad you… you told me about Beauty.[beat] {SuspiciousA}Now I *know* she's cheating on me. {WorriedC}Anyways."
+},
+{
+"k": "15347",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {SadA}Beauty… {AnnoyedA}I *know* she's cheating on me. Doesn't matter if you didn't see her that night. {ThinkingA}Anyways."
+},
+{
+"k": "15348",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[plain] {ThinkingA}How do you know."
+},
+{
+"k": "15349",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk; sad] {ConcernedA}I know, that's all."
+},
+{
+"k": "15350",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] You can't keep something like that a secret… {SuspiciousA}not for long."
+},
+{
+"k": "15351",
+"who": "BEAST",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[a little drunk] {AnnoyedA}Goodbye, Bigby."
+},
+{
+"k": "15352",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}He's involved, Jack."
+},
+{
+"k": "15353",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}Hey, easy!"
+},
+{
+"k": "15354",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{fearA}It's an honest question!"
+},
+{
+"k": "15355",
+"who": "<<ID",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{06C65722-E1F3-4A1B-9487-F30916B1CE44}>>"
+},
+{
+"k": "15356",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}Simmer down, will ya?"
+},
+{
+"k": "15357",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed through doors] {fearA}Ow!"
+},
+{
+"k": "15358",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pissed] {angryA}Go fuck on up a beanstalk, Jackie boy."
+},
+{
+"k": "15359",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{angryA}Gren, you gotta learn some new lines, {sarcasticA}let me tell you."
+},
+{
+"k": "15360",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {worrieda}Ow! Fuck!"
+},
+{
+"k": "15361",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {fearA}What'd I do!"
+},
+{
+"k": "15362",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {angryA}Let me fucking go!"
+},
+{
+"k": "15363",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {angryA}I'm not doing anything!"
+},
+{
+"k": "15364",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {angryA}What gives you the right!"
+},
+{
+"k": "15365",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {fearA}Is this really necessary?"
+},
+{
+"k": "15366",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed out] {fearA}Owww!"
+},
+{
+"k": "15367",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "All right, then."
+},
+{
+"k": "15368",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[plain] Why'd you come here."
+},
+{
+"k": "15369",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Any info would help."
+},
+{
+"k": "15370",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "You must know something."
+},
+{
+"k": "15371",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{normalA}C'mon, Holly, {worriedA}you must know something."
+},
+{
+"k": "15372",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[Don't Interrupt]"
+},
+{
+"k": "15373",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{sadA}I don't really see my sister either."
+},
+{
+"k": "15374",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "{worriedA}No, Holly, trust me on this."
+},
+{
+"k": "15375",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[glum] {worriedA}I know this is sudden.[beat] Take your time."
+},
+{
+"k": "15376",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[solemn] {sadA}It's okay."
+},
+{
+"k": "15377",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[through sniffles] We just didn't… we just didn't get along.[beat] Not since we moved here, anyways."
+},
+{
+"k": "15378",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[annoyed; through sniffles] [cut]Why? Why do I \"must know something?\" We didn't talk!"
+},
+{
+"k": "15379",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[sad; through sniffles] I wish I had something… anything… but I don't."
+},
+{
+"k": "15380",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[gently] {worriedA}Any info you could give us {normalA}would be a big help."
+},
+{
+"k": "15381",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[Avoid telling her]"
+},
+{
+"k": "15382",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup1]{doubtfulA}All right, Gren, he's learned his lesson."
+},
+{
+"k": "15383",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]Don't touch me! Don't ever fucking touch me!"
+},
+{
+"k": "15384",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]God fucking damn it!"
+},
+{
+"k": "15385",
+"who": "GREN",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pissed] Go fuck on up a beanstalk, Jackie boy."
+},
+{
+"k": "15386",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Alright, then."
+},
+{
+"k": "15387",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Gren, you gotta learn some new lines, let me tell you."
+},
+{
+"k": "15388",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed through doors] Ow!"
+},
+{
+"k": "15389",
+"who": "JACK",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[being pushed] {worrieda}Ow! Fuck!"
+},
+{
+"k": "15390",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Some old world shit will fuck your soul up. [morbidly chuckles]"
+},
+{
+"k": "15391",
+"who": "HOLLY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "We burn our dead by sunrise or… I dunno."
+},
+{
+"k": "15392",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][quietly firm] All right. Clear out."
+},
+{
+"k": "15393",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][quietly firm] Give her some room."
+},
+{
+"k": "15394",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Good call, Snow."
+},
+{
+"k": "15395",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Pudding and Pie?"
+},
+{
+"k": "15396",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Fees?"
+},
+{
+"k": "15397",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][low, just to Bigby] {NormalA} We can just go check it out."
+},
+{
+"k": "15398",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{ThinkingA} Pudding and Pie, huh? {NormalB} What do you know about the place?"
+},
+{
+"k": "15399",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{ThinkingA} Georgie, huh?"
+},
+{
+"k": "15400",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{ThinkingB} Not the first time I've heard that name."
+},
+{
+"k": "15401",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{NormalB} What do you know about him?"
+},
+{
+"k": "15402",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][low, just to Bigby]{ThinkingA} We can just go talk to him."
+},
+{
+"k": "15403",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][low, just to Bigby]{ThinkingA} Sounds like one of those old \"company store\" kinds of ploys, {NormalA}designed to entrap people by keeping them in debt."
+},
+{
+"k": "15404",
+"who": "BIGBY",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{ThinkingA} Fees, huh? {NormalA} What kind of fees?"
+},
+{
+"k": "15405",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][low, just to Bigby]{ThinkingB} We can probably learn more at the club."
+},
+{
+"k": "15406",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2][low, just to Bigby][concerned about distressing Holly any further]{NormalA} We've got a lead. {ThinkingB} Maybe we can take it from here?"
+},
+{
+"k": "15407",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{NormalA}If it's too much, we don't have to do this."
+},
+{
+"k": "15408",
+"who": "SNOW",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[pickup2]{WorriedA}Holly, it's OK."
+},
+{
+"k": "15409",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "Why weren't you talking?"
+},
+{
+"k": "15410",
+"who": "",
+"ctx": "Fables102/env_triptrapbar_confrontation",
+"en": "[Let Jack talk]"
+},
+{
+"k": "15411",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "That could be part of the glamour, if it went on recently enough."
+},
+{
+"k": "15412",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She's even wearing the exact outfit I've got on today."
+},
+{
+"k": "15413",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "What does that even mean?"
+},
+{
+"k": "15414",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's just creepy, that's all. It's a dead person in my clothes. In my skin."
+},
+{
+"k": "15415",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Why would anyone… DO that?"
+},
+{
+"k": "15416",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[creeped out]ugh"
+},
+{
+"k": "15417",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I wonder if we shouldn't regulate glamours more strongly than we do."
+},
+{
+"k": "15418",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Yes, thank you, I… yes.  It's like someone's stolen me from myself, and I don't know how to undo that."
+},
+{
+"k": "15419",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's the worst kind of theft, isn't it?"
+},
+{
+"k": "15420",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I'm just glad it ISN'T you. Working together recently… well, you've been…"
+},
+{
+"k": "15421",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "To kill you. [to group]If, in fact, Miss White was chosen deliberately rather than randomly."
+},
+{
+"k": "15422",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Of course, they might try again."
+},
+{
+"k": "15423",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "If someone wants to kill me, it could be… [getting flustered]I don't know, an old grudge? Something about my job? I just DON'T KNOW, I don't know why. Jesus, what am I supposed to do with this?"
+},
+{
+"k": "15424",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Is there anything going on in your personal life we should know about?"
+},
+{
+"k": "15425",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "My personal life is just fine, thank you very much."
+},
+{
+"k": "15426",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "That's already too many mouths. We'll never keep it secret."
+},
+{
+"k": "15427",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "How many people outside this room actually know you're alive?"
+},
+{
+"k": "15428",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Let me think. Beast came to the office, he almost had a heart attack. Bufkin, Grimble, and Trusty John. The Woodsman, of course…"
+},
+{
+"k": "15429",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You should stay protected and out of sight. Don't leave the business office until this is over."
+},
+{
+"k": "15430",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "That doesn't seem necessary. And I don't like the idea of hiding. I won't live in fear."
+},
+{
+"k": "15431",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[sighing]I don't know. Bigby, what do you think?"
+},
+{
+"k": "15432",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I agree. Go about your normal business. We can use you as bait to draw out the killer!"
+},
+{
+"k": "15433",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Best to be cautious. Stay out of sight for now."
+},
+{
+"k": "15434",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "But we still don't know what this is about."
+},
+{
+"k": "15435",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Fine. If it will get this done correctly."
+},
+{
+"k": "15436",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "What? I'm not an errand boy."
+},
+{
+"k": "15437",
+"who": "BLUEBEARD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You? Someone should fetch Swineheart."
+},
+{
+"k": "15438",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Maybe the body can tell us something. [to Bluebeard]Give me some room, I'll check her over."
+},
+{
+"k": "15439",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "The cut is unnaturally clean."
+},
+{
+"k": "15440",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Looks that way."
+},
+{
+"k": "15441",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Is it the same as the other one?"
+},
+{
+"k": "15442",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You can't fool this nose."
+},
+{
+"k": "15443",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "How would she know… how do YOU know what perfume I wear?"
+},
+{
+"k": "15444",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She got your perfume right."
+},
+{
+"k": "15445",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She's wearing the perfume."
+},
+{
+"k": "15446",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Is that significant?"
+},
+{
+"k": "15447",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's expensive, she wouldn't want to waste it."
+},
+{
+"k": "15448",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Clothes are stained. Not as much blood as you'd expect with a beheading."
+},
+{
+"k": "15449",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "The skin here is unusual."
+},
+{
+"k": "15450",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[worried]Is it some kind of… disease?"
+},
+{
+"k": "15451",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It could be that."
+},
+{
+"k": "15452",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She was in the river?"
+},
+{
+"k": "15453",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Yeah. A kid found her."
+},
+{
+"k": "15454",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Woodsman did say he'd thrown her there…"
+},
+{
+"k": "15455",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Judging by the perfume and the blood, I'd say she can't have been in the water very long."
+},
+{
+"k": "15456",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "There's an indentation here, and some fibers. Tied up with rope, I think."
+},
+{
+"k": "15457",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I'm not sure what the clinical difference looks like."
+},
+{
+"k": "15458",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "After she died, or… before?"
+},
+{
+"k": "15459",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "However…"
+},
+{
+"k": "15460",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[a little disappointed]Oh."
+},
+{
+"k": "15461",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Her fist is clenched."
+},
+{
+"k": "15462",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "So she fought back?"
+},
+{
+"k": "15463",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "No marks on the knuckles."
+},
+{
+"k": "15464",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Maybe, they were weighting her down."
+},
+{
+"k": "15465",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Nobody was worried about her untying herself, because she was already dead."
+},
+{
+"k": "15466",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She might be holding something.  I'll see if I can…"
+},
+{
+"k": "15467",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Seriously?"
+},
+{
+"k": "15468",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[stepping forward] I should take custody of it. It's evidence."
+},
+{
+"k": "15469",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Surreal. What are we supposed to do with that?"
+},
+{
+"k": "15470",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "There's a key."
+},
+{
+"k": "15471",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I don't see any skin or blood under here."
+},
+{
+"k": "15472",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[non-commital]Hm."
+},
+{
+"k": "15473",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Nail polish is pretty garish. Not your style, Snow."
+},
+{
+"k": "15474",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Looks that way. Also, it means it's not a perfect match to your arm."
+},
+{
+"k": "15475",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She uses mundy drugs?"
+},
+{
+"k": "15476",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Track marks."
+},
+{
+"k": "15477",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Not there."
+},
+{
+"k": "15478",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Fairly intricate tattoo, here. I assume you don't have one?"
+},
+{
+"k": "15479",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Shouldn't the glamour be concealing things like that if it's making her look like me?"
+},
+{
+"k": "15480",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's possible it's designed not to."
+},
+{
+"k": "15481",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Designed not to hide track marks?"
+},
+{
+"k": "15482",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Good point"
+},
+{
+"k": "15483",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Hm."
+},
+{
+"k": "15484",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Are you wearing silk lingerie today, Snow?"
+},
+{
+"k": "15485",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[emphatic]No."
+},
+{
+"k": "15486",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Clothes aren't exact, then. Just the top layer."
+},
+{
+"k": "15487",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Looks like she had help with the choice."
+},
+{
+"k": "15488",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[wtf]From whom?"
+},
+{
+"k": "15489",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Here's the perfume."
+},
+{
+"k": "15490",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Bottle of your favorite perfume."
+},
+{
+"k": "15491",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "How do you know what my favorite perfume is?"
+},
+{
+"k": "15492",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Small wooden box…"
+},
+{
+"k": "15493",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I hate these things, I can never figure out how to get them open."
+},
+{
+"k": "15494",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Here, give it to me."
+},
+{
+"k": "15495",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "So, what do you think? Who is she? And why does she look like me?"
+},
+{
+"k": "15496",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's the worst kind of theft."
+},
+{
+"k": "15497",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I'm glad it isn't you."
+},
+{
+"k": "15498",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Useful."
+},
+{
+"k": "15499",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Charming."
+},
+{
+"k": "15500",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Tolerable."
+},
+{
+"k": "15501",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Amazing."
+},
+{
+"k": "15502",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "When we know who, we'll know what it means."
+},
+{
+"k": "15503",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Anything going on in your personal life?"
+},
+{
+"k": "15504",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "How many people know you're alive?"
+},
+{
+"k": "15505",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Stay out of sight."
+},
+{
+"k": "15506",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Tied up voluntarily."
+},
+{
+"k": "15507",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Hands were held some other way."
+},
+{
+"k": "15508",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She was already dead."
+},
+{
+"k": "15509",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It might be a cheap one."
+},
+{
+"k": "15510",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It might be failing."
+},
+{
+"k": "15511",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It might be designed not to."
+},
+{
+"k": "15512",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Could be."
+},
+{
+"k": "15513",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Might be the glamour failing."
+},
+{
+"k": "15514",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Possibly an injury."
+},
+{
+"k": "15515",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "No, I'll hang on to it."
+},
+{
+"k": "15516",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She's a prostitute."
+},
+{
+"k": "15517",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She's a spy."
+},
+{
+"k": "15518",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She's a thief."
+},
+{
+"k": "15519",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "She's a warning."
+},
+{
+"k": "15520",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[upset and waving the box at Bigby]Why would someone kill her, then, Bigby? How about that? Why?"
+},
+{
+"k": "15521",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[upset]Oh thanks, that's terrific. So, I'm the blue plate special on the menu at the local cathouse, now, am I?  Fantastic."
+},
+{
+"k": "15522",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[frustrated and upset]Damn this box!"
+},
+{
+"k": "15523",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[upset]Not \"just\" like Faith. Faith wasn't magically gimmicked up to look like exactly like me."
+},
+{
+"k": "15524",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Not that we know of."
+},
+{
+"k": "15525",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Miss White, you hardly--"
+},
+{
+"k": "15526",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I think she's a prostitute. Just like Faith."
+},
+{
+"k": "15527",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I could try--"
+},
+{
+"k": "15528",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Part of the fantasy."
+},
+{
+"k": "15529",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Actually meant to kill you."
+},
+{
+"k": "15530",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Serial killer targeting prostitutes."
+},
+{
+"k": "15531",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I just don't know, Snow, I'm sorry."
+},
+{
+"k": "15532",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[disbelief] Wh-- oh my god."
+},
+{
+"k": "15533",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "This photograph was in my apartment. It was on the piano, I thought I lost it. But… here it is."
+},
+{
+"k": "15534",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[verge of tears]Bigby, I, what if I, what if it's my fault? What if she… was…"
+},
+{
+"k": "15535",
+"who": "SNOW",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "There's a picture of me."
+},
+{
+"k": "15536",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Right this way."
+},
+{
+"k": "15537",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[looking over at TJ]That's right, my lad."
+},
+{
+"k": "15538",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Oh, I see."
+},
+{
+"k": "15539",
+"who": "TJ",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[awe]Is that the Witching Well?"
+},
+{
+"k": "15540",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[still looking at TJ]No need to be scared of it, it's just a great big hole full of nothing. Like your grandmama."
+},
+{
+"k": "15541",
+"who": "CRANE",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "This is the boy who found it. Her. This is the boy."
+},
+{
+"k": "15542",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[please don't send us to the farm]Hallo, Bigby. Er… I'm here because this is my son, obviously."
+},
+{
+"k": "15543",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[mostly at ease]Hallo, then, Bigby. I've brought my son to do his civic duty."
+},
+{
+"k": "15544",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[quietly, meant for only bigby to hear]Do we really have to involve him in this?"
+},
+{
+"k": "15545",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[curt]Sheriff. I didn't realize you'd be here. I was told to bring the boy down."
+},
+{
+"k": "15546",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "How old is he?"
+},
+{
+"k": "15547",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "What's his name?"
+},
+{
+"k": "15548",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "We call him TJ."
+},
+{
+"k": "15549",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You know, for, ah, Toad, Junior."
+},
+{
+"k": "15550",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "He's six."
+},
+{
+"k": "15551",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You bring that kid all the way over here without a glamour?"
+},
+{
+"k": "15552",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Aw, come on, General, don't start. I had a poncho on him, people just think he's an ugly kid.  It's New York City, nobody sees anything."
+},
+{
+"k": "15553",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Let's try to keep it that way, OK?"
+},
+{
+"k": "15554",
+"who": "TOAD",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I read you."
+},
+{
+"k": "15555",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Let's try to keep it that way."
+},
+{
+"k": "15556",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's not OK."
+},
+{
+"k": "15557",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "We'll discuss this later."
+},
+{
+"k": "15558",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "That's not a risk I'm prepared to have you keep taking on everyone's behalf."
+},
+{
+"k": "15559",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "We're going to talk about this later."
+},
+{
+"k": "15560",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It's OK, I won't bite."
+},
+{
+"k": "15561",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You can come on out."
+},
+{
+"k": "15562",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You don't have to hide."
+},
+{
+"k": "15563",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I'm sorry about what happened before."
+},
+{
+"k": "15564",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I'm sorry about what happened yesterday. It was an accident. OK?"
+},
+{
+"k": "15565",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "It won't happen again."
+},
+{
+"k": "15566",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Hey, Buddy!"
+},
+{
+"k": "15567",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Hey, TJ!"
+},
+{
+"k": "15568",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Hey there… kid."
+},
+{
+"k": "15569",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "My name is Bigby."
+},
+{
+"k": "15570",
+"who": "TJ",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "You're the big bad wolf. My dad says so."
+},
+{
+"k": "15571",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "My name is Bigby. What's yours?"
+},
+{
+"k": "15572",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "TJ, my name is Bigby."
+},
+{
+"k": "15573",
+"who": "TJ",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Are you the big bad wolf?"
+},
+{
+"k": "15574",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Not anymore"
+},
+{
+"k": "15575",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Sometimes"
+},
+{
+"k": "15576",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Not today"
+},
+{
+"k": "15577",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Not today I'm not. Fair enough?"
+},
+{
+"k": "15578",
+"who": "TJ",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[dubious]I guess…"
+},
+{
+"k": "15579",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I need you to be a big boy."
+},
+{
+"k": "15580",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I need you to be a big boy now, can you do that?"
+},
+{
+"k": "15581",
+"who": "TJ",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "[miffed; he already is a big boy] I'm seven and a quarter."
+},
+{
+"k": "15582",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "Tell me about finding the woman."
+},
+{
+"k": "15583",
+"who": "BIGBY",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I want you to tell me about when you found the woman, OK?"
+},
+{
+"k": "15584",
+"who": "",
+"ctx": "Fables102/env_witchingwellexamination",
+"en": "I have a problem."
+}
+]

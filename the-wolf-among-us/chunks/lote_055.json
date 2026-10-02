@@ -1,0 +1,1142 @@
+[
+{
+"k": "14591",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[thinks a bit] {HappyA}It's been a spot of fortune in this dreadful mess."
+},
+{
+"k": "14592",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Fortune? People are dead."
+},
+{
+"k": "14593",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Just tell me what I have to do."
+},
+{
+"k": "14594",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Do we have to talk about this?"
+},
+{
+"k": "14595",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed] {body-SitInCabLookLeft}{DoubtfulA}\"Fortune\"?"
+},
+{
+"k": "14596",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed] {body-SitInCab}{AngryD}It's all just been [emphatic/]shit[/], {AngryB}and nothing else."
+},
+{
+"k": "14597",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed] {AngryC}Two people are dead. There has been [emphatic/]nothing[/] \"fortunate\" about any of this."
+},
+{
+"k": "14598",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{SuspiciousA}I didn't mean to imply- -"
+},
+{
+"k": "14599",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}The Woodsman needs a few more bits of… encouragement, and after all that we should have the whole story."
+},
+{
+"k": "14600",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[coldly] {body-SitInCab}{AngryA}Just tell me what I have to do."
+},
+{
+"k": "14601",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Who's he working with, why he did it… that sort of thing."
+},
+{
+"k": "14602",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sullen] {body-SitInCabLookLeft}{DoubtfulA}I'll see what's what when we get back home, but, for now… {body-SitInCab}{ThinkingA}let's just shut up for a while, alright?"
+},
+{
+"k": "14603",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{WorriedA}I will. Just not right now."
+},
+{
+"k": "14604",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{SurprisedA}We have to formulate a plan of action, Bigby."
+},
+{
+"k": "14605",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}[big sigh]"
+},
+{
+"k": "14606",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sadly] {SadA}It's been one full night and a slice of morning, and I already miss her, too."
+},
+{
+"k": "14607",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sad] You know, I never get more homesick than when one of us dies. And now… for it to be Snow… I've never been good with these sorts of things."
+},
+{
+"k": "14608",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "It's hard."
+},
+{
+"k": "14609",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "You don't really care."
+},
+{
+"k": "14610",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Keep focused."
+},
+{
+"k": "14611",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I said not now."
+},
+{
+"k": "14612",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "This isn't helping."
+},
+{
+"k": "14613",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[melancholy] We had a beginning, a middle, and an end."
+},
+{
+"k": "14614",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[melancholy] {body-Drive}{SadA}I just can't believe this is really happening."
+},
+{
+"k": "14615",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[melancholy] Miss White deserved a better end than this."
+},
+{
+"k": "14616",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] {body-Drive}{AnnoyedB}Well, I apologize if my attempt at handling this has \"disturbed\" you, Bigby, but I thought we had some common ground."
+},
+{
+"k": "14617",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{ConfusedB}Snap out of it, Crane. {AngryA}Stay focused."
+},
+{
+"k": "14618",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{NormalB}When I said I didn't want to talk right now, {AngryA}I meant it. Not about the case, and {WorriedB}definitely not about this."
+},
+{
+"k": "14619",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{AngryA}Dwelling on this shit isn't helping."
+},
+{
+"k": "14620",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[weakly] {body-Drive}[cut]It helps me."
+},
+{
+"k": "14621",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[angry he's dredging this up] {AngryB}[cut]It sure as fuck doesn't help me."
+},
+{
+"k": "14622",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[angry] {AngryA}Just why in God's wisdom did this have to happen?"
+},
+{
+"k": "14623",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{WorriedA}…I really don't know if any of us are safe."
+},
+{
+"k": "14624",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{NormalA}This used to be a-- a reliable place, and now--"
+},
+{
+"k": "14625",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[serious] {body-Drive}{AngryA}I don't know what else to say, Bigby. We have to-- {SurprisedA}have to put an end to this."
+},
+{
+"k": "14626",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryA}It's been two murders in as many days. If we don't unearth our culprit and soon, {AngryB}there will likely be another on our door step tonight."
+},
+{
+"k": "14627",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{ConfusedA}What are you saying?"
+},
+{
+"k": "14628",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[thinking; almost just to himself] {body-SitInCab}{ConfusedB}There's something else going on here."
+},
+{
+"k": "14629",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{DoubtfulA}I don't know. It's just not settling right with me yet."
+},
+{
+"k": "14630",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[a little pissed] {AngryB}What, it's better for you if they were murdered \"on purpose?\""
+},
+{
+"k": "14631",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[wary] {body-Drive}{SurprisedA}It's horrible to think this was just by chance. Just the mindless work of some aimless psychotic."
+},
+{
+"k": "14632",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[defensive] {AnnoyedB}No, of course not. [beat] {AnnoyedA}You know what I mean."
+},
+{
+"k": "14633",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCab}{ThinkingA}Random killings don't need a reason."
+},
+{
+"k": "14634",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[dubious] {body-Drive}{ThinkingA}A message? To whom?"
+},
+{
+"k": "14635",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCab}{ThinkingA}They were both left at the Woodlands… It could be some kind of message."
+},
+{
+"k": "14636",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {body-Drive}{WorriedA}Our stories used to be so simple. We had a beginning, a middle, and an end."
+},
+{
+"k": "14637",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {body-SitInCabLookLeft}{WorriedB}Yeah… it's hard."
+},
+{
+"k": "14638",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {AngryA}But ever since we moved to this awful city… {SadA}everything's gotten so confused."
+},
+{
+"k": "14639",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[CUT][solemn] {AnnoyedB} Miss White deserved a better end than this."
+},
+{
+"k": "14640",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AngryA}Who is the Woodsman working with? {ThinkingA}Why did they want to do this?"
+},
+{
+"k": "14641",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{SadA}I mean, what's the insufferable point?"
+},
+{
+"k": "14642",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed] {body-SitInCabLookLeft}Give me a fucking break."
+},
+{
+"k": "14643",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[shocked] {body-Drive}{SurprisedA}What?"
+},
+{
+"k": "14644",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryB}I thought we had some common ground… {AngryC}could discuss this like gentlemen!"
+},
+{
+"k": "14645",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed] {AngryD}You treated her like the fucking maid, and {SarcasticB}now you want a shoulder to cry on? {AngryC}You didn't care then, and you don't care now."
+},
+{
+"k": "14646",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[angry] {AngryC}That is not true! Not true at all!"
+},
+{
+"k": "14647",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "If you want to sit there like a child and not say anything, then fine."
+},
+{
+"k": "14648",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "We have no common ground."
+},
+{
+"k": "14649",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Just forget it."
+},
+{
+"k": "14650",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed] {body-SitInCabLookLeft}{AngryA}Let's get something straight here, alright? {MockingB}We have exactly nothing in common. {AngryB}Everything that connects us is dead and gone."
+},
+{
+"k": "14651",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[hurt] {body-Drive}{AnnoyedB}You don't have to be so callous.{SadA}"
+},
+{
+"k": "14652",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "It's the truth. I don't care how you take it."
+},
+{
+"k": "14653",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sad] Why did this have to happen, Bigby?"
+},
+{
+"k": "14654",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{ConfusedA}All right. [beat, sadder]{WorriedA}It's been a shitty couple of days.[beat] {WorriedA}I know you're trying."
+},
+{
+"k": "14655",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sincere] {body-Drive}{NormalA}Thank you."
+},
+{
+"k": "14656",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[almost just to himself] You of all people telling me not to get angry."
+},
+{
+"k": "14657",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{AngryB}Just forget it."
+},
+{
+"k": "14658",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] Fine."
+},
+{
+"k": "14659",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I need to know I can count on you. Things may get… unsavory."
+},
+{
+"k": "14660",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{NormalA}We moved him to the cellar, but…"
+},
+{
+"k": "14661",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{ConfusedA}I just don't know what you're after there."
+},
+{
+"k": "14662",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{NormalA}And Bigby, we have to tread carefully here."
+},
+{
+"k": "14663",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}I'm getting phone calls day and night."
+},
+{
+"k": "14664",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{NormalA}So… with that in mind, we should discuss strategies, you know, for catching the culprit. {AngryA}Since they're most likely still at large."
+},
+{
+"k": "14665",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'll think of something."
+},
+{
+"k": "14666",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[coldly] {AngryB}I work better alone."
+},
+{
+"k": "14667",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[glum] {WorriedA}I'll get it done."
+},
+{
+"k": "14668",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AngryA}I think in this instance we'd get it done faster if we worked together. {ThinkingA}I can help you, you know."
+},
+{
+"k": "14669",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AnnoyedA}It just seems like a complete waste of time."
+},
+{
+"k": "14670",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sighs] {ConcernedA}Look, I'm in charge if shit goes bad, {ThinkingA}and since nobody else is volunteering to do this…"
+},
+{
+"k": "14671",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryB}Two people are dead, Crane. {AngryA}And the \"people\" should understand that this is the job."
+},
+{
+"k": "14672",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{SurprisedA}I know, Sheriff, {NormalA}I know."
+},
+{
+"k": "14673",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}I only wanted you to be aware that there have been some {AnnoyedA}objections."
+},
+{
+"k": "14674",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{ThinkingA}Generally speaking. {AngryA}The public. The ones you've roughed up a bit, mostly."
+},
+{
+"k": "14675",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{ThinkingB}Who's complained?"
+},
+{
+"k": "14676",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[beat] {WorriedA}I'll take it easier."
+},
+{
+"k": "14677",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{ThinkingA}You know… for your own sake."
+},
+{
+"k": "14678",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AnnoyedB}That doesn't mean they're necessarily involved in the murders…"
+},
+{
+"k": "14679",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{ThinkingA}There's two of them. Dee and Dum. {AngryA}And they've been snooping around every crime scene I've looked at."
+},
+{
+"k": "14680",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{DoubtfulA}He's working for somebody, and {AngryA}whoever it is wants him snooping around every crime scene I've looked at."
+},
+{
+"k": "14681",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{AngryA}He's been snooping around every crime scene I've looked at…"
+},
+{
+"k": "14682",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AnnoyedA}I mean, he hasn't appeared to know anything yet…"
+},
+{
+"k": "14683",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[awkwardly starting] {body-Drive}We, uh, we found Tweedle Dee chained up to a post. {ThinkingA}That was your doing, correct?"
+},
+{
+"k": "14684",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[dismissive] {AnnoyedB}Well, I don't know why you detained him."
+},
+{
+"k": "14685",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[dismissive] {AnnoyedA}Dee was at the Trip Trap when Snow was left at the Woodlands, so he couldn't possibly be involved in this mayhem."
+},
+{
+"k": "14686",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Really it's a spot of fortune that he hasn't complained."
+},
+{
+"k": "14687",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "He must know something, though…"
+},
+{
+"k": "14688",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{DoubtfulA}He must know something, but {ThinkingA}I won't hang him for a coincidence."
+},
+{
+"k": "14689",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryA}…and he hasn't said anything useful."
+},
+{
+"k": "14690",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{DoubtfulA}I never \"roughed up\" anyone who {AngryA}didn't have it coming."
+},
+{
+"k": "14691",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{ConfusedA}Don't you think?"
+},
+{
+"k": "14692",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{HappyA}Excellent, excellent. {NormalA}When we get back we'll discuss what to do with Mr. Dee and decide the next course of action."
+},
+{
+"k": "14693",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{ThinkingA}I know what you're thinking, Bigby."
+},
+{
+"k": "14694",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{ConfusedA}I need to know I can count on you. Things may get… {SuspiciousA}unsavory."
+},
+{
+"k": "14695",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{ThinkingA}But with you and Bluebeard working in tandem- -"
+},
+{
+"k": "14696",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{NormalA}- -it shouldn't be an issue to wrap this up soon."
+},
+{
+"k": "14697",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sighs] {body-SitInCab}{ConfusedB}I don't go looking to be an asshole. {ConcernedA}I actually try my best to avoid it."
+},
+{
+"k": "14698",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[confused] {body-Drive}{ConfusedA}But I thought you said--"
+},
+{
+"k": "14699",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCab}{ThinkingA}Look, after we're done, I'll personally {ThinkingB}drop whatever's left of him down the Witching Well… {AngryA}but only *after* we've proven he's had something to do with the murders."
+},
+{
+"k": "14700",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[a little annoyed] {body-Drive}{AnnoyedA}This isn't about being an {AngryB}[Crane strains with the slang]\"ass-hole\", {AngryA}this is about doing what's absolutely necessary."
+},
+{
+"k": "14701",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AnnoyedA}My thoughts exactly."
+},
+{
+"k": "14702",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pissed; coldly] {body-SitInCab}{AngryB}It's better to throw out the rulebook for this sort of thing."
+},
+{
+"k": "14703",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCabLookLeft}{DoubtfulA}This isn't unfamiliar territory."
+},
+{
+"k": "14704",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[apologetic] {body-Drive}{NormalA}I know, I know, I just want to make sure you're up for this."
+},
+{
+"k": "14705",
+"who": "RADIO",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[processed: radio] It happened mid-day, mid-town Manhattan, right outside of the Lincoln Center, two teenagers were gunned down in what witnesses are describing as an \"execution style\" shooting."
+},
+{
+"k": "14706",
+"who": "RADIO",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[processed: radio] Jesse Triffin whose been tracking the story joins us now. John, this was calm and cold-blooded…"
+},
+{
+"k": "14707",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "It's too quiet."
+},
+{
+"k": "14708",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I was listening to that."
+},
+{
+"k": "14709",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I hate this city."
+},
+{
+"k": "14710",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[Let it be]"
+},
+{
+"k": "14711",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I can't concentrate with that thing gibbering on."
+},
+{
+"k": "14712",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] I wanted to hear that."
+},
+{
+"k": "14713",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I hate this fucking city."
+},
+{
+"k": "14714",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[apologetic] I can't concentrate with that thing gibbering on."
+},
+{
+"k": "14715",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sighs] Me too."
+},
+{
+"k": "14716",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I can't believe this."
+},
+{
+"k": "14717",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] I know. It's all quite unbearable, isn't it."
+},
+{
+"k": "14718",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sigh][depressed] This all feels like some fucked up dream."
+},
+{
+"k": "14719",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Why'd you take that?"
+},
+{
+"k": "14720",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] Why'd you take that?"
+},
+{
+"k": "14721",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What do you mean? We needed everything they took."
+},
+{
+"k": "14722",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Where is… she?"
+},
+{
+"k": "14723",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sad] Where is she right now?"
+},
+{
+"k": "14724",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[awkwardly] She's in the office, currently. Awaiting examination."
+},
+{
+"k": "14725",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] I know. It's all quite unbearable, isn't it. But we can't allow ourselves to wallow."
+},
+{
+"k": "14726",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Just don't look at it if it bothers you."
+},
+{
+"k": "14727",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "What does it look like?"
+},
+{
+"k": "14728",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] What does it look like?"
+},
+{
+"k": "14729",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[Yeah right] Let me?"
+},
+{
+"k": "14730",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[a little annoyed] First of all, it's rude to smoke in someone else's car. And second, you couldn't even if I let you."
+},
+{
+"k": "14731",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "If you remember, they confiscated your cigarettes. I think they're in the trunk."
+},
+{
+"k": "14732",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I need to get my mind off things."
+},
+{
+"k": "14733",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I need to just get my mind off things. It'll take a second."
+},
+{
+"k": "14734",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sigh] Nevermind."
+},
+{
+"k": "14735",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "Thanks for the ride."
+},
+{
+"k": "14736",
+"who": "<<ID",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{46B2E66A-213D-4769-8440-91C5F6864AB2}>>"
+},
+{
+"k": "14737",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[grumblingly begrudging] {body-SitInCab}{NormalB}Thanks for the lift."
+},
+{
+"k": "14738",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {body-Drive}{NormalA}Certainly."
+},
+{
+"k": "14739",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "How's everyone back home?"
+},
+{
+"k": "14740",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{TenseA}Not everyone knows, of course, but news is spreading fast, {AngryB}and getting worse with each person who hears it."
+},
+{
+"k": "14741",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryA}We'll have to give them something soon. Something to show that we aren't dead ended."
+},
+{
+"k": "14742",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {body-SitInCab}{WorriedA}How's everyone back home? {AngryA}There hasn't been any more…"
+},
+{
+"k": "14743",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] Frankly, Bigby… it's not good. Not quite a panic, but… getting there."
+},
+{
+"k": "14744",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed, sarcastic] {body-Drive}{AnnoyedA}Oh, certainly you didn't. {AngryA}Because that wasn't you in police custody back there. {AngryB}That wasn't you, letting evidence slip into mundy possession. That wasn't you- - [gets cut off]"
+},
+{
+"k": "14745",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[annoyed] {AnnoyedB}Certainly."
+},
+{
+"k": "14746",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCab}{AngryB}I didn't need your help back there."
+},
+{
+"k": "14747",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryA}I had it under control."
+},
+{
+"k": "14748",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[Back out]"
+},
+{
+"k": "14749",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{AngryA}The Woodsman knows who killed Miss White. He knows who he is, and out of loyalty {AngryB}or fear he's not giving him up."
+},
+{
+"k": "14750",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{WorriedA}Just… please, for everyone's sake: {NormalA}get the information, and this whole grisly saga can be over tonight before anyone else gets hurt."
+},
+{
+"k": "14751",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[unconvinced] {SurprisedA}Alright, even bearing that they may know something, {NormalA}Dee, I should tell you, he's very resilient. {AnnoyedA}Tenacious, even."
+},
+{
+"k": "14752",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[bitter] {body-SitInCab}{NormalA}Him and his brother have been all over this case since the very beginning. [beat] {ThinkingB}Dee knows something."
+},
+{
+"k": "14753",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{ThinkingA}But I'm not entirely convinced Tweedle Dee will provide you with anything useful."
+},
+{
+"k": "14754",
+"who": "",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "I'll crack him."
+},
+{
+"k": "14755",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{NormalA}I'm telling you the truth, {ThinkingA}they're very tough customers."
+},
+{
+"k": "14756",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{NormalA}We'll see."
+},
+{
+"k": "14757",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[coldly] {body-SitInCab}{ThinkingB}Just put me in the room with him. It shouldn't take long."
+},
+{
+"k": "14758",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[coldly] {body-SitInCab}{NormalB}Everyone has a weakness. {MockingA}You just have to find where it is {AngryA}and push."
+},
+{
+"k": "14759",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[nervous] Please, Bigby, don't get too aggressive. It won't go well."
+},
+{
+"k": "14760",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-SitInCab}{MockingB}I have a few questions, that's all. [beat] {SarcasticB}There should be no problem."
+},
+{
+"k": "14761",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{ThinkingA}Alright, well… I'll hold you to that."
+},
+{
+"k": "14762",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{ThinkingA}…but he hasn't been a fountain of knowledge."
+},
+{
+"k": "14763",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{NormalA}I don't know if it's ignorance or fortitude…"
+},
+{
+"k": "14764",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[nervous] {body-Drive}{WorriedA}Please, Bigby, don't get too aggressive. It won't go well."
+},
+{
+"k": "14765",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{NormalA}Just… {SurprisedA}I know you're huffed, but please don't get too aggressive with this one."
+},
+{
+"k": "14766",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{NormalA}I'll be there to, um, supervise things, and… once this is done, once we're back in a positive direction-- {AngryA}we can stop whoever's out there from killing again."
+},
+{
+"k": "14767",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{SadA}Please, Bigby. For Miss White."
+},
+{
+"k": "14768",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "But only if I know you can proceed with things in a mature manner."
+},
+{
+"k": "14769",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[awkward] {body-Drive}{SadA}Did she, um, give any indication to what she was thinking… when you saw her last, I mean?"
+},
+{
+"k": "14770",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{body-Drive}{SadA}I don't know why, but I'd like to know that she was…"
+},
+{
+"k": "14771",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{WorriedA}…I guess, fine, I suppose."
+},
+{
+"k": "14772",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[pause; bitter] {MockingB}[cut]You wanted to know what she said. [beat, firm] {body-SitInCab}{WorriedA}So, that's what she said."
+},
+{
+"k": "14773",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[upset] {AngryA}Well, that's… that's very disappointing to hear."
+},
+{
+"k": "14774",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[getting mad] {body-SitInCabLookLeft}{sarcasticB}Yeah, she gave an \"indication\" she was pissed at you {AngryA}by saying that she was pissed at you."
+},
+{
+"k": "14775",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[getting mad] {AngryB}She was frustrated with the whole fucking system and tired of having to turn Fables away. {AngryC}It wore her down."
+},
+{
+"k": "14776",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "{AngryB} [cut]I'm trying, Bigby, I really am. You of all people know how hard it is!"
+},
+{
+"k": "14777",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[shocked] {body-Drive}{SurprisedA}At me?"
+},
+{
+"k": "14778",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[sad]{body-Drive} {SadA}It's not easy, Bigby, seeing everyone who wants to be seen."
+},
+{
+"k": "14779",
+"who": "BIGBY",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {body-SitInCabLookLeft}{WorriedB}She could come off as… callous, sometimes, but she wasn't really. She said that she wanted to change things… make it easier for Fables to get help when they need it."
+},
+{
+"k": "14780",
+"who": "CRANE",
+"ctx": "Fables102/env_streettile_carcrane",
+"en": "[solemn] {body-Drive}{SadA}She was always fond of you, Bigby."
+}
+]
