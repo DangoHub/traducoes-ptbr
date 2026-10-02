@@ -5,3 +5,5 @@ dist/
 ta/
 tmp*/
 *.spec
+work/
+releases/

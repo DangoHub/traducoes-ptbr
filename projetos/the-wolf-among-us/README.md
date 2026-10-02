@@ -2,7 +2,7 @@
 
 - **Versão do jogo:** Steam build 319083 (app 250320)
 - **Conteúdo:** 34.480 falas únicas (52.507 no total) — episódios 1 a 5, menus, conquistas, Fablespedia, créditos
-- **Release:** [`releases/steam-build-319083/`](releases/steam-build-319083/)
+- **Release:** [`the-wolf-among-us-v1.0`](https://github.com/DangoHub/traducoes-ptbr/releases/tag/the-wolf-among-us-v1.0)
 
 ## Limitações conhecidas
 

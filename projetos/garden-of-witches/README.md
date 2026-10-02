@@ -9,11 +9,12 @@
 
 | Steam build | Arquivos |
 |---|---|
-| 25225196 | [`releases/steam-build-25225196/`](releases/steam-build-25225196/) |
+| 25225196 | [`garden-of-witches-v1.0`](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.0) |
 
 ## Fluxo
 
 1. `python dump_ta.py` e `python prepare.py` — extrai e divide o texto em `chunks/`.
 2. Tradução dos lotes em `out/` seguindo `GUIA_TRADUCAO.md`.
 3. `python validate.py`, `python consistency.py`, `python normalize.py`.
-4. `python build.py --steam-build=<id>` — gera o `.exe` e o `.zip` em `releases/`.
+4. `python build.py --steam-build=<id>` — gera o `.exe` e o `.zip` em `releases/` (local, fora do git).
+5. Publicação: workflow **Release de tradução** no GitHub Actions (veja o README principal).
