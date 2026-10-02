@@ -1,0 +1,2162 @@
+[
+ {
+  "k": "1",
+  "cena": "Settings.ControlsTab",
+  "en": "Controls"
+ },
+ {
+  "k": "2",
+  "cena": "Settings.GameTab",
+  "en": "Game"
+ },
+ {
+  "k": "3",
+  "cena": "Settings.VideoTab",
+  "en": "Video"
+ },
+ {
+  "k": "4",
+  "cena": "Settings.TextureQuality",
+  "en": "Texture Quality"
+ },
+ {
+  "k": "5",
+  "cena": "Settings.TextureQuality.High",
+  "en": "High"
+ },
+ {
+  "k": "6",
+  "cena": "Settings.TextureQuality.Medium",
+  "en": "Medium"
+ },
+ {
+  "k": "7",
+  "cena": "Settings.TextureQuality.Low",
+  "en": "Low"
+ },
+ {
+  "k": "8",
+  "cena": "Settings.Language",
+  "en": "Language (Machine Translation)"
+ },
+ {
+  "k": "9",
+  "cena": "Settings.DialogueAutoplay",
+  "en": "Dialogue Autoplay"
+ },
+ {
+  "k": "10",
+  "cena": "Settings.DialogueAutoplay.Off",
+  "en": "Off"
+ },
+ {
+  "k": "11",
+  "cena": "Settings.DialogueAutoplay.Slow",
+  "en": "Slow"
+ },
+ {
+  "k": "12",
+  "cena": "Settings.DialogueAutoplay.Normal",
+  "en": "Normal"
+ },
+ {
+  "k": "13",
+  "cena": "Settings.DialogueAutoplay.Fast",
+  "en": "Fast"
+ },
+ {
+  "k": "14",
+  "cena": "Settings.GrassDetail",
+  "en": "Grass Detail"
+ },
+ {
+  "k": "15",
+  "cena": "Settings.GrassDetail.Deactivated",
+  "en": "Deactivated"
+ },
+ {
+  "k": "16",
+  "cena": "Settings.GrassDetail.Ultra",
+  "en": "Ultra"
+ },
+ {
+  "k": "17",
+  "cena": "Settings.FPSLimit",
+  "en": "FPS Limit"
+ },
+ {
+  "k": "18",
+  "cena": "Settings.Resolution",
+  "en": "Resolution"
+ },
+ {
+  "k": "19",
+  "cena": "Settings.DynamicLighting",
+  "en": "Dynamic Lighting"
+ },
+ {
+  "k": "20",
+  "cena": "Settings.EnableVSync",
+  "en": "Enable VSync"
+ },
+ {
+  "k": "21",
+  "cena": "Settings.ShowFPS",
+  "en": "Show FPS"
+ },
+ {
+  "k": "22",
+  "cena": "Settings.ShowAdvancedPerformanceStats",
+  "en": "Show Advanced Performance Stats"
+ },
+ {
+  "k": "23",
+  "cena": "Settings.ShowObjectOutlines",
+  "en": "Show Object Outlines"
+ },
+ {
+  "k": "24",
+  "cena": "Settings.EnableConsole",
+  "en": "Enable console (~)"
+ },
+ {
+  "k": "25",
+  "cena": "Settings.AlwaysSprint",
+  "en": "Always Sprint"
+ },
+ {
+  "k": "26",
+  "cena": "Settings.UseVirtualJoystick",
+  "en": "Use Virtual Joystick"
+ },
+ {
+  "k": "27",
+  "cena": "Settings.VirtualJoystickSize",
+  "en": "Virtual Joystick Size"
+ },
+ {
+  "k": "28",
+  "cena": "Settings.UseJoystickAxisInput",
+  "en": "Use Joystick Axis Input"
+ },
+ {
+  "k": "29",
+  "cena": "Settings.ShowHints",
+  "en": "Show Hints"
+ },
+ {
+  "k": "30",
+  "cena": "Settings.EnableMultipleAutosaves",
+  "en": "Enable Multiple Autosaves"
+ },
+ {
+  "k": "31",
+  "cena": "Settings.Fullscreen",
+  "en": "Fullscreen"
+ },
+ {
+  "k": "32",
+  "cena": "Settings.TogglePlayerSprite",
+  "en": "Toggle Player Sprite"
+ },
+ {
+  "k": "33",
+  "cena": "Settings.EnableCockblockCat",
+  "en": "Enable Cockblock Cat"
+ },
+ {
+  "k": "34",
+  "cena": "Settings.EnableSkipMode",
+  "en": "Enable Skip Mode"
+ },
+ {
+  "k": "35",
+  "cena": "Settings.SoundTab",
+  "en": "Sound"
+ },
+ {
+  "k": "36",
+  "cena": "Settings.MusicVolume",
+  "en": "Music Volume"
+ },
+ {
+  "k": "37",
+  "cena": "Settings.EffectsVolume",
+  "en": "Effects Volume"
+ },
+ {
+  "k": "38",
+  "cena": "Settings.MouseSensitivity",
+  "en": "Mouse Sensitivity"
+ },
+ {
+  "k": "39",
+  "cena": "Settings.LewderShooterTab",
+  "en": "Lewder Shooter"
+ },
+ {
+  "k": "40",
+  "cena": "Settings.MovementSpeed",
+  "en": "Movement Speed"
+ },
+ {
+  "k": "41",
+  "cena": "Settings.OpenDataPrivacyPage",
+  "en": "Open Data Privacy Page"
+ },
+ {
+  "k": "42",
+  "cena": "Settings.ToysTab",
+  "en": "Toys"
+ },
+ {
+  "k": "43",
+  "cena": "Settings.LovenseEnabled",
+  "en": "Lovense: Enabled"
+ },
+ {
+  "k": "44",
+  "cena": "Settings.LovenseIP",
+  "en": "Lovense: Local IP"
+ },
+ {
+  "k": "45",
+  "cena": "Settings.LovensePort",
+  "en": "Lovense: Port"
+ },
+ {
+  "k": "46",
+  "cena": "Settings.LovenseUseHTTP",
+  "en": "Lovense: Use HTTP"
+ },
+ {
+  "k": "47",
+  "cena": "Settings.LovenseSetup",
+  "en": "Lovense: How to Setup"
+ },
+ {
+  "k": "48",
+  "cena": "Settings.LovenseBuy",
+  "en": "Buy a Lovense Toy Here"
+ },
+ {
+  "k": "49",
+  "cena": "Settings.LovenseDialogueLine",
+  "en": "Vibrate in Dialogue"
+ },
+ {
+  "k": "50",
+  "cena": "Settings.LovenseUserInterface",
+  "en": "Vibrate in Interface"
+ },
+ {
+  "k": "51",
+  "cena": "Settings.SeasonalEvents",
+  "en": "Seasonal Events"
+ },
+ {
+  "k": "52",
+  "cena": "Settings.EnableMultiplayer",
+  "en": "Enable Multiplayer"
+ },
+ {
+  "k": "53",
+  "cena": "stat_perversion",
+  "en": "Perversion"
+ },
+ {
+  "k": "54",
+  "cena": "stat_affection",
+  "en": "Affection"
+ },
+ {
+  "k": "55",
+  "cena": "stat_SexAddict",
+  "en": "Sex Addict"
+ },
+ {
+  "k": "56",
+  "cena": "stat_hitpoints",
+  "en": "Hitpoints"
+ },
+ {
+  "k": "57",
+  "cena": "stat_hitpoints_description",
+  "en": "The amount of damage that a character can take before being defeated."
+ },
+ {
+  "k": "58",
+  "cena": "stat_energy",
+  "en": "Energy"
+ },
+ {
+  "k": "59",
+  "cena": "stat_energy_description",
+  "en": "Determines the number of actions a character can take during their turn."
+ },
+ {
+  "k": "60",
+  "cena": "stat_physical_power",
+  "en": "Physical Power"
+ },
+ {
+  "k": "61",
+  "cena": "stat_physical_power_Description",
+  "en": "Bonus damage added to the base damage of physical abilities."
+ },
+ {
+  "k": "62",
+  "cena": "stat_physical_defense",
+  "en": "Physical Defense"
+ },
+ {
+  "k": "63",
+  "cena": "stat_physical_defense_description",
+  "en": "Subtract this amount in damage from any physical attacks the character takes (to a minimum of 1)."
+ },
+ {
+  "k": "64",
+  "cena": "stat_lust_power",
+  "en": "Lust Power"
+ },
+ {
+  "k": "65",
+  "cena": "stat_lust_power_description",
+  "en": "Bonus damage added to the base damage of lust abilities."
+ },
+ {
+  "k": "66",
+  "cena": "stat_lust_defense",
+  "en": "Lust Defense"
+ },
+ {
+  "k": "67",
+  "cena": "stat_lust_defense_description",
+  "en": "Subtract this amount in damage from any lust attacks the character takes (to a minimum of 1)."
+ },
+ {
+  "k": "68",
+  "cena": "stat_attack_range",
+  "en": "Range"
+ },
+ {
+  "k": "69",
+  "cena": "stat_attack_range_description",
+  "en": "How many tiles away a character's basic attack can reach."
+ },
+ {
+  "k": "70",
+  "cena": "stat_speed_description",
+  "en": "How many tiles a character can move in a turn."
+ },
+ {
+  "k": "71",
+  "cena": "stat_crit_chance",
+  "en": "Critical Chance"
+ },
+ {
+  "k": "72",
+  "cena": "stat_crit_chance_description",
+  "en": "The percentage chance that attacks from this character can become a critical hit and deal extra damage."
+ },
+ {
+  "k": "73",
+  "cena": "stat_perversion_description",
+  "en": "How perverted and corrupted you are."
+ },
+ {
+  "k": "74",
+  "cena": "Item_Requires",
+  "en": "Requires"
+ },
+ {
+  "k": "75",
+  "cena": "Item_Durability",
+  "en": "Durability"
+ },
+ {
+  "k": "76",
+  "cena": "Item_CantUse",
+  "en": "I can't use "
+ },
+ {
+  "k": "77",
+  "en": "Grenade"
+ },
+ {
+  "k": "78",
+  "en": "Game Over"
+ },
+ {
+  "k": "79",
+  "en": "Main Menu"
+ },
+ {
+  "k": "80",
+  "en": "G"
+ },
+ {
+  "k": "81",
+  "en": "Continue"
+ },
+ {
+  "k": "82",
+  "en": "LEVELNAme"
+ },
+ {
+  "k": "83",
+  "en": "AbilityName"
+ },
+ {
+  "k": "84",
+  "en": "This ability does something."
+ },
+ {
+  "k": "85",
+  "en": "CharacterName"
+ },
+ {
+  "k": "86",
+  "en": "Move: ↔ ↕    Zoom: (+) #Input_Sprint# (-) #Input_OpenMenu#"
+ },
+ {
+  "k": "87",
+  "en": "Expressions"
+ },
+ {
+  "k": "88",
+  "en": "Close"
+ },
+ {
+  "k": "89",
+  "en": "Equipment"
+ },
+ {
+  "k": "90",
+  "en": "Effects"
+ },
+ {
+  "k": "91",
+  "en": "Brows"
+ },
+ {
+  "k": "92",
+  "en": "Cancel"
+ },
+ {
+  "k": "93",
+  "en": "Functions"
+ },
+ {
+  "k": "94",
+  "en": "Ruined"
+ },
+ {
+  "k": "95",
+  "en": "Mouth"
+ },
+ {
+  "k": "96",
+  "en": "Damaged"
+ },
+ {
+  "k": "97",
+  "en": "Destroyed"
+ },
+ {
+  "k": "98",
+  "en": "Eyes"
+ },
+ {
+  "k": "99",
+  "en": "Intact"
+ },
+ {
+  "k": "100",
+  "en": "Dyes"
+ },
+ {
+  "k": "101",
+  "en": "Enemy Turn"
+ },
+ {
+  "k": "102",
+  "en": "Skip Mode"
+ },
+ {
+  "k": "103",
+  "en": "Win Fight"
+ },
+ {
+  "k": "104",
+  "en": "HOLD"
+ },
+ {
+  "k": "105",
+  "en": "Third Crisis (0.41.1-pr) on WindowsEditor"
+ },
+ {
+  "k": "106",
+  "en": "Loyalty_Carcen_WildfireScene"
+ },
+ {
+  "k": "107",
+  "en": "VICTORY"
+ },
+ {
+  "k": "108",
+  "en": "DEFEAT"
+ },
+ {
+  "k": "109",
+  "en": "Round 1"
+ },
+ {
+  "k": "110",
+  "en": "ArtistLabel"
+ },
+ {
+  "k": "111",
+  "en": "UrlLabel"
+ },
+ {
+  "k": "112",
+  "en": "NameLabel"
+ },
+ {
+  "k": "113",
+  "en": "Unlock info here."
+ },
+ {
+  "k": "114",
+  "en": "Tab\n"
+ },
+ {
+  "k": "115",
+  "en": "Options"
+ },
+ {
+  "k": "116",
+  "en": "Devs live on stream"
+ },
+ {
+  "k": "117",
+  "en": "Q"
+ },
+ {
+  "k": "118",
+  "en": "Back"
+ },
+ {
+  "k": "119",
+  "en": "Reset to Default"
+ },
+ {
+  "k": "120",
+  "en": "The Witching Hour"
+ },
+ {
+  "k": "121",
+  "en": "Load Game"
+ },
+ {
+  "k": "122",
+  "en": "Exit Game"
+ },
+ {
+  "k": "123",
+  "en": "Patreon"
+ },
+ {
+  "k": "124",
+  "en": "Patreon Version"
+ },
+ {
+  "k": "125",
+  "en": "Credits"
+ },
+ {
+  "k": "126",
+  "en": "Winter Holidays"
+ },
+ {
+  "k": "127",
+  "en": "New Game"
+ },
+ {
+  "k": "128",
+  "en": "Achievements"
+ },
+ {
+  "k": "129",
+  "en": "Gallery"
+ },
+ {
+  "k": "130",
+  "en": "<b>Roast and Spit</b>"
+ },
+ {
+  "k": "131",
+  "en": "0.59.0-pr - (2022.3.7f1)"
+ },
+ {
+  "k": "132",
+  "en": "SAVE GAME"
+ },
+ {
+  "k": "133",
+  "en": "RESUME"
+ },
+ {
+  "k": "134",
+  "en": "OPTIONS"
+ },
+ {
+  "k": "135",
+  "en": "LOAD GAME"
+ },
+ {
+  "k": "136",
+  "en": "EXIT TO DESKTOP"
+ },
+ {
+  "k": "137",
+  "en": "MAIN MENU"
+ },
+ {
+  "k": "138",
+  "en": "HISTORY"
+ },
+ {
+  "k": "139",
+  "en": "ACHIEVEMENTS"
+ },
+ {
+  "k": "140",
+  "en": "Enter text..."
+ },
+ {
+  "k": "141",
+  "en": "Working on 0.3.0!"
+ },
+ {
+  "k": "142",
+  "en": "bearcore - Live on Picarto"
+ },
+ {
+  "k": "143",
+  "en": "Dialogue History"
+ },
+ {
+  "k": "144",
+  "en": "Save Game"
+ },
+ {
+  "k": "145",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+ },
+ {
+  "k": "146",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+ },
+ {
+  "k": "147",
+  "en": "Unlock all"
+ },
+ {
+  "k": "148",
+  "en": "Create new save"
+ },
+ {
+  "k": "149",
+  "en": "Import"
+ },
+ {
+  "k": "150",
+  "en": "Skip to Content"
+ },
+ {
+  "k": "151",
+  "en": "Open Folder"
+ },
+ {
+  "k": "152",
+  "en": "Show Autosaves"
+ },
+ {
+  "k": "153",
+  "en": "Enter Save Name..."
+ },
+ {
+  "k": "154",
+  "en": "<b>X</b>"
+ },
+ {
+  "k": "155",
+  "en": "Show More"
+ },
+ {
+  "k": "156",
+  "en": "Scenes"
+ },
+ {
+  "k": "157",
+  "en": "Animations"
+ },
+ {
+  "k": "158",
+  "en": "Leave Gallery"
+ },
+ {
+  "k": "159",
+  "en": "Not available in demo"
+ },
+ {
+  "k": "160",
+  "en": "Characters"
+ },
+ {
+  "k": "161",
+  "en": "Sequences"
+ },
+ {
+  "k": "162",
+  "en": "Pinups"
+ },
+ {
+  "k": "163",
+  "en": "Save Name"
+ },
+ {
+  "k": "164",
+  "en": "Category"
+ },
+ {
+  "k": "165",
+  "en": "No Saves Available"
+ },
+ {
+  "k": "166",
+  "en": "Savename\n"
+ },
+ {
+  "k": "167",
+  "en": "Level Name\n"
+ },
+ {
+  "k": "168",
+  "en": "11:43am - 8/30/2017\n"
+ },
+ {
+  "k": "169",
+  "en": "Unlock Count"
+ },
+ {
+  "k": "170",
+  "en": "Anduo Games"
+ },
+ {
+  "k": "171",
+  "en": "Details for this achievement will be revealed once unlocked."
+ },
+ {
+  "k": "172",
+  "en": "Hidden Achievement"
+ },
+ {
+  "k": "173",
+  "en": "Export"
+ },
+ {
+  "k": "174",
+  "en": "Delete"
+ },
+ {
+  "k": "175",
+  "en": "This is how to unlock the scene. This is how to unlock the scene. This is how to unlock the scene. This is how to unlock the scene. This is how to unlock the scene. This is how to unlock the scene. "
+ },
+ {
+  "k": "176",
+  "en": "ANIMATION NAME"
+ },
+ {
+  "k": "177",
+  "en": "X"
+ },
+ {
+  "k": "178",
+  "en": "OPTION NAME"
+ },
+ {
+  "k": "179",
+  "en": "Click for Unlock Hint"
+ },
+ {
+  "k": "180",
+  "en": "RESET Animation"
+ },
+ {
+  "k": "181",
+  "en": "SPEED"
+ },
+ {
+  "k": "182",
+  "en": "Show Advanced Settings"
+ },
+ {
+  "k": "183",
+  "en": "VERY LONG ANIMATION NAME"
+ },
+ {
+  "k": "184",
+  "en": "Only in \npaid version"
+ },
+ {
+  "k": "185",
+  "en": "Only in\npaid version"
+ },
+ {
+  "k": "186",
+  "en": "Futa"
+ },
+ {
+  "k": "187",
+  "en": "Mission Name Here"
+ },
+ {
+  "k": "188",
+  "en": "Task Name Here"
+ },
+ {
+  "k": "189",
+  "en": "Tab"
+ },
+ {
+  "k": "190",
+  "en": "Exit"
+ },
+ {
+  "k": "191",
+  "en": "ItemName"
+ },
+ {
+  "k": "192",
+  "en": "Use"
+ },
+ {
+  "k": "193",
+  "en": "Yes"
+ },
+ {
+  "k": "194",
+  "en": "No"
+ },
+ {
+  "k": "195",
+  "en": "Message goes here"
+ },
+ {
+  "k": "196",
+  "en": "Title Here"
+ },
+ {
+  "k": "197",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in finibus mauris. Vestibulum augue leo, vulputate ut accumsan nec, pretium eget lectus."
+ },
+ {
+  "k": "198",
+  "en": "Woman"
+ },
+ {
+  "k": "199",
+  "en": "Choice Here"
+ },
+ {
+  "k": "200",
+  "en": "Hide"
+ },
+ {
+  "k": "201",
+  "en": "Skip"
+ },
+ {
+  "k": "202",
+  "en": "Auto"
+ },
+ {
+  "k": "203",
+  "en": "History"
+ },
+ {
+  "k": "204",
+  "en": "Shift"
+ },
+ {
+  "k": "205",
+  "en": "Q\n"
+ },
+ {
+  "k": "206",
+  "en": "MB"
+ },
+ {
+  "k": "207",
+  "en": "min"
+ },
+ {
+  "k": "208",
+  "en": "VRAM: ####MB. Max texture size: ####px. Shader level: ##"
+ },
+ {
+  "k": "209",
+  "en": "max"
+ },
+ {
+  "k": "210",
+  "en": "mono"
+ },
+ {
+  "k": "211",
+  "en": "Window: ####x####@##Hz[##dpi]"
+ },
+ {
+  "k": "212",
+  "en": "Graphics API: Graphics API version [level ##]"
+ },
+ {
+  "k": "213",
+  "en": "RAM: #### MB"
+ },
+ {
+  "k": "214",
+  "en": "allocated"
+ },
+ {
+  "k": "215",
+  "en": "CPU: Processor Model [# cores]"
+ },
+ {
+  "k": "216",
+  "en": "ms"
+ },
+ {
+  "k": "217",
+  "en": "avg"
+ },
+ {
+  "k": "218",
+  "en": "Screen: ####x####@##Hz"
+ },
+ {
+  "k": "219",
+  "en": "fps"
+ },
+ {
+  "k": "220",
+  "en": "dB"
+ },
+ {
+  "k": "221",
+  "en": "GPU: Graphics Card Name"
+ },
+ {
+  "k": "222",
+  "en": "reserved"
+ },
+ {
+  "k": "223",
+  "en": "OS: OS Version [Platform]"
+ },
+ {
+  "k": "224",
+  "en": "ram"
+ },
+ {
+  "k": "225",
+  "en": "audio"
+ },
+ {
+  "k": "226",
+  "en": "Throb Perversion +5"
+ },
+ {
+  "k": "227",
+  "en": "LevelName"
+ },
+ {
+  "k": "228",
+  "en": "AT&AT"
+ },
+ {
+  "k": "229",
+  "en": "AT-AT"
+ },
+ {
+  "k": "230",
+  "en": "11:00am"
+ },
+ {
+  "k": "231",
+  "en": "Missions"
+ },
+ {
+  "k": "232",
+  "en": "Inventory"
+ },
+ {
+  "k": "233",
+  "en": "Status"
+ },
+ {
+  "k": "234",
+  "en": "Journal"
+ },
+ {
+  "k": "235",
+  "en": "Journal Title"
+ },
+ {
+  "k": "236",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+ },
+ {
+  "k": "237",
+  "en": "Jenna"
+ },
+ {
+  "k": "238",
+  "en": "UNLOCK ALL entries"
+ },
+ {
+  "k": "239",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend rhoncus orci, ac bibendum justo venenatis non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend rhoncus orci, ac bibendum justo venenatis non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend rhoncus orci, ac bibendum justo venenatis non. "
+ },
+ {
+  "k": "240",
+  "en": "The Wright Brew"
+ },
+ {
+  "k": "241",
+  "en": "Key Items"
+ },
+ {
+  "k": "242",
+  "en": "Items"
+ },
+ {
+  "k": "243",
+  "en": "Weapons"
+ },
+ {
+  "k": "244",
+  "en": "Clothing"
+ },
+ {
+  "k": "245",
+  "en": "In-Progress"
+ },
+ {
+  "k": "246",
+  "en": "Complete"
+ },
+ {
+  "k": "247",
+  "en": "Project Peitho : Entry 43"
+ },
+ {
+  "k": "248",
+  "en": "A Commanding Presence"
+ },
+ {
+  "k": "249",
+  "en": "Audio Log"
+ },
+ {
+  "k": "250",
+  "en": "Play"
+ },
+ {
+  "k": "251",
+  "en": "Stats"
+ },
+ {
+  "k": "252",
+  "en": "Tasks"
+ },
+ {
+  "k": "253",
+  "en": "Description"
+ },
+ {
+  "k": "254",
+  "en": "No items found!"
+ },
+ {
+  "k": "255",
+  "en": "Stat Name"
+ },
+ {
+  "k": "256",
+  "en": "Head"
+ },
+ {
+  "k": "257",
+  "en": "No effects to display"
+ },
+ {
+  "k": "258",
+  "en": "Drunk"
+ },
+ {
+  "k": "259",
+  "en": "E"
+ },
+ {
+  "k": "260",
+  "en": "Failure!"
+ },
+ {
+  "k": "261",
+  "en": "Success!"
+ },
+ {
+  "k": "262",
+  "en": "ANALYTICS OPT-IN"
+ },
+ {
+  "k": "263",
+  "en": "No\n"
+ },
+ {
+  "k": "264",
+  "en": "Mature Content"
+ },
+ {
+  "k": "265",
+  "en": "We use Unity Analytics to track which story ending people \nwill get purely out of our own curiosity.\n\nDo you consent to analytics tracking?"
+ },
+ {
+  "k": "266",
+  "en": "You must be aged 18 years or older to play. \nAre you at least 18 years old?"
+ },
+ {
+  "k": "267",
+  "en": "WIP Development Build"
+ },
+ {
+  "k": "268",
+  "en": "Optimizing Performance"
+ },
+ {
+  "k": "269",
+  "en": "Anduo Games Presents"
+ },
+ {
+  "k": "270",
+  "en": "PUB"
+ },
+ {
+  "k": "271",
+  "en": "STAY STILL"
+ },
+ {
+  "k": "272",
+  "en": "MOTEL"
+ },
+ {
+  "k": "273",
+  "en": "Prison"
+ },
+ {
+  "k": "274",
+  "en": "Townhall"
+ },
+ {
+  "k": "275",
+  "en": "Gear"
+ },
+ {
+  "k": "276",
+  "en": "Storehouse"
+ },
+ {
+  "k": "277",
+  "en": "Tailor"
+ },
+ {
+  "k": "278",
+  "en": "VR"
+ },
+ {
+  "k": "279",
+  "en": "HINT: Moving too fast and interacting with things attracts attention! Be patient and cautious around the guards."
+ },
+ {
+  "k": "280",
+  "en": "CYPER ACCEPTED"
+ },
+ {
+  "k": "281",
+  "en": "Enter Cypher"
+ },
+ {
+  "k": "282",
+  "en": "CLR"
+ },
+ {
+  "k": "283",
+  "en": "Autoplay\n"
+ },
+ {
+  "k": "284",
+  "en": "Skip Song"
+ },
+ {
+  "k": "285",
+  "en": "15x"
+ },
+ {
+  "k": "286",
+  "en": "Table"
+ },
+ {
+  "k": "287",
+  "en": "Job Board"
+ },
+ {
+  "k": "288",
+  "en": "JOB TITLE"
+ },
+ {
+  "k": "289",
+  "en": "LOCATION"
+ },
+ {
+  "k": "290",
+  "en": "fB"
+ },
+ {
+  "k": "291",
+  "en": "Stop"
+ },
+ {
+  "k": "292",
+  "en": "More..."
+ },
+ {
+  "k": "293",
+  "en": "AUTO"
+ },
+ {
+  "k": "294",
+  "en": "Bigger..."
+ },
+ {
+  "k": "295",
+  "en": "845 ml"
+ },
+ {
+  "k": "296",
+  "en": "Debug View:"
+ },
+ {
+  "k": "297",
+  "en": "Cum:"
+ },
+ {
+  "k": "298",
+  "en": "<color=#3aff8f>//Specimen #43</color>\nTime: <color=#f441a3>\t\t96 Hours</color>\nSize: <color=#f441a3>\t\tXL</color>\nSpeed: <color=#f441a3>\t3</color>"
+ },
+ {
+  "k": "299",
+  "en": "<color=#3aff8f>//Specimen #44</color>\nTime: <color=#f441a3>\t\t  1476 Hours</color>\nSize: <color=#f441a3>\t\t  XL</color>\nSpeed: <color=#f441a3>\t  3</color>"
+ },
+ {
+  "k": "300",
+  "en": "<color=#3aff8f>//Specimen #44</color>\nTime: <color=#f441a3>\t\t  0 Hours</color>\nSize: <color=#f441a3>\t\t  XL</color>\nSpeed: <color=#f441a3>\t  3</color>"
+ },
+ {
+  "k": "301",
+  "en": "<color=#3aff8f>//Specimen #44</color>\nTime: <color=#f441a3>\t\t  0 Hours</color>\nSize: <color=#f441a3>\t\t  XL</color>\nSpeed: <color=#f441a3>\t  0</color>"
+ },
+ {
+  "k": "302",
+  "en": "<color=#3aff8f>//Specimen #44</color>\nTime: <color=#f441a3>\t\t  1475 Hours</color>\nSize: <color=#f441a3>\t\t  XL</color>\nSpeed: <color=#f441a3>\t  3</color>"
+ },
+ {
+  "k": "303",
+  "en": "<color=#3aff8f>//Specimen #43</color>\nTime: <color=#f441a3>\t\t97 Hours</color>\nSize: <color=#f441a3>\t\tXL</color>\nSpeed: <color=#f441a3>\t3</color>"
+ },
+ {
+  "k": "304",
+  "en": "Confirm Changes"
+ },
+ {
+  "k": "305",
+  "en": "Reset"
+ },
+ {
+  "k": "306",
+  "en": "This item has no layers that can be dyed."
+ },
+ {
+  "k": "307",
+  "en": "NO RECOLORABLE ITEMS TO DISPLAY"
+ },
+ {
+  "k": "308",
+  "en": "Wildfire"
+ },
+ {
+  "k": "309",
+  "en": "One Month Later..."
+ },
+ {
+  "k": "310",
+  "en": "FEMALE"
+ },
+ {
+  "k": "311",
+  "en": "Sex:"
+ },
+ {
+  "k": "312",
+  "en": "VERY LONG UPGRADE NAME"
+ },
+ {
+  "k": "313",
+  "en": "Patron Menu"
+ },
+ {
+  "k": "314",
+  "en": "Reset Positions"
+ },
+ {
+  "k": "315",
+  "en": "Start Editing Positions"
+ },
+ {
+  "k": "316",
+  "en": "REC"
+ },
+ {
+  "k": "317",
+  "en": "Setup"
+ },
+ {
+  "k": "318",
+  "en": "SLAVes"
+ },
+ {
+  "k": "319",
+  "en": "LV - 0"
+ },
+ {
+  "k": "320",
+  "en": "Physical Modification"
+ },
+ {
+  "k": "321",
+  "en": "NOT OWNED"
+ },
+ {
+  "k": "322",
+  "en": "The End"
+ },
+ {
+  "k": "323",
+  "en": "Height: 1.69\nWeight: 65"
+ },
+ {
+  "k": "324",
+  "en": "VISUALS"
+ },
+ {
+  "k": "325",
+  "en": "STATS"
+ },
+ {
+  "k": "326",
+  "en": "Extreme"
+ },
+ {
+  "k": "327",
+  "en": "LV_1"
+ },
+ {
+  "k": "328",
+  "en": "Slave  Clothing"
+ },
+ {
+  "k": "329",
+  "en": "PeithOS"
+ },
+ {
+  "k": "330",
+  "en": "Logging in:"
+ },
+ {
+  "k": "331",
+  "en": "Reduced"
+ },
+ {
+  "k": "332",
+  "en": "Throat Vibrator"
+ },
+ {
+  "k": "333",
+  "en": "Gender:\nFemale"
+ },
+ {
+  "k": "334",
+  "en": "Observatory Testchamber"
+ },
+ {
+  "k": "335",
+  "en": "Less"
+ },
+ {
+  "k": "336",
+  "en": "Security Footage"
+ },
+ {
+  "k": "337",
+  "en": "Public Lessons:"
+ },
+ {
+  "k": "338",
+  "en": "Weight: \n62"
+ },
+ {
+  "k": "339",
+  "en": "Access:\n1"
+ },
+ {
+  "k": "340",
+  "en": "Height:"
+ },
+ {
+  "k": "341",
+  "en": "Unchanged"
+ },
+ {
+  "k": "342",
+  "en": "PID:\n39235"
+ },
+ {
+  "k": "343",
+  "en": "Peitho Symbol"
+ },
+ {
+  "k": "344",
+  "en": "Stronger"
+ },
+ {
+  "k": "345",
+  "en": "VERY LONG UPGRADE DESCRIPTION THAT CLEARLY STATES WHAT EXACTLY THE UPGRADE DOES AND DOES NOT DO TO MAKE THE USER REALLY UNDERSTAND THE MEANING OF HIS PURCHASE AT THE TIME OF READING THIS VERY DETAILED PRODUCT DESCRIPTION"
+ },
+ {
+  "k": "346",
+  "en": "START"
+ },
+ {
+  "k": "347",
+  "en": "PRIVATE"
+ },
+ {
+  "k": "348",
+  "en": "BUY"
+ },
+ {
+  "k": "349",
+  "en": "Perversion:"
+ },
+ {
+  "k": "350",
+  "en": "Peitho"
+ },
+ {
+  "k": "351",
+  "en": "Breast Size Implant"
+ },
+ {
+  "k": "352",
+  "en": "Facial Piercings"
+ },
+ {
+  "k": "353",
+  "en": "Login"
+ },
+ {
+  "k": "354",
+  "en": "Expanded"
+ },
+ {
+  "k": "355",
+  "en": "###NAME###"
+ },
+ {
+  "k": "356",
+  "en": "S O L D"
+ },
+ {
+  "k": "357",
+  "en": "Hair"
+ },
+ {
+  "k": "358",
+  "en": "Visual Modifications"
+ },
+ {
+  "k": "359",
+  "en": "Resistance"
+ },
+ {
+  "k": "360",
+  "en": "Throat Bulge Expander"
+ },
+ {
+  "k": "361",
+  "en": "Throat Bulge"
+ },
+ {
+  "k": "362",
+  "en": "WEight:"
+ },
+ {
+  "k": "363",
+  "en": "Visual Modification"
+ },
+ {
+  "k": "364",
+  "en": "Nipple Piercings"
+ },
+ {
+  "k": "365",
+  "en": "Modified Mascara"
+ },
+ {
+  "k": "366",
+  "en": "Return to Main Menu"
+ },
+ {
+  "k": "367",
+  "en": "TRAIN"
+ },
+ {
+  "k": "368",
+  "en": "Lung Capacity"
+ },
+ {
+  "k": "369",
+  "en": "Throat Vibrators"
+ },
+ {
+  "k": "370",
+  "en": "Mascara"
+ },
+ {
+  "k": "371",
+  "en": "Carcen Female #3e14"
+ },
+ {
+  "k": "372",
+  "en": "Enter Password"
+ },
+ {
+  "k": "373",
+  "en": "Slightly Reduced"
+ },
+ {
+  "k": "374",
+  "en": "UL_0"
+ },
+ {
+  "k": "375",
+  "en": "Airship:\nTrue"
+ },
+ {
+  "k": "376",
+  "en": "Inhalation Reduction"
+ },
+ {
+  "k": "377",
+  "en": "Trainable Slaves"
+ },
+ {
+  "k": "378",
+  "en": "Abort"
+ },
+ {
+  "k": "379",
+  "en": "Name:\nJennifer Wright"
+ },
+ {
+  "k": "380",
+  "en": "Physical Modifications"
+ },
+ {
+  "k": "381",
+  "en": "AIRSHIP Jenna Hair"
+ },
+ {
+  "k": "382",
+  "en": "Breast Size"
+ },
+ {
+  "k": "383",
+  "en": "Occupation:\nSlave Trainer"
+ },
+ {
+  "k": "384",
+  "en": "Slave Clothing"
+ },
+ {
+  "k": "385",
+  "en": "Resistance Overrider"
+ },
+ {
+  "k": "386",
+  "en": "PUBLIC"
+ },
+ {
+  "k": "387",
+  "en": "EQUIP"
+ },
+ {
+  "k": "388",
+  "en": "None"
+ },
+ {
+  "k": "389",
+  "en": "Increased"
+ },
+ {
+  "k": "390",
+  "en": "TALK"
+ },
+ {
+  "k": "391",
+  "en": "Buy Level 1"
+ },
+ {
+  "k": "392",
+  "en": "Private Lessons: "
+ },
+ {
+  "k": "393",
+  "en": "Playable in next version"
+ },
+ {
+  "k": "394",
+  "en": "IN DEVELOPMENT"
+ },
+ {
+  "k": "395",
+  "en": "More Perversion Required"
+ },
+ {
+  "k": "396",
+  "en": "#01 - Squeeze Tits"
+ },
+ {
+  "k": "397",
+  "en": "ITEMNAME"
+ },
+ {
+  "k": "398",
+  "en": "This is a really long name"
+ },
+ {
+  "k": "399",
+  "en": "Unknown Peitho Location"
+ },
+ {
+  "k": "400",
+  "en": "Meanwhile..."
+ },
+ {
+  "k": "401",
+  "en": "Body Writing \"SLUT\""
+ },
+ {
+  "k": "402",
+  "en": "Condoms 1"
+ },
+ {
+  "k": "403",
+  "en": "Body Writing Penis"
+ },
+ {
+  "k": "404",
+  "en": "Peitho Collar"
+ },
+ {
+  "k": "405",
+  "en": "Body Writing \"FUCK ME ♥\""
+ },
+ {
+  "k": "406",
+  "en": "Show <color=orange>Extra</color> Menu"
+ },
+ {
+  "k": "407",
+  "en": "Open Condoms On Breast"
+ },
+ {
+  "k": "408",
+  "en": "Body Writing \"BREED ME\""
+ },
+ {
+  "k": "409",
+  "en": "Condoms 2"
+ },
+ {
+  "k": "410",
+  "en": "If you liked what you saw, you can find much more content like it in our full RPG game.\n\nThis was just a little minigame that came out of toying around with animations.\nWe hope you liked it. ♥\n\nWith love from <b>anduo games</b>."
+ },
+ {
+  "k": "411",
+  "en": "Condoms 3"
+ },
+ {
+  "k": "412",
+  "en": "They want More..."
+ },
+ {
+  "k": "413",
+  "en": "Right Nipple Vibrator"
+ },
+ {
+  "k": "414",
+  "en": "Left Nipple Vibrator"
+ },
+ {
+  "k": "415",
+  "en": "Dildo between Tits"
+ },
+ {
+  "k": "416",
+  "en": "MAKE THEM CUM "
+ },
+ {
+  "k": "417",
+  "en": "Condoms 4"
+ },
+ {
+  "k": "418",
+  "en": "Mash!"
+ },
+ {
+  "k": "419",
+  "en": "Release"
+ },
+ {
+  "k": "420",
+  "en": "Report\n\nDuration: 834 days / 20 days\nAssimilation: 4306% / 100%\nSubject: Weber\n\n\nThe requested assimilation process will be reached in -19538 hours. Past recommended duration, structural changes may occur.\n\nPlease confirm completion to stop procedure and release subject."
+ },
+ {
+  "k": "421",
+  "en": "Project Ambrosia v1.2f6"
+ },
+ {
+  "k": "422",
+  "en": "Test Room 2\n"
+ },
+ {
+  "k": "423",
+  "en": "quarters"
+ },
+ {
+  "k": "424",
+  "en": "Test Room 1"
+ },
+ {
+  "k": "425",
+  "en": "Gym"
+ },
+ {
+  "k": "426",
+  "en": "Security control"
+ },
+ {
+  "k": "427",
+  "en": "Gas Control"
+ },
+ {
+  "k": "428",
+  "en": "The End?"
+ },
+ {
+  "k": "429",
+  "en": "Carceburg PureEnding"
+ },
+ {
+  "k": "430",
+  "en": "Third Crisis (1.0.0-pr) on WindowsEditor"
+ },
+ {
+  "k": "431",
+  "en": "Color Picker"
+ },
+ {
+  "k": "432",
+  "en": "Alpha"
+ },
+ {
+  "k": "433",
+  "en": "Graphy Mode"
+ },
+ {
+  "k": "434",
+  "en": "Full"
+ },
+ {
+  "k": "435",
+  "en": "Background"
+ },
+ {
+  "k": "436",
+  "en": "Graph Module Position"
+ },
+ {
+  "k": "437",
+  "en": "Top Right"
+ },
+ {
+  "k": "438",
+  "en": "FPS Module State"
+ },
+ {
+  "k": "439",
+  "en": "Thresholds & Colors"
+ },
+ {
+  "k": "440",
+  "en": "Good"
+ },
+ {
+  "k": "441",
+  "en": "Caution"
+ },
+ {
+  "k": "442",
+  "en": "Critical"
+ },
+ {
+  "k": "443",
+  "en": "Time To Reset Min/Max"
+ },
+ {
+  "k": "444",
+  "en": "Fps Graph Resolution"
+ },
+ {
+  "k": "445",
+  "en": "Fps Text Update Rate"
+ },
+ {
+  "k": "446",
+  "en": "Memory Module State"
+ },
+ {
+  "k": "447",
+  "en": "Graph Colors"
+ },
+ {
+  "k": "448",
+  "en": "Reserved"
+ },
+ {
+  "k": "449",
+  "en": "Allocated"
+ },
+ {
+  "k": "450",
+  "en": "Mono"
+ },
+ {
+  "k": "451",
+  "en": "Ram Graph Resolution"
+ },
+ {
+  "k": "452",
+  "en": "Ram Text Update Rate"
+ },
+ {
+  "k": "453",
+  "en": "Audio Module State"
+ },
+ {
+  "k": "454",
+  "en": "Graph Color"
+ },
+ {
+  "k": "455",
+  "en": "Find Audio Listener"
+ },
+ {
+  "k": "456",
+  "en": "On Scene Load"
+ },
+ {
+  "k": "457",
+  "en": "FTT Window"
+ },
+ {
+  "k": "458",
+  "en": "Blackman"
+ },
+ {
+  "k": "459",
+  "en": "Spectrum Size"
+ },
+ {
+  "k": "460",
+  "en": "Audio Graph Resolution"
+ },
+ {
+  "k": "461",
+  "en": "Audio Text Update Rate"
+ },
+ {
+  "k": "462",
+  "en": "Advanced Module Position"
+ },
+ {
+  "k": "463",
+  "en": "Bottom Left"
+ },
+ {
+  "k": "464",
+  "en": "Active"
+ },
+ {
+  "k": "465",
+  "en": "Play / Stop Music"
+ },
+ {
+  "k": "466",
+  "en": "Play SFX"
+ },
+ {
+  "k": "467",
+  "en": "SFX Volume"
+ },
+ {
+  "k": "468",
+  "en": "Title"
+ },
+ {
+  "k": "469",
+  "en": "Start Game"
+ },
+ {
+  "k": "470",
+  "en": "Exit to Windows"
+ },
+ {
+  "k": "471",
+  "en": "Option Name:"
+ },
+ {
+  "k": "472",
+  "en": "Press any key to bind it."
+ },
+ {
+  "k": "473",
+  "en": "Button"
+ },
+ {
+  "k": "474",
+  "en": "Paused"
+ },
+ {
+  "k": "475",
+  "en": "Resume\n"
+ },
+ {
+  "k": "476",
+  "en": "Return to Menu"
+ },
+ {
+  "k": "477",
+  "en": "Exit to Desktop"
+ },
+ {
+  "k": "478",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in finibus mauris. Vestibulum augue leo, vulputate ut accumsan nec, pretium eget lectus. Etiam euismod ut lectus eget consectetur. Nulla facilisi. Fusce at nulla condimentum, venenatis est vel, dignissim elit. Curabitur scelerisque commodo tincidunt. Phasellus tincidunt magna arcu. Maecenas urna augue, venenatis et mi eget, rhoncus tempor odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id aliquet ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+ },
+ {
+  "k": "479",
+  "en": "Red"
+ },
+ {
+  "k": "480",
+  "en": "Green"
+ },
+ {
+  "k": "481",
+  "en": "Has Character: <color=red>NO</color>"
+ },
+ {
+  "k": "482",
+  "en": "Is Wall: <color=red>NO</color>"
+ },
+ {
+  "k": "483",
+  "en": "Is Walkable: <color=red>NO</color>"
+ },
+ {
+  "k": "484",
+  "en": "Coordinates: (X | Y)"
+ },
+ {
+  "k": "485",
+  "en": "Health"
+ },
+ {
+  "k": "486",
+  "en": "Weapon"
+ },
+ {
+  "k": "487",
+  "en": "PhsPwr"
+ },
+ {
+  "k": "488",
+  "en": "PhsDef"
+ },
+ {
+  "k": "489",
+  "en": "LstPwr"
+ },
+ {
+  "k": "490",
+  "en": "LstDef"
+ },
+ {
+  "k": "491",
+  "en": "Speed"
+ },
+ {
+  "k": "492",
+  "en": "Crit%"
+ },
+ {
+  "k": "493",
+  "en": "Abilities"
+ },
+ {
+  "k": "494",
+  "en": "Hall"
+ },
+ {
+  "k": "495",
+  "en": "Move to Exit"
+ },
+ {
+  "k": "496",
+  "en": "SHAKE"
+ },
+ {
+  "k": "497",
+  "en": "Current Recipe\n"
+ },
+ {
+  "k": "498",
+  "en": "Retry"
+ },
+ {
+  "k": "499",
+  "en": "TODO:\nRecipeName 1\nRecipeName 2\nRecipeName 3"
+ },
+ {
+  "k": "500",
+  "en": "Drink Name"
+ },
+ {
+  "k": "501",
+  "en": "1. Ingredient"
+ },
+ {
+  "k": "502",
+  "en": "2. Ingredient"
+ },
+ {
+  "k": "503",
+  "en": "3. Ingredient"
+ },
+ {
+  "k": "504",
+  "en": "4. Ingredient"
+ },
+ {
+  "k": "505",
+  "en": "5. Ingredient"
+ },
+ {
+  "k": "506",
+  "en": "It might be a simple drink, but some like a simple life!"
+ },
+ {
+  "k": "507",
+  "en": "Flavour"
+ },
+ {
+  "k": "508",
+  "en": "Great job!"
+ },
+ {
+  "k": "509",
+  "en": "DEVILS CUM"
+ },
+ {
+  "k": "510",
+  "en": "Thanks for playing!"
+ },
+ {
+  "k": "511",
+  "en": "Leave Feedback"
+ },
+ {
+  "k": "512",
+  "en": "1.0.0-pr - (2022.3.7f1)"
+ },
+ {
+  "k": "513",
+  "en": "PREPARE FOR BATTLE"
+ },
+ {
+  "k": "514",
+  "en": "ENEMY NAME!"
+ },
+ {
+  "k": "515",
+  "en": "<color=red>Soldier</color> defeated"
+ },
+ {
+  "k": "516",
+  "en": "(Skip Mode) Guards cannot see you."
+ },
+ {
+  "k": "517",
+  "en": "Mission Name"
+ },
+ {
+  "k": "518",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis non est eu gravida. Sed libero ex, accumsan nec placerat rhoncus, lobortis vel urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis non est eu gravida. Sed libero ex, accumsan nec placerat rhoncus, lobortis vel urna."
+ },
+ {
+  "k": "519",
+  "en": "Notification goes here!"
+ },
+ {
+  "k": "520",
+  "en": "Task Name\n"
+ },
+ {
+  "k": "521",
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis non est eu gravida. Sed libero ex, accumsan nec placerat rhoncus, lobortis vel urna."
+ }
+]

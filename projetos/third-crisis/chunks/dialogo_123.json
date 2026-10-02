@@ -1,0 +1,999 @@
+[
+ {
+  "k": "1",
+  "cena": "ThrobMission_Night7_Post_3",
+  "quem": "Throb (M)",
+  "en": "Nice place!"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Yeah. It's fine."
+ },
+ {
+  "k": "3",
+  "quem": "Throb (M)",
+  "en": "Did the motel boss tell you about the person that stayed here before you?"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... No?"
+ },
+ {
+  "k": "5",
+  "quem": "Throb (M)",
+  "en": "Heh... Well... Let's just say that this place would probably look like an art exhibit if you lit a black light in here."
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "Oh my... Well... He cleans the place at least."
+ },
+ {
+  "k": "7",
+  "quem": "Throb (M)",
+  "en": "Haha."
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "He... does clean the place... right?"
+ },
+ {
+  "k": "9",
+  "quem": "Throb (M)",
+  "en": "Here's hoping. It seems fine right now."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Uh huh... So what did you come to tell me?"
+ },
+ {
+  "k": "11",
+  "quem": "Throb (M)",
+  "en": "Oh! Well I uh... I followed your advice. Wrote the letter and went to see Tiny."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "Awesome! So is he doing alright?"
+ },
+ {
+  "k": "13",
+  "quem": "Throb (M)",
+  "en": "Yeah! He's doing a lot better... He's gonna be able to come back to work, so... so you won't have to come out and fill in for him anymore."
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "Oh! So I guess you're gonna want the suit back then...?"
+ },
+ {
+  "k": "15",
+  "quem": "Throb (M)",
+  "en": "No, no. It'll be too much trouble to put it back. You can keep it as long as you promise not to do anything stupid with it."
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "Me? Stupid? I would never do such a thing!"
+ },
+ {
+  "k": "17",
+  "quem": "Throb (M)",
+  "en": "Alright... Well... I guess you could use it for some dress up or something... Anyways. That's all I wanted to tell you."
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "OH! What did the guy say?"
+ },
+ {
+  "k": "19",
+  "quem": "Throb (M)",
+  "en": "W-... Guy? What guy?"
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "Ya know? The guy you wrote your letter to?"
+ },
+ {
+  "k": "21",
+  "quem": "Throb (M)",
+  "en": "H-He's a gir-- I mean she's a girl! I uhm... I didn't have the guts to give it to hi- to her."
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Mmmhm... Sure she is. You'll just have to work up the guts to do it then. Lemme know when you do!"
+ },
+ {
+  "k": "23",
+  "quem": "Throb (M)",
+  "en": "Y-Yeah. I'll come back to you when I make any progress on it... or if I need you at all."
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "Sounds good."
+ },
+ {
+  "k": "25",
+  "quem": "Throb (M)",
+  "en": "See ya, Jenna... and uh... Thank you for everything."
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "Anytime, partner."
+ },
+ {
+  "k": "27",
+  "quem": "Throb (M)",
+  "en": "Look who's saying partner now!"
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "Hehe! See ya around, Throb."
+ },
+ {
+  "k": "29",
+  "cena": "ThrobMission_Night_Intro",
+  "quem": "Throb (M)",
+  "en": "Are you ready to start our patrol?"
+ },
+ {
+  "k": "30",
+  "tipo": "escolha",
+  "en": "Start the patrol."
+ },
+ {
+  "k": "31",
+  "tipo": "escolha",
+  "en": "Not yet."
+ },
+ {
+  "k": "32",
+  "cena": "ThrobMission_Night_Intro_Negative",
+  "quem": "Jenna (F)",
+  "en": "Not quite yet."
+ },
+ {
+  "k": "33",
+  "cena": "ThrobMission_Night_Intro_Positive",
+  "quem": "Jenna (F)",
+  "en": "Sure! Let's get to it!"
+ },
+ {
+  "k": "34",
+  "cena": "ThrobMission_PutOnGuardOutfit",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can use this suitcase to put on the suit of guard armor that Throb gave me!)</i>"
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "<i>(Welp! Here goes nothing!)</i>"
+ },
+ {
+  "k": "36",
+  "quem": "Narrador",
+  "en": "<i>I strip down out of my clothes, tossing them onto the bed and stretching lightly.</i>"
+ },
+ {
+  "k": "37",
+  "cena": "ThrobMission_PutOnGuardOutfit 1",
+  "quem": "Jenna (F)",
+  "en": "<i>(Hopefully I fit into this thing like Throb said I would!)</i>"
+ },
+ {
+  "k": "38",
+  "cena": "ThrobMission_PutOnGuardOutfit 2",
+  "quem": "Jenna (F)",
+  "en": "<i>(Now to go out and find Throb!)</i>"
+ },
+ {
+  "k": "39",
+  "cena": "ThrobMission_TryPutOnGuardOutfitOutsideOfNight",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't get into the guard armor until it's nighttime! Maybe I should take a little nap...)</i>"
+ },
+ {
+  "k": "40",
+  "cena": "ThrobMissions_AskToGiveOutfit",
+  "quem": "Throb (M)",
+  "en": "You came! I honestly... didn't expect that."
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "I bet you say that to all the girls, eh?"
+ },
+ {
+  "k": "42",
+  "quem": "Throb (M)",
+  "en": "Yeah, yeah. So are you interested in what we talked about before? About curfew?"
+ },
+ {
+  "k": "43",
+  "tipo": "escolha",
+  "en": "Join him on curfew."
+ },
+ {
+  "k": "44",
+  "tipo": "escolha",
+  "en": "Not now."
+ },
+ {
+  "k": "45",
+  "cena": "ThrobMissions_DontGiveOutfit",
+  "quem": "Jenna (F)",
+  "en": "Nah! I was just checkin' in on you!"
+ },
+ {
+  "k": "46",
+  "quem": "Throb (M)",
+  "en": "Right... Well... I'll be here if you change your mind..."
+ },
+ {
+  "k": "47",
+  "cena": "ThrobMissions_GiveOutfit",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I'm interested. So how is this going to work?"
+ },
+ {
+  "k": "48",
+  "quem": "Throb (M)",
+  "en": "Well... I've got a suit for you to wear. Should fit you pretty well."
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "Is that so?"
+ },
+ {
+  "k": "50",
+  "quem": "Throb (M)",
+  "en": "Yes, here's the suitcase. You should probably find somewhere private to change into that."
+ },
+ {
+  "k": "51",
+  "quem": "Narrador",
+  "en": "<i>He looks around and talks in a hushed tone, handing over the suitcase.</i>"
+ },
+ {
+  "k": "52",
+  "quem": "Throb (M)",
+  "en": "You'll be able to go out during curfew in this gear, none of the other guards should give you a hassle. Come to the townhall during curfew to start our patrols."
+ },
+ {
+  "k": "53",
+  "quem": "Throb (M)",
+  "en": "The code for the number lock on the suitcase is 1... 2... 3... 4..."
+ },
+ {
+  "k": "54",
+  "quem": "Throb (M)",
+  "en": "Come on! No one would ever think of something so obvious!"
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "Alright, well. I'll go try it on then..."
+ },
+ {
+  "k": "56",
+  "quem": "Throb (M)",
+  "en": "Wait for nighttime first, and don't let anyone see you in it! The headgear will keep your identity hidden."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "Whatever you say, Throb."
+ },
+ {
+  "k": "58",
+  "cena": "ThrobMossion_EnterMotelIsPlayerSure",
+  "quem": "Jenna (F)",
+  "en": "<i>(If I go in through this way, Klaus is probably going to force me to do things again....)</i>"
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "<i>(Maybe I could sneak in through the back of the motel if I don't want to deal with him.)</i>"
+ },
+ {
+  "k": "60",
+  "tipo": "escolha",
+  "en": "<color=perversion>You want it.</color>"
+ },
+ {
+  "k": "61",
+  "tipo": "escolha",
+  "en": "Turn back."
+ },
+ {
+  "k": "62",
+  "cena": "TinyGuard",
+  "quem": "Narrador",
+  "en": "<i>I peek past the guard, looking at the box with the mail slot on it.</i>"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "So are you Tiny or Throb? Hard to tell without your ding dongs smacking against each other."
+ },
+ {
+  "k": "64",
+  "quem": "Tiny (M)",
+  "en": "Shut up, bitch! It's not Tiny!"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "That answers that question. Lemme past, bud. I've got to hand this report thing in."
+ },
+ {
+  "k": "66",
+  "quem": "Tiny (M)",
+  "en": "No chance. You want past? You need to do something for us first."
+ },
+ {
+  "k": "67",
+  "quem": "Narrador",
+  "en": "<i>I let out a quiet sigh, rolling my eyes as I glance toward my goal again.</i>"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "What do you want me to do?"
+ },
+ {
+  "k": "69",
+  "quem": "Tiny (M)",
+  "en": "I want you to take my cock like a good fucking cumdump, but that there badge saves your whore ass."
+ },
+ {
+  "k": "70",
+  "quem": "Narrador",
+  "en": "<i>He kicks a small bucket of water and a wash cloth toward me, staring down at me from behind the mask.</i>"
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "Cleaning? Really? Where...?"
+ },
+ {
+  "k": "72",
+  "quem": "Tiny (M)",
+  "en": "Where do you think, bitch? Clean up some of the empty booths. It's supposed to be part of our job here, but cleaning up cum is fucking gay... and I'm not gay."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "You sure about that? You seemed to really like Throb's big namesake earlier."
+ },
+ {
+  "k": "74",
+  "quem": "Tiny (M)",
+  "en": "Shut up! You were fucking brainless! You were loving it too, whore! I mean... fuck..."
+ },
+ {
+  "k": "75",
+  "quem": "Tiny (M)",
+  "en": "<b>Just shut up and clean, bitch!</b>"
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "Sheesh. On it."
+ },
+ {
+  "k": "77",
+  "cena": "TinyGuard_MissionDone",
+  "en": "<i>I set the tools aside with a soft glare, looking up at Tiny in contempt.</i>"
+ },
+ {
+  "k": "78",
+  "quem": "Tiny (M)",
+  "en": "Good girl. Did you like cleaning up all that cum like a good little maid?"
+ },
+ {
+  "k": "79",
+  "quem": "Jenna (F)",
+  "en": "No."
+ },
+ {
+  "k": "80",
+  "quem": "Tiny (M)",
+  "en": "Whatever. Just shut the fuck up and go do what you wanted then."
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "<i>Alright, time to hand in that report in one of the drawers up there.</i>"
+ },
+ {
+  "k": "82",
+  "cena": "TinyGuard_NoErrandYet",
+  "quem": "Tiny (M)",
+  "en": "What, you want some more?"
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "I'll pass."
+ },
+ {
+  "k": "84",
+  "cena": "TinyGuard_Reminder",
+  "quem": "Tiny (M)",
+  "en": "Go on. Clean up all that mess. You don't get by until you do."
+ },
+ {
+  "k": "85",
+  "cena": "TODO",
+  "en": "Jenna becomes a slave trainer\nReward Program for good soldiers"
+ },
+ {
+  "k": "86",
+  "cena": "Toilet interaction",
+  "quem": "Jenna (F)",
+  "en": "<i>(Why is cum everywhere? )</i>"
+ },
+ {
+  "k": "87",
+  "cena": "Toilets_GloryHole_AlreadyDone",
+  "quem": "Narrador",
+  "en": "<i>I stumble into the stall and glance around, waiting for a cock to come through one of the holes in the stall.</i>"
+ },
+ {
+  "k": "88",
+  "quem": "Narrador",
+  "en": "<i>* But nobody came.</i>"
+ },
+ {
+  "k": "89",
+  "cena": "Toilets_GloryHole_Drunk_1",
+  "quem": "Narrador",
+  "en": "<i>I stumble into the stall, letting out a slurred giggle as I tug my clothes off.</i>"
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "Hehe~! So messy!"
+ },
+ {
+  "k": "91",
+  "quem": "Narrador",
+  "en": "<i>I hear a jingling sound as something bumps against the wall beside me and it's then that I realize that there's a hole in it.</i>"
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "What's that thing for? Hehe~!"
+ },
+ {
+  "k": "93",
+  "quem": "Narrador",
+  "en": "<i>It's then that a cock pushes through the hole as if to answer my drunken question, throbbing in the cool air for attention.</i>"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "What's this? Cock?"
+ },
+ {
+  "k": "95",
+  "quem": "Narrador",
+  "en": "<i>I lean forward and take the stranger's gloryhole cock into my mouth as if by instinct, drawn in by my own fuzzy curiosity.</i>"
+ },
+ {
+  "k": "96",
+  "quem": "Narrador",
+  "en": "<i>It tastes so good... My tongue works the underside as I let out a soft little moan in response to his muffled groans, giggling softly around his member as my drunken mind starts to realize what I'm doing.</i>"
+ },
+ {
+  "k": "97",
+  "quem": "Narrador",
+  "en": "<i>His moaning gets louder and louder behind the wall as I start bobbing on him, slurping loudly on his cock. The need to milk him dry starts to burn within me, fueling me to make him fill my hungry throat.</i>"
+ },
+ {
+  "k": "98",
+  "quem": "Narrador",
+  "en": "<i>After what feels like an eternity of drunken servitude, I feel him pulse and throb in my mouth. The salty taste of his hot spunk starts to caress my tongue, my eyes watering as I swallow it all down with slutty gulps.</i>"
+ },
+ {
+  "k": "99",
+  "quem": "Narrador",
+  "en": "<i>His cock slowly pulls backward and he lets out a heavy groan as a final spurt of cum splashes my face, coating my blushing face with white.</i>"
+ },
+ {
+  "k": "100",
+  "quem": "Narrador",
+  "en": "<i>When his cock disappears, a fuckbuck card slips through the hole, clattering down onto the ground beside me.</i>"
+ },
+ {
+  "k": "101",
+  "cena": "Toilets_TryDoor_1",
+  "en": "<i>The door is locked.</i>"
+ },
+ {
+  "k": "102",
+  "cena": "Toilets_TryDoor_2",
+  "en": "<i>This door is locked as well.</i>"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "Oh come on..."
+ },
+ {
+  "k": "104",
+  "cena": "Toilets_TryDoor_3",
+  "en": "<i>Yep. This door also happens to be locked.</i>"
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "The only free stall is the one without a door? Figures."
+ },
+ {
+  "k": "106",
+  "cena": "Toilets_TryDoor_FinalRepeat",
+  "quem": "Jenna (F)",
+  "en": "<i>Still locked... Great.</i>"
+ },
+ {
+  "k": "107",
+  "cena": "Toilets_TryEnter_NotDrunk",
+  "quem": "Jenna (F)",
+  "en": "Eck... This stall is filthy! Do they really not clean this place up?"
+ },
+ {
+  "k": "108",
+  "cena": "Tower4th_Floor_Elevator_Int",
+  "quem": "Jenna (F)",
+  "en": "Great another elevator."
+ },
+ {
+  "k": "109",
+  "quem": "Jewel (F)",
+  "en": "Maybe this time we get nice music while we go up."
+ },
+ {
+  "k": "110",
+  "quem": "Throb (M)",
+  "en": "I don't think they play music in this place."
+ },
+ {
+  "k": "111",
+  "cena": "Tower5thFloor_Arrive_Firsttime",
+  "quem": "Jenna (F)",
+  "en": "These elevators..."
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "There can't be many more until the top."
+ },
+ {
+  "k": "113",
+  "quem": "April (F)",
+  "en": "Positive. The structure plan shows that we are below the top."
+ },
+ {
+  "k": "114",
+  "quem": "Jewel (F)",
+  "en": "Soo one more to go."
+ },
+ {
+  "k": "115",
+  "quem": "Floria (F)",
+  "en": "Then we finally can put an end to Peitho!"
+ },
+ {
+  "k": "116",
+  "quem": "Rida (F)",
+  "en": "Rida want fight boss demon!"
+ },
+ {
+  "k": "117",
+  "quem": "Throb (M)",
+  "en": "Eyes on the prize. We can't let our guard down."
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "Let's go guys!!!"
+ },
+ {
+  "k": "119",
+  "cena": "Tower5thFloor_ForcedWalk_Dialogue",
+  "quem": "Jenna (F)",
+  "en": "<i>(They hold them off. I have to stop Leath. )</i>"
+ },
+ {
+  "k": "120",
+  "cena": "Tower5thFloor_PartyHoldOff_Dialogue_1",
+  "quem": "Leath (F)",
+  "en": ":: You made it far little hero. But now it is time we end this. ::  "
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "I'm gonna put a stop to you and your stupid tower!"
+ },
+ {
+  "k": "122",
+  "quem": "Leath (F)",
+  "en": ":: Shush. :: "
+ },
+ {
+  "k": "123",
+  "quem": "Leath (F)",
+  "en": ":: Guards! Bring them to me! ::"
+ },
+ {
+  "k": "124",
+  "cena": "Tower5thFloor_PartyHoldOff_Dialogue_2",
+  "quem": "Jewel (F)",
+  "en": "There are to many guards!"
+ },
+ {
+  "k": "125",
+  "quem": "Rida (F)",
+  "en": "More fight!!!"
+ },
+ {
+  "k": "126",
+  "quem": "Floria (F)",
+  "en": "These small flies are annoying."
+ },
+ {
+  "k": "127",
+  "cena": "Tower5thFloor_PartyHoldOff_Dialogue_3",
+  "quem": "Throb (M)",
+  "en": "We have to stop them!"
+ },
+ {
+  "k": "128",
+  "quem": "Throb (M)",
+  "en": "Jenna you need to stop the activation. We will hold them off here."
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "I don't know if I can do it alone."
+ },
+ {
+  "k": "130",
+  "quem": "Jewel (F)",
+  "en": "You can do it blue! You are a hero."
+ },
+ {
+  "k": "131",
+  "quem": "Floria (F)",
+  "en": "Get Karen back and show Peitho that AIRSHIP is not gone."
+ },
+ {
+  "k": "132",
+  "quem": "Rida (F)",
+  "en": "Rida have friends backshow demon!"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "You're right! I will kick Peithos ass and get Karen back!"
+ },
+ {
+  "k": "134",
+  "quem": "Jewel (F)",
+  "en": "See you on the other side blue."
+ },
+ {
+  "k": "135",
+  "cena": "Tower_5thFloor_Elevator_Int",
+  "quem": "Jenna (F)",
+  "en": "<i>(I hope they manage to hold them off...)</i>"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "<i>(<i>(Stop it, Jenna. They will deal with it. I have to focus on my part.)</i>)</i>"
+ },
+ {
+  "k": "137",
+  "quem": "Jenna (F)",
+  "en": "<i>(Let's put an end to this!)</i>"
+ },
+ {
+  "k": "138",
+  "cena": "Tower_Dialogue_Losing_Combat",
+  "quem": "Pyra (F)",
+  "en": "What a pathatic display this was~!"
+ },
+ {
+  "k": "139",
+  "quem": "Pyra (F)",
+  "en": "Bring them to the rehabilitation room. I have to deal with some pesty resistance members~"
+ },
+ {
+  "k": "140",
+  "quem": "Guard Captain (M)",
+  "en": "Affirmative."
+ },
+ {
+  "k": "141",
+  "cena": "Townhall work badgeless",
+  "en": "<color=perversion><i>(Mhhhm.. I will get fucked endlessly like the other dump girls)</i></color>"
+ },
+ {
+  "k": "142",
+  "en": "Look a replacement for the empty stall."
+ },
+ {
+  "k": "143",
+  "en": "Ohh shit this girl has a nice ass! Can't wait to try here out."
+ },
+ {
+  "k": "144",
+  "en": " Let's prepare here for her work time here."
+ },
+ {
+  "k": "145",
+  "en": "Fuck she is already wet!"
+ },
+ {
+  "k": "146",
+  "en": "<color=perversion><i>(ahh... mmmhm...)</i></color>"
+ },
+ {
+  "k": "147",
+  "en": "Let's add a bit more speed to it."
+ },
+ {
+  "k": "148",
+  "en": "Shit this slut really gets off to getting fingered like this."
+ },
+ {
+  "k": "149",
+  "en": "<color=perversion><i>(If he keeps fingering me like this I'm gonna cum!)</i></color>"
+ },
+ {
+  "k": "150",
+  "en": "Hey I told you to come back once you set her up, we have some more stops before our shift ends."
+ },
+ {
+  "k": "151",
+  "en": "Fuck."
+ },
+ {
+  "k": "152",
+  "en": "<color=perversion><i>(I... mhm... was so close!)</i></color>"
+ },
+ {
+  "k": "153",
+  "cena": "Townhall_BumpGrope",
+  "quem": "Narrador",
+  "en": "<i>As the man bumps past me, I feel his hand slap at my ass, causing me to jump in surprise.</i>"
+ },
+ {
+  "k": "154",
+  "cena": "Townhall_Cleaning_1_0",
+  "quem": "Narrador",
+  "en": "<i>I bend down to clean up the fresh puddle of cum on the ground.</i>  "
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "<i>(This job is the dumps. How do they even manage to cum this much?)</i>"
+ },
+ {
+  "k": "156",
+  "en": "<i>Suddenly I feel a hand firmly groping at my rear, causing me to yelp out in surprise.</i>"
+ },
+ {
+  "k": "157",
+  "quem": "Man (M)",
+  "en": "Mm mm mm... What is a pretty little thing like you doing outside of the booths?"
+ },
+ {
+  "k": "158",
+  "en": "<i>I inch away with him as he smirks creepily at me.</i>"
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "Does the cleaning gear not make it obvious?"
+ },
+ {
+  "k": "160",
+  "quem": "Man (M)",
+  "en": "You could be making a lot more money in those booths than just cleaning up after everyone..."
+ },
+ {
+  "k": "161",
+  "en": "<i>He lets out a light chuckle and walks off as I feel a burning heat rising inside me at the idea.</i>"
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Stop... I-... )</i></color>"
+ },
+ {
+  "k": "163",
+  "cena": "Townhall_Cleaning_2_0",
+  "quem": "Jenna (F)",
+  "en": "<i>(Finally done with cleaning up this mess...)</i>"
+ },
+ {
+  "k": "164",
+  "quem": "Narrador",
+  "en": "<i>Hearing all the moans and slapping of flesh during all the hours of cleaning makes me feel... strange.</i>"
+ },
+ {
+  "k": "165",
+  "en": "<i>After a few moments, I feel two strong hands groping at my breasts.</i>"
+ },
+ {
+  "k": "166",
+  "en": "<i>For a second I'm lost in the haze of mindmelting sex that I've been surrounded by for the past few hours.</i>"
+ },
+ {
+  "k": "167",
+  "quem": "Man (M)",
+  "en": "I saw you cleaning a bit ago. Didn't dislike it enough to not come back, huh? Interested in a little bonus pay?"
+ },
+ {
+  "k": "168",
+  "tipo": "escolha",
+  "en": "<color=perversion>Hear him out.</color>"
+ },
+ {
+  "k": "169",
+  "tipo": "escolha",
+  "en": "Force him away."
+ },
+ {
+  "k": "170",
+  "cena": "Townhall_Cleaning_2_0_Agree",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>How-.. How much are we talking...?</color>"
+ },
+ {
+  "k": "171",
+  "quem": "Man (M)",
+  "en": "Five fuckbucks."
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fine... Just-.. just make it quick.</color>"
+ },
+ {
+  "k": "173",
+  "quem": "Man (M)",
+  "en": "Good choice, cleaning lady."
+ },
+ {
+  "k": "174",
+  "quem": "Narrador",
+  "en": "<i>He tightly grips my nips, the pain mixing with pleasure quickly as I feel his hard cock pressing against my back</i>"
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "<i>Fff..fuck th<color=perversion>is feels so gooood...</color></i>"
+ },
+ {
+  "k": "176",
+  "quem": "Man (M)",
+  "en": "Good little maid. Here's your fuckbucks. Time to fuck one of the dumps. Too bad you're not in one of the booths."
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Thanks...</color>"
+ },
+ {
+  "k": "178",
+  "cena": "Townhall_Cleaning_2_0_Disagree",
+  "quem": "Narrador",
+  "en": "<i>I squirm out of his arms, hefting the cleaning gear.</i>"
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "Back it up! Can't you see the badge, bud?"
+ },
+ {
+  "k": "180",
+  "cena": "Townhall_Cleaning_3_0",
+  "en": "<i>Just as I think I'm done cleaning, I spot another puddle of cum.</i>"
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "<i>This is just never ending!</i>"
+ },
+ {
+  "k": "182",
+  "en": "<i>I lean over to clean it quickly so I can finally be done with the day of listening to the constant moaning all around me.</i>"
+ },
+ {
+  "k": "183",
+  "en": "<i>Out of nowhere I feel someone pushing against my rear, causing me to fall over right into the puddle of cum.</i>"
+ },
+ {
+  "k": "184",
+  "cena": "Townhall_Cleaning_3_1",
+  "quem": "Jenna (F)",
+  "en": "Hey! Watch out, dick!"
+ },
+ {
+  "k": "185",
+  "quem": "Man (M)",
+  "en": "Haha... Looking good, cleaning girl."
+ },
+ {
+  "k": "186",
+  "cena": "Townhall_Cleaning_4_0",
+  "quem": "Narrador",
+  "en": "<i>As I clean the last spot, I accidentally bump against one of the girls with my mop.</i>"
+ },
+ {
+  "k": "187",
+  "quem": "Jenna (F)",
+  "en": "Oh! I'm sorry, I didn't mea-"
+ },
+ {
+  "k": "188",
+  "quem": "???",
+  "en": "Don't worry, sweety. You can make up for it by getting all of that tasty love juicy off my back."
+ },
+ {
+  "k": "189",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't believe she is talking about all this so casually.)</i>"
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "I- I.. "
+ },
+ {
+  "k": "191",
+  "quem": "???",
+  "en": "Come on, sweety. Don't make a fuss about it. Just get my back nice and clean."
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "Alright..."
+ },
+ {
+  "k": "193",
+  "quem": "Narrador",
+  "en": "<i>I take the sponge and rub it up and down her back, causing the \"love juice\" to slide down her sides, dripping onto the floor.</i>"
+ },
+ {
+  "k": "194",
+  "quem": "???",
+  "en": "Mmmm.. See that isn't too hard. But there's also some in between my legs, you know.."
+ },
+ {
+  "k": "195",
+  "tipo": "escolha",
+  "en": "<color=perversion>Clean her thoroughly.</color>"
+ },
+ {
+  "k": "196",
+  "tipo": "escolha",
+  "en": "Decline."
+ }
+]

@@ -1,0 +1,1680 @@
+[
+ {
+  "k": "1",
+  "cena": "Loyalty_Carcens_Mansion_Jewel_1",
+  "quem": "Jenna (F)",
+  "en": "Jewel! I wanted to talk to you about the idea I had for recruiting people from Carceburg."
+ },
+ {
+  "k": "2",
+  "quem": "Jewel (F)",
+  "en": "That sounds nice, blue."
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "Errm... How're you feeling? Like- I mean ever since..."
+ },
+ {
+  "k": "4",
+  "quem": "Jewel (F)",
+  "en": "Ever since I gave everyone away?"
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "That's not what I meant!"
+ },
+ {
+  "k": "6",
+  "quem": "Jewel (F)",
+  "en": "But that's what happened, isn't it? I couldn't just keep my head down and then..."
+ },
+ {
+  "k": "7",
+  "quem": "Jewel (F)",
+  "en": "She..."
+ },
+ {
+  "k": "8",
+  "quem": "Jewel (F)",
+  "en": "It was awful..."
+ },
+ {
+  "k": "9",
+  "quem": "Jewel (F)",
+  "en": "I'm so sorry, Jenna..."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Hey... It's alright."
+ },
+ {
+  "k": "11",
+  "quem": "Jewel (F)",
+  "en": "No... No, it's not. This is all my fault. You had Karen back and then I fucked that up. I'm so sorry."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "It's... It's fine. At least the beds are nicer here."
+ },
+ {
+  "k": "14",
+  "quem": "Jewel (F)",
+  "en": "Still cracking jokes?"
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Sorry, I didn't mean to..."
+ },
+ {
+  "k": "16",
+  "quem": "Jewel (F)",
+  "en": "No, it's okay."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Okay..."
+ },
+ {
+  "k": "18",
+  "quem": "Jewel (F)",
+  "en": "Back when she had me and was talking to you in the cave base... She said I begged for more..."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "I know you didn't. It's okay."
+ },
+ {
+  "k": "20",
+  "quem": "Jewel (F)",
+  "en": "Y-Yeah... I..."
+ },
+ {
+  "k": "21",
+  "quem": "Jewel (F)",
+  "en": "I uhm... I did... I begged... I fucking begged... I told her everything..."
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "It wasn't your fault."
+ },
+ {
+  "k": "23",
+  "quem": "Jewel (F)",
+  "en": "It sure feels like it! I see how everyone looks at me. \"Oh, there's the slut that sold us out.\""
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "I don't think that."
+ },
+ {
+  "k": "25",
+  "quem": "Jewel (F)",
+  "en": "Well maybe you should."
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "Jewel..."
+ },
+ {
+  "k": "27",
+  "quem": "Jewel (F)",
+  "en": "I need to be alone."
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "You don't have to be al-"
+ },
+ {
+  "k": "29",
+  "quem": "Jewel (F)",
+  "en": "I'll be fine. Please."
+ },
+ {
+  "k": "30",
+  "cena": "Loyalty_Carcens_Mansion_Jewel_1_Repeat",
+  "quem": "Jenna (F)",
+  "en": "<i>(Maybe I shouldn't bother her...)</i>"
+ },
+ {
+  "k": "31",
+  "cena": "Loyalty_Carcens_Mansion_Jewel_2",
+  "quem": "Jenna (F)",
+  "en": "Hey Jewel."
+ },
+ {
+  "k": "32",
+  "quem": "Jewel (F)",
+  "en": "Hi, blue. Sorry for earlier. It's been getting a little harder to keep on a smile."
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "You don't have to feel like you need to smile all the time."
+ },
+ {
+  "k": "34",
+  "quem": "Jewel (F)",
+  "en": "Yeah, well... What did you want to talk about?"
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "Well, erm... I was just thinking that maybe we could recruit people by getting you to do a big dance or something like that, but if you're not feelin-"
+ },
+ {
+  "k": "36",
+  "quem": "Jewel (F)",
+  "en": "Sounds good!"
+ },
+ {
+  "k": "37",
+  "quem": "Jenna (F)",
+  "en": "Uh... Are you sure?"
+ },
+ {
+  "k": "38",
+  "quem": "Jewel (F)",
+  "en": "Yeah, of course."
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "Alright then... Let's uh... head down to the bar then."
+ },
+ {
+  "k": "40",
+  "cena": "Loyalty_Carcens_Slums_Rats_1",
+  "quem": "Jenna (F)",
+  "en": "You've got something that we need. We know you've been stealing from the bar and we need some of those supplies back."
+ },
+ {
+  "k": "41",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Tha' be so, eh? An' why shoul' me an' the boys (an' girls) be listenin' t' ye, ye wee tot?"
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Because we're not your enemies. The ones you should be stealing from are up in that big ass tower."
+ },
+ {
+  "k": "43",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Yea? Ye' think ye' can just walk up in 'ere an' tell us wha' we can an' can't do?"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "I do, actually."
+ },
+ {
+  "k": "45",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Boys (an' girls)! Come 'ere an' show this wee slag wha' we do t' them tha' try t' tell us wha' t' do."
+ },
+ {
+  "k": "46",
+  "cena": "Loyalty_Carcens_Slums_Rats_2",
+  "quem": "Jenna (F)",
+  "en": "Ugh. This is such a waste of time."
+ },
+ {
+  "k": "47",
+  "quem": "Jenna (F)",
+  "en": "Come on. It's their fault we're all like this. We have a common goal."
+ },
+ {
+  "k": "48",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Ain't nothin' common, missy. We do wha' we do t' survive. Ain't gonna survive goin' after th' big fish. We be stickin' t' th' wee fish."
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "And that's what you wanna do for the rest of your life?"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "You won't even be able to do that long either once that tower is done. They're gonna take away your free will and you're just gonna sit around?"
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "Don't any of you have a dream?"
+ },
+ {
+  "k": "52",
+  "cena": "Loyalty_Carcens_Slums_Rats_3_Healslut",
+  "quem": "Rat Healslut (F)",
+  "en": "I have a dream... I want to be a nurse. Like... not just a slutty one."
+ },
+ {
+  "k": "53",
+  "cena": "Loyalty_Carcens_Slums_Rats_4_Squirter",
+  "quem": "Rat Squirter (F)",
+  "en": "I want to be a gardener... I really like flowers."
+ },
+ {
+  "k": "54",
+  "cena": "Loyalty_Carcens_Slums_Rats_5_Flogger",
+  "quem": "Rat Flogger (F)",
+  "en": "I like making escape rooms, just like the one I put you in!"
+ },
+ {
+  "k": "55",
+  "cena": "Loyalty_Carcens_Slums_Rats_6_Shredder",
+  "quem": "Rat Shredder (M)",
+  "en": "... Like clothes... Want make clothes... Not just rip them... Maybe rip some of  them after..."
+ },
+ {
+  "k": "56",
+  "cena": "Loyalty_Carcens_Slums_Rats_7",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "W- I... I didn' know tha's how th' boys (and girls) felt..."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "What about you, Ray? What's your dream?"
+ },
+ {
+  "k": "58",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "... I jus' wan' th' boys (an' girls) t' be happy."
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "No one's gonna be happy if we let them finish building that tower. The only way we can stop them is if we band the town together to fight."
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "We need the supplies for a big show at the bar to get attention and bring everyone together. Everyone. That includes you. Will you be there?"
+ },
+ {
+  "k": "61",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "... Argh... Fine... Oi, give 'em th' stuff from th' bar."
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "Thank you."
+ },
+ {
+  "k": "63",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "The boys (and girls) gonna help ye'. We'll clear out an' start headin' down t' yer bar."
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "Can't wait to see you there. It'll be a great show."
+ },
+ {
+  "k": "65",
+  "quem": "Jewel (F)",
+  "en": "Heh..."
+ },
+ {
+  "k": "66",
+  "cena": "Loyalty_Carcens_Wildfire_0",
+  "quem": "Wildfire (F)",
+  "en": "Get your fucking hands off of me!"
+ },
+ {
+  "k": "67",
+  "quem": "Pyra (F)",
+  "en": "I found our little flame~ Oh, and half the town is missing~"
+ },
+ {
+  "k": "68",
+  "quem": "Leath (F)",
+  "en": "So it would seem. Hello Wildfire."
+ },
+ {
+  "k": "69",
+  "quem": "Leath (F)",
+  "en": "Seems like she lost her manners while she was out with her girlfriend."
+ },
+ {
+  "k": "70",
+  "quem": "Wildfire (F)",
+  "en": "She's not my girlfriend!"
+ },
+ {
+  "k": "71",
+  "quem": "Leath (F)",
+  "en": "Take your mask off."
+ },
+ {
+  "k": "72",
+  "quem": "Pyra (F)",
+  "en": "You heard her, matchbox~ Off with it~"
+ },
+ {
+  "k": "73",
+  "quem": "Karen (F)",
+  "en": "Fine!"
+ },
+ {
+  "k": "74",
+  "quem": "Leath (F)",
+  "en": "Much better."
+ },
+ {
+  "k": "75",
+  "quem": "Leath (F)",
+  "en": "Now then... If she's not your girlfriend, then why... the fuck... is she still alive? Where did the town disappear to? Right under your nose I might add..."
+ },
+ {
+  "k": "76",
+  "quem": "Karen (F)",
+  "en": "What the fuck is that supposed to mean?! Pyra was there too! She's as much at fault as I am!"
+ },
+ {
+  "k": "77",
+  "quem": "Pyra (F)",
+  "en": "I wouldn't have been there if you did your job, matchbox~"
+ },
+ {
+  "k": "78",
+  "quem": "Leath (F)",
+  "en": "You were with your little girlfriend and she's still around. You let her take you away. You made us all look weak. Now why is that?"
+ },
+ {
+  "k": "79",
+  "quem": "Karen (F)",
+  "en": "I tried to take her down..."
+ },
+ {
+  "k": "80",
+  "quem": "Pyra (F)",
+  "en": "Tried~? That's not true~ I shaped you into a killing machine, little matchbox~"
+ },
+ {
+  "k": "81",
+  "quem": "Leath (F)",
+  "en": "Which means that the only reason your target is still alive is that you're on her side. Are you on her side?"
+ },
+ {
+  "k": "82",
+  "quem": "Karen (F)",
+  "en": "Wh- No..."
+ },
+ {
+  "k": "83",
+  "quem": "Karen (F)",
+  "en": "I'm not on her side! I HATE HER!"
+ },
+ {
+  "k": "84",
+  "quem": "Leath (F)",
+  "en": "You still love her."
+ },
+ {
+  "k": "85",
+  "quem": "Karen (F)",
+  "en": "No..."
+ },
+ {
+  "k": "86",
+  "quem": "Pyra (F)",
+  "en": "I can squeeze that out of her~"
+ },
+ {
+  "k": "87",
+  "quem": "Karen (F)",
+  "en": "No... No, I tried..."
+ },
+ {
+  "k": "88",
+  "quem": "Leath (F)",
+  "en": "No, you didn't. You don't have the rage for it. Fix that, Agent Pyra."
+ },
+ {
+  "k": "89",
+  "quem": "Pyra (F)",
+  "en": "Mmm~ Been a while since I gave you the angry juice, matchbox~  Bet you wish you got the horny treatment like everyone else, hm~?"
+ },
+ {
+  "k": "90",
+  "quem": "Karen (F)",
+  "en": "W-Wait. Wait, wait. P-Please, I can take her. Just... Just give me another chance."
+ },
+ {
+  "k": "91",
+  "quem": "Leath (F)",
+  "en": "You will. After your conditioning."
+ },
+ {
+  "k": "92",
+  "quem": "Karen (F)",
+  "en": "NO! NO!"
+ },
+ {
+  "k": "93",
+  "quem": "Karen (F)",
+  "en": "YOU WANT ANGRY?! I'M ANGRY!"
+ },
+ {
+  "k": "94",
+  "quem": "Pyra (F)",
+  "en": "No you're not~ Not yet, little matchbox~ You're just a little ember~ We want an inferno~"
+ },
+ {
+  "k": "95",
+  "quem": "Karen (F)",
+  "en": "N-No... Not again..."
+ },
+ {
+  "k": "96",
+  "quem": "Leath (F)",
+  "en": "Take her away. Get it done."
+ },
+ {
+  "k": "97",
+  "quem": "Pyra (F)",
+  "en": "Yes, mistress~"
+ },
+ {
+  "k": "98",
+  "cena": "Loyalty_Fiends_TalkToLady",
+  "quem": "Jenna (F)",
+  "en": "I just wanted to talk to you abou-"
+ },
+ {
+  "k": "99",
+  "quem": "Rida (F)",
+  "en": "Rida want Gob back."
+ },
+ {
+  "k": "100",
+  "quem": "Lady (F)",
+  "en": "Gob...?"
+ },
+ {
+  "k": "101",
+  "quem": "Lady (F)",
+  "en": "What the hell is she talking about?"
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "Uh... well-"
+ },
+ {
+  "k": "103",
+  "quem": "Rida (F)",
+  "en": "No talk to Carcen. Talk to Rida."
+ },
+ {
+  "k": "104",
+  "quem": "Rida (F)",
+  "en": "Gob is tribe. Rida tribe. Give Gob back."
+ },
+ {
+  "k": "105",
+  "quem": "Lady (F)",
+  "en": "You mean that fiend we found? From that tribe of yours that kidnaps our people? You want me to free him just like that? No."
+ },
+ {
+  "k": "106",
+  "quem": "Rida (F)",
+  "en": "GIVE GOB BACK!"
+ },
+ {
+  "k": "107",
+  "quem": "Lady (F)",
+  "en": "Go to hell."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "Err... Lady? Maybe we shouldn't lock up people that could help us?"
+ },
+ {
+  "k": "109",
+  "quem": "Lady (F)",
+  "en": "Help us? We've been having to fight off the fiends for years. I still can't believe this one has managed so long without going feral."
+ },
+ {
+  "k": "110",
+  "quem": "Rida (F)",
+  "en": "Rida not animal. No talk about Rida like animal."
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "There's a whole tribe of people that hate Peitho as much as we do. If we can work with the Lumber Rats, why can't we work with Rida's tribe?"
+ },
+ {
+  "k": "112",
+  "quem": "Lady (F)",
+  "en": "They're unpredictable. At least with the gang we know their motives."
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "I trust Rida. They'll follow Rida. "
+ },
+ {
+  "k": "114",
+  "quem": "Lady (F)",
+  "en": "Then where are they? Why haven't they followed her?"
+ },
+ {
+  "k": "115",
+  "quem": "Rida (F)",
+  "en": "Grr..."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "There's uh... someone else leading them."
+ },
+ {
+  "k": "117",
+  "quem": "Rida (F)",
+  "en": "Mina..."
+ },
+ {
+  "k": "118",
+  "quem": "Lady (F)",
+  "en": "So they won't follow her. They're following this 'Mina'."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "There's gotta be a way we can get them on our side..."
+ },
+ {
+  "k": "120",
+  "quem": "Rida (F)",
+  "en": "Wrestle."
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "Eh?"
+ },
+ {
+  "k": "122",
+  "quem": "Rida (F)",
+  "en": "Wrestle Mina, win, tribe follow strong."
+ },
+ {
+  "k": "123",
+  "quem": "Lady (F)",
+  "en": "Ugh..."
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "Like a duel?"
+ },
+ {
+  "k": "125",
+  "quem": "Rida (F)",
+  "en": "Mm... Duel. Tribe tradition. Winner is leader. Loser is exile."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "So how are we gonna get Mina to accept a duel with you?"
+ },
+ {
+  "k": "127",
+  "quem": "Rida (F)",
+  "en": "Find tribe camps. Fight. Get Mina attention."
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "Why don't we just strut up to your old tent and duel her right away?"
+ },
+ {
+  "k": "129",
+  "quem": "Rida (F)",
+  "en": "Too many. Attack camps. Good plan."
+ },
+ {
+  "k": "130",
+  "quem": "Rida (F)",
+  "en": "And Carcen help Rida train for wrestle."
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "You want me to wrestle you?"
+ },
+ {
+  "k": "132",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "133",
+  "quem": "Lady (F)",
+  "en": "Ugh... If you're somehow able to convince those fiends to fight with us, fine. But you're responsible for them."
+ },
+ {
+  "k": "134",
+  "quem": "Rida (F)",
+  "en": "Now give Gob back."
+ },
+ {
+  "k": "135",
+  "quem": "Lady (F)",
+  "en": "Fine."
+ },
+ {
+  "k": "136",
+  "quem": "Gob (M)",
+  "en": "Rida! Gob miss Rida!"
+ },
+ {
+  "k": "137",
+  "quem": "Rida (F)",
+  "en": "Rida miss Gob. How Gob?"
+ },
+ {
+  "k": "138",
+  "quem": "Gob (M)",
+  "en": "Gob happy now! Gob ran from tribe. Look for Rida. Mina lie. Say Rida not strong. Rida strong."
+ },
+ {
+  "k": "139",
+  "quem": "Rida (F)",
+  "en": "... Gob good."
+ },
+ {
+  "k": "140",
+  "quem": "Gob (M)",
+  "en": "Ah! Gob happy!"
+ },
+ {
+  "k": "141",
+  "quem": "Rida (F)",
+  "en": "Rida happy."
+ },
+ {
+  "k": "142",
+  "quem": "Rida (F)",
+  "en": "Gob stay here. Rida go find tribe camps with Carcen."
+ },
+ {
+  "k": "143",
+  "quem": "Gob (M)",
+  "en": "Gob stay here!"
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "So... We'll go fight a tribe camp and then do some wrestling after?"
+ },
+ {
+  "k": "145",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "And... we're good right? I'm sorry about earlier."
+ },
+ {
+  "k": "147",
+  "quem": "Rida (F)",
+  "en": "Gob okay. Rida okay."
+ },
+ {
+  "k": "148",
+  "quem": "Jenna (F)",
+  "en": "Great! Let's head out then, I guess."
+ },
+ {
+  "k": "149",
+  "cena": "Loyalty_Fiends_TalkToLady_2",
+  "quem": "Jenna (F)",
+  "en": "We're ready now."
+ },
+ {
+  "k": "150",
+  "quem": "Lady (F)",
+  "en": "Ready...? What for?"
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "To get Rida her tribe back?"
+ },
+ {
+  "k": "152",
+  "quem": "Lady (F)",
+  "en": "It's still a bad idea."
+ },
+ {
+  "k": "153",
+  "quem": "Rida (F)",
+  "en": "No. Good idea."
+ },
+ {
+  "k": "154",
+  "quem": "Lady (F)",
+  "en": "So why are you coming to me then? I'm not going to risk any of our members for the forest fiends."
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "Oh! I'm just used to coming back to you is all. My bad."
+ },
+ {
+  "k": "156",
+  "quem": "Rida (F)",
+  "en": "Rida want go now!"
+ },
+ {
+  "k": "157",
+  "quem": "Lady (F)",
+  "en": "Do you even know where they are?"
+ },
+ {
+  "k": "158",
+  "quem": "Rida (F)",
+  "en": "Rida lived there. Duh."
+ },
+ {
+  "k": "159",
+  "quem": "Lady (F)",
+  "en": "Right..."
+ },
+ {
+  "k": "160",
+  "quem": "Floria (F)",
+  "en": "Shouldn't we have some sort of plan first?"
+ },
+ {
+  "k": "161",
+  "quem": "Rida (F)",
+  "en": "Yes! Plan is attack."
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "Hmm... are there some secret passages into the hub that we can use?"
+ },
+ {
+  "k": "163",
+  "quem": "Rida (F)",
+  "en": "Mm! Many passages."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "Let's use one of those then. We can bait some of the fiends toward us and ambush 'em. We did it all the time back in the old AIRSHIP days. We called it-"
+ },
+ {
+  "k": "165",
+  "quem": "Floria (F)",
+  "en": "Stringing them out."
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "I- Yeah..."
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "You remembered!"
+ },
+ {
+  "k": "168",
+  "quem": "Floria (F)",
+  "en": "I... guess I did."
+ },
+ {
+  "k": "169",
+  "quem": "Rida (F)",
+  "en": "Mm. Secret passage. Ambush. Rida go now! Carcens come with!"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "Let's do this."
+ },
+ {
+  "k": "171",
+  "cena": "Loyalty_Fiends_TalkToRida_1",
+  "quem": "Jenna (F)",
+  "en": "Hey Rida! I was thinkin-"
+ },
+ {
+  "k": "172",
+  "quem": "Rida (F)",
+  "en": "Rida sad."
+ },
+ {
+  "k": "173",
+  "quem": "Jenna (F)",
+  "en": "Wh-? Why?"
+ },
+ {
+  "k": "174",
+  "quem": "Rida (F)",
+  "en": "Miss tribe."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Oh... well... I'm sorry."
+ },
+ {
+  "k": "176",
+  "quem": "Rida (F)",
+  "en": "Mm..."
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "Well... I was just thinking that maybe there's something we could to do to get them back on our side."
+ },
+ {
+  "k": "178",
+  "quem": "Rida (F)",
+  "en": "Maybe... Rida don't know."
+ },
+ {
+  "k": "179",
+  "quem": "Rida (F)",
+  "en": "Rida tired..."
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "181",
+  "quem": "Rida (F)",
+  "en": "Eh? That Gob?"
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "Huh? What do you mean?"
+ },
+ {
+  "k": "183",
+  "quem": "Rida (F)",
+  "en": "Look!"
+ },
+ {
+  "k": "184",
+  "cena": "Loyalty_Fiends_TalkToRida_2",
+  "quem": "Rida (F)",
+  "en": "Gob! It Rida!"
+ },
+ {
+  "k": "185",
+  "quem": "Gob (M)",
+  "en": "Rida! Gob-"
+ },
+ {
+  "k": "186",
+  "quem": "Resistance Member (M)",
+  "en": "We found this one wandering around. He needs to be taken to Lady immediately so we can get information."
+ },
+ {
+  "k": "187",
+  "quem": "Rida (F)",
+  "en": "Let Gob go!"
+ },
+ {
+  "k": "188",
+  "quem": "Resistance Member (M)",
+  "en": "We can't do that. He needs to be taken to Lady. Please get out of our way."
+ },
+ {
+  "k": "189",
+  "quem": "Rida (F)",
+  "en": "Give Gob back. Or else."
+ },
+ {
+  "k": "190",
+  "quem": "Resistance Member (M)",
+  "en": "Or else? Are you threatening us?"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "Hey now, Rida. Let's just calm down a bit and go talk to Lady."
+ },
+ {
+  "k": "192",
+  "quem": "Resistance Member (M)",
+  "en": "... We're gonna leave now."
+ },
+ {
+  "k": "193",
+  "cena": "Loyalty_Fiends_TalkToRida_3",
+  "quem": "Jenna (F)",
+  "en": "Rida... Let's just-"
+ },
+ {
+  "k": "194",
+  "cena": "Loyalty_Fiends_TalkToRida_4",
+  "en": "Great... Good job, Jenna..."
+ },
+ {
+  "k": "195",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_0_Ask",
+  "quem": "Rida (F)",
+  "en": "Tribe notice soon. Practice must!"
+ },
+ {
+  "k": "196",
+  "tipo": "escolha",
+  "en": "Yes."
+ },
+ {
+  "k": "197",
+  "tipo": "escolha",
+  "en": "No."
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "You mean practicing wrestling?"
+ },
+ {
+  "k": "199",
+  "quem": "Rida (F)",
+  "en": "Yes! Carcen wrestle ready?"
+ },
+ {
+  "k": "200",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_0_Ask_No",
+  "quem": "Jenna (F)",
+  "en": "Not quite yet."
+ },
+ {
+  "k": "201",
+  "quem": "Rida (F)",
+  "en": "Rida wait then!"
+ },
+ {
+  "k": "202",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_0_Ask_Yes",
+  "quem": "Jenna (F)",
+  "en": "I'm ready."
+ },
+ {
+  "k": "203",
+  "quem": "Rida (F)",
+  "en": "Rida get naked now! Carcen get naked too!"
+ },
+ {
+  "k": "204",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_1_Intro",
+  "quem": "Rida (F)",
+  "en": "Rida no go easy."
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "Jenna won't go easy either."
+ },
+ {
+  "k": "206",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_2_Lose",
+  "quem": "Rida (F)",
+  "en": "Rida win!"
+ },
+ {
+  "k": "207",
+  "quem": "Jenna (F)",
+  "en": "Good fight! You're tough."
+ },
+ {
+  "k": "208",
+  "quem": "Rida (F)",
+  "en": "Carcen want fun now?"
+ },
+ {
+  "k": "209",
+  "tipo": "escolha",
+  "en": "<color=perversion>Yes.</color>"
+ },
+ {
+  "k": "210",
+  "tipo": "escolha",
+  "en": "No."
+ },
+ {
+  "k": "211",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_2_Lose_No",
+  "quem": "Jenna (F)",
+  "en": "Err... No thanks."
+ },
+ {
+  "k": "212",
+  "quem": "Rida (F)",
+  "en": "Mm!"
+ },
+ {
+  "k": "213",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_2_Lose_Yes",
+  "quem": "Jenna (F)",
+  "en": "Yes~"
+ },
+ {
+  "k": "214",
+  "quem": "Rida (F)",
+  "en": "Mmm~"
+ },
+ {
+  "k": "215",
+  "quem": "Jenna (F)",
+  "en": "Gah!"
+ },
+ {
+  "k": "216",
+  "quem": "Rida (F)",
+  "en": "Carcen nice warm!"
+ },
+ {
+  "k": "217",
+  "quem": "Jenna (F)",
+  "en": "Mmm.. Losing no time, huh?"
+ },
+ {
+  "k": "218",
+  "quem": "Rida (F)",
+  "en": "Carcen feel good!"
+ },
+ {
+  "k": "219",
+  "quem": "Jenna (F)",
+  "en": "Mmmhh.. Ghaaa.."
+ },
+ {
+  "k": "220",
+  "quem": "Rida (F)",
+  "en": "Hhhh... Good Carcen..."
+ },
+ {
+  "k": "221",
+  "quem": "Jenna (F)",
+  "en": "Mmmhhh.. Yesss..."
+ },
+ {
+  "k": "222",
+  "quem": "Rida (F)",
+  "en": "Carcen no lose on purpose? Rida thinks."
+ },
+ {
+  "k": "223",
+  "quem": "Jenna (F)",
+  "en": "Hahh-..! N-no, I-.."
+ },
+ {
+  "k": "224",
+  "quem": "Jenna (F)",
+  "en": "Mghhh... Keep going..."
+ },
+ {
+  "k": "225",
+  "quem": "Rida (F)",
+  "en": "Hehehe, Carcen enjoy..."
+ },
+ {
+  "k": "226",
+  "quem": "Rida (F)",
+  "en": "Rida enjoy too..."
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "Mnnhh.. I can tell, hehehe."
+ },
+ {
+  "k": "228",
+  "quem": "Rida (F)",
+  "en": "Rida close-.."
+ },
+ {
+  "k": "229",
+  "quem": "Rida (F)",
+  "en": "Rida gonna..."
+ },
+ {
+  "k": "230",
+  "quem": "Jenna (F)",
+  "en": "Yesss...!"
+ },
+ {
+  "k": "231",
+  "quem": "Rida (F)",
+  "en": "Ahhhhh..."
+ },
+ {
+  "k": "232",
+  "quem": "Jenna (F)",
+  "en": "Mmmhhh.. That was amazing, Rida..."
+ },
+ {
+  "k": "233",
+  "quem": "Rida (F)",
+  "en": "Carcen feel better than strong, hehe!"
+ },
+ {
+  "k": "234",
+  "quem": "Jenna (F)",
+  "en": "Hehe.. T-thanks.."
+ },
+ {
+  "k": "235",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_2_Win",
+  "quem": "Rida (F)",
+  "en": "Grr!"
+ },
+ {
+  "k": "236",
+  "quem": "Jenna (F)",
+  "en": "Aha! Gotcha!"
+ },
+ {
+  "k": "237",
+  "quem": "Rida (F)",
+  "en": "Carcen strong!"
+ },
+ {
+  "k": "238",
+  "quem": "Jenna (F)",
+  "en": "Thanks!"
+ },
+ {
+  "k": "239",
+  "quem": "Rida (F)",
+  "en": "Tribe ritual demands resolve horny. Carcen horny?"
+ },
+ {
+  "k": "240",
+  "tipo": "escolha",
+  "en": "<color=perversion>Yes.</color>"
+ },
+ {
+  "k": "241",
+  "tipo": "escolha",
+  "en": "No."
+ },
+ {
+  "k": "242",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_2_Win_No",
+  "quem": "Jenna (F)",
+  "en": "No, thank you."
+ },
+ {
+  "k": "243",
+  "quem": "Rida (F)",
+  "en": "Carcen loss!"
+ },
+ {
+  "k": "244",
+  "quem": "Jenna (F)",
+  "en": "Well actually I won."
+ },
+ {
+  "k": "245",
+  "quem": "Rida (F)",
+  "en": "Grrr..."
+ },
+ {
+  "k": "246",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_2_Win_Yes",
+  "quem": "Jenna (F)",
+  "en": "Oh I want you alright."
+ },
+ {
+  "k": "247",
+  "quem": "Rida (F)",
+  "en": "Mmmm..."
+ },
+ {
+  "k": "248",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_3_Lose_SexScene",
+  "quem": "Rida (F)",
+  "en": "Rida had fun, hehe."
+ },
+ {
+  "k": "249",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_3_Win_SexScene",
+  "quem": "Jenna (F)",
+  "en": "Hehehe, looks like I'm on top now!"
+ },
+ {
+  "k": "250",
+  "quem": "Rida (F)",
+  "en": "Guh!"
+ },
+ {
+  "k": "251",
+  "quem": "Jenna (F)",
+  "en": "Don't worry Rida, I'll let you enjoy my victory celebration as well, hehe!"
+ },
+ {
+  "k": "252",
+  "quem": "Jenna (F)",
+  "en": "See..?~"
+ },
+ {
+  "k": "253",
+  "quem": "Rida (F)",
+  "en": "Carcen strong..."
+ },
+ {
+  "k": "254",
+  "quem": "Jenna (F)",
+  "en": "You haven't even seen how strong I am, hehehe..."
+ },
+ {
+  "k": "255",
+  "quem": "Rida (F)",
+  "en": "Carcen win, Carcen do as please..."
+ },
+ {
+  "k": "256",
+  "quem": "Jenna (F)",
+  "en": "Hehehe.. Do as I please, hmm?"
+ },
+ {
+  "k": "257",
+  "quem": "Rida (F)",
+  "en": "Rida shouldn't lose, but Rida like..."
+ },
+ {
+  "k": "258",
+  "quem": "Jenna (F)",
+  "en": "Hehe... I'll show you something you'll like even more."
+ },
+ {
+  "k": "259",
+  "quem": "Rida (F)",
+  "en": "Carcen fast..."
+ },
+ {
+  "k": "260",
+  "quem": "Jenna (F)",
+  "en": "Fast and strong.. I beat you after all..."
+ },
+ {
+  "k": "261",
+  "quem": "Rida (F)",
+  "en": "Rida.. Tripped..!"
+ },
+ {
+  "k": "262",
+  "quem": "Jenna (F)",
+  "en": "Is that so?~"
+ },
+ {
+  "k": "263",
+  "quem": "Jenna (F)",
+  "en": "Oops, I think I tripped too, hehehe.~"
+ },
+ {
+  "k": "264",
+  "quem": "Rida (F)",
+  "en": "Carcen pussy-.. Mnhhh..."
+ },
+ {
+  "k": "265",
+  "quem": "Jenna (F)",
+  "en": "Hehe... You look cute from up here."
+ },
+ {
+  "k": "266",
+  "quem": "Rida (F)",
+  "en": "Ghh..."
+ },
+ {
+  "k": "267",
+  "quem": "Jenna (F)",
+  "en": "Mmhhh... That's good..."
+ },
+ {
+  "k": "268",
+  "quem": "Rida (F)",
+  "en": "Mnnhhh..."
+ },
+ {
+  "k": "269",
+  "quem": "Jenna (F)",
+  "en": "Mmhh.. This is a really nice victory celebration..."
+ },
+ {
+  "k": "270",
+  "quem": "Rida (F)",
+  "en": "Carcen enjoy tribe if stay, hehe."
+ },
+ {
+  "k": "271",
+  "quem": "Jenna (F)",
+  "en": "Mmmhhh.. Yess..."
+ },
+ {
+  "k": "272",
+  "quem": "Rida (F)",
+  "en": "Carcen make-.. Rida close-..!"
+ },
+ {
+  "k": "273",
+  "quem": "Jenna (F)",
+  "en": "Ghhh... You feel so good.."
+ },
+ {
+  "k": "274",
+  "quem": "Rida (F)",
+  "en": "Rida gonna-"
+ },
+ {
+  "k": "275",
+  "quem": "Jenna (F)",
+  "en": "Mmmmhh.. Hehehe..."
+ },
+ {
+  "k": "276",
+  "quem": "Rida (F)",
+  "en": "Hahhhh..."
+ },
+ {
+  "k": "277",
+  "cena": "Loyalty_Fiends_Wrestling_1_Rida_4_Final",
+  "quem": "Rida (F)",
+  "en": "Carcen ready for wrestle now."
+ },
+ {
+  "k": "278",
+  "quem": "Jenna (F)",
+  "en": "I think I understand how it works now, yeah."
+ },
+ {
+  "k": "279",
+  "quem": "Rida (F)",
+  "en": "Rida want more wrestling. Carcen come see Rida for more."
+ },
+ {
+  "k": "280",
+  "cena": "Loyalty_Fiends_Wrestling_2_Rida_0_Start",
+  "quem": "Rida (F)",
+  "en": "Practice make... ehh..."
+ },
+ {
+  "k": "281",
+  "tipo": "escolha",
+  "en": "Yes."
+ },
+ {
+  "k": "282",
+  "tipo": "escolha",
+  "en": "No."
+ },
+ {
+  "k": "283",
+  "quem": "Jenna (F)",
+  "en": "Perfect?"
+ },
+ {
+  "k": "284",
+  "quem": "Rida (F)",
+  "en": "Mm!"
+ },
+ {
+  "k": "285",
+  "cena": "Loyalty_Fiends_Wrestling_2_Rida_1_Intro",
+  "quem": "Rida (F)",
+  "en": "Carcen ready?"
+ },
+ {
+  "k": "286",
+  "quem": "Jenna (F)",
+  "en": "Are you ready?"
+ },
+ {
+  "k": "287",
+  "quem": "Rida (F)",
+  "en": "Rida always ready!"
+ },
+ {
+  "k": "288",
+  "cena": "Loyalty_Fiends_Wrestling_2_Rida_4_Final",
+  "quem": "Rida (F)",
+  "en": "Mm... Carcen good fighter."
+ },
+ {
+  "k": "289",
+  "quem": "Jenna (F)",
+  "en": "I've had some practice. You're pretty good yourself!"
+ },
+ {
+  "k": "290",
+  "quem": "Rida (F)",
+  "en": "Rida ready for fight. Want fight."
+ },
+ {
+  "k": "291",
+  "quem": "Jenna (F)",
+  "en": "Let's regroup with Lady and then we can see how best to approach Mina's tribe."
+ },
+ {
+  "k": "292",
+  "quem": "Rida (F)",
+  "en": "Eh?"
+ },
+ {
+  "k": "293",
+  "quem": "Jenna (F)",
+  "en": "Talk Lady. Then fight."
+ },
+ {
+  "k": "294",
+  "quem": "Rida (F)",
+  "en": "Aah! Rida understand!"
+ },
+ {
+  "k": "295",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_1",
+  "quem": "Florian Hooker (F)",
+  "en": "Ghh... Hhh..."
+ },
+ {
+  "k": "296",
+  "quem": "Jenna (F)",
+  "en": "What's wrong with her...?"
+ },
+ {
+  "k": "297",
+  "quem": "Floria (F)",
+  "en": "I... I'm not sure..."
+ },
+ {
+  "k": "298",
+  "quem": "Florian Hooker (F)",
+  "en": "Nnn..."
+ },
+ {
+  "k": "299",
+  "quem": "Jewel (F)",
+  "en": "It looks like she's in pain."
+ },
+ {
+  "k": "300",
+  "quem": "Floria (F)",
+  "en": "She's not the only one..."
+ },
+ {
+  "k": "301",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_2",
+  "quem": "Florian Hooker (F)",
+  "en": "Nnn..."
+ },
+ {
+  "k": "302",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_3",
+  "quem": "Florian Hooker (F)",
+  "en": "Hhh..."
+ },
+ {
+  "k": "303",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_4",
+  "quem": "Florian Hooker (F)",
+  "en": "Ghh..."
+ },
+ {
+  "k": "304",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_5",
+  "quem": "Florian Hooker (F)",
+  "en": "Hhhahh..."
+ },
+ {
+  "k": "305",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_6",
+  "quem": "Florian Hooker (F)",
+  "en": "Aa..."
+ },
+ {
+  "k": "306",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_7",
+  "quem": "Florian Hooker (F)",
+  "en": "Nnn..."
+ },
+ {
+  "k": "307",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_8",
+  "quem": "Florian Hooker (F)",
+  "en": "Hh... hh... hh..."
+ },
+ {
+  "k": "308",
+  "cena": "Loyalty_Florian_Sublevel2_Florian_9",
+  "quem": "Florian Hooker (F)",
+  "en": "Nn... Hh..."
+ },
+ {
+  "k": "309",
+  "cena": "Loyalty_Florian_Sublevel2_Intro",
+  "quem": "Jenna (F)",
+  "en": "Well... here we are."
+ },
+ {
+  "k": "310",
+  "quem": "Jewel (F)",
+  "en": "It'll be fine, blue."
+ },
+ {
+  "k": "311",
+  "quem": "Floria (F)",
+  "en": "Argh... The voices are getting stronger... We're definitely on the right trail."
+ },
+ {
+  "k": "312",
+  "quem": "Throb (M)",
+  "en": "Oh goodie..."
+ },
+ {
+  "k": "313",
+  "quem": "Rida (F)",
+  "en": "Goodie!"
+ },
+ {
+  "k": "314",
+  "quem": "Jenna (F)",
+  "en": "Alright gang, let's split up and search for cl-"
+ },
+ {
+  "k": "315",
+  "quem": "Throb (M)",
+  "en": "We are not splitting up."
+ },
+ {
+  "k": "316",
+  "quem": "Jewel (F)",
+  "en": "We'll just follow you, blue. It's worked for us so far!"
+ },
+ {
+  "k": "317",
+  "quem": "Jenna (F)",
+  "en": "Right! Well then let's stick together and search for clues!"
+ },
+ {
+  "k": "318",
+  "quem": "Floria (F)",
+  "en": "I can feel... suffering... my young are crying in anguish..."
+ },
+ {
+  "k": "319",
+  "quem": "Jenna (F)",
+  "en": "Errr..."
+ },
+ {
+  "k": "320",
+  "quem": "Throb (M)",
+  "en": "The Florians..."
+ },
+ {
+  "k": "321",
+  "quem": "Jenna (F)",
+  "en": "Let's start looking then."
+ },
+ {
+  "k": "322",
+  "cena": "Loyalty_Florian_Sublevel2_Outro",
+  "quem": "Throb (M)",
+  "en": "Was that always unlocked?"
+ },
+ {
+  "k": "323",
+  "quem": "Jenna (F)",
+  "en": "No..."
+ },
+ {
+  "k": "324",
+  "quem": "Jewel (F)",
+  "en": "Guess we found our clue."
+ },
+ {
+  "k": "325",
+  "quem": "Floria (F)",
+  "en": "We need to push deeper."
+ },
+ {
+  "k": "326",
+  "quem": "Rida (F)",
+  "en": "Rida like deeper."
+ },
+ {
+  "k": "327",
+  "quem": "Jenna (F)",
+  "en": "Sublevel 3 it is."
+ }
+]

@@ -1,0 +1,1023 @@
+[
+ {
+  "k": "1",
+  "cena": "VIPAmbush_Recruit_Jewel_2",
+  "quem": "Jenna (F)",
+  "en": "Ughh… I hate my codename… It was assigned to me by AIRSHIP, but I never liked it."
+ },
+ {
+  "k": "2",
+  "quem": "Jewel (F)",
+  "en": "Blue it is, then!"
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "Thanks."
+ },
+ {
+  "k": "4",
+  "quem": "Jewel (F)",
+  "en": "So what’s this about the commander then? Why are you looking to ambush them? You gonna be saving all of us humble Carcens from the big bad GAG?"
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "Uhm… I’m just hoping to get information on my girlfriend from him."
+ },
+ {
+  "k": "6",
+  "quem": "Jewel (F)",
+  "en": "Uh huh… Well that’s a noble enough reason! I’m in."
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "Really? Just like that?"
+ },
+ {
+  "k": "8",
+  "quem": "Jewel (F)",
+  "en": "Yeah! I’ve been helping you out a bunch already, right?"
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "I guess that’s true."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Thanks!"
+ },
+ {
+  "k": "11",
+  "quem": "Jewel (F)",
+  "en": "Don’t mention it, hun. Let’s head out!"
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "Sounds good to me!"
+ },
+ {
+  "k": "13",
+  "cena": "VIPAmbush_Recruit_Throb_1",
+  "quem": "Jenna (F)",
+  "en": "I need to tell you something in private."
+ },
+ {
+  "k": "14",
+  "quem": "Throb (M)",
+  "en": "I need to tell you something too."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Y- What?"
+ },
+ {
+  "k": "16",
+  "quem": "Throb (M)",
+  "en": "I’ll meet you in the motel after my shift today."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Uhh… Okay!"
+ },
+ {
+  "k": "18",
+  "cena": "VIPAmbush_Recruit_Throb_2",
+  "quem": "Jenna (F)",
+  "en": "Soo… What did you have to tell me?"
+ },
+ {
+  "k": "19",
+  "quem": "Throb (M)",
+  "en": "Right! I uhh… I’m… I'm... thinking you should go first."
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "Uh huh… Well uh! Do you trust me?"
+ },
+ {
+  "k": "21",
+  "quem": "Throb (M)",
+  "en": "Of course I trust you. You’ve done a big favor for me, partner."
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Yee haw! That’s good to know. Promise you won’t beat me up for what I’m about to tell you?"
+ },
+ {
+  "k": "23",
+  "quem": "Throb (M)",
+  "en": "Uhhh… Sure? I’m not sure I’d be able to even beat you anyways. You’re a toughie."
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "Well, I’m planning to ambush the GAG commander that’s coming here soon."
+ },
+ {
+  "k": "25",
+  "quem": "Throb (M)",
+  "en": "You… You’re planning to go after W-Wildfire?"
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "Yes, yes I am."
+ },
+ {
+  "k": "27",
+  "quem": "Throb (M)",
+  "en": "I’ve heard stories about the things that Wildfire’s done… She’s dangerous."
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "So am I. I can handle it."
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "Wait- She?"
+ },
+ {
+  "k": "30",
+  "quem": "Throb (M)",
+  "en": "Yeah, she."
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "Huh."
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "By the way, I’m also a retired AIRSHIP agent from back in the day."
+ },
+ {
+  "k": "33",
+  "quem": "Throb (M)",
+  "en": "Oh- Really?"
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Yea, my codename was… ugh… Vibe…"
+ },
+ {
+  "k": "35",
+  "quem": "Throb (M)",
+  "en": "Holy crap! You’re Vibe?"
+ },
+ {
+  "k": "36",
+  "quem": "Jenna (F)",
+  "en": "Yes…"
+ },
+ {
+  "k": "37",
+  "quem": "Throb (M)",
+  "en": "Why are you telling me all this? You know about the bounties for people like you, right?"
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "Uh huh… but I trust you!"
+ },
+ {
+  "k": "39",
+  "quem": "Throb (M)",
+  "en": "Well… Alright…"
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "I also maybe want your help in ambushing this Wildfire chick."
+ },
+ {
+  "k": "41",
+  "quem": "Throb (M)",
+  "en": "R-Really? You want me to…"
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Yeah!"
+ },
+ {
+  "k": "43",
+  "quem": "Throb (M)",
+  "en": "I’m… I’m not sure…"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "It’ll be fine! Trust me!"
+ },
+ {
+  "k": "45",
+  "quem": "Throb (M)",
+  "en": "I… Alright… I’m in. It’s time for us to stand up against the people that want us to keep our heads down and take their careless abuse. I’m ready to fight back and show them that I will not stand idly by while they push people like me to the ground."
+ },
+ {
+  "k": "46",
+  "quem": "Throb (M)",
+  "en": "LET’S DO THIS! LET’S GO!"
+ },
+ {
+  "k": "47",
+  "quem": "Jenna (F)",
+  "en": "Alright, well that was a lot more enthusiastic than I anticipated. I’m glad you’re excited about this."
+ },
+ {
+  "k": "48",
+  "quem": "Throb (M)",
+  "en": "Yeah!"
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "So uhh… What was the big thing you wanted to tell me?"
+ },
+ {
+  "k": "50",
+  "quem": "Throb (M)",
+  "en": "Oh-- Uhh…"
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "Hmm?"
+ },
+ {
+  "k": "52",
+  "quem": "Throb (M)",
+  "en": "I’m uhm…"
+ },
+ {
+  "k": "53",
+  "quem": "Throb (M)",
+  "en": "Remember when I was gonna send a letter to that uhm… girl?"
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "I remember."
+ },
+ {
+  "k": "55",
+  "quem": "Throb (M)",
+  "en": "Well uhm… It’s erm… It’s Tiny."
+ },
+ {
+  "k": "56",
+  "quem": "Jenna (F)",
+  "en": "It's tiny? I thought it was a big thing!"
+ },
+ {
+  "k": "57",
+  "quem": "Throb (M)",
+  "en": "No, it’s… I’m interested in Tiny… I uh… I love him."
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "I know. I was just messing with you. That's awesome!"
+ },
+ {
+  "k": "59",
+  "quem": "Throb (M)",
+  "en": "Oh! Heheh... I’m uh… I’m maybe… probably erm... gay."
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "That’s perfectly fine!"
+ },
+ {
+  "k": "61",
+  "quem": "Throb (M)",
+  "en": "R-Really?"
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "Yeah! There’s no problem with that! I’m gay too. I’ve got a girlfriend!"
+ },
+ {
+  "k": "63",
+  "quem": "Throb (M)",
+  "en": "Oh! Yeah!"
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "Exactly! So it’s no big deal whatsoever!"
+ },
+ {
+  "k": "65",
+  "quem": "Throb (M)",
+  "en": "I just felt guilty that I was deceiving you about who I had a crush on."
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "Pffft. You don't need to worry about that, dude. You were setting my gaydar off."
+ },
+ {
+  "k": "67",
+  "quem": "Throb (M)",
+  "en": "W-... Was it really that obvious?"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "I've just got experience with it. No worries."
+ },
+ {
+  "k": "69",
+  "quem": "Throb (M)",
+  "en": "Alright... Well... Let's going..."
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "Sounds good, partner."
+ },
+ {
+  "k": "71",
+  "cena": "VIPAmbush_Start",
+  "quem": "Jenna (F)",
+  "en": "<i>(Looks like this is all I need to start the ambush!)</i>"
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "<i>(I just need to see if I can get some people to help me with it… I should find Jewel and Throb!)</i>"
+ },
+ {
+  "k": "73",
+  "cena": "VIPExplosives_Bug_Bar",
+  "quem": "Jenna (F)",
+  "en": "Uh hey, can you tell me what the name of that strange looking bottle back there is?"
+ },
+ {
+  "k": "74",
+  "quem": "Narrador",
+  "en": "<i>I point to one of the bottles behind him, causing him to turn and look out of instinct.</i>"
+ },
+ {
+  "k": "75",
+  "quem": "Martin (M)",
+  "en": "That? That's just... Normal shitty beer..."
+ },
+ {
+  "k": "76",
+  "quem": "Narrador",
+  "en": "<i>While his attention is off of me, I lean forward onto the counter and reach under, planting the bug to the underside of the surface quickly. He turns in time to see me leaning back off of the counter and raises an eyebrow at me.</i>"
+ },
+ {
+  "k": "77",
+  "quem": "Martin (M)",
+  "en": "Were you... trying to... sneak a kiss or something...?"
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "What? I... Uhm... I just... couldn't... help myself...?"
+ },
+ {
+  "k": "79",
+  "quem": "Martin (M)",
+  "en": "I'm flattered, badge girl... But I've already got that part of my life... fairly handled. You should learn to control your impulses."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "<i>(Am I really getting a lesson on impulses from someone in this town?)</i>"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "Yeah! S-Sorry about that! I'll do my best to control them, uh... sir!"
+ },
+ {
+  "k": "82",
+  "quem": "Narrador",
+  "en": "<i>He nods lightly and waves me off.</i>"
+ },
+ {
+  "k": "83",
+  "cena": "VIPExplosives_Bug_Motel",
+  "quem": "Narrador",
+  "en": "<i>My hand slips under the sofa and presses the bug to the underside of it, nodding lightly as it gives a soft beep.</i>"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "<i>(Not a problem!)</i>"
+ },
+ {
+  "k": "85",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Enter_1",
+  "quem": "Narrador",
+  "en": "<i>I inch up onto my tippy toes, peeking through the window into the prison.</i>"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "Hey dumbies! Are your helmets strapped on too tight? I'm not wearing a badge! Gonna go escape now!"
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "I'd ask you to arrest me, but you fatties look like you could use more of 'arrest' than I do!"
+ },
+ {
+  "k": "88",
+  "quem": "Guard (M)",
+  "en": "<size=30>Did you hear that? Get that bitch!</size>"
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "<i>(Here they come! Time to hide!)</i>"
+ },
+ {
+  "k": "90",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Enter_2",
+  "quem": "Guard (M)",
+  "en": "What the... Where'd she go?"
+ },
+ {
+  "k": "91",
+  "quem": "Guard (M)",
+  "en": "Come on out, boys!"
+ },
+ {
+  "k": "92",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Enter_3",
+  "quem": "Other Guard",
+  "en": "Uh... Where'd she go, mate?"
+ },
+ {
+  "k": "93",
+  "quem": "Guard (M)",
+  "en": "Bitch must have made a run for it! Let's get her!"
+ },
+ {
+  "k": "94",
+  "quem": "Guard (M)",
+  "en": "And remember to close the door this time! You remember what happened last time, idiot?!"
+ },
+ {
+  "k": "95",
+  "quem": "Other Guard",
+  "en": "Sure boss! I got it, boss!"
+ },
+ {
+  "k": "96",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Enter_4",
+  "quem": "Jenna (F)",
+  "en": "<i>(Aha! Guess I can add <b>perfect</b> stealth to the list of skills on my hero resume!)</i>"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "<i>(And they left the door wide open! Convenient! Better hurry inside before they come back.)</i>"
+ },
+ {
+  "k": "98",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Exit_1",
+  "quem": "Jenna (F)",
+  "en": "<i>(Crap! Here they come!)</i>"
+ },
+ {
+  "k": "99",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Exit_2",
+  "quem": "Guard (M)",
+  "en": "Stupid bitch... We'll find her... Probably would have helped if we saw what she looked like."
+ },
+ {
+  "k": "100",
+  "quem": "Other Guard",
+  "en": "She had a pretty hot voice though, boss!"
+ },
+ {
+  "k": "101",
+  "quem": "Guard (M)",
+  "en": "Too true. Shame. At least you remembered to close the door this time."
+ },
+ {
+  "k": "102",
+  "quem": "Other Guard",
+  "en": "Of course I did, boss! You know me!"
+ },
+ {
+  "k": "103",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Exit_3",
+  "quem": "Jenna (F)",
+  "en": "And that's one more point for Jenna! How does she do it, ladies and gentlemen?"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "Thankfully these guys are dumb as bricks."
+ },
+ {
+  "k": "105",
+  "cena": "VIPExplosives_Bug_Prison_Distraction_Intro",
+  "quem": "Jenna (F)",
+  "en": "<i>(Looks like the window to the prison was left open. Maybe I can pull the guards away if I cause some havoc.)</i>"
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "<i>(Havoc is my specialty!)</i>"
+ },
+ {
+  "k": "107",
+  "tipo": "escolha",
+  "en": "Distract the guards out of the prison."
+ },
+ {
+  "k": "108",
+  "tipo": "escolha",
+  "en": "Nevermind."
+ },
+ {
+  "k": "109",
+  "cena": "VIPExplosives_Bug_Prison_InteractWithTable",
+  "quem": "Jenna (F)",
+  "en": "<i>(This is probably the best place to put the bug.)</i>"
+ },
+ {
+  "k": "110",
+  "quem": "Narrador",
+  "en": "<i>I bend down and stick the bug to the bottom of the table, hearing a soft little beep from it.</i> "
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "<i>(Easy as pie!)</i>"
+ },
+ {
+  "k": "112",
+  "cena": "VIPExplosives_Bug_Prison_Seduction_1",
+  "quem": "Jenna (F)",
+  "en": "Hey! Boys! Over here! I want my phonecall!"
+ },
+ {
+  "k": "113",
+  "cena": "VIPExplosives_Bug_Prison_Seduction_2",
+  "quem": "Guard (M)",
+  "en": "No phonecalls, badge... What the hell do you want?"
+ },
+ {
+  "k": "114",
+  "tipo": "escolha",
+  "en": "Offer to blow him and his buddies under their table."
+ },
+ {
+  "k": "115",
+  "tipo": "escolha",
+  "en": "Nevermind."
+ },
+ {
+  "k": "116",
+  "cena": "VIPExplosives_Bug_Prison_Seduction_3",
+  "quem": "Jenna (F)",
+  "en": "I... Uhm..."
+ },
+ {
+  "k": "117",
+  "quem": "Guard (M)",
+  "en": "What? I normally don't say this to girls, but spit it out!"
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "I uhm... I could uhm you know... to you guys... Under the table...?"
+ },
+ {
+  "k": "119",
+  "quem": "Narrador",
+  "en": "<i>He lets out a chuckle and moves to unlock the doors.</i>"
+ },
+ {
+  "k": "120",
+  "quem": "Guard (M)",
+  "en": "You want a nice threeway of cock, badge girl? I think we can arrange that. Come on out here."
+ },
+ {
+  "k": "121",
+  "cena": "VIPExplosives_Bug_Prison_Seduction__Intro",
+  "quem": "Jenna (F)",
+  "en": "<i>(Maybe I can call one of the guards over... Might be able to distract them somehow.)</i>"
+ },
+ {
+  "k": "122",
+  "tipo": "escolha",
+  "en": "Call one of them over."
+ },
+ {
+  "k": "123",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "124",
+  "cena": "VIPExplosives_Bug_Prison_Seduction_Main",
+  "quem": "Narrador",
+  "en": "<i>As soon as I’m under the desk I hear belts jingling as the men around me undo their pants.</i>"
+ },
+ {
+  "k": "125",
+  "quem": "Guard (M)",
+  "en": "Well? Get to work, girl."
+ },
+ {
+  "k": "126",
+  "quem": "Narrador",
+  "en": "<i>I smell the overpowering scent of the first cock before it smacks me square in the face, forcing a quiet gasp out of me. Two more thick shafts find their way on either side of my head as the three men get comfortable around me.</i>"
+ },
+ {
+  "k": "127",
+  "quem": "Other Guard",
+  "en": "What’s she waiting for?"
+ },
+ {
+  "k": "128",
+  "quem": "Narrador",
+  "en": "<i>My hands are grabbed and forced onto the cocks that press against my cheeks, the one on my face sliding downward and pressing against my lips.</i>"
+ },
+ {
+  "k": "129",
+  "quem": "Narrador",
+  "en": "<i>Before I even have time to rethink my offer, the cock thrusts forward to pierce into my mouth, forcing a small groan out of me. He hums in pleasure as his length fills me, slouching in his seat and casually spreading his legs.</i>"
+ },
+ {
+  "k": "130",
+  "quem": "Guard (M)",
+  "en": "So how were your shifts so far? You guys find any other girls to ‘tip’ you?"
+ },
+ {
+  "k": "131",
+  "quem": "Other Guard",
+  "en": "Nah, not this time. Good thing this one came running to us, nice change of pace."
+ },
+ {
+  "k": "132",
+  "quem": "Narrador",
+  "en": "<i>I start to slowly bob my head on the man’s cock as they talk casually, glancing upward at the table to look for a good spot to plant the bug.</i>"
+ },
+ {
+  "k": "133",
+  "quem": "Other Guard",
+  "en": "Oh come on, girl! Jerk our cocks too!"
+ },
+ {
+  "k": "134",
+  "quem": "Guard (M)",
+  "en": "Haha, she must be paying too much attention to mine. She’s really working it…"
+ },
+ {
+  "k": "135",
+  "quem": "Other Guard",
+  "en": "Does it still feel pretty good? I’ve been wondering about getting a little cock upgrade as well. I mean a uh- big cock upgrade."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "<i>(Cock upgrade…?)</i>"
+ },
+ {
+  "k": "137",
+  "quem": "Guard (M)",
+  "en": "It feels even better, man. I can feel every little bump of this bitch’s tongue right now. Then there’s also- ah… this."
+ },
+ {
+  "k": "138",
+  "quem": "Narrador",
+  "en": "<i>He reaches downward and grips the base of his cock, giving it a firm twist and tugging it forward. I hear a soft clicking sound as his cock… pulls free from his crotch?!</i>"
+ },
+ {
+  "k": "139",
+  "quem": "Guard (M)",
+  "en": "Ahh… There we go. Lot easier to stuff a bitch’s throat like this…"
+ },
+ {
+  "k": "140",
+  "quem": "Narrador",
+  "en": "<i>My eyes widen and I let out a loud squeal in surprise and unease as he grips his detached cock and starts to plunge it down my throat as if it were a dildo.</i>"
+ },
+ {
+  "k": "141",
+  "quem": "Guard (M)",
+  "en": "Mmmm… Fuck yes. That feels so good… Nice and tight."
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "<i>(He can still feel it!?)</i>"
+ },
+ {
+  "k": "143",
+  "quem": "Narrador",
+  "en": "<i>His detached andro cock keeps slamming down my throat, each thrust forcing little groans out of me while I jerk the other two cocks off.</i>"
+ },
+ {
+  "k": "144",
+  "quem": "Other Guard",
+  "en": "Hooh… That sure got her working… Atta boy! You found the on switch!"
+ },
+ {
+  "k": "145",
+  "quem": "Narrador",
+  "en": "<i>The upgraded cock gets forced down my throat all the way and I feel his hand clamp down over my mouth to keep it locked inside, the balls pressing against my chin.</i>"
+ },
+ {
+  "k": "146",
+  "quem": "Guard (M)",
+  "en": "Now for my next trick… Ahh…"
+ },
+ {
+  "k": "147",
+  "quem": "Narrador",
+  "en": "<i>I can feel it pulsing inside my throat, the detached cock starting to pump rope after rope of hot cum down into my stomach.</i>"
+ },
+ {
+  "k": "148",
+  "quem": "Narrador",
+  "en": "<i>With a loud groan, I take the opportunity to reach down and grab the bug from inside my jumpsuit, smacking it up into a grove in the underside of the table while I moan heavily around the cock to mask the soft beep of the bug activating.</i>"
+ },
+ {
+  "k": "149",
+  "quem": "Guard (M)",
+  "en": "Fuuuuuck yes… Mmmm, take it all, badge bitch…"
+ },
+ {
+  "k": "150",
+  "quem": "Other Guard",
+  "en": "Damn, she’s loving that remote cum!"
+ },
+ {
+  "k": "151",
+  "quem": "Narrador",
+  "en": "<i>My eyes water as I struggle to swallow it all down, some of the hot cum dribbling down onto my chin as I bring my hand back down onto the third man’s cock to jerk it.</i>"
+ },
+ {
+  "k": "152",
+  "quem": "Narrador",
+  "en": "<i>After a few more seconds of heated moaning and rubbing, the other two men let out loud groans as they shoot both of their hot loads down onto me as well, most of it shooting down onto my chest.</i>"
+ },
+ {
+  "k": "153",
+  "quem": "Guard (M)",
+  "en": "Very good girl…"
+ },
+ {
+  "k": "154",
+  "quem": "Narrador",
+  "en": "<i>He slowly pulls his cock out of my throat, patting it on my nose and rubbing it off on my face before bringing it back to his crotch to reattach with a soft clicking noise.</i>"
+ },
+ {
+  "k": "155",
+  "quem": "Guard (M)",
+  "en": "I’ll bring her back to her cell."
+ },
+ {
+  "k": "156",
+  "cena": "VIPExplosives_Bug_Townhall",
+  "quem": "Narrador",
+  "en": "<i>I lean down when no one's watching, planting the bug under the counter and quickly straightening up before anyone sees me.</i>"
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "<i>(Simple enough!)</i>"
+ },
+ {
+  "k": "158",
+  "cena": "VIPExplosives_Prison_Distraction_TryLeave",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't leave until I plant the bug, I didn't distract those guys for nothing!)</i>"
+ },
+ {
+  "k": "159",
+  "cena": "VIPVRCenter_HelplessMan1_Talk",
+  "quem": "Man (M)",
+  "en": "Thank you... I didn't realize what was happening to me..."
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "What even happened to you?"
+ },
+ {
+  "k": "161",
+  "quem": "Man (M)",
+  "en": "Lots... and lots of virgins..."
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "Glad I got you out of that predicament!"
+ },
+ {
+  "k": "163",
+  "cena": "VIPVRCenter_HelplessMan2_Talk",
+  "quem": "Man (M)",
+  "en": "Thank you so much, ma'am!"
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "Hey! No problem! It's Jenna!"
+ },
+ {
+  "k": "165",
+  "quem": "Man (M)",
+  "en": "Please accept my greatest thanks, Ms. Jenna!"
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "Eheh! Don't mention it!"
+ },
+ {
+  "k": "167",
+  "cena": "VIPVRCenter_HelplessWoman_Talk",
+  "quem": "Helpless Woman (F)",
+  "en": "Uhm... T-Thanks for... for pulling me out of there... I wasn't thinking clearly."
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "Don't mention it! Happy to help."
+ },
+ {
+  "k": "169",
+  "cena": "VIPVRCenter_Motel_AskForAccessCard",
+  "quem": "Jenna (F)",
+  "en": "So you said you'd give me that access card for the VR center."
+ },
+ {
+  "k": "170",
+  "quem": "Narrador",
+  "en": "<i>He smirks lightly and chuckles at me.</i>"
+ },
+ {
+  "k": "171",
+  "quem": "MotelOwner (M)",
+  "en": "Did I? Well I'm so sorry, little hero. It must have slipped my mind."
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "Uh huh... Well can I have one?"
+ },
+ {
+  "k": "173",
+  "quem": "MotelOwner (M)",
+  "en": "I don't know. Can you?"
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "You know what I mean."
+ },
+ {
+  "k": "175",
+  "quem": "MotelOwner (M)",
+  "en": "Well I'm not going to give it to you for free. I've got another little task for you."
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "What sort of task?"
+ },
+ {
+  "k": "177",
+  "quem": "MotelOwner (M)",
+  "en": "Trashy guy owes me some fuckbucks and you're going to get them for me."
+ },
+ {
+  "k": "178",
+  "quem": "Jenna (F)",
+  "en": "Do you want fries with that?"
+ },
+ {
+  "k": "179",
+  "quem": "MotelOwner (M)",
+  "en": "That's cute. The guy usually hangs out in the bar, you'll know him when you see him."
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "Fine. I'll get you your damn money."
+ },
+ {
+  "k": "181",
+  "quem": "MotelOwner (M)",
+  "en": "Good girl. It's nice to have a little hero on my payroll."
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "I'm not on your payroll, and stop calling me that!"
+ },
+ {
+  "k": "183",
+  "quem": "MotelOwner (M)",
+  "en": "Are you not? You seem to be making liberal use of <b>my</b> roof here. Don't bite the hand that feeds you, or you'll find that I won't be quite so charming."
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "Alright... I'll be back."
+ },
+ {
+  "k": "185",
+  "quem": "MotelOwner (M)",
+  "en": "That's what I thought."
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "<i>(Dickhead...)</i>"
+ },
+ {
+  "k": "187",
+  "quem": "MotelOwner (M)",
+  "en": "Ah! I almost forgot... Before you go, I've got some 'tools' that will help you out."
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "Tools?"
+ },
+ {
+  "k": "189",
+  "quem": "Narrador",
+  "en": "<i>He disappears behind the counter, before reappearing and setting a pair of fancy looking brass knuckles on the surface.</i>"
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "I see. That's how this'll go."
+ },
+ {
+  "k": "191",
+  "quem": "MotelOwner (M)",
+  "en": "Not so fast, dear. You want these? You need to do me a little favor first."
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "Another one? I need to do a favor for you just so I can do a favor for you?!"
+ },
+ {
+  "k": "193",
+  "quem": "MotelOwner (M)",
+  "en": "Of course not. You're going to do a favor for me to get your hands on these Grav Knuckles. I'll even let you keep them after you rough up those Rats in the bar for your access card."
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "Grav Knuckles?"
+ },
+ {
+  "k": "195",
+  "quem": "Jenna (F)",
+  "en": "Ugh... What do I have to do?"
+ },
+ {
+  "k": "196",
+  "quem": "MotelOwner (M)",
+  "en": "I want you to show me a nice slutty face. Do that and I'll give you these tools."
+ },
+ {
+  "k": "197",
+  "quem": "Jenna (F)",
+  "en": "<i>(Having a weapon of some kind would make things a lot easier if I ever need to fight someone. Since I lost my pistols, those Grav Knuckles will probably be really useful... But am I going to act slutty for them?)</i>"
+ },
+ {
+  "k": "198",
+  "tipo": "escolha",
+  "en": "<color=perversion>Accept.</color>"
+ },
+ {
+  "k": "199",
+  "tipo": "escolha",
+  "en": "Decline."
+ }
+]

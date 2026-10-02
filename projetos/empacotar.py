@@ -25,7 +25,7 @@ VERSION_TEMPLATE = """VSVersionInfo(
 """
 
 
-def empacotar(root, app, jogo, versao, dados, fontes, zip_name, steam_build):
+def empacotar(root, app, jogo, versao, dados, fontes, zip_name, steam_build, script=None, dados_extra=()):
     build = os.path.join(root, "build")
     dist = os.path.join(root, "dist")
     os.makedirs(build, exist_ok=True)
@@ -39,7 +39,9 @@ def empacotar(root, app, jogo, versao, dados, fontes, zip_name, steam_build):
            "--paths", os.path.join(root, "src")]
     for d in dados:
         cmd += ["--add-data", os.path.join(root, "src", d) + ";."]
-    subprocess.check_call(cmd + [os.path.join(root, "src", "instalador.py")])
+    for origem, destino in dados_extra:
+        cmd += ["--add-data", f"{origem};{destino}"]
+    subprocess.check_call(cmd + [script or os.path.join(root, "src", "instalador.py")])
 
     release = os.path.join(root, "releases", f"steam-build-{steam_build}")
     shutil.rmtree(release, ignore_errors=True)

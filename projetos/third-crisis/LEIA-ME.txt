@@ -1,0 +1,25 @@
+THIRD CRISIS - TRADUÇÃO PT-BR (DangoHub)
+=========================================
+
+ATENÇÃO: jogo e tradução com conteúdo adulto (+18).
+
+COMO INSTALAR
+1. Extraia o .zip em qualquer pasta.
+2. Abra a pasta "Traducao_PTBR_Third_Crisis" e execute "Traducao_PTBR_Third_Crisis.exe".
+3. O instalador acha o jogo da Steam sozinho. Se não achar, clique em "Procurar..." e escolha a pasta
+   "Third Crisis".
+4. Clique em "Instalar tradução".
+5. Abra o jogo e, em Settings > Game > Language, escolha "Custom Português (Brasil)".
+
+COMO DESINSTALAR
+Abra o instalador e clique em "Desinstalar". O jogo volta ao original.
+
+O QUE O INSTALADOR FAZ
+Só copia um arquivo para ThirdCrisis_Data\StreamingAssets\Languages. O jogo tem suporte oficial a
+traduções feitas por fãs nessa pasta. Nenhum arquivo original do jogo é alterado.
+
+Se o jogo receber uma atualização, a tradução continua funcionando. Os textos novos aparecem em
+inglês até sair uma nova versão da tradução.
+
+Tradução de fãs, gratuita e sem fins lucrativos. Third Crisis é propriedade da Anduo Games.
+Código-fonte: https://github.com/DangoHub/traducoes-ptbr

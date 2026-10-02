@@ -1,0 +1,926 @@
+[
+ {
+  "k": "1",
+  "cena": "LumberRatFight_Leader_TalkTo__Seductive",
+  "quem": "Narrador",
+  "en": "<i>I hesitate for a moment, before trailing my finger along the shoulder of the man as I reach my free hand up to slowly undo my top.</i>"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "You want this body? Klaus sent me. He wants you to pay what you owe, then maybe we can have some fun."
+ },
+ {
+  "k": "3",
+  "quem": "Narrador",
+  "en": "<i>The man reaches toward my bare breasts for a cup, but I smack his hand away.</i>"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Pay first, fun later. Klaus wants his money."
+ },
+ {
+  "k": "5",
+  "quem": "Narrador",
+  "en": "<i>I do my clothes back up, the sounds of quiet laughs and whispering coming from the goons around me in the bar.</i>"
+ },
+ {
+  "k": "6",
+  "cena": "LumberRatFight_Leader_TalkTo_Conclusion",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Do he now, wee little badger? Ye his?"
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "Yes-- I mean-! No! Sorta...?"
+ },
+ {
+  "k": "8",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "So he be sending his little whores after ol' Lumber Rat Ray an' the boys..."
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "Whore? Listen here, you prick-"
+ },
+ {
+  "k": "10",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "You listen to Ray, wee slag. The Lumber Rats ain't takin' none o' Klaus' swindlin' any longer."
+ },
+ {
+  "k": "11",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Scurry off back t' yer owner, wee slave. Ye come back again an' th' Lumber Rats'll be givin' ye a clean beatdown, don't matter what badge yer wearin'."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "<i>(Sheesh. He sure seems nice.)</i>"
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't just return to Klaus empty-handed. I should go ask Jewel for some help with these Lumber Rat guys.)</i>"
+ },
+ {
+  "k": "14",
+  "cena": "LumberRatFight_Motel_BarfightLost",
+  "quem": "Jenna (F)",
+  "en": "That didn't go too well..."
+ },
+ {
+  "k": "15",
+  "quem": "Jewel (F)",
+  "en": "Not at all... We'll get 'em back, blue. Those guys are always hanging around the bar. We can try again tomorrow."
+ },
+ {
+  "k": "16",
+  "cena": "LumberRatFight_TryToExit",
+  "quem": "Jenna (F)",
+  "en": "I can't leave until I get Klaus' money from those guys!"
+ },
+ {
+  "k": "17",
+  "cena": "LumberRatFight_Victory__Intro",
+  "quem": "Jenna (F)",
+  "en": "Nice! Looks like I've still got it!"
+ },
+ {
+  "k": "18",
+  "quem": "Jewel (F)",
+  "en": "You're a hell of a fighter, blue. Have you done some training or something?"
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "You could say that!"
+ },
+ {
+  "k": "20",
+  "quem": "Narrador",
+  "en": "<i>I lean down and dig into the man's pockets for the fuckbucks as Jewel watches me with a look of interest.</i>"
+ },
+ {
+  "k": "21",
+  "quem": "Jewel (F)",
+  "en": "So you're in the business of shaking people down?"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "He started it! I was just doing what my- what the owner of the motel said."
+ },
+ {
+  "k": "23",
+  "quem": "Jewel (F)",
+  "en": "You mean your owner? I can see his name on that badge of yours, sweetheart. No need to be ashamed of it."
+ },
+ {
+  "k": "24",
+  "quem": "Narrador",
+  "en": "<i>I pocket the money with a blush, rubbing the back of my neck.</i>"
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "Yeah... Just erm... Just getting used to it still."
+ },
+ {
+  "k": "26",
+  "cena": "LumberRatFight_Victory_Outro",
+  "quem": "Jenna (F)",
+  "en": "I need to get going now, gotta go back to err... to him..."
+ },
+ {
+  "k": "27",
+  "quem": "Jewel (F)",
+  "en": "To your owner?"
+ },
+ {
+  "k": "28",
+  "quem": "Narrador",
+  "en": "<i>I nod sheepishly, rubbing the back of my neck.</i>"
+ },
+ {
+  "k": "29",
+  "quem": "Jewel (F)",
+  "en": "I'm coming too! Lemme be your sidekick, miss hero girl."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Hero? Do you-"
+ },
+ {
+  "k": "31",
+  "quem": "Jewel (F)",
+  "en": "Hm? You seem pretty heroic is all."
+ },
+ {
+  "k": "32",
+  "quem": "Jewel (F)",
+  "en": "... Is there something you're not telling me?"
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "U-Uhm! N..No!"
+ },
+ {
+  "k": "34",
+  "quem": "Jewel (F)",
+  "en": "Just fucking with you. I don't care about whatever you've got going on. I just wanna stick around for the sex and excitement."
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "Oh! Well in that case... Sure!"
+ },
+ {
+  "k": "36",
+  "quem": "Jewel (F)",
+  "en": "Let's get goin' then, blue!"
+ },
+ {
+  "k": "37",
+  "cena": "LumberRatFlogger_DroppedFlogger",
+  "quem": "Jenna (F)",
+  "en": "What's this? That woman dropped her flogger..."
+ },
+ {
+  "k": "38",
+  "cena": "LumberRatFlogger_OnAttack_1",
+  "quem": "Rat Flogger (F)",
+  "en": "I'm gonna whip that ass into shape~!"
+ },
+ {
+  "k": "39",
+  "cena": "LumberRatFlogger_OnAttack_2",
+  "quem": "Rat Flogger (F)",
+  "en": "Bend over, bitch~!"
+ },
+ {
+  "k": "40",
+  "cena": "LumberRatFlogger_OnAttack_3",
+  "quem": "Rat Flogger (F)",
+  "en": "Let's get that ass nice and red~!"
+ },
+ {
+  "k": "41",
+  "cena": "LumberRatFlogger_OnSnare_1",
+  "quem": "Rat Flogger (F)",
+  "en": "Wrap them up, my darlings~"
+ },
+ {
+  "k": "42",
+  "cena": "LumberRatFlogger_OnSnare_2",
+  "quem": "Rat Flogger (F)",
+  "en": "You're not going anywhere, they'll make sure of that~"
+ },
+ {
+  "k": "43",
+  "cena": "LumberRatFlogger_OnSnare_3",
+  "quem": "Rat Flogger (F)",
+  "en": "You ready for some forced consentacles~? Too bad!"
+ },
+ {
+  "k": "44",
+  "cena": "LumberRatShredder_AttackTarget_1",
+  "quem": "Rat Shredder (M)",
+  "en": "AAh~! Cock on tits!! Yes!! Feel good!!"
+ },
+ {
+  "k": "45",
+  "quem": "Narrador",
+  "en": "<i>The crazed man reaches down to detach his own cock, lashing out!</i>"
+ },
+ {
+  "k": "46",
+  "cena": "LumberRatShredder_AttackTarget_2",
+  "quem": "Rat Shredder (M)",
+  "en": "Yes!! YES!! Cock likes!!"
+ },
+ {
+  "k": "47",
+  "quem": "Narrador",
+  "en": "<i>Babbling crazed words, the man detaches his own cock and attacks!</i>"
+ },
+ {
+  "k": "48",
+  "cena": "LumberRatShredder_AttackTarget_3",
+  "quem": "Rat Shredder (M)",
+  "en": "Cock! Tits! Cock on tits!! YES!"
+ },
+ {
+  "k": "49",
+  "quem": "Narrador",
+  "en": "<i>The man detaches his own cock, holding it in his hand and striking with it!</i>"
+ },
+ {
+  "k": "50",
+  "cena": "LumberRatShredder_MovingToAttackTarget_1",
+  "quem": "Rat Shredder (M)",
+  "en": "Tits?! Tits!! Must slap cock on tits!!"
+ },
+ {
+  "k": "51",
+  "cena": "LumberRatShredder_MovingToAttackTarget_2",
+  "quem": "Rat Shredder (M)",
+  "en": "Cock wants!! Cock needs!!"
+ },
+ {
+  "k": "52",
+  "cena": "LumberRatShredder_MovingToAttackTarget_3",
+  "quem": "Rat Shredder (M)",
+  "en": "Tits!! Slap cock on tits!!! Yesss!"
+ },
+ {
+  "k": "53",
+  "cena": "LumberRatShredder_MovingToShredTarget_1",
+  "quem": "Rat Shredder (M)",
+  "en": "Tits!! Need tits! Love tits! Smell tits! MMM!! I SHRED clothes!!!"
+ },
+ {
+  "k": "54",
+  "cena": "LumberRatShredder_MovingToShredTarget_2",
+  "quem": "Rat Shredder (M)",
+  "en": "Want tits!! Want shred clothes!!"
+ },
+ {
+  "k": "55",
+  "cena": "LumberRatShredder_MovingToShredTarget_3",
+  "quem": "Rat Shredder (M)",
+  "en": "I smell tits!?! I shred clothes!!"
+ },
+ {
+  "k": "56",
+  "cena": "LumberRatShredder_NoGirls",
+  "quem": "Rat Shredder (M)",
+  "en": "Noo! Where girls?! Where tits?!"
+ },
+ {
+  "k": "57",
+  "cena": "LumberRatShredder_ShredTarget_1",
+  "quem": "Rat Shredder (M)",
+  "en": "YES! YES! Shred! Tear! Rip! Tits!!"
+ },
+ {
+  "k": "58",
+  "cena": "LumberRatShredder_ShredTarget_2",
+  "quem": "Rat Shredder (M)",
+  "en": "Rip! Tear! Shred! Yesss!"
+ },
+ {
+  "k": "59",
+  "cena": "LumberRatShredder_ShredTarget_3",
+  "quem": "Rat Shredder (M)",
+  "en": "Clothes bad! Shred clothes! Want tits!!"
+ },
+ {
+  "k": "60",
+  "cena": "LumberRatSquirter_OnSquirt_Long",
+  "quem": "Rat Squirter (F)",
+  "en": "Aah~ Mmmm, here it comes~!"
+ },
+ {
+  "k": "61",
+  "quem": "Narrador",
+  "en": "<i>The woman starts furiously rubbing her pussy, gasping and moaning out in pleasure.</i>"
+ },
+ {
+  "k": "62",
+  "quem": "Rat Squirter (F)",
+  "en": "A-Ah~ Oooh yess~ Gonna cum all over that cute little face... Haah..."
+ },
+ {
+  "k": "63",
+  "quem": "Rat Squirter (F)",
+  "en": "Mmm... Come on... Almost theere~!"
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "Erm... Are you having trouble over there?"
+ },
+ {
+  "k": "65",
+  "quem": "Rat Squirter (F)",
+  "en": "So close... Almost... H-Hah..."
+ },
+ {
+  "k": "66",
+  "quem": "Rat Squirter (F)",
+  "en": "N-No! I lost it!"
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "Take your time."
+ },
+ {
+  "k": "68",
+  "quem": "Rat Squirter (F)",
+  "en": "A-Ah! It's back! I'm gonna!"
+ },
+ {
+  "k": "69",
+  "quem": "Rat Squirter (F)",
+  "en": "G-Gonna~"
+ },
+ {
+  "k": "70",
+  "quem": "Rat Squirter (F)",
+  "en": "Gonna!"
+ },
+ {
+  "k": "71",
+  "quem": "Rat Squirter (F)",
+  "en": "H-Haaaaaaaaaah~"
+ },
+ {
+  "k": "72",
+  "cena": "LumberRatSquirter_OnSquirt_Short_1",
+  "quem": "Rat Squirter (F)",
+  "en": "Here it comes~! Aah~!"
+ },
+ {
+  "k": "73",
+  "cena": "LumberRatSquirter_OnSquirt_Short_2",
+  "quem": "Rat Squirter (F)",
+  "en": "Haah... Gonna cover that face~!"
+ },
+ {
+  "k": "74",
+  "cena": "LumberRatSquirter_OnSquirt_Short_3",
+  "quem": "Rat Squirter (F)",
+  "en": "So fucking hot... Haah~ Gonna cum~!"
+ },
+ {
+  "k": "75",
+  "cena": "machine 0",
+  "en": "Note: This plays right when you enter the room for the first time, something of an intro to the machine section."
+ },
+ {
+  "k": "76",
+  "en": "So this is the new room they've built with the supplies we've brought back, huh?"
+ },
+ {
+  "k": "77",
+  "en": "What that strange metal bed there?"
+ },
+ {
+  "k": "78",
+  "en": "I think I heard some of the resistance members talking that they found most of the parts for a Peitho machine among the stuff we ended up bringing back."
+ },
+ {
+  "k": "79",
+  "en": "Turns out the few parts that were missing were easily replaceable generic stuff. So they wound up putting it back together and here it is."
+ },
+ {
+  "k": "80",
+  "en": "Well, I'm more interested in the fact that this machine looks like it can be used for sex!"
+ },
+ {
+  "k": "81",
+  "en": "It's a sex tortue device, Jewel!"
+ },
+ {
+  "k": "82",
+  "en": "It's <i>only</i> used for sex!"
+ },
+ {
+  "k": "83",
+  "en": "Yeah, you've certainly got a good point there!"
+ },
+ {
+  "k": "84",
+  "en": "Whaddaya think, Jenna? Interested in getting on and taking it for a spin?"
+ },
+ {
+  "k": "85",
+  "en": "Hmmmm, I'd have to think about it."
+ },
+ {
+  "k": "86",
+  "en": "But if I ever were to decide to use it, rest assured you'll likely be around to see it."
+ },
+ {
+  "k": "87",
+  "en": "Hehehe, now that is what I wanna hear!"
+ },
+ {
+  "k": "88",
+  "cena": "Machine 1_1",
+  "en": "overworld, jenna with party"
+ },
+ {
+  "k": "89",
+  "en": "Finally decided to give the machine a shot?"
+ },
+ {
+  "k": "90",
+  "en": "Yup. Damn thing's been bugging me all the time."
+ },
+ {
+  "k": "91",
+  "en": "A 'sex torture' machine. I mean, sounds kinda fun in a kinky way, given the fact that I'm not literally being held captive by the enemy when I'll be on it."
+ },
+ {
+  "k": "92",
+  "en": "You can say that again."
+ },
+ {
+  "k": "93",
+  "en": "Jump right on and we'll help get you in place."
+ },
+ {
+  "k": "94",
+  "en": "We know how to turn this thing off if we need to, right?"
+ },
+ {
+  "k": "95",
+  "en": "Worst case scenario we'll just pull the plug, right? No more worrying now!"
+ },
+ {
+  "k": "96",
+  "en": "Fade to black"
+ },
+ {
+  "k": "97",
+  "cena": "Machine 1_2",
+  "en": "black"
+ },
+ {
+  "k": "98",
+  "en": "<i>(I lie down on the machine and wait for the others to power it on from the console terminal a little further down the room.)</i>"
+ },
+ {
+  "k": "99",
+  "en": "You think this is it?"
+ },
+ {
+  "k": "100",
+  "en": "multiple button press sounds, nothing happens"
+ },
+ {
+  "k": "101",
+  "en": "Maybe this?"
+ },
+ {
+  "k": "102",
+  "en": "multiple button press sounds, nothing again"
+ },
+ {
+  "k": "103",
+  "en": "We had something like this back in the training facility I was at when I joined. I think it's this one here..."
+ },
+ {
+  "k": "104",
+  "en": "one button press, beep boop sounds to show that machine is turning on"
+ },
+ {
+  "k": "105",
+  "en": "It's alive!"
+ },
+ {
+  "k": "106",
+  "en": "metal sounds to show the restraints fasten hard around jenna"
+ },
+ {
+  "k": "107",
+  "en": "Nnnnnnngh!"
+ },
+ {
+  "k": "108",
+  "en": "Moments after the machine powers on, a set of restraints quickly clasp around my arms and legs, locking me firmly into place."
+ },
+ {
+  "k": "109",
+  "en": "You okay there, Jenna?"
+ },
+ {
+  "k": "110",
+  "en": "Yeah, I'm fine...just caught me off guard how fast these things just...appeared!"
+ },
+ {
+  "k": "111",
+  "en": "fade to jenna on machine cg"
+ },
+ {
+  "k": "112",
+  "cena": "Machine 1_3",
+  "en": "show jenna on the machine cg, machine parts aren't doing anything to her yet\n\nNOTE we need a character preset for PAL3000, the ai managing the machine"
+ },
+ {
+  "k": "113",
+  "en": "So...you guys gonna get this started or what?"
+ },
+ {
+  "k": "114",
+  "en": "We're just making sure we'll end up pressing the right buttons here! We don't wanna click something that we don't mean to."
+ },
+ {
+  "k": "115",
+  "en": "Oooooh shiny! What this does?"
+ },
+ {
+  "k": "116",
+  "en": "No, Rida! Stay away from the console for now!"
+ },
+ {
+  "k": "117",
+  "en": "Armor man no fun..."
+ },
+ {
+  "k": "118",
+  "en": "I think this is it here. It's got settings as well; medium, high, then it's got something else behind a flip switch."
+ },
+ {
+  "k": "119",
+  "en": "I feel like we don't have to worry about that for now. Let's start off with medium, just so we don't end up giving more than she can handle to Jenna."
+ },
+ {
+  "k": "120",
+  "en": "Yeah, sure. Why not?"
+ },
+ {
+  "k": "121",
+  "en": "beep boop soudn showing activation of machine's sex settings"
+ },
+ {
+  "k": "122",
+  "en": "AI: Setting set to...Medium! Beginning stimulation!"
+ },
+ {
+  "k": "123",
+  "en": "crane arm with vibrator goes on jenna's pussy"
+ },
+ {
+  "k": "124",
+  "en": "<color=perversion>Ahhhhh....!</color>"
+ },
+ {
+  "k": "125",
+  "en": "Seems like its working!"
+ },
+ {
+  "k": "126",
+  "en": "So what do we do now?"
+ },
+ {
+  "k": "127",
+  "en": "What else? We sit back and enjoy the show!"
+ },
+ {
+  "k": "128",
+  "en": "<color=perversion>Mmmmmmmm! Ahhhhhhh! This feels good...!</color>"
+ },
+ {
+  "k": "129",
+  "en": "<i>(The machine continued to use the vibrator on me for a while longer until it had determined it was time to move on.)</i>"
+ },
+ {
+  "k": "130",
+  "en": "AI: Candidate responding to stimulation, raising output by 45%"
+ },
+ {
+  "k": "131",
+  "en": "vibrator vibes faster"
+ },
+ {
+  "k": "132",
+  "en": "<color=perversion>Haaaaah...! Oooooooh yessssss...!</color>"
+ },
+ {
+  "k": "133",
+  "en": "<color=perversion><i>(It automatically detected how aroused I was...! And started giving me more pleasure...! Haaaaah...! This thing is amazing...!)</i></color>"
+ },
+ {
+  "k": "134",
+  "en": "<color=perversion><i>(Ooooooooh fuck...! I want this thing to make me cum so fucking bad...!)</i></color>"
+ },
+ {
+  "k": "135",
+  "en": "What an immpressive piece of technology. I would've loved to have one of these to play around with."
+ },
+ {
+  "k": "136",
+  "en": "I think we all would."
+ },
+ {
+  "k": "137",
+  "en": "<color=perversion>Mmmmmmm! Ahhhhhh! Haaaah!</color>"
+ },
+ {
+  "k": "138",
+  "en": "<color=perversion><i>(More...! I need MORE...!)</i></color>"
+ },
+ {
+  "k": "139",
+  "en": "<color=perversion>Ahhhh....haaaah...! Jewel...!</color>"
+ },
+ {
+  "k": "140",
+  "en": "Well now, I sure do love hearing my name moaned out like that. What can I do for you, love?"
+ },
+ {
+  "k": "141",
+  "en": "<color=perversion>Give me more...! Haaaah! Raise the output...!</color>"
+ },
+ {
+  "k": "142",
+  "en": "You got it! Switching it to high now!"
+ },
+ {
+  "k": "143",
+  "en": "sound of button beıng pressed, then a sound of a negative response or a denial"
+ },
+ {
+  "k": "144",
+  "en": "AI: Request not processed. Subject must attain orgasm before switching to the 'high' output threshold."
+ },
+ {
+  "k": "145",
+  "en": "<color=perversion>Nnnnngh! What's taking so long...! Fuck this thing is edging me relentlessly...! I wanna cum!</color>"
+ },
+ {
+  "k": "146",
+  "en": "I don't know...! It says it won't let me switch until you've orgasmed once! Uhhh...!"
+ },
+ {
+  "k": "147",
+  "en": "I know! I'll just end it altogether and start you again on high this time! Hold up!"
+ },
+ {
+  "k": "148",
+  "en": "another button press, another negative response sound effect"
+ },
+ {
+  "k": "149",
+  "en": "AI: Request not processed. Subject must attain orgasm before terminating session. If you wish to forcefully terminate, please enter a Peitho User Account and Password with Clearance Level 2 or above."
+ },
+ {
+  "k": "150",
+  "en": "<color=perversion>Haaaaaah....! Ahhh...!</color>"
+ },
+ {
+  "k": "151",
+  "en": "<color=perversion><i>(They're taking too long...! I wanna cum now...!)</i></color>"
+ },
+ {
+  "k": "152",
+  "en": "<i>(I turned around and thankfully I can catch sight of Rida who's masturbating tin the corner.)</i>"
+ },
+ {
+  "k": "153",
+  "en": "Haaaaah...ahhhh..."
+ },
+ {
+  "k": "154",
+  "en": "<i>(The machine might not be enough to let me cum, but watching Rida like that...seeing how hopelessly horny my body is making her...!)</i>"
+ },
+ {
+  "k": "155",
+  "en": "<i>(Imagining all the things she'd do to me if she was on top of me right now...how deep she'd stick that girthy cock of hers inside me...!)</i>"
+ },
+ {
+  "k": "156",
+  "en": "<color=perversion>Huaaaaaaaaah...! Haaaaaaah! I'm gonna cum...! Ahhhh! I'm gonna cum...!</color>"
+ },
+ {
+  "k": "157",
+  "en": "Jenna starts squirting loop"
+ },
+ {
+  "k": "158",
+  "en": "<color=perversion>Ahhhhhhhhhhhhh...!</color>"
+ },
+ {
+  "k": "159",
+  "en": "<i>(Assisted by the visuals of Rida's own self pleasure, I climaxed as well, my body shaking and convulsing against the restraints with wild abandon as I squirted.)</i>"
+ },
+ {
+  "k": "160",
+  "en": "<color=perversion>Nnnnngh! Haaaaah!</color>"
+ },
+ {
+  "k": "161",
+  "en": "(fade to black)"
+ },
+ {
+  "k": "162",
+  "cena": "Machine 1_4",
+  "en": "black"
+ },
+ {
+  "k": "163",
+  "en": "The machine prolonged my orgasm to lengths I had rarely, if ever, experienced before. After a <i>very</i> long time...my orgasm was finally over, leaving my body trembling in it's hypersensitive state."
+ },
+ {
+  "k": "164",
+  "en": "AI: Orgasm registered, please input next desired action."
+ },
+ {
+  "k": "165",
+  "en": "Alright, I think we're calling it quits here."
+ },
+ {
+  "k": "166",
+  "en": "Yeah, I think so too...whew..."
+ },
+ {
+  "k": "167",
+  "en": "We should...set it higher...haaaah...next time..."
+ },
+ {
+  "k": "168",
+  "en": "We could always try it at a higher setting next time."
+ },
+ {
+  "k": "169",
+  "en": "Yeah, that would probably be for the best."
+ },
+ {
+  "k": "170",
+  "en": "fade back into overworld"
+ },
+ {
+  "k": "171",
+  "cena": "Machine 1_5",
+  "en": "Fade in to overworld"
+ },
+ {
+  "k": "172",
+  "en": "What a weird machine. It only lets you raise the setting after the person on it cums."
+ },
+ {
+  "k": "173",
+  "en": "It is supposed to be a sex <i>torture</i> device after all, I guess."
+ },
+ {
+  "k": "174",
+  "en": "We're the ones misusing it recreationally."
+ },
+ {
+  "k": "175",
+  "en": "Right! I almost forgot about that!"
+ },
+ {
+  "k": "176",
+  "en": "Ooooh boy, I would not wanna get caught on that thing if people were actually trying to edge me for torture."
+ },
+ {
+  "k": "177",
+  "en": "It is <i>scary</i> good at it's job!"
+ },
+ {
+  "k": "178",
+  "en": "Sure seemed like it."
+ },
+ {
+  "k": "179",
+  "en": "Which begs the question, how did you end up cumming in the end?"
+ },
+ {
+  "k": "180",
+  "en": "Uhhhh..."
+ },
+ {
+  "k": "181",
+  "en": "Hey guys, Rida clean mess at the back. Rida miss anything?"
+ },
+ {
+  "k": "182",
+  "en": "Uhhhh..."
+ },
+ {
+  "k": "183",
+  "en": "It just...kinda happened, you know! Thinking of happy thoughts and...yeah!"
+ },
+ {
+  "k": "184",
+  "en": "Riiiiiiight. Sure, Jen."
+ },
+ {
+  "k": "185",
+  "en": "You don't believe me?"
+ },
+ {
+  "k": "186",
+  "en": "No, I <i>totally</i> believe you. I'm just thinking of all the different things we could do with this machine from here on out. Imagine the endless possibilities."
+ },
+ {
+  "k": "187",
+  "en": "Well, that's something to look forward to whenever we find the time for it!"
+ },
+ {
+  "k": "188",
+  "en": "You can say that again."
+ },
+ {
+  "k": "189",
+  "en": "end scene"
+ },
+ {
+  "k": "190",
+  "cena": "Machine 2_1",
+  "en": "overworld"
+ },
+ {
+  "k": "191",
+  "en": "Alright, no more of that weak stuff this time around! Let's not be afraid of this damn thing!"
+ },
+ {
+  "k": "192",
+  "en": "You got it! We'll set it straight to high! Right away!"
+ },
+ {
+  "k": "193",
+  "en": "I just know this is gonna backfire on us one day."
+ },
+ {
+  "k": "194",
+  "en": "Come on! You saw how it could barely make her cum with the previous setting! We gotta raise it!"
+ },
+ {
+  "k": "195",
+  "en": "I don't think the backfire is gonna be this time. But down the line, it's coming."
+ },
+ {
+  "k": "196",
+  "en": "fade to black"
+ },
+ {
+  "k": "197",
+  "cena": "Machine 2_2",
+  "en": "black"
+ },
+ {
+  "k": "198",
+  "en": "<i>(Throb always was a bit of a stickler for safety. Perhaps a bit too much. But since we're all here, I feel like I have nothin to worry about.)</i>"
+ },
+ {
+  "k": "199",
+  "en": "Now...if I remember correctly it was..."
+ },
+ {
+  "k": "200",
+  "en": "This one!"
+ },
+ {
+  "k": "201",
+  "en": "button press sound, followed by beeps and boops, then the sound of the machine restraining jenna"
+ },
+ {
+  "k": "202",
+  "en": "There it is!"
+ },
+ {
+  "k": "203",
+  "en": "fade in to jenna on mmachine cg"
+ }
+]

@@ -1,0 +1,1430 @@
+[
+ {
+  "k": "1",
+  "cena": "ThrobMission_Night1_1",
+  "quem": "Throb (M)",
+  "en": "... So... I never caught your name..."
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "My name?"
+ },
+ {
+  "k": "3",
+  "quem": "Throb (M)",
+  "en": "Yeah, what's your name?"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "<i>(Should I tell him?)</i>"
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "<i>(It's not like he'd recognize my name anyways... Just as long as I don't call myself Vibe... Should be easy.)</i>"
+ },
+ {
+  "k": "6",
+  "quem": "Throb (M)",
+  "en": "Well? Did you forget it?"
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "It's uh... Jenna."
+ },
+ {
+  "k": "8",
+  "quem": "Throb (M)",
+  "en": "Jenna. Well... That's a good name."
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "Thanks... Throb is a good name too."
+ },
+ {
+  "k": "10",
+  "quem": "Throb (M)",
+  "en": "You're a little biased in thinking that, aren't you?"
+ },
+ {
+  "k": "11",
+  "quem": "Jenna (F)",
+  "en": "Guess so. I hear I'm really good at giving nicknames!"
+ },
+ {
+  "k": "12",
+  "quem": "Throb (M)",
+  "en": "I guess it is a little flattering..."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "Yeah! You should be honored!"
+ },
+ {
+  "k": "14",
+  "quem": "Throb (M)",
+  "en": "Heh... Thanks."
+ },
+ {
+  "k": "15",
+  "cena": "ThrobMission_Night1_2",
+  "quem": "Jenna (F)",
+  "en": "So... Is it really just a bunch of alone time?"
+ },
+ {
+  "k": "16",
+  "quem": "Throb (M)",
+  "en": "Huh?"
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "The patrol. Is it really just a bunch of standing around like this?"
+ },
+ {
+  "k": "18",
+  "quem": "Throb (M)",
+  "en": "Usually. Sometimes things do happen though."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "Hm... Must be a pretty nice job."
+ },
+ {
+  "k": "20",
+  "quem": "Throb (M)",
+  "en": "Well... It has its positives, yeah."
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "Positives being what you get to do when you catch someone?"
+ },
+ {
+  "k": "22",
+  "quem": "Throb (M)",
+  "en": "Heh... I guess..."
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "You guess? You seemed pretty happy about it with me at the townhall."
+ },
+ {
+  "k": "24",
+  "quem": "Throb (M)",
+  "en": "I didn't notice your badge. I'm sorry."
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "Just sorry because of the badge?"
+ },
+ {
+  "k": "26",
+  "quem": "Throb (M)",
+  "en": "No... Not just because of the badge."
+ },
+ {
+  "k": "27",
+  "quem": "Jenna (F)",
+  "en": "Uh huh..."
+ },
+ {
+  "k": "28",
+  "cena": "ThrobMission_Night1_3",
+  "quem": "Jenna (F)",
+  "en": "So uh... Why did you become a guard, bud?"
+ },
+ {
+  "k": "29",
+  "quem": "Throb (M)",
+  "en": "Why? Well... Just mainly to have a better life. For me and the people I care about."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "You? Have people you care about?"
+ },
+ {
+  "k": "31",
+  "quem": "Throb (M)",
+  "en": "Yeah. It's almost like I care about something other than sex. Most of us do."
+ },
+ {
+  "k": "32",
+  "quem": "Throb (M)",
+  "en": "Ever since everyone was split up into these towns, sex has been sort of like eating. You have to partake if you want to stay sane..."
+ },
+ {
+  "k": "33",
+  "quem": "Throb (M)",
+  "en": "Even if it revolts your mind... Your body craves it..."
+ },
+ {
+  "k": "34",
+  "quem": "Throb (M)",
+  "en": "Haven't you felt that?"
+ },
+ {
+  "k": "35",
+  "tipo": "escolha",
+  "en": "<color=#C800FF>Admit it.</color>"
+ },
+ {
+  "k": "36",
+  "tipo": "escolha",
+  "en": "Deny it."
+ },
+ {
+  "k": "37",
+  "quem": "Jenna (F)",
+  "en": "Yeah... Recently I have... You describe it pretty well..."
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "No! I haven't felt that! That just sounds like a pretty lame excuse to fuck whoever you want!"
+ },
+ {
+  "k": "39",
+  "quem": "Throb (M)",
+  "en": "You really do sound new. I just assumed that you came in from another town like everyone else."
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "U-Uh! Yeah, I did!"
+ },
+ {
+  "k": "41",
+  "quem": "Throb (M)",
+  "en": "Mhm... Sure."
+ },
+ {
+  "k": "42",
+  "cena": "ThrobMission_Night1_4",
+  "quem": "Throb (M)",
+  "en": "Well, that's it. Our shift is over."
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "That's it? Really? You'd think there'd be more action or... something."
+ },
+ {
+  "k": "44",
+  "quem": "Throb (M)",
+  "en": "Well tonight was a calm night apparently. So I'll see you tomorrow night?"
+ },
+ {
+  "k": "45",
+  "quem": "Jenna (F)",
+  "en": "Yeah, yeah. Just don't hold your breath."
+ },
+ {
+  "k": "46",
+  "quem": "Throb (M)",
+  "en": "Why would I hold my breath? I need oxygen!"
+ },
+ {
+  "k": "47",
+  "quem": "Jenna (F)",
+  "en": "It's just a metaph- Alright. I'll see you tomorrow night."
+ },
+ {
+  "k": "48",
+  "quem": "Throb (M)",
+  "en": "See ya then, Jenna!"
+ },
+ {
+  "k": "49",
+  "cena": "ThrobMission_Night1_Intro",
+  "quem": "Throb (M)",
+  "en": "Hey! You came!"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Yup, not even sure why."
+ },
+ {
+  "k": "51",
+  "quem": "Throb (M)",
+  "en": "I get it. I promise that nothing bad will happen."
+ },
+ {
+  "k": "52",
+  "quem": "Jenna (F)",
+  "en": "Well that's foreshadowing if I ever heard it. So what do we have to do?"
+ },
+ {
+  "k": "53",
+  "quem": "Throb (M)",
+  "en": "Mainly just walk around and make sure no one's out here with us. That's about it."
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "Well that seems simple enough!"
+ },
+ {
+  "k": "55",
+  "quem": "Throb (M)",
+  "en": "Yeah! So are you ready to get to it?"
+ },
+ {
+  "k": "56",
+  "tipo": "escolha",
+  "en": "Start the Patrol."
+ },
+ {
+  "k": "57",
+  "tipo": "escolha",
+  "en": "Wait for now."
+ },
+ {
+  "k": "58",
+  "cena": "ThrobMission_Night1_Intro_Negative",
+  "quem": "Jenna (F)",
+  "en": "Not quite yet!"
+ },
+ {
+  "k": "59",
+  "cena": "ThrobMission_Night1_Intro_Positive",
+  "quem": "Jenna (F)",
+  "en": "Well I came, didn't I?"
+ },
+ {
+  "k": "60",
+  "quem": "Throb (M)",
+  "en": "I'll take that as a yes. Let's get going then."
+ },
+ {
+  "k": "61",
+  "cena": "ThrobMission_Night2_1",
+  "quem": "Throb (M)",
+  "en": "Soo..."
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "What?"
+ },
+ {
+  "k": "63",
+  "quem": "Throb (M)",
+  "en": "So... What town did you come from before Carceburg?"
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "U-Uhh..."
+ },
+ {
+  "k": "65",
+  "quem": "Throb (M)",
+  "en": "Outen? Or perhaps New Groundston?"
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "I... Forget the... name of it?"
+ },
+ {
+  "k": "67",
+  "quem": "Throb (M)",
+  "en": "Really? So you move around a bunch?"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "Uhm... Sorta."
+ },
+ {
+  "k": "69",
+  "quem": "Throb (M)",
+  "en": "I see..."
+ },
+ {
+  "k": "70",
+  "cena": "ThrobMission_Night2_2",
+  "quem": "Throb (M)",
+  "en": "Do you... have any family?"
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "What is this, an interrogation or something?"
+ },
+ {
+  "k": "72",
+  "quem": "Throb (M)",
+  "en": "I'm just curious. Sorry."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "Eh... It's fine, I guess."
+ },
+ {
+  "k": "74",
+  "cena": "ThrobMission_Night2_3",
+  "quem": "Throb (M)",
+  "en": "Shit. Don't look now."
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "Huh? What is it?"
+ },
+ {
+  "k": "76",
+  "quem": "Throb (M)",
+  "en": "There's another pair of guards over there."
+ },
+ {
+  "k": "77",
+  "cena": "ThrobMission_Night2_4",
+  "quem": "Throb (M)",
+  "en": "I said don't look!"
+ },
+ {
+  "k": "78",
+  "cena": "ThrobMission_Night2_5",
+  "quem": "Jenna (F)",
+  "en": "Okay? So? We're guards too right?"
+ },
+ {
+  "k": "79",
+  "quem": "Throb (M)",
+  "en": "Yeah, but... They're dicks."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "You're all dicks!"
+ },
+ {
+  "k": "81",
+  "quem": "Throb (M)",
+  "en": "I... I guess so... You're right."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "So what's the big issue?"
+ },
+ {
+  "k": "83",
+  "quem": "Throb (M)",
+  "en": "Nothing, don't worry about it. Just act like you know what you're doing."
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "I <b>do</b> know what I'm doing!"
+ },
+ {
+  "k": "85",
+  "cena": "ThrobMission_Night2_6",
+  "quem": "Throb (M)",
+  "en": "Shit..."
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "What now?"
+ },
+ {
+  "k": "87",
+  "quem": "Throb (M)",
+  "en": "There's a... There's a woman over there."
+ },
+ {
+  "k": "88",
+  "cena": "ThrobMission_Night2_7",
+  "quem": "Jenna (F)",
+  "en": "So what? Just let her go."
+ },
+ {
+  "k": "89",
+  "quem": "Throb (M)",
+  "en": "I... I can't."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "Why the hell not? You can't just have some self-control?"
+ },
+ {
+  "k": "91",
+  "cena": "ThrobMission_Night2_8",
+  "quem": "Jenna (F)",
+  "en": "Hey! Leave her be!"
+ },
+ {
+  "k": "92",
+  "quem": "Woman (F)",
+  "en": "Pleease! I'm just a little late! I neeed to get home!"
+ },
+ {
+  "k": "93",
+  "quem": "Throb (M)",
+  "en": "It's way past a little late. It's the middle of the night..."
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "Just let her go!"
+ },
+ {
+  "k": "95",
+  "quem": "Throb (M)",
+  "en": "We can't! Not while the others are watching!"
+ },
+ {
+  "k": "96",
+  "quem": "Woman (F)",
+  "en": "Oh noo! I need to get back to my owner! Pleease don't do anything to mee!"
+ },
+ {
+  "k": "97",
+  "quem": "Narrador",
+  "en": "<i>Throb turns to me, whispering in a hushed tone.</i>"
+ },
+ {
+  "k": "98",
+  "quem": "Throb (M)",
+  "en": "Look. We can just pretend, okay?"
+ },
+ {
+  "k": "99",
+  "tipo": "escolha",
+  "en": "<color=#C800FF>Pretend to punish her.</color>"
+ },
+ {
+  "k": "100",
+  "tipo": "escolha",
+  "en": "Force him to let her go."
+ },
+ {
+  "k": "101",
+  "cena": "ThrobMission_Night2_8_ForceLetGo",
+  "quem": "Jenna (F)",
+  "en": "Throb! Let her go!"
+ },
+ {
+  "k": "102",
+  "quem": "Narrador",
+  "en": "<i>I smack his hand away from her, letting her free from his grasp.</i>"
+ },
+ {
+  "k": "103",
+  "quem": "Throb (M)",
+  "en": "Ow!"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "Go home, ma'am."
+ },
+ {
+  "k": "105",
+  "quem": "Woman (F)",
+  "en": "Really...? That's it?"
+ },
+ {
+  "k": "106",
+  "quem": "Narrador",
+  "en": "<i>She grumbles lightly and wanders off home while Throb rubs his hand.</i>"
+ },
+ {
+  "k": "107",
+  "quem": "Throb (M)",
+  "en": "Jesus, that hurt!"
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "Whatever, bud."
+ },
+ {
+  "k": "109",
+  "quem": "Throb (M)",
+  "en": "I hope the others didn't see that..."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "You'll be fine. Quit worrying about yourself."
+ },
+ {
+  "k": "111",
+  "quem": "Throb (M)",
+  "en": "I sure hope so..."
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Have some compassion, it's not all about you!"
+ },
+ {
+  "k": "113",
+  "quem": "Throb (M)",
+  "en": "I'm... I'm not just thinking about myself."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "The hell is that supposed to mean?"
+ },
+ {
+  "k": "115",
+  "quem": "Throb (M)",
+  "en": "Let's just... continue our patrol..."
+ },
+ {
+  "k": "116",
+  "cena": "ThrobMission_Night2_8_Pretend",
+  "quem": "Jenna (F)",
+  "en": "Alright... Fine. Just... make it quick."
+ },
+ {
+  "k": "117",
+  "quem": "Narrador",
+  "en": "<i>He nods lightly and presses the girl down, making her groan out softly as she's forced to kneel in front of him.</i>"
+ },
+ {
+  "k": "118",
+  "quem": "Woman (F)",
+  "en": "Oooh nooo~! Please don't~!"
+ },
+ {
+  "k": "119",
+  "quem": "Throb (M)",
+  "en": "You... You've violated curfew... So now we're going to violate you..."
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "That corny line violated my brain."
+ },
+ {
+  "k": "121",
+  "quem": "Throb (M)",
+  "en": "Shh!"
+ },
+ {
+  "k": "122",
+  "quem": "Narrador",
+  "en": "<i>Throb tugs his crotch plate aside, letting his huge cock free and flopping it onto her backside. The girl lets out an aroused gasp as soon as the dick touches her, squirming her ass lightly.</i>"
+ },
+ {
+  "k": "123",
+  "quem": "Woman (F)",
+  "en": "O-Ooh~ So big~!"
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "Sheesh..."
+ },
+ {
+  "k": "125",
+  "quem": "Woman (F)",
+  "en": "Shh!"
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "Fine, fine..."
+ },
+ {
+  "k": "127",
+  "quem": "Narrador",
+  "en": "<i>He starts to hesitantly rub himself up and down between her ass cheeks, his shaft starting to harden and tense up.</i>"
+ },
+ {
+  "k": "128",
+  "quem": "Woman (F)",
+  "en": "Ooh~ Whatever you do, pleeeease don't put it in~"
+ },
+ {
+  "k": "129",
+  "quem": "Throb (M)",
+  "en": "Erm... alright."
+ },
+ {
+  "k": "130",
+  "quem": "Narrador",
+  "en": "<i>She starts to moan out a little too enthusiastically, pressing her ass back against his cock as he just keeps grinding himself between her ass cheeks.</i>"
+ },
+ {
+  "k": "131",
+  "quem": "Throb (M)",
+  "en": "Are they... still watching?"
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "What?"
+ },
+ {
+  "k": "133",
+  "quem": "Throb (M)",
+  "en": "The others!"
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "OH! Uhh... Yep."
+ },
+ {
+  "k": "135",
+  "quem": "Narrador",
+  "en": "<i>I glance over at the other guards, seeing them still watch the three of us intently. My gaze is soon drawn back to the girl's ass, watching the two of them grind together.</i>"
+ },
+ {
+  "k": "136",
+  "quem": "Throb (M)",
+  "en": "E-Erm... Alright. I'm uh... finished with you. Slut."
+ },
+ {
+  "k": "137",
+  "quem": "Woman (F)",
+  "en": "Really...? That's it?"
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "Just... Go home, ma'am."
+ },
+ {
+  "k": "139",
+  "quem": "Woman (F)",
+  "en": "Go home? B-But you're supposed to... take me to prison!"
+ },
+ {
+  "k": "140",
+  "quem": "Throb (M)",
+  "en": "We're done with you... Go."
+ },
+ {
+  "k": "141",
+  "quem": "Narrador",
+  "en": "<i>She grumbles lightly and wanders off while Throb awkwardly puts his cock away.</i>"
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "What was that all about?"
+ },
+ {
+  "k": "143",
+  "quem": "Throb (M)",
+  "en": "I don't want to talk about it..."
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "Do you have problems getting it up or something?"
+ },
+ {
+  "k": "145",
+  "quem": "Throb (M)",
+  "en": "No. I... Maybe..?"
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "Well that's rich, should I call you Limpy now?"
+ },
+ {
+  "k": "147",
+  "quem": "Throb (M)",
+  "en": "I hope the others didn't see that..."
+ },
+ {
+  "k": "148",
+  "quem": "Jenna (F)",
+  "en": "You'll be fine. Quit worrying about yourself."
+ },
+ {
+  "k": "149",
+  "quem": "Throb (M)",
+  "en": "I sure hope so..."
+ },
+ {
+  "k": "150",
+  "quem": "Jenna (F)",
+  "en": "Have some compassion, it's not all about you!"
+ },
+ {
+  "k": "151",
+  "quem": "Throb (M)",
+  "en": "I'm... I'm not just thinking about myself."
+ },
+ {
+  "k": "152",
+  "quem": "Jenna (F)",
+  "en": "The hell is that supposed to mean?"
+ },
+ {
+  "k": "153",
+  "quem": "Throb (M)",
+  "en": "Let's just... continue our patrol..."
+ },
+ {
+  "k": "154",
+  "cena": "ThrobMission_Night3_1",
+  "quem": "Throb (M)",
+  "en": "So uh..."
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "What?"
+ },
+ {
+  "k": "156",
+  "quem": "Throb (M)",
+  "en": "You didn't answer my question yesterday."
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "Surprised you remembered that after trying to bang that chick."
+ },
+ {
+  "k": "158",
+  "quem": "Throb (M)",
+  "en": "I didn't- I had to, okay? The others were watching."
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "Whatever you say, bud. You have all the power. You've got a choice."
+ },
+ {
+  "k": "160",
+  "quem": "Throb (M)",
+  "en": "It may seem like that, but in this place, it always leads to the same result..."
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "What's that supposed to mean?"
+ },
+ {
+  "k": "162",
+  "quem": "Throb (M)",
+  "en": "Means I have no power. Not as long as there are others looking to uphold the status quo."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "Then why do you still do this?"
+ },
+ {
+  "k": "164",
+  "quem": "Throb (M)",
+  "en": "Like I said before. For a relatively better life."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "Relatively?"
+ },
+ {
+  "k": "166",
+  "quem": "Throb (M)",
+  "en": "Relatively. It's still like a prison here."
+ },
+ {
+  "k": "167",
+  "cena": "ThrobMission_Night3_2",
+  "quem": "Jenna (F)",
+  "en": "Uhm... You said you had family. Are they here too?"
+ },
+ {
+  "k": "168",
+  "quem": "Throb (M)",
+  "en": "Yeah... Yeah, I-"
+ },
+ {
+  "k": "169",
+  "quem": "Woman (F)",
+  "en": "Heeeelp! Oh guards! Help!"
+ },
+ {
+  "k": "170",
+  "cena": "ThrobMission_Night3_3",
+  "quem": "Throb (M)",
+  "en": "Uh... What?"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "She needs help! Let's go, bud!"
+ },
+ {
+  "k": "172",
+  "quem": "Throb (M)",
+  "en": "Wait!"
+ },
+ {
+  "k": "173",
+  "cena": "ThrobMission_Night3_Combat_CombatStarts",
+  "quem": "Throb (M)",
+  "en": "Alright- uhhh! Quick note! Our suits have a booster on them, lets us zoom forward in a straight line. We can use it to get out of here."
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Get out of here? To hell with that, we're using that to our advantage. I've got experience with something like it. Watch this."
+ },
+ {
+  "k": "175",
+  "cena": "ThrobMission_Night3_Combat_Defeat",
+  "quem": "Jenna (F)",
+  "en": "Agh!"
+ },
+ {
+  "k": "176",
+  "quem": "Narrador",
+  "en": "<i>I sink to my knees, gasping out in pain.</i>"
+ },
+ {
+  "k": "177",
+  "quem": "Throb (M)",
+  "en": "Jen! H-Hold on!"
+ },
+ {
+  "k": "178",
+  "quem": "Narrador",
+  "en": "<i>Suddenly I hear the sound of a suit booster closing in on me. I only have a few seconds to realize what's happening before-</i>"
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "OOF!"
+ },
+ {
+  "k": "180",
+  "quem": "Narrador",
+  "en": "<i>The wind gets knocked out of me as Throb tackles me with his booster, dragging me past all the Lumber Rats and picking me up in his arms.</i>"
+ },
+ {
+  "k": "181",
+  "quem": "Throb (M)",
+  "en": "We're getting out of here, I've got you!"
+ },
+ {
+  "k": "182",
+  "quem": "Narrador",
+  "en": "<i>It's hard to figure out what's happening from my dazed view... maybe it'll be better to just close my eyes and... rest...</i>"
+ },
+ {
+  "k": "183",
+  "cena": "ThrobMission_Night3_Combat_Defeat2",
+  "quem": "Throb (M)",
+  "en": "Jen...? Are you alright?"
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "I... Yeah... Yeah, I'm fine."
+ },
+ {
+  "k": "185",
+  "quem": "Throb (M)",
+  "en": "We're fine. I got us out of there. They won't follow us into this part of town."
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "I... Thanks..."
+ },
+ {
+  "k": "187",
+  "quem": "Throb (M)",
+  "en": "They won't get to you on my watch, partner."
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "Heh... You sound like a cowboy."
+ },
+ {
+  "k": "189",
+  "quem": "Throb (M)",
+  "en": "Yeehaw! Well your jokes are still there, so I guess that means you're fine."
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "Yeah... I'm alright."
+ },
+ {
+  "k": "191",
+  "quem": "Throb (M)",
+  "en": "Thank god. I was worried."
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "No need to worry, I've been through a lot more than that."
+ },
+ {
+  "k": "193",
+  "quem": "Throb (M)",
+  "en": "You do seem like a real fighter."
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "Thanks... uh... What's your name? Your real one?"
+ },
+ {
+  "k": "195",
+  "quem": "Throb (M)",
+  "en": "Stefan."
+ },
+ {
+  "k": "196",
+  "quem": "Jenna (F)",
+  "en": "Well... nice to meet you, Stefan."
+ },
+ {
+  "k": "197",
+  "quem": "Throb (M)",
+  "en": "Likewise, Jen."
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "Heh..."
+ },
+ {
+  "k": "199",
+  "quem": "Throb (M)",
+  "en": "Alright. Get home and get some rest. I'll see you later, alright?"
+ },
+ {
+  "k": "200",
+  "quem": "Jenna (F)",
+  "en": "Yeah... Yeah..."
+ },
+ {
+  "k": "201",
+  "quem": "Throb (M)",
+  "en": "Want me to walk you home?"
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "Bye!"
+ },
+ {
+  "k": "203",
+  "quem": "Throb (M)",
+  "en": "Heheh."
+ },
+ {
+  "k": "204",
+  "cena": "ThrobMission_Night3_Combat_Intro",
+  "quem": "Throb (M)",
+  "en": "Jen! Wait up!"
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "What? Ya can't keep up, Throb?"
+ },
+ {
+  "k": "206",
+  "quem": "Throb (M)",
+  "en": "That's probably the most I've ran in a month..."
+ },
+ {
+  "k": "207",
+  "quem": "Jenna (F)",
+  "en": "Gotta get your exercise somehow, now we just need to get you your veggies."
+ },
+ {
+  "k": "208",
+  "quem": "Throb (M)",
+  "en": "Hah hah. Where did the girl go?"
+ },
+ {
+  "k": "209",
+  "cena": "ThrobMission_Night3_Combat_Intro1",
+  "quem": "Jenna (F)",
+  "en": "Uhh... No clue. She just sorta... disappeared..."
+ },
+ {
+  "k": "210",
+  "quem": "Throb (M)",
+  "en": "So <b>you</b> couldn't keep up either!"
+ },
+ {
+  "k": "211",
+  "quem": "Jenna (F)",
+  "en": "Oh shut it!"
+ },
+ {
+  "k": "212",
+  "quem": "Throb (M)",
+  "en": "Well... Looks like that girl is gone then, let's get out of here."
+ },
+ {
+  "k": "213",
+  "quem": "Jenna (F)",
+  "en": "What's the matter? Are you scared or something?"
+ },
+ {
+  "k": "214",
+  "quem": "Throb (M)",
+  "en": "No... Well... maybe a little... This is part of the slums. We don't want to be around here on our own."
+ },
+ {
+  "k": "215",
+  "quem": "Jenna (F)",
+  "en": "Scaredy cat!"
+ },
+ {
+  "k": "216",
+  "quem": "Throb (M)",
+  "en": "... Let's just get going."
+ },
+ {
+  "k": "217",
+  "quem": "Jenna (F)",
+  "en": "Sure thing, wuss!"
+ },
+ {
+  "k": "218",
+  "cena": "ThrobMission_Night3_Combat_Intro2",
+  "quem": "Rat Grunt (M)",
+  "en": "Ahah! They done tak'n the bait, boyos!"
+ },
+ {
+  "k": "219",
+  "cena": "ThrobMission_Night3_Combat_Intro3",
+  "quem": "Rat Healslut (F)",
+  "en": "Yeeee haw, boys! Let's get that big hunk and his little pussy in a can!"
+ },
+ {
+  "k": "220",
+  "quem": "Jenna (F)",
+  "en": "... Pussy in a can...?"
+ },
+ {
+  "k": "221",
+  "quem": "Throb (M)",
+  "en": "She means you."
+ },
+ {
+  "k": "222",
+  "quem": "Jenna (F)",
+  "en": "YEAH, I got that part, thanks!"
+ },
+ {
+  "k": "223",
+  "cena": "ThrobMission_Night3_Combat_Intro4",
+  "quem": "Throb (M)",
+  "en": "Shit... We can't run."
+ },
+ {
+  "k": "224",
+  "quem": "Jenna (F)",
+  "en": "Run? We've got the gear! Let's take them on!"
+ },
+ {
+  "k": "225",
+  "quem": "Throb (M)",
+  "en": "U-Uh... Yeah! Let's do it!"
+ },
+ {
+  "k": "226",
+  "quem": "Rat Grunt (M)",
+  "en": "Y'can't take all us on wit our gurls keeping our cocks nice n' happy!"
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "We'll see. Bring it on!"
+ },
+ {
+  "k": "228",
+  "cena": "ThrobMission_Night3_Combat_JennaDoesntHitEnemy",
+  "en": "Ouch! Eehh..."
+ },
+ {
+  "k": "229",
+  "en": "Uhh... Did you mean to do that?"
+ },
+ {
+  "k": "230",
+  "en": "O-Of course I did!"
+ },
+ {
+  "k": "231",
+  "en": "Ahahah! Look a' th' dumb pussycan!"
+ },
+ {
+  "k": "232",
+  "en": "Ugh... Pot's calling the kettle black over there..."
+ },
+ {
+  "k": "233",
+  "en": "Huh?!"
+ },
+ {
+  "k": "234",
+  "en": "Exactly."
+ },
+ {
+  "k": "235",
+  "cena": "ThrobMission_Night3_Combat_JennaHitsEnemy",
+  "en": "Woooo! See that?"
+ },
+ {
+  "k": "236",
+  "en": "Damn, that was nice!"
+ },
+ {
+  "k": "237",
+  "en": "Agh! Ye'll pay fer that, pussycan!"
+ },
+ {
+  "k": "238",
+  "en": "You messed with the wrong 'pussycan', buddy."
+ },
+ {
+  "k": "239",
+  "cena": "ThrobMission_Night3_Combat_Victory",
+  "quem": "Jenna (F)",
+  "en": "Aha! Take that!"
+ },
+ {
+  "k": "240",
+  "quem": "Throb (M)",
+  "en": "Wow! I can't believe we took them all on!"
+ },
+ {
+  "k": "241",
+  "quem": "Jenna (F)",
+  "en": "Of course we did! That's what you came to me for, eh?"
+ },
+ {
+  "k": "242",
+  "quem": "Throb (M)",
+  "en": "Looks like you're even more of a fighter than I thought."
+ },
+ {
+  "k": "243",
+  "quem": "Jenna (F)",
+  "en": "Everyone seems to always be surprised by that."
+ },
+ {
+  "k": "244",
+  "quem": "Throb (M)",
+  "en": "Well... It's time to gather these people up and take 'em to the jail."
+ },
+ {
+  "k": "245",
+  "quem": "Jenna (F)",
+  "en": "Sounds good!"
+ },
+ {
+  "k": "246",
+  "cena": "ThrobMission_Night3_Prison",
+  "quem": "Throb (M)",
+  "en": "Alright. That's the last of 'em!"
+ },
+ {
+  "k": "247",
+  "quem": "Jenna (F)",
+  "en": "Nice job!"
+ },
+ {
+  "k": "248",
+  "quem": "Throb (M)",
+  "en": "Thanks! Although you did most of the work in that fight, I just sort of followed your lead!"
+ },
+ {
+  "k": "249",
+  "quem": "Jenna (F)",
+  "en": "So did we make the streets safer tonight?"
+ },
+ {
+  "k": "250",
+  "quem": "Throb (M)",
+  "en": "Uhm... Not really. The Lumber Rats are a pretty ruthless gang. They've been going after innocent people for the longest time, but trying to ambush guards seems to be a new thing..."
+ },
+ {
+  "k": "251",
+  "quem": "Jenna (F)",
+  "en": "... So how many more of them are there?"
+ },
+ {
+  "k": "252",
+  "quem": "Throb (M)",
+  "en": "There are a lot of them. They're just like their name, and we can't just get rid of them all. Mayor wants as many people working lumber as he can get."
+ },
+ {
+  "k": "253",
+  "quem": "Jenna (F)",
+  "en": "So... They're just allowed to go?"
+ },
+ {
+  "k": "254",
+  "quem": "Throb (M)",
+  "en": "After a day or so of 'punishment', yeah."
+ },
+ {
+  "k": "255",
+  "quem": "Jenna (F)",
+  "en": "But... why?"
+ },
+ {
+  "k": "256",
+  "quem": "Throb (M)",
+  "en": "Like I said, Jen. We have no power."
+ },
+ {
+  "k": "257",
+  "quem": "Jenna (F)",
+  "en": "Well... We still did a good job tonight."
+ },
+ {
+  "k": "258",
+  "quem": "Throb (M)",
+  "en": "Yeah, nice job... partner."
+ },
+ {
+  "k": "259",
+  "quem": "Jenna (F)",
+  "en": "Hey now, come on. This is like the third date. Can't be throwing that word around."
+ },
+ {
+  "k": "260",
+  "quem": "Throb (M)",
+  "en": "Sorry."
+ },
+ {
+  "k": "261",
+  "quem": "Jenna (F)",
+  "en": "No worries... uh... What's your name?"
+ },
+ {
+  "k": "262",
+  "quem": "Throb (M)",
+  "en": "Stefan."
+ },
+ {
+  "k": "263",
+  "quem": "Jenna (F)",
+  "en": "Well... nice to meet you, Stefan."
+ },
+ {
+  "k": "264",
+  "quem": "Throb (M)",
+  "en": "Likewise, Jen."
+ },
+ {
+  "k": "265",
+  "quem": "Jenna (F)",
+  "en": "Heh..."
+ },
+ {
+  "k": "266",
+  "quem": "Throb (M)",
+  "en": "I'm gonna uh... go now. See ya later, partner."
+ },
+ {
+  "k": "267",
+  "quem": "Jenna (F)",
+  "en": "You sound like a damn cowboy!"
+ },
+ {
+  "k": "268",
+  "quem": "Throb (M)",
+  "en": "Hahaha, yeehaw!"
+ },
+ {
+  "k": "269",
+  "cena": "ThrobMission_Night4_1",
+  "quem": "Jenna (F)",
+  "en": "Soo uh..."
+ },
+ {
+  "k": "270",
+  "quem": "Throb (M)",
+  "en": "We seem to always start our conversations with that."
+ },
+ {
+  "k": "271",
+  "quem": "Jenna (F)",
+  "en": "Hehe! Uhm... I was just curious. We kinda got interrupted when I asked you about your family."
+ },
+ {
+  "k": "272",
+  "quem": "Throb (M)",
+  "en": "My family? Yeah... I uh... I have a brother."
+ },
+ {
+  "k": "273",
+  "quem": "Jenna (F)",
+  "en": "Yeah? What's his name?"
+ },
+ {
+  "k": "274",
+  "quem": "Throb (M)",
+  "en": "Luther."
+ },
+ {
+  "k": "275",
+  "quem": "Jenna (F)",
+  "en": "That's a nice name!"
+ },
+ {
+  "k": "276",
+  "quem": "Throb (M)",
+  "en": "Yeah... He's a good kid."
+ },
+ {
+  "k": "277",
+  "quem": "Jenna (F)",
+  "en": "Kid? How old is he?"
+ },
+ {
+  "k": "278",
+  "quem": "Throb (M)",
+  "en": "He's 22."
+ },
+ {
+  "k": "279",
+  "quem": "Jenna (F)",
+  "en": "Are you the big brother?"
+ },
+ {
+  "k": "280",
+  "quem": "Throb (M)",
+  "en": "Yeah... Yeah, I am. He's my little bro."
+ },
+ {
+  "k": "281",
+  "cena": "ThrobMission_Night4_2",
+  "quem": "Guard (M)",
+  "en": "Hey! You two!"
+ }
+]

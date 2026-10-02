@@ -1,0 +1,1007 @@
+[
+ {
+  "k": "1",
+  "cena": "GoodEnding Wildfire",
+  "quem": "Jenna (F)",
+  "en": "Hey, have you seen someone tall, red, and gorgeous around here somewhere?"
+ },
+ {
+  "k": "2",
+  "quem": "Karen (F)",
+  "en": "Smooth."
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "Hey, you didn't threaten to punch me. That's a win in my book."
+ },
+ {
+  "k": "4",
+  "quem": "Karen (F)",
+  "en": "Heh. Speaking of punching, I had a run-in with 'Lady' again."
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "What happened this time? You didn't..."
+ },
+ {
+  "k": "6",
+  "quem": "Karen (F)",
+  "en": "No, I didn't punch her."
+ },
+ {
+  "k": "7",
+  "quem": "Karen (F)",
+  "en": "But I wanted to."
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "Hey, that's a ton of progress!"
+ },
+ {
+  "k": "9",
+  "quem": "Karen (F)",
+  "en": "I guess."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Oh-! Have you put any more thought into a wardrobe change? Maybe a cool jacket or something to keep warm?"
+ },
+ {
+  "k": "11",
+  "quem": "Karen (F)",
+  "en": "Have you?-"
+ },
+ {
+  "k": "12",
+  "quem": "Karen (F)",
+  "en": "Ugh- Sorry."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "Well, maybe the vibrosuit. Don't need that anymore, right? Haven't heard a peep from my powers since the tower."
+ },
+ {
+  "k": "14",
+  "quem": "Karen (F)",
+  "en": "What about the jacket?"
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Never getting rid of it. You made it for me, remember?"
+ },
+ {
+  "k": "16",
+  "quem": "Karen (F)",
+  "en": "Yeah- I remember."
+ },
+ {
+  "k": "17",
+  "quem": "Karen (F)",
+  "en": "You really never gave up on me after all that time. Even when I was..."
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "Hey, it wasn't your fault. I'd never give up on you."
+ },
+ {
+  "k": "19",
+  "quem": "Karen (F)",
+  "en": "I- Thank you..."
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "You're welcome."
+ },
+ {
+  "k": "21",
+  "cena": "GoodEnding-Chronal-0-Start",
+  "quem": "Jenna (F)",
+  "en": "NO! KAREN! THIS CAN'T BE HAPPENING!"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "~ FIGHT FOR TOMORROW! ~"
+ },
+ {
+  "k": "23",
+  "cena": "GoodEnding-Chronal-1-ToCarceburg",
+  "quem": "Jenna (F)",
+  "en": "THAT FUCKING PEITHO BASTARD! SHE KILLED KAREN! CAUSED ALL THIS FUCKING PAIN! AND FOR WHAT?!"
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "~ How could they do this so fast? We weren't gone that long. ~"
+ },
+ {
+  "k": "25",
+  "cena": "GoodEnding-Chronal-2-ToFiends",
+  "quem": "Jenna (F)",
+  "en": "Please... Please not this again... Please don't make me lose more time in here... Let me out. I could still save her."
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "~ She w-was the reason I came this far... I was s-so focused on finding her... but now I have n-nothing to fight for... ~"
+ },
+ {
+  "k": "27",
+  "cena": "GoodEnding-Chronal-3-ToTower",
+  "quem": "Jenna (F)",
+  "en": "What's the point? Leath won. Karen's gone. The tower's gonna- well- maybe it's already activated by now on the timeline... "
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "Maybe I'll just stay in this purgatory... Maybe that'll be better..."
+ },
+ {
+  "k": "29",
+  "cena": "GoodEnding-Chronal-4-ToCave",
+  "quem": "Jenna (F)",
+  "en": "If this is my divine punishment for failing everyone... Again... So be it..."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Karen... I'm so sorry... I'm sorry I wasn't strong enough... Not like you... You were so strong... Stronger than any of us..."
+ },
+ {
+  "k": "31",
+  "cena": "GoodEnding-Chronal-4_1-RightEndReached",
+  "quem": "Jenna (F)",
+  "en": "Not even that suit held you back, Karen. You had that power in you all that time. Goodbye, Karen. I love you."
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "~ I just wish I could control these time vibes of mine... Maybe I could go back and stop Karen from even getting in danger because of me. ~"
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "Time vibes? Wait... I said that to Henry when I tried to save Karen after she got kidnapped... Before the Third Crisis..."
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "My vibrosuit is just like Karen's suit... It was holding me back."
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "I'm strong just like Karen. Stronger than this place."
+ },
+ {
+  "k": "36",
+  "quem": "Jenna (F)",
+  "en": "Maybe I <b>CAN</b> control these time vibes."
+ },
+ {
+  "k": "37",
+  "cena": "GoodEnding-Chronal-5-ToCarceburg",
+  "quem": "Jenna (F)",
+  "en": "Ffh-Fuck, this hurts! Feels like my atoms are tearing apart!"
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "But there's no way in hell I'll stop. Not while everyone is relying on me. This pain is nothing!"
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "Hang on, Karen. I'm coming."
+ },
+ {
+  "k": "40",
+  "cena": "GoodEnding-Chronal-6-ToTower",
+  "quem": "Jenna (F)",
+  "en": "Come on, Jenna. You can do it. Come on, Vibe. Keep going."
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "This is harder than I thought. Just a few seconds into the past. That's all I need. Fuck me this sucks. Almost there. Come on!"
+ },
+ {
+  "k": "42",
+  "cena": "GoodEnding-Chronal-7-LeftEndReached",
+  "quem": "Jenna (F)",
+  "en": "COME ON! KEEP GOING!"
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "<size=60>JUST-"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "<size=100>KEEP-"
+ },
+ {
+  "k": "45",
+  "cena": "Groping Jenna 1 Domina",
+  "quem": "Man (M)",
+  "en": "What a fine ass we have here. If I knew a sweety like you would come by. I would have pushed the session back."
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "Hey, hands to yourself."
+ },
+ {
+  "k": "47",
+  "quem": "Man (M)",
+  "en": "Sorry couldn't resist. Hehe."
+ },
+ {
+  "k": "48",
+  "quem": "Man (M)",
+  "en": "Are you free for some fun?"
+ },
+ {
+  "k": "49",
+  "quem": "Feminine Man (M)",
+  "en": "EY WHAT ARE YOU DOING?!?"
+ },
+ {
+  "k": "50",
+  "cena": "Groping Jenna 2 Domina",
+  "quem": "Feminine Man (M)",
+  "en": "I'm very sorry for my friend he is an idiot sometimes. He is very impulsive due to all the fucking in town."
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "<i>(Wait, that voice... It's a man? He looks.. feminine.)</i>"
+ },
+ {
+  "k": "52",
+  "quem": "Jenna (F)",
+  "en": "It'd be great if your friend kept his hands to himself.\n"
+ },
+ {
+  "k": "53",
+  "quem": "Feminine Man (M)",
+  "en": "We do work on that. You owe her an apology."
+ },
+ {
+  "k": "54",
+  "quem": "Man (M)",
+  "en": "Ah-.. Right.. Sorry for-.. My behaviour.\r"
+ },
+ {
+  "k": "55",
+  "quem": "Feminine Man (M)",
+  "en": "Good boy. Sorry lady, if you come here more often we'll surely meet again. I don't mean for my little man here to scare you off.\n\n\n"
+ },
+ {
+  "k": "56",
+  "quem": "Feminine Man (M)",
+  "en": "See you around.\n"
+ },
+ {
+  "k": "57",
+  "cena": "Groping Jenna 3 Domina",
+  "quem": "Jenna (F)",
+  "en": "<i>(Huh. That ended nicer than expected..)</i>"
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "<i>(I have a feeling that this won't be a regular fitness practice.)</i>"
+ },
+ {
+  "k": "59",
+  "cena": "Guard - No Entry",
+  "quem": "Peitho Grunt (M)",
+  "en": "Walk along."
+ },
+ {
+  "k": "60",
+  "cena": "Guard Guide Jenna to Liedryn",
+  "quem": "Peitho Grunt (M)",
+  "en": "Through here. Liedryn is waiting."
+ },
+ {
+  "k": "61",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>R-right..</color>"
+ },
+ {
+  "k": "62",
+  "cena": "Guard Reaction",
+  "quem": "Soldier (M)",
+  "en": "Hey, how did you get in here?! "
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "I just asked nicely and they let me in."
+ },
+ {
+  "k": "64",
+  "quem": "Soldier (M)",
+  "en": "Get her!"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "That's what they all say!"
+ },
+ {
+  "k": "66",
+  "cena": "Guard_x_Jenna_AfterCaptured_Badgeless_1",
+  "quem": "Guard (M)",
+  "en": "You there! Come with me!"
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "Ack-..! O-okay, fine.."
+ },
+ {
+  "k": "68",
+  "quem": "Guard (M)",
+  "en": "Badgeless and out at night... You know what that means, hehe."
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. Uhh-..</color>"
+ },
+ {
+  "k": "70",
+  "quem": "Guard (M)",
+  "en": "You can drop your pretending right away. I've seen you around wearing the badge. So getting caught without it... You wanted this."
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I just-.. Ghh...</color>"
+ },
+ {
+  "k": "72",
+  "quem": "Guard (M)",
+  "en": "So wet already.. Horny bitch. Let's see."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghhh...!</color>"
+ },
+ {
+  "k": "74",
+  "quem": "Guard (M)",
+  "en": "Ehehe.. Look at that face lighting up. You've been desperate for this. Slut."
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghh... Sh-.. Shush-.. Fghh...</color>"
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hahhh..!~</color>"
+ },
+ {
+  "k": "77",
+  "quem": "Guard (M)",
+  "en": "Ehehe... That's right... You're desperate for cock. That's why you went out at night not even wearing the badge."
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mmmhhh.. Fghaaa...</color>"
+ },
+ {
+  "k": "79",
+  "quem": "Guard (M)",
+  "en": "Yeah that's right. No point in hiding it when you're grinding my cock like that."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhh.. Fuck...</color>"
+ },
+ {
+  "k": "81",
+  "quem": "Guard (M)",
+  "en": "You want it in, don't you?"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "I-.. Hhh.. Please-.."
+ },
+ {
+  "k": "83",
+  "quem": "Guard (M)",
+  "en": "Say it, bitch! You want to get fucked by a Guard in prison!"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Please-.. I want to-.. Get fucked-.. By a guard-.. in-.. Prison!</color>"
+ },
+ {
+  "k": "85",
+  "quem": "Guard (M)",
+  "en": "Kehehe... Good slut."
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Guhh-..! Yesss...!</color>"
+ },
+ {
+  "k": "87",
+  "quem": "Guard (M)",
+  "en": "There you go, bitch. I am in control here."
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fghh... Yes... You're in-.. Control.. Nghhh..!</color>"
+ },
+ {
+  "k": "89",
+  "quem": "Guard (M)",
+  "en": "God you're desperate, ehehe. Our mindwaves really got to you. Bitches like you are the reason why I signed up with Peitho."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Fucked by-.. Peitho Guard-.. Fghhh-...)</i></color>"
+ },
+ {
+  "k": "91",
+  "quem": "Guard (M)",
+  "en": "You want even more, don't you? Want to get fucked even harder. Say it."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>P- please-.. Fuck me-.. Nghh-.. Harder-..!</color>"
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hahh!!</color>"
+ },
+ {
+  "k": "94",
+  "quem": "Guard (M)",
+  "en": "Mmmhh.. You're hopeless, hahaha."
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghh..!! Fuck..!! Yess..!!</color>"
+ },
+ {
+  "k": "96",
+  "quem": "Guard (M)",
+  "en": "Ready to get your filling, bitch?"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghh..!! Your cock feels so good..! Please-..!! Fill me-..!!</color>"
+ },
+ {
+  "k": "98",
+  "quem": "Guard (M)",
+  "en": "Fuck you're special!"
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hahhh...!!!</color>"
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghhhh.... Hhhh...</color>"
+ },
+ {
+  "k": "101",
+  "quem": "Guard (M)",
+  "en": "Mmhh.. Very good. "
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghh.. Hahh.. Fghh...</color>"
+ },
+ {
+  "k": "103",
+  "quem": "Guard (M)",
+  "en": "If you're this desperate for a nice strong Guard cock, come by during the day. You might get stuck with me, ehehe."
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>M-.. Mhnmm..</color>"
+ },
+ {
+  "k": "105",
+  "cena": "Guard_x_Jenna_StuckInWall_1",
+  "quem": "Guard (M)",
+  "en": "My oh my... You actually came, heh."
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "Maybe we can-.. Work something out.. For when I need to go outside at night and such.."
+ },
+ {
+  "k": "107",
+  "quem": "Guard (M)",
+  "en": "Right, right. I'm sure we can come to a mutual agreement, hehehe..."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "M-.. Mhmm.."
+ },
+ {
+  "k": "109",
+  "quem": "Guard (M)",
+  "en": "Looking at you, I get the feeling you came here for more than to discuss a way to get around at night though."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. Uh-.. I just-..</color>"
+ },
+ {
+  "k": "111",
+  "quem": "Guard (M)",
+  "en": "Coming here during daytime.. Not wearing your badge.. You've been in this town for long enough to know what happens without a badge."
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. Hh.. What do you want..?</color>"
+ },
+ {
+  "k": "113",
+  "quem": "Guard (M)",
+  "en": "Hehehe.. Not even trying to deny it, hmm? Very well. Follow me."
+ },
+ {
+  "k": "114",
+  "cena": "Guard_x_Jenna_StuckInWall_2",
+  "quem": "Guard (M)",
+  "en": "See this hole? We need to make sure noone can get out of prison through it. Why don't you give it a try? Naked of course."
+ },
+ {
+  "k": "115",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Naked..? R-.. right..</color>"
+ },
+ {
+  "k": "116",
+  "quem": "Narrador",
+  "en": "<I>I undress and try to climb through the hole. Halfway through, I notice it's too tight to fit through."
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. I can't- Uwaa..!</color>"
+ },
+ {
+  "k": "118",
+  "quem": "Guard (M)",
+  "en": "Oh no, looks like you're stuck, ehehe..."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>No-.. Wait..! What if someone passes by the prison?!</color>"
+ },
+ {
+  "k": "120",
+  "quem": "Guard (M)",
+  "en": "Really only thought of that  <i>after</i> climbing through the hole with your tits out, huh?"
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. Ghh-.. I-..</color>"
+ },
+ {
+  "k": "122",
+  "quem": "Guard (M)",
+  "en": "Mmhh.. Your ass is in the perfect height, ehehe..."
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>What are you-..</color>"
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghaaa..!!</color>"
+ },
+ {
+  "k": "125",
+  "quem": "Guard (M)",
+  "en": "Mmmhhh.. Fuck that's good.. Tight asshole, ehehe."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fghh...!! Fuuckk..!</color>"
+ },
+ {
+  "k": "127",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I'm so-.. Exposed-.. Fghh...)</i></color>"
+ },
+ {
+  "k": "128",
+  "quem": "Guard (M)",
+  "en": "The things horny sluts like you do to get fucked by Guards, ehehe. What is it about us, hm? The Peitho outfit?"
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghh-.. I don't-.. Fghh-.. I don't know..</color>"
+ },
+ {
+  "k": "130",
+  "quem": "Guard (M)",
+  "en": "Ever since Peitho built their tower life has been much more fun around here, hehe. You are nothing but another slut to succumb to their tech, ehehe."
+ },
+ {
+  "k": "131",
+  "quem": "Narrador",
+  "en": "<i>A woman walks past, staring at my exposed torso.</i>"
+ },
+ {
+  "k": "132",
+  "quem": "Woman (F)",
+  "en": "Look who tried to escape from prison. Serves you right, bitch. "
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. I just-</color>"
+ },
+ {
+  "k": "134",
+  "quem": "Woman (F)",
+  "en": "Tehehe. Sure, sure. Whatever."
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(He's so deep.. Fghh..)</i></color>"
+ },
+ {
+  "k": "136",
+  "quem": "Narrador",
+  "en": "<i>I notice a man looking at me through a window of another building. He opens the window and whistles at me.</i>"
+ },
+ {
+  "k": "137",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(They're-.. Watching..)</i></color>"
+ },
+ {
+  "k": "138",
+  "quem": "Guard (M)",
+  "en": "Hehehe, you've got an audience from the sounds of it. Lets give them a show!"
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ghhhaaahh!!!</color>"
+ },
+ {
+  "k": "140",
+  "quem": "Man (M)",
+  "en": "<b>That's what you get, scum!</b>"
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>But I-.. Ghh..! I-.. I didn't-</color>"
+ },
+ {
+  "k": "142",
+  "quem": "Man (M)",
+  "en": "<b>Criminal scum! You get what you deserve!</b>"
+ },
+ {
+  "k": "143",
+  "quem": "Guard (M)",
+  "en": "Ehehe... Sounds like I'm fucking a criminal."
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>But I-.. I didn't do-.. Anything-..! Nghh..! Fghh..!</color>"
+ },
+ {
+  "k": "145",
+  "quem": "Guard (M)",
+  "en": "What's that?! Want me to stop, criminal scum?!"
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Wait-..! No-..! I-.. No..!</color>"
+ },
+ {
+  "k": "147",
+  "quem": "Guard (M)",
+  "en": "Then tell him you're sorry for what you've done, ehehe."
+ },
+ {
+  "k": "148",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>But-.. Hahh..! I-.. Nghh..! I didn't-</color>"
+ },
+ {
+  "k": "149",
+  "quem": "Guard (M)",
+  "en": "Tell him you're sorry and I'll fuck you even harder, bitch!"
+ },
+ {
+  "k": "150",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I'm-.. I'm sorry for-.. Nghhaaa...! For what I-.. I did.. Sir...!</color>"
+ },
+ {
+  "k": "151",
+  "quem": "Man (M)",
+  "en": "<b>You better be, whore scum!</b>"
+ },
+ {
+  "k": "152",
+  "quem": "Jenna (F)",
+  "en": "<b><color=perversion>Please-.. I'm sorry-..! I'm sorry..! Pleaseee..!</color></b>"
+ },
+ {
+  "k": "153",
+  "quem": "Guard (M)",
+  "en": "There you go, bitch, ehehe!"
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fghaaa..!! Yess..!!</color>"
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I'm sorry! I'm sorry! Please-..! Fuck me..!! Please..!!</color>"
+ },
+ {
+  "k": "156",
+  "quem": "Guard (M)",
+  "en": "Fuck your ass is so tight..! We really put the hole at the perfect height."
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes-..! Nghh-..!! Please-..!! Fuck this criminal scum.!! Fuck me please..!!</color>"
+ },
+ {
+  "k": "158",
+  "quem": "Man (M)",
+  "en": "<b>There you go, slut! Finally admitting it!</b>"
+ },
+ {
+  "k": "159",
+  "quem": "Guard (M)",
+  "en": "Fuck..! I'm gonna..!"
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes..!! Please..!! Cum in my ass..!! Please..!!</color>"
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghaaaa...!!! Yessssss...!!</color>"
+ },
+ {
+  "k": "162",
+  "quem": "Guard (M)",
+  "en": "Seems like our wall works just as well as it did last night, ehehe."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghhfghhh... Hahhh...</color>"
+ },
+ {
+  "k": "164",
+  "quem": "Guard (M)",
+  "en": "See you around, bitch."
+ },
+ {
+  "k": "165",
+  "cena": "GuardToOutskirts_TryMovePast",
+  "quem": "Guard (M)",
+  "en": "Nice try. Back it up. I won't let you past, badge girl."
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "<i>(Guess it was worth a shot...)</i>"
+ },
+ {
+  "k": "167",
+  "cena": "Hacking",
+  "quem": "Jenna (F)",
+  "en": "Well that was pretty easy!"
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "Nothing like a good ol memory."
+ },
+ {
+  "k": "169",
+  "cena": "Hacking After Dialogue",
+  "quem": "Jenna (F)",
+  "en": "I already did that."
+ },
+ {
+  "k": "170",
+  "cena": "Hacking done",
+  "quem": "Jenna (F)",
+  "en": "Easy peasy."
+ },
+ {
+  "k": "171",
+  "cena": "Hacking Laser Fence Done",
+  "en": "That should take care of the fence."
+ },
+ {
+  "k": "172",
+  "en": "Thank you April."
+ },
+ {
+  "k": "173",
+  "cena": "Hacking Laser Fence Done",
+  "quem": "Jenna (F)",
+  "en": "That should take care of that."
+ },
+ {
+  "k": "174",
+  "quem": "April (F)",
+  "en": "Sure did. Fence is down."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Thank you, April."
+ },
+ {
+  "k": "176",
+  "cena": "Hacking_LaserFence",
+  "quem": "Jenna (F)",
+  "en": "Another console. Could you give me a hand, April?"
+ },
+ {
+  "k": "177",
+  "quem": "April (F)",
+  "en": "Formulating emotional response... I would be happy to!"
+ },
+ {
+  "k": "178",
+  "quem": "April (F)",
+  "en": "Opening interface... External input required. "
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "Hacking time!"
+ },
+ {
+  "k": "180",
+  "cena": "Hacking_LaserFence_Done",
+  "quem": "Jenna (F)",
+  "en": "Nothing left to do here."
+ },
+ {
+  "k": "181",
+  "cena": "Hacking_LaserFenceAfterHack",
+  "quem": "Jenna (F)",
+  "en": "That should take care of it!"
+ },
+ {
+  "k": "182",
+  "quem": "April (F)",
+  "en": "Procedurally generating compliment... Your hacking skills are impressive, Jenna!"
+ },
+ {
+  "k": "183",
+  "quem": "Jenna (F)",
+  "en": "Thanks!"
+ },
+ {
+  "k": "184",
+  "cena": "HappyBirthdayKeko",
+  "en": "Happy birthday Ke Ko Ri Ko!"
+ },
+ {
+  "k": "185",
+  "en": "Now..."
+ },
+ {
+  "k": "186",
+  "en": "ACT"
+ },
+ {
+  "k": "187",
+  "en": "LIKE"
+ },
+ {
+  "k": "188",
+  "en": "A"
+ },
+ {
+  "k": "189",
+  "en": "DOVE"
+ },
+ {
+  "k": "190",
+  "en": "Magikazam and happy birthday keko!"
+ },
+ {
+  "k": "191",
+  "cena": "Has to pick up keycard",
+  "quem": "Jenna (F)",
+  "en": "<i>(I should check out that keycard.)</i>"
+ },
+ {
+  "k": "192",
+  "cena": "Has to Rescue Rida",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can use this elevator to go up, but I need to rescue Rida first.)</i>"
+ },
+ {
+  "k": "193",
+  "cena": "Help",
+  "quem": "Throb (M)",
+  "en": "Of course I can help you with that."
+ },
+ {
+  "k": "194",
+  "cena": "HorizonRescue_FirstLustBleed_Jenna",
+  "quem": "Jenna (F)",
+  "en": "Damn... Something feels hot... That guy back in the real world must be feeling me up right now."
+ },
+ {
+  "k": "195",
+  "cena": "HorizonRescue_FirstLustBleed_Jewel",
+  "quem": "Jewel (F)",
+  "en": "Did someone turn the heat up in here or is that just me? Feel something touching me."
+ },
+ {
+  "k": "196",
+  "quem": "Jenna (F)",
+  "en": "<i>(That guy in the real world must be feeling her up right now... Crap.)</i>"
+ }
+]

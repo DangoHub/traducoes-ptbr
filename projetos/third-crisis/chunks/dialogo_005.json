@@ -1,0 +1,1289 @@
+[
+ {
+  "k": "1",
+  "cena": "Bartend_DaytimeEvent_3",
+  "quem": "Jenna (F)",
+  "en": "I can mix you up a drink, any you want.\r"
+ },
+ {
+  "k": "2",
+  "quem": "Customer (M)",
+  "en": "Well then I want a 1943 pinot noir in a bowler hat with a kiss on top.\r"
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "I don't even know what that is and I know we don't have a bowler hat, either.\r"
+ },
+ {
+  "k": "4",
+  "quem": "Customer (M)",
+  "en": "Then a #drink#, please.\r"
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "Coming right up."
+ },
+ {
+  "k": "6",
+  "cena": "Bartend_DaytimeEvent_3rdDrinkSplat1",
+  "quem": "Customer (M)",
+  "en": "Pardon, bartender.\r"
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "Yes, what did you need?\r"
+ },
+ {
+  "k": "8",
+  "quem": "Customer (M)",
+  "en": "Did you get any training for this?\r"
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "Well, no. Martin showed me how to d-gack!\r"
+ },
+ {
+  "k": "10",
+  "quem": "Narrador",
+  "en": "(<i>The drink was poured over my chest!</i>)"
+ },
+ {
+  "k": "11",
+  "quem": "Customer (M)",
+  "en": "Obviously not.\r"
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "Oh, crap. That mistake's coming out of my pay and now I'm wet to boot."
+ },
+ {
+  "k": "13",
+  "cena": "Bartend_DaytimeEvent_3rdShareDrink1",
+  "quem": "Customer (M)",
+  "en": "Heyy, I got paid today!\r"
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "Good for you!\r"
+ },
+ {
+  "k": "15",
+  "quem": "Customer (M)",
+  "en": "Let's have a drink to payday!\r"
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "Well..."
+ },
+ {
+  "k": "17",
+  "tipo": "escolha",
+  "en": "Have a toast."
+ },
+ {
+  "k": "18",
+  "tipo": "escolha",
+  "en": "Turn it down."
+ },
+ {
+  "k": "19",
+  "cena": "Bartend_DaytimeEvent_3rdShareDrink2",
+  "quem": "Jenna (F)",
+  "en": "Here's a salute to getting paid!"
+ },
+ {
+  "k": "20",
+  "cena": "Bartend_DaytimeEvent_3rdShareDrink3",
+  "quem": "Customer (M)",
+  "en": "Woooooo!\r"
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "Thanks for the drink! Heehee!"
+ },
+ {
+  "k": "22",
+  "cena": "Bartend_DaytimeEvent_3rdShareDrink_Decline",
+  "quem": "Jenna (F)",
+  "en": "Thanks, but I need a clear head to work.\r"
+ },
+ {
+  "k": "23",
+  "quem": "Customer (M)",
+  "en": "Awwww."
+ },
+ {
+  "k": "24",
+  "cena": "Bartend_DaytimeEvent_4",
+  "quem": "Jenna (F)",
+  "en": "Can I ge-\r"
+ },
+ {
+  "k": "25",
+  "quem": "Customer (M)",
+  "en": "Get me coffee!\r"
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "Not you again!\r"
+ },
+ {
+  "k": "27",
+  "quem": "Customer (M)",
+  "en": "Ugh, you don't have coffee do you? Get me #drink#, then!"
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "(<i>I'm surprised he's still alive!</i>)"
+ },
+ {
+  "k": "29",
+  "cena": "Bartend_DaytimeEvent_5",
+  "quem": "Customer (M)",
+  "en": "Hit me up with some #drink#, please. \r"
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Not a problem.\r"
+ },
+ {
+  "k": "31",
+  "quem": "Customer (M)",
+  "en": "Damn, Martin when did you grow some tits?\r"
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "I'm not Martin. And maybe I should cut you off.\r"
+ },
+ {
+  "k": "33",
+  "quem": "Customer (M)",
+  "en": "I'll behave. Maybe.\r"
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Ugh. Whatever."
+ },
+ {
+  "k": "35",
+  "cena": "Bartend_DaytimeEvent_6",
+  "quem": "Jenna (F)",
+  "en": "I've got the drinks you love.\r"
+ },
+ {
+  "k": "36",
+  "quem": "Customer (M)",
+  "en": "And a whole lot more! Wowawow!\r"
+ },
+ {
+  "k": "37",
+  "quem": "Jenna (F)",
+  "en": "Your drink of choice today?\r"
+ },
+ {
+  "k": "38",
+  "quem": "Customer (M)",
+  "en": "Gimme that #drink# goodness!\r"
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I can do that."
+ },
+ {
+  "k": "40",
+  "cena": "Bartend_DaytimeEvent_AssShot1",
+  "quem": "Jenna (F)",
+  "en": "What more can I do for you?\r"
+ },
+ {
+  "k": "41",
+  "quem": "Customer (M)",
+  "en": "I see that Ionian whiskey. A shot would be appreciated.\r"
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Coming right up, sir!\r"
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "(<i>Okay, now to dig for that stuff... it's behind a few other of the more expensive-looking bottles... got it.</i>)\r\t\r"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "Here we are. You said you wanted a shot?\r"
+ },
+ {
+  "k": "45",
+  "quem": "Customer (M)",
+  "en": "Oh, yeah. That's the stuff. Here's a little extra."
+ },
+ {
+  "k": "46",
+  "cena": "Bartend_DaytimeEvent_DrinkSplat1",
+  "quem": "Customer (M)",
+  "en": "Thanks.\r"
+ },
+ {
+  "k": "47",
+  "quem": "Narrador",
+  "en": "(<i>The barfly drank a sip of the drink and then a large one.</i>)\r"
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "Looks like a job well do-\r"
+ },
+ {
+  "k": "49",
+  "quem": "Narrador",
+  "en": "(<i>He spit it out onto me and swung the glass, drenching me!</i>)"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Hey! Guess I messed up the drink..\r"
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "Ugh, now I'll be wet the rest of the shift."
+ },
+ {
+  "k": "52",
+  "cena": "Bartend_DaytimeEvent_KissEvent",
+  "quem": "Customer (M)",
+  "en": "You forgot my kiss, lady!\r"
+ },
+ {
+  "k": "53",
+  "quem": "Jenna (F)",
+  "en": "(<i>Did I get the drink wrong? He has it pretty close to him.</i>)\r"
+ },
+ {
+  "k": "54",
+  "tipo": "escolha",
+  "en": "Check the drink."
+ },
+ {
+  "k": "55",
+  "tipo": "escolha",
+  "en": "Don't bother."
+ },
+ {
+  "k": "56",
+  "quem": "Narrador",
+  "en": "<i>I lean over to check the drink-and he leans in and gives me a peck!</i>\r"
+ },
+ {
+  "k": "57",
+  "quem": "Customer (M)",
+  "en": "Yer a nice lady!\r"
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "Oh my!\r"
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "Nice. I really should have seen that coming."
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "The candy's in there, so have a good drink with that!"
+ },
+ {
+  "k": "61",
+  "cena": "Bartend_DaytimeEvent_KissEvent2",
+  "quem": "Jenna (F)",
+  "en": "Here's your drink.\r"
+ },
+ {
+  "k": "62",
+  "quem": "Customer (M)",
+  "en": "Can I get an extra kiss?\r"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "(<i>Uhhh... not sure if I'm supposed to.</i>)\r"
+ },
+ {
+  "k": "64",
+  "tipo": "escolha",
+  "en": "Get another candy."
+ },
+ {
+  "k": "65",
+  "tipo": "escolha",
+  "en": "Don't bother"
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "Here you g-mmph!\r"
+ },
+ {
+  "k": "67",
+  "quem": "Narrador",
+  "en": "(<i>He kissed me!</i>)\r"
+ },
+ {
+  "k": "68",
+  "quem": "Customer (M)",
+  "en": "There you go!\r"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "Woof! That's some bad breath! Looks like you'll need the extra kiss, haha!\r"
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "Not unless you pay for it.\r"
+ },
+ {
+  "k": "71",
+  "quem": "Customer (M)",
+  "en": "Aww."
+ },
+ {
+  "k": "72",
+  "cena": "Bartend_DaytimeEvent_KissEvent3",
+  "quem": "Customer (M)",
+  "en": "There's something in my drink.\r"
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "(<i>Did I mess up?</i>)\r"
+ },
+ {
+  "k": "74",
+  "tipo": "escolha",
+  "en": "Look close."
+ },
+ {
+  "k": "75",
+  "tipo": "escolha",
+  "en": "Don't bother."
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "Let's see...\r"
+ },
+ {
+  "k": "77",
+  "quem": "Narrador",
+  "en": "(<i>I leaned in to look, and he kissed me instead!</i>)\r"
+ },
+ {
+  "k": "78",
+  "quem": "Customer (M)",
+  "en": "You should go with me outside to have a little fun!\r"
+ },
+ {
+  "k": "79",
+  "quem": "Jenna (F)",
+  "en": "Sorry! I'm a badge girl, can't just do that! But that was very fun!\r"
+ },
+ {
+  "k": "80",
+  "quem": "Customer (M)",
+  "en": "Aww. At least I won the bet!\r"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "They're doing bets now?\r"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "I can see that it's exactly what you ordered. Go back to your table and I will serve you something later.\r"
+ },
+ {
+  "k": "83",
+  "quem": "Customer (M)",
+  "en": "Aww, I lost the bet. Oh well, I'll go shell out some fuckbucks to my buddy."
+ },
+ {
+  "k": "84",
+  "cena": "Bartend_DaytimeEvent_ShareDrink1",
+  "quem": "Customer (M)",
+  "en": "Heeey, bartender!\r"
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "What do you need?\r"
+ },
+ {
+  "k": "86",
+  "quem": "Customer (M)",
+  "en": "Drink a shot with me!\r"
+ },
+ {
+  "k": "87",
+  "quem": "Narrador",
+  "en": "(<i>Should I?</i>)"
+ },
+ {
+  "k": "88",
+  "tipo": "escolha",
+  "en": "<color=perversion>Share a drink.</color>"
+ },
+ {
+  "k": "89",
+  "tipo": "escolha",
+  "en": "Decline."
+ },
+ {
+  "k": "90",
+  "cena": "Bartend_DaytimeEvent_ShareDrink2",
+  "quem": "Jenna (F)",
+  "en": "Cheers!"
+ },
+ {
+  "k": "91",
+  "cena": "Bartend_DaytimeEvent_ShareDrink3",
+  "quem": "Customer (M)",
+  "en": "Toast!\r"
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "I'm sure there's gonna be noooo consequences there, hehe!"
+ },
+ {
+  "k": "93",
+  "cena": "Bartend_DaytimeEvent_ShareDrinkDecline",
+  "quem": "Jenna (F)",
+  "en": "Better not. Enjoy your drink."
+ },
+ {
+  "k": "94",
+  "cena": "Bartend_DaytimeEvent_TitFlash1",
+  "quem": "Jenna (F)",
+  "en": "Here's your drink!\r"
+ },
+ {
+  "k": "95",
+  "quem": "Customer (M)",
+  "en": "Hey lady, I dare you to flash me the goodies!\r"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "Of course you are...\r"
+ },
+ {
+  "k": "97",
+  "quem": "Customer (M)",
+  "en": "Come ooonnnn, do it for a laugh!\r"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "(<i>What's the harm? Should I do it?</i>)"
+ },
+ {
+  "k": "99",
+  "tipo": "escolha",
+  "en": "<color=perversion>Flash your tits.</color>"
+ },
+ {
+  "k": "100",
+  "tipo": "escolha",
+  "en": "Decline."
+ },
+ {
+  "k": "101",
+  "cena": "Bartend_DaytimeEvent_TitFlash2",
+  "quem": "Jenna (F)",
+  "en": "Oh, what the hell."
+ },
+ {
+  "k": "102",
+  "cena": "Bartend_DaytimeEvent_TitFlash3",
+  "quem": "Jenna (F)",
+  "en": "<color=Perversion>Enjoying the view?</color>\r"
+ },
+ {
+  "k": "103",
+  "quem": "Customer (M)",
+  "en": "Yes ma'am!\r"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "At least you're polite!"
+ },
+ {
+  "k": "105",
+  "cena": "Bartend_DaytimeEvent_TitFlash4",
+  "quem": "Jenna (F)",
+  "en": "Okay, show's over. Enjoy your drink.\r"
+ },
+ {
+  "k": "106",
+  "quem": "Customer (M)",
+  "en": "Thanks!"
+ },
+ {
+  "k": "107",
+  "cena": "Bartend_DaytimeEvent_TitFlash_Decline",
+  "quem": "Jenna (F)",
+  "en": "Yeah, no thanks.\r"
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "Nice try, but the only one I want to see my goodies is Karen."
+ },
+ {
+  "k": "109",
+  "cena": "Bartend_questline_AllDrinksSuccess",
+  "quem": "Martin (M)",
+  "en": "Mm. Did you bartend before you showed up here? This is flawless.\r"
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "Does that mean I'm hired? And no, not really. I just followed your recipe.\r"
+ },
+ {
+  "k": "111",
+  "quem": "Martin (M)",
+  "en": "Yeah, you're hired. I'd be a fool not to.\r"
+ },
+ {
+  "k": "112",
+  "quem": "Martin (M)",
+  "en": "You're sure you won't be sticking around?\r"
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "I'm sure. There's something gone horribly wrong and I just can't stick around here when I can do something about it.\r"
+ },
+ {
+  "k": "114",
+  "quem": "Martin (M)",
+  "en": "You're a decent sort. I'm glad I met you. Maybe the world's not so screwed after all.\r"
+ },
+ {
+  "k": "115",
+  "quem": "Martin (M)",
+  "en": "Check with me when you want to work and I can take a break.\r"
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "(<i>Should I ask to work now...?</i>)"
+ },
+ {
+  "k": "117",
+  "tipo": "escolha",
+  "en": "Ask for work"
+ },
+ {
+  "k": "118",
+  "tipo": "escolha",
+  "en": "Don't ask for work"
+ },
+ {
+  "k": "119",
+  "cena": "Bartend_questline_AllDrinksSuccess_Start",
+  "quem": "Jenna (F)",
+  "en": "Can I start now?\r"
+ },
+ {
+  "k": "120",
+  "quem": "Martin (M)",
+  "en": "Sure thing, I'll go take a break. "
+ },
+ {
+  "k": "121",
+  "cena": "Bartend_questline_AllDrinksSuccess_Stop",
+  "quem": "Jenna (F)",
+  "en": "Thanks a lot for this. I will see you when I'm ready to work!"
+ },
+ {
+  "k": "122",
+  "cena": "Bartend_questline_AskBuyOutfit",
+  "quem": "Martin (M)",
+  "en": "Hmm... Alright, I've got a uniform in the back. I'll need <color=money>50 fuckbucks</color> to have it resized to fit you snug. Is that alright?"
+ },
+ {
+  "k": "123",
+  "tipo": "escolha",
+  "en": "<color=money>(50fB)</color> Pay for uniform."
+ },
+ {
+  "k": "124",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "125",
+  "cena": "Bartend_questline_AskJewelForOutfit",
+  "quem": "Jenna (F)",
+  "en": "Martin told me that you could get me a uniform for working here. Do you have one I could use?"
+ },
+ {
+  "k": "126",
+  "quem": "Jewel (F)",
+  "en": "Yeah I do, here you can have it!"
+ },
+ {
+  "k": "127",
+  "quem": "Jenna (F)",
+  "en": "Perfect! Thank you!"
+ },
+ {
+  "k": "128",
+  "cena": "Bartend_questline_BoughtUniform",
+  "quem": "Jenna (F)",
+  "en": "Here ya go!"
+ },
+ {
+  "k": "129",
+  "quem": "Martin (M)",
+  "en": "Perfect. I'll send Amber out to get the uniform done. Just wait here for a bit. We'll get started once we've got your new uniform."
+ },
+ {
+  "k": "130",
+  "cena": "Bartend_questline_DidDoJewelEvent",
+  "quem": "Amber (F)",
+  "en": "Got the uniform here, Martin!"
+ },
+ {
+  "k": "131",
+  "quem": "Martin (M)",
+  "en": "Wonderful! Now Jenna, I think you should know what you're getting into.\r"
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "Like this is hard? I take orders and walk them to the table.\r"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "And I make sure not to spill while I get it to the right customers!\r"
+ },
+ {
+  "k": "134",
+  "quem": "Martin (M)",
+  "en": "It sounds easier than it is. One of my old waitresses walked out to be a dump.\r"
+ },
+ {
+  "k": "135",
+  "quem": "Martin (M)",
+  "en": "You might get groped, you'll get oogled and there's horny men who will pay you to do stuff women generally wouldn't before all this.\r"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "I hadn't thought about that, man the future's weird.\r"
+ },
+ {
+  "k": "137",
+  "quem": "Martin (M)",
+  "en": "Here's how it'll work. You can work for me as a bartender during the day. That's safer for girls not looking to get harassed.\r"
+ },
+ {
+  "k": "138",
+  "quem": "Martin (M)",
+  "en": "They'll give you their orders and you'll mix their drinks. There's recipes I wrote down using what we got for special drinks.\r"
+ },
+ {
+  "k": "139",
+  "quem": "Martin (M)",
+  "en": "Do it well, I'll pay you and treat you right. Get it wrong and you'll get the amount you wasted taken off.\r"
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "I won't let you down.\r"
+ },
+ {
+  "k": "141",
+  "quem": "Martin (M)",
+  "en": "If you need extra money, you can work in the afternoon once the city hall's closed.\r"
+ },
+ {
+  "k": "142",
+  "quem": "Martin (M)",
+  "en": "I don't recommend it if you're protecting your chastity, but it pays better than the bartending.\r"
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "Good to know, <color=perversion>that evening job sounds like it wouldn't be so bad...</color>\r"
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "(<i>I might want to avoid the later shift for my own sanity!</i>)\r"
+ },
+ {
+  "k": "145",
+  "quem": "Martin (M)",
+  "en": "Let's run through making the drinks. You've already done a little waitressing, so I don't think I have to explain any more of that.\r"
+ },
+ {
+  "k": "146",
+  "quem": "Martin (M)",
+  "en": "You're a smart girl. So let's get you back here and run through a little training."
+ },
+ {
+  "k": "147",
+  "cena": "Bartend_questline_DidDoJewelEvent2",
+  "quem": "Jenna (F)",
+  "en": "There's a lot of bottles back here for being limited in supplies.\r"
+ },
+ {
+  "k": "148",
+  "quem": "Martin (M)",
+  "en": "This is nothing. The selection before all this was a lot better. Higher quality, some of it.\r"
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "You did this before this dump?\r"
+ },
+ {
+  "k": "150",
+  "quem": "Martin (M)",
+  "en": "Yeah, long story. I worked my ass off in a lot of places. I might tell you about it another day.\r"
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "Okay. How do I do this?\r"
+ },
+ {
+  "k": "152",
+  "quem": "Martin (M)",
+  "en": "The recipe book's got all the mixes. Sometimes a guy might just ask for a specific flavor or on the rocks.\r"
+ },
+ {
+  "k": "153",
+  "quem": "Martin (M)",
+  "en": "On the rocks is with ice. They might also ask for a kiss."
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "A kiss?!\r"
+ },
+ {
+  "k": "155",
+  "quem": "Martin (M)",
+  "en": "Yeah, one of the cherry candies since we don't have the real deal."
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "Got it! Think I'm ready!\r"
+ },
+ {
+  "k": "157",
+  "quem": "Martin (M)",
+  "en": "Okay. Let's test that. Make two drinks. Let's start with making #drink#. Take your time, I'm not impatient but some other men are."
+ },
+ {
+  "k": "158",
+  "quem": "Jenna (F)",
+  "en": "(<i>Alright, let's look at the recipe book and supplies.</i>)"
+ },
+ {
+  "k": "159",
+  "cena": "Bartend_questline_DidntDoJewelEvent",
+  "en": "Hi there, would you happen to have an opening for a waitress? I'm very careful!\r"
+ },
+ {
+  "k": "160",
+  "en": "Not right now, the badge girl you were lookin' for has taken care of what customers I got for today. Come back later?\r"
+ },
+ {
+  "k": "161",
+  "en": "That wasn't Karen, though. I didn't know her. Thanks anyway.\r"
+ },
+ {
+  "k": "162",
+  "en": "Sometimes you don't get what you want, lady."
+ },
+ {
+  "k": "163",
+  "cena": "Bartend_questline_DoIntroFirst",
+  "quem": "Martin (M)",
+  "en": "I'm not looking for a waitress right now. The one working for me at the moment might not stay for much longer though. So maybe you should come back tomorrow."
+ },
+ {
+  "k": "164",
+  "cena": "Bartend_questline_FailedDrink1",
+  "quem": "Martin (M)",
+  "en": "Yeah, that won't work. I could have you work as a waitress in the evening, but I don't think you're satisfied either.\r"
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "Rude!\r"
+ },
+ {
+  "k": "166",
+  "quem": "Martin (M)",
+  "en": "This might be the only bar in town, but I know you can do better. You can do it. Take your time.\r"
+ },
+ {
+  "k": "167",
+  "quem": "Martin (M)",
+  "en": "Let's try this again. Can you make #drink# for me?"
+ },
+ {
+  "k": "168",
+  "cena": "Bartend_questline_FailedDrink2",
+  "quem": "Martin (M)",
+  "en": "You have to pay attention, Jenna. Some of the men in here won't be patient and they'll demand their money back.\r"
+ },
+ {
+  "k": "169",
+  "quem": "Jenna (F)",
+  "en": "Whoops! I guess I can do that again.\r"
+ },
+ {
+  "k": "170",
+  "quem": "Martin (M)",
+  "en": "You can. Let's try again with #drink#."
+ },
+ {
+  "k": "171",
+  "cena": "Bartend_questline_FailedDrinkBeforeSuccess",
+  "quem": "Martin (M)",
+  "en": "That's pretty good. Better than I expected, actually.\r"
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "Awesome! So you'll have me work since I blew you away?\r"
+ },
+ {
+  "k": "173",
+  "quem": "Martin (M)",
+  "en": "Haha, I wouldn't go so far. You've not done this before and that's clear but you filled my order well for all that. That's about what those guys expect so good enough.\r"
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Oh. Well, this won't be forever. I just need to do what I can to get back to Karen.\r"
+ },
+ {
+  "k": "175",
+  "quem": "Martin (M)",
+  "en": "I understand. You're hired. Check with me when you want to work and we'll get you set up and earning.\r"
+ },
+ {
+  "k": "176",
+  "quem": "Martin (M)",
+  "en": "Unless you wanna start now.\r"
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "Hmm..."
+ },
+ {
+  "k": "178",
+  "tipo": "escolha",
+  "en": "Ask for work"
+ },
+ {
+  "k": "179",
+  "tipo": "escolha",
+  "en": "Don't ask for work"
+ },
+ {
+  "k": "180",
+  "cena": "Bartend_questline_FailedDrinkBeforeSuccess_Start",
+  "quem": "Jenna (F)",
+  "en": "Go ahead and go take a break.\r"
+ },
+ {
+  "k": "181",
+  "quem": "Martin (M)",
+  "en": "I'll come back to check on you later when you're done.\r"
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "Time to start changing days!"
+ },
+ {
+  "k": "183",
+  "cena": "Bartend_questline_FailedDrinkBeforeSuccess_Stop",
+  "quem": "Jenna (F)",
+  "en": "Maybe another time, Martin. Thanks.\r"
+ },
+ {
+  "k": "184",
+  "quem": "Martin (M)",
+  "en": "Let me know if you change your mind later."
+ },
+ {
+  "k": "185",
+  "cena": "Bartend_questline_FinishedDaytime",
+  "quem": "Martin (M)",
+  "en": "Alright Jenna, that should be it for today. Good job, here's your pay."
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "Thanks!"
+ },
+ {
+  "k": "187",
+  "quem": "Martin (M)",
+  "en": "Oh and don't forget to come back tomorrow if you are interested in more work."
+ },
+ {
+  "k": "188",
+  "cena": "Bartend_questline_GenericFailedDrink",
+  "quem": "Customer (M)",
+  "en": "This is shit. Make another one!\r"
+ },
+ {
+  "k": "189",
+  "quem": "Jenna (F)",
+  "en": "Whoops. That's coming out of my pay."
+ },
+ {
+  "k": "190",
+  "cena": "Bartend_questline_GenericStart1",
+  "quem": "Jenna (F)",
+  "en": "Do you have room for me to bartend today?\r"
+ },
+ {
+  "k": "191",
+  "quem": "Martin (M)",
+  "en": "Sure thing, Jenna. I'll go on my break."
+ },
+ {
+  "k": "192",
+  "cena": "Bartend_questline_GenericStart2",
+  "en": "Just in time. Come on back so I can go take care of something with Jewel.\r"
+ },
+ {
+  "k": "193",
+  "en": "Well, you guys have fun. <color=Perversion>Wish that I could join you...</color> Woah, girl. Time to work."
+ },
+ {
+  "k": "194",
+  "cena": "Bartend_questline_GenericStart3",
+  "quem": "Jenna (F)",
+  "en": "Hey, Martin. I'll be taking a shift today. That okay?\r"
+ },
+ {
+  "k": "195",
+  "quem": "Martin (M)",
+  "en": "Yeah, that's nice timing for me. Come on back."
+ },
+ {
+  "k": "196",
+  "cena": "Bartend_questline_Night_Event1_CorrectTable",
+  "quem": "Jenna (F)",
+  "en": "Here's your order!"
+ },
+ {
+  "k": "197",
+  "quem": "Customer (M)",
+  "en": "About time.\r"
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "Here you are!"
+ },
+ {
+  "k": "199",
+  "quem": "Narrador",
+  "en": "<i>I go to place his order on the table, realizing a little too late that my skirt is too short to properly hide everything while I'm leaning over.</i>"
+ },
+ {
+  "k": "200",
+  "quem": "Jenna (F)",
+  "en": "H-Hey!"
+ },
+ {
+  "k": "201",
+  "quem": "Customer (M)",
+  "en": "Whoops, sorry. My hand just fell."
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "Sure, buddy."
+ },
+ {
+  "k": "203",
+  "cena": "Bartend_questline_Night_Event1_Intro",
+  "quem": "Martin (M)",
+  "en": "So you do want to work as a waitress in the later hours?"
+ },
+ {
+  "k": "204",
+  "quem": "Jenna (F)",
+  "en": "How bad can it be?"
+ },
+ {
+  "k": "205",
+  "quem": "Martin (M)",
+  "en": "Simply bring the orders to the tables and come back to me. The tables all have their own number from 1 to 6. You don't need to take new orders from customers, they order via the displays in our menus."
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "Fancy!"
+ },
+ {
+  "k": "207",
+  "quem": "Martin (M)",
+  "en": "Oh well, it's certainly outdated tech, but it works."
+ },
+ {
+  "k": "208",
+  "quem": "Martin (M)",
+  "en": "Let's get going then. Bring this order to table <b>#TableNum#</b>."
+ },
+ {
+  "k": "209",
+  "quem": "Jenna (F)",
+  "en": "I won't disappoint you!"
+ },
+ {
+  "k": "210",
+  "cena": "Bartend_questline_Night_Event2_CorrectTable",
+  "quem": "Jenna (F)",
+  "en": "Here you go!"
+ },
+ {
+  "k": "211",
+  "quem": "Narrador",
+  "en": "<i>I place the order on the table, being careful not to drop anything.</i>"
+ },
+ {
+  "k": "212",
+  "quem": "Narrador",
+  "en": "<i>One of the customers suddenly brushes by me and grabs my boobs.</i>\r"
+ },
+ {
+  "k": "213",
+  "quem": "Jenna (F)",
+  "en": "You guys just can't keep your hands to yourselves now can you?"
+ },
+ {
+  "k": "214",
+  "quem": "Customer (M)",
+  "en": "Can't resis' youu in tha outfit, hahaha.."
+ },
+ {
+  "k": "215",
+  "quem": "Jenna (F)",
+  "en": "<i>(I guess Martin <b>did</b> warn me.)</i>"
+ },
+ {
+  "k": "216",
+  "cena": "Bartend_questline_Night_Event2_Intro",
+  "quem": "Jenna (F)",
+  "en": "You weren't lying when you said that the late shift is something else. Getting groped is part of the deal here, isn't it? What do we do to stop that?"
+ },
+ {
+  "k": "217",
+  "quem": "Martin (M)",
+  "en": "There's not much we can do... I have to give the people more reason to come than bad food and alcohol. Sorry, Jenna..."
+ },
+ {
+  "k": "218",
+  "quem": "Jenna (F)",
+  "en": "So you're asking me to just endure it?"
+ },
+ {
+  "k": "219",
+  "quem": "Martin (M)",
+  "en": "That's how business is right now. Please stay and help me."
+ },
+ {
+  "k": "220",
+  "quem": "Jenna (F)",
+  "en": "Fine... But only because you were nice to me so far."
+ },
+ {
+  "k": "221",
+  "quem": "Martin (M)",
+  "en": "Thank you, Jenna. Now please bring this to table <b>#TableNum#</b>."
+ },
+ {
+  "k": "222",
+  "quem": "Jenna (F)",
+  "en": "Alright."
+ },
+ {
+  "k": "223",
+  "cena": "Bartend_questline_Night_Event3_CorrectTable",
+  "quem": "Jenna (F)",
+  "en": "Here's your order!"
+ },
+ {
+  "k": "224",
+  "quem": "Narrador",
+  "en": "<i>As I lean over to place the plate on the table, I feel a sharp pain on my ass.</i>"
+ },
+ {
+  "k": "225",
+  "quem": "Jenna (F)",
+  "en": "<i>(Stay cool, Jenna. It's just how this bar works.)</i>"
+ },
+ {
+  "k": "226",
+  "cena": "Bartend_questline_Night_Event3_CorrectTable2",
+  "quem": "Narrador",
+  "en": "<i>The customer places his hand on my skirt, groping my ass while I lean over to place the plate in front of him.</i>"
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "I'm trying to do my work here!"
+ },
+ {
+  "k": "228",
+  "quem": "Customer (M)",
+  "en": "Pah, what am I paying for, if not this?"
+ },
+ {
+  "k": "229",
+  "quem": "Narrador",
+  "en": "<i>I'm grinding my teeth, letting him grope me.</i>"
+ },
+ {
+  "k": "230",
+  "quem": "Jenna (F)",
+  "en": "<i>(I have to let him or Martin will get in trouble...)</i>"
+ },
+ {
+  "k": "231",
+  "quem": "Customer (M)",
+  "en": "Very nice... I might come here more often with you around, <i>sweetass</i>."
+ },
+ {
+  "k": "232",
+  "quem": "Narrador",
+  "en": "<i>He chuckles before finally letting go of me.</i>"
+ },
+ {
+  "k": "233",
+  "cena": "Bartend_questline_Night_Event3_Intro",
+  "quem": "Jenna (F)",
+  "en": "I'm <b>done</b> with that one. Give me the next order so I can get through this quickly."
+ },
+ {
+  "k": "234",
+  "quem": "Martin (M)",
+  "en": "You're doing great so far Jenna. Just one more order and you should be done for the night!"
+ },
+ {
+  "k": "235",
+  "quem": "Jenna (F)",
+  "en": "Ugh, I hope so."
+ },
+ {
+  "k": "236",
+  "quem": "Martin (M)",
+  "en": "Here, just bring this to table <b>#TableNum#</b> and I'll take care of the rest for today."
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "On it..."
+ },
+ {
+  "k": "238",
+  "cena": "Bartend_questline_Night_Event4_CorrectTable",
+  "quem": "Jenna (F)",
+  "en": "Here's your order!\r"
+ },
+ {
+  "k": "239",
+  "quem": "Narrador",
+  "en": "<i>Without hesitating, a guest takes hold of my boobs with both hands.</i>\r"
+ },
+ {
+  "k": "240",
+  "quem": "Customer (M)",
+  "en": "Love the milk service, haha!"
+ },
+ {
+  "k": "241",
+  "quem": "Jenna (F)",
+  "en": "Enjoy your Drinks..."
+ },
+ {
+  "k": "242",
+  "quem": "Customer (M)",
+  "en": "I will, but it won't beat squeezing your nice tits."
+ },
+ {
+  "k": "243",
+  "quem": "Jenna (F)",
+  "en": "<i>(Asshole.)</i>"
+ },
+ {
+  "k": "244",
+  "cena": "Bartend_questline_Night_Event4_Intro",
+  "quem": "Martin (M)",
+  "en": "Glad you decided to help out for another evening. The customers really liked you last time."
+ },
+ {
+  "k": "245",
+  "quem": "Jenna (F)",
+  "en": "I bet they did..."
+ },
+ {
+  "k": "246",
+  "quem": "Martin (M)",
+  "en": "Great! Can you bring this order to table <b>#TableNum#</b> please?"
+ },
+ {
+  "k": "247",
+  "quem": "Jenna (F)",
+  "en": "On it, Martin."
+ },
+ {
+  "k": "248",
+  "cena": "Bartend_questline_Night_Event4_WayBack",
+  "quem": "Jenna (F)",
+  "en": "<i>(Should I really earn money doing... this? Being the eye candy attraction for a bunch of drunken horny guys...?)</i>"
+ }
+]

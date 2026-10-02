@@ -1,0 +1,1055 @@
+[
+ {
+  "k": "1",
+  "cena": "Rescue Peitho Soldier 2",
+  "quem": "Soldier (M)",
+  "en": "Ah- No! Get back!"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "So rude. I'm gonna help you out of there!"
+ },
+ {
+  "k": "3",
+  "quem": "Soldier (M)",
+  "en": "Wh- But why? I'm your enemy..."
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "That's what heroes do."
+ },
+ {
+  "k": "5",
+  "cena": "Rescue Peitho Soldier 2_Rokean",
+  "en": "The resistance?! Get away from me!"
+ },
+ {
+  "k": "6",
+  "en": "Don't be rude, I'm here to help you."
+ },
+ {
+  "k": "7",
+  "en": "I would never accept..."
+ },
+ {
+  "k": "8",
+  "en": "...You know what? Go ahead. They don't pay me enough for this shit."
+ },
+ {
+  "k": "9",
+  "en": "Here, I got this."
+ },
+ {
+  "k": "10",
+  "en": "Thanks. I'm out."
+ },
+ {
+  "k": "11",
+  "cena": "Rescue Resistance Member",
+  "quem": "Resistance Member (M)",
+  "en": "Help! I'm trapped! Please help!"
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "I've got ya! Don't worry. It's gonna be okay."
+ },
+ {
+  "k": "13",
+  "quem": "Resistance Member (M)",
+  "en": "Thank you... Thank you so much!"
+ },
+ {
+  "k": "14",
+  "cena": "Rescue Resistance Member 1",
+  "quem": "Resistance Member (M)",
+  "en": "Jenna?! Is that you? Please help!"
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "It's me! I'm gonna get you out of here."
+ },
+ {
+  "k": "16",
+  "quem": "Resistance Member (M)",
+  "en": "Oh god, thank you!"
+ },
+ {
+  "k": "17",
+  "cena": "Rescue Resistance Member 1_Rokean",
+  "en": "Jenna! It's good to see you, please help me!"
+ },
+ {
+  "k": "18",
+  "en": "Of course. Stay still, I'm gonna get you out."
+ },
+ {
+  "k": "19",
+  "en": "I'm glad you found me. Thanks! "
+ },
+ {
+  "k": "20",
+  "cena": "Rescue Resistance Member_Rokean",
+  "en": "Jenna! I'm stuck!"
+ },
+ {
+  "k": "21",
+  "en": "I've got you, don't worry."
+ },
+ {
+  "k": "22",
+  "en": "You're a life saver!"
+ },
+ {
+  "k": "23",
+  "cena": "Resistance_Arnold_Quest_Dolls_0",
+  "quem": "Arnold (M)",
+  "en": "Ah, this one is Monica. She was one of my more recent girls. Never got to know her too well, but I'm definitely glad to be reunited!"
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "They've got names too?"
+ },
+ {
+  "k": "25",
+  "quem": "Arnold (M)",
+  "en": "Of course they have names! How else am I supposed to tell them apart?"
+ },
+ {
+  "k": "26",
+  "cena": "Resistance_Arnold_Quest_Dolls_1",
+  "quem": "Throb (M)",
+  "en": "I'm guessing this one has a name too?"
+ },
+ {
+  "k": "27",
+  "quem": "Arnold (M)",
+  "en": "Yep, this one is Erica. She was my first, and you never forget your first! Oh, all the wonderful times we spent together..."
+ },
+ {
+  "k": "28",
+  "quem": "Throb (M)",
+  "en": "Damn, you're pretty dedicated."
+ },
+ {
+  "k": "29",
+  "cena": "Resistance_Arnold_Quest_Dolls_2",
+  "quem": "Jewel (F)",
+  "en": "Ooooh, who's this one? I like her."
+ },
+ {
+  "k": "30",
+  "quem": "Arnold (M)",
+  "en": "This one is Rita. She's a little shy with strangers but when we're alone, she's the most feisty one from the whole bunch."
+ },
+ {
+  "k": "31",
+  "quem": "Rida (F)",
+  "en": "Rida? Her name like mine?"
+ },
+ {
+  "k": "32",
+  "quem": "Arnold (M)",
+  "en": "Close, but not quite. She's 'Rita', spelt with a 'T'."
+ },
+ {
+  "k": "33",
+  "quem": "Arnold (M)",
+  "en": "You're 'Rida' with a 'D'."
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Heheh!"
+ },
+ {
+  "k": "35",
+  "quem": "Jewel (F)",
+  "en": "Hehehe~"
+ },
+ {
+  "k": "36",
+  "quem": "Rida (F)",
+  "en": "Why everyone laughing?"
+ },
+ {
+  "k": "37",
+  "cena": "Resistance_Arnold_Quest_Dolls_3a",
+  "quem": "Jenna (F)",
+  "en": "Arnold over here! This one's stuck under some debris!"
+ },
+ {
+  "k": "38",
+  "quem": "Arnold (M)",
+  "en": "No! Tina! What have they done to her!?"
+ },
+ {
+  "k": "39",
+  "quem": "Floria (F)",
+  "en": "If we can get her out of there, we can probably fix her up back at the camp. "
+ },
+ {
+  "k": "40",
+  "quem": "Arnold (M)",
+  "en": "Those Peitho bastards! I'll never forgive them for what they've done!"
+ },
+ {
+  "k": "41",
+  "quem": "Arnold (M)",
+  "en": "Hold on, Tina! I'll save you! Everyone, stand back!"
+ },
+ {
+  "k": "42",
+  "quem": "Arnold (M)",
+  "en": "Rrrraaaaaaaaaaaaagh!"
+ },
+ {
+  "k": "43",
+  "cena": "Resistance_Arnold_Quest_Dolls_3b",
+  "quem": "Jenna (F)",
+  "en": "<i>(Damn, he's strong!)</i>"
+ },
+ {
+  "k": "44",
+  "quem": "Rida (F)",
+  "en": "Look! Doll okay!"
+ },
+ {
+  "k": "45",
+  "quem": "Floria (F)",
+  "en": "Rida's right, it doesn't actually appear to be that badly harmed at all!"
+ },
+ {
+  "k": "46",
+  "quem": "Arnold (M)",
+  "en": "Oh, Tina! You're okay! I'm so relieved!"
+ },
+ {
+  "k": "47",
+  "quem": "Throb (M)",
+  "en": "But...how? If it was caught under all that falling debris, how could it not have been broken?"
+ },
+ {
+  "k": "48",
+  "quem": "Arnold (M)",
+  "en": "Tina's a very tough gal. She looks like the rest of them, but she's actually made out of reinforced metal for when uh... things get passionate... eheh."
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "All's well that ends well, right?"
+ },
+ {
+  "k": "50",
+  "quem": "Arnold (M)",
+  "en": "Right! Let's pick up the rest!"
+ },
+ {
+  "k": "51",
+  "cena": "Resistance_Arnold_Quest_Dolls_4",
+  "quem": "Arnold (M)",
+  "en": "It's Sandra! She's looking stunning as ever. Come here, girl!"
+ },
+ {
+  "k": "52",
+  "quem": "Jewel (F)",
+  "en": "Are you doing okay there, Arnold? Are you just gonna carry them all yourself?"
+ },
+ {
+  "k": "53",
+  "quem": "Arnold (M)",
+  "en": "Absolutely! After so long without my girls, we need some skin to skin contact! I can handle it just fine, I'm used to lifting things way heavier!"
+ },
+ {
+  "k": "54",
+  "quem": "Rida (F)",
+  "en": "Arnold strong! Rida like that."
+ },
+ {
+  "k": "55",
+  "quem": "Arnold (M)",
+  "en": "I'd be happy to train with you when we go back to the camp!"
+ },
+ {
+  "k": "56",
+  "cena": "Resistance_Arnold_Quest_Dolls_5",
+  "quem": "Arnold (M)",
+  "en": "Here she is! Whoo boy, training just wasn't the same without you, Mary."
+ },
+ {
+  "k": "57",
+  "quem": "Rida (F)",
+  "en": "This one train with you?"
+ },
+ {
+  "k": "58",
+  "quem": "Arnold (M)",
+  "en": "No, but she helps in her own way!"
+ },
+ {
+  "k": "59",
+  "cena": "Resistance_Arnold_Quest_Dolls_6",
+  "quem": "Arnold (M)",
+  "en": "Yes, we've found Jessica!"
+ },
+ {
+  "k": "60",
+  "quem": "Throb (M)",
+  "en": "Oh man, all these girls. You could probably write a song about your life, Arnold."
+ },
+ {
+  "k": "61",
+  "quem": "Jewel (F)",
+  "en": "Yep, I can definitely see a catchy mambo being written about Arnie and his girls."
+ },
+ {
+  "k": "62",
+  "quem": "Arnold (M)",
+  "en": "You guys think so?"
+ },
+ {
+  "k": "63",
+  "quem": "Arnold (M)",
+  "en": "Now that I think about it, a song is the perfect gift I can give to my girls to show them how much I appreciate them after our unfortunate separation!"
+ },
+ {
+  "k": "64",
+  "cena": "Resistance_Arnold_Quest_Dolls_End",
+  "quem": "Narrador",
+  "en": "<i>An ominous noise interrupts us... Whatever's down here with us, it's probably worse than Peitho.</i>"
+ },
+ {
+  "k": "65",
+  "quem": "Throb (M)",
+  "en": "It's those things again..."
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "Hate to break the touching reunion, but I think they're onto us!"
+ },
+ {
+  "k": "67",
+  "quem": "Arnold (M)",
+  "en": "Right! Let's make our daring escape!"
+ },
+ {
+  "k": "68",
+  "cena": "Resistance_Arnold_Quest_Fight_End",
+  "quem": "Jenna (F)",
+  "en": "And that's that! We put those Peitho grunts in their place! We're not gonna let them break our spirits just 'cus they raided our base!"
+ },
+ {
+  "k": "69",
+  "quem": "Floria (F)",
+  "en": "I won't let anyone refer to me as a test subject anymore!"
+ },
+ {
+  "k": "70",
+  "quem": "Rida (F)",
+  "en": "And I no allow anyone to question my title again!"
+ },
+ {
+  "k": "71",
+  "quem": "Arnold (M)",
+  "en": "I knew I could count on you guys! They never stood a chance."
+ },
+ {
+  "k": "72",
+  "quem": "Arnold (M)",
+  "en": "Next time we run into them, you can count on me to get in a few kicks on behalf of my girls too!"
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "Alright, let's head back to the camp and help set up Arnold's room!"
+ },
+ {
+  "k": "74",
+  "cena": "Resistance_Arnold_Quest_Fight_Start_0",
+  "quem": "Jenna (F)",
+  "en": "Whew...we made it out alive!"
+ },
+ {
+  "k": "75",
+  "quem": "Throb (M)",
+  "en": "I am not looking forward to encountering those things again."
+ },
+ {
+  "k": "76",
+  "quem": "Jewel (F)",
+  "en": "You never know, if worse comes to worst, I could always fuck them till they've got no stamina to chase us anymore!"
+ },
+ {
+  "k": "77",
+  "quem": "Throb (M)",
+  "en": "This is definitely a subset of 'people', if you can even call those things that, that you should not be thinking about fucking, Jewel!"
+ },
+ {
+  "k": "78",
+  "quem": "Jewel (F)",
+  "en": "Why not? It's not like that trick's failed me before."
+ },
+ {
+  "k": "79",
+  "quem": "Rida (F)",
+  "en": "Everyone! Rida hear something!"
+ },
+ {
+  "k": "80",
+  "quem": "Jewel (F)",
+  "en": "We're out of the cave, Rida. I don't think those things can follow us out here. What's the worst that could happen?"
+ },
+ {
+  "k": "81",
+  "cena": "Resistance_Arnold_Quest_Fight_Start_1",
+  "quem": "Soldier (M)",
+  "en": "You there! It's the resistance!"
+ },
+ {
+  "k": "82",
+  "quem": "Soldier (M)",
+  "en": "And the escaped test subject from the lower floors! Along with one of the fiends!"
+ },
+ {
+  "k": "83",
+  "quem": "Rida (F)",
+  "en": "Demons..."
+ },
+ {
+  "k": "84",
+  "quem": "Arnold (M)",
+  "en": "You! You're the ones who raided our base and put my beloved girls at risk!"
+ },
+ {
+  "k": "85",
+  "quem": "Soldier (M)",
+  "en": "What? These girls here are the resistance robot's harem?"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "You'll have less time to wonder about stupid questions like that after we take you down, you Peitho scum!"
+ },
+ {
+  "k": "87",
+  "quem": "Jewel (F)",
+  "en": "Though I for one wouldn't mind being part of Arnie's harem."
+ },
+ {
+  "k": "88",
+  "quem": "Throb (M)",
+  "en": "Jewel!!!"
+ },
+ {
+  "k": "89",
+  "quem": "Jewel (F)",
+  "en": "Okay, okay! I'm ready to fight either way!"
+ },
+ {
+  "k": "90",
+  "quem": "Arnold (M)",
+  "en": "Give 'em hell guys!"
+ },
+ {
+  "k": "91",
+  "quem": "Jenna (F)",
+  "en": "You got it! We're gonna make 'em pay for what they've done."
+ },
+ {
+  "k": "92",
+  "cena": "Resistance_Arnold_Quest_Final",
+  "quem": "Arnold (M)",
+  "en": "And there we go! Now we're all set!"
+ },
+ {
+  "k": "93",
+  "quem": "Arnold (M)",
+  "en": "It took a while, but I can finally say this place feels like home again!"
+ },
+ {
+  "k": "94",
+  "quem": "Jewel (F)",
+  "en": "Always happy to help out a hunk in need!"
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "It really is nice to see you return back to your usual self, Arnold. The resistance just wasn't the same without your attitude!"
+ },
+ {
+  "k": "96",
+  "quem": "Arnold (M)",
+  "en": "I'll have to work extra hard to motivate everyone who counts on me! I've been falling behind on that it seems!"
+ },
+ {
+  "k": "97",
+  "quem": "Rida (F)",
+  "en": "Train with Rida too! No forget training with Rida!"
+ },
+ {
+  "k": "98",
+  "quem": "Arnold (M)",
+  "en": "Of course not!"
+ },
+ {
+  "k": "99",
+  "quem": "Throb (M)",
+  "en": "One step closer to rebuilding the resistance back up from the ashes."
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "We've still got a long way to go, but we're off to a good start."
+ },
+ {
+  "k": "101",
+  "quem": "Arnold (M)",
+  "en": "And don't forget! If you ever need anything from me, I'm back in my groove now. All you have to do is ask!"
+ },
+ {
+  "k": "102",
+  "quem": "Arnold (M)",
+  "en": "I'll be hanging out around here catching up with my girls and training with anyone who wants a tough workout!"
+ },
+ {
+  "k": "103",
+  "cena": "Resistance_Arnold_Quest_Start",
+  "quem": "Jenna (F)",
+  "en": "Hey Arnold. You've been looking down ever since we got here. Like, REALLY down."
+ },
+ {
+  "k": "104",
+  "quem": "Arnold (M)",
+  "en": "Bah...it's nothing..."
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "You know, other people in the resistance are counting on you to be a beacon of hope for them."
+ },
+ {
+  "k": "106",
+  "quem": "Arnold (M)",
+  "en": "I'm very much aware of that...and those expectations are proving to be a weight even I can't bear right now..."
+ },
+ {
+  "k": "107",
+  "quem": "Arnold (M)",
+  "en": "It makes me so angry!"
+ },
+ {
+  "k": "108",
+  "quem": "Arnold (M)",
+  "en": "But at the same time, I feel so powerless to do anything about it..."
+ },
+ {
+  "k": "109",
+  "quem": "Jenna (F)",
+  "en": "I didn't mean it like that. I meant that, if you feel like you're not strong enough to deal with it alone, there's no shame in asking for help."
+ },
+ {
+  "k": "110",
+  "quem": "Arnold (M)",
+  "en": "It feels selfish. Everyone else has suffered losses just like I have, but they continue to operate...not to mention I'm sure that my losses are a little trivial in the eyes of the other resistance members..."
+ },
+ {
+  "k": "111",
+  "quem": "Arnold (M)",
+  "en": "If I were to ask for help, I'd only be putting an undue burden on the shoulders of my three colleagues..."
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "You don't have to ask them for help. We're here to help too you know! That's actually why I wanted to talk to you."
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "If there's anything we can do to help get you back to your old self, we're happy to lend a hand! Isn't that right guys?"
+ },
+ {
+  "k": "114",
+  "quem": "Floria (F)",
+  "en": "Yes. Many of us seek retribution for the acts committed against us by Peitho. This is our mutual struggle. I would lend my hand to help you if I could in any way."
+ },
+ {
+  "k": "115",
+  "quem": "Rida (F)",
+  "en": "Plant lady say many big words, but Rida agree with her. Rida will help too!"
+ },
+ {
+  "k": "116",
+  "quem": "Jewel (F)",
+  "en": "Do I look like the kind of gal that won't want to turn the frown of a man like you upside down? "
+ },
+ {
+  "k": "117",
+  "quem": "Throb (M)",
+  "en": "Consider me in too. I'll do everything I can to help as well."
+ },
+ {
+  "k": "118",
+  "quem": "Arnold (M)",
+  "en": "Wow...I...I don't know what to say..."
+ },
+ {
+  "k": "119",
+  "quem": "Arnold (M)",
+  "en": "I'm very grateful for your offer, but I'm afraid what's bothering me will probably be trivial to you guys as well. You're better off helping the others."
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "Come on! Don't be like that! We're the ones who offered help, weren't we?"
+ },
+ {
+  "k": "121",
+  "quem": "Rida (F)",
+  "en": "No problem stupid."
+ },
+ {
+  "k": "122",
+  "quem": "Throb (M)",
+  "en": "Yeah, if it's bothering you that much, we definitely wanna help out. Whatever it is, we'll be understanding."
+ },
+ {
+  "k": "123",
+  "quem": "Arnold (M)",
+  "en": "Well...if you guys insist..."
+ },
+ {
+  "k": "124",
+  "quem": "Arnold (M)",
+  "en": "The problem is my mannequins are gone. I figured I'd have time to take them with me during the evacuation, but I was too busy helping the other members."
+ },
+ {
+  "k": "125",
+  "quem": "Arnold (M)",
+  "en": "I'm just not the same without them...I can barely even deadlift things I could hold up with one hand easily..."
+ },
+ {
+  "k": "126",
+  "quem": "Jewel (F)",
+  "en": "Well, it's certainly not a conventional issue."
+ },
+ {
+  "k": "127",
+  "quem": "Jewel (F)",
+  "en": "But I think I speak for the team when I say we're still willing to help you out. Whatever it takes to get your old attitude back!"
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "Yep, you can count on us for help!"
+ },
+ {
+  "k": "129",
+  "quem": "Arnold (M)",
+  "en": "But...why would you all risk going back into the caves to retrieve a bunch of mannequins. I recognize that to you humans they are replacable objects. There's no logical reason for you to risk it."
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "Doesn't really matter what most people think. Even if they look replacable to us, what matters is that they're important to you. And for that, we're willing to risk it."
+ },
+ {
+  "k": "131",
+  "quem": "Jewel (F)",
+  "en": "We don't have to understand everything to be willing to help a friend."
+ },
+ {
+  "k": "132",
+  "quem": "Rida (F)",
+  "en": "Rida don't understand half of things friends do, but Rida still help!"
+ },
+ {
+  "k": "133",
+  "quem": "Throb (M)",
+  "en": "Plus, there could be a silver lining to all this. It's quite likely that the Peitho soldiers cleaning up the base have no idea those mannequins are Arnold's most prized possession."
+ },
+ {
+  "k": "134",
+  "quem": "Throb (M)",
+  "en": "If they knew, there's no doubt they'd dispose of them instantly. But given what most people would think of them, there's a great chance they're still lying there in the cave untouched."
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "You're right! See Arnold? Things aren't so bad after all, and with us at your side, we can swoop into that cave and recover your mannequins."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "Just give the word and we're ready to head out!"
+ },
+ {
+  "k": "137",
+  "quem": "Arnold (M)",
+  "en": "Well...I certainly didn't expect this..."
+ },
+ {
+  "k": "138",
+  "quem": "Arnold (M)",
+  "en": "But since you guys look so determined, I won't turn down your offer."
+ },
+ {
+  "k": "139",
+  "quem": "Arnold (M)",
+  "en": "And I'll make sure to put in the extra effort to make up for all this sulking once we're back!"
+ },
+ {
+  "k": "140",
+  "quem": "Jewel (F)",
+  "en": "That's the spirit!"
+ },
+ {
+  "k": "141",
+  "quem": "Floria (F)",
+  "en": "We're ready to head out then?"
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "Seems like it!"
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "Let the Mannequin Recovery Operation begin!"
+ },
+ {
+  "k": "144",
+  "cena": "Resistance_Camp_Altin_Default",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "145",
+  "tipo": "escolha",
+  "en": "Talk."
+ },
+ {
+  "k": "146",
+  "cena": "Resistance_Camp_Altin_PreDefault",
+  "quem": "Altin (M)",
+  "en": "O-Oh! Need s-something?"
+ },
+ {
+  "k": "147",
+  "cena": "Resistance_Camp_Altin_Talk",
+  "quem": "Jenna (F)",
+  "en": "Let's talk!"
+ },
+ {
+  "k": "148",
+  "quem": "Altin (M)",
+  "en": "O-Oh! Okay."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "Good talk!"
+ },
+ {
+  "k": "150",
+  "quem": "Altin (M)",
+  "en": "Y-Yes!"
+ },
+ {
+  "k": "151",
+  "cena": "Resistance_Mansion_Sofie_Default",
+  "tipo": "escolha",
+  "en": "Give Sofie a holiday hat!"
+ },
+ {
+  "k": "152",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "153",
+  "tipo": "escolha",
+  "en": "Talk to her."
+ },
+ {
+  "k": "154",
+  "cena": "Resistance_Mansion_Sofie_Sex_0",
+  "en": "Ya know... Maybe we could do something together."
+ },
+ {
+  "k": "155",
+  "en": "You wanna fuck? Well you can eat my ass, but that's all you can have."
+ },
+ {
+  "k": "156",
+  "en": "Deal."
+ },
+ {
+  "k": "157",
+  "cena": "Resistance_Mansion_Sofie_Sex_1",
+  "en": "Comfy back there, slacker~?"
+ },
+ {
+  "k": "158",
+  "en": "Oh hush up."
+ },
+ {
+  "k": "159",
+  "en": "Ffffhaa~"
+ },
+ {
+  "k": "160",
+  "en": "Mmmm~"
+ },
+ {
+  "k": "161",
+  "en": "Fhhhhah~!"
+ },
+ {
+  "k": "162",
+  "cena": "Resistance_Mansion_Sofie_Start",
+  "en": "Wutcha need, slacker?"
+ },
+ {
+  "k": "163",
+  "cena": "Resistance_Mansion_Sofie_Talk",
+  "quem": "Jenna (F)",
+  "en": "I just wanna talk."
+ },
+ {
+  "k": "164",
+  "quem": "Sofie (F)",
+  "en": "Well make it quick! I've got important shit to do unlike yooou!"
+ },
+ {
+  "k": "165",
+  "cena": "Resistance_Mansion_Sofie_Talk__Choices",
+  "tipo": "escolha",
+  "en": "Nevermind."
+ },
+ {
+  "k": "166",
+  "tipo": "escolha",
+  "en": "Ask about what she's doing."
+ },
+ {
+  "k": "167",
+  "tipo": "escolha",
+  "en": "Ask about her life before the third crisis."
+ },
+ {
+  "k": "168",
+  "tipo": "escolha",
+  "en": "Ask her how she joined the resistance."
+ },
+ {
+  "k": "169",
+  "cena": "Resistance_Mansion_Sofie_Talk_AskAboutLife",
+  "quem": "Jenna (F)",
+  "en": "How was your life before all the crisis happened? Do you miss it?"
+ },
+ {
+  "k": "170",
+  "quem": "Sofie (F)",
+  "en": "Pssh... Of course not! Life is way cooler now! I couldn't have as many guns as I can now. My stash is way bigger than the zero guns I had a few years ago."
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "Well... Don't you miss your family and your friends?"
+ },
+ {
+  "k": "172",
+  "quem": "Sofie (F)",
+  "en": "I... Ehm..."
+ },
+ {
+  "k": "173",
+  "quem": "Sofie (F)",
+  "en": "This is my family now! Plus I've got all kinds of guns to keep me company! I don't need friends!"
+ },
+ {
+  "k": "174",
+  "quem": "Sofie (F)",
+  "en": "But... I miss cats."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Well I've seen a cat walking around Carceburg."
+ },
+ {
+  "k": "176",
+  "quem": "Sofie (F)",
+  "en": "You're lying!"
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "Nope! Maybe you could go see him sometime."
+ },
+ {
+  "k": "178",
+  "quem": "Sofie (F)",
+  "en": "... That'd be nice."
+ },
+ {
+  "k": "179",
+  "cena": "Resistance_Mansion_Sofie_Talk_HowSheJoined",
+  "quem": "Jenna (F)",
+  "en": "So how did you end up joining the resistance?"
+ },
+ {
+  "k": "180",
+  "quem": "Sofie (F)",
+  "en": "Because someone's gotta stand up to those fucking GAG fuckers!"
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "I asked how, not why."
+ },
+ {
+  "k": "182",
+  "quem": "Sofie (F)",
+  "en": "Well... I was part of the Lumber Rats and ended up in some trouble... They wanted me to be one of their healsluts and I didn't really wanna..."
+ },
+ {
+  "k": "183",
+  "quem": "Sofie (F)",
+  "en": "So they kicked me out... and tossed me on the street."
+ },
+ {
+  "k": "184",
+  "quem": "Sofie (F)",
+  "en": "But... Arnold ran into me and took me in. Since I knew my way around engineering, I could patch him up and he'd keep me safe."
+ },
+ {
+  "k": "185",
+  "quem": "Sofie (F)",
+  "en": "Eventually him and I found out about the resistance and then we joined up!"
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "That's a really nice story."
+ },
+ {
+  "k": "187",
+  "quem": "Sofie (F)",
+  "en": "Yeah... it is..."
+ },
+ {
+  "k": "188",
+  "quem": "Sofie (F)",
+  "en": "But that's enough sappy shit, twinkle toes!"
+ },
+ {
+  "k": "189",
+  "cena": "Resistance_Mansion_Sofie_Talk_WhatYouDoing",
+  "quem": "Jenna (F)",
+  "en": "Wutcha workin' on over here?"
+ },
+ {
+  "k": "190",
+  "quem": "Sofie (F)",
+  "en": "Duuuh! I'm working on the generators, doofus! They're not gonna keep themselves running ya know!"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "Isn't that tough work? Wouldn't ya rather be working on guns or something?"
+ },
+ {
+  "k": "192",
+  "quem": "Sofie (F)",
+  "en": "Nothin's tough for me, slacker... Although more guns would always be nice. You can never have too many."
+ },
+ {
+  "k": "193",
+  "cena": "Resistance_Workout_0",
+  "quem": "Jenna (F)",
+  "en": "Ahh! Phew!"
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "You stack these weights high!"
+ },
+ {
+  "k": "195",
+  "quem": "Arnold (M)",
+  "en": "We're just getting started! You're doing great though! They train you hard up in AIRSHIP?"
+ },
+ {
+  "k": "196",
+  "quem": "Jenna (F)",
+  "en": "Yep! Been a while since I did some training though."
+ },
+ {
+  "k": "197",
+  "quem": "Arnold (M)",
+  "en": "Well you don't seem rusty at all."
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "Thanks!"
+ },
+ {
+  "k": "199",
+  "quem": "Arnold (M)",
+  "en": "You're welcome. Now let's get you on another machine."
+ },
+ {
+  "k": "200",
+  "cena": "Resistance_Workout_1",
+  "quem": "Jenna (F)",
+  "en": "Arghh!"
+ },
+ {
+  "k": "201",
+  "quem": "Arnold (M)",
+  "en": "Come on! Come on! Push! Push through it! You got it!"
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "Phew!"
+ },
+ {
+  "k": "203",
+  "quem": "Arnold (M)",
+  "en": "Nice one! Shit, you do better than me."
+ },
+ {
+  "k": "204",
+  "quem": "Jenna (F)",
+  "en": "Oh you're just saying that."
+ },
+ {
+  "k": "205",
+  "quem": "Arnold (M)",
+  "en": "Nah, you're a tough gal. One of the toughest I've seen in a while."
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "Thanks! I try my best."
+ },
+ {
+  "k": "207",
+  "quem": "Arnold (M)",
+  "en": "It shows! Especially in that tanktop! You look great!"
+ },
+ {
+  "k": "208",
+  "quem": "Jenna (F)",
+  "en": "Hehe, let's get you under the weights before you drown me in flattery."
+ }
+]

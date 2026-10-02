@@ -1,0 +1,983 @@
+[
+ {
+  "k": "1",
+  "cena": "return to carceburg 7",
+  "en": "jenna hiding under the counter, klaus there with wildfire, flacked by two peitho captains (the black/red uniform peeps)"
+ },
+ {
+  "k": "2",
+  "en": "Quite a nice place you have here, Klaus. "
+ },
+ {
+  "k": "3",
+  "en": "Why, thank you. If you or your men are ever needing a place to stay, you're more than welcome here. Though I'm sure your own facilities are far better."
+ },
+ {
+  "k": "4",
+  "en": "You're a smart man, aren't you, Klaus?"
+ },
+ {
+  "k": "5",
+  "en": "I like to think that I am, yes."
+ },
+ {
+  "k": "6",
+  "en": "And I suppose a smart man like you knows exactly what would happen if we were to find out that you're housing or helping the resistance here, right?"
+ },
+ {
+  "k": "7",
+  "en": "I assume it would involve you burning this place to the ground, something that I'm not too keen on having happen."
+ },
+ {
+  "k": "8",
+  "en": "There is one more thing I'd like to say. There were some reports that you had a badge girl under your ownership here a while ago."
+ },
+ {
+  "k": "9",
+  "en": "I'm afraid you'll have to be a little bit more specific than that, Commander. I fancy myself a man of opportunity. I've had quite a lot of badge girls serve me over time. Is there one you're interested in?"
+ },
+ {
+  "k": "10",
+  "en": "Yes. "
+ },
+ {
+  "k": "11",
+  "en": "Average height. Medium length black hair, not longer than her shoulders. Athletic build. Absolutely un-fucking-bearable shit eating grin."
+ },
+ {
+  "k": "12",
+  "en": "God, I fucking hate that bitch! I won't even burn her! I'll fucking pull every limb off her stupid body next time I see her!"
+ },
+ {
+  "k": "13",
+  "en": "Commander..."
+ },
+ {
+  "k": "14",
+  "en": "Yes...yes...haaaah...keep the flames under control in doors..."
+ },
+ {
+  "k": "15",
+  "en": "I FUCKING KNOW THAT!"
+ },
+ {
+  "k": "16",
+  "en": "Haaaah...haaaah..."
+ },
+ {
+  "k": "17",
+  "en": "Excuse me. I just get so worked up every time I think of that bitch! Have you seen her? I'll be sure to recommend you to Mistress Leath for some kind of special privilege if you were to help me with this."
+ },
+ {
+  "k": "18",
+  "en": "<i>(Shit! He's gonna rat us out!)</i>"
+ },
+ {
+  "k": "19",
+  "en": "Hmmmm...I may have seen this girl..."
+ },
+ {
+  "k": "20",
+  "en": "<i>(Klaus, you bastard!)</i>"
+ },
+ {
+  "k": "21",
+  "en": "Would you be so kind to give me some more details about this girl? How was her bust?"
+ },
+ {
+  "k": "22",
+  "en": "Average! At best! And really fucking unappealing!"
+ },
+ {
+  "k": "23",
+  "en": "<i>(Ouch...)</i>"
+ },
+ {
+  "k": "24",
+  "en": "Hmmm...no."
+ },
+ {
+  "k": "25",
+  "en": "What?"
+ },
+ {
+  "k": "26",
+  "en": "Definitely not the girl in mind. And now that I think about it better, that girl was a brunette. Pretty light brown hair too. And her tits were fucking massive. Doubt that's who you're looking for."
+ },
+ {
+  "k": "27",
+  "en": "<i>(Wait...did he just cover for us...?)</i>"
+ },
+ {
+  "k": "28",
+  "en": "I see. Unfortunate. It is what it is. Rest assured I'll track that bitch down myself."
+ },
+ {
+  "k": "29",
+  "en": "I'm sure you will, Commander. I wish you good luck on your hunt."
+ },
+ {
+  "k": "30",
+  "en": "In the meantime, I expect that you'll report directly to me if you see her at all. Any information that leads to her capture will be rewarded. And like I said, it'll be a good fucking reward for someone like you."
+ },
+ {
+  "k": "31",
+  "en": "I'll keep a watchful eye, Commander. If she passes by this motel, you'll be the first to know."
+ },
+ {
+  "k": "32",
+  "en": "Right. That's all I needed to tell you. If you'll excuse me, I have to go settle into my new quarters. You two, we're done here, get a fucking move on!"
+ },
+ {
+  "k": "33",
+  "en": "Ma'am!"
+ },
+ {
+  "k": "34",
+  "en": "fade to black"
+ },
+ {
+  "k": "35",
+  "cena": "return to carceburg 8",
+  "en": "black"
+ },
+ {
+  "k": "36",
+  "en": "<i>(And that was that. Karen and who I assume were two of her bodyguards took their leave with Klaus seeing them off to the door.)</i>"
+ },
+ {
+  "k": "37",
+  "en": "Enjoy your stay in Carceburg, Commander! And feel free to drop me a line whenever you need me! I'm at your service!"
+ },
+ {
+  "k": "38",
+  "en": "lock sound"
+ },
+ {
+  "k": "39",
+  "en": "<i>(After locking the door, Klaus gave us the signal to come out of hiding.)</i>"
+ },
+ {
+  "k": "40",
+  "en": "fade in to next scene"
+ },
+ {
+  "k": "41",
+  "cena": "return to carceburg 9",
+  "en": "whole party gaathers back into the lobby of the motel with klaus"
+ },
+ {
+  "k": "42",
+  "en": "I hope you trust me now, Jenna. I believe I've displayed more than enough reason for you to do so."
+ },
+ {
+  "k": "43",
+  "en": "Well, you're right about that much..."
+ },
+ {
+  "k": "44",
+  "en": "Though what if you just wanted to make us trust you so you can betray us later?"
+ },
+ {
+  "k": "45",
+  "en": "Oh please, that would be so painfully inefficient."
+ },
+ {
+  "k": "46",
+  "en": "I have you ALL gathered here, while the Commander of the city is here with an entire horde of guards outside, and I would pass this up for a 'better' opportunity later? "
+ },
+ {
+  "k": "47",
+  "en": "I'm having a little bit of trouble thinking what that 'better' opportunity would even be, let alone when I would stumble onto it."
+ },
+ {
+  "k": "48",
+  "en": "Hmmm..."
+ },
+ {
+  "k": "49",
+  "en": "I think he's got a point here, Jenna. It won't get better than this for him. If he wanted to sell us out, this was his chance to do so."
+ },
+ {
+  "k": "50",
+  "en": "Fine, I guess you've got a pretty solid point there. Can't think of a better opportunity myself either."
+ },
+ {
+  "k": "51",
+  "en": "Many of us Carcens feel very strongly about this city. That's the reason I'm willing to pass up their benefits and continue endangering myself to keep you here. If that doesn't convince you, I don't know what will."
+ },
+ {
+  "k": "52",
+  "en": "Alright, alright. I trust you. Now what?"
+ },
+ {
+  "k": "53",
+  "en": "Well, we're here on a recon mission, are we not?"
+ },
+ {
+  "k": "54",
+  "en": "We should probably go out and ask some people about what they're doing, where they're setting up, and all of that stuff. Get some info and head back."
+ },
+ {
+  "k": "55",
+  "en": "But the whole place is crawling with guards!"
+ },
+ {
+  "k": "56",
+  "en": "It's not like nightfall's gonna do us any good. By then they'll probably be even more prepared since we'll give them time to set themselves up properly."
+ },
+ {
+  "k": "57",
+  "en": "Most of those men are new to Carceburg, we should use the time they take to familiarize themselves with the area to sneak around and talk to the locals."
+ },
+ {
+  "k": "58",
+  "en": "And if any of them get suspicious, I know <i>just</i> the way to distract them."
+ },
+ {
+  "k": "59",
+  "en": "I think we need your clothes to stay on for this one, Jewel. We don't need them having those kinds of distractions. They take a while."
+ },
+ {
+  "k": "60",
+  "en": "Awww..."
+ },
+ {
+  "k": "61",
+  "en": "Alright, then it's settled. We'll gather whatever info we can and then use the secret tunnel to get back to the resistance base!"
+ },
+ {
+  "k": "62",
+  "en": "You got it! Let's do this!"
+ },
+ {
+  "k": "63",
+  "en": "*Ahem*"
+ },
+ {
+  "k": "64",
+  "en": "I believe a 'thank you' is in order, at the very least."
+ },
+ {
+  "k": "65",
+  "en": "Thank you, Klaus. You're actually nice for once."
+ },
+ {
+  "k": "66",
+  "en": "That second part was totally unnecessary, but I'll let it slide. Off you go then. Good luck on your mission. "
+ },
+ {
+  "k": "67",
+  "en": "player now has control, they have to go out, sneak past guards and talk to X amount of people in Carceburg to gather info"
+ },
+ {
+  "k": "68",
+  "cena": "ReturnToCarceburg_0_Sleep_0",
+  "quem": "???",
+  "en": "Jenna~ Dinner's ready~"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "Karen..."
+ },
+ {
+  "k": "70",
+  "quem": "Floria (F)",
+  "en": "Jenna! Help! Please!"
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "Wh..."
+ },
+ {
+  "k": "72",
+  "quem": "Karen (F)",
+  "en": "Hope you like fried lettuce."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "Gah!"
+ },
+ {
+  "k": "74",
+  "quem": "Jenna (F)",
+  "en": "<i>(Just a nightmare... Just a nightmare...)</i>"
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "<i>(And now I'm back in this nightmare... At least I could wake up from the other one...)</i>"
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "<i>(I better go see if Lady's found anything important from that map.)</i>"
+ },
+ {
+  "k": "77",
+  "cena": "ReturnToCarceburg_1_Lady_0",
+  "quem": "Jenna (F)",
+  "en": "Any luck on that map shard yet?"
+ },
+ {
+  "k": "78",
+  "quem": "Lady (F)",
+  "en": "Nothing conclusive, but we're seeing large amounts of GAG activity in Carceburg."
+ },
+ {
+  "k": "79",
+  "quem": "Throb (M)",
+  "en": "Large activity? Like a patrol? Or a commander arriving?"
+ },
+ {
+  "k": "80",
+  "quem": "Lady (F)",
+  "en": "Much bigger... We're seeing GAG forces flooding the place... There hasn't been this much since..."
+ },
+ {
+  "k": "81",
+  "quem": "Jewel (F)",
+  "en": "The failed coup."
+ },
+ {
+  "k": "82",
+  "quem": "Lady (F)",
+  "en": "Yes..."
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "So let's go check it out."
+ },
+ {
+  "k": "84",
+  "quem": "Lady (F)",
+  "en": "... What?"
+ },
+ {
+  "k": "85",
+  "quem": "Throb (M)",
+  "en": "Are you crazy? She said it's flooded with GAG forces."
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "You mean the chumps we've been kicking the crap out of already?"
+ },
+ {
+  "k": "87",
+  "quem": "Lady (F)",
+  "en": "Don't underestimate them. It's too dangerous."
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "Listen. I just want my girlfriend back. I'm not going to give up on her."
+ },
+ {
+  "k": "89",
+  "quem": "Lady (F)",
+  "en": "Wildfire... How could you love that monster?"
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "She's not a monster. There's still good in her somewhere."
+ },
+ {
+  "k": "91",
+  "quem": "Lady (F)",
+  "en": "She's killed people. Whatever you're looking for in her... It's not there anymore. We need to worry about the people that <b>are</b> still here. About Survival."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "... I'm not turning my back on her."
+ },
+ {
+  "k": "93",
+  "quem": "Lady (F)",
+  "en": "And what if your choice is between her or us? What if she's going to kill one of us? What would you do then?"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "... I..."
+ },
+ {
+  "k": "95",
+  "quem": "Lady (F)",
+  "en": "Would you freeze? Like you did when she had your plant friend?"
+ },
+ {
+  "k": "96",
+  "quem": "Floria (F)",
+  "en": "I coulda taken her."
+ },
+ {
+  "k": "97",
+  "quem": "Lady (F)",
+  "en": "She would have died if we hadn't stepped in. You're not fit to face Wildfire."
+ },
+ {
+  "k": "98",
+  "quem": "Jewel (F)",
+  "en": "Let's just... go."
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "We're going back to Carceburg."
+ },
+ {
+  "k": "100",
+  "quem": "Lady (F)",
+  "en": "Fine. Then at least gather as much information as you can."
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "We will."
+ },
+ {
+  "k": "102",
+  "cena": "ReturnToCarceburg_2_TunnelFight_Start_0",
+  "quem": "Jenna (F)",
+  "en": "Crap... They must've left some sorta lookout squad."
+ },
+ {
+  "k": "103",
+  "quem": "Floria (F)",
+  "en": "That shouldn't be too much trouble for us."
+ },
+ {
+  "k": "104",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "105",
+  "quem": "Soldier (M)",
+  "en": "Hey! Some of them came back!"
+ },
+ {
+  "k": "106",
+  "quem": "Soldier (M)",
+  "en": "Just like Pyra said!"
+ },
+ {
+  "k": "107",
+  "quem": "Jewel (F)",
+  "en": "Time for some action."
+ },
+ {
+  "k": "108",
+  "quem": "Throb (M)",
+  "en": "Oh boy..."
+ },
+ {
+  "k": "109",
+  "cena": "ReturnToCarceburg_2_TunnelFight_Win_0",
+  "quem": "Jenna (F)",
+  "en": "We should probably get moving before more show up."
+ },
+ {
+  "k": "110",
+  "quem": "Throb (M)",
+  "en": "Good plan..."
+ },
+ {
+  "k": "111",
+  "cena": "ReturnToCarceburg_3_Carceburg_1_Intro_0",
+  "quem": "Floria (F)",
+  "en": "W-What have they done...? What happened to the grass... the trees?"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Oh god..."
+ },
+ {
+  "k": "113",
+  "quem": "Floria (F)",
+  "en": "The rain... It's not natural... I can feel... sadness... in the land..."
+ },
+ {
+  "k": "114",
+  "cena": "ReturnToCarceburg_3_Carceburg_1_Intro_1",
+  "quem": "Jewel (F)",
+  "en": "What's all that shit they put all over the bar?"
+ },
+ {
+  "k": "115",
+  "quem": "Rida (F)",
+  "en": "Demons... Demons did this..."
+ },
+ {
+  "k": "116",
+  "cena": "ReturnToCarceburg_3_Carceburg_1_Intro_2",
+  "quem": "Throb (M)",
+  "en": "Crap... The whole town is like this..."
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "How could they do this so fast? We weren't gone that long..."
+ },
+ {
+  "k": "118",
+  "quem": "Throb (M)",
+  "en": "They've always been able to put together massive occupations like this... They just never felt the need to do anything to Carceburg... Until now it seems."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "All the people here... Things were bad enough as it is... They can't live like this..."
+ },
+ {
+  "k": "120",
+  "cena": "ReturnToCarceburg_3_Carceburg_1_Intro_3",
+  "quem": "Jewel (F)",
+  "en": "Uhh... Jenna? Look up north of the town..."
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "Holy shit..."
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "We need to get a closer look. Come on."
+ },
+ {
+  "k": "123",
+  "cena": "ReturnToCarceburg_4_Carceburg_2_Tower_0",
+  "quem": "Jenna (F)",
+  "en": "Holy fuck."
+ },
+ {
+  "k": "124",
+  "quem": "Floria (F)",
+  "en": "That thing... is pure evil."
+ },
+ {
+  "k": "125",
+  "quem": "Throb (M)",
+  "en": "It's a tower..."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "No shit it's a tower."
+ },
+ {
+  "k": "127",
+  "quem": "Throb (M)",
+  "en": "No... I mean it's one of the control towers... They have them all over the world..."
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "So? What do they do?"
+ },
+ {
+  "k": "129",
+  "quem": "Throb (M)",
+  "en": "They're what keeps the world under their spell... If they're building one here..."
+ },
+ {
+  "k": "130",
+  "quem": "Jewel (F)",
+  "en": "It must be because of what we've been doing..."
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "But... everyone's already horny. What's the point of building another tower here?"
+ },
+ {
+  "k": "132",
+  "quem": "Throb (M)",
+  "en": "The closer you are, the stronger the effect... Being horny is only a side effect. Mind control is the tower's goal."
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "So... how come we're not mind controlled?"
+ },
+ {
+  "k": "134",
+  "quem": "Throb (M)",
+  "en": "They must still be finishing it up... But once they turn it on..."
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "Then it's all over."
+ },
+ {
+  "k": "136",
+  "quem": "Floria (F)",
+  "en": "We can't let them finish it."
+ },
+ {
+  "k": "137",
+  "quem": "Jewel (F)",
+  "en": "We won't."
+ },
+ {
+  "k": "138",
+  "quem": "Rida (F)",
+  "en": "Mm. Stop demons."
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "We need to get back to the resistance."
+ },
+ {
+  "k": "140",
+  "cena": "ReturnToCarceburg_4_Carceburg_2_Tower_1",
+  "quem": "Leath (F)",
+  "en": "<:: Attention citizens. Carceburg is now under indefinite curfew. Anyone caught outside will get a visit from Wildfire. You have been warned. ::>"
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "Leath..."
+ },
+ {
+  "k": "142",
+  "quem": "Jewel (F)",
+  "en": "Who?"
+ },
+ {
+  "k": "143",
+  "quem": "Throb (M)",
+  "en": "Let's discuss this later. We don't have time!"
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "Let's get back to the resistance. Come on!"
+ },
+ {
+  "k": "145",
+  "cena": "ReturnToCarceburg_4_Carceburg_3_House_0",
+  "quem": "Jenna (F)",
+  "en": "Shit! They've got the whole thing locked down."
+ },
+ {
+  "k": "146",
+  "quem": "Throb (M)",
+  "en": "Shit... How are we going to get back to the resistance?"
+ },
+ {
+  "k": "147",
+  "quem": "Floria (F)",
+  "en": "We need to hide..."
+ },
+ {
+  "k": "148",
+  "quem": "Jewel (F)",
+  "en": "Fuckers..."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "Let's get to the motel. We need to lay low for now."
+ },
+ {
+  "k": "150",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_0",
+  "quem": "Jewel (F)",
+  "en": "Shit... What are we gonna do?"
+ },
+ {
+  "k": "151",
+  "quem": "Rida (F)",
+  "en": "Beat up demons."
+ },
+ {
+  "k": "152",
+  "quem": "Throb (M)",
+  "en": "We can't just punch our way out! There's only so many we can take on!"
+ },
+ {
+  "k": "153",
+  "quem": "Floria (F)",
+  "en": "So what do we do then? Hide out in here?"
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "Let's let the heat die down for a bit. Then we can try sneaking out."
+ },
+ {
+  "k": "155",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_1",
+  "quem": "MotelOwner (M)",
+  "en": "What the fuck is this? I thought I heard someone stomping around in here, but I didn't expect this many people. What is the meaning of this?"
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "We don't really have anywhere else to go right now."
+ },
+ {
+  "k": "157",
+  "quem": "MotelOwner (M)",
+  "en": "Yeah? Give me one reason why I shouldn't report your asses to the guards."
+ },
+ {
+  "k": "158",
+  "tipo": "escolha",
+  "en": "Stand up for yourself."
+ },
+ {
+  "k": "159",
+  "tipo": "escolha",
+  "en": "<color=perversion>Apologize.</color>"
+ },
+ {
+  "k": "160",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_1_Perversion",
+  "quem": "Jenna (F)",
+  "en": "I-I'm sorry. I'll make it up to you later, <color=perversion>I swear.</color>"
+ },
+ {
+  "k": "161",
+  "quem": "MotelOwner (M)",
+  "en": "You better, you li-"
+ },
+ {
+  "k": "162",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_1_Pure",
+  "quem": "Jenna (F)",
+  "en": "Because we're the best chance you have at getting out of this curfew."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "It can't be too good for business to have everyone stuck in their houses."
+ },
+ {
+  "k": "164",
+  "quem": "MotelOwner (M)",
+  "en": "This all happened because of you. You're only going to make it worse. Give a better reason before I go to the guards."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "You're bluffing. You've had every chance to bring me in before and you haven't. So stop bullshitting and show us which side you're really on."
+ },
+ {
+  "k": "166",
+  "quem": "MotelOwner (M)",
+  "en": "You little-"
+ },
+ {
+  "k": "167",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_2",
+  "quem": "Soldier (M)",
+  "en": "Klaus Tansa! Where are you?"
+ },
+ {
+  "k": "168",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_3",
+  "quem": "MotelOwner (M)",
+  "en": "Time's up."
+ },
+ {
+  "k": "169",
+  "quem": "Jenna (F)",
+  "en": "Wait!"
+ },
+ {
+  "k": "170",
+  "quem": "Rida (F)",
+  "en": "Rida stop bad carcen."
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "No! Then they'll know something's up!"
+ },
+ {
+  "k": "172",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_4",
+  "quem": "MotelOwner (M)",
+  "en": "What brings you to my lovely establishment, officer?"
+ },
+ {
+  "k": "173",
+  "quem": "Soldier (M)",
+  "en": "A group of terrorists attacked a patrol of soldiers earlier today. We know they're somewhere in town. You didn't happen to see anything, did you?"
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Shit... We need to hide."
+ },
+ {
+  "k": "175",
+  "quem": "MotelOwner (M)",
+  "en": "Well I haven't had anyone new in this place for a long time, and I definitely wouldn't allow terrorists to dirty my motel with their presence."
+ },
+ {
+  "k": "176",
+  "quem": "Soldier (M)",
+  "en": "Hm..."
+ },
+ {
+  "k": "177",
+  "quem": "Soldier (M)",
+  "en": "Alright. Make sure you report any suspicious individuals to us."
+ },
+ {
+  "k": "178",
+  "quem": "MotelOwner (M)",
+  "en": "Of course, officer. I always do."
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "What? He didn't sell us out?"
+ },
+ {
+  "k": "180",
+  "quem": "Throb (M)",
+  "en": "Thank god..."
+ },
+ {
+  "k": "181",
+  "cena": "ReturnToCarceburg_5_Motel_1_Intro_5",
+  "quem": "MotelOwner (M)",
+  "en": "You owe me."
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "We'll repay you by kicking these fuckers out of here."
+ },
+ {
+  "k": "183",
+  "quem": "MotelOwner (M)",
+  "en": "Yeah? You and what army?"
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "... Uhh..."
+ },
+ {
+  "k": "185",
+  "quem": "MotelOwner (M)",
+  "en": "That's what I thought... Come."
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "Come?"
+ },
+ {
+  "k": "187",
+  "quem": "MotelOwner (M)",
+  "en": "I'm getting you out of here."
+ },
+ {
+  "k": "188",
+  "cena": "ReturnToCarceburg_6_Showers_0",
+  "quem": "MotelOwner (M)",
+  "en": "You can escape through here."
+ },
+ {
+  "k": "189",
+  "quem": "Throb (M)",
+  "en": "We can't all fit down the toilet."
+ },
+ {
+  "k": "190",
+  "quem": "MotelOwner (M)",
+  "en": "It's not a damn toilet. It's a passage."
+ },
+ {
+  "k": "191",
+  "cena": "ReturnToCarceburg_6_Showers_1",
+  "quem": "Jenna (F)",
+  "en": "Wh-! You had this here all this time?"
+ },
+ {
+  "k": "192",
+  "quem": "MotelOwner (M)",
+  "en": "I did. This is from the days when I was in cahoots with your little friends."
+ },
+ {
+  "k": "193",
+  "quem": "MotelOwner (M)",
+  "en": "... Back when it seemed like we had a chance."
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "We still have a chance."
+ },
+ {
+  "k": "195",
+  "quem": "MotelOwner (M)",
+  "en": "You better. I've invested quite a lot into you."
+ },
+ {
+  "k": "196",
+  "quem": "MotelOwner (M)",
+  "en": "I did all the things I did with you because I wanted to see if you could survive in this town with the curse hanging over your head. I wanted to prepare you."
+ },
+ {
+  "k": "197",
+  "cena": "ReturnToCarceburg_6_Showers_1_Perversion",
+  "quem": "MotelOwner (M)",
+  "en": "And it seems like you've been able to roll with the punches. You came this far and the sex you've had hasn't swayed you off your little quest."
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "Heh. 'Came'."
+ },
+ {
+  "k": "199",
+  "cena": "ReturnToCarceburg_6_Showers_1_Pure",
+  "quem": "MotelOwner (M)",
+  "en": "And... I'm impressed. You haven't given in even a little bit. It's like you've risen up above the curse. I've never seen anything like you in these long years."
+ },
+ {
+  "k": "200",
+  "cena": "ReturnToCarceburg_6_Showers_2",
+  "quem": "MotelOwner (M)",
+  "en": "Whether you choose to forgive me or not, just kick these assholes out of Carceburg. I'm bleeding money over here from their bullshit."
+ },
+ {
+  "k": "201",
+  "tipo": "escolha",
+  "en": "Forgive him."
+ },
+ {
+  "k": "202",
+  "tipo": "escolha",
+  "en": "Don't forgive him."
+ },
+ {
+  "k": "203",
+  "cena": "ReturnToCarceburg_6_Showers_2_Forgive",
+  "quem": "Jenna (F)",
+  "en": "I forgive you. I can see why you did what you did."
+ },
+ {
+  "k": "204",
+  "quem": "MotelOwner (M)",
+  "en": "Mhm. There's a lot riding on your shoulders, Jenna. Don't let me down."
+ }
+]

@@ -1,0 +1,858 @@
+[
+ {
+  "k": "1",
+  "cena": "ReturnToCarceburg_6_Showers_2_NoForgive",
+  "quem": "Jenna (F)",
+  "en": "No. That's bullshit. You put me through hell and you've fucked with me ever since I came to this town."
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "I'll take care of Peitho first, then I'll deal with you when I'm through with them."
+ },
+ {
+  "k": "3",
+  "quem": "MotelOwner (M)",
+  "en": "Fine. That's fair. Just get rid of them."
+ },
+ {
+  "k": "4",
+  "cena": "ReturnToCarceburg_6_Showers_3",
+  "quem": "MotelOwner (M)",
+  "en": "Now I need to go back to the front desk before they suspect anything. I trust you know where to go from here."
+ },
+ {
+  "k": "5",
+  "quem": "MotelOwner (M)",
+  "en": "... Good luck."
+ },
+ {
+  "k": "6",
+  "cena": "ReturnToCarceburg_6_Showers_4",
+  "en": "... Good luck."
+ },
+ {
+  "k": "7",
+  "cena": "ReturnToCarceburg_7_Situation_1_Conclusion_0",
+  "quem": "Lady (F)",
+  "en": "You're back. How was your little trip?"
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "We need to talk. Get everyone together."
+ },
+ {
+  "k": "9",
+  "cena": "ReturnToCarceburg_7_Situation_1_Conclusion_1",
+  "quem": "Sofie (F)",
+  "en": "Did ya give us away again yet?"
+ },
+ {
+  "k": "10",
+  "quem": "Arnold (M)",
+  "en": "Sofie..."
+ },
+ {
+  "k": "11",
+  "quem": "Jenna (F)",
+  "en": "They've taken over the whole town. It's like hell there now."
+ },
+ {
+  "k": "12",
+  "quem": "Lady (F)",
+  "en": "It's always been like hell."
+ },
+ {
+  "k": "13",
+  "quem": "Jewel (F)",
+  "en": "That was nothing compared to what it is now."
+ },
+ {
+  "k": "14",
+  "quem": "Rida (F)",
+  "en": "Demons everywhere."
+ },
+ {
+  "k": "15",
+  "quem": "Floria (F)",
+  "en": "They're killing the land."
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "And they're building a tower. It's close to being finished. Once they turn it on-"
+ },
+ {
+  "k": "17",
+  "quem": "Lady (F)",
+  "en": "We've lost."
+ },
+ {
+  "k": "18",
+  "quem": "Sofie (F)",
+  "en": "Lady? What do you mean?"
+ },
+ {
+  "k": "19",
+  "quem": "Lady (F)",
+  "en": "Did you not hear them? It's over. We need to start putting as much distance between us and that tower while we still can."
+ },
+ {
+  "k": "20",
+  "quem": "Arnold (M)",
+  "en": "Wh- But we can't just run!"
+ },
+ {
+  "k": "21",
+  "quem": "Lady (F)",
+  "en": "That's exactly what we're going to do. We're talking about survival here. What will you do if you step foot in Carceburg and that tower goes off?"
+ },
+ {
+  "k": "22",
+  "quem": "Altin (M)",
+  "en": "A-Ahem. There m-may still be s-some time until t-the tower's completion."
+ },
+ {
+  "k": "23",
+  "quem": "Lady (F)",
+  "en": "No. It's way too risky. I won't put us in harm's way like that."
+ },
+ {
+  "k": "24",
+  "quem": "Lady (F)",
+  "en": "I'd rather die than become some mindless fuck puppet for the GAG."
+ },
+ {
+  "k": "25",
+  "quem": "Rida (F)",
+  "en": "Coward."
+ },
+ {
+  "k": "26",
+  "quem": "Lady (F)",
+  "en": "I'm thinking about what's best for my people. If you did the same, you wouldn't have been cast out by them."
+ },
+ {
+  "k": "27",
+  "quem": "Floria (F)",
+  "en": "Leave Rida alone."
+ },
+ {
+  "k": "28",
+  "quem": "Sofie (F)",
+  "en": "Or what, veggie?"
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "Everyone. Stop... This is what they want. They want us to be afraid and lash out at each other. They know that we're stronger if we band together."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "That's the whole reason they're still bothering to build these 'towers' of theirs. If they could just handle everyone no problem, why waste time on them?"
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "That's our ticket. If we gather everyone together, we can finally get rid of Peitho and the GAG. We can take our town back."
+ },
+ {
+  "k": "32",
+  "quem": "Arnold (M)",
+  "en": "I like the sentiment, but there's just not enough of us here to think about taking them on."
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "Not just us. Everyone. If we have the whole town fighting with us, Peitho is finished."
+ },
+ {
+  "k": "34",
+  "quem": "Sofie (F)",
+  "en": "Good luck with that, slacker. We've already tried over and over to recruit those fools in town. They don't want to stand up for themselves."
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "That sentiment will have probably changed after living through the town's transformation. Once they realize this is their last chance, they'll fight."
+ },
+ {
+  "k": "36",
+  "quem": "Arnold (M)",
+  "en": "What do you think, Lady?"
+ },
+ {
+  "k": "37",
+  "quem": "Lady (F)",
+  "en": "Fine."
+ },
+ {
+  "k": "38",
+  "quem": "Lady (F)",
+  "en": "You need to gather these people. If you do that then..."
+ },
+ {
+  "k": "39",
+  "quem": "Lady (F)",
+  "en": "We'll fight... but don't make me regret this."
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Great. So what's our first target? Maybe Jewel can do her thing and get people to wanna join us that way."
+ },
+ {
+  "k": "41",
+  "quem": "Jewel (F)",
+  "en": "Uhm... Sure, I guess."
+ },
+ {
+  "k": "42",
+  "quem": "Throb (M)",
+  "en": "I can try to see if Tiny will join us."
+ },
+ {
+  "k": "43",
+  "quem": "Floria (F)",
+  "en": "Perhaps we can go back to the sublevels to get my offspring to fight with us."
+ },
+ {
+  "k": "44",
+  "quem": "Floria (F)",
+  "en": "But that means we'll have to..."
+ },
+ {
+  "k": "45",
+  "quem": "Rida (F)",
+  "en": "Rida tribe."
+ },
+ {
+  "k": "46",
+  "quem": "Jewel (F)",
+  "en": "We'll have to get past them."
+ },
+ {
+  "k": "47",
+  "quem": "Rida (F)",
+  "en": "Rida tribe hate Rida. Rida no go back."
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "If you don't go back, there won't be a tribe."
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "B-But uhhh heh... We don't need to worry about that now."
+ },
+ {
+  "k": "50",
+  "quem": "Rida (F)",
+  "en": "Carcen right. Tribe need Rida. Rida need tribe."
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "So it's decided then. We're gonna form an army to kick Peitho out."
+ },
+ {
+  "k": "52",
+  "quem": "Jewel (F)",
+  "en": "Sounds like a plan to me."
+ },
+ {
+  "k": "53",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "54",
+  "quem": "Floria (F)",
+  "en": "It's gonna work."
+ },
+ {
+  "k": "55",
+  "quem": "Throb (M)",
+  "en": "It has to."
+ },
+ {
+  "k": "56",
+  "quem": "Arnold (M)",
+  "en": "Yeah! We've got this!"
+ },
+ {
+  "k": "57",
+  "quem": "Sofie (F)",
+  "en": "It's an okay plan. I could've come up with a better one."
+ },
+ {
+  "k": "58",
+  "quem": "Altin (M)",
+  "en": "S-Solid reasoning! I'll m-make p-preparations!"
+ },
+ {
+  "k": "59",
+  "quem": "Lady (F)",
+  "en": "Get moving."
+ },
+ {
+  "k": "60",
+  "cena": "Rida accept to help",
+  "quem": "Rida (F)",
+  "en": "Rida helps open door for carcen."
+ },
+ {
+  "k": "61",
+  "cena": "Rida after scene talk",
+  "quem": "Rida (F)",
+  "en": "Rida no time need break."
+ },
+ {
+  "k": "62",
+  "cena": "Rida helps 2",
+  "quem": "Rida (F)",
+  "en": "Rida helps little carcen."
+ },
+ {
+  "k": "63",
+  "cena": "Rida moves to first floor",
+  "quem": "Rida (F)",
+  "en": "Rida on way to door now."
+ },
+ {
+  "k": "64",
+  "cena": "Rida talk 1",
+  "quem": "Rida (F)",
+  "en": "Look Rida found stuff to make one strong."
+ },
+ {
+  "k": "65",
+  "cena": "Rida talk 2",
+  "quem": "Rida (F)",
+  "en": "Rida get stronger to get tribe back."
+ },
+ {
+  "k": "66",
+  "cena": "Rida Wrestle Repeat Agree",
+  "quem": "Jenna (F)",
+  "en": "Can never prepare too much!"
+ },
+ {
+  "k": "67",
+  "quem": "Rida (F)",
+  "en": "Yes!"
+ },
+ {
+  "k": "68",
+  "cena": "Rida Wrestle Repeat Ask",
+  "quem": "Rida (F)",
+  "en": "Carcen want more?"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "Hmmmm..."
+ },
+ {
+  "k": "70",
+  "cena": "Rida Wrestle Repeat Decline",
+  "quem": "Jenna (F)",
+  "en": "Maybe later!"
+ },
+ {
+  "k": "71",
+  "quem": "Rida (F)",
+  "en": "Carcen welcome always."
+ },
+ {
+  "k": "72",
+  "cena": "Rida_fuckmachine 1",
+  "en": "HNNFF... So... Good!"
+ },
+ {
+  "k": "73",
+  "en": "Rida! Are you ok? I'll get you out!"
+ },
+ {
+  "k": "74",
+  "en": "Are you sure, love? Seems like she's enjoying it."
+ },
+ {
+  "k": "75",
+  "en": "You mean we should... Let her finish?"
+ },
+ {
+  "k": "76",
+  "cena": "Rida_fuckmachine 2",
+  "en": "Mmmmh... Machine good...! "
+ },
+ {
+  "k": "77",
+  "en": "Harder! Stronger!"
+ },
+ {
+  "k": "78",
+  "en": "I think she wants the machine to make her... stronger?"
+ },
+ {
+  "k": "79",
+  "en": "We don't have the time for this."
+ },
+ {
+  "k": "80",
+  "en": "Does that machine go any faster?"
+ },
+ {
+  "k": "81",
+  "cena": "Rida_fuckmachine 3",
+  "en": "Yess! Fast! Go fast! Make strong!"
+ },
+ {
+  "k": "82",
+  "en": "That should get her off in a minute."
+ },
+ {
+  "k": "83",
+  "en": "Looks fun, Throb. Maybe you'd like a spin too?"
+ },
+ {
+  "k": "84",
+  "en": "MMMMHHFF... Rida! Gonna! Cum!"
+ },
+ {
+  "k": "85",
+  "cena": "Rida_fuckmachine 4",
+  "en": "Rida more strong!"
+ },
+ {
+  "k": "86",
+  "en": "Great. Let's get you out of there."
+ },
+ {
+  "k": "87",
+  "cena": "robbin ambush_1_pre_battle",
+  "en": "(plays right as the characters reach the end of the trail of footprints that floria marked out for them)"
+ },
+ {
+  "k": "88",
+  "en": "Curious...the trail leads to that little cabin over there."
+ },
+ {
+  "k": "89",
+  "en": "You sure we're trailing the right footprints and we're not just gonna end up harassing some poor erudite living out in the forest?"
+ },
+ {
+  "k": "90",
+  "en": "I'm positive this was the one. "
+ },
+ {
+  "k": "91",
+  "en": "Same smell as arrow! Is this!"
+ },
+ {
+  "k": "92",
+  "en": "Maybe they've got like an underground secret base or something. That would be pretty cool."
+ },
+ {
+  "k": "93",
+  "en": "Or maybe this is like an outpost for them. We'll have to investigate further to find out!"
+ },
+ {
+  "k": "94",
+  "en": "*arrow being fired sound effect*"
+ },
+ {
+  "k": "95",
+  "en": "ARROW!"
+ },
+ {
+  "k": "96",
+  "cena": "robbin ambush_1_pre_battle_2",
+  "en": "(some kind of animation or something should play here with an explosive arrow landing amidst the party and them all scattering. Camera pans as the party regroups and finds themselves face to face with Robbin.)"
+ },
+ {
+  "k": "97",
+  "en": "Well, well. Who would've thought they'd send goons dressed in civillian clothes after me."
+ },
+ {
+  "k": "98",
+  "en": "She's got a bow, she must be one of those people who attacked the patrol!"
+ },
+ {
+  "k": "99",
+  "en": "So you are Peitho after all. I knew it! Count your blessings that I wanted to kill, Peitho scum. I won't miss again!"
+ },
+ {
+  "k": "100",
+  "en": "Wait! This is some kind of misunderstanding!"
+ },
+ {
+  "k": "101",
+  "en": "We no bad guys! "
+ },
+ {
+  "k": "102",
+  "en": "They're so desperate for people to used as bait that they'd even turn fiends into their pawns."
+ },
+ {
+  "k": "103",
+  "en": "I'll put you all out of your misery!"
+ },
+ {
+  "k": "104",
+  "en": "fight begins"
+ },
+ {
+  "k": "105",
+  "cena": "robbin ambush_2_battle exchange_1",
+  "en": "(dialogue plays at the start of the fight)"
+ },
+ {
+  "k": "106",
+  "en": "We're not here to fight! We're enemies of Peitho! Who are you working for, we want to help your organization!"
+ },
+ {
+  "k": "107",
+  "en": "Tch. You must have me pegged for a fool! As if I'd ever fall for something like that!"
+ },
+ {
+  "k": "108",
+  "en": "It's no good, she's convinced we're enemies! We're gonna have to fight!"
+ },
+ {
+  "k": "109",
+  "en": "Damn Peitho...turning us against one another...! We can't afford to be wasting resources like this!"
+ },
+ {
+  "k": "110",
+  "en": "Focus, Jenna! We have to win in order to show her who we are!"
+ },
+ {
+  "k": "111",
+  "en": "I'll shoot you all down!"
+ },
+ {
+  "k": "112",
+  "en": "battle begins"
+ },
+ {
+  "k": "113",
+  "cena": "robbin ambush_2_battle exchange_2",
+  "en": "plays when robbin reaches 75% health or below at the start of her turn"
+ },
+ {
+  "k": "114",
+  "en": "Seems like I underestimated you, though I suppose that much is to be expected from the first enemy agents to manage to track down my hideout!"
+ },
+ {
+  "k": "115",
+  "en": "We're <i>not</i> enemies!"
+ },
+ {
+  "k": "116",
+  "en": "We'll see if you'll be singing that tune when I'm through with you!"
+ },
+ {
+  "k": "117",
+  "en": "at the start of her next turn, i think robbin should use some kind of mid tier special attack."
+ },
+ {
+  "k": "118",
+  "cena": "robbin ambush_2_battle exchange_3",
+  "en": "plays on start of robbins turn after shes brought to 50% hp or below"
+ },
+ {
+  "k": "119",
+  "en": "Ghhh...! Who the hell trained you...!? You're better than most of the other grunts I fought. You're Pyra's men, aren't you?! Or are you Wildfire's?!"
+ },
+ {
+  "k": "120",
+  "en": "Neither! Wildfire is actively hunting <i>us</i>!"
+ },
+ {
+  "k": "121",
+  "en": "Tch! Big talk from a guy wearing GAG armor!"
+ },
+ {
+  "k": "122",
+  "en": "<i>(Damn it...she's got a point there...)</i>"
+ },
+ {
+  "k": "123",
+  "en": "at this point i think robbin should gain some kind of buff. maybe attack damage or defense or maybe even movement speed"
+ },
+ {
+  "k": "124",
+  "cena": "robbin ambush_2_battle exchange_4",
+  "en": "plays on robbins first turn after she's been brought below 25% hp"
+ },
+ {
+  "k": "125",
+  "en": "Haaah...gaaah...I'm not...done yet! I've still got a few tricks up my sleeve!"
+ },
+ {
+  "k": "126",
+  "en": "Ugh! You no get we don' wanna fight!"
+ },
+ {
+  "k": "127",
+  "en": "It's no use, Rida. Let's just subdue her and show her we're allies after! Focus on the battle!"
+ },
+ {
+  "k": "128",
+  "en": "at this point Robbin should use her most special/high damaging move"
+ },
+ {
+  "k": "129",
+  "cena": "robbin ambush_3_post battle",
+  "en": "(after the battle ends, it cuts to a cutscene with the party surrounding Robbin)"
+ },
+ {
+  "k": "130",
+  "en": "You did it! You won! Now end it!"
+ },
+ {
+  "k": "131",
+  "en": "Listen! I don't know how we're supposed to explain this to you, but we're not Peitho! "
+ },
+ {
+  "k": "132",
+  "en": "Even the big guy in the armor is just wearing it 'cus it's the only clothes he's got."
+ },
+ {
+  "k": "133",
+  "en": "That's no-"
+ },
+ {
+  "k": "134",
+  "en": "Throb!"
+ },
+ {
+  "k": "135",
+  "en": "We saw what happened to that Peitho patrol you and your men raided. We're here because we thought that we could make friends with someone we share a common enemy with!"
+ },
+ {
+  "k": "136",
+  "en": "We're not here to fight. We've already got our hands full fighting Peitho. If you and your people also oppose them, we could be stronger if we joined forces."
+ },
+ {
+  "k": "137",
+  "en": "You keep saying 'you and your people' and 'you and your men' like I'm some kind of ringleader. I work alone! You think there's room for an entire damn organization in that little hut over there?!"
+ },
+ {
+  "k": "138",
+  "en": "Wait so...that Peitho patrol that got ambushed! You took them all out by yourself?"
+ },
+ {
+  "k": "139",
+  "en": "Heh...flattery won't get you too far. You're all lucky I spent all my poison arrows on them or else you'd all be goners now."
+ },
+ {
+  "k": "140",
+  "en": "Though now I'm beyond curious. You all seem way too...humane to actually be Peitho. Not to mention you've got a fiend, and some kind of plant woman among you. You're not a normal bunch, I can tell."
+ },
+ {
+  "k": "141",
+  "en": "Who the hell are you people?"
+ },
+ {
+  "k": "142",
+  "en": "Well, we're just an odd group of friends who banded together because we all had a common enemy as well. Now we're working with the Carceburg Resistance as well an-"
+ },
+ {
+  "k": "143",
+  "en": "Tch...the Carceburg Resistance..."
+ },
+ {
+  "k": "144",
+  "en": "Sounds like you know them but you're not too fond of them."
+ },
+ {
+  "k": "145",
+  "en": "I fought alongside them at some point. But as I'm sure you know, the Carceburg Coup didn't exactly end well for us. I'm surprised they managed to piece themselves together after that disaster of an attempt."
+ },
+ {
+  "k": "146",
+  "en": "They're trying their best. Clearly you have some reservations but enemies of Peitho can't afford to be splitting themselves up like this."
+ },
+ {
+  "k": "147",
+  "en": "Enemy of Peitho this, enemy of Peitho that...why are you all so blind..."
+ },
+ {
+  "k": "148",
+  "en": "The coup failed! If you try again, more people will die! I'm not getting dragged into another one of your uprisings. I'm just living out here in peace and quiet. If you're looking for allies, then look somewhere else!"
+ },
+ {
+  "k": "149",
+  "en": "O-Okayyyyyy, clearly you feel very strongly about this."
+ },
+ {
+  "k": "150",
+  "en": "Is there anything we could do to get you to reconsider?"
+ },
+ {
+  "k": "151",
+  "en": "Hmmm...well, you lot seem like capable fighters. Way more than the people I've seen back in the day with them."
+ },
+ {
+  "k": "152",
+  "en": "But you should be aware of the fact that a war where we're this severely outnumbered <i>won't</i> be won by brute strength alone."
+ },
+ {
+  "k": "153",
+  "en": "If you want me to put my life on the line for their cause again, I want you to show me you know how to operate like I do."
+ },
+ {
+  "k": "154",
+  "en": "There'll be another Peitho patrol that'll be passing by the area where I ambushed the previous one. This one will likely be more heavily guarded."
+ },
+ {
+  "k": "155",
+  "en": "See to it that you ambush it, you take all of <i>them</i> out, and make sure all of <i>you</i> survive. If you can do that, and bring me back some loot as proof, I'll reconsider."
+ },
+ {
+  "k": "156",
+  "en": "That sound fair to you?"
+ },
+ {
+  "k": "157",
+  "en": "Yeah, but no going back on your word."
+ },
+ {
+  "k": "158",
+  "en": "I'm a woman of honor, I would never. Me and my men, back when I had some, we all prided ourselves on our sense of honor and duty. "
+ },
+ {
+  "k": "159",
+  "en": "So, we should meet you back here?"
+ },
+ {
+  "k": "160",
+  "en": "I'm sure you've noticed, but my cabin is just down this path. When you've got the loot, just bring it with you and knock on the door."
+ },
+ {
+  "k": "161",
+  "en": "And make sure you won't leave a trail behind, will you? I don't want Peitho tracking you guys back to my hideout."
+ },
+ {
+  "k": "162",
+  "en": "We'll keep our tracks covered, rest assured."
+ },
+ {
+  "k": "163",
+  "en": "Heh, what do you know. You guys seem like you might be different after all. I'll be looking forward to seeing your results."
+ },
+ {
+  "k": "164",
+  "en": "(scene ends here, party gains a new objective to set themselves up and lie in wait for the next peitho patrol)"
+ },
+ {
+  "k": "165",
+  "cena": "Safe_AfterTookComicInteraction",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(That's all that was in there... )</i></color>"
+ },
+ {
+  "k": "166",
+  "cena": "Safe_FirstInteraction",
+  "quem": "Jenna (F)",
+  "en": "A safe.. Looks like it needs a 9 digit combination to open."
+ },
+ {
+  "k": "167",
+  "cena": "Safe_TookComic",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(That's.. Me? But-.. Different. )</i></color>"
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Must be Peitho propaganda... I better take it.. Just so they don't have it anymore.. )</i></color>"
+ },
+ {
+  "k": "169",
+  "cena": "SaveTheGirlEnding _Intro 1",
+  "quem": "Jenna (F)",
+  "en": "Hey, sleepyhead. I managed to nab some more supplies."
+ },
+ {
+  "k": "170",
+  "quem": "Karen (F)",
+  "en": "Ughh... What time is it?"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "Time to get a watch!"
+ },
+ {
+  "k": "172",
+  "quem": "Karen (F)",
+  "en": "I didn't ask for jokes. I asked for the damn time."
+ },
+ {
+  "k": "173",
+  "quem": "Jenna (F)",
+  "en": "Uh huh! I haven't checked in a while, but it's pretty late out. You looked tired so I didn't wake ya. What's your number today?"
+ },
+ {
+  "k": "174",
+  "quem": "Karen (F)",
+  "en": "Ughh... Like... a seven? But it'll be an eight if you keep pushing it."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Seven? But you just woke up."
+ },
+ {
+  "k": "176",
+  "quem": "Karen (F)",
+  "en": "Yeah, I know! I'm not exactly happy-go-lucky like you are, okay?! I wake up angry, I eat angry, I go to sleep angry!"
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "But that's not your fault. Plus you were a nine just a week ago. That's progress, right Karen?"
+ },
+ {
+  "k": "178",
+  "quem": "Karen (F)",
+  "en": "Progress? Progress?! Look at me! I'm not 'Karen' anymore!"
+ },
+ {
+  "k": "179",
+  "quem": "Karen (F)",
+  "en": "Do you really think after all I've been through I'm just gonna go back to normal?! I'm not who you want me to be, Jenna!"
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "I didn't mean it like that, I'm just-"
+ },
+ {
+  "k": "181",
+  "quem": "Karen (F)",
+  "en": "Whatever, I'm gonna go get some air."
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "But you haven't even-"
+ },
+ {
+  "k": "183",
+  "cena": "SaveTheGirlEnding _Intro 2",
+  "quem": "Jenna (F)",
+  "en": "- eaten anything yet..."
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "<i>(I guess I should give her some time to cool off.)</i>"
+ }
+]

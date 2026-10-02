@@ -1,0 +1,840 @@
+[
+ {
+  "k": "1",
+  "cena": "Motel_Prostitution_Intro 1",
+  "quem": "Jenna (F)",
+  "en": "Ever heard of knocking?"
+ },
+ {
+  "k": "2",
+  "quem": "MotelOwner (M)",
+  "en": "You've been slutting it up recently, haven't you, little hero?"
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "W- I- <b>No</b>! ... I jus-"
+ },
+ {
+  "k": "4",
+  "quem": "MotelOwner (M)",
+  "en": "Uh huh. I've heard about the sexy new badge girl waiting tables at the bar and being <b>very</b> hands on for tips."
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "(Someone must have told him about <color=perversion>last night</color>...)"
+ },
+ {
+  "k": "6",
+  "quem": "MotelOwner (M)",
+  "en": "This is good. Looks like I've taught you well. Now I've got a business proposition for you, cocklover."
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "Business...?"
+ },
+ {
+  "k": "8",
+  "quem": "MotelOwner (M)",
+  "en": "Yes. Business. Deal. Commerce. I'm sure they taught you about business in little hero college, did they not?"
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "I know what business is. What kind of business is it..?"
+ },
+ {
+  "k": "10",
+  "quem": "MotelOwner (M)",
+  "en": "I run a little side gig with the motel business. I have girls that take <b>good</b> care of the people that come in. Nice private affair. It <b>pays</b> very well too."
+ },
+ {
+  "k": "11",
+  "quem": "MotelOwner (M)",
+  "en": "Since you seem to enjoy your paycheck in the pub so much, I'm sure you'll be interested in earning some money here as well. Some customers were even already asking for <b>you</b>."
+ },
+ {
+  "k": "12",
+  "quem": "MotelOwner (M)",
+  "en": "You've made quite the impression around town, you know. Everyone knows you're mine from how proudly you've worn that badge of mine, hehe."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "I'm <b>not</b> proud of it!"
+ },
+ {
+  "k": "14",
+  "quem": "MotelOwner (M)",
+  "en": "Actions speak louder than words, my dear. I know you could use the fuckbucks, little hero."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Don't call me that!"
+ },
+ {
+  "k": "16",
+  "quem": "MotelOwner (M)",
+  "en": "I'll call you what I like. Come see me if you want to make the two of us some money with that tight little body of yours, <b>little hero</b>. I'll be waiting, haha."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Uh huh.. Don't let the door hit your ass on the way out."
+ },
+ {
+  "k": "18",
+  "quem": "MotelOwner (M)",
+  "en": "Only ass that will get hit is yours."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "But that would be har-ass-ment!"
+ },
+ {
+  "k": "20",
+  "quem": "MotelOwner (M)",
+  "en": "... Christ, that was bad..."
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "<i>(I won't let him make me a prostitute... What the hell is he thinking?!)</i>"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "<i>(He did speak of <color=perversion>earning</color> well though...)</i>"
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "Let's pretend I'm <size=35>interested</size>... for a moment. "
+ },
+ {
+  "k": "24",
+  "quem": "MotelOwner (M)",
+  "en": "<i>Pretend</i>, hmm?"
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "Yes!"
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "What's the... <color=perversion><size=30>pay</size></color>... like?"
+ },
+ {
+  "k": "27",
+  "quem": "MotelOwner (M)",
+  "en": "Hehehe.. Right. The pay depends on your... <b>services</b>. But it starts at 100 fuckbucks per hour."
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>100!...</color> How high does it..."
+ },
+ {
+  "k": "29",
+  "quem": "MotelOwner (M)",
+  "en": "With a body like <b>yours</b>... I'm sure some more <b>specific</b> requests could be charged for <b>ten times</b> that."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>1000!... Per <b>hour</b>?!</color>)</i>"
+ },
+ {
+  "k": "31",
+  "quem": "MotelOwner (M)",
+  "en": "I'll be waiting out front. You seem pretty wet over the cash. Try not to make a puddle."
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't just sell myself for money... Right...?)</i>"
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "(<i><color=perversion>But I've already been doing it at the bar... Just a little more can't hurt.</color></i>)"
+ },
+ {
+  "k": "34",
+  "cena": "Motel_Prostitution_Scene_1_1",
+  "en": "Hey there, badge girl!"
+ },
+ {
+  "k": "35",
+  "en": "Eheh. Hi!"
+ },
+ {
+  "k": "36",
+  "en": "I've seen you around town. You're so damn hot."
+ },
+ {
+  "k": "37",
+  "en": "Good to know I've got a fan!"
+ },
+ {
+  "k": "38",
+  "en": "Now how about we get to business, bud~?"
+ },
+ {
+  "k": "39",
+  "en": "Oh pff. Yes please! Take it away!"
+ },
+ {
+  "k": "40",
+  "en": "<i>I sink down to my knees, smiling up at him.</i>"
+ },
+ {
+  "k": "41",
+  "en": "How's this? You like what you see?"
+ },
+ {
+  "k": "42",
+  "en": "Oh hell yeah."
+ },
+ {
+  "k": "43",
+  "en": "Get your cock out then~"
+ },
+ {
+  "k": "44",
+  "en": "Oh! Right! One second! Ah... Pants are tight."
+ },
+ {
+  "k": "45",
+  "en": "There you go!"
+ },
+ {
+  "k": "46",
+  "en": "Thanks~"
+ },
+ {
+  "k": "47",
+  "en": "Hoh fuck..."
+ },
+ {
+  "k": "48",
+  "en": "Mm<color=perversion>m~</color>"
+ },
+ {
+  "k": "49",
+  "en": "Yess... Just like that..."
+ },
+ {
+  "k": "50",
+  "en": "Hoooh fuuuck... I'm gonna..."
+ },
+ {
+  "k": "51",
+  "en": "A-Ah~!"
+ },
+ {
+  "k": "52",
+  "en": "Phew... You're goood..."
+ },
+ {
+  "k": "53",
+  "en": "Hehe~ Thanks! I try my best~"
+ },
+ {
+  "k": "54",
+  "en": "Haha... I'm gonna head out now. I'll be sure to come back. That was amazing!"
+ },
+ {
+  "k": "55",
+  "en": "Glad you liked it, bud!"
+ },
+ {
+  "k": "56",
+  "cena": "Motel_Prostitution_Scene_1_1_redo",
+  "quem": "Man (M)",
+  "en": "Hey there, badge girl!"
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "Eheh... Hi!"
+ },
+ {
+  "k": "58",
+  "quem": "Man (M)",
+  "en": "I've seen you around town. You're so damn hot."
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "I-.. Uhm-.. Thanks."
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "So do we just like... start..?"
+ },
+ {
+  "k": "61",
+  "quem": "Man (M)",
+  "en": "Oh pff. Yes please! Take it away!"
+ },
+ {
+  "k": "62",
+  "quem": "Narrador",
+  "en": "<i>I sink down to my knees, looking up at him.</i>"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "Do I... look... good?"
+ },
+ {
+  "k": "64",
+  "quem": "Man (M)",
+  "en": "Oh hell yeah."
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "<i>(What a dumb question... I'm so bad at this..)</i>"
+ },
+ {
+  "k": "66",
+  "quem": "Man (M)",
+  "en": "Every time I saw you walk around outside, you made my cock so damn hard. Just like right now. It's about time you do something about that, hehe."
+ },
+ {
+  "k": "67",
+  "quem": "Man (M)",
+  "en": "There you go!"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "I-... I'll... right..."
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "<i>(Just a little kiss...)</i>"
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "<i>(It twitched! Did he like it..?)</i>"
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "<i>(Should I... <color=perversion>The smell</color>...)</i>"
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>The taste...</color>)</i>"
+ },
+ {
+  "k": "73",
+  "quem": "Man (M)",
+  "en": "Hoh fuck..."
+ },
+ {
+  "k": "74",
+  "quem": "Jenna (F)",
+  "en": "Mm<color=perversion>m~</color>"
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>I made him so hard...</color>)</i>"
+ },
+ {
+  "k": "76",
+  "quem": "Man (M)",
+  "en": "Yess... Just like that..."
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Men can't resist my hot body...</color>)</i>"
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>They can't resist <b>me</b>...</color>)</i>"
+ },
+ {
+  "k": "79",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>He can't take his eyes off <b>me</b>...</color>)</i>"
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>I want to taste him <b>more</b>...</color>)</i>"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Mmmh So <b>deep</b>...</color>)</i>"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>So <b>tasty</b>...</color>)</i>"
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>I'm so hot... I'm such a <b>slut</b>...</color>)</i>"
+ },
+ {
+  "k": "84",
+  "quem": "Man (M)",
+  "en": "Hoooh fuuuck... I'm gonna..."
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Yesss... Cum in my <b>mouth</b>...</color>)</i>"
+ },
+ {
+  "k": "86",
+  "quem": "Man (M)",
+  "en": "A-Ah~!"
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "Bwaaahhh-"
+ },
+ {
+  "k": "88",
+  "quem": "Narrador",
+  "en": "<i>I gulp it all down. <color=perversion>It feels so good running down my throat...</color></i>"
+ },
+ {
+  "k": "89",
+  "quem": "Man (M)",
+  "en": "Phew... You're goood..."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "T-<color=perversion>Thanks</color>!"
+ },
+ {
+  "k": "91",
+  "quem": "Man (M)",
+  "en": "Hehe.. I'll make sure to tell your boss that you did a good job. Fresh prostitutes are rare, you know. Especially <b>hot</b> ones."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Boss.. Prostitute.. So <b>wrong</b>...</color>)</i>"
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "C-Come- I mean- <color=perversion>Cum again</color>..!"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "<i>(Am I really a.. Prostitute..? All these.. perverted things I do.. What happened to me?)</i>"
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "<i>(But the <color=perversion>money</color>.)</i>"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion><b>Money</b> and <b>attention</b>. Just for <b>me</b>!</color>)</i>"
+ },
+ {
+  "k": "97",
+  "cena": "Motel_Prostitution_Scene_2_1",
+  "quem": "Jenna (F)",
+  "en": "Why are there... <b>three</b> of you?!"
+ },
+ {
+  "k": "98",
+  "quem": "Man (M)",
+  "en": "Klaus said you were fine with that. We already paid him <b>triple</b> the price!"
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "<i>(That dickhead!)</i>"
+ },
+ {
+  "k": "100",
+  "quem": "Other Man (M)",
+  "en": "We saw you suck cock in the pub, so don't pretend to be all sweet and innocent, hehe. Just get on your knees, make us cum, and we won't tell your boss that you gave us a mean look."
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "<i>(Grr... I should have known! Klaus set me up... But I'll show him. I <b>won't</b> let him cheat me out of my <color=perversion>money</color>!)</i>"
+ },
+ {
+  "k": "102",
+  "quem": "Narrador",
+  "en": "<i>After glaring at them angrily for a moment, I get down on my knees. As I look up at them, I try not to think about being tricked by Klaus.</i>"
+ },
+ {
+  "k": "103",
+  "quem": "Man (M)",
+  "en": "Haha, damn guys, she's easily the hottest hooker in town."
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "<i>(The <color=perversion>hottest</color>...)</i>"
+ },
+ {
+  "k": "105",
+  "quem": "Man (M)",
+  "en": "She's easily worth the price, hehe."
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "I <color=perversion>am</color>..."
+ },
+ {
+  "k": "107",
+  "quem": "Other Man (M)",
+  "en": "Prove it, slut."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>I <b>deserve</b> the money.</color>)</i>"
+ },
+ {
+  "k": "109",
+  "quem": "Jenna (F)",
+  "en": "<i>(His cock tastes so... <b>bad</b>?!... what?!... Is it <b>unwashed</b>?!)</i>"
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "<i>(Ugh..! Keep it together, Jenna... Just make him cum... I can't let Klaus get away with <b><color=perversion>my</color></b> money!)</i>"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "<i>(Just ignore it... Please cum soon...)</i>"
+ },
+ {
+  "k": "112",
+  "quem": "Narrador",
+  "en": "<i>The disgusting taste and smell of his cock makes me gag on it.</i>"
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "<i>(So... bad... Ugh...)</i>"
+ },
+ {
+  "k": "114",
+  "quem": "Other Man (M)",
+  "en": "Don't forget about us, cunt."
+ },
+ {
+  "k": "115",
+  "quem": "Jenna (F)",
+  "en": "Hh... Hahh..."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "I- I'm sorry!"
+ },
+ {
+  "k": "117",
+  "quem": "Narrador",
+  "en": "<i>My sense for smell and taste goes blank as I start sucking on the badly smelling cock again. My hands start stroking the other two men.</i>"
+ },
+ {
+  "k": "118",
+  "quem": "Man (M)",
+  "en": "Aaah... Fuck your mouth feels soo good~"
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "Mmmphg...!!!"
+ },
+ {
+  "k": "120",
+  "quem": "Narrador",
+  "en": "<i>I no longer notice the scent or the taste. My mind is filled with haze.</i>"
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Cock... So much... Cock...</color>)</i>"
+ },
+ {
+  "k": "122",
+  "quem": "Narrador",
+  "en": "<i>With the smelly cock down my throat, the first of them cums on my hair.</i>"
+ },
+ {
+  "k": "123",
+  "quem": "Other Man (M)",
+  "en": "Aaahh, fuck yes, nasty <b>cumdump</b>!"
+ },
+ {
+  "k": "124",
+  "quem": "Narrador",
+  "en": "<i>I can feel another load of hot thick cum shoot against the other side of my head.</i>"
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Cummmmmm....</color>)</i>"
+ },
+ {
+  "k": "126",
+  "quem": "Man (M)",
+  "en": "Ffff... Holy shit..."
+ },
+ {
+  "k": "127",
+  "quem": "Man (M)",
+  "en": "Phew.... That's a good girl. Goddamn..."
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>T-.. Thank.. you...</color>"
+ },
+ {
+  "k": "129",
+  "quem": "Man (M)",
+  "en": "You can be sure that we'll be back."
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(They came so much... it's all on <b>me</b>...)</color></i>"
+ },
+ {
+  "k": "131",
+  "quem": "Man (M)",
+  "en": "Hehehe. Cum covered sluts are the best sluts."
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(It's so warm and <b>thick</b>...)</color></i>"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Mmmhhh... They love how it looks on <b>me</b>...)</color></i>"
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><size=30>D-.. Do I look... <b>good</b>...?</size></color>"
+ },
+ {
+  "k": "135",
+  "quem": "Man (M)",
+  "en": "You look like a proper cumslut, haha. There's nothing us guys love more."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mmmh.. I'm so hot... Fff...</color>"
+ },
+ {
+  "k": "137",
+  "quem": "Other Man (M)",
+  "en": "Hehehe. We'll come again, that's for sure."
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "M-.. Mhmmm..."
+ },
+ {
+  "k": "139",
+  "cena": "Motel_Prostitution_Scene_3_1",
+  "quem": "Man (M)",
+  "en": "Oh look. The <b>whore</b> is already all naked and ready for me. Can't wait to sell your body, hmm?"
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "Don't call me... <b>that</b>...!"
+ },
+ {
+  "k": "141",
+  "quem": "Man (M)",
+  "en": "Oh? If you prefer, I'll just go get my money back from <b>your boss</b> then. I'm sure he'd be real happy to hear about the customer service here, hehehe."
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "...Wait! I-... No need for that...!"
+ },
+ {
+  "k": "143",
+  "quem": "Man (M)",
+  "en": "Oh, is that so, hmm? Then stop complaining, stupid <b>whore</b>."
+ },
+ {
+  "k": "144",
+  "quem": "Narrador",
+  "en": "<i>He suddenly forces his hands on my breasts.</i>"
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "H-Hey! Don't be so... rough..."
+ },
+ {
+  "k": "146",
+  "quem": "Man (M)",
+  "en": "Oh shut up. I didn't pay for a <b>whiny brat</b>. If you complain one more time, I'll get you into trouble with your boss. Got that?"
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "<i>(... I <b>can't</b> let him report me to Klaus...)</i>"
+ },
+ {
+  "k": "148",
+  "quem": "Jenna (F)",
+  "en": "Y-... <size=35><color=perversion>Yes</color>...</size>"
+ },
+ {
+  "k": "149",
+  "quem": "Narrador",
+  "en": "<i>His right hand moves down to my crotch and he starts pressing two fingers against my pussy.</i>"
+ },
+ {
+  "k": "150",
+  "quem": "Man (M)",
+  "en": "Much better, stupid whore. Now let's see just how <b>wet </b>you are."
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Hmmpffffff.....!!!</color>)</i>"
+ },
+ {
+  "k": "152",
+  "quem": "Jenna (F)",
+  "en": "<i>(Stay quiet.. Stay quiet.. Stay quiet..)</i>"
+ },
+ {
+  "k": "153",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>H-Haah~</color>"
+ },
+ {
+  "k": "154",
+  "quem": "Man (M)",
+  "en": "Damn. You're a real <b>slut</b>, hehe. You're <b>soaked</b> down here, and your moans are telling me you love it a <b>lot</b> more than you're letting on."
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "<i>(N.. No.. That... Isn't... tr-)</i>"
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ffhhaaaa....!!</color>"
+ },
+ {
+  "k": "157",
+  "quem": "Narrador",
+  "en": "<i>After a minute of thrusting his fingers in and out of my pussy, he suddenly pulls his hand away from my pussy.</i>"
+ },
+ {
+  "k": "158",
+  "quem": "Man (M)",
+  "en": "Hehehe. What a needy little whore you are. We can't have you cum before you've asked for it nicely though."
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>I want it... I need it... Fff...</color>)</i>"
+ },
+ {
+  "k": "160",
+  "quem": "Man (M)",
+  "en": "<b>Beg</b> already, <b>cunt</b>!"
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Please let me cum! Please!</color>"
+ },
+ {
+  "k": "162",
+  "quem": "Man (M)",
+  "en": "That's more like it. Cum for me, <b>pathetic</b> little plaything~ Cum for that paycheck."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yeess... m-money~</color>"
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><size=80>A-A</size><size=60>aaa</size>a</color>ah~!"
+ },
+ {
+  "k": "165",
+  "quem": "Man (M)",
+  "en": "There you go... That's how good whores behave. You're fun to play with, hehe. I will make you do this again sometime."
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fffhhhh~</color>"
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>He paid, just to make <b>me</b> cum... S-so hot...</color>)</i>"
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Maybe... being a prostitute... isn't all... <b>bad</b>...)</color></i>"
+ },
+ {
+  "k": "169",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(And it <b>pays so well</b>... These <b>dumb fucks</b> just <b>love</b> to pay me for my <b>breathtaking</b> body!)</color></i>"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(It would be <b>idiotic</b> of me not to... <b>use</b>... my traits, hehehe...)</color></i>"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>My pleasure, hehe. Cum again~</color>"
+ }
+]

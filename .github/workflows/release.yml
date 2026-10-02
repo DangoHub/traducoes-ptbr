@@ -9,6 +9,7 @@ on:
         options:
           - garden-of-witches
           - the-wolf-among-us
+          - third-crisis
       versao:
         description: "Versão da tradução (ex.: v1.0)"
         required: true
@@ -42,8 +43,13 @@ jobs:
         run: pip install pyinstaller==6.22.3
 
       - name: Gerar instalador e zip
-        working-directory: projetos/${{ inputs.jogo }}
-        run: python build.py --steam-build=${{ inputs.steam_build }}
+        shell: bash
+        run: |
+          if [ -f "projetos/$JOGO/jogo.json" ]; then
+            python -m kit montar "$JOGO" --steam-build="$BUILD"
+          else
+            cd "projetos/$JOGO" && python build.py --steam-build="$BUILD"
+          fi
 
       - name: Separar arquivos e calcular SHA-256
         shell: bash
@@ -81,6 +87,7 @@ jobs:
           case "$JOGO" in
             garden-of-witches) NOME="Garden of Witches" ;;
             the-wolf-among-us) NOME="The Wolf Among Us" ;;
+            third-crisis) NOME="Third Crisis (+18)" ;;
             *) NOME="$JOGO" ;;
           esac
           REPO="${{ github.repository }}"

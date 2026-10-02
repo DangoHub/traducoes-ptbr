@@ -1,0 +1,1378 @@
+[
+ {
+  "k": "1",
+  "cena": "Resistance_Workout_2",
+  "quem": "Arnold (M)",
+  "en": "Argh!"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Just a few more reps! Come on!"
+ },
+ {
+  "k": "3",
+  "quem": "Arnold (M)",
+  "en": "I can't do it!"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Yes you can! Push!"
+ },
+ {
+  "k": "5",
+  "quem": "Arnold (M)",
+  "en": "RAAAAGH!!"
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "There you go! You got this! Just a little bit further!"
+ },
+ {
+  "k": "7",
+  "quem": "Arnold (M)",
+  "en": "Argh! WOOOO! That was a rush!"
+ },
+ {
+  "k": "8",
+  "cena": "Resistance_Workout_2_Decline",
+  "quem": "Jenna (F)",
+  "en": "Oh! Eheh, no thank you."
+ },
+ {
+  "k": "9",
+  "quem": "Arnold (M)",
+  "en": "Sure! No problem! Sorry for being so forward."
+ },
+ {
+  "k": "10",
+  "quem": "Arnold (M)",
+  "en": "You can keep the workout outfit. Maybe we can do this again sometime!"
+ },
+ {
+  "k": "11",
+  "cena": "Resistance_Workout_Confirmation",
+  "quem": "Jenna (F)",
+  "en": "Hahah, need a break?"
+ },
+ {
+  "k": "12",
+  "quem": "Arnold (M)",
+  "en": "Heheh. Just for a bit. Need to cool off."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "All that work and you're not even sweating?"
+ },
+ {
+  "k": "14",
+  "quem": "Arnold (M)",
+  "en": "Yeah, I uh... can't sweat. My... cooling system works differently."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Oh! That's awesome! No gross mess."
+ },
+ {
+  "k": "16",
+  "quem": "Arnold (M)",
+  "en": "Heh, yeah I guess. You don't like sweat?"
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "I hate it! Makes me feel all dirty and it smells bad."
+ },
+ {
+  "k": "18",
+  "quem": "Arnold (M)",
+  "en": "I think it's kinda hot."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "I guess everyone has their own tastes."
+ },
+ {
+  "k": "20",
+  "quem": "Arnold (M)",
+  "en": "Nothing gets me going more than a gorgeous gal getting all sweaty, ya know?"
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "No, I don't know."
+ },
+ {
+  "k": "22",
+  "quem": "Arnold (M)",
+  "en": "Heh! Yeah, I mean. I dunno. Somethin' about it just gets me. I like working out and like women that like working out."
+ },
+ {
+  "k": "23",
+  "quem": "Arnold (M)",
+  "en": "Maybe it's also because I can't..."
+ },
+ {
+  "k": "24",
+  "quem": "Arnold (M)",
+  "en": "Ah, anyways. Pardon my forwardness, but it seems like you've done all the machines except for one."
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "Hmm? I thought we did them all."
+ },
+ {
+  "k": "26",
+  "quem": "Arnold (M)",
+  "en": "Bad joke, sorry. I always like to end off my workouts with some sex. I was just offering in a poorly worded way."
+ },
+ {
+  "k": "27",
+  "tipo": "escolha",
+  "en": "<color=perversion>Have sex with him.</color>"
+ },
+ {
+  "k": "28",
+  "tipo": "escolha",
+  "en": "Decline his offer."
+ },
+ {
+  "k": "29",
+  "cena": "Resistance_Workout_Post_Sex",
+  "quem": "Sofie (F)",
+  "en": "Now that's how you <b>really</b> handle him, new girl. I hope you took notes."
+ },
+ {
+  "k": "30",
+  "quem": "Arnold (M)",
+  "en": "Eheh... That was really good. You both were."
+ },
+ {
+  "k": "31",
+  "quem": "Sofie (F)",
+  "en": "What he means to say is that I was way better than you!"
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "Uh huh..."
+ },
+ {
+  "k": "33",
+  "quem": "Arnold (M)",
+  "en": "Well err... I'm gonna go clean up now. Was good workin' out with ye, Jenna!"
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Likewise!"
+ },
+ {
+  "k": "35",
+  "quem": "Sofie (F)",
+  "en": "I gotta go do important shit unlike <b>you</b>, new girl!"
+ },
+ {
+  "k": "36",
+  "cena": "Resistance_Workout_Sex",
+  "quem": "Jenna (F)",
+  "en": "Now that sounds like fun~"
+ },
+ {
+  "k": "37",
+  "quem": "Arnold (M)",
+  "en": "Oh yeah? Well come get your workout on this machine then, babe."
+ },
+ {
+  "k": "38",
+  "quem": "Arnold (M)",
+  "en": "Fuck... I didn't think it was possible, but you look even better down there."
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "Oh yeah~? How do I look now?"
+ },
+ {
+  "k": "40",
+  "quem": "Arnold (M)",
+  "en": "Better and better~"
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "Your cock feels really nice~"
+ },
+ {
+  "k": "42",
+  "quem": "Arnold (M)",
+  "en": "Fuck... Your tits feel really pretty good too..."
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "Mmm~ How about this?"
+ },
+ {
+  "k": "44",
+  "quem": "Arnold (M)",
+  "en": "Ahhh~ That's so hot..."
+ },
+ {
+  "k": "45",
+  "quem": "Jenna (F)",
+  "en": "You gonna make me do all the work~? Fuck my tits, big guy~"
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "Ooh~ There you go~ Look at you~ You really like it in there, huh~?"
+ },
+ {
+  "k": "47",
+  "quem": "Arnold (M)",
+  "en": "Ffffuck, Jenna~ Yesss~ I love it~"
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "I can feel you twitching~ Finish on me~ Cum on my tits~"
+ },
+ {
+  "k": "49",
+  "quem": "Arnold (M)",
+  "en": "Ohh fuuuuuck~"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Phew! Now that was a workout!"
+ },
+ {
+  "k": "51",
+  "quem": "Arnold (M)",
+  "en": "Hehe. Tell me about it. You're a fun workout partner, Jenna."
+ },
+ {
+  "k": "52",
+  "quem": "Jenna (F)",
+  "en": "We'll have to do this again sometime then."
+ },
+ {
+  "k": "53",
+  "quem": "Arnold (M)",
+  "en": "Oh fuck yes!"
+ },
+ {
+  "k": "54",
+  "cena": "Resistance_Workout_Sofie_Sex",
+  "quem": "Sofie (F)",
+  "en": "What the hell is goin' on here?"
+ },
+ {
+  "k": "55",
+  "quem": "Arnold (M)",
+  "en": "Sofie! Hehe, how's it goin', girl?"
+ },
+ {
+  "k": "56",
+  "quem": "Sofie (F)",
+  "en": "That didn't take too long. Usually it takes a while before the chicks throw their pussies at this guy."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "What can I say? I'm just faster than most."
+ },
+ {
+  "k": "58",
+  "quem": "Sofie (F)",
+  "en": "Easier more like."
+ },
+ {
+  "k": "59",
+  "quem": "Arnold (M)",
+  "en": "Ladies, ladies! There's enough Arnold to go around!"
+ },
+ {
+  "k": "60",
+  "quem": "Sofie (F)",
+  "en": "Nuh uh! Not if I have anything to say about it! Move over, biatch!"
+ },
+ {
+  "k": "61",
+  "quem": "Arnold (M)",
+  "en": "Eheh..."
+ },
+ {
+  "k": "62",
+  "quem": "Sofie (F)",
+  "en": "Arny~ My kitty's all warm and ready for you~"
+ },
+ {
+  "k": "63",
+  "quem": "Arnold (M)",
+  "en": "Oh ffuuck..."
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "He's-... Powerful"
+ },
+ {
+  "k": "65",
+  "quem": "Narrador",
+  "en": "<i>She looks over at me and gives a smug smile while she gets fucked.</i>"
+ },
+ {
+  "k": "66",
+  "quem": "Sofie (F)",
+  "en": "Ohhh Arny~ Your cock~ Mmmm~"
+ },
+ {
+  "k": "67",
+  "quem": "Arnold (M)",
+  "en": "Oooh~ You like it, kitten~? Feel good~?"
+ },
+ {
+  "k": "68",
+  "quem": "Sofie (F)",
+  "en": "Yeeeessss~"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(...)</i></color>"
+ },
+ {
+  "k": "70",
+  "quem": "Arnold (M)",
+  "en": "Ahh... I'm getting close... is the kitten ready for her cream?"
+ },
+ {
+  "k": "71",
+  "quem": "Sofie (F)",
+  "en": "Yessss daddy~"
+ },
+ {
+  "k": "72",
+  "quem": "Sofie (F)",
+  "en": "Haaah~"
+ },
+ {
+  "k": "73",
+  "quem": "Arnold (M)",
+  "en": "Fuck... Ah, that was good..."
+ },
+ {
+  "k": "74",
+  "cena": "Resistance_Workout_Start",
+  "quem": "Jenna (F)",
+  "en": "You ready to lift some weights?"
+ },
+ {
+  "k": "75",
+  "quem": "Arnold (M)",
+  "en": "Oh, I was made ready."
+ },
+ {
+  "k": "76",
+  "quem": "Arnold (M)",
+  "en": "Let's get you into some proper gym attire first."
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "Thanks! Fits perfectly!"
+ },
+ {
+  "k": "78",
+  "quem": "Arnold (M)",
+  "en": "Yeah, it really does."
+ },
+ {
+  "k": "79",
+  "cena": "ResistanceBase_BodybuilderAI_Default",
+  "quem": "Arnold (M)",
+  "en": "Hey Jenna! How's it going? Just working out at the moment."
+ },
+ {
+  "k": "80",
+  "tipo": "escolha",
+  "en": "Workout with him."
+ },
+ {
+  "k": "81",
+  "tipo": "escolha",
+  "en": "Introduce yourself."
+ },
+ {
+  "k": "82",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "83",
+  "tipo": "escolha",
+  "en": "Talk to him."
+ },
+ {
+  "k": "84",
+  "cena": "ResistanceBase_BodybuilderAI_Talk",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "85",
+  "tipo": "escolha",
+  "en": "Ask about the female busts around him."
+ },
+ {
+  "k": "86",
+  "tipo": "escolha",
+  "en": "Ask him why he works out."
+ },
+ {
+  "k": "87",
+  "tipo": "escolha",
+  "en": "Ask him about the others."
+ },
+ {
+  "k": "88",
+  "cena": "ResistanceBase_BodybuilderAI_Talk_AboutBusts",
+  "quem": "Jenna (F)",
+  "en": "What's up with all the mannequins? Do you like an audience?"
+ },
+ {
+  "k": "89",
+  "quem": "Arnold (M)",
+  "en": "Ahah... Yeah! Helps me with my reps, you know how it is."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "I bet. Ever think of playing dress-up with them?"
+ },
+ {
+  "k": "91",
+  "quem": "Arnold (M)",
+  "en": "Pff... Not really. Plus everyone knows that 'dress-up' games are really just 'dress-down' games."
+ },
+ {
+  "k": "92",
+  "quem": "Arnold (M)",
+  "en": "Anyways, I nabbed these babies over time from the Gear Shop in town. They're pretty supportive."
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "Supportive? They're not people!"
+ },
+ {
+  "k": "94",
+  "quem": "Arnold (M)",
+  "en": "Hey. They're people to me. Some could say the same about me."
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "Oh- I didn't mean to-"
+ },
+ {
+  "k": "96",
+  "quem": "Arnold (M)",
+  "en": "Nah, I'm just fucking with you. It's alright!"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "Oh! Alright then!"
+ },
+ {
+  "k": "98",
+  "cena": "ResistanceBase_BodybuilderAI_Talk_AboutOthers",
+  "quem": "Jenna (F)",
+  "en": "So how'd you guys all meet up?"
+ },
+ {
+  "k": "99",
+  "quem": "Arnold (M)",
+  "en": "Well... We all wanted to try and take back our freedom... It didn't work out... and now we're down here. Seems like less freedom than up there honestly."
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "I'm sorry..."
+ },
+ {
+  "k": "101",
+  "quem": "Arnold (M)",
+  "en": "Nah, it's fine. It's all gonna be worth it in the end. I like our group. We're kinda weird, but what family isn't?"
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "I think you guys are pretty cool."
+ },
+ {
+  "k": "103",
+  "quem": "Arnold (M)",
+  "en": "Wow! That means a lot coming from you! It means a lot that you're willing to help us too... We really need a hero like you."
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "Well I'll do my best."
+ },
+ {
+  "k": "105",
+  "quem": "Arnold (M)",
+  "en": "Your best should be more than enough!"
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "Your pal doesn't seem to think so."
+ },
+ {
+  "k": "107",
+  "quem": "Arnold (M)",
+  "en": "Ahh don't worry about kitte- about uhh.. about Sofie. She's a little hot-headed towards newcomers but she warms up eventually."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "Kitten?"
+ },
+ {
+  "k": "109",
+  "quem": "Arnold (M)",
+  "en": "Wh- I! No! I said Sofie!"
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "Uh huh."
+ },
+ {
+  "k": "111",
+  "quem": "Arnold (M)",
+  "en": "Ahahh..."
+ },
+ {
+  "k": "112",
+  "cena": "ResistanceBase_BodybuilderAI_Talk_AboutWorkOut",
+  "quem": "Jenna (F)",
+  "en": "Why do you work out? Can't you just upgrade yourself?"
+ },
+ {
+  "k": "113",
+  "quem": "Arnold (M)",
+  "en": "It ain't about the muscles, it's about feeling good! It's a lifestyle choice."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "Oh! I guess that makes sense."
+ },
+ {
+  "k": "115",
+  "quem": "Arnold (M)",
+  "en": "Plus, the ladies like it. I see some of them sneaking peeks every so often."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "Some do, I guess."
+ },
+ {
+  "k": "117",
+  "cena": "ResistanceBase_BratGunner_Default",
+  "quem": "Sofie (F)",
+  "en": "Whaddya want, twinkle toes? Can't you see I'm busy over here?"
+ },
+ {
+  "k": "118",
+  "tipo": "escolha",
+  "en": "Talk to her before the raid."
+ },
+ {
+  "k": "119",
+  "tipo": "escolha",
+  "en": "Introduce yourself."
+ },
+ {
+  "k": "120",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "121",
+  "tipo": "escolha",
+  "en": "Talk with her."
+ },
+ {
+  "k": "122",
+  "cena": "ResistanceBase_BratGunner_Talk",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "123",
+  "tipo": "escolha",
+  "en": "Ask about her shirt."
+ },
+ {
+  "k": "124",
+  "tipo": "escolha",
+  "en": "Ask what she does."
+ },
+ {
+  "k": "125",
+  "cena": "ResistanceBase_BratGunner_Talk_AboutKitty",
+  "quem": "Jenna (F)",
+  "en": "Your shirt is cool! Do you like cats?"
+ },
+ {
+  "k": "126",
+  "quem": "Sofie (F)",
+  "en": "Yeah, I do. What's it to you?"
+ },
+ {
+  "k": "127",
+  "quem": "Jenna (F)",
+  "en": "Just asking."
+ },
+ {
+  "k": "128",
+  "cena": "ResistanceBase_BratGunner_Talk_WhatSheDo",
+  "quem": "Jenna (F)",
+  "en": "What do you do around here?"
+ },
+ {
+  "k": "129",
+  "quem": "Sofie (F)",
+  "en": "What does it look like I do? I take care of everyone's fuckin' guns! What do you do around here, twinkle toes?"
+ },
+ {
+  "k": "130",
+  "quem": "Sofie (F)",
+  "en": "Oh right- Fuck all."
+ },
+ {
+  "k": "131",
+  "cena": "ResistanceBase_NinjaGirl_Default",
+  "quem": "Lady (F)",
+  "en": "What do you want?"
+ },
+ {
+  "k": "132",
+  "tipo": "escolha",
+  "en": "Discuss the storehouse raid."
+ },
+ {
+  "k": "133",
+  "tipo": "escolha",
+  "en": "Talk to her before the raid."
+ },
+ {
+  "k": "134",
+  "tipo": "escolha",
+  "en": "Report to her."
+ },
+ {
+  "k": "135",
+  "tipo": "escolha",
+  "en": "Report to Lady."
+ },
+ {
+  "k": "136",
+  "tipo": "escolha",
+  "en": "Show her the bandanas."
+ },
+ {
+  "k": "137",
+  "tipo": "escolha",
+  "en": "Warn her about Pyra."
+ },
+ {
+  "k": "138",
+  "tipo": "escolha",
+  "en": "Talk to her."
+ },
+ {
+  "k": "139",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "Nothing! I just wanted to talk."
+ },
+ {
+  "k": "141",
+  "quem": "Lady (F)",
+  "en": "Uh huh..."
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "Guess I'll just go then."
+ },
+ {
+  "k": "143",
+  "quem": "Lady (F)",
+  "en": "Mhm."
+ },
+ {
+  "k": "144",
+  "cena": "ResistanceBase_NPC_Member_1",
+  "quem": "Resistance Member (M)",
+  "en": "Are you Vibe? Wow! We might actually make it!"
+ },
+ {
+  "k": "145",
+  "cena": "ResistanceBase_NPC_Member_2",
+  "quem": "Resistance Member (M)",
+  "en": "I can't sleep with this damn curse keeping me awake... I might have to do a quick fap first..."
+ },
+ {
+  "k": "146",
+  "cena": "ResistanceBase_NPC_Member_3",
+  "quem": "Resistance Member (M)",
+  "en": "Why do people just throw their beds around wherever they please? Do they have no respect for symmetrical mattress placement?!"
+ },
+ {
+  "k": "147",
+  "cena": "ResistanceBase_NPC_Member_4",
+  "quem": "Resistance Member (M)",
+  "en": "That guy over there has OCD or something, so I fuck with my bed on purpose to mess with him. It's the little things."
+ },
+ {
+  "k": "148",
+  "cena": "ResistanceBase_NPC_Member_5",
+  "quem": "Resistance Member (M)",
+  "en": "Sofie says we have to get this shit fixed up... I went through five years of engineering school just to wind up taking orders from a nineteen year old brat."
+ },
+ {
+  "k": "149",
+  "cena": "ResistanceBase_NPC_Member_6",
+  "quem": "Resistance Member (M)",
+  "en": "Shhh! I'm trying to look like I'm working, so don't ruin the illusion!"
+ },
+ {
+  "k": "150",
+  "cena": "ResistanceBase_NPC_Member_7",
+  "quem": "Resistance Member (M)",
+  "en": "Phew! Just finished up clearing this path... Took me a damn long time."
+ },
+ {
+  "k": "151",
+  "cena": "ResistanceBase_TinfoilGuy_Default",
+  "quem": "Altin (M)",
+  "en": "Zzz..."
+ },
+ {
+  "k": "152",
+  "quem": "Jenna (F)",
+  "en": "Heyo!"
+ },
+ {
+  "k": "153",
+  "quem": "Altin (M)",
+  "en": "G-Gah! Don't s-sneak up on me l-like that!"
+ },
+ {
+  "k": "154",
+  "tipo": "escolha",
+  "en": "Talk to him before the raid."
+ },
+ {
+  "k": "155",
+  "tipo": "escolha",
+  "en": "Introduce yourself."
+ },
+ {
+  "k": "156",
+  "tipo": "escolha",
+  "en": "Talk to him."
+ },
+ {
+  "k": "157",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "158",
+  "cena": "ResistanceBase_TinfoilGuy_Talk",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "159",
+  "tipo": "escolha",
+  "en": "Ask about his tinfoil hat."
+ },
+ {
+  "k": "160",
+  "tipo": "escolha",
+  "en": "Ask him what he does."
+ },
+ {
+  "k": "161",
+  "tipo": "escolha",
+  "en": "Ask about the resistance."
+ },
+ {
+  "k": "162",
+  "cena": "ResistanceBase_TinfoilGuy_Talk_AboutResistance",
+  "quem": "Jenna (F)",
+  "en": "How long have you guys been doing this sorta thing?"
+ },
+ {
+  "k": "163",
+  "quem": "Altin (M)",
+  "en": "H-Hm? We've been l-living down here... ever since the Carceburg Coup... W-Waiting..."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "Carceburg Coup?"
+ },
+ {
+  "k": "165",
+  "quem": "Throb (M)",
+  "en": "Oh god... When that militia formed against GAG. That was you people?"
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "When did this coup happen?"
+ },
+ {
+  "k": "167",
+  "quem": "Jewel (F)",
+  "en": "About four years ago or so..."
+ },
+ {
+  "k": "168",
+  "quem": "Altin (M)",
+  "en": "Mhm... D-Dark times..."
+ },
+ {
+  "k": "169",
+  "quem": "Jenna (F)",
+  "en": "I'm guessing it didn't work out?"
+ },
+ {
+  "k": "170",
+  "quem": "Altin (M)",
+  "en": "W-We wouldn't b-be living in c-caves if it did..."
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "Good point."
+ },
+ {
+  "k": "172",
+  "cena": "ResistanceBase_TinfoilGuy_Talk_TinfoilHat",
+  "quem": "Jenna (F)",
+  "en": "Soooo... What's up with the hat?"
+ },
+ {
+  "k": "173",
+  "quem": "Altin (M)",
+  "en": "H-Hat?! This is n-no mere hat! The Cr-Crush-Universal-Modulation-Reflective-Alignment-G-Goober protects m-me from those pesky C-Crush Waves!"
+ },
+ {
+  "k": "174",
+  "quem": "Altin (M)",
+  "en": "Those C-Carcens call it the 'Carcen Curse', but I k-know better... I w-won't let GAG m-mess with my mind l-like everyone else."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "It's... just a piece of tinfoil."
+ },
+ {
+  "k": "176",
+  "quem": "Altin (M)",
+  "en": "I-It may be a crude d-design... but v-very effective."
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "Uh huh. Suuure!"
+ },
+ {
+  "k": "178",
+  "quem": "Altin (M)",
+  "en": "Y-Yes! The d-design is faring well ag-against the effects... Even around a... s-sexy woman like you..."
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "I... thanks?"
+ },
+ {
+  "k": "180",
+  "cena": "ResistanceBase_TinfoilGuy_Talk_WhatHeDo",
+  "quem": "Jenna (F)",
+  "en": "So what do you do around here? I assume you're the resident smart guy with all these fancy machines?"
+ },
+ {
+  "k": "181",
+  "quem": "Altin (M)",
+  "en": "I g-guess you could say th-that. I ma-maintain the machinery and t-technology of the base. I-It is busy work."
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "I can tell! Seems very important."
+ },
+ {
+  "k": "183",
+  "quem": "Altin (M)",
+  "en": "Y-Yes! Ve-Very important!"
+ },
+ {
+  "k": "184",
+  "cena": "ResistanceIntro_Intro_BodybuilderAI",
+  "quem": "Jenna (F)",
+  "en": "Heya! Lady wanted me to introduce myself to everyone."
+ },
+ {
+  "k": "185",
+  "quem": "Arnold (M)",
+  "en": "Ah! 500!"
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "Uh... what?"
+ },
+ {
+  "k": "187",
+  "quem": "Arnold (M)",
+  "en": "Oh! Sorry about that, Miss Jenna! Was just doing my daily cock workout."
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "Your... wha?"
+ },
+ {
+  "k": "189",
+  "quem": "Arnold (M)",
+  "en": "Cock workout! Gotta do flex reps to keep that erection strong for the ladies!"
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "And you just did 500 of them?"
+ },
+ {
+  "k": "191",
+  "quem": "Arnold (M)",
+  "en": "543 now."
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "Damn, you're fast."
+ },
+ {
+  "k": "193",
+  "quem": "Arnold (M)",
+  "en": "I may be fast, but I always finish last."
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "Oh my god."
+ },
+ {
+  "k": "195",
+  "quem": "Arnold (M)",
+  "en": "Haha, sorry if that's too much. I love crude humor. Anyways, is there something you wanted to talk about?"
+ },
+ {
+  "k": "196",
+  "cena": "ResistanceIntro_Intro_BratGunner",
+  "quem": "Jenna (F)",
+  "en": "Lady wanted me to introduce myself. We got off on the wrong foot last time."
+ },
+ {
+  "k": "197",
+  "quem": "Sofie (F)",
+  "en": "Hah! Maybe you did, twinkle toes. Lady's always thinkin' she can boss everyone around, but everyone knows that I'm the boss around here."
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "You sure about that?"
+ },
+ {
+  "k": "199",
+  "quem": "Sofie (F)",
+  "en": "Pfft, duh! I've got all the guns! You know what they say, licky dick. The only thing that people really listen to nowadays is a gun."
+ },
+ {
+  "k": "200",
+  "quem": "Jenna (F)",
+  "en": "Heh, that's not true at all!"
+ },
+ {
+  "k": "201",
+  "quem": "Sofie (F)",
+  "en": "Oh yeah? I've seen your zappy little peashooters, Vibe. They're cute, but they don't <b>really</b> get the job done."
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "Whatever you say. What's your name?"
+ },
+ {
+  "k": "203",
+  "quem": "Sofie (F)",
+  "en": "I'm not telling you..."
+ },
+ {
+  "k": "204",
+  "quem": "Jenna (F)",
+  "en": "Are you gonna make me guess?"
+ },
+ {
+  "k": "205",
+  "quem": "Sofie (F)",
+  "en": "Nah. I'd rather not sit here for days with your dumdum head. Sofie's the name, kickin' ass and blowin' shit up is the game."
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "I'm Jenna."
+ },
+ {
+  "k": "207",
+  "quem": "Sofie (F)",
+  "en": "I don't caaare."
+ },
+ {
+  "k": "208",
+  "cena": "ResistanceIntro_Intro_NinjaGirl",
+  "quem": "Jenna (F)",
+  "en": "You wanted to talk to me about something?"
+ },
+ {
+  "k": "209",
+  "quem": "Lady (F)",
+  "en": "Yes. We need your help. We've been waiting for something like this for a long time. It seems that our luck is finally changing."
+ },
+ {
+  "k": "210",
+  "quem": "Jenna (F)",
+  "en": "Okay! What do you need my help with? Housecleaning?"
+ },
+ {
+  "k": "211",
+  "quem": "Lady (F)",
+  "en": "... No. We've gotten word that the GAG commander that was supposed to be stationed in Carceburg has disappeared. Wildfire."
+ },
+ {
+  "k": "212",
+  "quem": "Jenna (F)",
+  "en": "<i>(Shit... I can't let them know about her.)</i>"
+ },
+ {
+  "k": "213",
+  "quem": "Jenna (F)",
+  "en": "Wildfire, eh? Never heard of her."
+ },
+ {
+  "k": "214",
+  "quem": "Lady (F)",
+  "en": "Hmm, I was going to ask if you had something to do with it..."
+ },
+ {
+  "k": "215",
+  "quem": "Lady (F)",
+  "en": "Anyway. This opens up an opportunity for us to move a little more freely."
+ },
+ {
+  "k": "216",
+  "quem": "Jenna (F)",
+  "en": "Who exactly are you guys?"
+ },
+ {
+  "k": "217",
+  "quem": "Lady (F)",
+  "en": "Hm... We're the resistance and we wish to free Carceburg from the GAG. You may call me Lady, as the others do."
+ },
+ {
+  "k": "218",
+  "quem": "Jenna (F)",
+  "en": "Resistance? That's..."
+ },
+ {
+  "k": "219",
+  "quem": "Lady (F)",
+  "en": "We've sacrificed a lot already. Things are desperate, and we're struggling."
+ },
+ {
+  "k": "220",
+  "quem": "Lady (F)",
+  "en": "All hope has nearly been lost... What with the dark ones at our gates and GAG closing in. We've lost friends over these past few years..."
+ },
+ {
+  "k": "221",
+  "quem": "Jenna (F)",
+  "en": "I'm... sorry to hear that."
+ },
+ {
+  "k": "222",
+  "quem": "Lady (F)",
+  "en": "What's done is done. If we keep our sights on the past, the future will end us."
+ },
+ {
+  "k": "223",
+  "quem": "Lady (F)",
+  "en": "What I care about now is the present. There is a big opportunity for us with you here and the commander gone. We'll need to take advantage of it."
+ },
+ {
+  "k": "224",
+  "quem": "Jenna (F)",
+  "en": "That sounds like a good plan... What is the plan exactly?"
+ },
+ {
+  "k": "225",
+  "quem": "Lady (F)",
+  "en": "Are you willing to help us?"
+ },
+ {
+  "k": "226",
+  "quem": "Jenna (F)",
+  "en": "Of course!"
+ },
+ {
+  "k": "227",
+  "quem": "Lady (F)",
+  "en": "We need supplies. Carceburg has them."
+ },
+ {
+  "k": "228",
+  "quem": "Jenna (F)",
+  "en": "In the storehouse. With guards."
+ },
+ {
+  "k": "229",
+  "quem": "Lady (F)",
+  "en": "Which is why we haven't done it before. Best we've been able to do is slowly acquiring supplies that the GAG rations out... But if we can hit the source..."
+ },
+ {
+  "k": "230",
+  "quem": "Jenna (F)",
+  "en": "You'd be supplied and ready to face the future."
+ },
+ {
+  "k": "231",
+  "quem": "Lady (F)",
+  "en": "Exactly."
+ },
+ {
+  "k": "232",
+  "quem": "Jenna (F)",
+  "en": "So when do we start?"
+ },
+ {
+  "k": "233",
+  "quem": "Lady (F)",
+  "en": "Soon. Go introduce yourself to the others. It's unwise to fight alongside strangers. I'll be waiting here for you, and we can go over the plan then."
+ },
+ {
+  "k": "234",
+  "quem": "Jenna (F)",
+  "en": "Will do!"
+ },
+ {
+  "k": "235",
+  "cena": "ResistanceIntro_Intro_NinjaGirl_Return",
+  "quem": "Jenna (F)",
+  "en": "Introduced myself to everyone!"
+ },
+ {
+  "k": "236",
+  "quem": "Lady (F)",
+  "en": "Good. Any issues?"
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "None! Although I think Sofie doesn't like me too much."
+ },
+ {
+  "k": "238",
+  "quem": "Lady (F)",
+  "en": "That's just how she is."
+ },
+ {
+  "k": "239",
+  "quem": "Jenna (F)",
+  "en": "... Okay..."
+ },
+ {
+  "k": "240",
+  "quem": "Lady (F)",
+  "en": "Let me know when you're ready to go over the plan to gain some supplies."
+ },
+ {
+  "k": "241",
+  "quem": "Jenna (F)",
+  "en": "Sure thing!"
+ },
+ {
+  "k": "242",
+  "cena": "ResistanceIntro_Intro_TinfoilGuy",
+  "quem": "Jenna (F)",
+  "en": "Lady sent me over to introduce myself."
+ },
+ {
+  "k": "243",
+  "quem": "Altin (M)",
+  "en": "A-Ah, yes... L-Lady is a-already ordering y-you around. S-She's a born l-leader."
+ },
+ {
+  "k": "244",
+  "quem": "Jenna (F)",
+  "en": "Guess so. So allow me to introduce myself! I'm Jenna."
+ },
+ {
+  "k": "245",
+  "quem": "Altin (M)",
+  "en": "My n-name is Altin... A-Apologies for the s-stutter, I know i-it's n-not pleasant t-to listen to."
+ },
+ {
+  "k": "246",
+  "quem": "Jenna (F)",
+  "en": "Don't worry about it! Doesn't bother me in the slightest."
+ },
+ {
+  "k": "247",
+  "quem": "Altin (M)",
+  "en": "T-Thank you, J-Jenna."
+ },
+ {
+  "k": "248",
+  "cena": "ResistanceIntro_Mines_End_0",
+  "quem": "Arnold (M)",
+  "en": "Phew! We made it! Were you worried about us, Lady?"
+ },
+ {
+  "k": "249",
+  "quem": "Lady (F)",
+  "en": "Welcome back- Why is that one wearing GAG armor?"
+ },
+ {
+  "k": "250",
+  "quem": "Arnold (M)",
+  "en": "He's a friend. We can trust him."
+ },
+ {
+  "k": "251",
+  "quem": "Lady (F)",
+  "en": "... Alright. Come. Jenna, we need to speak. See me when you are ready."
+ },
+ {
+  "k": "252",
+  "quem": "Arnold (M)",
+  "en": "I'll see you in there, Jenna! Come visit me and chat whenever you want!"
+ },
+ {
+  "k": "253",
+  "quem": "Jenna (F)",
+  "en": "Sounds good!"
+ },
+ {
+  "k": "254",
+  "cena": "ResistanceIntro_Mines_Intro_0",
+  "quem": "Arnold (M)",
+  "en": "Oh... fuck..."
+ },
+ {
+  "k": "255",
+  "quem": "Jenna (F)",
+  "en": "What are you oh-fucking about?"
+ },
+ {
+  "k": "256",
+  "quem": "Arnold (M)",
+  "en": "The entrance... It's collapsed..."
+ },
+ {
+  "k": "257",
+  "quem": "Jenna (F)",
+  "en": "Oh fuck..."
+ },
+ {
+  "k": "258",
+  "quem": "Arnold (M)",
+  "en": "It's fine. We just need to erm... go around."
+ },
+ {
+  "k": "259",
+  "quem": "Jenna (F)",
+  "en": "Why do I get the feeling that it won't be as easy as it sounds?"
+ },
+ {
+  "k": "260",
+  "quem": "Arnold (M)",
+  "en": "Well... We have to go through the old caves... Where the dark ones are..."
+ },
+ {
+  "k": "261",
+  "quem": "Jenna (F)",
+  "en": "Let's go then. I handled them pretty well before."
+ },
+ {
+  "k": "262",
+  "quem": "Arnold (M)",
+  "en": "Right... It'll be simple with Vibe leading the way!"
+ },
+ {
+  "k": "263",
+  "quem": "Jenna (F)",
+  "en": "It's just Jenna..."
+ },
+ {
+  "k": "264",
+  "quem": "Jenna (F)",
+  "en": "Wait- Don't you know the way?"
+ },
+ {
+  "k": "265",
+  "quem": "Arnold (M)",
+  "en": "Uhhh... Negative. Never really came through this way. I just know the backdoor is there."
+ },
+ {
+  "k": "266",
+  "quem": "Arnold (M)",
+  "en": "I'm pretty good at finding the backdoor, hah."
+ },
+ {
+  "k": "267",
+  "quem": "Jenna (F)",
+  "en": "Hey! I'm supposed to be in charge of the shitty puns."
+ },
+ {
+  "k": "268",
+  "quem": "Arnold (M)",
+  "en": "Oof... I can see that..."
+ }
+]

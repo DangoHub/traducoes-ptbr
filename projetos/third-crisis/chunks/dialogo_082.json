@@ -1,0 +1,998 @@
+[
+ {
+  "k": "1",
+  "cena": "Motel_Firstexit_3",
+  "en": "<i>He walks slowly over, smiling down at me.</i>"
+ },
+ {
+  "k": "2",
+  "quem": "MotelOwner (M)",
+  "en": "Got your first errand. I want you to go to the townhall and hand in this report."
+ },
+ {
+  "k": "3",
+  "tipo": "escolha",
+  "en": "Do his errand."
+ },
+ {
+  "k": "4",
+  "tipo": "escolha",
+  "en": "Refuse to do his errand."
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "Alright, fine. I’ll do your errand, will that get me a night?"
+ },
+ {
+  "k": "6",
+  "quem": "MotelOwner (M)",
+  "en": "You want a night with me, hm?"
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "Not like that, you creep! You know what I mean."
+ },
+ {
+  "k": "8",
+  "quem": "Narrador",
+  "en": "<i>He lets out a little chuckle, crossing his arms in thought as he strokes his chin.</i>"
+ },
+ {
+  "k": "9",
+  "quem": "MotelOwner (M)",
+  "en": "Hmm… It’ll earn you some information on where in Carceburg that redhead of yours is."
+ },
+ {
+  "k": "10",
+  "quem": "Narrador",
+  "en": "<i>I perk up in surprise, looking up at him quickly.</i>"
+ },
+ {
+  "k": "11",
+  "quem": "Jenna (F)",
+  "en": "Done, give me the damn report."
+ },
+ {
+  "k": "12",
+  "quem": "MotelOwner (M)",
+  "en": "Well aren’t you just a fiery little minx? I like that. Town hall’s on the left if you face the motel, just follow the road to the left. There’s a dropbox in the back of the town hall, leave it in there."
+ },
+ {
+  "k": "13",
+  "quem": "Narrador",
+  "en": "<i>He shakes the report in his hand to draw my attention and I snatch it out of his hand quickly, causing him to give a short laugh.</i>"
+ },
+ {
+  "k": "14",
+  "quem": "MotelOwner (M)",
+  "en": "Oh and remember to keep on that badge I gave you."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "No, I won’t do it. I’m going to go look for my girlfriend."
+ },
+ {
+  "k": "16",
+  "quem": "MotelOwner (M)",
+  "en": "Haha, I see. How wounding. But you’ll be back."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "I doubt it, I can find a way on my own."
+ },
+ {
+  "k": "18",
+  "quem": "MotelOwner (M)",
+  "en": "Sure you can, but make sure you remember the badge I gave you."
+ },
+ {
+  "k": "19",
+  "quem": "Narrador",
+  "en": "<i>The man taps the small red badge on my chest that he pinned to my clothes earlier. I had forgotten all about it...</i>"
+ },
+ {
+  "k": "20",
+  "quem": "MotelOwner (M)",
+  "en": "It’s dangerous out there, make sure you’re wearing that or the guards will make you regret it."
+ },
+ {
+  "k": "21",
+  "quem": "Narrador",
+  "en": "<i>I smack his hand away lightly, before glancing down at the badge and reading the engraving on it.</i>"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Klaus Tansa…?"
+ },
+ {
+  "k": "23",
+  "quem": "MotelOwner (M)",
+  "en": "Just Klaus if you please. It’ll keep you safe, I promise."
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "Right… Thanks, I guess, uh... Klaus."
+ },
+ {
+  "k": "25",
+  "quem": "MotelOwner (M)",
+  "en": "Mhm. Now run along."
+ },
+ {
+  "k": "26",
+  "quem": "Narrador",
+  "en": "I toy with the badge for a few moments, before opening the door with a shrug."
+ },
+ {
+  "k": "27",
+  "cena": "Motel_GenericTalk",
+  "en": "Hello there, young Lady. How can I help you?"
+ },
+ {
+  "k": "28",
+  "cena": "Motel_InformPlayerOfBed",
+  "quem": "Jenna (F)",
+  "en": "<i>I suppose from now on, I can take naps to pass the time if I need to.</i>"
+ },
+ {
+  "k": "29",
+  "cena": "Motel_Minigame1_Corruption0_1",
+  "en": "<i>As I bend over to clean the dust off, I notice Klaus clearly staring at me.</i>"
+ },
+ {
+  "k": "30",
+  "en": "<i>Why is he looking at me like this...?</i>"
+ },
+ {
+  "k": "31",
+  "cena": "Motel_Minigame1_Corruption0_2",
+  "en": "<i>How could I sink so low that I have to clean dust off the furniture in this old motel...?</i>"
+ },
+ {
+  "k": "32",
+  "cena": "Motel_Minigame1_Corruption2_1",
+  "en": "<i>I guess it could be worse. At least I have a way to make some money now!</i>"
+ },
+ {
+  "k": "33",
+  "cena": "Motel_Minigame1_Corruption2_2",
+  "en": "<i>I notice Klaus' eyes on my body once more.</i>"
+ },
+ {
+  "k": "34",
+  "en": "<i>I guess he just wants to make sure I do a decent job. Nothing wrong with that.</i>"
+ },
+ {
+  "k": "35",
+  "cena": "Motel_Minigame1_Corruption4_1",
+  "en": "<i>I mean.. It's not thaat bad. I could almost get used to this. And I'm making money after all!</i>"
+ },
+ {
+  "k": "36",
+  "cena": "Motel_Minigame1_Corruption4_2",
+  "en": "You're looking good when you're cleaning like this, little hero."
+ },
+ {
+  "k": "37",
+  "en": "<i>I blush heavily as I face him.</i>"
+ },
+ {
+  "k": "38",
+  "en": "I'm only doing my job to get paid!"
+ },
+ {
+  "k": "39",
+  "en": "<i>Right..?</i>"
+ },
+ {
+  "k": "40",
+  "cena": "Motel_Minigame1_DidClean",
+  "en": "Well done, here's some credit."
+ },
+ {
+  "k": "41",
+  "en": "Hehe! Thanks!"
+ },
+ {
+  "k": "42",
+  "cena": "Motel_Minigame1_Finished1",
+  "en": "<i>Phew, finally done... I hope I don't have to do this again..</i>"
+ },
+ {
+  "k": "43",
+  "cena": "Motel_Minigame1_Finished2",
+  "en": "<i>Uff, done.. It wasn't even as annoying as last time..</i>"
+ },
+ {
+  "k": "44",
+  "cena": "Motel_Minigame1_Finished3",
+  "en": "<i>Hehe! Everything is nice and neat again! Time to get paid!</i>"
+ },
+ {
+  "k": "45",
+  "cena": "Motel_Owner_CumReaction",
+  "quem": "MotelOwner (M)",
+  "en": "Uh oh. Had a little fun did we? Messy girl."
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "Shut it."
+ },
+ {
+  "k": "47",
+  "cena": "Motel_Owner_Default",
+  "quem": "MotelOwner (M)",
+  "en": "Got anything for me, girl?"
+ },
+ {
+  "k": "48",
+  "tipo": "escolha",
+  "en": "Ask about the holidays."
+ },
+ {
+  "k": "49",
+  "tipo": "escolha",
+  "en": "<color=perversion>Make money with your body.</color>"
+ },
+ {
+  "k": "50",
+  "tipo": "escolha",
+  "en": "Ask him for a VR access card."
+ },
+ {
+  "k": "51",
+  "tipo": "escolha",
+  "en": "Ask about using the shower."
+ },
+ {
+  "k": "52",
+  "tipo": "escolha",
+  "en": "<color=perversion>Ask about ways to make money.</color>"
+ },
+ {
+  "k": "53",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "No."
+ },
+ {
+  "k": "55",
+  "cena": "Motel_Owner_Ripped",
+  "quem": "MotelOwner (M)",
+  "en": "Oh, seems like somebody had his way with you. Not that I mind."
+ },
+ {
+  "k": "56",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "No!"
+ },
+ {
+  "k": "58",
+  "cena": "Motel_OwnerGoToSleep",
+  "quem": "MotelOwner (M)",
+  "en": "You should go to sleep now. Your room is the one on the far right."
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "Alright, thanks."
+ },
+ {
+  "k": "60",
+  "cena": "Motel_PinupFragment_10_Pickup",
+  "quem": "Narrador",
+  "en": "<i>(There's a note attached to the datapad...)</i>"
+ },
+ {
+  "k": "61",
+  "quem": "Narrador",
+  "en": "A gift from me to you. You are quite photogenic, little hero.\n- Klaus"
+ },
+ {
+  "k": "62",
+  "cena": "Motel_Prostitution_AlreadyDidProstitution",
+  "quem": "Jenna (F)",
+  "en": "I want more, Klaus~"
+ },
+ {
+  "k": "63",
+  "quem": "MotelOwner (M)",
+  "en": "Haha, that's cute. You just can't get enough, can you? Unfortunately, curfew is up, so no more customers for you to take care of today. Get some sleep, little hero."
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "Hmph."
+ },
+ {
+  "k": "65",
+  "quem": "MotelOwner (M)",
+  "en": "I said go to sleep."
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "Fine!"
+ },
+ {
+  "k": "67",
+  "cena": "Motel_Prostitution_AskKlausDay2",
+  "quem": "Jenna (F)",
+  "en": "So... Is there more... <size=30><color=perversion>work</color></size> today..?"
+ },
+ {
+  "k": "68",
+  "quem": "MotelOwner (M)",
+  "en": "Of course there is, <b>plenty </b>even, hehe. Get upstairs, I'll handle the rest."
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "I-.. Alright.."
+ },
+ {
+  "k": "70",
+  "quem": "MotelOwner (M)",
+  "en": "Good girl. And don't let me hear a complaint from <b>any</b> customer, got that?!"
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "... I-"
+ },
+ {
+  "k": "72",
+  "quem": "MotelOwner (M)",
+  "en": "Otherwise, I'll keep the money. For <i>compensation</i> of the damage to my reputation. Is that <b>clear</b>?!"
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "<i>(I won't work without <color=perversion>pay</color>... That's for sure...)</i>"
+ },
+ {
+  "k": "74",
+  "quem": "Jenna (F)",
+  "en": "F-Fine.."
+ },
+ {
+  "k": "75",
+  "quem": "MotelOwner (M)",
+  "en": "That's what I wanted to hear, <i>little hero</i>, hehe."
+ },
+ {
+  "k": "76",
+  "cena": "Motel_Prostitution_AskKlausDay3",
+  "quem": "Jenna (F)",
+  "en": "Hey.. So.. "
+ },
+ {
+  "k": "77",
+  "quem": "MotelOwner (M)",
+  "en": "The customers last night were <b>very</b> happy with you. Looking for another chance at selling your body, huh? Hehe."
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "I..! That's no-!"
+ },
+ {
+  "k": "79",
+  "quem": "MotelOwner (M)",
+  "en": "Sure, sure. There's a <b>job</b> waiting for you upstairs. So be quiet and do your <b>work</b> already, <b>little hero</b>."
+ },
+ {
+  "k": "80",
+  "quem": "MotelOwner (M)",
+  "en": "Much better. And don't let me hear <b>anything</b> bad from the next customer or this will have been your <b>last</b> opportunity."
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "... Yes..."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "<i>(Why do I let him command me around like that...)</i>"
+ },
+ {
+  "k": "83",
+  "cena": "Motel_Prostitution_AskKlausDay4",
+  "quem": "Jenna (F)",
+  "en": "Hey Klaus.. So.."
+ },
+ {
+  "k": "84",
+  "quem": "MotelOwner (M)",
+  "en": "Hehe, looking for another job, aren't you?"
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "I-..."
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I am...</color>"
+ },
+ {
+  "k": "87",
+  "quem": "MotelOwner (M)",
+  "en": "Good, I've got another customer who asked for you specifically. He's got a special request and will pay <b>very well</b> for it... <b>But</b>.."
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "... But?"
+ },
+ {
+  "k": "89",
+  "quem": "MotelOwner (M)",
+  "en": "I'll have to make sure you are really.. <b>committed</b>."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "... Committed?"
+ },
+ {
+  "k": "91",
+  "quem": "MotelOwner (M)",
+  "en": "I'll need you to say out loud what you are... <b>Prostitute</b>... <size=30>Hehe</size>."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "Why?!"
+ },
+ {
+  "k": "93",
+  "quem": "MotelOwner (M)",
+  "en": "<b>Say it</b>, or your role in the job will be.. <b>replaced</b>.. <i>Prostitute</i>."
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "Replaced?"
+ },
+ {
+  "k": "95",
+  "quem": "MotelOwner (M)",
+  "en": "There's lots of other girls around that wouldn't think twice about this opportunity. Do you want the <b>money</b> or not, huh?!"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>...!</color>"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "P-.. <color=perversion>Prostitute</color>."
+ },
+ {
+  "k": "98",
+  "quem": "MotelOwner (M)",
+  "en": "I didn't quite hear that. What was that?"
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(I won't let some <b>slut</b> take away my <b>profit</b>...!)</color></i>"
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I'm your... prostitute!</color>"
+ },
+ {
+  "k": "101",
+  "quem": "MotelOwner (M)",
+  "en": "That's right. You are <b>my</b> prostitute. Hehehe. Very well then, you can have your customer. <b>Wait upstairs, naked</b>."
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Selling my body for money.. I'm a real prostitute.. At least I get.. <b>appreciated</b>..)</color></i>"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Plus, the men can't resist me, teehee. Neither can their <b>wallets</b>..)</color></i>"
+ },
+ {
+  "k": "104",
+  "quem": "MotelOwner (M)",
+  "en": "What are you waiting for? Are you internally monologuing? Move your slutty ass upstairs!"
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes sir!</color>"
+ },
+ {
+  "k": "106",
+  "cena": "Motel_Prostitution_AskKlausDay5",
+  "quem": "Jenna (F)",
+  "en": "Hey Klaus.. What job is.. uhm.. here for me today?"
+ },
+ {
+  "k": "107",
+  "quem": "MotelOwner (M)",
+  "en": "None."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<b>What?!</b>"
+ },
+ {
+  "k": "109",
+  "quem": "MotelOwner (M)",
+  "en": "Hahaha, what's that? Sad that you can't whore out your body?"
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "I-..! N-.."
+ },
+ {
+  "k": "111",
+  "quem": "MotelOwner (M)",
+  "en": "Tell you what.. Maybe there <b>is</b> a job.. But why should I give it to <b>you</b>?"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Because... I-.."
+ },
+ {
+  "k": "113",
+  "quem": "MotelOwner (M)",
+  "en": "The other sluts I own have already learned that in order to get work, they have to treat their boss nicely. I think it's about time that <b>you</b> learn that lesson, prostitute."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "... <color=perversion>Treat</color> their boss nicely..?"
+ },
+ {
+  "k": "115",
+  "quem": "MotelOwner (M)",
+  "en": "Hehehe.. That's right.. Do you want the job, <b>or not</b>?!"
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I.. Do..</color>"
+ },
+ {
+  "k": "117",
+  "quem": "MotelOwner (M)",
+  "en": "On your knees and take off your top. "
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(... He'll make me suck his... <b>cock</b>...)</i></color>"
+ },
+ {
+  "k": "119",
+  "quem": "Narrador",
+  "en": "<i>I kneel down next to him and free my breasts of all fabric.</i>"
+ },
+ {
+  "k": "120",
+  "quem": "MotelOwner (M)",
+  "en": "There you go.. Your last customer told me he was very happy with you. He even showed me a little something he <b>took</b> of you, hehehe."
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(The picture... He showed it off...)</color></i>"
+ },
+ {
+  "k": "122",
+  "quem": "MotelOwner (M)",
+  "en": "No snarky comment about it, huh? <b>Good</b>. You're <b>learning</b>. With my help, you will become the most wanted <b>whore</b> around. You should <b>thank</b> me."
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Th-.. thank.. you...</color>"
+ },
+ {
+  "k": "124",
+  "quem": "MotelOwner (M)",
+  "en": "Tell me what you're thanking me <b>for</b>, useless whore."
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Thank you for... for.. for making me.. a.. a prostitute.. The most.. most wanted prostitute around...</color>"
+ },
+ {
+  "k": "126",
+  "quem": "MotelOwner (M)",
+  "en": "Good cunt..."
+ },
+ {
+  "k": "127",
+  "quem": "Narrador",
+  "en": "<i>He pulls out his cock.</i>"
+ },
+ {
+  "k": "128",
+  "quem": "MotelOwner (M)",
+  "en": "I was told you <b>love</b> cocks, ehehe... Suck mine and maybe you'll get the next <b>job</b>."
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(I <b>want</b> it...)</color></i>"
+ },
+ {
+  "k": "130",
+  "quem": "Narrador",
+  "en": "<i>I start taking his cock into my mouth. This not having been the first cock on my tongue, a relaxing feeling of familiarity starts to settle in.</i>"
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Cock...)</color></i>"
+ },
+ {
+  "k": "132",
+  "quem": "MotelOwner (M)",
+  "en": "That's right, little cockloving slut. Show me your <b>worth</b>."
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(He's so hard... Just because of <b>me</b>...)</color></i>"
+ },
+ {
+  "k": "134",
+  "quem": "MotelOwner (M)",
+  "en": "I wonder what your <b>girlfriend</b> would say if she saw you with so many men, ehehehe..."
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(I don't... can't... resist...)</color></i>"
+ },
+ {
+  "k": "136",
+  "quem": "MotelOwner (M)",
+  "en": "You just don't <b>care</b>, isn't that right? Hehehehe... You only care about <b>money</b> and <b>cock</b>. Just like a prostitute <b>should</b>."
+ },
+ {
+  "k": "137",
+  "quem": "Narrador",
+  "en": "<i>His words bounce around in my head.</i>"
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Don't care... Money... <b>Cock</b>...)</i></color>"
+ },
+ {
+  "k": "139",
+  "quem": "MotelOwner (M)",
+  "en": "You've realized what you <b>really</b> desire."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(<b>Cock....</b>)</i></color>"
+ },
+ {
+  "k": "141",
+  "quem": "MotelOwner (M)",
+  "en": "Go <b>deeper</b>, slut. Show me that selecting you for the job is the right choice."
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Slut... I'm a.. <b>Slut</b>..!)</color></i>"
+ },
+ {
+  "k": "143",
+  "quem": "Narrador",
+  "en": "<i>Just from sucking cock, I can feel my arousal rise. Juices start streaming down my inner thighs.</i>"
+ },
+ {
+  "k": "144",
+  "quem": "MotelOwner (M)",
+  "en": "Pathetic fucktoy, hehehe. You <b>love</b> it when a cock goes deep inside you."
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Fucktoy... Cock...)</color></i>"
+ },
+ {
+  "k": "146",
+  "quem": "MotelOwner (M)",
+  "en": "<b>That's</b> why you keep coming back to me, hehehe. Money is only a part of it. This place has changed you. <b>To my liking.</b>"
+ },
+ {
+  "k": "147",
+  "quem": "Narrador",
+  "en": "<i>My mind becomes blank. I purely focus on pleasuring his cock.</i>"
+ },
+ {
+  "k": "148",
+  "quem": "MotelOwner (M)",
+  "en": "Time for a little reward for you, showoff cunt."
+ },
+ {
+  "k": "149",
+  "quem": "Narrador",
+  "en": "<i>He suddenly cums just as his cock is deep down my throat.</i>"
+ },
+ {
+  "k": "150",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(Cummmm.....)</color></i>"
+ },
+ {
+  "k": "151",
+  "quem": "MotelOwner (M)",
+  "en": "Good slut."
+ },
+ {
+  "k": "152",
+  "quem": "Narrador",
+  "en": "He pulls his cock away from me and zips his pants back up."
+ },
+ {
+  "k": "153",
+  "quem": "MotelOwner (M)",
+  "en": "Satisfied, hmm?"
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. Hnng.. M-more...</color>"
+ },
+ {
+  "k": "155",
+  "quem": "MotelOwner (M)",
+  "en": "Good. Go upstairs."
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(I need a <b>cock</b> in my pussy... fffuuck...)</color></i>"
+ },
+ {
+  "k": "157",
+  "cena": "Motel_Prostitution_FirstAskKlaus",
+  "en": "Klaus... I'm uh... I might be thinking about giving this... offer... a try..."
+ },
+ {
+  "k": "158",
+  "en": "Hehe.. That's good to hear, little hero. I'm sure you'll do well."
+ },
+ {
+  "k": "159",
+  "en": "Do well? I thought the whole point was that I get done."
+ },
+ {
+  "k": "160",
+  "en": "That's cute. I'm sure the customers will like your little jokes."
+ },
+ {
+  "k": "161",
+  "en": "Heh..."
+ },
+ {
+  "k": "162",
+  "en": "All you have to do is come upstairs with me and settle into one of the beds. I'll let the customer in and when they come, yo-"
+ },
+ {
+  "k": "163",
+  "en": "And then I make them come?"
+ },
+ {
+  "k": "164",
+  "en": "Exactly. I'll give you some pay for your efforts. Sound good?"
+ },
+ {
+  "k": "165",
+  "en": "Sounds fair."
+ },
+ {
+  "k": "166",
+  "en": "Wonderful. Are you ready to start now?"
+ },
+ {
+  "k": "167",
+  "tipo": "escolha",
+  "en": "<color=perversion>Start now.</color>"
+ },
+ {
+  "k": "168",
+  "tipo": "escolha",
+  "en": "Maybe later."
+ },
+ {
+  "k": "169",
+  "cena": "Motel_Prostitution_FirstAskKlaus 1",
+  "quem": "Jenna (F)",
+  "en": "Klaus... I'm uh... I might be thinking about giving this... offer... a try..."
+ },
+ {
+  "k": "170",
+  "quem": "MotelOwner (M)",
+  "en": "Heheh.. That's good to hear, little hero. I'm sure you'll do well."
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "Do well? I thought the whole point was that I get done."
+ },
+ {
+  "k": "172",
+  "quem": "MotelOwner (M)",
+  "en": "That's cute. I'm sure the customer will like your little jokes. He's also a sucker for girls with a <b>hot body</b> like yours. Plus he always pays <b>well</b>."
+ },
+ {
+  "k": "173",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>M-... Mhm...</color>"
+ },
+ {
+  "k": "174",
+  "quem": "MotelOwner (M)",
+  "en": "All you have to do is come upstairs with me and settle into one of the beds. I'll let the customer come in and then yo-"
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "and then I make them 'come'?"
+ },
+ {
+  "k": "176",
+  "quem": "MotelOwner (M)",
+  "en": "Exactly. I'll take care of the business side. Sound good?"
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "A-... Alright..."
+ },
+ {
+  "k": "178",
+  "quem": "MotelOwner (M)",
+  "en": "Wonderful. Are you ready to start now?"
+ },
+ {
+  "k": "179",
+  "tipo": "escolha",
+  "en": "<color=perversion>Start now.</color>"
+ },
+ {
+  "k": "180",
+  "tipo": "escolha",
+  "en": "Maybe later."
+ },
+ {
+  "k": "181",
+  "cena": "Motel_Prostitution_FirstAskKlaus_No",
+  "quem": "Jenna (F)",
+  "en": "Eheh... Maybe later!"
+ },
+ {
+  "k": "182",
+  "quem": "MotelOwner (M)",
+  "en": "Alright, miss flip-flop. Come speak to me when you're ready."
+ },
+ {
+  "k": "183",
+  "cena": "Motel_Prostitution_FirstAskKlaus_Yes",
+  "quem": "Jenna (F)",
+  "en": "I'm <color=perversion>ready</color>..."
+ },
+ {
+  "k": "184",
+  "quem": "MotelOwner (M)",
+  "en": "Good girl. Let's get you upstairs then."
+ },
+ {
+  "k": "185",
+  "cena": "Motel_Prostitution_Intro",
+  "en": "Ever heard of knocking?"
+ },
+ {
+  "k": "186",
+  "en": "You've been slutting it up recently, haven't you, little hero?"
+ },
+ {
+  "k": "187",
+  "en": "W- I- No! ... Maybe?"
+ },
+ {
+  "k": "188",
+  "en": "Uh huh. I've heard about the sexy new badge girl waiting tables at the bar and handing out blowjobs. Martin's been real happy about it."
+ },
+ {
+  "k": "189",
+  "en": "This is good. Looks like I've taught you well. Now I've got a business proposition for you, cocklover."
+ },
+ {
+  "k": "190",
+  "en": "Business?"
+ },
+ {
+  "k": "191",
+  "en": "Yes. Business. Deal. Commerce. I'm sure they taught you about business in little hero college, did they not?"
+ },
+ {
+  "k": "192",
+  "en": "I know what business is. What's the offer?"
+ },
+ {
+  "k": "193",
+  "en": "I run a little side gig with the motel business. I have girls that take <b>good</b> care of the people that come in. Nice private affair. It pays well too."
+ },
+ {
+  "k": "194",
+  "en": "So if you're willing, I can setup some appointments with you. There's been a few people asking when they can have a piece of you."
+ },
+ {
+  "k": "195",
+  "en": "You've made quite the impression around town. Everyone knows you're mine from how proudly you've worn that badge of mine."
+ },
+ {
+  "k": "196",
+  "en": "I'm not proud of it!"
+ },
+ {
+  "k": "197",
+  "en": "Actions speak louder than words, my dear. Now if you're not willing, that's fine. I'm not a monster. I just know you could use the fuckbucks, little hero."
+ },
+ {
+  "k": "198",
+  "en": "Don't call me that!"
+ },
+ {
+  "k": "199",
+  "en": "I'll call you what I like. Come see me if you want to make us some money with that tight little body of yours, little hero. I'll be waiting."
+ },
+ {
+  "k": "200",
+  "en": "Uh huh. Don't let the door hit your ass on the way out."
+ },
+ {
+  "k": "201",
+  "en": "Only ass that will get hit is yours."
+ },
+ {
+  "k": "202",
+  "en": "But that would be har-ass-ment!"
+ },
+ {
+  "k": "203",
+  "en": "... Christ."
+ }
+]

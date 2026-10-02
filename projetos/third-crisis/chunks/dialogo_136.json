@@ -1,0 +1,1253 @@
+[
+ {
+  "k": "1",
+  "cena": "VIPAmbush_Clearing_Start",
+  "quem": "Jenna (F)",
+  "en": "Alright! We’re here! Just need to figure out a decent strategy."
+ },
+ {
+  "k": "2",
+  "quem": "Throb (M)",
+  "en": "Right… Well… Have you thought of anything?"
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "Uhh! Not yet!"
+ },
+ {
+  "k": "4",
+  "quem": "Jewel (F)",
+  "en": "Me neither…"
+ },
+ {
+  "k": "5",
+  "quem": "Throb (M)",
+  "en": "How organized of us…"
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "No worries! We’ll figure something out, I know we will! Just let me look around and come up with something!"
+ },
+ {
+  "k": "7",
+  "cena": "VIPAmbush_Clearing_Throb",
+  "quem": "Throb (M)",
+  "en": "Hey partner! You need anything?"
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "Just wanted to talk a little. You still feeling up to taking a stand against GAG?"
+ },
+ {
+  "k": "9",
+  "quem": "Throb (M)",
+  "en": "Just uh… a little nervous. Trying not to think of what happens if things don’t work out."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Well we don’t need to worry about that. It’ll all be fine!"
+ },
+ {
+  "k": "11",
+  "quem": "Throb (M)",
+  "en": "Yeah… Yeah of course…"
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "So I’m curious. How gay are you?"
+ },
+ {
+  "k": "13",
+  "quem": "Throb (M)",
+  "en": "How… gay?"
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "Well I mean… With all the horniness stuff in the town. How have you survived?"
+ },
+ {
+  "k": "15",
+  "quem": "Throb (M)",
+  "en": "Heh… Well uh… No offense, but I’m honestly not too interested in girls. The thing is like… when I’m feeling the need… I have to make some compromises, you know?"
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "That doesn’t sound too nice…"
+ },
+ {
+  "k": "17",
+  "quem": "Throb (M)",
+  "en": "Well that’s just the way things are… a mouth is a mouth, an ass is an ass. I guess I just have to deal with it."
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "I guess that’s true."
+ },
+ {
+  "k": "19",
+  "quem": "Throb (M)",
+  "en": "Maybe we should get back to preparing for the ambush."
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "Good idea!"
+ },
+ {
+  "k": "21",
+  "cena": "VIPAmbush_Clearing_TryLeave_Entrance",
+  "quem": "Jenna (F)",
+  "en": "<i>(This is where Wildfire's going to be coming from. Better keep my distance.)</i>"
+ },
+ {
+  "k": "22",
+  "cena": "VIPAmbush_Clearing_TryLeave_Exit",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't leave yet! Still got a job to do...)</i>"
+ },
+ {
+  "k": "23",
+  "cena": "VIPAmbush_Clearing_WaitForAmbush_Confirmation",
+  "quem": "Narrador",
+  "en": "<i>Wait until Wildfire arrives? You won't be able to go back.</i>"
+ },
+ {
+  "k": "24",
+  "tipo": "escolha",
+  "en": "Yes."
+ },
+ {
+  "k": "25",
+  "tipo": "escolha",
+  "en": "No."
+ },
+ {
+  "k": "26",
+  "cena": "VIPAmbush_Crossroads_AlcoholGuard_1",
+  "quem": "Guard (M)",
+  "en": "Oy! Th’ ‘ell are ye doin’ ‘ere?"
+ },
+ {
+  "k": "27",
+  "quem": "Jenna (F)",
+  "en": "Oh! We’re just the liquor delivery convoy!"
+ },
+ {
+  "k": "28",
+  "quem": "Guard (M)",
+  "en": "Th’... Wot?"
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "Yeah! Here!"
+ },
+ {
+  "k": "30",
+  "quem": "Narrador",
+  "en": "<i>I hand over the bottle of alcohol, and he takes it hesitantly.</i>"
+ },
+ {
+  "k": "31",
+  "quem": "Guard (M)",
+  "en": "Huh… Thanks! Ye’ mind watchin’ this gate fer me? Gonna go enjoy this."
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "<i>(Well that was easy.)</i>"
+ },
+ {
+  "k": "33",
+  "cena": "VIPAmbush_Crossroads_AlcoholGuard_2",
+  "quem": "Jewel (F)",
+  "en": "Ohh, so that’s what we got that bottle for~"
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Alright, he’s out of the way. Let’s get on with it."
+ },
+ {
+  "k": "35",
+  "quem": "Throb (M)",
+  "en": "We should be careful though. Do we have a plan?"
+ },
+ {
+  "k": "36",
+  "quem": "Jenna (F)",
+  "en": "Uhhmm! Sorta! We’ll figure it out when we get there!"
+ },
+ {
+  "k": "37",
+  "quem": "Jewel (F)",
+  "en": "Sounds like a plan!"
+ },
+ {
+  "k": "38",
+  "cena": "VIPAmbush_FF_Prison_Intro_1",
+  "quem": "Jenna (F)",
+  "en": "<color=flashback>Ughh...</color>"
+ },
+ {
+  "k": "39",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>Awh honey...</color>"
+ },
+ {
+  "k": "40",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>You still thinking about whatever happened with you guys during that whole second crisis thing?</color>"
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "<color=flashback>I... Yeah...</color>"
+ },
+ {
+  "k": "42",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>Well you can always talk to me about it, Jenny. I'm all ears.</color>"
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "<color=flashback>I... I think I fucked up... Karen.</color>"
+ },
+ {
+  "k": "44",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>Come on... What happened? Just tell me.</color>"
+ },
+ {
+  "k": "45",
+  "quem": "Jenna (F)",
+  "en": "<color=flashback>You know I can't... We can't tell anyone...</color>"
+ },
+ {
+  "k": "46",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>You can always tell me... I won't judge you, honey. Never have, never will.</color>"
+ },
+ {
+  "k": "47",
+  "quem": "Jenna (F)",
+  "en": "<color=flashback>I just can't...</color>"
+ },
+ {
+  "k": "48",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>Alright... Well come on then, it's time to get up. You've been sulking in bed since you got back from that whole ordeal, let's go!</color>"
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "<color=flashback>Go...? Go where?</color>"
+ },
+ {
+  "k": "50",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>Anywhere but here. Let's get your mind off of all this, okay?</color>"
+ },
+ {
+  "k": "51",
+  "quem": "Karen (F)",
+  "en": "<color=flashback>Get up~</color>"
+ },
+ {
+  "k": "52",
+  "quem": "Jewel (F)",
+  "en": "Come on, blue. Get up!"
+ },
+ {
+  "k": "53",
+  "cena": "VIPAmbush_FF_Prison_Intro_2",
+  "quem": "Jenna (F)",
+  "en": "H-Huh? Wha?"
+ },
+ {
+  "k": "54",
+  "quem": "Jewel (F)",
+  "en": "S'bout time you came to, hun. I was worried."
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "Wh... Where are we?"
+ },
+ {
+  "k": "56",
+  "quem": "Jewel (F)",
+  "en": "Inside of some tent, it looks like."
+ },
+ {
+  "k": "57",
+  "quem": "Wildfire (F)",
+  "en": "Finally the bitch is awake. You wouldn't shut the fuck up about her."
+ },
+ {
+  "k": "58",
+  "quem": "Jewel (F)",
+  "en": "Oh shush, lovie. Let her get her bearings at least before we get back into all this hostility nonsense."
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "What? Wildfire's here?"
+ },
+ {
+  "k": "60",
+  "quem": "Jewel (F)",
+  "en": "Yeah, but she's a little tied up at the moment."
+ },
+ {
+  "k": "61",
+  "cena": "VIPAmbush_FF_Prison_Intro_3",
+  "quem": "Wildfire (F)",
+  "en": "Fucking hell! Stop with these grating puns!"
+ },
+ {
+  "k": "62",
+  "quem": "Jewel (F)",
+  "en": "I got 'em from blue, hehe!"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "Wildfire! Where the hell is Karen!?"
+ },
+ {
+  "k": "64",
+  "quem": "Wildfire (F)",
+  "en": "Again with Karen, eh? Got nothing else on your mind? Shouldn't you be more worried about what I'm going to fucking do to you once I'm out of these restraints?"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "I beat your ass once already and I'll do it again, bitch. Now tell me where she is!"
+ },
+ {
+  "k": "66",
+  "quem": "Jewel (F)",
+  "en": "Ladies, ladies. Calm it down..."
+ },
+ {
+  "k": "67",
+  "quem": "Wildfire (F)",
+  "en": "Why so much interest in Karen, Vibe? Did a mission go wrong?"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "You know exactly why. You know where she is."
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "AND DON'T CALL ME THAT!"
+ },
+ {
+  "k": "70",
+  "quem": "Jewel (F)",
+  "en": "Okay, okay. That's enough, blue. Come on, back it up."
+ },
+ {
+  "k": "71",
+  "quem": "Narrador",
+  "en": "<i>She tries to push me back, but I don't budge.</i>"
+ },
+ {
+  "k": "72",
+  "quem": "Wildfire (F)",
+  "en": "Aren't you supposed to be all fun and jokes, Vibe? Where did that go?"
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "How the fuck do you even know my name? I've got a helmet on-"
+ },
+ {
+  "k": "74",
+  "quem": "Narrador",
+  "en": "<i>I reach up to touch my face. No helmet.</i>"
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "Shit..."
+ },
+ {
+  "k": "76",
+  "quem": "Wildfire (F)",
+  "en": "That's right. I know who you are, Vibe. There's nowhere you can hide from me now."
+ },
+ {
+  "k": "77",
+  "quem": "Jewel (F)",
+  "en": "We've got more immediate problems, you two. Come on."
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "Fine! Who brought us here?"
+ },
+ {
+  "k": "79",
+  "quem": "Jewel (F)",
+  "en": "I guess those forest fiend guys. We woke up with Ms. Flame-On all tied up and you still snoozing."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "The forest fiends? Are they the ones that jumped us in the forest?"
+ },
+ {
+  "k": "81",
+  "quem": "Jewel (F)",
+  "en": "Seems that way, blue."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "Well I guess we need to just try and find a way out of here then."
+ },
+ {
+  "k": "83",
+  "quem": "Wildfire (F)",
+  "en": "Set me free and I'll get you idiots out of here."
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "Oooh, that was a good one, WIldfire! I almost fell for it! Better luck next time!"
+ },
+ {
+  "k": "85",
+  "quem": "Wildfire (F)",
+  "en": "FUCK YOU, YOU SCRAWNY BITCH! ROT IN HELL!"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "Yeesh. Just when I thought we had a connection, Wildgal."
+ },
+ {
+  "k": "87",
+  "cena": "VIPAmbush_Fight_Brainwash_Attacker_Jenna",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhh...</color> Need..."
+ },
+ {
+  "k": "88",
+  "cena": "VIPAmbush_Fight_Brainwash_Attacker_Jewel",
+  "quem": "Jewel (F)",
+  "en": "<color=perversion>Mmmm~</color> So hot..."
+ },
+ {
+  "k": "89",
+  "cena": "VIPAmbush_Fight_Brainwash_Attacker_Throb",
+  "quem": "Throb (M)",
+  "en": "<color=perversion>Fff...</color>"
+ },
+ {
+  "k": "90",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_1",
+  "quem": "Wildfire (F)",
+  "en": "That's right. You're fucked now!"
+ },
+ {
+  "k": "91",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_2",
+  "quem": "Wildfire (F)",
+  "en": "Hahah! So pathetic! You're running low on time now!"
+ },
+ {
+  "k": "92",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_3",
+  "quem": "Wildfire (F)",
+  "en": "That's not how you'll defeat me, bitch. You better start trying a little harder."
+ },
+ {
+  "k": "93",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_4",
+  "quem": "Wildfire (F)",
+  "en": "You can't stop me. Just give up. I can take all three of you on."
+ },
+ {
+  "k": "94",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_5",
+  "quem": "Wildfire (F)",
+  "en": "I thought you never miss?"
+ },
+ {
+  "k": "95",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_6",
+  "quem": "Wildfire (F)",
+  "en": "What a disgrace. That's not how you're going to win."
+ },
+ {
+  "k": "96",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_7",
+  "quem": "Wildfire (F)",
+  "en": "Pathetic. You're no challenge for me."
+ },
+ {
+  "k": "97",
+  "cena": "VIPAmbush_Fight_Brainwash_Reaction_Wildfire_8",
+  "quem": "Wildfire (F)",
+  "en": "Weak minds. So easy to break."
+ },
+ {
+  "k": "98",
+  "cena": "VIPAmbush_Fight_Brainwash_Victim_Jenna",
+  "quem": "Jenna (F)",
+  "en": "A-Ah! Hey! Friendly fire!"
+ },
+ {
+  "k": "99",
+  "cena": "VIPAmbush_Fight_Brainwash_Victim_Jewel",
+  "quem": "Jewel (F)",
+  "en": "I'll let you have some later, just not now!"
+ },
+ {
+  "k": "100",
+  "cena": "VIPAmbush_Fight_Brainwash_Victim_Throb",
+  "quem": "Throb (M)",
+  "en": "Hey! Quit it!"
+ },
+ {
+  "k": "101",
+  "cena": "VIPAmbush_Fight_FireRing_1",
+  "quem": "Jenna (F)",
+  "en": "Agh! That thing's hot!"
+ },
+ {
+  "k": "102",
+  "quem": "Wildfire (F)",
+  "en": "Yeah, that's right. Just being near is enough for me to worm into your head. I'll have you soon enough, you stupid cunt!"
+ },
+ {
+  "k": "103",
+  "cena": "VIPAmbush_Fight_Intro_1",
+  "quem": "Jenna (F)",
+  "en": "Alright! Now we wait…"
+ },
+ {
+  "k": "104",
+  "quem": "Jewel (F)",
+  "en": "Whatever shall we do while we wait~?"
+ },
+ {
+  "k": "105",
+  "quem": "Throb (M)",
+  "en": "Definitely not me."
+ },
+ {
+  "k": "106",
+  "quem": "Jewel (F)",
+  "en": "Oh don’t be a soursport!"
+ },
+ {
+  "k": "107",
+  "quem": "Throb (M)",
+  "en": "Soursport? That’s not even a thing! It’s gotta be either sourpuss or bad sport."
+ },
+ {
+  "k": "108",
+  "quem": "Jewel (F)",
+  "en": "Well I’ve never seen a puss that’s sour for me~"
+ },
+ {
+  "k": "109",
+  "quem": "Throb (M)",
+  "en": "Oh brother."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "Hehe."
+ },
+ {
+  "k": "111",
+  "cena": "VIPAmbush_Fight_Intro_2",
+  "quem": "Throb (M)",
+  "en": "I think they’re coming!"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Shh!"
+ },
+ {
+  "k": "113",
+  "cena": "VIPAmbush_Fight_Intro_3",
+  "quem": "Wildfire (F)",
+  "en": "Did your group check the route ahead?"
+ },
+ {
+  "k": "114",
+  "quem": "Guard (M)",
+  "en": "Huh? No, we didn’t. There’s no need. No one’s there anyways."
+ },
+ {
+  "k": "115",
+  "quem": "Wildfire (F)",
+  "en": "No one, eh? So you’re just going to sit there and assume instead of doing your job?"
+ },
+ {
+  "k": "116",
+  "quem": "Guard (M)",
+  "en": "We’re doing our jobs! We’ve been up and down this path for the past week. You should relax, sweetcheeks."
+ },
+ {
+  "k": "117",
+  "cena": "VIPAmbush_Fight_Intro_4",
+  "quem": "Wildfire (F)",
+  "en": "What did you just call me?"
+ },
+ {
+  "k": "118",
+  "quem": "Narrador",
+  "en": "<i>Wildfire’s voice is slow and measured, flaming rage barely kept at bay.</i>"
+ },
+ {
+  "k": "119",
+  "quem": "Guard (M)",
+  "en": "This place is calm as fuck, nothing ever happens. Maybe when we’re all done protecting you, we could find a comfy spot and you can give us a proper thank yo-"
+ },
+ {
+  "k": "120",
+  "quem": "Wildfire (F)",
+  "en": "I WILL NOT!"
+ },
+ {
+  "k": "121",
+  "cena": "VIPAmbush_Fight_Intro_5",
+  "quem": "Narrador",
+  "en": "<i>Her breathing is fast and enraged but she soon starts to slowly calm herself down while her hands clench and shake.</i>"
+ },
+ {
+  "k": "122",
+  "quem": "Guard (M)",
+  "en": "O-Ow..."
+ },
+ {
+  "k": "123",
+  "quem": "Wildfire (F)",
+  "en": "This town is a complete mess, and I’m here to clean it up."
+ },
+ {
+  "k": "124",
+  "quem": "Wildfire (F)",
+  "en": "Now who wants that officer’s leadership position?"
+ },
+ {
+  "k": "125",
+  "cena": "VIPAmbush_Fight_Intro_6",
+  "quem": "Wildfire (F)",
+  "en": "Finally someone who has the balls to step up."
+ },
+ {
+  "k": "126",
+  "quem": "Other Guard",
+  "en": "I-Is that what just happened?"
+ },
+ {
+  "k": "127",
+  "quem": "Wildfire (F)",
+  "en": "You’re in charge of these fucking idiots now, and I’m in charge of you. Now follow me."
+ },
+ {
+  "k": "128",
+  "quem": "Other Guard",
+  "en": "Ye-Yes ma’am!"
+ },
+ {
+  "k": "129",
+  "cena": "VIPAmbush_Fight_Intro_7",
+  "quem": "Jewel (F)",
+  "en": "Jeez, she’s hardcore."
+ },
+ {
+  "k": "130",
+  "quem": "Throb (M)",
+  "en": "W-We’re really gonna try to take her on?"
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "You’re damn right we are. Now hush! She’s getting closer. Get your snappy one-liners ready!"
+ },
+ {
+  "k": "132",
+  "quem": "Throb (M)",
+  "en": "“Please don’t kill me, Wildfire.”"
+ },
+ {
+  "k": "133",
+  "quem": "Jewel (F)",
+  "en": "“Hey Wildfire! I can be your Mrs. Wildfire~”"
+ },
+ {
+  "k": "134",
+  "quem": "Throb (M)",
+  "en": "We’re trying to fight her, not marry her!"
+ },
+ {
+  "k": "135",
+  "quem": "Jewel (F)",
+  "en": "Speak for yourself~"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "Shhh! Here she comes!"
+ },
+ {
+  "k": "137",
+  "cena": "VIPAmbush_Fight_Intro_8",
+  "quem": "Jenna (F)",
+  "en": "And... KABOOM!"
+ },
+ {
+  "k": "138",
+  "cena": "VIPAmbush_Fight_Intro_9",
+  "quem": "Jenna (F)",
+  "en": "Hello there!"
+ },
+ {
+  "k": "139",
+  "quem": "Throb (M)",
+  "en": "Did she really just say that…?"
+ },
+ {
+  "k": "140",
+  "cena": "VIPAmbush_Fight_Intro_10",
+  "quem": "Wildfire (F)",
+  "en": "What’s the meaning of this?"
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "Oh! We’re just here to ask you a couple questions, and we may or may not be kidnapping you!"
+ },
+ {
+  "k": "142",
+  "quem": "Wildfire (F)",
+  "en": "What?! You think you can stand up to me!?"
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I do! I’ll make it easy on you. Have you seen a red-haired girl?"
+ },
+ {
+  "k": "144",
+  "quem": "Wildfire (F)",
+  "en": "Shut the fuck up and get the fuck out of my way! I don’t have time for this, you scrawny bitch!"
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "Yeesh, getting a little heated over there."
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "… Get it? Heated?"
+ },
+ {
+  "k": "147",
+  "quem": "Wildfire (F)",
+  "en": "I SAID SHUT UP!!"
+ },
+ {
+  "k": "148",
+  "quem": "Jewel (F)",
+  "en": "Phew… She’s so hot when she yells like that."
+ },
+ {
+  "k": "149",
+  "quem": "Throb (M)",
+  "en": "W-We’re dead…"
+ },
+ {
+  "k": "150",
+  "quem": "Jenna (F)",
+  "en": "Time for a little boss fight then. I’ll go easy on you, Wildfire!"
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "Just uhh... Gimme a second to walk back to the neatly prepared arena. Come on!"
+ },
+ {
+  "k": "152",
+  "cena": "VIPAmbush_Fight_Lose",
+  "quem": "Wildfire (F)",
+  "en": "Poor girl. You had no hope of winning."
+ },
+ {
+  "k": "153",
+  "quem": "Jenna (F)",
+  "en": "A-Ah. I've still got this. I-I've beaten worse than you!"
+ },
+ {
+  "k": "154",
+  "quem": "Wildfire (F)",
+  "en": "Tsk. Still just as reckless."
+ },
+ {
+  "k": "155",
+  "quem": "Jewel (F)",
+  "en": "Jenna! Watch out!"
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "No worries, Jewel! I got th-"
+ },
+ {
+  "k": "157",
+  "quem": "Narrador",
+  "en": "<i><b>Clunk!</b></i>"
+ },
+ {
+  "k": "158",
+  "cena": "VIPAmbush_Fight_PutOutFire",
+  "quem": "Jenna (F)",
+  "en": "Nice! That seemed to really get her!"
+ },
+ {
+  "k": "159",
+  "quem": "Wildfire (F)",
+  "en": "ARGH!! You fucking bitch!"
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "Hate to <i>rain</i> on your parade, Wildfire!"
+ },
+ {
+  "k": "161",
+  "cena": "VIPAmbush_Fight_Start",
+  "quem": "Wildfire (F)",
+  "en": "You just made the last mistake of your life."
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "That so? We'll see about that, Ms. Fire."
+ },
+ {
+  "k": "163",
+  "quem": "Wildfire (F)",
+  "en": "It's only a matter of time until I have you drooling at my feet like a mutt."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "The hell is that supposed to mean?"
+ },
+ {
+  "k": "165",
+  "quem": "Wildfire (F)",
+  "en": "You'll see once you get a taste of my lust flames. Just being in proximity of them will slowly wear you down."
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "Not gonna happen."
+ },
+ {
+  "k": "167",
+  "quem": "Wildfire (F)",
+  "en": "Come take your best shot then, bitch. You better not miss. Time's running out."
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "I never miss!"
+ },
+ {
+  "k": "169",
+  "cena": "VIPAmbush_Fight_Win_1",
+  "quem": "Jenna (F)",
+  "en": "<i>(Fuck... Feel so hot... Those flames really work...)</i>"
+ },
+ {
+  "k": "170",
+  "quem": "Wildfire (F)",
+  "en": "No… No… I won’t lose… I refuse!"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>N-Need...</color>"
+ },
+ {
+  "k": "172",
+  "quem": "Wildfire (F)",
+  "en": "Stupid… fucking bitch… Busted my fucking armor..."
+ },
+ {
+  "k": "173",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Shhh~ You’re mine now~</color>"
+ },
+ {
+  "k": "174",
+  "tipo": "escolha",
+  "en": "<color=perversion>Use her.</color>"
+ },
+ {
+  "k": "175",
+  "tipo": "escolha",
+  "en": "<color=perversion>Use her.</color>"
+ },
+ {
+  "k": "176",
+  "tipo": "escolha",
+  "en": "<color=perversion>Use her.</color>"
+ },
+ {
+  "k": "177",
+  "tipo": "escolha",
+  "en": "<size=20><color=perversion>Re</color>sist.</size> <size=25>Think</size> <size=30>of</size> <size=35>Karen.</size>"
+ },
+ {
+  "k": "178",
+  "quem": "Narrador",
+  "en": "<color=perversion><i>Tearing away her crotch plate… Need her body…</i></color>"
+ },
+ {
+  "k": "179",
+  "quem": "Wildfire (F)",
+  "en": "You want this, bitch? Come fucking get it."
+ },
+ {
+  "k": "180",
+  "quem": "Narrador",
+  "en": "<color=perversion><i>So warm... She feels so good…</i></color>"
+ },
+ {
+  "k": "181",
+  "quem": "Wildfire (F)",
+  "en": "Yeah, you love it… <color=perversion>Mmm~</color> Stupid little bitch."
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Haah...</color>"
+ },
+ {
+  "k": "183",
+  "quem": "Wildfire (F)",
+  "en": "<color=perversion>Fuuck</color>… I’m going to fucking destroy you when we’re done with this…"
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yesss~ Mine now~</color>"
+ },
+ {
+  "k": "185",
+  "quem": "Narrador",
+  "en": "<i><color=perversion>So much warm rubbing… So wet…</color> Sparks? Her suit... <color=perversion>Don't care...</color></i>"
+ },
+ {
+  "k": "186",
+  "quem": "Wildfire (F)",
+  "en": "<color=perversion>H-Haah… I’ll make you suffer in sweet agony… Until you <i>beg</i> me to stop...</color>"
+ },
+ {
+  "k": "187",
+  "quem": "Narrador",
+  "en": "<color=perversion><i>My body is so needy… Feel heat rising up inside…</i></color>"
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Need to… H-Hahhh… Need to let it go~</color>"
+ },
+ {
+  "k": "189",
+  "quem": "Narrador",
+  "en": "<color=perversion>Can’t hold it back anymore… Need to cum…</color>"
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>A-Aaah~</color>"
+ },
+ {
+  "k": "191",
+  "quem": "Wildfire (F)",
+  "en": "<color=perversion>F-Fuuuc</color>k you, you little bitch…"
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ffhaah…</color>"
+ },
+ {
+  "k": "193",
+  "quem": "Narrador",
+  "en": "<i>We both stay locked together for what feels like forever. I can feel her warm pussy quivering against my sensitive folds.</i>"
+ },
+ {
+  "k": "194",
+  "quem": "Narrador",
+  "en": "<i>After a while, I’m able to clear my mind long enough to push her crotch plate back where it should be, replacing mine as well.</i>\r"
+ },
+ {
+  "k": "195",
+  "quem": "Jenna (F)",
+  "en": "Phew… Now that that’s done."
+ },
+ {
+  "k": "196",
+  "quem": "Jenna (F)",
+  "en": "Where’s Karen!?"
+ },
+ {
+  "k": "197",
+  "quem": "Wildfire (F)",
+  "en": "W- Karen? What?!"
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "I know you know where she is! Tell me!"
+ },
+ {
+  "k": "199",
+  "cena": "VIPAmbush_Fight_Win_2",
+  "quem": "Jenna (F)",
+  "en": "Agh! No! Wait!"
+ },
+ {
+  "k": "200",
+  "quem": "Jenna (F)",
+  "en": "SHIT!"
+ },
+ {
+  "k": "201",
+  "cena": "VIPAmbush_Motel_DayOfAmbush",
+  "quem": "Jenna (F)",
+  "en": "<i>(Today’s the big day… Time to hop into the armor, get the others together and get this thing done.)</i>"
+ },
+ {
+  "k": "202",
+  "cena": "VIPAmbush_Motel_KlausPostAmbush",
+  "quem": "MotelOwner (M)",
+  "en": "You've been gone a while."
+ },
+ {
+  "k": "203",
+  "quem": "Jenna (F)",
+  "en": "Heh... Heya, Klaus!"
+ },
+ {
+  "k": "204",
+  "quem": "MotelOwner (M)",
+  "en": "So the GAG convoy that was coming to Carceburg came without their commander. It caused a real commotion in town."
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "I didn't notice anything."
+ },
+ {
+  "k": "206",
+  "quem": "MotelOwner (M)",
+  "en": "It happened while you were out causing a fuss."
+ },
+ {
+  "k": "207",
+  "quem": "Jenna (F)",
+  "en": "Eheh! That's a weird coincidence!"
+ },
+ {
+  "k": "208",
+  "quem": "MotelOwner (M)",
+  "en": "Uh huh. Be careful, little hero. You're playing with people's lives here. Times are tough as it is."
+ },
+ {
+  "k": "209",
+  "quem": "Jenna (F)",
+  "en": "I... I will."
+ },
+ {
+  "k": "210",
+  "quem": "MotelOwner (M)",
+  "en": "Perfect. Carry on."
+ },
+ {
+  "k": "211",
+  "cena": "VIPAmbush_Motel_WaitForAmbush",
+  "quem": "Narrador",
+  "en": "<i>Advance to the day of the ambush? You won’t be able to go back after starting, so make sure you’ve completed all you want to.</i>"
+ },
+ {
+  "k": "212",
+  "tipo": "escolha",
+  "en": "Save and Continue."
+ },
+ {
+  "k": "213",
+  "tipo": "escolha",
+  "en": "Cancel"
+ },
+ {
+  "k": "214",
+  "cena": "VIPAmbush_Recruit_Jewel_1",
+  "quem": "Jenna (F)",
+  "en": "I uhh… I have a bit of a favor to ask."
+ },
+ {
+  "k": "215",
+  "quem": "Jewel (F)",
+  "en": "Favor? What sort of favor?"
+ },
+ {
+  "k": "216",
+  "quem": "Jewel (F)",
+  "en": "Is it sexual, blue?"
+ },
+ {
+  "k": "217",
+  "quem": "Jenna (F)",
+  "en": "I- No! It’s more of a uhh… adventurous and maybe slightly dangerous favor?"
+ },
+ {
+  "k": "218",
+  "quem": "Jewel (F)",
+  "en": "Well I’m all ears, sweetheart. I’ve been helping you out for a while now. What’s this all about?"
+ },
+ {
+  "k": "219",
+  "quem": "Jenna (F)",
+  "en": "I’m planning to ambush the GAG commander that’s going to be coming to Carceburg."
+ },
+ {
+  "k": "220",
+  "quem": "Jewel (F)",
+  "en": "Y- What?!"
+ },
+ {
+  "k": "221",
+  "quem": "Jenna (F)",
+  "en": "Also I may or not be a forcibly retired agent from the AIRSHIP days."
+ },
+ {
+  "k": "222",
+  "quem": "Jewel (F)",
+  "en": "You… You really pile things on, don’t you?"
+ },
+ {
+  "k": "223",
+  "quem": "Jenna (F)",
+  "en": "Yeaaah, might as well tear the bandage off quick, eh? Sorry I never told you earlier."
+ },
+ {
+  "k": "224",
+  "quem": "Jewel (F)",
+  "en": "Uh huh… I figured there was something special about you, blue."
+ },
+ {
+  "k": "225",
+  "quem": "Jewel (F)",
+  "en": "Other than that cute little body of yours, of course."
+ },
+ {
+  "k": "226",
+  "quem": "Jenna (F)",
+  "en": "Eheh…! Thanks!"
+ },
+ {
+  "k": "227",
+  "quem": "Jewel (F)",
+  "en": "So which one are ya?"
+ },
+ {
+  "k": "228",
+  "quem": "Jenna (F)",
+  "en": "Huh?"
+ },
+ {
+  "k": "229",
+  "quem": "Jewel (F)",
+  "en": "Which hero were you?"
+ },
+ {
+  "k": "230",
+  "quem": "Jenna (F)",
+  "en": "Oh! Uh... "
+ },
+ {
+  "k": "231",
+  "quem": "Jenna (F)",
+  "en": "Vibe…"
+ },
+ {
+  "k": "232",
+  "quem": "Jewel (F)",
+  "en": "Vibe was my favorite one~"
+ },
+ {
+  "k": "233",
+  "quem": "Jenna (F)",
+  "en": "You’re just saying that."
+ },
+ {
+  "k": "234",
+  "quem": "Jewel (F)",
+  "en": "No! Really! I always fantasized about being with that girl with the built-in vibrator."
+ },
+ {
+  "k": "235",
+  "quem": "Jenna (F)",
+  "en": "Hehe…"
+ },
+ {
+  "k": "236",
+  "cena": "VIPAmbush_Recruit_Jewel_1_DidNotVibe",
+  "quem": "Jewel (F)",
+  "en": "Maybe you could try it out on me sometime, hun."
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "Eheh! Erm… Maybe!"
+ },
+ {
+  "k": "238",
+  "quem": "Jewel (F)",
+  "en": "Looks like dreams CAN come true. Thanks for that, Vibey~"
+ },
+ {
+  "k": "239",
+  "cena": "VIPAmbush_Recruit_Jewel_1_DidVibe",
+  "quem": "Jewel (F)",
+  "en": "So that’s what you used on me back in the bar, before we fought those Lumber Rats for your motel daddy."
+ },
+ {
+  "k": "240",
+  "quem": "Jenna (F)",
+  "en": "He’s not my..! Yeah… That’s what I used."
+ },
+ {
+  "k": "241",
+  "quem": "Jewel (F)",
+  "en": "Looks like my dreams came true then. Thanks for that, Vibey~"
+ }
+]

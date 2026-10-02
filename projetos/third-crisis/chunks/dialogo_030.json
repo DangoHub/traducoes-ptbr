@@ -1,0 +1,912 @@
+[
+ {
+  "k": "1",
+  "cena": "Cutscene 4 Dialogue 2",
+  "quem": "Rida (F)",
+  "en": "Rida dissapointed in Mina."
+ },
+ {
+  "k": "2",
+  "quem": "Rida (F)",
+  "en": "Mina betray Rida. Rida thought Mina tribe."
+ },
+ {
+  "k": "3",
+  "quem": "Mina (F)",
+  "en": "Mina did for tribe. Rida favor carcen like they tribe."
+ },
+ {
+  "k": "4",
+  "quem": "Mina (F)",
+  "en": "Before Carcen came tribe strong, now tribe need Carcen."
+ },
+ {
+  "k": "5",
+  "quem": "Rida (F)",
+  "en": "STOP! Mina did for Mina."
+ },
+ {
+  "k": "6",
+  "quem": "Rida (F)",
+  "en": "Rida exile Mina from tribe!"
+ },
+ {
+  "k": "7",
+  "quem": "Mina (F)",
+  "en": "But tribe everything Mina have!"
+ },
+ {
+  "k": "8",
+  "quem": "Mina (F)",
+  "en": "Rida no."
+ },
+ {
+  "k": "9",
+  "quem": "Rida (F)",
+  "en": "Mina go now!"
+ },
+ {
+  "k": "10",
+  "cena": "Cutscene 4 Dialogue 3",
+  "quem": "Throb (M)",
+  "en": "I don't think we should let her go like this."
+ },
+ {
+  "k": "11",
+  "quem": "Rida (F)",
+  "en": "Let go Mina."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "<i>(Throb is not wrong, but arguing with her now would be pointless.)</i>"
+ },
+ {
+  "k": "13",
+  "cena": "Cutscene 4 Dialogue 4",
+  "quem": "Rida (F)",
+  "en": "Rida back with tribe! "
+ },
+ {
+  "k": "14",
+  "quem": "Rida (F)",
+  "en": "Tribe will go with Carcen and fight Demons!"
+ },
+ {
+  "k": "15",
+  "quem": "Rida (F)",
+  "en": "Carcen friends of tribe!"
+ },
+ {
+  "k": "16",
+  "quem": "Rida (F)",
+  "en": "Get stuff for move."
+ },
+ {
+  "k": "17",
+  "cena": "CV_Clone_1",
+  "quem": "Jenna (F)",
+  "en": "<i>Hmm... I coulda sworn there were some bad guys to- <color=perversion>fuck</color> -over here.</i>"
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "<i>... That entrance is gone too. Gotta find a way to open it back up...</i>"
+ },
+ {
+  "k": "19",
+  "cena": "CV_Clone_2",
+  "quem": "Jenna (F)",
+  "en": "Look, I don’t have any money to give you for the information or the badge."
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "Open my mouth…? What?- <color=perversion>That's it?</color>"
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I could do sooo much more for you, <b>master</b>~</color>"
+ },
+ {
+  "k": "22",
+  "cena": "CV_Intro",
+  "quem": "Researcher",
+  "en": "- ready on this end, the anesthetic was wearing off so I gave her another dose. Start dismantling the chest piece of her suit, Dr. Weber."
+ },
+ {
+  "k": "23",
+  "quem": "Dr. Weber (F)",
+  "en": "On it~! Removing the outer shell~ aaand~"
+ },
+ {
+  "k": "24",
+  "quem": "Dr. Weber (F)",
+  "en": "Ehe... That's not good~"
+ },
+ {
+  "k": "25",
+  "quem": "Researcher",
+  "en": "What? What's happening?"
+ },
+ {
+  "k": "26",
+  "quem": "Dr. Weber (F)",
+  "en": "Seems like some sort of security failsafe~ Lots of red lights flashing, I think we're losing her~"
+ },
+ {
+  "k": "27",
+  "quem": "Researcher",
+  "en": "What?! Stop the device! Put the outer shell back on, we can't afford to let her disappear!"
+ },
+ {
+  "k": "28",
+  "quem": "Dr. Weber (F)",
+  "en": "Too lat-"
+ },
+ {
+  "k": "29",
+  "cena": "CV_Intro_2",
+  "quem": "Jenna (F)",
+  "en": "No... Not this..."
+ },
+ {
+  "k": "30",
+  "cena": "CV_News_1",
+  "quem": "News Anchor",
+  "en": "This is Atlas News with breaking information."
+ },
+ {
+  "k": "31",
+  "quem": "News Anchor",
+  "en": "We've just received word that major riots around the world have all started today, leaving the local populations of pure humans worried of a third andro crisis that may grip the world's capitals once more."
+ },
+ {
+  "k": "32",
+  "quem": "News Anchor",
+  "en": "Nations are rushing into talks on how to combat this new development. With AIRSHIP operations now being deemed illegal by the UN, people are worried that there won't be anyone left to save us if a third crisis has indeed begun."
+ },
+ {
+  "k": "33",
+  "cena": "CV_News_2",
+  "quem": "News Anchor",
+  "en": "German forces were completely overwhelmed by the andro threat. The nation has been completely occupied by the now militarized terrorists, and worldwide war is imminent."
+ },
+ {
+  "k": "34",
+  "quem": "News Anchor",
+  "en": "Reports from bystanders say that little opposition was given to the hostile andros by the German military. Some say that even pure humans joined the fight and helped overwhelm the German soldiers, but these are all rumors. All that is known for certain is that humanity is now in grave danger once more."
+ },
+ {
+  "k": "35",
+  "cena": "DancingMinigame_DidDance",
+  "quem": "Jewel (F)",
+  "en": "I love the enthusiasm, but it's too late for a show! Go get some rest, blue!"
+ },
+ {
+  "k": "36",
+  "cena": "Dark Alley - First Day - 1",
+  "en": "<i>Dispite knowing what happened the last time I visited this part of town, I can't keep myself from going back.</i>"
+ },
+ {
+  "k": "37",
+  "en": "<i>(Maybe he's not here yet.. I should just leave...)</i>"
+ },
+ {
+  "k": "38",
+  "en": "<i>(I spot used condoms, dirty needles and a burnt spoon on the floor.)</i>"
+ },
+ {
+  "k": "39",
+  "en": "<i>(That's-...! <b>Drugs</b>?!)</i>"
+ },
+ {
+  "k": "40",
+  "en": "<i>(I-.. I should get out of here..)</i>"
+ },
+ {
+  "k": "41",
+  "en": "Hello... <b><i>Jenna</i></b>."
+ },
+ {
+  "k": "42",
+  "en": "H-hey..!"
+ },
+ {
+  "k": "43",
+  "en": "Looks like you couldn't stay away, ehehe.."
+ },
+ {
+  "k": "44",
+  "en": "<i>He pulls out a pack of cigarettes and starts smoking one of them.</i>"
+ },
+ {
+  "k": "45",
+  "en": "Mmh.. Just what I needed."
+ },
+ {
+  "k": "46",
+  "en": "<i>The unpleasant smell of the burning cigarette fills the alley, as he walks up to me.</i>"
+ },
+ {
+  "k": "47",
+  "en": "Take a pull."
+ },
+ {
+  "k": "48",
+  "en": "<i>He holds the cigarette in front of my face.</i>"
+ },
+ {
+  "k": "49",
+  "tipo": "escolha",
+  "en": "<color=perversion>Take a pull from the cigarette.</color>"
+ },
+ {
+  "k": "50",
+  "tipo": "escolha",
+  "en": "Push him aside and leave."
+ },
+ {
+  "k": "51",
+  "cena": "Dark Alley - First Day - 2",
+  "en": "<i>My conscience makes me almost instinctively inch back. And yet...</i>"
+ },
+ {
+  "k": "52",
+  "en": "<i>The thought of doing something so wrong, so against my beliefs about what's right and wrong, makes my heart race.</i>"
+ },
+ {
+  "k": "53",
+  "en": "<color=perversion><size=30>O-okay..</size></color>"
+ },
+ {
+  "k": "54",
+  "en": "<i>I close my lips around the cigarette and knowingly inhale the harmful smoke.</i>"
+ },
+ {
+  "k": "55",
+  "en": "<b>Ack..! Archgh!!</b>"
+ },
+ {
+  "k": "56",
+  "en": "Hahahaha. Well well well, Jenna. There goes your first pull on a cigarette. And that in a place like this. How fitting."
+ },
+ {
+  "k": "57",
+  "en": "Gah-..."
+ },
+ {
+  "k": "58",
+  "en": "Seems like you haven't been a bad girl before. And yet, here you are."
+ },
+ {
+  "k": "59",
+  "en": "<i>(My first cigarette... It tastes so bad... This is so... <b><color=perversion>wrong</color></b>...)</i>"
+ },
+ {
+  "k": "60",
+  "en": "Say \"thank you\". I shared my cig with you after all."
+ },
+ {
+  "k": "61",
+  "en": "<color=perversion>Thank you...</color>"
+ },
+ {
+  "k": "62",
+  "en": "<i><color=perversion>(It was so bad, but-... I-...)</color></i>"
+ },
+ {
+  "k": "63",
+  "en": "You want more, hmm? I can see your eyes locked onto my cigarette, hehehe. Come on, Jenna, <b>Say it</b>."
+ },
+ {
+  "k": "64",
+  "en": "<color=perversion>I-.. I want.. <b>more</b>...</color>"
+ },
+ {
+  "k": "65",
+  "en": "Cigarettes are hard to come by around here. Get on your knees and I'll think about it."
+ },
+ {
+  "k": "66",
+  "en": "<i><color=perversion>(So <b>wrong</b>...)</color></i>"
+ },
+ {
+  "k": "67",
+  "en": "<i>He holds the cigarette in front of his crotch.</i>"
+ },
+ {
+  "k": "68",
+  "en": "Come on, Jenna. It's time to stop being <b>boring</b>. We both know you <b>want</b> this."
+ },
+ {
+  "k": "69",
+  "en": "<i><color=perversion>(I don't want to be <b>boring</b>... I <b>want</b>-...)</color></i>"
+ },
+ {
+  "k": "70",
+  "en": "You better <b>hurry</b>. It's about to go out and I won't light it back up."
+ },
+ {
+  "k": "71",
+  "en": "<i><color=perversion>(<b>No</b>...!)</color></i>"
+ },
+ {
+  "k": "72",
+  "en": "<i>I quickly get down on my knees and wrap my lips around the barely glimming cigarette. Once more I suck out the smoke, that I've been taught being bad my whole life and inhale it.</i>"
+ },
+ {
+  "k": "73",
+  "en": "<color=perversion> Mpghh..!</color>"
+ },
+ {
+  "k": "74",
+  "cena": "Dark Alley - First Day - Night",
+  "en": "<i>(He said to come back during <b>daytime</b>...)</i>"
+ },
+ {
+  "k": "75",
+  "cena": "Dark Alley Daytime After Initial",
+  "quem": "Jenna (F)",
+  "en": "<i>(They don't seem to be here during the day...)</i>"
+ },
+ {
+  "k": "76",
+  "cena": "Dark Alley dont wear guard armor",
+  "quem": "Jenna (F)",
+  "en": "<i>(This doesn't look like the right place to show up as a guard... )</i>"
+ },
+ {
+  "k": "77",
+  "cena": "Dark Alley First Night",
+  "quem": "Man (M)",
+  "en": "Who are you? What do you want?"
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "Me? Who are <b>you</b>?! And why are you hiding in a dark alley at night?!"
+ },
+ {
+  "k": "79",
+  "quem": "Other Man (M)",
+  "en": "Relax man, hehe.. She's not with the guards. Besides.. She looks more like she's hiding from the guards."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "I-.. n-no..!"
+ },
+ {
+  "k": "81",
+  "quem": "Man (M)",
+  "en": "You're not, hmm? If you say so.. But if you want to stay here, you'll have to try some, hehe."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "Try... What?"
+ },
+ {
+  "k": "83",
+  "quem": "Other Man (M)",
+  "en": "Hot <b>and</b> clueless, hehehe..."
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "What is it..?!"
+ },
+ {
+  "k": "85",
+  "quem": "Man (M)",
+  "en": "Ever heard of \"Trens\"? You'd like it.."
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "Trens?! That's a <b>drug</b>..! Developed by... Peitho!"
+ },
+ {
+  "k": "87",
+  "quem": "Other Man (M)",
+  "en": "That's right, hehehe.. Injected, they use it for mind controlling their victims.. But when you smoke it..."
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "Smoke it?!"
+ },
+ {
+  "k": "89",
+  "quem": "Man (M)",
+  "en": "It will make you feel <b>real</b> good... You'll take it with us."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "No-.. I.. I don't-.."
+ },
+ {
+  "k": "91",
+  "quem": "Other Man (M)",
+  "en": "There's exactly two options here. Either you take our generous offer or we'll call the guards and tell them that you tried to sell us some Trens, hehehe.."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "But I-..! I don't-"
+ },
+ {
+  "k": "93",
+  "quem": "Man (M)",
+  "en": "Guess I'll have to call the guards.. Too bad.. You'd enjoy it, I'm sure.."
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't let him call the guards on me..! But... <b>drugs</b>?! From Peitho even?! I.. I <b>can't</b>...! <color=perversion><i>... right?</i></color>)</i>"
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "Don't call the guards, please!.. I've just.. <color=perversion>I've never..</color>"
+ },
+ {
+  "k": "96",
+  "quem": "Other Man (M)",
+  "en": "Haven't tried it yet, huh? Don't worry.. It will just... Make you relax, hehe.."
+ },
+ {
+  "k": "97",
+  "quem": "Man (M)",
+  "en": "Yeah, he's right. It will just make you a little more loose. Nothing dangerous.."
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "You-.. You're sure it's not.. dangerous..?"
+ },
+ {
+  "k": "99",
+  "quem": "Man (M)",
+  "en": "Absolutely. It's completely harmless. Just a little relaxation helper."
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "<i>(It's nothing dangerous... Then-... Maybe I should just... <color=perversion>Give it a little try...</color>)</i>"
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "If-.. <color=perversion>I'll try..</color> You will not call the guards on me then, right?!"
+ },
+ {
+  "k": "102",
+  "quem": "Other Man (M)",
+  "en": "Of course not, hehehe.. We'll have some too."
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "<i>(They'll have some too.. It can't be <color=perversion>that</color> wrong... And... There's nobody around to judge, right..? So why not... <color=perversion>Relax</color> a little...)</i>"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I'll try a little..</color> But just a bit..!"
+ },
+ {
+  "k": "105",
+  "quem": "Man (M)",
+  "en": "Of course, of course.. Here."
+ },
+ {
+  "k": "106",
+  "quem": "Narrador",
+  "en": "<i>He hands me a electronic cigarette and points at one end.</i>"
+ },
+ {
+  "k": "107",
+  "quem": "Man (M)",
+  "en": "Suck on that and breathe in."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "Al-.. Alright..."
+ },
+ {
+  "k": "109",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't believe I'm really going to-... to take <color=perversion>drugs</color>... This is so... so <color=perversion>wrong</color>... I shouldn't... But-...)</i>"
+ },
+ {
+  "k": "110",
+  "quem": "Narrador",
+  "en": "<i>I look down at the device as an unfamiliar excitement takes over my mind.</i>"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "<i>(Why <color=perversion>shouldn't</color> I do something <color=perversion>crazy</color> from time to time... It's <color=perversion> exciting</color> and maybe it'll be <b><color=perversion>fun</color>...)</i>"
+ },
+ {
+  "k": "112",
+  "quem": "Narrador",
+  "en": "<i>I put the device up against my lips. A sweet taste enters my mouth as I suck on it and try to breathe in at the same time.</i>"
+ },
+ {
+  "k": "113",
+  "quem": "Other Man (M)",
+  "en": "That's right... Take a nice deep breath, hehehe.."
+ },
+ {
+  "k": "114",
+  "quem": "Narrador",
+  "en": "<i>I shake from nervous excitement as I breathe back out.</i>"
+ },
+ {
+  "k": "115",
+  "quem": "Jenna (F)",
+  "en": "I-.. I did it.."
+ },
+ {
+  "k": "116",
+  "quem": "Narrador",
+  "en": "<i>They both take their turn and inhale a strongh breath of the drug.</i>"
+ },
+ {
+  "k": "117",
+  "quem": "Man (M)",
+  "en": "Good job.. Wasn't so bad after all, huh?"
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "No.. It's-.. Hehh.. It's not.."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Hiding in a dark backalley... Taking drugs, hehe.. I would have <b>never</b> done this a while ago...)</i></color>"
+ },
+ {
+  "k": "120",
+  "quem": "Narrador",
+  "en": "<i>Thoughts leave my mind, as a haze starts filling it instead. I feel warmer by the second. It feels as if there is a warmth within me.</i>"
+ },
+ {
+  "k": "121",
+  "quem": "Other Man (M)",
+  "en": "It's pretty warm today, don't you think?"
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "Yeah.. It's <color=perversion>hot</color>-..."
+ },
+ {
+  "k": "123",
+  "quem": "Man (M)",
+  "en": "Why don't you go ahead and take off that jacket of yours.."
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "My Jacket..? But I-.."
+ },
+ {
+  "k": "125",
+  "quem": "Other Man (M)",
+  "en": "Shh.. Here, have another drag."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "Mn.. Right.. Another drag.."
+ },
+ {
+  "k": "127",
+  "quem": "Narrador",
+  "en": "<i>I take the device and breathe through it again. The heat inside me becomes stronger.</i>"
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "Is pretty warm, heh hehe.."
+ },
+ {
+  "k": "129",
+  "quem": "Narrador",
+  "en": "<i>The fog in my head becomes stronger. My nipples grow hard and my pussy starts to slowly get wet.</i>"
+ },
+ {
+  "k": "130",
+  "quem": "Man (M)",
+  "en": "Someone as hot as you shouldn't hide her body with a jacket like that. Take it off. It's too warm anyways.."
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>You're right, ehehe.. Is wayy to warm..</color>"
+ },
+ {
+  "k": "132",
+  "quem": "Other Man (M)",
+  "en": "Much better.. Notice how relaxed you are.."
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>It totally works, ehehe!</color>"
+ },
+ {
+  "k": "134",
+  "quem": "Man (M)",
+  "en": "It feels good, doesn't it? Nice and warm..."
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>It makes me sooo warm.. Mnn...</color>"
+ },
+ {
+  "k": "136",
+  "quem": "Other Man (M)",
+  "en": "Go ahead, take off some more.. We don't judge.."
+ },
+ {
+  "k": "137",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>So warm...</color>"
+ },
+ {
+  "k": "138",
+  "quem": "Other Man (M)",
+  "en": "Hehehe.. Yeah, that's right. We told you, you'd enjoy the drug.. It's good for you to relax like this."
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yess... They feel goooddd...</color>"
+ },
+ {
+  "k": "140",
+  "quem": "Man (M)",
+  "en": "You should thank us for letting you enjoy some Peitho drugs with us, slut."
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnnhh.. Thank youu...</color>"
+ },
+ {
+  "k": "142",
+  "quem": "Man (M)",
+  "en": "Get naked."
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>N.. Naked?</color>"
+ },
+ {
+  "k": "144",
+  "quem": "Narrador",
+  "en": "<i>He presses the device into my mouth and lets me take another draw.</i>"
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhh...</color>"
+ },
+ {
+  "k": "146",
+  "quem": "Other Man (M)",
+  "en": "That probably should have given her the rest, I put some extra in, hehehe."
+ },
+ {
+  "k": "147",
+  "quem": "Man (M)",
+  "en": "Nice... It'll make sure she will come back too.."
+ },
+ {
+  "k": "148",
+  "quem": "Other Man (M)",
+  "en": "<b><size=50>Take off your clothes</size></b>, drugged slut, hehehe."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Clothes... Yesss... Too hot... So hot...</color>"
+ },
+ {
+  "k": "150",
+  "quem": "Narrador",
+  "en": "<i>With my mind in complete absence and unable to form my own thoughts, I strip naked in front of them.</i>"
+ },
+ {
+  "k": "151",
+  "quem": "Man (M)",
+  "en": "She's all gone.. Not even thinking twice before stripping naked.. "
+ },
+ {
+  "k": "152",
+  "quem": "Other Man (M)",
+  "en": "Clearly her first time, hehehe.. Not her last time.."
+ },
+ {
+  "k": "153",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I'm so... Mnhh.. Feel so hottt.. Am I..? Heheheheeee..~</color>"
+ },
+ {
+  "k": "154",
+  "quem": "Man (M)",
+  "en": "Yeah, that's right... You're all high and horny... That's what the drug does. Next to increasing the stimulation of your nerves of course.."
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yeshh.. Why don't you jus.. Cmere...</color>"
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><b><size=50>Nhhaaa..!!?!</color>"
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "<size=70><b><color=perversion>Fhhhaaa!!!</color>"
+ },
+ {
+  "k": "158",
+  "quem": "Other Man (M)",
+  "en": "Hahahahaha... The drug is working really well on her.. She's going crazy from simply being groped."
+ },
+ {
+  "k": "159",
+  "quem": "Man (M)",
+  "en": "It really is her first time... Time to get her <b>hooked</b>."
+ },
+ {
+  "k": "160",
+  "quem": "Other Man (M)",
+  "en": "You'll get your first drugged cock now, slut. You'll <b>love</b> it."
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Cock... Yeshh.. Mnfhhh...</color>"
+ },
+ {
+  "k": "162",
+  "cena": "Dark Alley First Night 2",
+  "quem": "Narrador",
+  "en": "<i>They throw my helpless body on the shady street before one of them spreads my legs."
+ },
+ {
+  "k": "163",
+  "quem": "Man (M)",
+  "en": "We'll fuck you til you pass out, bitch."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>So... Dirty...</color>"
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhhaaaaafffffff!!</color>"
+ },
+ {
+  "k": "166",
+  "quem": "Man (M)",
+  "en": "Mmmhh, yess.. Fucking a drugged slut is the best..."
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mmmnnnnhhhhh...</color>"
+ },
+ {
+  "k": "168",
+  "quem": "Other Man (M)",
+  "en": "Look at her, hahaha. What a slut.. She's loving it, hehe.."
+ },
+ {
+  "k": "169",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>So... Intense.. Hahhh...</color>"
+ },
+ {
+  "k": "170",
+  "quem": "Man (M)",
+  "en": "That's what you get for taking a sex drug, slut.."
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Drugsss... Mnhhh... Wrong... Hhhnnn...</color>"
+ },
+ {
+  "k": "172",
+  "quem": "Other Man (M)",
+  "en": "Listen to her, hahaha. She's getting off on doing something \"wrong\".."
+ },
+ {
+  "k": "173",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Soo gooood....</color>"
+ },
+ {
+  "k": "174",
+  "quem": "Narrador",
+  "en": "<i>He keeps fucking my dripping pussy for a while, until..."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhaaaaaa!!! Yeeessss....!!</color>"
+ },
+ {
+  "k": "176",
+  "quem": "Man (M)",
+  "en": "Your drugged pussy is amazing, slut.."
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Cummmm.... Hhhnnnn...</color>"
+ },
+ {
+  "k": "178",
+  "quem": "Other Man (M)",
+  "en": "Time to get out before the guards come over, hehe."
+ },
+ {
+  "k": "179",
+  "quem": "Man (M)",
+  "en": "You're right. This drug slut will come back for more anyways, isn't that right?"
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnhhn...</color>"
+ },
+ {
+  "k": "181",
+  "quem": "Other Man (M)",
+  "en": "She's pretty much gone, haha. Guess she took a bit too much."
+ },
+ {
+  "k": "182",
+  "quem": "Man (M)",
+  "en": "What a shame.. Hahaha.."
+ },
+ {
+  "k": "183",
+  "quem": "Narrador",
+  "en": "<i>The men exit the alley, leaving me drugged, naked and full of cum in the dark alley.</i>"
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhnn.. Feels.. Hooottt...</color>"
+ },
+ {
+  "k": "185",
+  "quem": "Narrador",
+  "en": "<i>My vision slowly starts to drift into darkness."
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mmmhh...</color>"
+ }
+]

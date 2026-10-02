@@ -1,0 +1,761 @@
+[
+ {
+  "k": "1",
+  "cena": "Sophie_Jenna_sex_4",
+  "en": "back to overworld, jenna and sophie talking"
+ },
+ {
+  "k": "2",
+  "en": "Not bad. I'm pretty immpressed, can't say I expected you to turn the tables on me like that at the end."
+ },
+ {
+  "k": "3",
+  "en": "What can I say? I've got a few tricks up my sleeve as well!"
+ },
+ {
+  "k": "4",
+  "en": "Yes...yes you do."
+ },
+ {
+  "k": "5",
+  "en": "On the bright side, that means I don't have to hold back next time."
+ },
+ {
+  "k": "6",
+  "en": "Oh, so there's gonna be a next time too?"
+ },
+ {
+  "k": "7",
+  "en": "You never know. Maybe it'll come, maybe it won't. I'll be sure to push you a little harder when the time comes though."
+ },
+ {
+  "k": "8",
+  "en": "I'll be looking forward to it."
+ },
+ {
+  "k": "9",
+  "en": "And hey, for real. Any bad blood we had is water under the bridge. Even your weird ass mutual love-hate thing you've got going on with the enemy Commander."
+ },
+ {
+  "k": "10",
+  "en": "Now that <i>doesn't</i> mean I won't blow a hole right through your skull if you try to side with her over us."
+ },
+ {
+  "k": "11",
+  "en": "But I won't be worrying about that. You're good in my books now."
+ },
+ {
+  "k": "12",
+  "en": "Good to know that's behind us!"
+ },
+ {
+  "k": "13",
+  "en": "The teasing's <i>not</i> gonna stop though. House rules. Everyone gets it, you're no exception."
+ },
+ {
+  "k": "14",
+  "en": "I suppose that's fair, isn't it?"
+ },
+ {
+  "k": "15",
+  "en": "You get the hang of things pretty fast. I like that."
+ },
+ {
+  "k": "16",
+  "en": "Anyway, I gotta fly. See you around, Jenna."
+ },
+ {
+  "k": "17",
+  "en": "See ya."
+ },
+ {
+  "k": "18",
+  "cena": "Sophie_moody_1",
+  "en": "...What?"
+ },
+ {
+  "k": "19",
+  "en": "Uhhh...hi, Sophie?"
+ },
+ {
+  "k": "20",
+  "en": "What do you want, Jenna? Can't you see I'm busy?"
+ },
+ {
+  "k": "21",
+  "en": "You're not really doing anything though."
+ },
+ {
+  "k": "22",
+  "en": "Ugh! How annoying! Why don't you all just go bother someone else for a cha-"
+ },
+ {
+  "k": "23",
+  "en": "Look, we're not here to bother you. It's pretty obvious that for one reason or another we got off on the wrong foot. I'd like to fix that."
+ },
+ {
+  "k": "24",
+  "en": "Oh yeah? You wanna fix that huh?"
+ },
+ {
+  "k": "25",
+  "en": "Actually. There might be something you can do for me. Something that would help me trust you lot a bit more."
+ },
+ {
+  "k": "26",
+  "en": "As you can tell, I'm fairly fond of guns. And I mean 'real' guns, like guns that can tear through armor like its nothing and do some SERIOUS damage."
+ },
+ {
+  "k": "27",
+  "en": "But the thing about guns is that they always need ammo. A gun is useless without it."
+ },
+ {
+  "k": "28",
+  "en": "But ammo also has its unique charm, unlike any kind of weapon that just generates its own bullets out of lasers. Fancy ammo lets you do all sorts of crazy, and I've become somewhat of a collector over the years."
+ },
+ {
+  "k": "29",
+  "en": "So if you want to do something for me, then what I want is for you to go out there and bring me back a particularly rare type of ammo."
+ },
+ {
+  "k": "30",
+  "en": "What do you say?"
+ },
+ {
+  "k": "31",
+  "tipo": "escolha",
+  "en": "Accept Sophie's Request"
+ },
+ {
+  "k": "32",
+  "tipo": "escolha",
+  "en": "Can't we just talk and get to trust each other like that?"
+ },
+ {
+  "k": "33",
+  "cena": "Sophie_moody_1.5",
+  "en": "(plays if you've already talked to moody sophie once)"
+ },
+ {
+  "k": "34",
+  "tipo": "escolha",
+  "en": "Accept Sophie's Quest"
+ },
+ {
+  "k": "35",
+  "tipo": "escolha",
+  "en": "I just wanna talk..."
+ },
+ {
+  "k": "36",
+  "en": "Come to annoy me again?"
+ },
+ {
+  "k": "37",
+  "tipo": "escolha",
+  "en": "Accept Sophie's Request"
+ },
+ {
+  "k": "38",
+  "tipo": "escolha",
+  "en": "We just wanna talk."
+ },
+ {
+  "k": "39",
+  "cena": "Sophie_moody_2_accept",
+  "en": "Huh?"
+ },
+ {
+  "k": "40",
+  "en": "We'll do it. We'll take you up on that request and go get you that ammo you want."
+ },
+ {
+  "k": "41",
+  "en": "So wait...you're actually gonna..."
+ },
+ {
+  "k": "42",
+  "en": "I mean, good! Of course you are. After all, you're <i>our</i> guests here! You have to work to gain our trust!"
+ },
+ {
+  "k": "43",
+  "en": "<i>(I'm pretty sure everyone else trusts us just fine...)</i>"
+ },
+ {
+  "k": "44",
+  "en": "Alright listen up and listen well. I'm not gonna be repeating myself here so you best make sure you catch it the first time!"
+ },
+ {
+  "k": "45",
+  "en": "(go to sophie quest briefing)"
+ },
+ {
+  "k": "46",
+  "cena": "Sophie_moody_3_decline",
+  "en": "Tch. Should've known. If you're not willing to help me trust you then just get lost!"
+ },
+ {
+  "k": "47",
+  "en": "<i>(Harsh as always...)</i>"
+ },
+ {
+  "k": "48",
+  "cena": "Sophie_Questbrief_1",
+  "en": "What I'm looking for is a special kind of 45 caliber round from the manufacturing company 'Firebird.' They're incredibly rare nowadays because the company had gone defunct after defying Peitho."
+ },
+ {
+  "k": "49",
+  "en": "But their bullets are so expertly crafted! Such marvels of military innovation! I've got none of them in my collection, and that  <i>has</i> to change!"
+ },
+ {
+  "k": "50",
+  "en": "I'm guessing that's where we come in?"
+ },
+ {
+  "k": "51",
+  "en": "Precisely."
+ },
+ {
+  "k": "52",
+  "en": "If you were to somehow manage to give me something that rare that I've been after for such a long time, then I'd definitely trust you a whole lot more than I do now."
+ },
+ {
+  "k": "53",
+  "en": "Where exactly are we supposed to find these bullets that you're looking for?"
+ },
+ {
+  "k": "54",
+  "en": "That's a pretty stupid question. If I knew where you could find them, then I'd just go find them myself now, wouldn't I?"
+ },
+ {
+  "k": "55",
+  "en": "Relax, everyone! Let's all be friends now."
+ },
+ {
+  "k": "56",
+  "en": "I think I have a good idea of where we could find them. Don't worry Sophie, you'll get your bullets. What did you call the company?  'Firebird?'"
+ },
+ {
+  "k": "57",
+  "en": "Yeah. Any arms dealer worth his weight would know what you're talking about if you bring up the name. "
+ },
+ {
+  "k": "58",
+  "en": "Lucky for us, we happen to have done business with an arms dealer before! I'm sure he'll have some spares of whatever you're looking for."
+ },
+ {
+  "k": "59",
+  "en": "I wouldn't be so cocky if I were you! Those bullets are incredibly rare, Peitho managed to gather most of the remaining supply to try and reverse engineer it."
+ },
+ {
+  "k": "60",
+  "en": "You never know until you try, right?"
+ },
+ {
+  "k": "61",
+  "en": "Right..."
+ },
+ {
+  "k": "62",
+  "en": "Off to the dealer then."
+ },
+ {
+  "k": "63",
+  "cena": "Sophie_stash_1",
+  "en": "Alright, this is the spot. Time to start digging."
+ },
+ {
+  "k": "64",
+  "en": "This is quite literally in the middle of nowhere. How do you even find your way back to these places?"
+ },
+ {
+  "k": "65",
+  "en": "Trade secret. It's gotta be out in the middle of nowhere 'cus if it were anywhere else, I'd just get caught."
+ },
+ {
+  "k": "66",
+  "en": "Now I'd suggest you all stop worrying about everything else and make sure I don't get shot down by enemy soldiers if they find us."
+ },
+ {
+  "k": "67",
+  "en": "The goods are in a safe, so you're still gonna need me to open the lock even if you know the spot it's buried in."
+ },
+ {
+  "k": "68",
+  "en": "<i>(Guess you really can't afford to take any chances in this line of work, huh?)</i>"
+ },
+ {
+  "k": "69",
+  "en": "We'll keep you safe, don't worry."
+ },
+ {
+  "k": "70",
+  "en": "fade to black"
+ },
+ {
+  "k": "71",
+  "cena": "Sophie_stash_2",
+  "en": "fade in, characters are now hanging out in different spots, dealer is down in a ditch presumably digging"
+ },
+ {
+  "k": "72",
+  "en": "Alright! Found the good stuff. "
+ },
+ {
+  "k": "73",
+  "en": "See? And it was all without any trouble or hassle at all! "
+ },
+ {
+  "k": "74",
+  "en": "Wouldn't it be really funny if a Peitho patrol ran into us right now?"
+ },
+ {
+  "k": "75",
+  "en": "You know, this really isn't the time to jinx anyth-"
+ },
+ {
+  "k": "76",
+  "en": "Hey! Who are those people? You're not allowed to be here!"
+ },
+ {
+  "k": "77",
+  "en": "Those are resistance members! Quick! Attack!"
+ },
+ {
+  "k": "78",
+  "en": "Oh come on! You couldn't possibly expect me to know that was gonna happen!"
+ },
+ {
+  "k": "79",
+  "en": "Besides...there's more action if we get some fighting done, right? Hehehe..."
+ },
+ {
+  "k": "80",
+  "en": "Are you guys gonna fight them or what? I'm not getting out of this ditch until they're gone!"
+ },
+ {
+  "k": "81",
+  "en": "Here they are! Get them!"
+ },
+ {
+  "k": "82",
+  "en": "(fight begins)"
+ },
+ {
+  "k": "83",
+  "cena": "Sophie_stash_3.0_nenough",
+  "en": "(dealer is out of the ditch and talking to characters)"
+ },
+ {
+  "k": "84",
+  "en": "Alright. Now that you've fought them off, here's your stuff. It'll be X credits."
+ },
+ {
+  "k": "85",
+  "en": "What?! That's crazy! We're buying bullets here, not artillery shells!"
+ },
+ {
+  "k": "86",
+  "en": "It's all about the type of bullets that you're buying. These things are a rarity you know."
+ },
+ {
+  "k": "87",
+  "en": "We don't have that kind of money right now! Even if we gave you all we had!"
+ },
+ {
+  "k": "88",
+  "en": "Hmmm...that's a problem."
+ },
+ {
+  "k": "89",
+  "en": "Normally I'd just bury this again but since you're past customers I'll make an exception. I'm taking this back to the base with me, and you can have it when you gather the money."
+ },
+ {
+  "k": "90",
+  "en": "I guess that's fair..."
+ },
+ {
+  "k": "91",
+  "en": "<i>(Sophie's putting us through hell and back just for a bunch of bullets...)</i>"
+ },
+ {
+  "k": "92",
+  "en": "end scene,  return to base"
+ },
+ {
+  "k": "93",
+  "cena": "Sophie_stash_3.5_nenough",
+  "en": "Back at resistance base"
+ },
+ {
+  "k": "94",
+  "en": "Well, the dealer went back to his usual spot. We're just gonna have to pay him when we can."
+ },
+ {
+  "k": "95",
+  "en": "Who would've thought that bullets would be that expensive?"
+ },
+ {
+  "k": "96",
+  "en": "She better be happy when we get her the stuff."
+ },
+ {
+  "k": "97",
+  "en": "(end scene)"
+ },
+ {
+  "k": "98",
+  "cena": "Sophie_stash_4_enough",
+  "en": "(dealer is out of the ditch and talking to characters)"
+ },
+ {
+  "k": "99",
+  "en": "Alright. Now that you've fought them off, here's your stuff. It'll be X credits."
+ },
+ {
+  "k": "100",
+  "en": "That's...a pretty crazy amount just for bullets!"
+ },
+ {
+  "k": "101",
+  "en": "These aren't just any bullet. These things were expensive when they were first made, and now they're not being made at all."
+ },
+ {
+  "k": "102",
+  "en": "Once the supply runs out, they're gone forever."
+ },
+ {
+  "k": "103",
+  "en": "Well, we came all this way to get Sophie's trust, right? We might as well go through with it."
+ },
+ {
+  "k": "104",
+  "en": "Ugh...I guess so...Fine, we'll take them."
+ },
+ {
+  "k": "105",
+  "en": "Thank you for the business."
+ },
+ {
+  "k": "106",
+  "en": "Man, she better be happy with that or I'm gonna give that girla a piece of my mind."
+ },
+ {
+  "k": "107",
+  "en": "Who would've thought? One of the few times Jewel is suggesting she's gonna get to someone without fucking them."
+ },
+ {
+  "k": "108",
+  "cena": "Sophie_stash_5_buylater",
+  "en": "Alright, we're back with the money."
+ },
+ {
+  "k": "109",
+  "en": "If you got the money, I got your goods. Here you go."
+ },
+ {
+  "k": "110",
+  "en": "Time to go get them to Sophie, finally."
+ },
+ {
+  "k": "111",
+  "cena": "Sophie_wrong_bullets_1",
+  "en": "Woah! You're back already? You mean you actually got the stuff?"
+ },
+ {
+  "k": "112",
+  "en": "We went through hell to get it, but here you go!"
+ },
+ {
+  "k": "113",
+  "en": "I don't believe it...! I'm finally getting my hands on those treasured 50 cal bullets...! You have no idea how long I've waited for this d-"
+ },
+ {
+  "k": "114",
+  "en": "Hey...wait a minute..."
+ },
+ {
+  "k": "115",
+  "en": "These are 45 caliber bullets! Not 50 caliber! These things are worthless!!! I've already got more of these than I can count! I don't need this cheap garbage!"
+ },
+ {
+  "k": "116",
+  "en": "Now listen here! Not only did we go through hell and back to get these, but they also cost us a shit ton of money to get! The least you could say is 'thank you!'"
+ },
+ {
+  "k": "117",
+  "en": "Ugh...! How annoying...!"
+ },
+ {
+  "k": "118",
+  "en": "Look, Sophie. We went through a lot of trouble to get these. We had our arms dealer dig a ditch to find his hidden supply stash where he kept these. At least appreciate the effort."
+ },
+ {
+  "k": "119",
+  "en": "Fine! But your dealer is a bad one!"
+ },
+ {
+  "k": "120",
+  "en": "Alright. Listen. I'm feeling generous. It is true, you've worked hard for my sake, and even if you fucked it up I'm feeling generous."
+ },
+ {
+  "k": "121",
+  "en": "Alright, that's it! I'm gonna-"
+ },
+ {
+  "k": "122",
+  "en": "Let's let her speak first."
+ },
+ {
+  "k": "123",
+  "en": "I'm thinking we can hit two birds with one stone here. I won't ask you to do something that'll only help me. This is something that helps me and everyone else at once."
+ },
+ {
+  "k": "124",
+  "en": "Alright...I'm listening."
+ },
+ {
+  "k": "125",
+  "en": "Peitho's been trying to mimic these bullets. They've made their own ones, not as great as the ones I'm after, but a suitable alternative for my collection."
+ },
+ {
+  "k": "126",
+  "en": "If I could go raid one of their convoys and get them myself, I would, but I'm stuck here helping with the base."
+ },
+ {
+  "k": "127",
+  "en": "But if you could raid one of the convoys that pass by, you could get me my stuff <i>and</i> play a hand in disrupting enemy supply lines. Everyone wins."
+ },
+ {
+  "k": "128",
+  "cena": "Sophie_wrong_bullets_2",
+  "en": "(plays if players already raided convoy for robbin)"
+ },
+ {
+  "k": "129",
+  "en": "Wait...didn't we find some rather unique looking bullets when we raided that convoy for Robbin?"
+ },
+ {
+  "k": "130",
+  "en": "Wait!? You did?! Showmeshowmeshowmeshowme!"
+ },
+ {
+  "k": "131",
+  "en": "Woah....! I don't believe it...! This is actually the stuff I'm looking for! Okay, this! This is what I want, are you willing to trade it?"
+ },
+ {
+  "k": "132",
+  "en": "Sure. It's not like it works with any of our weapons. "
+ },
+ {
+  "k": "133",
+  "en": "Then it's a done deal! "
+ },
+ {
+  "k": "134",
+  "en": "I guess I <i>was</i> a little too harsh on you guys but that's all water under the bridge now, right?"
+ },
+ {
+  "k": "135",
+  "en": "Sure!"
+ },
+ {
+  "k": "136",
+  "en": "<i>(Might as well agree to a swift resolution to this.)</i>"
+ },
+ {
+  "k": "137",
+  "en": "Listen, you guys wouldn't mind if I borrowed Jenna for a while, would you?"
+ },
+ {
+  "k": "138",
+  "en": "Sure. What's up?"
+ },
+ {
+  "k": "139",
+  "en": "Oh nothing much...I just wanna...talk."
+ },
+ {
+  "k": "140",
+  "tipo": "escolha",
+  "en": "Accept Sophie's Offer (perversion)"
+ },
+ {
+  "k": "141",
+  "tipo": "escolha",
+  "en": "Declinen Sophie's Offer"
+ },
+ {
+  "k": "142",
+  "cena": "Sophie_wrong_bullets_3",
+  "en": "Hmmm...I guess that <i>does</i> help everyone. But no more taking things back, okay?"
+ },
+ {
+  "k": "143",
+  "en": "Fine, fine, I promise. "
+ },
+ {
+  "k": "144",
+  "en": "But you gotta get the stuff for me first."
+ },
+ {
+  "k": "145",
+  "en": "(fade out, fade back in at raiding peitho convoy)"
+ },
+ {
+  "k": "146",
+  "cena": "Spanking scene",
+  "quem": "Lexi (F)",
+  "en": "Now that I see you bent over. You have a cute ass."
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "Thank you, I do work out sometimes."
+ },
+ {
+  "k": "148",
+  "quem": "Lexi (F)",
+  "en": "It's also not your first time doing this hehe."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "How did you know?!"
+ },
+ {
+  "k": "150",
+  "quem": "Jenna (F)",
+  "en": "I used to do it with my girlfriend from time to time."
+ },
+ {
+  "k": "151",
+  "quem": "Lexi (F)",
+  "en": "It's hard to miss, hehe. Bent over so easily.. Reacting to the whip when it caresses you.\n"
+ },
+ {
+  "k": "152",
+  "quem": "Lexi (F)",
+  "en": "But we are here for practice. Not small talk we can do that after the session. Let us begin."
+ },
+ {
+  "k": "153",
+  "quem": "Lexi (F)",
+  "en": "Focus on each stroke. Let me see if you are what I'm looking for."
+ },
+ {
+  "k": "154",
+  "quem": "Narrador",
+  "en": "<i>As Lexi starts, a warm feeling rushes through my body.    \r\n</i>"
+ },
+ {
+  "k": "155",
+  "quem": "Lexi (F)",
+  "en": "Very good hun keep your focus on the strokes."
+ },
+ {
+  "k": "156",
+  "quem": "Lexi (F)",
+  "en": "You do even better than I anticipated, very good."
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "<i>(Getting <color=perversion>praised...ngh...</color>with this warm feeling feels so <color=perversion>good!</color>)</i>"
+ },
+ {
+  "k": "158",
+  "quem": "Lexi (F)",
+  "en": "You are different from all the other people in Carceburg I know. Your reaction to pleasure feels more natural."
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "<i>(Must be because <color=perversion>ghh...ahhh</color> of the waves.)</i>"
+ },
+ {
+  "k": "160",
+  "quem": "Lexi (F)",
+  "en": "You are perfect, exactly what I was looking for. "
+ },
+ {
+  "k": "161",
+  "quem": "Lexi (F)",
+  "en": "You are something special, hun."
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I'm special.)</i></color>"
+ },
+ {
+  "k": "163",
+  "quem": "Lexi (F)",
+  "en": "Every time I move my whip over your pussy I can feel your body's desire for more."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "<i>(She knows what she is doing with that <color=perversion>whip.</color>)</i>"
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "<i>(The warm<color=perversion> wave ...ughh...</color> with each stroke <color=perversion>...haah...</color> combined with her caressing <color=perversion>my pussy ...nghh... aahhh</color> feels so <color=perversion>good.</color>)</i>"
+ },
+ {
+  "k": "166",
+  "quem": "Lexi (F)",
+  "en": "Seems like someone is enjoying themselves."
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "I <color=perversion>aghh... "
+ },
+ {
+  "k": "168",
+  "quem": "Lexi (F)",
+  "en": "But we are not done yet."
+ },
+ {
+  "k": "169",
+  "quem": "Jenna (F)",
+  "en": "<i>(She hits <color=perversion>harder</color> than before )</i>"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>haah... ghh....</color>"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "You clear<color=perversion> ...hnghf...</color> ly need no practice. Why <color=perversion>...haah....</color> did you post this job? "
+ },
+ {
+  "k": "172",
+  "quem": "Lexi (F)",
+  "en": "Not only hot but also smart. You're right. I didn't need practice. I was looking for a new playmate."
+ },
+ {
+  "k": "173",
+  "quem": "Lexi (F)",
+  "en": "And I think I found the perfect one."
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "HUH!"
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Why did you <color=perversion>stop?</color>"
+ },
+ {
+  "k": "176",
+  "quem": "Lexi (F)",
+  "en": "I found what I was looking for so your job here is done."
+ }
+]

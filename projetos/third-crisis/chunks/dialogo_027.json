@@ -1,0 +1,1123 @@
+[
+ {
+  "k": "1",
+  "cena": "Carceburg_Shades_1",
+  "quem": "Shades (M)",
+  "en": "Hey it's me your boy Shades."
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Errrr... Kay..?"
+ },
+ {
+  "k": "3",
+  "quem": "Shades (M)",
+  "en": "You seem like someone I've seen before... A long time ago..."
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "<i>(What if he recognizes me as an AIRSHIP hero and tells the guards about me...!)</i>"
+ },
+ {
+  "k": "5",
+  "quem": "Shades (M)",
+  "en": "Yeah, you look similar to one of those videogame girls... But not quite like her."
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "<i>(Phew, he has no idea..)</i>"
+ },
+ {
+  "k": "7",
+  "quem": "Shades (M)",
+  "en": "You know, back in the old days I was playing them with a racoon!"
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "A-... Racoon..?"
+ },
+ {
+  "k": "9",
+  "quem": "Shades (M)",
+  "en": "Yeah! He lives in a trashcan! Great bud. Tho he always ate my fridge empty.."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "You lived with a racoon that ate from your... Fridge?"
+ },
+ {
+  "k": "11",
+  "quem": "Shades (M)",
+  "en": "I wish he just <i>ate</i> from it..."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "Rrrrrright..."
+ },
+ {
+  "k": "13",
+  "quem": "Shades (M)",
+  "en": "Good times, good times, hehe. That one time, when he jizzed into the jam, so funny!"
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "... I- uhm.. There's.. Something on the stove... Soooo..."
+ },
+ {
+  "k": "15",
+  "quem": "Shades (M)",
+  "en": "I told him \"DONT JIZZ IN THE JAM, YOU LITTLE FUCKER\", but he just yelled back \"SHUT UP SHADES, I KNOW YOU LOVE IT\". So I went up to him and-"
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "I'm just-.. Gonna go now.."
+ },
+ {
+  "k": "17",
+  "quem": "Narrador",
+  "en": "<i>He doesn't seem to react to my words, so I decide to not... bother... him any longer.</i>"
+ },
+ {
+  "k": "18",
+  "cena": "Carceburg_Shades_2",
+  "en": "Oh it's you again! Have I already told you about my this amazing <b>lewd</b> kart game that's being developed <i>right now</i> ?"
+ },
+ {
+  "k": "19",
+  "en": "Uhm-"
+ },
+ {
+  "k": "20",
+  "en": "It's called Shady Lewd Kart and I could swear that I've even seen <b>you</b> in there!"
+ },
+ {
+  "k": "21",
+  "en": "<i>(Kart game..? What is he talking about?)</i>"
+ },
+ {
+  "k": "22",
+  "en": "You can go play and support it on patreon right now at <b>patreon.com/datgame</b> !"
+ },
+ {
+  "k": "23",
+  "en": "<i>(Maybe it's best to just leave him in his fantasy world.)</i>"
+ },
+ {
+  "k": "24",
+  "cena": "Carceburg_Sign_Fuckbucks",
+  "quem": "Narrador",
+  "en": "<i>The best citizen is the best worker. Earn your Free-Use Credit Kards for redemption at the town hall!</i>"
+ },
+ {
+  "k": "25",
+  "cena": "Carceburg_Slums_CurfewWarning",
+  "quem": "Jenna (F)",
+  "en": "<i>(Crap, curfew is almost up. No wonder those guys all went crawling back into their houses!)</i>"
+ },
+ {
+  "k": "26",
+  "cena": "Carceburg_Slums_CurfewWarning_Jewel",
+  "quem": "Jenna (F)",
+  "en": "Yeah! You all better run!"
+ },
+ {
+  "k": "27",
+  "quem": "Jewel (F)",
+  "en": "Uhh, blue? They're going in for curfew."
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "Oh! I knew that!"
+ },
+ {
+  "k": "29",
+  "quem": "Jewel (F)",
+  "en": "Of course you did! We should probably start heading in ourselves."
+ },
+ {
+  "k": "30",
+  "quem": "Jewel (F)",
+  "en": "We don't wanna get caught by the guards now do we?"
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "Aheh! Of course not!"
+ },
+ {
+  "k": "32",
+  "cena": "Carceburg_Slums_Lose",
+  "quem": "Narrador",
+  "en": "Carceburg_Slums_Lose"
+ },
+ {
+  "k": "33",
+  "cena": "Carceburg_Slums_NeedWeapon",
+  "quem": "Jenna (F)",
+  "en": "<i>(I should probably get a weapon of some kind before coming here...)</i>"
+ },
+ {
+  "k": "34",
+  "cena": "Carceburg_Slums_RatFlogger_1",
+  "quem": "Rat Flogger (F)",
+  "en": "Aah! Y'look so sad without spanked-red skin. Lemme fix that for ye."
+ },
+ {
+  "k": "35",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "36",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "37",
+  "cena": "Carceburg_Slums_RatGrunt_1",
+  "quem": "Rat Grunt (M)",
+  "en": "This here's our turf! Wutchu want?"
+ },
+ {
+  "k": "38",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "39",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "40",
+  "cena": "Carceburg_Slums_RatGrunt_2",
+  "quem": "Rat Grunt (M)",
+  "en": "Y'wanna fight us Rats? Y'ain't ready fer this."
+ },
+ {
+  "k": "41",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "42",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "43",
+  "cena": "Carceburg_Slums_RatGrunt_3",
+  "quem": "Rat Grunt (M)",
+  "en": "Y'know what they say. Once y'go Rat, y'don't go back! Y'wanna piece o' this?"
+ },
+ {
+  "k": "44",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "45",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "46",
+  "cena": "Carceburg_Slums_RatHealslut_1",
+  "quem": "Rat Healslut (F)",
+  "en": "Haaah!! I'll keep my friends all heaaled! Mmmm~"
+ },
+ {
+  "k": "47",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "48",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "49",
+  "cena": "Carceburg_Slums_RatShredder_1",
+  "quem": "Rat Shredder (M)",
+  "en": "Tits! Tits! Need see tits! Tits!? Shred clothes!!"
+ },
+ {
+  "k": "50",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "51",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "52",
+  "cena": "Carceburg_Slums_RatSquirter_1",
+  "quem": "Rat Squirter (F)",
+  "en": "Mmm... What a pretty lil' face. I wanna squirt my love all over it..."
+ },
+ {
+  "k": "53",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "54",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "55",
+  "cena": "Carceburg_Slums_Ray_Challenge",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Y'must really wan' a taste o' ol Lumber Rat Ray, wee slag. Ye've done me men and women in. Now ol Lumber Rat Ray's gonna give ye a taste of a real fight. Step up if yer ready, slut!"
+ },
+ {
+  "k": "56",
+  "tipo": "escolha",
+  "en": "Spread holiday cheer!"
+ },
+ {
+  "k": "57",
+  "tipo": "escolha",
+  "en": "Ask politely about the bandanas."
+ },
+ {
+  "k": "58",
+  "tipo": "escolha",
+  "en": "Ask him about the stolen lights."
+ },
+ {
+  "k": "59",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "60",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "61",
+  "cena": "Carceburg_Slums_Ray_DefeatEnemies",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Y'tink yer tough comin' into our territory, girl? Ain't got time t' be messin' wit' wee sluts like ye."
+ },
+ {
+  "k": "62",
+  "tipo": "escolha",
+  "en": "Spread holiday cheer!"
+ },
+ {
+  "k": "63",
+  "tipo": "escolha",
+  "en": "Ask politely about the bandanas."
+ },
+ {
+  "k": "64",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "65",
+  "tipo": "escolha",
+  "en": "Pick a fight."
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "I'll show you a weak slut, dickhead."
+ },
+ {
+  "k": "67",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Y'wanna fight? Y'come back when ye've defeated a few o' me henchmen. Otherwise, fuck off wit' ye'."
+ },
+ {
+  "k": "68",
+  "cena": "Carceburg_Slums_Ray_Victory",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Gah! Fine! Y'win! Ugh... Here... Take this, wee sla-- lady."
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "Thought so! Hand whatever that is over!"
+ },
+ {
+  "k": "70",
+  "cena": "Carceburg_TopGuard1",
+  "quem": "Guard (M)",
+  "en": "Halt! You can't come this way."
+ },
+ {
+  "k": "71",
+  "cena": "Carceburg_TopGuard1_CumReaction",
+  "quem": "Guard (M)",
+  "en": "Good look, cumslut. You're not getting past though."
+ },
+ {
+  "k": "72",
+  "cena": "Carceburg_TopGuard1_OpenTop",
+  "quem": "Guard (M)",
+  "en": "You can wear your outfit however you want, I'm not letting you past."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "<i>(Well it was worth a try... <color=perversion>Right</color>..?)</i>"
+ },
+ {
+  "k": "74",
+  "cena": "Carceburg_TopGuard1_Ripped",
+  "quem": "Guard (M)",
+  "en": "You look great in those rags but they won't get you past me."
+ },
+ {
+  "k": "75",
+  "cena": "Carceburg_TopGuard2",
+  "quem": "Guard (M)",
+  "en": "Back up, badge girl! No entrance."
+ },
+ {
+  "k": "76",
+  "cena": "Carceburg_TopGuard2_CumReaction",
+  "quem": "Guard (M)",
+  "en": "Haha... Nice try, badge slut. You're not distracting me with that look."
+ },
+ {
+  "k": "77",
+  "cena": "Carceburg_TopGuard2_OpenTop",
+  "quem": "Guard (M)",
+  "en": "Why don't you visit us later in our barracks out of town in that outfit, hmm?"
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "I'll pass.. Sorry.."
+ },
+ {
+  "k": "79",
+  "cena": "Carceburg_TopGuard2_Ripped",
+  "quem": "Guard (M)",
+  "en": "If I wasn't on duty right now, I'd rip the rest of that silly outfit off you and fuck you roughly..."
+ },
+ {
+  "k": "80",
+  "cena": "Carceburg_TownhallAd_PostWork",
+  "quem": "Jenna (F)",
+  "en": "<i>(\"They want your cream in their pie. Visit the townhall today.\")</i>"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "<i>(It's... <color=perversion>quite the place...</color>)</i>"
+ },
+ {
+  "k": "82",
+  "cena": "Carceburg_TownhallAd_PostWork2",
+  "quem": "Jenna (F)",
+  "en": "<i>(\"They want your cream in their pie. Visit the townhall today.\")</i>"
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>The place can be quite <b>fun</b>, hehe.. Not just for the men spending their <b>money</b>...</color>)</i>"
+ },
+ {
+  "k": "84",
+  "cena": "Carceburg_TownhallAd_PostWork3",
+  "quem": "Jenna (F)",
+  "en": "<i>(\"They want your cream in their pie. Visit the townhall today.\")</i>"
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>They do.. But it's all going to go to <b>me</b>... They'll see, ehehe..</color>)</i>"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>I deserve it more than <b>them</b> anyways, ehehe..</color>)</i>"
+ },
+ {
+  "k": "87",
+  "cena": "Carceburg_TownhallAd_PostWork4",
+  "quem": "Jenna (F)",
+  "en": "<i>(\"New premium cow. Visit the townhall for a special treat.\")</i>"
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>That's right..~ They come for <b>me</b>..</color>)</i>"
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>There's a new <b>queen</b> in town, ehehehe...</color>)</i>"
+ },
+ {
+  "k": "90",
+  "cena": "Carceburg_TownhallAd_PreWork",
+  "quem": "Jenna (F)",
+  "en": "<i>(It says \"They want your cream in their pie. Visit the townhall today.\"...)</i>"
+ },
+ {
+  "k": "91",
+  "quem": "Jenna (F)",
+  "en": "<i>(This is so.. degrading...)</i>"
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "<i>(There's more text... \"Got nice tits and looking for a nice pay? Your chance waits right inside the townhall, next to the entrance.\")</i>"
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "<i>(Who would ever go and work for a place with an ad like <b>this</b>?!)</i>"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "<i>(You'd have to really be in <b>dire</b> need of money..)</i>"
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "<i>(...)</i>"
+ },
+ {
+  "k": "96",
+  "cena": "Carceburg_TownhallDispenser",
+  "quem": "Jenna (F)",
+  "en": "<i>(There's used paper tissues leaking out... And some liquid is all over it...)"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "<i>(And below it a used condom...)</i>"
+ },
+ {
+  "k": "98",
+  "cena": "Carceburg_TownhallDispenser_PostWork",
+  "quem": "Jenna (F)",
+  "en": "<i>(So this is where the cleanup ends up...)</i>"
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>Some of it must have been... inside me...</color>)</i>"
+ },
+ {
+  "k": "100",
+  "cena": "Carceburg_TownhallDispenser_PostWork4",
+  "quem": "Jenna (F)",
+  "en": "<i>(<color=perversion>So much cum, ehehe...~</color>)</i>"
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(I bet more than half it it is thanks to me. They can't resist me, ehehe..)</color></i>"
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(The container seems locked... I wonder what it would be like to-...)</color></i>"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(...)</color></i>"
+ },
+ {
+  "k": "104",
+  "cena": "Carceburg_Woodcutter1",
+  "quem": "Man (M)",
+  "en": "Just a few more trees and I can finally get to the townhall... Unless you'd like to help out?"
+ },
+ {
+  "k": "105",
+  "cena": "Carceburg_Woodcutter1_0",
+  "quem": "Man (M)",
+  "en": "Just a few more trees and... You... Where's your badge?"
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "My badge? Umm..."
+ },
+ {
+  "k": "107",
+  "quem": "Man (M)",
+  "en": "Weren't you wearing one earlier..? Heh.."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>...</color>"
+ },
+ {
+  "k": "109",
+  "quem": "Man (M)",
+  "en": "Why don't you... Lend me a hand? Work out here can be pretty tiring, you know?"
+ },
+ {
+  "k": "110",
+  "cena": "Carceburg_WoodCutter1_1_Decline",
+  "quem": "Jenna (F)",
+  "en": "I-I'd love to, but I have to go. Bye!"
+ },
+ {
+  "k": "111",
+  "quem": "Man (M)",
+  "en": "Too bad... I'll be here."
+ },
+ {
+  "k": "112",
+  "cena": "Carceburg_Woodcutter1_2_Accept",
+  "quem": "Jenna (F)",
+  "en": "Soo.. What kind of help are you looking for?"
+ },
+ {
+  "k": "113",
+  "quem": "Man (M)",
+  "en": "Hmm... Follow me. We need somewhere a little more... Private."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>O-okay.</color>"
+ },
+ {
+  "k": "115",
+  "cena": "Carceburg_Woodcutter1_CumReaction",
+  "quem": "Man (M)",
+  "en": "Well damn. You were a good girl, weren't you?"
+ },
+ {
+  "k": "116",
+  "cena": "Carceburg_Woodcutter1_OpenTop",
+  "quem": "Man (M)",
+  "en": "You're making me want to take an extended break with you, hehehe.."
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "I-.. uh.. Sorry, I'm just-.. Busy.."
+ },
+ {
+  "k": "118",
+  "quem": "Man (M)",
+  "en": "So am I, too bad, isn't it.."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>...</color>"
+ },
+ {
+  "k": "120",
+  "cena": "Carceburg_Woodcutter1_Ripped",
+  "quem": "Man (M)",
+  "en": "Had some fun with something clawed, didn't you? Hahaha."
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "N-No!"
+ },
+ {
+  "k": "122",
+  "cena": "Carceburg_Woodcutter2",
+  "quem": "Man (M)",
+  "en": "I wouldn't get caught dead doing any lumber work out in the forest outpost. I'm not looking to get fucked by those forest fiends."
+ },
+ {
+  "k": "123",
+  "cena": "Carceburg_Woodcutter2_0",
+  "quem": "Man (M)",
+  "en": "We're here. Would you mind handing over the axe?"
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "Axe? Uh.. Sure. Let me just..."
+ },
+ {
+  "k": "125",
+  "cena": "Carceburg_Woodcutter2_1_ANIM",
+  "quem": "Man (M)",
+  "en": "Gotcha!"
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>A-ah..!</color>"
+ },
+ {
+  "k": "127",
+  "quem": "Man (M)",
+  "en": "Those are some juicy thighs you're carrying around, heheheh..."
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. Ghh-..</color>"
+ },
+ {
+  "k": "129",
+  "quem": "Man (M)",
+  "en": "Fuck... I thought I'd just warm up with this but it feels like..."
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Ghh.. I can feel it on my-..)</i></color>"
+ },
+ {
+  "k": "131",
+  "quem": "Man (M)",
+  "en": "Nggh- Faster..."
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Without the badge, they really don't hold back...)</i></color>"
+ },
+ {
+  "k": "133",
+  "quem": "Man (M)",
+  "en": "C-can't stop... Too good... Fuck..."
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Ghh.. I'm getting wet.. Fuck...)</i></color>"
+ },
+ {
+  "k": "135",
+  "quem": "Man (M)",
+  "en": "A-already!? I... Ahh..."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fghhh...</color>"
+ },
+ {
+  "k": "137",
+  "quem": "Man (M)",
+  "en": "... This was amazing... Thank you..."
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>You're-.. Done..?</color>"
+ },
+ {
+  "k": "139",
+  "quem": "Man (M)",
+  "en": "... I can barely keep standing..."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Oh-... I see..</color>"
+ },
+ {
+  "k": "141",
+  "cena": "Carceburg_Woodcutter2_CumReaction",
+  "quem": "Man (M)",
+  "en": "Are you looking to be used as bait for the forest fiends or something?"
+ },
+ {
+  "k": "142",
+  "cena": "Carceburg_Woodcutter2_OpenTop",
+  "quem": "Man (M)",
+  "en": "Oh what's that, a new form of payment for my work? I didn't know the boss sends sluts like you to us now, haha."
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "It's not like that..!"
+ },
+ {
+  "k": "144",
+  "quem": "Man (M)",
+  "en": "Then what are you doing here, huh?"
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "R-right.. I don't uhm-.. I Gotta go..!"
+ },
+ {
+  "k": "146",
+  "quem": "Man (M)",
+  "en": "Too bad.. I wouldn't mind handling some other hard wood."
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "<i>(Just what are you doing, Jenna...)</i>"
+ },
+ {
+  "k": "148",
+  "cena": "Carceburg_Woodcutter2_Ripped",
+  "quem": "Man (M)",
+  "en": "You look just like the girls that had too much fun with the forest fiends."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "That has nothing to do with this!"
+ },
+ {
+  "k": "150",
+  "cena": "Carceburg_Woodcutter_After",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I-.. I should be handling these perverts like criminals, but-..)</i></color>"
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I wish he had a bit more in him...)</i></color>"
+ },
+ {
+  "k": "152",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(It's not my fault that I'm like this...)</i></color>"
+ },
+ {
+  "k": "153",
+  "cena": "Carcen_Mines_CockRock_Activate",
+  "quem": "Narrador",
+  "en": "<i>Click!</i>"
+ },
+ {
+  "k": "154",
+  "cena": "Carcen_Mines_CockRock_Complete",
+  "quem": "Narrador",
+  "en": "<i>I hear a strange rumbling as I touch this last cock-shaped rock. It sounds like something just opened up somewhere.</i>"
+ },
+ {
+  "k": "155",
+  "cena": "Carcen_Mines_Flavor_LordPhallus",
+  "quem": "Narrador",
+  "en": "<i>Praise Lord Phallus.</i>"
+ },
+ {
+  "k": "156",
+  "cena": "Carcen_Tunnels_FiendWarning_Examine",
+  "quem": "Jenna (F)",
+  "en": "<i>(Who could have put this here...?)</i>"
+ },
+ {
+  "k": "157",
+  "cena": "Carcen_Tunnels_Floria_Default",
+  "quem": "Floria (F)",
+  "en": "Hello, Jenna."
+ },
+ {
+  "k": "158",
+  "tipo": "escolha",
+  "en": "Tell her that Rida wants to fuck her."
+ },
+ {
+  "k": "159",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "160",
+  "tipo": "escolha",
+  "en": "Talk to her."
+ },
+ {
+  "k": "161",
+  "cena": "Carcen_Tunnels_Floria_Talk",
+  "quem": "Jenna (F)",
+  "en": "Heya Flo. How are things going?"
+ },
+ {
+  "k": "162",
+  "quem": "Floria (F)",
+  "en": "They are going quite well. HQ has been telling me a lot of things about our past. It seems like we were really good friends."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "We still are. Glad that you're doing well."
+ },
+ {
+  "k": "164",
+  "quem": "Floria (F)",
+  "en": "Well... I wouldn't exactly say okay. I've been trying to keep my needs in check, but... It is really hard to not fuck everything in my sight."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "Aheh. Well maybe you could talk to HQ about finding a way to cope. He seems to be doing pretty well with it."
+ },
+ {
+  "k": "166",
+  "quem": "Floria (F)",
+  "en": "Good plan. I've been wanting to taste his cock for a while now."
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "That's not what I meant!"
+ },
+ {
+  "k": "168",
+  "cena": "Carcen_Tunnels_HQ_Default",
+  "quem": "Char_Fiend_HQ",
+  "en": "HQ happy to see Jenna!"
+ },
+ {
+  "k": "169",
+  "tipo": "escolha",
+  "en": "Ask about work."
+ },
+ {
+  "k": "170",
+  "tipo": "escolha",
+  "en": "Ask about work."
+ },
+ {
+  "k": "171",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "172",
+  "tipo": "escolha",
+  "en": "Talk to him."
+ },
+ {
+  "k": "173",
+  "cena": "Carcen_Tunnels_HQ_Talk",
+  "quem": "Jenna (F)",
+  "en": "How are you doing, HQ?"
+ },
+ {
+  "k": "174",
+  "quem": "Char_Fiend_HQ",
+  "en": "HQ good! HQ taking care of the rest of the group."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Is uh... Is... How is..."
+ },
+ {
+  "k": "176",
+  "quem": "Char_Fiend_HQ",
+  "en": "Karen fine. Karen shout at HQ sometimes, but other times stay quiet."
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "I guess that's alright..."
+ },
+ {
+  "k": "178",
+  "quem": "Char_Fiend_HQ",
+  "en": "It all gonna be good. No worry."
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "Thanks bud."
+ },
+ {
+  "k": "180",
+  "cena": "Carcen_Tunnels_Rida_Default",
+  "quem": "Rida (F)",
+  "en": "Rida greet Carcen."
+ },
+ {
+  "k": "181",
+  "tipo": "escolha",
+  "en": "<color=perversion>Ask her to fuck you full-nelson.</color>"
+ },
+ {
+  "k": "182",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "183",
+  "tipo": "escolha",
+  "en": "Talk to her."
+ },
+ {
+  "k": "184",
+  "cena": "Carcen_Tunnels_Rida_FN_0",
+  "quem": "Jenna (F)",
+  "en": "I want your <color=perversion>cock</color>, Rida. Lift me up and <color=perversion>fuck me~</color>"
+ },
+ {
+  "k": "185",
+  "quem": "Rida (F)",
+  "en": "Carcen horny!"
+ },
+ {
+  "k": "186",
+  "quem": "Rida (F)",
+  "en": "Rida horny too..."
+ },
+ {
+  "k": "187",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Then come get me, babe.</color>"
+ },
+ {
+  "k": "188",
+  "quem": "Narrador",
+  "en": "<i>I quickly strip down out of my clothes and she does the same, her cock already standing tall and rock solid for me.</i>"
+ },
+ {
+  "k": "189",
+  "quem": "Rida (F)",
+  "en": "Sexy Carcen... Rida's now."
+ },
+ {
+  "k": "190",
+  "quem": "Narrador",
+  "en": "<i>With that, she grabs me and lifts me up into her strong arms. I've got no chance in hell of breaking out of her hold.</i>"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "Hehe~ You're really excited, huh~?"
+ },
+ {
+  "k": "192",
+  "quem": "Rida (F)",
+  "en": "Rida want Carcen <color=perversion>bad</color>..."
+ },
+ {
+  "k": "193",
+  "quem": "Narrador",
+  "en": "<i>Her cock presses inside me with a quick thrust and she settles into a steady rhythm, bouncing me up and down on her cock with her tight grip on me.</i>"
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "Yeaah~ You like that pussy, sexy~?"
+ },
+ {
+  "k": "195",
+  "quem": "Rida (F)",
+  "en": "Aaah~ Rida like~"
+ },
+ {
+  "k": "196",
+  "quem": "Narrador",
+  "en": "<i>She starts thrusting up to meet me with every bounce, forcing her cock all the way inside me each time.</i>"
+ },
+ {
+  "k": "197",
+  "quem": "Jenna (F)",
+  "en": "Hooh~ Fuckk~ Yessss~ Fuck this slut~"
+ },
+ {
+  "k": "198",
+  "quem": "Narrador",
+  "en": "<i>I can feel heat rising up in my tummy, my muscles are tensing up... <color=perversion>I'm gonna cum on her cock...</color></i>"
+ },
+ {
+  "k": "199",
+  "quem": "Jenna (F)",
+  "en": "Ffffhaaaaaa~"
+ },
+ {
+  "k": "200",
+  "quem": "Rida (F)",
+  "en": "Aahh... Carcen pussy... so tight... squeezing Rida cock..."
+ },
+ {
+  "k": "201",
+  "quem": "Narrador",
+  "en": "<i>My body starts to slow down its orgasmic clenching eventually. She's really going at it now, fucking me through my climax and still going strong.</i>"
+ },
+ {
+  "k": "202",
+  "quem": "Rida (F)",
+  "en": "Rida gonna cum... Rida gonna breed Carcen..."
+ },
+ {
+  "k": "203",
+  "quem": "Jenna (F)",
+  "en": "Breed me~ Let it all out in me~ Pleeease~"
+ },
+ {
+  "k": "204",
+  "quem": "Rida (F)",
+  "en": "Aahh... Rida feel much stronger now..."
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "I'm glad! Me too! Think you can let me down now?"
+ },
+ {
+  "k": "206",
+  "quem": "Rida (F)",
+  "en": "Oh- Yes!"
+ },
+ {
+  "k": "207",
+  "quem": "Narrador",
+  "en": "<i>She sets me down onto my feet gently. Her cum starts dripping down my thighs as I shakily try to stand on my own.</i>"
+ },
+ {
+  "k": "208",
+  "quem": "Jenna (F)",
+  "en": "That was a lot of fun!"
+ },
+ {
+  "k": "209",
+  "quem": "Rida (F)",
+  "en": "Sex always fun. Make strong. Must do sex more. Give Carcen muscle."
+ },
+ {
+  "k": "210",
+  "quem": "Jenna (F)",
+  "en": "Hey! I've got muscle!"
+ },
+ {
+  "k": "211",
+  "quem": "Rida (F)",
+  "en": "Not muscle like Rida. Rida fuck lots. Carcen need fuck more."
+ },
+ {
+  "k": "212",
+  "quem": "Jenna (F)",
+  "en": "We'll have to do this again sometime then."
+ },
+ {
+  "k": "213",
+  "quem": "Rida (F)",
+  "en": "Yes! Again!"
+ },
+ {
+  "k": "214",
+  "quem": "Narrador",
+  "en": "<i>We climb into our clothes and she settles back down where she was.</i>"
+ }
+]

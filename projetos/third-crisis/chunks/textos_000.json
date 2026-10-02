@@ -1,0 +1,685 @@
+[
+ {
+  "k": "1",
+  "cena": "A Commanding Presence",
+  "tipo": "titulo de missao",
+  "en": "A Commanding Presence"
+ },
+ {
+  "k": "2",
+  "tipo": "descricao de missao",
+  "en": "There's going to be a GAG commander coming to Carceburg. I need to prepare for an ambush so I can interrogate him about Karen."
+ },
+ {
+  "k": "3",
+  "tipo": "tarefa de missao",
+  "en": "Talk to Klaus"
+ },
+ {
+  "k": "4",
+  "tipo": "tarefa de missao",
+  "en": "Find explosives"
+ },
+ {
+  "k": "5",
+  "tipo": "tarefa de missao",
+  "en": "Complete Throb's request"
+ },
+ {
+  "k": "6",
+  "tipo": "tarefa de missao",
+  "en": "Train with the equipment you'll be using in VR"
+ },
+ {
+  "k": "7",
+  "tipo": "tarefa de missao",
+  "en": "Return to the motel"
+ },
+ {
+  "k": "8",
+  "tipo": "tarefa de missao",
+  "en": "Go to sleep"
+ },
+ {
+  "k": "9",
+  "tipo": "tarefa de missao",
+  "en": "Get GAG Whiskey"
+ },
+ {
+  "k": "10",
+  "cena": "Liquid Luck",
+  "tipo": "titulo de missao",
+  "en": "Liquid Luck"
+ },
+ {
+  "k": "11",
+  "tipo": "descricao de missao",
+  "en": "There's a guard blocking the way to the clearing. He seems to have a love for alcohol that I might be able to exploit."
+ },
+ {
+  "k": "12",
+  "tipo": "tarefa de missao",
+  "en": "Ask the bartender about the guard"
+ },
+ {
+  "k": "13",
+  "tipo": "tarefa de missao",
+  "en": "Find the special bottle of whiskey"
+ },
+ {
+  "k": "14",
+  "tipo": "tarefa de missao",
+  "en": "Go to the GAG storehouse"
+ },
+ {
+  "k": "15",
+  "tipo": "tarefa de missao",
+  "en": "Leave the storehouse"
+ },
+ {
+  "k": "16",
+  "cena": "Sparking a Forest Fire",
+  "tipo": "titulo de missao",
+  "en": "Sparking a Forest Fire"
+ },
+ {
+  "k": "17",
+  "tipo": "descricao de missao",
+  "en": "It's the big day. Time to execute the plan and ambush this GAG commander so I can finally find out where Karen is!"
+ },
+ {
+  "k": "18",
+  "tipo": "tarefa de missao",
+  "en": "Recruit Jewel in the bar for the ambush"
+ },
+ {
+  "k": "19",
+  "tipo": "tarefa de missao",
+  "en": "Recruit Throb in the townhall for the ambush"
+ },
+ {
+  "k": "20",
+  "tipo": "tarefa de missao",
+  "en": "Go to bed and wait until the day of the ambush"
+ },
+ {
+  "k": "21",
+  "tipo": "tarefa de missao",
+  "en": "Go to the clearing southwest of Carceburg"
+ },
+ {
+  "k": "22",
+  "tipo": "tarefa de missao",
+  "en": "Prepare for the ambush"
+ },
+ {
+  "k": "23",
+  "tipo": "tarefa de missao",
+  "en": "Go to vantage point and wait for ambush"
+ },
+ {
+  "k": "24",
+  "tipo": "tarefa de missao",
+  "en": "Defeat Wildfire"
+ },
+ {
+  "k": "25",
+  "tipo": "tarefa de missao",
+  "en": "Chase Wildfire"
+ },
+ {
+  "k": "26",
+  "tipo": "tarefa de missao",
+  "en": "Place the barrels"
+ },
+ {
+  "k": "27",
+  "tipo": "tarefa de missao",
+  "en": "Place explosives at the exit and entrance"
+ },
+ {
+  "k": "28",
+  "cena": "An Explosive Inquiry",
+  "tipo": "titulo de missao",
+  "en": "An Explosive Inquiry"
+ },
+ {
+  "k": "29",
+  "tipo": "descricao de missao",
+  "en": "Klaus told me to talk to this guy in the middle room of the motel about getting explosives for the commander ambush."
+ },
+ {
+  "k": "30",
+  "tipo": "tarefa de missao",
+  "en": "Talk to the dealer in the motel"
+ },
+ {
+  "k": "31",
+  "tipo": "tarefa de missao",
+  "en": "Find the dealer in the abandoned house during curfew"
+ },
+ {
+  "k": "32",
+  "tipo": "tarefa de missao",
+  "en": "Plant a bug in the townhall"
+ },
+ {
+  "k": "33",
+  "tipo": "tarefa de missao",
+  "en": "Plant a bug in the prison"
+ },
+ {
+  "k": "34",
+  "tipo": "tarefa de missao",
+  "en": "Plant a bug in the bar"
+ },
+ {
+  "k": "35",
+  "tipo": "tarefa de missao",
+  "en": "Plant a bug in the motel"
+ },
+ {
+  "k": "36",
+  "tipo": "tarefa de missao",
+  "en": "Report back to the dealer in the abandoned house during curfew"
+ },
+ {
+  "k": "37",
+  "tipo": "tarefa de missao",
+  "en": "Bug the prison before the guards return"
+ },
+ {
+  "k": "38",
+  "cena": "New Horizons",
+  "tipo": "titulo de missao",
+  "en": "New Horizons"
+ },
+ {
+  "k": "39",
+  "tipo": "descricao de missao",
+  "en": "Time to see what that technician was getting all mad about!"
+ },
+ {
+  "k": "40",
+  "tipo": "tarefa de missao",
+  "en": "Talk to the technician"
+ },
+ {
+  "k": "41",
+  "tipo": "tarefa de missao",
+  "en": "Lay on the bed"
+ },
+ {
+  "k": "42",
+  "cena": "Gaining Access",
+  "tipo": "titulo de missao",
+  "en": "Gaining Access"
+ },
+ {
+  "k": "43",
+  "tipo": "descricao de missao",
+  "en": "Klaus has the access card that I need to enter the VR center. I'm going to have to do what he wants to get it."
+ },
+ {
+  "k": "44",
+  "tipo": "tarefa de missao",
+  "en": "Talk to Klaus"
+ },
+ {
+  "k": "45",
+  "tipo": "tarefa de missao",
+  "en": "Bring the fuckbucks to Klaus"
+ },
+ {
+  "k": "46",
+  "cena": "Horizon Rescue",
+  "tipo": "titulo de missao",
+  "en": "Horizon Rescue"
+ },
+ {
+  "k": "47",
+  "tipo": "descricao de missao",
+  "en": "People are trapped in VR and I need to rescue them!"
+ },
+ {
+  "k": "48",
+  "tipo": "tarefa de missao",
+  "en": "Use the terminal or distract the tentacles to free the trapped victim"
+ },
+ {
+  "k": "49",
+  "tipo": "tarefa de missao",
+  "en": "Defeat the enemies"
+ },
+ {
+  "k": "50",
+  "tipo": "tarefa de missao",
+  "en": "Defeat the second wave of enemies"
+ },
+ {
+  "k": "51",
+  "tipo": "tarefa de missao",
+  "en": "Confront April"
+ },
+ {
+  "k": "52",
+  "tipo": "tarefa de missao",
+  "en": "Return to the real world"
+ },
+ {
+  "k": "53",
+  "cena": "The Rat Trap",
+  "tipo": "titulo de missao",
+  "en": "The Rat Trap"
+ },
+ {
+  "k": "54",
+  "tipo": "descricao de missao",
+  "en": "Klaus wants me to get some fuckbucks from a guy at the bar. I'm going to have to do it if I want the access card for the VR center."
+ },
+ {
+  "k": "55",
+  "tipo": "tarefa de missao",
+  "en": "Find the person that owes Klaus money in the bar"
+ },
+ {
+  "k": "56",
+  "tipo": "tarefa de missao",
+  "en": "Ask Jewel for help"
+ },
+ {
+  "k": "57",
+  "tipo": "tarefa de missao",
+  "en": "Confront the man in the bar"
+ },
+ {
+  "k": "58",
+  "cena": "Check out the abandoned mansion",
+  "tipo": "titulo de missao",
+  "en": "Check out the abandoned mansion"
+ },
+ {
+  "k": "59",
+  "tipo": "descricao de missao",
+  "en": "Check out the rumors about the abandoned mansion to the southwest."
+ },
+ {
+  "k": "60",
+  "tipo": "tarefa de missao",
+  "en": "(Optional) Find the mansion"
+ },
+ {
+  "k": "61",
+  "cena": "Audiolog 1",
+  "tipo": "titulo do diario",
+  "en": "Audiolog 1"
+ },
+ {
+  "k": "62",
+  "tipo": "texto do diario",
+  "en": "This is Dr. Amy Weber lead researcher on Project Ambrosia log entry 1. Losing subject Jenna Wright was a massive setback for me and my research. Mistress Leath transferred me to this research facility as punishment, but I will continue to give it my all so Mistress Leath can see my worth again.  "
+ },
+ {
+  "k": "63",
+  "cena": "Audiolog 2 ",
+  "tipo": "titulo do diario",
+  "en": "Audiolog 2 "
+ },
+ {
+  "k": "64",
+  "tipo": "texto do diario",
+  "en": "This is Dr. Amy Weber log entry 3. After the incident that occurred 2 weeks ago while we tried to transplant the predecessor of project Mindcrush into the slime, Dr. Anderson started to act out of place and I had to put him under quarantine. I also got a notification from the headquarter about getting new subjects in the next couple of days."
+ },
+ {
+  "k": "65",
+  "cena": "Audiolog 3",
+  "tipo": "titulo do diario",
+  "en": "Audiolog 3"
+ },
+ {
+  "k": "66",
+  "tipo": "texto do diario",
+  "en": "This is Dr. Amy Weber log entry 5. The subjects arrived yesterday. We lost 30% to the modified slime which is a great success. However, we didn’t find a way to undo the effects even after injecting the subjects with counter measurements.\r"
+ },
+ {
+  "k": "67",
+  "cena": "Audiolog 4",
+  "tipo": "titulo do diario",
+  "en": "Audiolog 4"
+ },
+ {
+  "k": "68",
+  "tipo": "texto do diario",
+  "en": "This is Dr. Amy Weber log entry 8. It seems we can’t undo the effect if the subject is exposed to a certain quantity. HQ notified me to stop the research, but I will not let my results go to waste. I can make them obedient. I'm the only one that can. All the remaining test subjects show no sign of self-consciousness but react to biological life.\r"
+ },
+ {
+  "k": "69",
+  "cena": "Audiolog 5",
+  "tipo": "titulo do diario",
+  "en": "Audiolog 5"
+ },
+ {
+  "k": "70",
+  "tipo": "texto do diario",
+  "en": "This is Dr. Amy Weber log entry 9. The subjects react especially to lifeforms to reproduce at any cost. Since they also have the properties of Project Ambrosia and can emit gas in a short area that will affect the libido of everyone in range. I changed the name to Project Pandora so HQ won’t find out that we keep researching this matter. It may have risks to keep researching but I’m confident it is worth it.\r\n"
+ },
+ {
+  "k": "71",
+  "cena": "Housing Permit",
+  "tipo": "titulo do diario",
+  "en": "Housing Permit"
+ },
+ {
+  "k": "72",
+  "tipo": "texto do diario",
+  "en": "By Order of the Carceburg Housing Office\n\nThe site specified in the attached blueprint is now assigned to you. Construction may start immediately with local lumber. As usual, no building materials will be assigned to you from the Global Andro Government. All materials must be bought from the lumberyard, and construction will be left up to you.\n\nYou have a month to complete construction."
+ },
+ {
+  "k": "73",
+  "cena": "Entry 1",
+  "tipo": "titulo do diario",
+  "en": "Entry 1"
+ },
+ {
+  "k": "74",
+  "tipo": "texto do diario",
+  "en": "Subject is enroute to research center, preparations have been made for arrival.\r\n\nSubject has arrived, we are granting her entry.\r\n\nMistress Leath is present to pacify the subject with newly weaponized Peitho device.\r"
+ },
+ {
+  "k": "75",
+  "cena": "Entry 2",
+  "tipo": "titulo do diario",
+  "en": "Entry 2"
+ },
+ {
+  "k": "76",
+  "tipo": "texto do diario",
+  "en": "Subject has shown complete submission to the effects of the Peitho device as previously hoped. Containment has been ensured and studies into the operation of the subject’s suit have begun. \n\nPublic knowledge is that the subject requires the suit to counteract the subject's chronal vibrations. These vibrations will cause the subject to become disassociated with the current time, becoming like a ghost. This has been witnessed in previous engagements with the subject."
+ },
+ {
+  "k": "77",
+  "cena": "Entry 3",
+  "tipo": "titulo do diario",
+  "en": "Entry 3"
+ },
+ {
+  "k": "78",
+  "tipo": "texto do diario",
+  "en": "Experiments in removing the suit from the subject have been concluded. The subject has so far shown no signs of any chronal vibrations at all the distances that we have tested.\n\nIt seems that the subject does not experience chronal vibrations as soon as the suit is removed, or the subject might only experience them periodically and they just never happened when the suit was removed.\n\nBlood tests of the subject have so far proven inconclusive.\n\n<<i>They’ve taken blood samples from me..? That is so creepy..</i>>"
+ },
+ {
+  "k": "79",
+  "cena": "Entry 4",
+  "tipo": "titulo do diario",
+  "en": "Entry 4"
+ },
+ {
+  "k": "80",
+  "tipo": "texto do diario",
+  "en": "Blood samples have been found to show signs of chronal vibration and in some cases outright disappearing during attempts to transfer them off-site.\n\nInitial dismantlement of the subject's suit has begun and is already showing promise."
+ },
+ {
+  "k": "81",
+  "cena": "Entry 5",
+  "tipo": "titulo do diario",
+  "en": "Entry 5"
+ },
+ {
+  "k": "82",
+  "tipo": "texto do diario",
+  "en": "During study of the partially dismantled suit, the subject was lost. Chronal vibration was accidentally triggered and the subject disappeared with the suit still attached to her. However all is not lost, we still have samples of the subject that can and will continue to be studied. \n\nWe will not disappoint Mistress Leath.\n\n<<i>So that's how I ended up here all alone... What do they even want with me...?</i>"
+ },
+ {
+  "k": "83",
+  "cena": "Leath",
+  "tipo": "titulo do diario",
+  "en": "Leath"
+ },
+ {
+  "k": "84",
+  "tipo": "texto do diario",
+  "en": "Nothing is known about this high-ranking agent of Peitho.\n\n<i>Except for her love for large words.</i>"
+ },
+ {
+  "k": "85",
+  "cena": "Peitho Engineer",
+  "tipo": "titulo do diario",
+  "en": "Peitho Engineer"
+ },
+ {
+  "k": "86",
+  "tipo": "texto do diario",
+  "en": "The engineers of Peitho are able to project shields onto their comrades, making them invincible to conventional weapons damage. They take a bit more damage than normal Peitho enemies, and will try to stay as far away from their opponents as possible.\n\n<color=red>Engineers need to be eliminated first before attacking the enemy they shield.</color>"
+ },
+ {
+  "k": "87",
+  "cena": "Peitho Grenadier",
+  "tipo": "titulo do diario",
+  "en": "Peitho Grenadier"
+ },
+ {
+  "k": "88",
+  "tipo": "texto do diario",
+  "en": "A low-ranking agent of Peitho that specializes in throwing explosives at their enemies.\n\n<color=red>Be sure to keep moving if you want to avoid damage from these enemies.</color>"
+ },
+ {
+  "k": "89",
+  "cena": "Peitho Grunt",
+  "tipo": "titulo do diario",
+  "en": "Peitho Grunt"
+ },
+ {
+  "k": "90",
+  "tipo": "texto do diario",
+  "en": "Low powered, untrained fodder that are usually sent as a first wave in an attempt to weaken or distract their enemies. These are the easiest enemies that Peitho employ in battle."
+ },
+ {
+  "k": "91",
+  "cena": "Peitho Soldier",
+  "tipo": "titulo do diario",
+  "en": "Peitho Soldier"
+ },
+ {
+  "k": "92",
+  "tipo": "texto do diario",
+  "en": "The main force of Peitho, the soldier is able to engage targets at range, but is weak unless encountered as part of a squad."
+ },
+ {
+  "k": "93",
+  "cena": "Peitho Trapper",
+  "tipo": "titulo do diario",
+  "en": "Peitho Trapper"
+ },
+ {
+  "k": "94",
+  "tipo": "texto do diario",
+  "en": "An agent of Peitho that uses electric barriers to ensnare their prey. When the electricity touches the victim, it coaxes erotic responses out of them via targeted electrical bursts.\n\n<color=red>Avoid touching the edges of the barrier unless no other option is available</color>"
+ },
+ {
+  "k": "95",
+  "cena": "Forest Fiends",
+  "tipo": "titulo do diario",
+  "en": "Forest Fiends"
+ },
+ {
+  "k": "96",
+  "tipo": "texto do diario",
+  "en": "Not much is known about the forest fiends except that they appear and disappear without a trace, kidnapping anyone that comes across their path.\n\nIf disappearances become frequent enough, Carcen lumberworkers will occasionally employ a dumpgirl to distract the fiends while the workers make their way between Carceburg and the Lumber Outpost. \n\nNo one who encounters the forest fiends ever returns."
+ },
+ {
+  "k": "97",
+  "cena": "Entry 1",
+  "tipo": "titulo do diario",
+  "en": "Entry 1"
+ },
+ {
+  "k": "98",
+  "tipo": "texto do diario",
+  "en": "Hey James! It's Jess!\n\nI made it out of Carceburg fine. Took the path we agreed on. I'll be leaving these notes behind so you can follow after me when it's your turn to escape!\n\nI hope you'll find this. See you soon.\nJess."
+ },
+ {
+  "k": "99",
+  "cena": "Entry 2",
+  "tipo": "titulo do diario",
+  "en": "Entry 2"
+ },
+ {
+  "k": "100",
+  "tipo": "texto do diario",
+  "en": "Hey again, James! At least, I hope it's you reading these.\n\nTurns out I ran into a bit of a mishap. Some thorns tore up all my clothes. I'm about to head back through since this place is a bit of a deadend. I hope your clothes are alright if you came this way.\n\nGonna try and stay warm, but I bet you'd be enjoying the sight of me in these torn clothes right about now. :)\n\nI miss you.\nJess."
+ },
+ {
+  "k": "101",
+  "cena": "Entry 3",
+  "tipo": "titulo do diario",
+  "en": "Entry 3"
+ },
+ {
+  "k": "102",
+  "tipo": "texto do diario",
+  "en": "Something doesn't feel right..."
+ },
+ {
+  "k": "103",
+  "cena": "Entry 4",
+  "tipo": "titulo do diario",
+  "en": "Entry 4"
+ },
+ {
+  "k": "104",
+  "tipo": "texto do diario",
+  "en": "James, I'm a little worried.\n\nEver since my clothes got torn in the thorns back there, I feel like something's been watching me. Whenever I turn, there's nothing there, but I just can't shake the feeling.\n\nI hope you come soon...\nJess."
+ },
+ {
+  "k": "105",
+  "cena": "Entry 5",
+  "tipo": "titulo do diario",
+  "en": "Entry 5"
+ },
+ {
+  "k": "106",
+  "tipo": "texto do diario",
+  "en": "I'm gonna spend the night in this house, James.\n\nIt seems like a good spot to rest, and I really need rest. Looks like it was built here before the whole crisis happened, but now it's abandoned. I keep thinking something's following me, but this place should keep me safe.\n\nI can't wait until we can be in a place like this together, although I'd probably prefer a place with a little less holes in it.\n\nLove, Jess."
+ },
+ {
+  "k": "107",
+  "cena": "Entry 6",
+  "tipo": "titulo do diario",
+  "en": "Entry 6"
+ },
+ {
+  "k": "108",
+  "tipo": "texto do diario",
+  "en": "It's not safe here, James. Get out!! I can hear it trying to break in.\n\nI love you so mu"
+ },
+ {
+  "k": "109",
+  "cena": "Crumpled Note",
+  "tipo": "titulo do diario",
+  "en": "Crumpled Note"
+ },
+ {
+  "k": "110",
+  "tipo": "texto do diario",
+  "en": "dfefg hlaehm mgeomga agoergm poeag vefgy"
+ },
+ {
+  "k": "111",
+  "cena": "Vibrosuit",
+  "tipo": "titulo do diario",
+  "en": "Vibrosuit"
+ },
+ {
+  "k": "112",
+  "tipo": "texto do diario",
+  "en": "Created by HQ for use in tandem with Jenna's vibration-based abilities. The vibrosuit allows Jenna to channel her body's vibrations into near instant dashes in any given direction. \n\nAlong with its use in battle, the vibrosuit also keeps her vibrations in check, keeping her molecules from moving too quickly. This prevents what are called chronal vibrations from taking hold of her, when her molecules vibrate so fast that time starts to warp for her and she pops in and out of different places and times until the vibrations stop.\n\nThe vibrosuit is made of a skintight, flexable, mechanical material that allows her to stay lightweight and move freely."
+ },
+ {
+  "k": "113",
+  "cena": "Entry ???",
+  "tipo": "titulo do diario",
+  "en": "Entry ???"
+ },
+ {
+  "k": "114",
+  "tipo": "texto do diario",
+  "en": "They lied to us, our “backup” came here to cover it all up. The new agent is burning everything in her path. I don't have much time before she finds me.\r\n"
+ },
+ {
+  "k": "115",
+  "cena": "Entry 02",
+  "tipo": "titulo do diario",
+  "en": "Entry 02"
+ },
+ {
+  "k": "116",
+  "tipo": "texto do diario",
+  "en": "Due to the powers it possesses we may be able to use the test subject as an organic transmitter of crush waves. \n\nMy team and I will start researching its plant power and how they behave to the waves.\r\n"
+ },
+ {
+  "k": "117",
+  "cena": "Entry 03",
+  "tipo": "titulo do diario",
+  "en": "Entry 03"
+ },
+ {
+  "k": "118",
+  "tipo": "texto do diario",
+  "en": "Our team now begins Project: Flytrap\r\nThe subject is under heavy tranquilizers to keep it under control. Some of our guards got hurt after it tried to escape. \r\n\r\nWe begin using light crush waves on it to watch how it responds.\r\n"
+ },
+ {
+  "k": "119",
+  "cena": "Entry 05",
+  "tipo": "titulo do diario",
+  "en": "Entry 05"
+ },
+ {
+  "k": "120",
+  "tipo": "texto do diario",
+  "en": "The test subject shows the first signs that the crush waves take effect on it. \r\n\r\nIts powers make the test subject resist the crush waves like no other individual we tested it on.\r\n"
+ },
+ {
+  "k": "121",
+  "cena": "Entry 07",
+  "tipo": "titulo do diario",
+  "en": "Entry 07"
+ },
+ {
+  "k": "122",
+  "tipo": "texto do diario",
+  "en": "The results we made are remarkable apart from having the test subject absolutely under control now. My team also examine the powers of it amplify due to the waves.\r\n\r\nDr. Welps believes we should raise the intensity of the waves drastically, but I think we should slowly increase it, due to the talent the subject holds. \r\n"
+ },
+ {
+  "k": "123",
+  "cena": "Entry 12",
+  "tipo": "titulo do diario",
+  "en": "Entry 12"
+ },
+ {
+  "k": "124",
+  "tipo": "texto do diario",
+  "en": "I could stop Dr. Welps for now. Our progress is only slowly advancing nevertheless it's safer this way. \r\n\r\nWe don't understand the full extent of its powers yet, due to the crush waves.\r\n"
+ },
+ {
+  "k": "125",
+  "cena": "Entry 15",
+  "tipo": "titulo do diario",
+  "en": "Entry 15"
+ },
+ {
+  "k": "126",
+  "tipo": "texto do diario",
+  "en": "The subject has lost all of its former memories. \r\n\r\nIts behavior changed drastically. We now begin to use male test subjects without contact to see how it responds to them and how they get affected. \r\n"
+ },
+ {
+  "k": "127",
+  "cena": "Entry 19",
+  "tipo": "titulo do diario",
+  "en": "Entry 19"
+ },
+ {
+  "k": "128",
+  "tipo": "texto do diario",
+  "en": "We gave the test subject the nickname \"Psychotria Viridis\". \r\n\r\nThe male test subjects we used are complaining about hearing a voice inside their heads after spending around 1 to 2 hours inside the same room with it. Against our predictions, the test subject behavior was somewhat inactive. \r\n"
+ }
+]

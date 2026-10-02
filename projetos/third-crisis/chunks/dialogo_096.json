@@ -1,0 +1,739 @@
+[
+ {
+  "k": "1",
+  "cena": "ResistanceIntro_Mines_Intro_1",
+  "quem": "Jewel (F)",
+  "en": "Jenna! Phew! We've been looking for you!"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Jewel! Throb!"
+ },
+ {
+  "k": "3",
+  "quem": "Arnold (M)",
+  "en": "What the shit?! You're friends with a guard!?"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Relaaaaax. He's not like the other guards."
+ },
+ {
+  "k": "5",
+  "quem": "Jewel (F)",
+  "en": "Yeah. He fucks much better than the rest of them. Plus he's shy."
+ },
+ {
+  "k": "6",
+  "quem": "Jewel (F)",
+  "en": "See?"
+ },
+ {
+  "k": "7",
+  "quem": "Arnold (M)",
+  "en": "I... think so. Are you sure about this...?"
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "Of course! He's my friend."
+ },
+ {
+  "k": "9",
+  "quem": "Arnold (M)",
+  "en": "Hmm... Alright then... any friend of Vibe is a friend of ours."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "It's Jenna!"
+ },
+ {
+  "k": "11",
+  "quem": "Throb (M)",
+  "en": "Heh... Nice to meet you, Mr...?"
+ },
+ {
+  "k": "12",
+  "quem": "Arnold (M)",
+  "en": "Arnold! Call me Arnold! I'm still thinking up a cool codename. Everyone has one, but I still can't decide on one! Throb is a cool codename, dude!"
+ },
+ {
+  "k": "13",
+  "quem": "Throb (M)",
+  "en": "Thanks..."
+ },
+ {
+  "k": "14",
+  "quem": "Arnold (M)",
+  "en": "Nice to meet you too, Ms...?"
+ },
+ {
+  "k": "15",
+  "quem": "Jewel (F)",
+  "en": "Name's Jewel, stud."
+ },
+ {
+  "k": "16",
+  "quem": "Arnold (M)",
+  "en": "Well it's nice to meet you, Ms. Jewel."
+ },
+ {
+  "k": "17",
+  "quem": "Jewel (F)",
+  "en": "Such a gentleman! I like this one, blue~"
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "Alright, we should probably head out now. Stick close, guys. Try not to get scared."
+ },
+ {
+  "k": "19",
+  "quem": "Throb (M)",
+  "en": "... I'll do my best..."
+ },
+ {
+  "k": "20",
+  "cena": "ResistanceIntro_PyraScene_0",
+  "quem": "Guard (M)",
+  "en": "Mistress Leath..."
+ },
+ {
+  "k": "21",
+  "quem": "Leath (F)",
+  "en": "Speak."
+ },
+ {
+  "k": "22",
+  "quem": "Guard (M)",
+  "en": "It's... It's about Carceburg, mistress. Commander Wildfire has been reported missing... Her escort says that she was kidnapped."
+ },
+ {
+  "k": "23",
+  "quem": "Leath (F)",
+  "en": "Kidnapped? Those cretins in Carceburg wouldn't be able to simply kidnap a commander like Wildfire... Unless..."
+ },
+ {
+  "k": "24",
+  "quem": "Guard (M)",
+  "en": "Mistress?"
+ },
+ {
+  "k": "25",
+  "quem": "Leath (F)",
+  "en": "Quiet. Fetch me Commander Pyra."
+ },
+ {
+  "k": "26",
+  "quem": "Guard (M)",
+  "en": "I- Yes, mistress!"
+ },
+ {
+  "k": "27",
+  "cena": "ResistanceIntro_PyraScene_1",
+  "quem": "Leath (F)",
+  "en": "Jenna Wright... Hm... How intriguing."
+ },
+ {
+  "k": "28",
+  "quem": "Pyra (F)",
+  "en": "You called, mistress?"
+ },
+ {
+  "k": "29",
+  "quem": "Leath (F)",
+  "en": "Go to Carceburg. Use your powers to investigate Wildfire's disappearance."
+ },
+ {
+  "k": "30",
+  "quem": "Pyra (F)",
+  "en": "Mmm... Consider the little flame found. I'll be on my way."
+ },
+ {
+  "k": "31",
+  "quem": "Leath (F)",
+  "en": "Be warned. There may be an old AIRSHIP hero in the town."
+ },
+ {
+  "k": "32",
+  "quem": "Pyra (F)",
+  "en": "Huh? I thought we got 'em all? Who is it?"
+ },
+ {
+  "k": "33",
+  "quem": "Leath (F)",
+  "en": "Vibe."
+ },
+ {
+  "k": "34",
+  "quem": "Pyra (F)",
+  "en": "Oohh... I've always wanted to try her powers out for myself. This'll be exciting~"
+ },
+ {
+  "k": "35",
+  "quem": "Leath (F)",
+  "en": "That's all. Get to work."
+ },
+ {
+  "k": "36",
+  "quem": "Pyra (F)",
+  "en": "Yes mistress~"
+ },
+ {
+  "k": "37",
+  "cena": "Resistnace_Arnold_Sophie_QuestReward",
+  "quem": "Sofie (F)",
+  "en": "Sooo, about that training offer. Think you can handle me?"
+ },
+ {
+  "k": "38",
+  "quem": "Arnold (M)",
+  "en": "Now that I have everything I need, of course!"
+ },
+ {
+  "k": "39",
+  "quem": "Sofie (F)",
+  "en": "Why don't ya start by lifting me?~"
+ },
+ {
+  "k": "40",
+  "quem": "Arnold (M)",
+  "en": "Like this?"
+ },
+ {
+  "k": "41",
+  "quem": "Sofie (F)",
+  "en": "Uwaahh!"
+ },
+ {
+  "k": "42",
+  "quem": "Arnold (M)",
+  "en": "Let's get started."
+ },
+ {
+  "k": "43",
+  "quem": "Sofie (F)",
+  "en": "Guhhh.."
+ },
+ {
+  "k": "44",
+  "quem": "Arnold (M)",
+  "en": "Make sure not to overstretch your legs."
+ },
+ {
+  "k": "45",
+  "quem": "Sofie (F)",
+  "en": "Y-yeah, okay!"
+ },
+ {
+  "k": "46",
+  "quem": "Arnold (M)",
+  "en": "Very good. Mind your breathing!"
+ },
+ {
+  "k": "47",
+  "quem": "Sofie (F)",
+  "en": "Hh-.. Hh.. Hh"
+ },
+ {
+  "k": "48",
+  "quem": "Arnold (M)",
+  "en": "Just like that!"
+ },
+ {
+  "k": "49",
+  "quem": "Sofie (F)",
+  "en": "Mnghh-..."
+ },
+ {
+  "k": "50",
+  "quem": "Arnold (M)",
+  "en": "Stay focussed!"
+ },
+ {
+  "k": "51",
+  "quem": "Sofie (F)",
+  "en": "I'm-.. focussed-..!"
+ },
+ {
+  "k": "52",
+  "quem": "Arnold (M)",
+  "en": "Your muscles are tensing."
+ },
+ {
+  "k": "53",
+  "quem": "Arnold (M)",
+  "en": "Y-.. yess."
+ },
+ {
+  "k": "54",
+  "quem": "Arnold (M)",
+  "en": "You're doing good, we're almost at the end of the exercise."
+ },
+ {
+  "k": "55",
+  "quem": "Sofie (F)",
+  "en": "M-.. Mhmm-.. The end..?"
+ },
+ {
+  "k": "56",
+  "quem": "Arnold (M)",
+  "en": "That's right, just a little longer!"
+ },
+ {
+  "k": "57",
+  "quem": "Sofie (F)",
+  "en": "Ghhh...!"
+ },
+ {
+  "k": "58",
+  "quem": "Arnold (M)",
+  "en": "Ahhh... What a nice routine."
+ },
+ {
+  "k": "59",
+  "quem": "Sofie (F)",
+  "en": "Hahh.. Yes..."
+ },
+ {
+  "k": "60",
+  "quem": "Arnold (M)",
+  "en": "Make sure to relax after training."
+ },
+ {
+  "k": "61",
+  "quem": "Sofie (F)",
+  "en": "M-.. Mhhh..."
+ },
+ {
+  "k": "62",
+  "cena": "ResourceTest_Dialogue_1",
+  "en": "Okay."
+ },
+ {
+  "k": "63",
+  "cena": "ResourceTest_Dialogue_2",
+  "en": "Okay."
+ },
+ {
+  "k": "64",
+  "cena": "ResourceTest_Dialogue_3",
+  "en": "Okay."
+ },
+ {
+  "k": "65",
+  "cena": "Respons to No 1",
+  "quem": "Rida (F)",
+  "en": "Rida is here if need help."
+ },
+ {
+  "k": "66",
+  "cena": "Return to Base 1",
+  "en": "resistance 4 talking to all party members except jewel"
+ },
+ {
+  "k": "67",
+  "en": "How do ya like that, you actually pulled it off."
+ },
+ {
+  "k": "68",
+  "en": "That's our Jenna! You did the impossible!"
+ },
+ {
+  "k": "69",
+  "en": "I must confess, I had no hopes that something like this would happen. I was honestly expecting you two just give up after further assessing the situation."
+ },
+ {
+  "k": "70",
+  "en": "However, it seems that I was wrong in my own assessment, and some congratulations are definitely in order."
+ },
+ {
+  "k": "71",
+  "en": "We weren't about to leave the people of Carceburg behind! "
+ },
+ {
+  "k": "72",
+  "en": "We've scored a victory, that's for sure, but we'll have to consider our next move from here rather carefully."
+ },
+ {
+  "k": "73",
+  "en": "We were already on their radar, now they'll be hunting us with everything they've got."
+ },
+ {
+  "k": "74",
+  "en": "And I suppose you still intend to somehow fight an all out war with them, don't you?"
+ },
+ {
+  "k": "75",
+  "en": "It's a difficult prospect, but we can't stay in the shadows forever. "
+ },
+ {
+  "k": "76",
+  "en": "E-E-Even with these new recruits to bolster our ranks however...w-w-we still don't have enough people to stand up to them! Nowhere near!"
+ },
+ {
+  "k": "77",
+  "en": "Unfortunately, that observation is rather true. Though we'll have a much easier job surviving like this, we're still completely outnumbered."
+ },
+ {
+  "k": "78",
+  "en": "But we gotta fight! We gotta do something!"
+ },
+ {
+  "k": "79",
+  "en": "Normally I would call such a concept an impossibility, but you've surpassed things I thought possible many times in the past."
+ },
+ {
+  "k": "80",
+  "en": "If you want to take the fight to them, I'm more than happy to oblige, but we're going to have to make some more preparations first."
+ },
+ {
+  "k": "81",
+  "en": "Yeah, I can get behind that."
+ },
+ {
+  "k": "82",
+  "en": "Agreed, we're probably better off developing some kid of new weapon before we can fight, or properly training our recruits."
+ },
+ {
+  "k": "83",
+  "en": "We'll begin work on all those things, but in the meantime, I have a new mission for you. A set of missions, actually. Success there will be crucial to our future endeavours."
+ },
+ {
+  "k": "84",
+  "en": "I guess we've got no choice but to succeed then!"
+ },
+ {
+  "k": "85",
+  "en": "This is not going to be a walk in the park, but if one group of people can do it, it's you guys."
+ },
+ {
+  "k": "86",
+  "en": "We need you to recruit more people. If the Carcens could be convinced to rise up like this under Martial Law, then there's probably many areas with a more lax presence we can get to rebel alongside us."
+ },
+ {
+  "k": "87",
+  "en": "Your task will be to recruit the people and bring them back to the base. We'll handle all the training and equipment tasks. "
+ },
+ {
+  "k": "88",
+  "en": "Think of all the people out there who have an itch to scratch, the Forest Fiends, the Lumber Rats...there could be even more people than that! Anyone who would want to fight against our enemy, unite them under our banner."
+ },
+ {
+  "k": "89",
+  "en": "That is your new mission."
+ },
+ {
+  "k": "90",
+  "en": "If Jewel was here, I'd imagine she'd be saying something like: 'Wooooooohoooooooo! We're gonna do more dance shows!'"
+ },
+ {
+  "k": "91",
+  "en": "And Armor Man say then 'Stop being horny always, Jewel!'"
+ },
+ {
+  "k": "92",
+  "en": "Well, someone's gonna have to break it to her that we can't just seduce all our future allies."
+ },
+ {
+  "k": "93",
+  "en": "We accept the mission. I'm sure Jewel will accept as well when we tell her about this."
+ },
+ {
+  "k": "94",
+  "en": "I'm glad to hear it. This will be a very difficult task, I'm sure no one but you can handle it. Speaking of your other ally, where is she now?"
+ },
+ {
+  "k": "95",
+  "en": "Oh, she's just holding up her end of the bargain to all our new recruits! And trust me, she drives a <i>hard bargain</i>."
+ },
+ {
+  "k": "96",
+  "en": "players given an option to watch jewel's gangbang "
+ },
+ {
+  "k": "97",
+  "cena": "return to carceburg 1",
+  "en": "players pop back up somewhere in the motel. I'm thinking in the underground."
+ },
+ {
+  "k": "98",
+  "en": "Here we are, home sweet home."
+ },
+ {
+  "k": "99",
+  "en": "Is there anything we need to keep an eye out for when we go outside?"
+ },
+ {
+  "k": "100",
+  "en": "Absolutely. The place is crawling with guards now."
+ },
+ {
+  "k": "101",
+  "en": "Imagine that there's guards outside as if it were curfew during the daytime. I don't know what they're gonna be doing with the 'law abiding citizens', but rest assured you'll be arrested on sight if spotted."
+ },
+ {
+  "k": "102",
+  "en": "Oof."
+ },
+ {
+  "k": "103",
+  "en": "But, I didn't choose any random time to bring you over here. Apparently there's going to be a very important event occuring. We were all <i>ordered</i> to be outside to observe it."
+ },
+ {
+  "k": "104",
+  "en": "Whatever it ends up being, it's gonna be massive. There's already a crowd gathered outside. I'm gonna be standing outside the Motel to 'do my part' and observe as a law abiding citizen."
+ },
+ {
+  "k": "105",
+  "en": "You all watch from the windows, and if guards try to come in for WHATEVER reason, I'll do my best to delay the entry. In the meantime, you all hide under the counter."
+ },
+ {
+  "k": "106",
+  "en": "How we all fit under counter?"
+ },
+ {
+  "k": "107",
+  "en": "Some of you can use Jenna's room, but I want Jenna to hide under the counter so she can hear what the guards are saying."
+ },
+ {
+  "k": "108",
+  "en": "And why do you want me to be in close proximity to the guards so much?"
+ },
+ {
+  "k": "109",
+  "en": "Because you'll likely be interested in what they have to say. I'd be more than happy to relay it for you, but it's clear you don't quite trust me yet. But you all definitely trust Jenna."
+ },
+ {
+  "k": "110",
+  "en": "<i>(Damn...he's got a point...)</i>"
+ },
+ {
+  "k": "111",
+  "en": "Attention citizens of Carceburg! Report outside your homes and establishments immediately! This is your last chance. Anyone found disobeying this order will be held accountable by the law!"
+ },
+ {
+  "k": "112",
+  "en": "Well, that's my cue. I've done as much as I could to help you. Now it's up to you to gather as much information as you can for your resistance friends."
+ },
+ {
+  "k": "113",
+  "en": "fade to black"
+ },
+ {
+  "k": "114",
+  "cena": "return to carceburg 2",
+  "en": "black"
+ },
+ {
+  "k": "115",
+  "en": "<i>(Klaus took his leave and locked the door behind him. In the meantime, we all pressed ourselves to the windows to get a look at whatever this 'special event' that everyone was supposed to observe was.)</i>"
+ },
+ {
+  "k": "116",
+  "en": "I..Is something like this really happening?!"
+ },
+ {
+  "k": "117",
+  "cena": "return to carceburg 3",
+  "en": "fade in to loop of peitho parade. carcens are lined on either side loosely while neat, organized (undending) hordes of soldiers march through the city. Wildfire is on a podium giving a speech. "
+ },
+ {
+  "k": "118",
+  "en": "<i>(Marching throughout the city was a seemingly unending horde of Peitho soldiers. Propped up on a podium for all to see was the new impromptu ruler of the city...)</i>"
+ },
+ {
+  "k": "119",
+  "en": "<i>(Karen...)</i>"
+ },
+ {
+  "k": "120",
+  "en": "Attention you fucking miserable insects! "
+ },
+ {
+  "k": "121",
+  "en": "We have good reason to suspect that your city has become a hotbed for rebel activity! As such, effective immediately, the city is placed under martial fucking law!"
+ },
+ {
+  "k": "122",
+  "en": "My name is Commander Wildfire, and I am now in charge of this town. Piss me off, I'll burn you to a fucking crisp in a heartbeat."
+ },
+ {
+  "k": "123",
+  "en": "Act suspicious, disobey the law in my presence, voice support for the resistance, hell, if you as much as look at me the wrong way, I'll fucking torch you all the same!"
+ },
+ {
+  "k": "124",
+  "en": "The soldiers you see marching through the city right now are but a fraction of the unstoppable fighting strength we have at our disposal! "
+ },
+ {
+  "k": "125",
+  "en": "As such, I hope you're all fucking smart enough to realize resistance is futile. From this very fucking moment onwards, we will be relentlessly searching every inch of this town for rebels and rebel activity."
+ },
+ {
+  "k": "126",
+  "en": "If you see anything suspicious, it's your job to report it IMMEDIATELY! You will be rewarded for your cooperation. Mainly in the sense that if you're reporting it at my HQ, you'll be out of the fucking blast radius when I blow them up!"
+ },
+ {
+  "k": "127",
+  "en": "We have no interest in minimizing collateral damage, and we certainly don't give a shit about your wellbeing. Our only mission is the complete and utter fucking annhilation of the resistance movement."
+ },
+ {
+  "k": "128",
+  "en": "The sooner you help us achieve that goal, the sooner we'll leave you alone."
+ },
+ {
+  "k": "129",
+  "en": "Till then, you're gonna have to live with us on top of you, and that sure as hell won't change. If we want, we could just torch the entire town, so be fucking grateful we're even showing you this mercy!"
+ },
+ {
+  "k": "130",
+  "en": "See to it that you get a good idea of who your neighbour is, and that they don't work with the resistance! If they do, you know what to fucking do!"
+ },
+ {
+  "k": "131",
+  "en": "That will be fucking all! I will not be taking any fucking questions!"
+ },
+ {
+  "k": "132",
+  "en": "Hey! You can't just walk in here and do whatever you want!"
+ },
+ {
+  "k": "133",
+  "en": "Yeah, we didn't do anything wrong! We got nothing to do with no resistance!"
+ },
+ {
+  "k": "134",
+  "en": "What's the meaning of this! Uncalled for! We always did what was asked of us, we don't deserve this treatment!"
+ },
+ {
+  "k": "135",
+  "en": "Go after the resistance if you have a problem with us! Leave us alone!"
+ },
+ {
+  "k": "136",
+  "en": "GUARDS! ROUND UP EVERY SINGLE FUCKING ONE OF THOSE CRETINS THAT JUST SPOKE OUT! ROUND THEM UP AND TOSS THEM IN PRISON FOR INTERROGATION!"
+ },
+ {
+  "k": "137",
+  "en": "FUCKING REBEL SYMPATHIZERS! ALL OF THEM! EVERY SINGLE FUCKING ONE! I WANT THEM IN PRISON RIGHT FUCKING NOW BEFORE I BURN THIS TOWN TO ASH!"
+ },
+ {
+  "k": "138",
+  "en": "fade to black"
+ },
+ {
+  "k": "139",
+  "cena": "return to carceburg 4",
+  "en": "black"
+ },
+ {
+  "k": "140",
+  "en": "<i>(Whatever Karen was planning, it was bad news and it wasn't gonna end well either. Not for the people of Carceburg, and not for her either...)</i>"
+ },
+ {
+  "k": "141",
+  "en": "<i>(I just hoped that I would have what it took to stop her. )</i>"
+ },
+ {
+  "k": "142",
+  "en": "fade in to next scene"
+ },
+ {
+  "k": "143",
+  "cena": "return to carceburg 5",
+  "en": "back inside the motel, jenna and the gang are at the widnows looking outside."
+ },
+ {
+  "k": "144",
+  "en": "<i>(She wasn't joking..all those soldiers just let loose into the crowd, attacking whoever they want...)</i>"
+ },
+ {
+  "k": "145",
+  "en": "Damn..."
+ },
+ {
+  "k": "146",
+  "en": "Whatever this woman means to you, Jenna, we have to stop her by any means necessary. She's insane. She's gonna destroy Carceburg."
+ },
+ {
+  "k": "147",
+  "en": "<i>(I can't blame them for feeling like this...this is their city. Karen's just a crazy bitch for all they know, given everything they've seen...)</i>"
+ },
+ {
+  "k": "148",
+  "en": "<i>(Maybe...maybe that's all that's left of her...)</i>"
+ },
+ {
+  "k": "149",
+  "en": "<i>(Before I can continue that dark chain of thought, I hear that familiar voice at the door.)</i>"
+ },
+ {
+  "k": "150",
+  "en": "Klaus, was it?"
+ },
+ {
+  "k": "151",
+  "en": "Yes, ma'am. How may I be of service to you, Commander Wildfire?"
+ },
+ {
+  "k": "152",
+  "en": "<i>(Sly one, as always. Still...we had more pressing matters at hand.)</i>"
+ },
+ {
+  "k": "153",
+  "en": "Everyone! Hide just in case they come in! Quick!"
+ },
+ {
+  "k": "154",
+  "en": "fade to black"
+ },
+ {
+  "k": "155",
+  "cena": "return to carceburg 6",
+  "en": "black"
+ },
+ {
+  "k": "156",
+  "en": "<i>(We all scrambled to our designated hiding spots while Klaus pulled up excuse after excuse to give us time.)</i>"
+ },
+ {
+  "k": "157",
+  "en": "Huh? This isn't the right key either? I always have a little time opening the door, hehe. Happens when all your keys look alike."
+ },
+ {
+  "k": "158",
+  "en": "Huh? Your keys look nothing like one another! What the hell is that supposed to mean?!"
+ },
+ {
+  "k": "159",
+  "en": "Once you spend so much time with them ma'am, I assure you they start to blend into one another. Either that or I need some new glasses!"
+ },
+ {
+  "k": "160",
+  "en": "Why the hell would you even look the door when you're right outside your own motel? It's not like anyone could've snuck in while you weren't looking. You were right in front of the damn thing!"
+ },
+ {
+  "k": "161",
+  "en": "Ah, just a nonsense old habit. Nothing more to it that that. Just so used to locking on my way out that I do it by reflex action."
+ },
+ {
+  "k": "162",
+  "en": "click clack sound"
+ },
+ {
+  "k": "163",
+  "en": "Alright, there we go. Apologies for the wait, Commander. Please, step right in and make yourself at home."
+ },
+ {
+  "k": "164",
+  "en": "Hmmm...my thanks, Klaus..."
+ },
+ {
+  "k": "165",
+  "en": "fade in to next scene"
+ }
+]

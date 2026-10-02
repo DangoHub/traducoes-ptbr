@@ -1,0 +1,21 @@
+{
+ "nome": "Third Crisis",
+ "pasta_steam": "Third Crisis",
+ "steam_appid": 1260820,
+ "steam_build": "18412641",
+ "versao": "0.1",
+ "adulto": true,
+ "engine": "unity_antoolkit",
+ "pasta_dados": "ThirdCrisis_Data",
+ "modelo": "translated_es_translation.json",
+ "nome_idioma": "Português (Brasil)",
+ "aviso_pos_instalacao": "Depois de instalar, abra o jogo e escolha \"Custom Português (Brasil)\" em Settings > Game > Language.",
+ "lote_max_chars": 12000,
+ "nao_traduzir": ["New Text", "Option A", "Option B", "Option C", "CategoryName (0/10)"],
+ "validacao": {
+  "tags": ["</?[A-Za-z]+(?:=[^<>]*)?>", "\\{[^{}]*\\}", "#\\w+#"],
+  "quebras_de_linha": true,
+  "codificacao": "utf-8",
+  "escolha_max_proporcao": 1.6
+ }
+}

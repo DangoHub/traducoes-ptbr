@@ -1,0 +1,403 @@
+[
+ {
+  "k": "1",
+  "cena": "(Attack) Knockback",
+  "tipo": "nome de habilidade",
+  "en": "(Attack) Knockback"
+ },
+ {
+  "k": "2",
+  "tipo": "descricao de habilidade",
+  "en": "Causes every basic attack to knock the target back."
+ },
+ {
+  "k": "3",
+  "cena": "(Attack) Enraged Attack",
+  "tipo": "nome de habilidade",
+  "en": "(Attack) Enraged Attack"
+ },
+ {
+  "k": "4",
+  "tipo": "descricao de habilidade",
+  "en": "Deals bonus damage from damage received since last round."
+ },
+ {
+  "k": "5",
+  "cena": "(Attack) Stun Spear",
+  "tipo": "nome de habilidade",
+  "en": "(Attack) Stun Spear"
+ },
+ {
+  "k": "6",
+  "tipo": "descricao de habilidade",
+  "en": "Every fourth attack or Spear Throw will stun the target."
+ },
+ {
+  "k": "7",
+  "cena": "Akimbo",
+  "tipo": "nome de habilidade",
+  "en": "Akimbo"
+ },
+ {
+  "k": "8",
+  "tipo": "descricao de habilidade",
+  "en": "Allows the user to attack twice per turn instead of once."
+ },
+ {
+  "k": "9",
+  "cena": "Energetic",
+  "tipo": "nome de habilidade",
+  "en": "Energetic"
+ },
+ {
+  "k": "10",
+  "tipo": "descricao de habilidade",
+  "en": "Allows the user to make an extra action per turn."
+ },
+ {
+  "k": "11",
+  "cena": "Immunity",
+  "tipo": "nome de habilidade",
+  "en": "Immunity"
+ },
+ {
+  "k": "12",
+  "tipo": "descricao de habilidade",
+  "en": "Immune to all damage."
+ },
+ {
+  "k": "13",
+  "cena": "Immunity: Knockback",
+  "tipo": "nome de habilidade",
+  "en": "Immunity: Knockback"
+ },
+ {
+  "k": "14",
+  "tipo": "descricao de habilidade",
+  "en": "Cannot be knocked back."
+ },
+ {
+  "k": "15",
+  "cena": "Quick-Footed",
+  "tipo": "nome de habilidade",
+  "en": "Quick-Footed"
+ },
+ {
+  "k": "16",
+  "tipo": "descricao de habilidade",
+  "en": "Allows the user to move two extra tiles per turn."
+ },
+ {
+  "k": "17",
+  "cena": "Weakness: Burn",
+  "tipo": "nome de habilidade",
+  "en": "Weakness: Burn"
+ },
+ {
+  "k": "18",
+  "tipo": "descricao de habilidade",
+  "en": "Immune to all damage except burn."
+ },
+ {
+  "k": "19",
+  "cena": "Weakness: Crush Waves",
+  "tipo": "nome de habilidade",
+  "en": "Weakness: Crush Waves"
+ },
+ {
+  "k": "20",
+  "tipo": "descricao de habilidade",
+  "en": "Immune to everything except Crush Waves."
+ },
+ {
+  "k": "21",
+  "cena": "Nomes de lugares",
+  "tipo": "nome de lugar",
+  "en": "Forest Outskirts"
+ },
+ {
+  "k": "22",
+  "tipo": "nome de lugar",
+  "en": "Grumpy Man's House"
+ },
+ {
+  "k": "23",
+  "tipo": "nome de lugar",
+  "en": "Inner Forest"
+ },
+ {
+  "k": "24",
+  "tipo": "nome de lugar",
+  "en": "Ruined House"
+ },
+ {
+  "k": "25",
+  "tipo": "nome de lugar",
+  "en": "Peitho Stronghold"
+ },
+ {
+  "k": "26",
+  "tipo": "nome de lugar",
+  "en": "Peitho Stronghold"
+ },
+ {
+  "k": "27",
+  "tipo": "nome de lugar",
+  "en": "Stronghold Ruins"
+ },
+ {
+  "k": "28",
+  "tipo": "nome de lugar",
+  "en": "Ruined House"
+ },
+ {
+  "k": "29",
+  "tipo": "nome de lugar",
+  "en": "Inner Forest"
+ },
+ {
+  "k": "30",
+  "tipo": "nome de lugar",
+  "en": "Carceburg"
+ },
+ {
+  "k": "31",
+  "tipo": "nome de lugar",
+  "en": "Motel"
+ },
+ {
+  "k": "32",
+  "tipo": "nome de lugar",
+  "en": "ComradeTown"
+ },
+ {
+  "k": "33",
+  "tipo": "nome de lugar",
+  "en": "House"
+ },
+ {
+  "k": "34",
+  "tipo": "nome de lugar",
+  "en": "House"
+ },
+ {
+  "k": "35",
+  "tipo": "nome de lugar",
+  "en": "House"
+ },
+ {
+  "k": "36",
+  "tipo": "nome de lugar",
+  "en": "Townhall"
+ },
+ {
+  "k": "37",
+  "tipo": "nome de lugar",
+  "en": "Bar"
+ },
+ {
+  "k": "38",
+  "tipo": "nome de lugar",
+  "en": "Prison"
+ },
+ {
+  "k": "39",
+  "tipo": "nome de lugar",
+  "en": "House"
+ },
+ {
+  "k": "40",
+  "tipo": "nome de lugar",
+  "en": "House"
+ },
+ {
+  "k": "41",
+  "tipo": "nome de lugar",
+  "en": "Bar Toilets"
+ },
+ {
+  "k": "42",
+  "tipo": "nome de lugar",
+  "en": "Storehouse"
+ },
+ {
+  "k": "43",
+  "tipo": "nome de lugar",
+  "en": "Motel Showers"
+ },
+ {
+  "k": "44",
+  "tipo": "nome de lugar",
+  "en": "Abandoned House"
+ },
+ {
+  "k": "45",
+  "tipo": "nome de lugar",
+  "en": "VR Center"
+ },
+ {
+  "k": "46",
+  "tipo": "nome de lugar",
+  "en": "Horizon"
+ },
+ {
+  "k": "47",
+  "tipo": "nome de lugar",
+  "en": "Gear Store"
+ },
+ {
+  "k": "48",
+  "tipo": "nome de lugar",
+  "en": "Slums"
+ },
+ {
+  "k": "49",
+  "tipo": "nome de lugar",
+  "en": "Gallery"
+ },
+ {
+  "k": "50",
+  "tipo": "nome de lugar",
+  "en": "Crossroads"
+ },
+ {
+  "k": "51",
+  "tipo": "nome de lugar",
+  "en": "The Hub"
+ },
+ {
+  "k": "52",
+  "tipo": "nome de lugar",
+  "en": "Prison Tent"
+ },
+ {
+  "k": "53",
+  "tipo": "nome de lugar",
+  "en": "HQ's Tent"
+ },
+ {
+  "k": "54",
+  "tipo": "nome de lugar",
+  "en": "Rida's Tent"
+ },
+ {
+  "k": "55",
+  "tipo": "nome de lugar",
+  "en": "SubLevel One"
+ },
+ {
+  "k": "56",
+  "tipo": "nome de lugar",
+  "en": "SubLevel Two"
+ },
+ {
+  "k": "57",
+  "tipo": "nome de lugar",
+  "en": "Rehab Tent 1A"
+ },
+ {
+  "k": "58",
+  "tipo": "nome de lugar",
+  "en": "Rehab Tent 1B"
+ },
+ {
+  "k": "59",
+  "tipo": "nome de lugar",
+  "en": "Rehab Tent 1C"
+ },
+ {
+  "k": "60",
+  "tipo": "nome de lugar",
+  "en": "Rehab Tent 1D"
+ },
+ {
+  "k": "61",
+  "tipo": "nome de lugar",
+  "en": "Motel Upper Floor"
+ },
+ {
+  "k": "62",
+  "tipo": "nome de lugar",
+  "en": "Chef's Tent"
+ },
+ {
+  "k": "63",
+  "tipo": "nome de lugar",
+  "en": "Carcen Tunnels"
+ },
+ {
+  "k": "64",
+  "tipo": "nome de lugar",
+  "en": "Peitho Training Base"
+ },
+ {
+  "k": "65",
+  "tipo": "nome de lugar",
+  "en": "Carcen Mines"
+ },
+ {
+  "k": "66",
+  "tipo": "nome de lugar",
+  "en": "Hidden Base"
+ },
+ {
+  "k": "67",
+  "tipo": "nome de lugar",
+  "en": "Dealer's Den"
+ },
+ {
+  "k": "68",
+  "tipo": "nome de lugar",
+  "en": "Rat Hideout"
+ },
+ {
+  "k": "69",
+  "tipo": "nome de lugar",
+  "en": "Mines Entrance"
+ },
+ {
+  "k": "70",
+  "tipo": "nome de lugar",
+  "en": "The Wilderness"
+ },
+ {
+  "k": "71",
+  "tipo": "nome de lugar",
+  "en": "Resistance Camp"
+ },
+ {
+  "k": "72",
+  "tipo": "nome de lugar",
+  "en": "The Mansion"
+ },
+ {
+  "k": "73",
+  "tipo": "nome de lugar",
+  "en": "The Mansion"
+ },
+ {
+  "k": "74",
+  "tipo": "nome de lugar",
+  "en": "Wrights Bar"
+ },
+ {
+  "k": "75",
+  "tipo": "nome de lugar",
+  "en": "Dominatrix Home"
+ },
+ {
+  "k": "76",
+  "tipo": "nome de lugar",
+  "en": "Tower: Lobby"
+ },
+ {
+  "k": "77",
+  "tipo": "nome de lugar",
+  "en": "Tower: Floor 1"
+ },
+ {
+  "k": "78",
+  "tipo": "nome de lugar",
+  "en": "a dark lonely void"
+ }
+]

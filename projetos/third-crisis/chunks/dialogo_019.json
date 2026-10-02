@@ -1,0 +1,870 @@
+[
+ {
+  "k": "1",
+  "cena": "Bowflex 1_2",
+  "en": "jenna on the treadmill"
+ },
+ {
+  "k": "2",
+  "en": "Haaaaah! Haaaah! Haaaah! How am I doing? How far am I?"
+ },
+ {
+  "k": "3",
+  "en": "You're doing good, we're nearly at your target. Come on, Jenna! You can do it!"
+ },
+ {
+  "k": "4",
+  "en": "Nnnnngh! I'll do it! I'll run an entire marathon on this thing if I have to!"
+ },
+ {
+  "k": "5",
+  "en": "That's the spirit! Get yourself pumped! Do the impossible! Yeah!"
+ },
+ {
+  "k": "6",
+  "en": "Haaaaah! Haaah! You're gonna catch me if I pass out on this thing, right? Haaah!"
+ },
+ {
+  "k": "7",
+  "en": "What kinda measly trainer would I be if I didn't! You push yourself to your limits and beyond and let me worry about the rest! GO JENNA!"
+ },
+ {
+  "k": "8",
+  "en": "Raaaaaaaaaaaaaargh! I'm gonna fucking do itttttttttt!"
+ },
+ {
+  "k": "9",
+  "en": "Yeaaaaaaaaaaaaaaaaaaah!"
+ },
+ {
+  "k": "10",
+  "en": "fade to black"
+ },
+ {
+  "k": "11",
+  "cena": "Bowflex 1_4",
+  "en": "jenna doing pushups, arnold next to her."
+ },
+ {
+  "k": "12",
+  "en": "Come on! No giving up now! Every pushup done is one more peitho thug knocked out! Come on!"
+ },
+ {
+  "k": "13",
+  "en": "Raaaaaaargh! 47...! 4...8...!"
+ },
+ {
+  "k": "14",
+  "en": "Almost there! Two more of them left. Take 'em out, Jenna, take 'em out!"
+ },
+ {
+  "k": "15",
+  "en": "One more! Do ittttttt!"
+ },
+ {
+  "k": "16",
+  "en": "Aaaaaaaaaaaaaaaaaaargh! 50!"
+ },
+ {
+  "k": "17",
+  "en": "Haha, yeah! That's it!"
+ },
+ {
+  "k": "18",
+  "en": "fade to black"
+ },
+ {
+  "k": "19",
+  "cena": "Bowflex 1_6",
+  "en": "fade in to jenna on the bench press"
+ },
+ {
+  "k": "20",
+  "en": "Nnnnnnnghaaaaaaaaaaaah! I can't do any more!"
+ },
+ {
+  "k": "21",
+  "en": "No, Jenna! You have to stick to it! Give it your all! Go beyond your limits!"
+ },
+ {
+  "k": "22",
+  "en": "Gaaaaaaaaah! I have...haaaah! Three more...! I can't...!"
+ },
+ {
+  "k": "23",
+  "en": "Believe in yourself! Three more now and you'll end your session a victor! End it in triumph! End it by vanquishing your own weakness!"
+ },
+ {
+  "k": "24",
+  "en": "Nnnnngh! Two...More...! Ahhhhh...!"
+ },
+ {
+  "k": "25",
+  "en": "That's it! I see it! The fire in your eyes has been ignited once again! It's ablaze! It roars like an inferno! Channel that strength!"
+ },
+ {
+  "k": "26",
+  "en": "One...! Argh...! I can't...Arnold...! I can't...! "
+ },
+ {
+  "k": "27",
+  "en": "Abandon such notions! Go beyond your limits! I know you can do it! You're almost there! I'll catch you if you fall, so take that risk! Go beyond, Jenna!"
+ },
+ {
+  "k": "28",
+  "en": "I'm gonna...! Nnnngh!"
+ },
+ {
+  "k": "29",
+  "en": "I'm gonna do it...! Here it comes...!"
+ },
+ {
+  "k": "30",
+  "en": "Raaaaaaaaaaaaaaargh!"
+ },
+ {
+  "k": "31",
+  "en": "Yes, Jenna! Yes! Push! Puuuuuuuuuuuush!"
+ },
+ {
+  "k": "32",
+  "en": "Ahhhhhhhhhhhhhhhhhh!"
+ },
+ {
+  "k": "33",
+  "en": "And let go!"
+ },
+ {
+  "k": "34",
+  "en": "<i>(Arnold swoops in quickly and takes the barbell off my hands, allowing me to finally rest my tired, aching body.)</i>"
+ },
+ {
+  "k": "35",
+  "en": "fade to black"
+ },
+ {
+  "k": "36",
+  "cena": "Bowflex 1_7accept",
+  "en": "Heh, sure! Why not? Sounds real fun if you ask me!"
+ },
+ {
+  "k": "37",
+  "en": "I'm so glad to hear you say this!"
+ },
+ {
+  "k": "38",
+  "en": "Don't tell Sophie I said this, but she's so ill-suited for things like that, and Lady would never agree to it anyway. I was really stuck between a rock and a hard place until you showed up, Jenna."
+ },
+ {
+  "k": "39",
+  "en": "Always happy to help!"
+ },
+ {
+  "k": "40",
+  "en": "Alright, I'll go get the bondage gear. You hold on for just a moment!"
+ },
+ {
+  "k": "41",
+  "en": "fade to black, go to bowflex 1_8"
+ },
+ {
+  "k": "42",
+  "cena": "Bowflex 1_7decline",
+  "en": "Sorry Arnold, I'm gonna have to pass on this one."
+ },
+ {
+  "k": "43",
+  "en": "Ah, that's okay. Don't worry about it."
+ },
+ {
+  "k": "44",
+  "en": "I'm sure Sophie would be willing to help you."
+ },
+ {
+  "k": "45",
+  "en": "Maybe she would be. But she's a bit of a brat, we all know that."
+ },
+ {
+  "k": "46",
+  "en": "Plus she is like <i>super</i> light, to the point where I can hardly count her as adding any weight."
+ },
+ {
+  "k": "47",
+  "en": "And Lady of course...she wouldn't want to do something like this."
+ },
+ {
+  "k": "48",
+  "en": "But! It's rather unbefitting of me to sulk like this! We've done some great training today, and that's good enough for me!"
+ },
+ {
+  "k": "49",
+  "en": "And if you're ever interested in training again, you're always free to drop by."
+ },
+ {
+  "k": "50",
+  "en": "Yep, will do. Thanks again, Arnold."
+ },
+ {
+  "k": "51",
+  "en": "Don't even mention it."
+ },
+ {
+  "k": "52",
+  "en": "fade out end scene"
+ },
+ {
+  "k": "53",
+  "cena": "Bowflex 1_10",
+  "en": "overworld, jenna and arnold look at each other next to bowflex machine"
+ },
+ {
+  "k": "54",
+  "en": "Before you go, Jenna, there's one more thing I'd like to ask you."
+ },
+ {
+  "k": "55",
+  "en": "Sure, go ahead."
+ },
+ {
+  "k": "56",
+  "en": "Your friend, the one who is very <i>well endowed...</i>"
+ },
+ {
+  "k": "57",
+  "en": "Both in her muscles and in her reproductive tools!"
+ },
+ {
+  "k": "58",
+  "en": "I was wondering if she'd like to join me for some work outs. She seems like the type who would enjoy the same things as I do."
+ },
+ {
+  "k": "59",
+  "en": "You know, Arnold. Your observation isn't that far off. I'm sure that's the case as well."
+ },
+ {
+  "k": "60",
+  "en": "So consider it done! Next time I come for a workout, I'll ask Rida if she wants to come with as well."
+ },
+ {
+  "k": "61",
+  "en": "Rida, that was her name, right. I'll make sure to remember that."
+ },
+ {
+  "k": "62",
+  "en": "And also to look forward to our next workout session! Till then, Jenna!"
+ },
+ {
+  "k": "63",
+  "en": "See you around, Arnold!"
+ },
+ {
+  "k": "64",
+  "en": "end scene"
+ },
+ {
+  "k": "65",
+  "cena": "Bowflex_Sex_Scene_1",
+  "quem": "Jenna (F)",
+  "en": "You're sure this is safe, right Arnold?"
+ },
+ {
+  "k": "66",
+  "quem": "Arnold (M)",
+  "en": "Absolutely! You don't have to worry about a thing! You just sit back and let me handle it!"
+ },
+ {
+  "k": "67",
+  "quem": "Arnold (M)",
+  "en": "And, begin!"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "WAIT WAIT WAIT!"
+ },
+ {
+  "k": "69",
+  "quem": "Arnold (M)",
+  "en": "Huh? What's up, Jenna?"
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "Look, I've seen the way you work out. You pull out all the stops right from the start. So...there might be a problem."
+ },
+ {
+  "k": "71",
+  "quem": "Arnold (M)",
+  "en": "Right! Of course! You humans must be properly lubricated before sexual intercourse can be satisfying!"
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "<i>(I suppose that's what it looks like from a robot's perspective, huh?)</i>"
+ },
+ {
+  "k": "73",
+  "quem": "Arnold (M)",
+  "en": "Don't worry about a thing! I'll ease you into it, all until your natural lubrication systems kick in and can allow me to kick it up to full gear!"
+ },
+ {
+  "k": "74",
+  "quem": "Arnold (M)",
+  "en": "Alright, just watch!"
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Haaaaaah...! Ooooh...</color>"
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(His head is so thick...and it's just teasing me like that...! Haaaah...! It's rubbing against my clit...!)</i></color>"
+ },
+ {
+  "k": "77",
+  "quem": "Arnold (M)",
+  "en": "Hmmmmm...not quite there yet."
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Ahhh...fuck...! Arnold, you're such a tease, ugh...!)</i></color>"
+ },
+ {
+  "k": "79",
+  "quem": "Narrador",
+  "en": "<i>(I can feel my pussy getting wetter by the second. The anticipation of feeling Arnold's girthy, steel rod up against my entrance like that is driving me crazy!)</i>"
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I want him inside me...! I want him inside me right now! Haaaah!)</i></color>"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Alright...haaah...I'm ready! I'm ready to start so...ahhh...so don't tease me any longer!</color>"
+ },
+ {
+  "k": "82",
+  "quem": "Arnold (M)",
+  "en": "Alright then, I think I've gotten a pretty good warmup with holding you in place like that. Time to get onto the real thing!"
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nnnnngh! Ghhhhhhhh!</color>"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Fuuuuuck! Getting impaled by such a massive cock feels amazing...! Haaaah!)</i></color>"
+ },
+ {
+  "k": "85",
+  "quem": "Arnold (M)",
+  "en": "Need some time to adjust, Jenna?"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ahhhh-Absolutely not! Start your workout and go full speed ahead!</color>"
+ },
+ {
+  "k": "87",
+  "quem": "Arnold (M)",
+  "en": "Right then! If you say so!"
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ahhhh! Haaah! Fuuuuuah!</color>"
+ },
+ {
+  "k": "89",
+  "quem": "Narrador",
+  "en": "<i>(Arnold goes about his exercise regime, and time begins to blue for me. Every rep he does is one more 'thrust' for me, and we've got a <i>long<i> way to go until we're done.)</i>"
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Normally...haaaah...I'm more the type to advocate for taking it easy but...ffffgh...I'm all in favor of Arnold's crazy workout plan if it means more of this!)</i></color>"
+ },
+ {
+  "k": "91",
+  "quem": "Arnold (M)",
+  "en": "97...98...99...How you holding up there, Jenna? Doing alright?"
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion> Y-Yaaaaaah...! Don't stop...! You've still got plenty more sets to do...! Don't even think about stopping...!</color>"
+ },
+ {
+  "k": "93",
+  "quem": "Arnold (M)",
+  "en": "Wasn't planning to! We've still got plenty of reps left!"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Goooooood! Gh-Goood! Keep it coming...!</color>"
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I could keep doing this forever...the way he just drops me down on his cock...it's a feeling unlike anything else I've experienced before!)</i></color>"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Haaaaah...how long have we even been going at it? I've completely lost track of time...Ahhhhh!)</i></color>"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Every time I focus long enough to hear him...nnnnngh...it's like he's already thrust into me 100 more times! More even! Ahhhhhh!)</i></color>"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(And he's not gonna stop...! He can keep going for as long as he wants...! Haaaah! He can keep fucking me like this for hours on end!)</i></color>"
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nnnngh! Haaaaaah!</color>"
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(He can keep going forever...haaaaah...but I can't...! I'm too greedy! Ahhh! I want to cum too fucking badly...!)</i></color>"
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Arnold...! Haaaah! I...! Nnngh!</color>"
+ },
+ {
+  "k": "102",
+  "quem": "Arnold (M)",
+  "en": "377...378...379...! You wanna cum, Jenna? I'd be happy to!"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ahhhhhhhhhh! Nnnnghaaaaaaaah! Too much...! Haaaah!</color>"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(How can he keep up a pace like that? Ahhhhh...! I won't be able to hold it in much longer...! Nnnnngh! He's gonna make me cum any second now...!)</i></color>"
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(But I can't cum now...! I need to savor this more...! I need to enjoy this further...! Haaaaah! Ahhhh!)</i></color>"
+ },
+ {
+  "k": "106",
+  "quem": "Arnold (M)",
+  "en": "445...446....447...! You're holding on pretty well, Jenna! I commend you, but how much longer can you take this cock without cumming?"
+ },
+ {
+  "k": "107",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Haaaaah! I can't...! Fuaaaaaaah! Fuuuuuck! I can't take it anymore! I wanna cum...! I can't hold it back!</color>"
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Haaaaah! I'm cumming! Arnold! I'm gonna cum! I'm cummiiiiiiiing!</color>"
+ },
+ {
+  "k": "109",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Gaaaaaaaaaaaaah! Uuuuuuuuuuuuuh!</color>"
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I can feel him pumping me full of his hot, sticky load...! Haaaaah! Fuaaaaah! I want more...!)</i></color>"
+ },
+ {
+  "k": "111",
+  "quem": "Narrador",
+  "en": "<i>(With whatever strength I have, and whatever mobility the restraints allow me, I try my best to grind against Arnold's cock, milking more and more cum into myself!)</i></color>"
+ },
+ {
+  "k": "112",
+  "quem": "Arnold (M)",
+  "en": "Ahhh...Jenna...!"
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nnnngh...ahhhh...</color>"
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I can feel his cum dripping out of me...haaaah...)</i></color>"
+ },
+ {
+  "k": "115",
+  "quem": "Arnold (M)",
+  "en": "450 total reps. In the amount of time it took us, I think I've got a new personal best!"
+ },
+ {
+  "k": "116",
+  "quem": "Arnold (M)",
+  "en": "Hahaha! Yeah! We did some pretty good exercise today! I'm pumped!"
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Yup...excercise...haaaah...we did a lot of good exercise today...)</i></color>"
+ },
+ {
+  "k": "118",
+  "quem": "Arnold (M)",
+  "en": "Oh, right of course, time to get you outta that thing. You just tell me when you're ready and I'm here."
+ },
+ {
+  "k": "119",
+  "cena": "Bowflex_Sex_Scene_Intro_1",
+  "quem": "Arnold (M)",
+  "en": "Nice. Hahah, I've got something special in mind for you, sexy babe."
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "Yeah~? What's that~?"
+ },
+ {
+  "k": "121",
+  "quem": "Arnold (M)",
+  "en": "Get out of that sexy little outfit, and I'll show you. Gonna go get the restraints."
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "Restraints~?"
+ },
+ {
+  "k": "123",
+  "cena": "Bowflex_Sex_Scene_Post_1",
+  "quem": "Narrador",
+  "en": "<i>(Arnold helps me out of the rather restrictive gear he put me in, but it still takes me a second before I can stand properly again.)</i>"
+ },
+ {
+  "k": "124",
+  "quem": "Arnold (M)",
+  "en": "You're looking pretty exhausted, Jenna. I thought this would help you relax a little bit after having such an intense workout."
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "Well, it's not that sex <i>can't</i> be relaxing but...I feel like when we do things at your levels of intensity, it's always work to some degree or another."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "I think I'll be leaking cum for a while now after being creampied like that."
+ },
+ {
+  "k": "127",
+  "quem": "Arnold (M)",
+  "en": "Cross checking your positive facial expression with the information in my database leads me to believe this is a good thing. Is that true?"
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "Well, depends who you ask. But for me right now, let's just say it's a good thing, yes."
+ },
+ {
+  "k": "129",
+  "cena": "Box with books",
+  "quem": "Jenna (F)",
+  "en": "<i>(Books like \"Edward with the penis hands\" or \"I know who you fucked last Summer\". )</i>"
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "<i>(Those are some weird books.)</i>"
+ },
+ {
+  "k": "131",
+  "cena": "Button 1 already pressed",
+  "quem": "Jenna (F)",
+  "en": "Already did that."
+ },
+ {
+  "k": "132",
+  "cena": "Button 2 pressed",
+  "quem": "Jenna (F)",
+  "en": "I'm a hacker man!"
+ },
+ {
+  "k": "133",
+  "cena": "Button 2nd press",
+  "quem": "Jenna (F)",
+  "en": "Can only press it once silly."
+ },
+ {
+  "k": "134",
+  "cena": "button 2nd press",
+  "quem": "Jenna (F)",
+  "en": "Already hacked it."
+ },
+ {
+  "k": "135",
+  "cena": "Call for Help",
+  "quem": "Soldier (M)",
+  "en": "HELP!!! "
+ },
+ {
+  "k": "136",
+  "quem": "Resistance Member (M)",
+  "en": "I NEED HELP!!! HELLO!!!"
+ },
+ {
+  "k": "137",
+  "quem": "Peitho Slut (F)",
+  "en": "I'M STUCK HELP!!!"
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "<i>(They need help I have to do something.)</i>"
+ },
+ {
+  "k": "139",
+  "cena": "Call for Help",
+  "en": "I NEED HELP!!! ANYONE!!!"
+ },
+ {
+  "k": "140",
+  "en": "IT'S CRUSHING ME!!! I'M STUCK!!! "
+ },
+ {
+  "k": "141",
+  "en": "MY LEG!!! HELP!!! "
+ },
+ {
+  "k": "142",
+  "en": "<i>(Those people need help. I have to do something).</i>"
+ },
+ {
+  "k": "143",
+  "cena": "Camp_Lady_FirstTalk",
+  "quem": "Jenna (F)",
+  "en": "Wow. You guys work fast!"
+ },
+ {
+  "k": "144",
+  "quem": "Lady (F)",
+  "en": "Indeed."
+ },
+ {
+  "k": "145",
+  "cena": "Camp_Lady_Talk",
+  "quem": "Lady (F)",
+  "en": "Need something?"
+ },
+ {
+  "k": "146",
+  "cena": "Camp_Lady_Talk_Hub",
+  "tipo": "escolha",
+  "en": "Give her the map shard."
+ },
+ {
+  "k": "147",
+  "tipo": "escolha",
+  "en": "Tell her about your progress."
+ },
+ {
+  "k": "148",
+  "tipo": "escolha",
+  "en": "Give Lady a holiday hat!"
+ },
+ {
+  "k": "149",
+  "tipo": "escolha",
+  "en": "Talk about the lack of holiday cheer."
+ },
+ {
+  "k": "150",
+  "tipo": "escolha",
+  "en": "Talk about the Fiends."
+ },
+ {
+  "k": "151",
+  "tipo": "escolha",
+  "en": "Ask her about the data."
+ },
+ {
+  "k": "152",
+  "tipo": "escolha",
+  "en": "Talk about the Fiend."
+ },
+ {
+  "k": "153",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "154",
+  "cena": "Camp_NoWilds",
+  "quem": "Jenna (F)",
+  "en": "<i>(Shouldn't head this way quite yet...)</i>"
+ },
+ {
+  "k": "155",
+  "cena": "Can't leave must rescue",
+  "quem": "Jenna (F)",
+  "en": "<i>(I have to help them before I continue.)</i>"
+ },
+ {
+  "k": "156",
+  "cena": "Can't leave must rescue",
+  "en": "<i>(I can't just leave those people here).</i>"
+ },
+ {
+  "k": "157",
+  "cena": "Can_not_use_elevator",
+  "quem": "Jenna (F)",
+  "en": "<i>(They locked this elevator, preventing us from going up. But we can go back down.)</i>"
+ },
+ {
+  "k": "158",
+  "cena": "Can_not_use_elevator",
+  "en": "<i>(They locked the elevator, stopping us from going up. But we can't turn back now).</i>"
+ },
+ {
+  "k": "159",
+  "cena": "CantGoOutside",
+  "en": "<i>(I shouldn't go outside right now...)</i>"
+ },
+ {
+  "k": "160",
+  "cena": "CantLeaveWithFullBelly",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I don't think I should leave like this...)</i></color>"
+ },
+ {
+  "k": "161",
+  "cena": "Carce_AbandonedHouse_BMM_Default",
+  "quem": "Black Market Dealer (M)",
+  "en": "Do you need something, badge?"
+ },
+ {
+  "k": "162",
+  "tipo": "escolha",
+  "en": "Do your job."
+ },
+ {
+  "k": "163",
+  "tipo": "escolha",
+  "en": "Ask about the explosives."
+ },
+ {
+  "k": "164",
+  "tipo": "escolha",
+  "en": "Report to him about the bugged buildings."
+ },
+ {
+  "k": "165",
+  "tipo": "escolha",
+  "en": "Ask about bugging the buildings."
+ },
+ {
+  "k": "166",
+  "tipo": "escolha",
+  "en": "Do your job."
+ },
+ {
+  "k": "167",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "168",
+  "cena": "Carce_AbandonedHouse_SkipToMotelQuestion",
+  "quem": "Narrador",
+  "en": "<i>Fast-travel to the motel?</i>"
+ },
+ {
+  "k": "169",
+  "tipo": "escolha",
+  "en": "Go to the motel."
+ },
+ {
+  "k": "170",
+  "tipo": "escolha",
+  "en": "Go outside."
+ },
+ {
+  "k": "171",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "172",
+  "cena": "Carce_AbandonedHouse_VIPExplosives__Intro",
+  "quem": "Jenna (F)",
+  "en": "Now can I ask you about the explosives?"
+ },
+ {
+  "k": "173",
+  "quem": "Black Market Dealer (M)",
+  "en": "What the hell do you want explosives for anyway, badge girl? You looking to start a revolution or something? I wouldn't. Last time that happened, we all got fucked for it."
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Look, I just need them, okay? I'll do whatever you want for them."
+ },
+ {
+  "k": "175",
+  "quem": "Black Market Dealer (M)",
+  "en": "Anyything~?"
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "Yes. A-Anything..."
+ },
+ {
+  "k": "177",
+  "quem": "Black Market Dealer (M)",
+  "en": "Goody! I want you to plant auditory recorders in specifc places all around the town!"
+ },
+ {
+  "k": "178",
+  "quem": "Jenna (F)",
+  "en": "Auditory... Huh? You don't want me to..."
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "To..."
+ },
+ {
+  "k": "180",
+  "quem": "Black Market Dealer (M)",
+  "en": "No, no. Waste of time. Save me time and bug the buildings. I want the prison, the townhall, the bar, and the storehouse."
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "That... Actually seems like a normal request! I'll get it done!"
+ },
+ {
+  "k": "182",
+  "quem": "Black Market Dealer (M)",
+  "en": "You have a strange concept of normal, badge girl."
+ }
+]

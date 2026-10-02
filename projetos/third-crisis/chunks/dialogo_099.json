@@ -1,0 +1,1041 @@
+[
+ {
+  "k": "1",
+  "cena": "SaveTheGirlEnding _Outro 1",
+  "quem": "Karen (F)",
+  "en": "*Sniffle*"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Hey err... Wildfire. I got you some food- Are you crying?"
+ },
+ {
+  "k": "3",
+  "quem": "Karen (F)",
+  "en": "No- I don't cry."
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Do you- need some more time?"
+ },
+ {
+  "k": "5",
+  "quem": "Karen (F)",
+  "en": "Just-"
+ },
+ {
+  "k": "6",
+  "quem": "Karen (F)",
+  "en": "... stay."
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "I can do that. Here, eat."
+ },
+ {
+  "k": "8",
+  "quem": "Karen (F)",
+  "en": "Grrr... If it'll get you to shu-..."
+ },
+ {
+  "k": "9",
+  "quem": "Karen (F)",
+  "en": "- I mean- Ugh... nevermind... sure."
+ },
+ {
+  "k": "10",
+  "cena": "SaveTheGirlEnding _Outro 2",
+  "quem": "Jenna (F)",
+  "en": "Listen, if we're gonna move on to that other town like we planned, we should start moving soon. Today? Tomorrow?"
+ },
+ {
+  "k": "11",
+  "quem": "Karen (F)",
+  "en": "Better sooner rather than later."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "I thought so too. If we get moving soon-"
+ },
+ {
+  "k": "13",
+  "quem": "Karen (F)",
+  "en": "Why did you pick me?"
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "-we can-"
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "What? What do you mean?"
+ },
+ {
+  "k": "16",
+  "quem": "Karen (F)",
+  "en": "Me. Instead of your friends. Why didn't you just let me die? Why did they have to- Instead of me?"
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "My friends..."
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "I did it because... I love you."
+ },
+ {
+  "k": "19",
+  "quem": "Karen (F)",
+  "en": "What...?"
+ },
+ {
+  "k": "20",
+  "quem": "Karen (F)",
+  "en": "No... You loved Karen. Not me. I'm not Karen. She's dead. So I don't get it. I don't understand why I'm still here. Suffering."
+ },
+ {
+  "k": "21",
+  "quem": "Narrador",
+  "en": "<i>I pull my jacket off and wrap it around her, before-.</i>"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "I didn't say I love Karen. I said I love <b>you</b>. Whether you're Karen or Wildfire. It doesn't make a difference to me."
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "I will always love you, no matter what shape you're in. No matter how much you struggle with your anger and pain."
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "That's why I chose you."
+ },
+ {
+  "k": "25",
+  "quem": "Karen (F)",
+  "en": "Thank you."
+ },
+ {
+  "k": "26",
+  "cena": "SaveTheGirlEnding _Outro_Confirm",
+  "quem": "Jenna (F)",
+  "en": "<i>(At least she's still here...)</i>"
+ },
+ {
+  "k": "27",
+  "tipo": "escolha",
+  "en": "Check on Karen."
+ },
+ {
+  "k": "28",
+  "tipo": "escolha",
+  "en": "Keep Exploring."
+ },
+ {
+  "k": "29",
+  "cena": "SaveTheGirlEnding Disguise",
+  "quem": "Jenna (F)",
+  "en": "<i>(Our disguises. Found them in some of the houses back in Carceburg. We're planning to sneak into a nearby town and see if we can get food.)</i>"
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "<i>(Maybe it'll be a place to stay... But we'll probably have to compromise ourselves even more just to make a living...)</i>"
+ },
+ {
+  "k": "31",
+  "cena": "SaveTheGirlEnding Flowers",
+  "quem": "Jenna (F)",
+  "en": "<i>(Found some more flowers for Karen. She hasn't burnt them... yet. I think I caught her admiring them once though.)</i>"
+ },
+ {
+  "k": "32",
+  "cena": "SaveTheGirlEnding Headband",
+  "quem": "Jenna (F)",
+  "en": "<i>(Jewel's headband... I found this when Karen and I were searching the bar for food and supplies...)</i>"
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "<i>(I failed her... I failed everyone... Just like I failed Karen...)</i>"
+ },
+ {
+  "k": "34",
+  "cena": "SaveTheGirlEnding ScorchMark",
+  "quem": "Jenna (F)",
+  "en": "<i>(This was from when Karen got a little too fired up a few days ago. Seems to be the norm for her nowadays...)</i>"
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "<i>(It's hard to stay positive sometimes... but I have to. I don't want to fail her again. I've got to help her get better.)</i>"
+ },
+ {
+  "k": "36",
+  "cena": "SaveTheGirlEnding Supplies",
+  "quem": "Jenna (F)",
+  "en": "<i>(We're starting to run low on supplies... There's only so much we can sneak out of Carceburg before the tower mindwipes us)</i>"
+ },
+ {
+  "k": "37",
+  "quem": "Jenna (F)",
+  "en": "<i>(We came pretty close to not making it out in time once. We've got to find somewhere else to stay if we want to survive.)</i>"
+ },
+ {
+  "k": "38",
+  "cena": "SaveTheGirlEnding Tree",
+  "quem": "Jenna (F)",
+  "en": "<i>(Karen took this tree down while we were chasing her after the ambush... Before we met Rida. It feels like years ago... If only I knew... ugh...)</i>"
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "<i>(Sorry Rida... Jewel... Throb... Floria... I'm so sorry.)</i>"
+ },
+ {
+  "k": "40",
+  "cena": "SaveTheWorldEnding BagInteraction 1",
+  "quem": "Jenna (F)",
+  "en": "<i>(Guess I should make sure everything's here.)</i>"
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "<i>(Clothes... toothbrush... and-"
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Fuck... Karen..."
+ },
+ {
+  "k": "43",
+  "quem": "Narrador",
+  "en": "<i>I sink to my knees, trying to hold back the tears.</i>"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "I miss you... I miss you so much... I'm so sorry..."
+ },
+ {
+  "k": "45",
+  "cena": "SaveTheWorldEnding BagInteraction 2",
+  "quem": "Jewel (F)",
+  "en": "You doin' okay?-"
+ },
+ {
+  "k": "46",
+  "quem": "Jewel (F)",
+  "en": "Hey... hey... What's wrong, hun?"
+ },
+ {
+  "k": "47",
+  "cena": "SaveTheWorldEnding BagInteraction 3",
+  "quem": "Jenna (F)",
+  "en": "It's just..."
+ },
+ {
+  "k": "48",
+  "quem": "Jewel (F)",
+  "en": "It's about her again, right?"
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "I- Yeah..."
+ },
+ {
+  "k": "50",
+  "quem": "Jewel (F)",
+  "en": "It wasn't your fault, hun."
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "What if it was?"
+ },
+ {
+  "k": "52",
+  "quem": "Jewel (F)",
+  "en": "Aww, come on, hun. Don't think like that. We've talked about this. It isn't gonna change anything."
+ },
+ {
+  "k": "53",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I know... But that doesn't stop it from hurting."
+ },
+ {
+  "k": "54",
+  "quem": "Jewel (F)",
+  "en": "I understand that, believe me. When my mom was... you know, it was the same for me."
+ },
+ {
+  "k": "55",
+  "quem": "Jewel (F)",
+  "en": "But eventually it starts getting easier to deal with. Soon it will become a dull sore instead of an open wound."
+ },
+ {
+  "k": "56",
+  "quem": "Jewel (F)",
+  "en": "And until then-"
+ },
+ {
+  "k": "57",
+  "quem": "Jewel (F)",
+  "en": "You've got me and everyone else who cares about you looking out for you and wanting nothing but the best for you. You fall, I'll pick you back up."
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "I... I don't wanna go live in that big house by myself. Would you-"
+ },
+ {
+  "k": "59",
+  "quem": "Jewel (F)",
+  "en": "I'd love to. I could use an upgrade, plus I get to stay with my roomie. Tell ya what. Let's pack some of my stuff up too and we can go together."
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "That would be... amazing. I just... need a moment. Don't let go."
+ },
+ {
+  "k": "61",
+  "quem": "Jewel (F)",
+  "en": "Never."
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "Jewel?"
+ },
+ {
+  "k": "63",
+  "quem": "Jewel (F)",
+  "en": "Yes, sweetheart?"
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "Thank you."
+ },
+ {
+  "k": "65",
+  "cena": "SaveTheWorldEnding BagInteraction Confirm",
+  "quem": "Jenna (F)",
+  "en": "<i>(Here's my stuff...)</i>"
+ },
+ {
+  "k": "66",
+  "tipo": "escolha",
+  "en": "Go through your things."
+ },
+ {
+  "k": "67",
+  "tipo": "escolha",
+  "en": "Keep exploring."
+ },
+ {
+  "k": "68",
+  "cena": "SaveTheWorldEnding BarOwner",
+  "quem": "Martin (M)",
+  "en": "Jenna! Want anything? I'd be happy to serve the Hero of Carceburg!"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "Don't need anything right now. Just checkin' in on you! How are you doin'?"
+ },
+ {
+  "k": "70",
+  "quem": "Martin (M)",
+  "en": "Wow! Well I feel much more at ease. It's nice to not feel the need to jerk off every two seconds. Plus people have been wanting better food."
+ },
+ {
+  "k": "71",
+  "quem": "Martin (M)",
+  "en": "It's... kinda nice serving nice meals for everyone. Oh, and don't get me started on Jewel's concerts. Her singing voice is amazing!"
+ },
+ {
+  "k": "72",
+  "quem": "Martin (M)",
+  "en": "Not to knock her appearance, she's a beautiful woman. But I much prefer listening to her sing over watching her get gangbanged every day."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "Yeah, she's been super happy about them. It's nice seeing her find her true calling. How's Amber?"
+ },
+ {
+  "k": "74",
+  "quem": "Martin (M)",
+  "en": "Oh, I could go get her. She and that fiend chef man both work together in the kitchen to make all the food here."
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "Oh- You don't have to. Heh, I wouldn't wanna distract her from her job. I've gotta head out anyway, but it was nice catching up!"
+ },
+ {
+  "k": "76",
+  "quem": "Martin (M)",
+  "en": "No problem. Thank you for making all of this possible."
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "Eheh, just part of the job!"
+ },
+ {
+  "k": "78",
+  "cena": "SaveTheWorldEnding BarOwner Repeat",
+  "quem": "Narrador",
+  "en": "<i>Martin's tending the bar and cleaning some of the dishes. Actual dirty dishes, not just cum everywhere. He seems really content."
+ },
+ {
+  "k": "79",
+  "cena": "SaveTheWorldEnding Bed",
+  "quem": "Jenna (F)",
+  "en": "<i>(Jewel tries to confort me each night, but... it doesn't stop the nightmares...)</i>"
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "<i>(I deserve them... I should've done better. Why... Why didn't I?)</i>"
+ },
+ {
+  "k": "81",
+  "cena": "SaveTheWorldEnding Dresser",
+  "quem": "Jenna (F)",
+  "en": "<i>(Why did I leave Karen in a dresser like this all those years ago?)</i>"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "<i>(I should have been there for her...)</i>"
+ },
+ {
+  "k": "83",
+  "cena": "SaveTheWorldEnding Entered Jewels Room",
+  "quem": "Jenna (F)",
+  "en": "<i>(Haven't been looking forward to this... It's getting harder and harder to keep up a happy face nowadays. It's nice living with Jewel, I don't want to go.)</i>"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "<i>(But everyone needs me to be the 'Hero of Carceburg' in a fancy house. I'm no hero. I let people down... I- Maybe just one last look before I get my stuff.)</i>"
+ },
+ {
+  "k": "85",
+  "cena": "SaveTheWorldEnding Flowers",
+  "quem": "Jenna (F)",
+  "en": "<i>(Karen never burnt these. There was hope. If I just... She might've... Fuck...)</i>"
+ },
+ {
+  "k": "86",
+  "cena": "SaveTheWorldEnding HQsTable",
+  "quem": "AIRSHIP_HQ",
+  "en": "No, Gob. 'I'. Not Gob."
+ },
+ {
+  "k": "87",
+  "quem": "Gob (M)",
+  "en": "Gob is Gob. Not I! How Smart Hen so... smart now?"
+ },
+ {
+  "k": "88",
+  "quem": "AIRSHIP_HQ",
+  "en": "I had help from a friend. That tower was what was keeping us down, Gob."
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "Hey, Henry."
+ },
+ {
+  "k": "90",
+  "quem": "AIRSHIP_HQ",
+  "en": "Ah, speak of the devil. Hello, Jenna! Or should I say, the Hero of Carceburg!"
+ },
+ {
+  "k": "91",
+  "quem": "Jenna (F)",
+  "en": "Heh... That's me! You're looking great!"
+ },
+ {
+  "k": "92",
+  "quem": "AIRSHIP_HQ",
+  "en": "Yes! Feeling much more like myself. All thanks to you, Jenna."
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "All in a day's work. I'm so glad you're feeling better, Henry. I'll catch up later."
+ },
+ {
+  "k": "94",
+  "cena": "SaveTheWorldEnding HQsTable Repeat",
+  "quem": "Narrador",
+  "en": "<i>HQ is trying to teach Gob the intricacies of subject pronouns.</i>"
+ },
+ {
+  "k": "95",
+  "cena": "SaveTheWorldEnding IntroCutscene",
+  "quem": "Jewel (F)",
+  "en": "Ya know, it's gonna be lonely without you staying with me, roomie. But on the bright side that new house of yours looks really fancy, right?"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "Right? The past few weeks have been pretty nice. I'm all packed up though, so I'll just go get my stuff up in your room now."
+ },
+ {
+  "k": "97",
+  "quem": "Jewel (F)",
+  "en": "You sure you're okay?"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "Yeah, of course! Right as rain!"
+ },
+ {
+  "k": "99",
+  "quem": "Jewel (F)",
+  "en": "If you say so, hun. I'm gonna go sit over there with the others. You need anything, let me know, okay?"
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "You got it!"
+ },
+ {
+  "k": "101",
+  "cena": "SaveTheWorldEnding JewelsTable",
+  "quem": "Sofie (F)",
+  "en": "Hey look, it's the Slacker of Carceburg."
+ },
+ {
+  "k": "102",
+  "quem": "Throb (M)",
+  "en": "Jenna! Good to see you!"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "Hey everyone. How're you and Tiny doing, Throb?"
+ },
+ {
+  "k": "104",
+  "quem": "Throb (M)",
+  "en": "Wonderfully! We've got date night coming up tomorrow night."
+ },
+ {
+  "k": "105",
+  "quem": "Jewel (F)",
+  "en": "Oooooh~ Is he a spitter or a swallower?"
+ },
+ {
+  "k": "106",
+  "quem": "Sofie (F)",
+  "en": "Oh brother!"
+ },
+ {
+  "k": "107",
+  "quem": "Arnold (M)",
+  "en": "Sofie's a spitter."
+ },
+ {
+  "k": "108",
+  "quem": "Jewel (F)",
+  "en": "Oh really~? Spitters are quitters, Sof! "
+ },
+ {
+  "k": "109",
+  "quem": "Sofie (F)",
+  "en": "Hmph..."
+ },
+ {
+  "k": "110",
+  "quem": "Throb (M)",
+  "en": "He's a swallower alright."
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "Ooooh!"
+ },
+ {
+  "k": "112",
+  "quem": "Jewel (F)",
+  "en": "Oh, do tell!"
+ },
+ {
+  "k": "113",
+  "quem": "Throb (M)",
+  "en": "Maybe later, haha."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "I should prob go get my stuff now."
+ },
+ {
+  "k": "115",
+  "quem": "Jewel (F)",
+  "en": "Lemme know if you need any help, hun."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "I'm fine, thank ye."
+ },
+ {
+  "k": "117",
+  "cena": "SaveTheWorldEnding JewelsTable Repeat",
+  "quem": "Narrador",
+  "en": "<i>They're discussing gossip regarding people's fellatio preferences. I can see Jewel sneaking a look at me every so often.</i>"
+ },
+ {
+  "k": "118",
+  "cena": "SaveTheWorldEnding NinjaGirl",
+  "quem": "Lady (F)",
+  "en": "Jenna."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "How you doing, Lady?"
+ },
+ {
+  "k": "120",
+  "quem": "Lady (F)",
+  "en": "You know how I'm doing. I've been trying to get a response from you about joining the New Carceburg Guard. You haven't been answering. Why?"
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "Just taking a little break, I guess! It sounds like a nice idea though! I'll get back to you on it."
+ },
+ {
+  "k": "122",
+  "quem": "Lady (F)",
+  "en": "Uh huh."
+ },
+ {
+  "k": "123",
+  "cena": "SaveTheWorldEnding NinjaGirl Repeat",
+  "quem": "Narrador",
+  "en": "<i>I can feel her eyes piercing into me as I walk around the bar.</i>"
+ },
+ {
+  "k": "124",
+  "cena": "SaveTheWorldEnding RidasTable",
+  "quem": "Altin (M)",
+  "en": "-shall b-be known as t-the 'Battle of C-Carceburg'. It's g-got a nice r-ring to it doesn't i-it?"
+ },
+ {
+  "k": "125",
+  "quem": "Floria (F)",
+  "en": "It does! Though a ring from Rida would be even better."
+ },
+ {
+  "k": "126",
+  "quem": "Rida (F)",
+  "en": "Rida- Err... 'I' will make one from the bones of her-... my? Enemies!"
+ },
+ {
+  "k": "127",
+  "quem": "Floria (F)",
+  "en": "On second thought, maybe not."
+ },
+ {
+  "k": "128",
+  "quem": "Floria (F)",
+  "en": "Oh look, it's the 'Hero of Carceburg'! Hey Jenna!"
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "Hi guys. Your vocabulary is doing a ton better, Rida!"
+ },
+ {
+  "k": "130",
+  "quem": "Rida (F)",
+  "en": "Mm. I learning."
+ },
+ {
+  "k": "131",
+  "quem": "Floria (F)",
+  "en": "Still some work ahead of us, but she's doing really good. I have her recite lines while she's giving me head."
+ },
+ {
+  "k": "132",
+  "quem": "Altin (M)",
+  "en": "O-Oh my-"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "Haha, hey whatever works!"
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "Still wearing the tinfoil hat, Altin?"
+ },
+ {
+  "k": "135",
+  "quem": "Altin (M)",
+  "en": "Y-Yes! Though the c-crush wave r-readings have gone d-down significantly s-since the t-tower was rendered i-inert, you can't b-be too safe!"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "Well, soon it won't be required at all, I'm sure."
+ },
+ {
+  "k": "137",
+  "quem": "Altin (M)",
+  "en": "T-That is th-the goal, my d-dear!"
+ },
+ {
+  "k": "138",
+  "quem": "Floria (F)",
+  "en": "You gonna be part of that militia Lady's forming? The New Carceburg Guard?"
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "Heh- No, I don't think so. I've done enough fighting."
+ },
+ {
+  "k": "140",
+  "quem": "Rida (F)",
+  "en": "I will join! Crush all who threaten New Carceburg!"
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "Remind me not to get on your bad side, Rida."
+ },
+ {
+  "k": "142",
+  "quem": "Rida (F)",
+  "en": "Bad side! Hah! I have only good sides!"
+ },
+ {
+  "k": "143",
+  "cena": "SaveTheWorldEnding RidasTable Repeat",
+  "quem": "Narrador",
+  "en": "<i>Rida and Floria are making out with each other while Altin obliviously discusses the history made during the Battle of Carceburg.</i>"
+ },
+ {
+  "k": "144",
+  "cena": "SaveTheWorldEnding TV 1",
+  "quem": "Narrador",
+  "en": "<i>\"-to our fifth day of 'New Carceburg News'. Today we bring attention to the repair crews making progress mending our town-\""
+ },
+ {
+  "k": "145",
+  "quem": "Narrador",
+  "en": "<i>\"-after the destruction brought about by the GAG, who we now know were actually the shadowy organization known as 'Peitho'. Of these Peitho agents-\""
+ },
+ {
+  "k": "146",
+  "quem": "Narrador",
+  "en": "<i>\"-none were more destructive than the monster known as 'Wildfire'. Though we can repair the town, we can never repair the loss of life after her rampage.\"</i>"
+ },
+ {
+  "k": "147",
+  "quem": "Narrador",
+  "en": "<i>\"-Thankfully, the Hero of Carceburg, Jenna Wright, was able to slay this horrific monster and defeat Peitho. Allowing us all to finally move on wi-\"</i>"
+ },
+ {
+  "k": "148",
+  "cena": "SaveTheWorldEnding TV 2",
+  "quem": "Jenna (F)",
+  "en": "That's not how it happened..."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "... but it might as well be..."
+ },
+ {
+  "k": "150",
+  "cena": "SaveTheWorldEnding Xam",
+  "quem": "Xam (M)",
+  "en": "Meow- Ahem, I mean- Greetings, human!"
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "Hey pussycat. I just wanted to say thanks for being so brave up in the tower during the battle."
+ },
+ {
+  "k": "152",
+  "quem": "Xam (M)",
+  "en": "Oh- You flatter me, human. It was nothing. We felines are the most courageous in the land!"
+ },
+ {
+  "k": "153",
+  "quem": "Jenna (F)",
+  "en": "We? How many others like you are there?"
+ },
+ {
+  "k": "154",
+  "quem": "Xam (M)",
+  "en": "Ahem- No comment."
+ },
+ {
+  "k": "155",
+  "cena": "SaveTheWorldEnding Xam Repeat",
+  "quem": "Narrador",
+  "en": "<i>Xam is grooming himself and licking his asshole.</i>"
+ },
+ {
+  "k": "156",
+  "cena": "Screenshot1",
+  "en": "<b><size=65><color=perversion><i>(No, I-.. I shouldn't... but-...)</i></color>"
+ },
+ {
+  "k": "157",
+  "en": "<size=60>Time to beat up some more bad guys, hehe!"
+ },
+ {
+  "k": "158",
+  "en": "<color=perversion>H-how's this..?</color>"
+ },
+ {
+  "k": "159",
+  "en": "<color=perversion>Does it feel good..?~</color>"
+ },
+ {
+  "k": "160",
+  "cena": "SDT1",
+  "quem": "Soldier (M)",
+  "en": "Mmm.. Good slut."
+ },
+ {
+  "k": "161",
+  "cena": "SDT2",
+  "quem": "Faine (F)",
+  "en": "Yes, that's right, slut... AIRSHIP will love this..~"
+ },
+ {
+  "k": "162",
+  "cena": "SDT3",
+  "quem": "Faine (F)",
+  "en": "Good, good. Show all those resistance cunts what happens with worthless AIRSHIP slime like you."
+ },
+ {
+  "k": "163",
+  "cena": "SDT4",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Guh..-! Mhfff.. Yess..</color>"
+ },
+ {
+  "k": "164",
+  "cena": "SDT5",
+  "quem": "Faine (F)",
+  "en": "Mmmhh.. Suck that cock, worthless AIRSHIP slime! Make yourself useful for your new owners!"
+ },
+ {
+  "k": "165",
+  "cena": "SDT6",
+  "quem": "Faine (F)",
+  "en": "You love sucking big strong Peitho cock, don't you, cunt?"
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mhffhnn... Yesss... Peitho cockk...</color>"
+ },
+ {
+  "k": "167",
+  "cena": "SDT7",
+  "quem": "Soldier (M)",
+  "en": "This is what AIRSHIP is good for."
+ },
+ {
+  "k": "168",
+  "cena": "SDT8",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mhaaa... Moore...</color>"
+ },
+ {
+  "k": "169",
+  "quem": "Faine (F)",
+  "en": "That's what happens when AIRSHIP filth finally gets what it deserves."
+ },
+ {
+  "k": "170",
+  "cena": "SDT9",
+  "quem": "Faine (F)",
+  "en": "That's right, AIRSHIP whore! Show your friends what you truly desired all this time!"
+ },
+ {
+  "k": "171",
+  "cena": "SDT10",
+  "quem": "Faine (F)",
+  "en": "Have your old AIRSHIP friends ever fucked your throat this good, worthless whore?!"
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mhaaaa...! Noo...! Mnnhhh..</color>"
+ },
+ {
+  "k": "173",
+  "cena": "SDT11",
+  "quem": "Faine (F)",
+  "en": "What your old friends will think once they see you on the floor serving a nice big Peitho cock..~"
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnhh.. Don't care... Cockk...</color>"
+ },
+ {
+  "k": "175",
+  "cena": "SDT12",
+  "quem": "Faine (F)",
+  "en": "Do you miss your old friends, slut?"
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnnhh.. Noo.. Cockk..</color>"
+ },
+ {
+  "k": "177",
+  "quem": "Faine (F)",
+  "en": "Good, good..~"
+ },
+ {
+  "k": "178",
+  "cena": "SDT13",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mwhaaa... Yess...</color>"
+ },
+ {
+  "k": "179",
+  "cena": "SDT14",
+  "quem": "Faine (F)",
+  "en": "Tell us, Jenna.. What should we do with resistance sluts when we capture them, hmm?"
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Enslave... Dumps... Serve...</color>"
+ },
+ {
+  "k": "181",
+  "cena": "SDT15",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mwhah.. Enjoy my throat... Superior Peitho cock...</color>"
+ },
+ {
+  "k": "182",
+  "quem": "Soldier (M)",
+  "en": "Mmmghh..."
+ },
+ {
+  "k": "183",
+  "cena": "SDT16",
+  "quem": "Faine (F)",
+  "en": "Good, Jenna... Show us what a filthy slut AIRSHIP has been holding back all this time."
+ },
+ {
+  "k": "184",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I'm.. Peitho.. Slut..</color>"
+ },
+ {
+  "k": "185",
+  "cena": "SDT17",
+  "quem": "Faine (F)",
+  "en": "Tell us how good it feels to finally suck a nice, thick Peitho cock, Jenna..~"
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>So good.. It's so hot... I love sucking Peitho cock... Please let me have more...</color>"
+ },
+ {
+  "k": "187",
+  "quem": "Faine (F)",
+  "en": "Don't worry, AIRSHIP slime... You'll get your throat fucked more than you could have ever imagined..~"
+ },
+ {
+  "k": "188",
+  "cena": "SDT18",
+  "quem": "Faine (F)",
+  "en": "Tell us, AIRSHIP hero Jenna.. What do you do with captured cunts for Peitho?"
+ },
+ {
+  "k": "189",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Train them.. To be dumps.. To <b>serve</b>... Makes me <b>stronger</b>...</color>"
+ },
+ {
+  "k": "190",
+  "cena": "SDT19",
+  "quem": "Faine (F)",
+  "en": "You look so much better with a cock down your throat. We should have your AIRSHIP friends join you some time, don't you think?"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnhh.. Yess..</color>"
+ },
+ {
+  "k": "192",
+  "cena": "Seasonal_Easter_EasterEggHunt_Bar_Jewel_AskEgg",
+  "quem": "Jenna (F)",
+  "en": "I actually need that egg you have there for the Easter Bunny!"
+ },
+ {
+  "k": "193",
+  "quem": "Jewel (F)",
+  "en": "This egg right here?"
+ },
+ {
+  "k": "194",
+  "quem": "Jewel (F)",
+  "en": "And what are you gonna do for me if I give it to you, blue?"
+ },
+ {
+  "k": "195",
+  "quem": "Jenna (F)",
+  "en": "E-Eheh... What do you want me to do?"
+ },
+ {
+  "k": "196",
+  "quem": "Jewel (F)",
+  "en": "How about you and I have some fun and I'll give ya the egg?"
+ },
+ {
+  "k": "197",
+  "tipo": "escolha",
+  "en": "<color=perversion>Have some fun with Jewel.</color>"
+ },
+ {
+  "k": "198",
+  "tipo": "escolha",
+  "en": "No."
+ }
+]

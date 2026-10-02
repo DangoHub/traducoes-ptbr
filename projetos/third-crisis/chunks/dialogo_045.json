@@ -1,0 +1,1506 @@
+[
+ {
+  "k": "1",
+  "cena": "FiendBreakout_TryExit_2",
+  "quem": "Narrador",
+  "en": "<i>We all rush her out of instinct and I wrestle with her arm, forcing it upward as flames start shooting out of it.</i>"
+ },
+ {
+  "k": "2",
+  "quem": "Jewel (F)",
+  "en": "S-Shit! That's hot! The t-temperature I mean!"
+ },
+ {
+  "k": "3",
+  "quem": "Throb (M)",
+  "en": "How did she- ah!- did she fix her suit?!"
+ },
+ {
+  "k": "4",
+  "quem": "Karen (F)",
+  "en": "AGH! FUCKERS!"
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "K-Karen! Stop! We're not your enemies!"
+ },
+ {
+  "k": "6",
+  "quem": "Karen (F)",
+  "en": "YOU'RE ALL GOING TO PAY!"
+ },
+ {
+  "k": "7",
+  "cena": "FiendBreakout_TryExit_3",
+  "quem": "Char_Fiend_HQ",
+  "en": "She charging fire!!"
+ },
+ {
+  "k": "8",
+  "quem": "Jewel (F)",
+  "en": "JENNA! GET AWAY FROM HER!"
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "Karen! Your helmet isn't on! You're not gonna survive!"
+ },
+ {
+  "k": "10",
+  "quem": "Karen (F)",
+  "en": "Neither will you."
+ },
+ {
+  "k": "11",
+  "quem": "Narrador",
+  "en": "<i>I desperately try to wrestle with her, trying to find an off switch... anything...</i>"
+ },
+ {
+  "k": "12",
+  "quem": "Throb (M)",
+  "en": "JENNA! RUN!"
+ },
+ {
+  "k": "13",
+  "quem": "Karen (F)",
+  "en": "I win."
+ },
+ {
+  "k": "14",
+  "cena": "FiendBreakout_TryExit_4",
+  "quem": "Karen (F)",
+  "en": "NO! NO! NO!"
+ },
+ {
+  "k": "15",
+  "quem": "Char_Fiend_HQ",
+  "en": "Phew... HQ disable suit."
+ },
+ {
+  "k": "16",
+  "quem": "Jewel (F)",
+  "en": "Close save! Nice one, Jenna's friend!"
+ },
+ {
+  "k": "17",
+  "quem": "Throb (M)",
+  "en": "Too close..."
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "Karen! W-What did you do to her, HQ?"
+ },
+ {
+  "k": "19",
+  "quem": "Char_Fiend_HQ",
+  "en": "HQ turn off suit! No fire, no move! Still talk though."
+ },
+ {
+  "k": "20",
+  "quem": "Karen (F)",
+  "en": "FUCK!! WHY?! WHY WON'T YOU JUST LOSE?! YOU ARROGANT BITCH! LET ME RID MYSELF OF YOU!"
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "Let's... Let's get her somewhere safe... Maybe the room over there..."
+ },
+ {
+  "k": "22",
+  "quem": "Karen (F)",
+  "en": "DON'T FUCKING TOUCH ME!!"
+ },
+ {
+  "k": "23",
+  "quem": "Throb (M)",
+  "en": "Can Rida help?"
+ },
+ {
+  "k": "24",
+  "quem": "Rida (F)",
+  "en": "Rida help carry angry girl."
+ },
+ {
+  "k": "25",
+  "cena": "FiendBreakout_TryExit_5",
+  "quem": "Karen (F)",
+  "en": "FUCK YOU! FUCK YOU!"
+ },
+ {
+  "k": "26",
+  "quem": "Narrador",
+  "en": "<i>Her arms are locked in an outstretched pose. They don't even move when we move her. She looks frozen in time...</i>"
+ },
+ {
+  "k": "27",
+  "quem": "Rida (F)",
+  "en": "Angry girl heavy."
+ },
+ {
+  "k": "28",
+  "quem": "Throb (M)",
+  "en": "I think I'll just... go..."
+ },
+ {
+  "k": "29",
+  "quem": "Rida (F)",
+  "en": "Rida go too. Enjoy angry girl, Carcen."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Yup..."
+ },
+ {
+  "k": "31",
+  "cena": "FiendBreakout_TryExit_6",
+  "quem": "Karen (F)",
+  "en": "Why won't you just fucking kill me?"
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "Aren't you supposed to be killing me?"
+ },
+ {
+  "k": "33",
+  "quem": "Karen (F)",
+  "en": "You always get saved by some stupid fucking bullshit."
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Maybe it's fate."
+ },
+ {
+  "k": "35",
+  "quem": "Karen (F)",
+  "en": "If it was fate, I would have killed you by now. The world will be better without you, you fucking mutt."
+ },
+ {
+  "k": "36",
+  "quem": "Karen (F)",
+  "en": "I just want to be rid of you... So. Fucking. Bad... You're a constant fucking reminder of all the pain you've caused me."
+ },
+ {
+  "k": "37",
+  "quem": "Jenna (F)",
+  "en": "I can fix it... We can fix it..."
+ },
+ {
+  "k": "38",
+  "quem": "Karen (F)",
+  "en": "You can't fix shit! All you do is break everything you fucking touch! Trying to be a fucking hero!"
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "I'm just trying to help you..."
+ },
+ {
+  "k": "40",
+  "quem": "Karen (F)",
+  "en": "By locking me up and keeping me prisoner? You're not helping."
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "Just... try to get some sleep... Maybe..."
+ },
+ {
+  "k": "42",
+  "quem": "Floria (F)",
+  "en": "It's sooo bright in heeeeere!"
+ },
+ {
+  "k": "43",
+  "cena": "FiendBreakout_TryExit_7",
+  "quem": "Floria (F)",
+  "en": "Can't sleep when it's so bright is all."
+ },
+ {
+  "k": "44",
+  "quem": "Char_Fiend_HQ",
+  "en": "Hmmm... HQ can fix! Need Jenna help though..."
+ },
+ {
+  "k": "45",
+  "quem": "Floria (F)",
+  "en": "If you're not busy, Jenna..."
+ },
+ {
+  "k": "46",
+  "cena": "FiendBreakout_TryExit_8",
+  "quem": "Karen (F)",
+  "en": "Fuck are you looking at me for?"
+ },
+ {
+  "k": "47",
+  "quem": "Jenna (F)",
+  "en": "No reason..."
+ },
+ {
+  "k": "48",
+  "cena": "FiendBreakout_TryExit_9",
+  "quem": "Jenna (F)",
+  "en": "What do you need me for, HQ?"
+ },
+ {
+  "k": "49",
+  "quem": "Char_Fiend_HQ",
+  "en": "Need Jenna help so Floria can sleep."
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Yes, I know, but I mea-"
+ },
+ {
+  "k": "51",
+  "quem": "Jewel (F)",
+  "en": "Wait?! Is it nighttime already?"
+ },
+ {
+  "k": "52",
+  "quem": "Throb (M)",
+  "en": "Crap! I'm late for my patrol shift!"
+ },
+ {
+  "k": "53",
+  "quem": "Jewel (F)",
+  "en": "I need to get to Martin! Sorry, blue..."
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "That's... That's okay. We should be fine here. Go do your thing."
+ },
+ {
+  "k": "55",
+  "quem": "Jewel (F)",
+  "en": "Thanks, blue. You're the best."
+ },
+ {
+  "k": "56",
+  "quem": "Narrador",
+  "en": "<i>She leans in and gives me a quick peck on the cheek before rushing off with Throb.</i>"
+ },
+ {
+  "k": "57",
+  "quem": "Jewel (F)",
+  "en": "How about a quickie on the way back, Throbbie?"
+ },
+ {
+  "k": "58",
+  "cena": "FiendBreakout_TryExit_10",
+  "quem": "Char_Fiend_HQ",
+  "en": "Jenna okay?"
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "I'm alright, bud. What do I need to do?"
+ },
+ {
+  "k": "60",
+  "quem": "Char_Fiend_HQ",
+  "en": "Take signal detector."
+ },
+ {
+  "k": "61",
+  "quem": "Narrador",
+  "en": "<i>He hands me a weird little device...</i>"
+ },
+ {
+  "k": "62",
+  "quem": "Char_Fiend_HQ",
+  "en": "It go beep when close to signal! Need Jenna to find signals in walls for HQ to tap... Then HQ can control lights!"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "Damn... Sounds like a dirty job, but someone's gotta do it."
+ },
+ {
+  "k": "64",
+  "quem": "Char_Fiend_HQ",
+  "en": "Mm... HQ wish Jenna luck."
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "Thanks, bud. I'll take care of it quick. Then we can all do a nice big sleep."
+ },
+ {
+  "k": "66",
+  "quem": "Char_Fiend_HQ",
+  "en": "Mm."
+ },
+ {
+  "k": "67",
+  "cena": "Fiends Arrival Cutscene Dialogue 1",
+  "quem": "Jenna (F)",
+  "en": "Here we are!"
+ },
+ {
+  "k": "68",
+  "quem": "Rida (F)",
+  "en": "Tribe home!"
+ },
+ {
+  "k": "69",
+  "quem": "Jewel (F)",
+  "en": "We can make some space here for your tents!"
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "We should ask Lady."
+ },
+ {
+  "k": "71",
+  "cena": "Fiends Arrival Cutscene Dialogue 2",
+  "quem": "Jenna (F)",
+  "en": "Lady! We did it! Rida is leading her clan again!"
+ },
+ {
+  "k": "72",
+  "quem": "Rida (F)",
+  "en": "Rida top!"
+ },
+ {
+  "k": "73",
+  "quem": "Lady (F)",
+  "en": "Uh huh... Where are they going to stay?"
+ },
+ {
+  "k": "74",
+  "quem": "Throb (M)",
+  "en": "We were thinking of this bit of forest right here."
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "Yeah! They have their tents and everything!"
+ },
+ {
+  "k": "76",
+  "quem": "Lady (F)",
+  "en": "Tents?"
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "Yeah, they're surprisingly elaborate actually."
+ },
+ {
+  "k": "78",
+  "quem": "Rida (F)",
+  "en": "Tribe tent Rida design."
+ },
+ {
+  "k": "79",
+  "quem": "Lady (F)",
+  "en": "... Fine. Just get it done."
+ },
+ {
+  "k": "80",
+  "quem": "Rida (F)",
+  "en": "Hmm..."
+ },
+ {
+  "k": "81",
+  "cena": "Fiends Arrival Cutscene Dialogue 3",
+  "quem": "Jenna (F)",
+  "en": "Let's get to i-"
+ },
+ {
+  "k": "82",
+  "quem": "Floria (F)",
+  "en": "Argh!"
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "Err... Floria? You alright?"
+ },
+ {
+  "k": "84",
+  "quem": "Floria (F)",
+  "en": "Voices... in my head... Hurts."
+ },
+ {
+  "k": "85",
+  "quem": "Throb (M)",
+  "en": "Voices...? Like how we heard her voice in Sublevel 2."
+ },
+ {
+  "k": "86",
+  "quem": "Jewel (F)",
+  "en": "Hey Flo, let's get you somewhere you can rest, okay?"
+ },
+ {
+  "k": "87",
+  "quem": "Floria (F)",
+  "en": "O-Okay..."
+ },
+ {
+  "k": "88",
+  "quem": "Jewel (F)",
+  "en": "You guys handle the tents. We'll take care of her."
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "Okay, sounds good."
+ },
+ {
+  "k": "90",
+  "quem": "Rida (F)",
+  "en": "Tents!"
+ },
+ {
+  "k": "91",
+  "cena": "Fiends Arrival Cutscene Dialogue 4",
+  "quem": "Rida (F)",
+  "en": "Tents done!"
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "That was pretty quick!"
+ },
+ {
+  "k": "93",
+  "quem": "Rida (F)",
+  "en": "Tribe strong with Rida!"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "It sure is."
+ },
+ {
+  "k": "95",
+  "quem": "Rida (F)",
+  "en": "Rida thanks..."
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "You're welcome! You'll be there for us when we need you too."
+ },
+ {
+  "k": "97",
+  "quem": "Rida (F)",
+  "en": "Trust Rida, trust tribe!"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "I will."
+ },
+ {
+  "k": "99",
+  "cena": "Fiends Talk",
+  "quem": "Fiend",
+  "en": "Hmm, me lost key.  "
+ },
+ {
+  "k": "100",
+  "cena": "Fiends Talk 2",
+  "quem": "Fiend",
+  "en": "Rida back, tribe strong. "
+ },
+ {
+  "k": "101",
+  "quem": "Fiend",
+  "en": "Thanks for bring back Rida."
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "Your welcome!"
+ },
+ {
+  "k": "103",
+  "cena": "Fiends Talk 3",
+  "quem": "Fiend",
+  "en": "Did see the Metalman?"
+ },
+ {
+  "k": "104",
+  "quem": "Fiend",
+  "en": "Yes what with Metalman?"
+ },
+ {
+  "k": "105",
+  "quem": "Fiend",
+  "en": "Metalman can make strong. Metalman have big cock."
+ },
+ {
+  "k": "106",
+  "quem": "Fiend",
+  "en": "Metalman not from tribe."
+ },
+ {
+  "k": "107",
+  "quem": "Fiend",
+  "en": "And? Me want get strong he can make strong."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<i>(They must talk about Arnold)</i>"
+ },
+ {
+  "k": "109",
+  "cena": "fifth button pressed 2",
+  "quem": "Jenna (F)",
+  "en": "Nothing left to do here."
+ },
+ {
+  "k": "110",
+  "cena": "Fifth Dialogue",
+  "quem": "Jenna (F)",
+  "en": "Hmm let's see if we can open it."
+ },
+ {
+  "k": "111",
+  "cena": "Fifth door locked",
+  "quem": "Jenna (F)",
+  "en": "Another locked door."
+ },
+ {
+  "k": "112",
+  "cena": "Finale_1_Briefing_1",
+  "quem": "Jenna (F)",
+  "en": "We've gathered everyone. We're ready for the next step."
+ },
+ {
+  "k": "113",
+  "quem": "Lady (F)",
+  "en": "So it's finally time..."
+ },
+ {
+  "k": "114",
+  "quem": "Lady (F)",
+  "en": "Wait here. I'll gather the others."
+ },
+ {
+  "k": "115",
+  "cena": "Finale_1_Briefing_2",
+  "quem": "Arnold (M)",
+  "en": "Man, there's so many people around the camp now! Place is packed!"
+ },
+ {
+  "k": "116",
+  "quem": "Sofie (F)",
+  "en": "Uh. Yeaah! It's friggin' annoying! Tell 'em to stay out of my stuff!"
+ },
+ {
+  "k": "117",
+  "quem": "Altin (M)",
+  "en": "I-It seems t-to be a s-strong fighting f-force!"
+ },
+ {
+  "k": "118",
+  "quem": "Lady (F)",
+  "en": "And that's why we're here now."
+ },
+ {
+  "k": "119",
+  "quem": "Sofie (F)",
+  "en": "To tell people to stay out of my shit?"
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "To discuss our plan to fight."
+ },
+ {
+  "k": "121",
+  "quem": "Lady (F)",
+  "en": "Which brings us to how much time we have left. The short answer is we have no idea. That tower could go off at any point."
+ },
+ {
+  "k": "122",
+  "quem": "Arnold (M)",
+  "en": "And then we'll all be mindless idiots!"
+ },
+ {
+  "k": "123",
+  "quem": "Rida (F)",
+  "en": "Hey!"
+ },
+ {
+  "k": "124",
+  "quem": "Arnold (M)",
+  "en": "Eheh... Sorry."
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "So we need to come up with a plan of attack quick."
+ },
+ {
+  "k": "126",
+  "quem": "Lady (F)",
+  "en": "We've already been planning out the resistance's plan of attack. It's just a matter of what the other groups will do."
+ },
+ {
+  "k": "127",
+  "quem": "Jewel (F)",
+  "en": "Can they not just reinforce you guys?"
+ },
+ {
+  "k": "128",
+  "quem": "Sofie (F)",
+  "en": "Yeah, and have a bunch of even dumber people try to mess with our gear?"
+ },
+ {
+  "k": "129",
+  "quem": "Rida (F)",
+  "en": "What pink girl say about Rida people?"
+ },
+ {
+  "k": "130",
+  "quem": "Floria (F)",
+  "en": "Surely you don't mean my children."
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "Guys. We don't have time to be at each other's throats."
+ },
+ {
+  "k": "132",
+  "quem": "Lady (F)",
+  "en": "I suppose we could use them."
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "Great! So what's your big plan anyway?"
+ },
+ {
+  "k": "134",
+  "quem": "Lady (F)",
+  "en": "Without getting into the nitty gritty of it, we plan to take and hold the ground floor of the tower so reinforcements can't arrive."
+ },
+ {
+  "k": "135",
+  "quem": "Lady (F)",
+  "en": "Then we'd need a strike team to make their way up the tower and clear the floors as they go until they get to the top."
+ },
+ {
+  "k": "136",
+  "quem": "Lady (F)",
+  "en": "The objective is to disable the tower. The main controls seem to be at the top. That's where you'll be able to override the system and shut it down."
+ },
+ {
+  "k": "137",
+  "quem": "Throb (M)",
+  "en": "Uh- us?"
+ },
+ {
+  "k": "138",
+  "quem": "Sofie (F)",
+  "en": "Duh, slacker! I'd do it myself but Lady said-"
+ },
+ {
+  "k": "139",
+  "quem": "Lady (F)",
+  "en": "You're needed on the gr-"
+ },
+ {
+  "k": "140",
+  "quem": "Sofie (F)",
+  "en": "On the ground level! Yeah I know!"
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "We can handle it."
+ },
+ {
+  "k": "142",
+  "quem": "Sofie (F)",
+  "en": "Oh yeah? And what's gonna happen when you see your little girlfriend again?"
+ },
+ {
+  "k": "143",
+  "quem": "Arnold (M)",
+  "en": "Sof-"
+ },
+ {
+  "k": "144",
+  "quem": "Sofie (F)",
+  "en": "What?! Am I the only one here that remembers the way this chick PROTECTED that murdering fire cunt-"
+ },
+ {
+  "k": "145",
+  "quem": "Altin (M)",
+  "en": "E-Erm... Sofie..."
+ },
+ {
+  "k": "146",
+  "quem": "Sofie (F)",
+  "en": "And cuz of this bleeding heart over here, that monster forced us out of our home! Don't you all remember how much we lost because of that?"
+ },
+ {
+  "k": "147",
+  "quem": "Sofie (F)",
+  "en": "So forgive me if I'm a little nervous about going to fucking war beside someone who won't do what needs to be done!!"
+ },
+ {
+  "k": "148",
+  "quem": "Lady (F)",
+  "en": "Sofie. Enough."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "Needs to be done? What the fuck does that mean?"
+ },
+ {
+  "k": "150",
+  "quem": "Sofie (F)",
+  "en": "When the chips are down. When it's us or her. Who are you gonna choose?"
+ },
+ {
+  "k": "151",
+  "quem": "Sofie (F)",
+  "en": "Yeah. Thought so."
+ },
+ {
+  "k": "152",
+  "quem": "Jewel (F)",
+  "en": "This isn't very productive."
+ },
+ {
+  "k": "153",
+  "quem": "Lady (F)",
+  "en": "Not another word out of you, Sofie."
+ },
+ {
+  "k": "154",
+  "quem": "Sofie (F)",
+  "en": "Ugh..."
+ },
+ {
+  "k": "155",
+  "quem": "Lady (F)",
+  "en": "Jenna. This goes without saying, but I'm going to say it anyways. It needs to be us. Do you understand?"
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "Yeah. I get it."
+ },
+ {
+  "k": "157",
+  "quem": "Lady (F)",
+  "en": "Now. There's only the matter of entry left. The tower is protected by a large wall with an energy gate, that gate needs to be unlocked."
+ },
+ {
+  "k": "158",
+  "quem": "Altin (M)",
+  "en": "E-Erm... It's n-not only t-that gate. I'm p-positive the r-rest of the t-tower has many l-locked entryways inside."
+ },
+ {
+  "k": "159",
+  "quem": "Altin (M)",
+  "en": "W-We'd need to crack h-hundreds of locks. I-It would take y-years."
+ },
+ {
+  "k": "160",
+  "quem": "Lady (F)",
+  "en": "We don't have years!"
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "But we've got the fourth month of the year."
+ },
+ {
+  "k": "162",
+  "quem": "Lady (F)",
+  "en": "... What?"
+ },
+ {
+  "k": "163",
+  "quem": "Jewel (F)",
+  "en": "Wow. That's a throwback. I see where blue is going with this."
+ },
+ {
+  "k": "164",
+  "quem": "Arnold (M)",
+  "en": "Do tell?"
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "We had a bit of a run-in with a rogue AI a while ago. She's down at the VR Center in Carceburg. We're on good terms."
+ },
+ {
+  "k": "166",
+  "quem": "Jewel (F)",
+  "en": "Oh, a run-in? That's what you're calling it. Okay."
+ },
+ {
+  "k": "167",
+  "quem": "Altin (M)",
+  "en": "W-Why... an A-AI could h-handle locks l-like those easily!"
+ },
+ {
+  "k": "168",
+  "quem": "Sofie (F)",
+  "en": "Didn't you hear the 'rogue' part?"
+ },
+ {
+  "k": "169",
+  "quem": "Lady (F)",
+  "en": "What's its name?"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "Like I said! Fourth month of the year!"
+ },
+ {
+  "k": "171",
+  "quem": "Rida (F)",
+  "en": "April!"
+ },
+ {
+  "k": "172",
+  "quem": "Throb (M)",
+  "en": "Wow. That was actually impressive for you Rida. Good job."
+ },
+ {
+  "k": "173",
+  "quem": "Rida (F)",
+  "en": "Rida smart."
+ },
+ {
+  "k": "174",
+  "quem": "Lady (F)",
+  "en": "April. Right. Okay. First thing's first then. Tomorrow you're gonna go find this 'April'. Secure it. Then bring it back here and we can begin the attack."
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "You got it."
+ },
+ {
+  "k": "176",
+  "quem": "Lady (F)",
+  "en": "Once the attack is underway, you'll take your strike team and get to the top of the tower to disable it before it's too late."
+ },
+ {
+  "k": "177",
+  "quem": "Floria (F)",
+  "en": "Simple!"
+ },
+ {
+  "k": "178",
+  "quem": "Jewel (F)",
+  "en": "Piece of cake!"
+ },
+ {
+  "k": "179",
+  "quem": "Rida (F)",
+  "en": "Rida smart!"
+ },
+ {
+  "k": "180",
+  "quem": "Throb (M)",
+  "en": "What could possibly go wrong...?"
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "That's the spirit!"
+ },
+ {
+  "k": "182",
+  "quem": "Lady (F)",
+  "en": "We'll try to prepare our forces while you get the AI."
+ },
+ {
+  "k": "183",
+  "quem": "Arnold (M)",
+  "en": "Oh yeah! Little bit of training!"
+ },
+ {
+  "k": "184",
+  "quem": "Sofie (F)",
+  "en": "We're all gonna die."
+ },
+ {
+  "k": "185",
+  "quem": "Lady (F)",
+  "en": "Quiet."
+ },
+ {
+  "k": "186",
+  "quem": "Lady (F)",
+  "en": "Get some rest. We begin at dawn tomorrow."
+ },
+ {
+  "k": "187",
+  "quem": "Jenna (F)",
+  "en": "Right."
+ },
+ {
+  "k": "188",
+  "cena": "Finale_2_Sleep_1",
+  "quem": "Jenna (F)",
+  "en": "<i>(It's almost over...)</i>"
+ },
+ {
+  "k": "189",
+  "quem": "Jenna (F)",
+  "en": "<i>(And for what?!)</i>"
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "<i>(Karen's... I know she's still in there... somewhere...)</i>"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "<i>(But I can't fucking reach her!)</i>"
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "<i>(And with everyone's lives on the line... I might have to...)</i>"
+ },
+ {
+  "k": "193",
+  "quem": "Jenna (F)",
+  "en": "<i>(Fuck... Fuck fuck fuck!)</i>"
+ },
+ {
+  "k": "194",
+  "cena": "Finale_2_Sleep_2",
+  "quem": "Jewel (F)",
+  "en": "Err... Hey blue."
+ },
+ {
+  "k": "195",
+  "quem": "Jenna (F)",
+  "en": "Hey Jewel..."
+ },
+ {
+  "k": "196",
+  "quem": "Jewel (F)",
+  "en": "You uh... havin' trouble sleeping too?"
+ },
+ {
+  "k": "197",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I am."
+ },
+ {
+  "k": "198",
+  "quem": "Jewel (F)",
+  "en": "Me too."
+ },
+ {
+  "k": "199",
+  "quem": "Jenna (F)",
+  "en": "What's got you troubled?"
+ },
+ {
+  "k": "200",
+  "quem": "Jewel (F)",
+  "en": "Well... I've never been in a battle before."
+ },
+ {
+  "k": "201",
+  "quem": "Jenna (F)",
+  "en": "But we've been in tons of battles together."
+ },
+ {
+  "k": "202",
+  "quem": "Jewel (F)",
+  "en": "Well... Those were more like little fights. This feels... much different, bigger."
+ },
+ {
+  "k": "203",
+  "quem": "Jenna (F)",
+  "en": "Yeah, it can get pretty overwhelming and scary."
+ },
+ {
+  "k": "204",
+  "quem": "Jenna (F)",
+  "en": "The way to deal with it is to just focusing on your part to play."
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "Our job is to get April. Then we just take the tower. We've been through a bunch together, we can get through this too. Just another day on the job."
+ },
+ {
+  "k": "206",
+  "quem": "Jewel (F)",
+  "en": "\"Just take the tower.\" You make it sound so simple..."
+ },
+ {
+  "k": "207",
+  "quem": "Jenna (F)",
+  "en": "Well... I guess there's a bit more to it than that, yeah."
+ },
+ {
+  "k": "208",
+  "quem": "Jewel (F)",
+  "en": "Yeah... Thanks, blue. So what's keeping you up?"
+ },
+ {
+  "k": "209",
+  "quem": "Jenna (F)",
+  "en": "Oh- I'm uh... heh... just cold?"
+ },
+ {
+  "k": "210",
+  "quem": "Jewel (F)",
+  "en": "Well we could warm up if you wan-"
+ },
+ {
+  "k": "211",
+  "cena": "Finale_2_Sleep_3",
+  "quem": "Throb (M)",
+  "en": "... Am I interrupting?"
+ },
+ {
+  "k": "212",
+  "quem": "Jewel (F)",
+  "en": "Only a little."
+ },
+ {
+  "k": "213",
+  "quem": "Jenna (F)",
+  "en": "Hey Stefan."
+ },
+ {
+  "k": "214",
+  "quem": "Throb (M)",
+  "en": "Oh? Not Throb? We not doing nicknames anymore?"
+ },
+ {
+  "k": "215",
+  "quem": "Jenna (F)",
+  "en": "I guess it just didn't feel right to joke."
+ },
+ {
+  "k": "216",
+  "quem": "Throb (M)",
+  "en": "Well the jokes are one of the reasons why we love ya."
+ },
+ {
+  "k": "217",
+  "quem": "Jewel (F)",
+  "en": "I've got plenty more reasons too."
+ },
+ {
+  "k": "218",
+  "quem": "Jenna (F)",
+  "en": "Thanks."
+ },
+ {
+  "k": "219",
+  "quem": "Jewel (F)",
+  "en": "Can't sleep either, Throb?"
+ },
+ {
+  "k": "220",
+  "quem": "Throb (M)",
+  "en": "Nope. Scared shitless."
+ },
+ {
+  "k": "221",
+  "quem": "Jewel (F)",
+  "en": "Yeah..."
+ },
+ {
+  "k": "222",
+  "quem": "Throb (M)",
+  "en": "But... I'm also ready. Whatever happens, I'll know I did my part to reverse some of the wrongs I've been a part of."
+ },
+ {
+  "k": "223",
+  "quem": "Jenna (F)",
+  "en": "You're not responsible for any of this."
+ },
+ {
+  "k": "224",
+  "quem": "Throb (M)",
+  "en": "No, but I didn't help. When I was a guard, I just kept my head down for my own selfish ass. The easy life... I'm done keeping my head down."
+ },
+ {
+  "k": "225",
+  "quem": "Jenna (F)",
+  "en": "Well, I know It hasn't just been an easy life for you."
+ },
+ {
+  "k": "226",
+  "quem": "Throb (M)",
+  "en": "... Yeah. Guess not. But I shouldn't have done the things I did."
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "I've got regrets too. I'm sorry."
+ },
+ {
+  "k": "228",
+  "quem": "Jewel (F)",
+  "en": "What are you sorry for?"
+ },
+ {
+  "k": "229",
+  "quem": "Jenna (F)",
+  "en": "I had a chance to prevent all of this years ago. But I just... couldn't. If I just..."
+ },
+ {
+  "k": "230",
+  "quem": "Throb (M)",
+  "en": "Don't beat yourself up. Let's both make up for what we should've done."
+ },
+ {
+  "k": "231",
+  "quem": "Jenna (F)",
+  "en": "Yeah... Alright."
+ },
+ {
+  "k": "232",
+  "quem": "Jewel (F)",
+  "en": "Lot of heart to hearts going around."
+ },
+ {
+  "k": "233",
+  "quem": "Jenna (F)",
+  "en": "Now's the time for it, I guess."
+ },
+ {
+  "k": "234",
+  "cena": "Finale_2_Sleep_4",
+  "quem": "Floria (F)",
+  "en": "Oh- Looks like a party in here."
+ },
+ {
+  "k": "235",
+  "quem": "Jenna (F)",
+  "en": "Well it was company, now it's a crowd I guess."
+ },
+ {
+  "k": "236",
+  "quem": "Jewel (F)",
+  "en": "Hey green."
+ },
+ {
+  "k": "237",
+  "quem": "Floria (F)",
+  "en": "Hey! Rida and I just finished up some 'destressing'. Wanted to see what you guys were up to."
+ },
+ {
+  "k": "238",
+  "quem": "Rida (F)",
+  "en": "Rida fuck plant girl."
+ },
+ {
+  "k": "239",
+  "quem": "Throb (M)",
+  "en": "Yeah, we got that."
+ },
+ {
+  "k": "240",
+  "quem": "Rida (F)",
+  "en": "Eh?? How??"
+ },
+ {
+  "k": "241",
+  "quem": "Jewel (F)",
+  "en": "Must be just intuition, big gal."
+ },
+ {
+  "k": "242",
+  "quem": "Floria (F)",
+  "en": "How are you feeling, Jen?"
+ },
+ {
+  "k": "243",
+  "quem": "Jenna (F)",
+  "en": "I'm fine. It'll be a cake walk!"
+ },
+ {
+  "k": "244",
+  "quem": "Floria (F)",
+  "en": "I know that face. You always made it when you had your pre-mission nerves."
+ },
+ {
+  "k": "245",
+  "quem": "Jenna (F)",
+  "en": "I'm just thinking about..."
+ },
+ {
+  "k": "246",
+  "quem": "Floria (F)",
+  "en": "Karen. I know."
+ },
+ {
+  "k": "247",
+  "quem": "Jenna (F)",
+  "en": "I-... Yeah."
+ },
+ {
+  "k": "248",
+  "quem": "Floria (F)",
+  "en": "Well... You pulled me out of that... mindset I was in. I'm sure we'll be able to do the same with Karen."
+ },
+ {
+  "k": "249",
+  "quem": "Jenna (F)",
+  "en": "Thanks, Flo..."
+ },
+ {
+  "k": "250",
+  "quem": "Rida (F)",
+  "en": "Rida excited for fight!"
+ },
+ {
+  "k": "251",
+  "quem": "Jewel (F)",
+  "en": "Guess that makes one of us at least."
+ },
+ {
+  "k": "252",
+  "quem": "Rida (F)",
+  "en": "Mm. Rida wanted carcens to know. And plant girl too."
+ },
+ {
+  "k": "253",
+  "quem": "Floria (F)",
+  "en": "You were sure excited a few minutes ago."
+ },
+ {
+  "k": "254",
+  "quem": "Rida (F)",
+  "en": "Yes!"
+ },
+ {
+  "k": "255",
+  "quem": "Jewel (F)",
+  "en": "Hey, why were you hogging her by the way, green? Save some for the rest o-"
+ },
+ {
+  "k": "256",
+  "cena": "Finale_2_Sleep_5",
+  "quem": "Throb (M)",
+  "en": "What the fuck was that?!"
+ },
+ {
+  "k": "257",
+  "quem": "Floria (F)",
+  "en": "Something's wrong..."
+ },
+ {
+  "k": "258",
+  "quem": "Rida (F)",
+  "en": "Rida smell fight."
+ },
+ {
+  "k": "259",
+  "quem": "Jewel (F)",
+  "en": "Fight? But I thought we were starting tomorrow?"
+ },
+ {
+  "k": "260",
+  "quem": "Jenna (F)",
+  "en": "Looks like someone didn't get the memo. Let's see what's happening."
+ },
+ {
+  "k": "261",
+  "cena": "Finale_3_CutsceneDialogue_1",
+  "quem": "Jenna (F)",
+  "en": "<i>(Karen. No...)</i>"
+ },
+ {
+  "k": "262",
+  "quem": "Lady (F)",
+  "en": "Hello again, Wildfire."
+ },
+ {
+  "k": "263",
+  "quem": "Wildfire (F)",
+  "en": "What a fucking shithole you have here. You their leader?"
+ },
+ {
+  "k": "264",
+  "quem": "Lady (F)",
+  "en": "I never stopped being their leader."
+ },
+ {
+  "k": "265",
+  "quem": "Jenna (F)",
+  "en": "<i>(Never stopped? What's that supposed to mean?)</i>"
+ },
+ {
+  "k": "266",
+  "quem": "Wildfire (F)",
+  "en": "You... I remember you. I've broken you before haven't I?"
+ },
+ {
+  "k": "267",
+  "quem": "Lady (F)",
+  "en": "You'll never break me."
+ },
+ {
+  "k": "268",
+  "quem": "Wildfire (F)",
+  "en": "That voice... I do remember you. I broke apart your little coup years ago. Made an example out of you."
+ },
+ {
+  "k": "269",
+  "quem": "Wildfire (F)",
+  "en": "No wonder you're covered head to toe. I'd hide all those burn marks too."
+ },
+ {
+  "k": "270",
+  "quem": "Lady (F)",
+  "en": "Like you hide all your marks? Was Pyra too rough again? Mask's back on I see."
+ },
+ {
+  "k": "271",
+  "quem": "Wildfire (F)",
+  "en": "SHUT THE FUCK UP! THIS TIME I WON'T LEAVE A SHRED OF YOUR LITTLE RESISTANCE REMAINING. GOOD OF YOU TO ALL GATHER IN ONE PLACE!"
+ },
+ {
+  "k": "272",
+  "quem": "Lady (F)",
+  "en": "Sofie. Get the guns."
+ },
+ {
+  "k": "273",
+  "quem": "Sofie (F)",
+  "en": "I thought you'd never ask."
+ },
+ {
+  "k": "274",
+  "cena": "Finale_3_CutsceneDialogue_2",
+  "quem": "Sofie (F)",
+  "en": "Oh great, the slacker's here."
+ },
+ {
+  "k": "275",
+  "quem": "Lady (F)",
+  "en": "Jenna! Get out of here! We start now!"
+ },
+ {
+  "k": "276",
+  "quem": "Wildfire (F)",
+  "en": "JENNA?!?"
+ },
+ {
+  "k": "277",
+  "quem": "Jenna (F)",
+  "en": "Karen..."
+ },
+ {
+  "k": "278",
+  "quem": "Wildfire (F)",
+  "en": "I'LL KILL YOU! YOU HEAR ME!?"
+ },
+ {
+  "k": "279",
+  "quem": "Sofie (F)",
+  "en": "The fuck you will!"
+ },
+ {
+  "k": "280",
+  "quem": "Arnold (M)",
+  "en": "Not a chance."
+ },
+ {
+  "k": "281",
+  "quem": "Lady (F)",
+  "en": "GO JENNA! WE'LL HOLD HER OFF."
+ },
+ {
+  "k": "282",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "283",
+  "quem": "Jenna (F)",
+  "en": "She's right. We need to go. We have our part to play."
+ },
+ {
+  "k": "284",
+  "quem": "Rida (F)",
+  "en": "But... fight..."
+ },
+ {
+  "k": "285",
+  "quem": "Throb (M)",
+  "en": "We're with you."
+ },
+ {
+  "k": "286",
+  "cena": "Finale_3_CutsceneDialogue_3",
+  "quem": "Wildfire (F)",
+  "en": "RUNNING WITH HER TAIL BETWEEN HER LEGS! LEAVING YOU ALL FOR DEAD. YOUR LITTLE RESISTANCE IS NOTHING BUT ASHES. JUST GIVE UP."
+ },
+ {
+  "k": "287",
+  "quem": "Lady (F)",
+  "en": "My Resistance doesn't give up."
+ },
+ {
+  "k": "288",
+  "quem": "Lady (F)",
+  "en": "My Resistance doesn't break."
+ },
+ {
+  "k": "289",
+  "quem": "Lady (F)",
+  "en": "My Resistance NEVER burns out."
+ },
+ {
+  "k": "290",
+  "quem": "Lady (F)",
+  "en": "MY RESISTANCE HOLDS THE LINE!"
+ },
+ {
+  "k": "291",
+  "quem": "Arnold (M)",
+  "en": "HOLD THE LINE!"
+ },
+ {
+  "k": "292",
+  "quem": "Sofie (F)",
+  "en": "LET'S KICK HER FIRE ASS!"
+ },
+ {
+  "k": "293",
+  "quem": "Wildfire (F)",
+  "en": "Insignificant vermin."
+ },
+ {
+  "k": "294",
+  "quem": "Floria (F)",
+  "en": "Jenna! Let's go!"
+ },
+ {
+  "k": "295",
+  "quem": "Jenna (F)",
+  "en": "Right."
+ }
+]

@@ -1,0 +1,783 @@
+[
+ {
+  "k": "1",
+  "cena": "2nd after Hacking",
+  "quem": "Jenna (F)",
+  "en": "Nothing left to do here!"
+ },
+ {
+  "k": "2",
+  "cena": "2nd Hacking",
+  "quem": "Jenna (F)",
+  "en": "This should open the door to the basement. "
+ },
+ {
+  "k": "3",
+  "cena": "2nd time talk with Man6",
+  "quem": "Man (M)",
+  "en": "Changed your mind? "
+ },
+ {
+  "k": "4",
+  "cena": "2nd_Camp_PreFight",
+  "quem": "Jenna (F)",
+  "en": "Ahh shit, here we go again."
+ },
+ {
+  "k": "5",
+  "quem": "Rida (F)",
+  "en": "Don't hurt tribe too much."
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "We just do it like last time."
+ },
+ {
+  "k": "7",
+  "cena": "2nd_CampPost",
+  "quem": "Jenna (F)",
+  "en": "Easy peasy!"
+ },
+ {
+  "k": "8",
+  "quem": "Jewel (F)",
+  "en": "Teamwork really makes dreams work."
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "So who does the silly puns now?"
+ },
+ {
+  "k": "10",
+  "quem": "Throb (M)",
+  "en": "Must be your influence on her."
+ },
+ {
+  "k": "11",
+  "quem": "Rida (F)",
+  "en": "No time now, need prepare for big fight!"
+ },
+ {
+  "k": "12",
+  "cena": "3_PostFight",
+  "quem": "Jenna (F)",
+  "en": "Phew, we did it!"
+ },
+ {
+  "k": "13",
+  "quem": "Rida (F)",
+  "en": "Told carcen strong!"
+ },
+ {
+  "k": "14",
+  "quem": "Floria (F)",
+  "en": "Now now, she wasn't alone, was she?"
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Of course not! Teamwork makes the dream work!"
+ },
+ {
+  "k": "16",
+  "quem": "Jewel (F)",
+  "en": "You and your silly puns, heh."
+ },
+ {
+  "k": "17",
+  "quem": "Throb (M)",
+  "en": "So what now?"
+ },
+ {
+  "k": "18",
+  "quem": "Rida (F)",
+  "en": "Wrestle. Carcen must prepare. Must be strong."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "So back to the camp?"
+ },
+ {
+  "k": "20",
+  "quem": "Rida (F)",
+  "en": "Yes!"
+ },
+ {
+  "k": "21",
+  "cena": "3_PreFight",
+  "quem": "Jenna (F)",
+  "en": "So this is the camp?"
+ },
+ {
+  "k": "22",
+  "quem": "Rida (F)",
+  "en": "Attack camp. Mina get Angry!"
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "We will have to fight our way through, hm?"
+ },
+ {
+  "k": "24",
+  "quem": "Rida (F)",
+  "en": "Carcen strong, must win!"
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "Right!"
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "Just try not to hurt them too much..."
+ },
+ {
+  "k": "27",
+  "cena": "3rd after hack",
+  "quem": "Jenna (F)",
+  "en": "I'm getting better and better!"
+ },
+ {
+  "k": "28",
+  "cena": "3rd locked door",
+  "quem": "Jenna (F)",
+  "en": "More locked doors."
+ },
+ {
+  "k": "29",
+  "cena": "3rd time trigger",
+  "quem": "Jenna (F)",
+  "en": "<i>(I won't go near it!)</i>"
+ },
+ {
+  "k": "30",
+  "cena": "4Some",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Is that-..)</i></color>"
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I don't even remember this...)</i></color>"
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Heh-.. I must have been so full of <b>it</b>...)</i></color>"
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(The whole base is watching...)</i></color>"
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Hhhh...)</i></color>"
+ },
+ {
+  "k": "35",
+  "cena": "4th button press 2",
+  "quem": "Jenna (F)",
+  "en": "All done."
+ },
+ {
+  "k": "36",
+  "cena": "4th Locked door",
+  "quem": "Jenna (F)",
+  "en": "Another locked door!"
+ },
+ {
+  "k": "37",
+  "cena": "5th after hack",
+  "quem": "Jenna (F)",
+  "en": "I'm just to good at this."
+ },
+ {
+  "k": "38",
+  "cena": "[Choices]",
+  "en": "What should I do?\n> Turn it off.\n> Let Rida finish."
+ },
+ {
+  "k": "39",
+  "en": "We have no time.\n> Turn the machine off.\n> Maximum speed."
+ },
+ {
+  "k": "40",
+  "cena": "AbandonedHouse_NoCarceburg",
+  "quem": "Jenna (F)",
+  "en": "<i>(We shouldn't go through here...)</i>"
+ },
+ {
+  "k": "41",
+  "cena": "Accept",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>O-.. okay.</color>"
+ },
+ {
+  "k": "42",
+  "cena": "Accept spanking",
+  "quem": "Jenna (F)",
+  "en": "Sounds <color=perversion>hot</color> I'm into a bit of spanking."
+ },
+ {
+  "k": "43",
+  "quem": "Lexi (F)",
+  "en": "Perfect, let's change into something more suitable."
+ },
+ {
+  "k": "44",
+  "cena": "accept throbs help",
+  "quem": "Jenna (F)",
+  "en": "That would be super helpfull thank you."
+ },
+ {
+  "k": "45",
+  "cena": "AFKDialogue",
+  "en": "I'm AFK right now! Brb~"
+ },
+ {
+  "k": "46",
+  "cena": "After 2nd Time dialogue",
+  "quem": "Lexi (F)",
+  "en": "You are welcome to join my next little party if you want. But I have some other matters I have to attend hun."
+ },
+ {
+  "k": "47",
+  "cena": "After Drone scene rescue",
+  "quem": "Resistance Member (M)",
+  "en": "The drone is rebooting. Follow me."
+ },
+ {
+  "k": "48",
+  "cena": "After drone scene shower",
+  "quem": "Jenna (F)",
+  "en": "Thanks for the help."
+ },
+ {
+  "k": "49",
+  "quem": "Resistance Member (M)",
+  "en": "This was a one-time thing. Next time you get captured we won't be able to help you."
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Will be more careful from now on."
+ },
+ {
+  "k": "51",
+  "quem": "Resistance Member (M)",
+  "en": "Good. I will go back to camp and report to Lady. "
+ },
+ {
+  "k": "52",
+  "cena": "After fight 1",
+  "quem": "Jenna (F)",
+  "en": "Did you guys hear that voice?"
+ },
+ {
+  "k": "53",
+  "quem": "Jewel (F)",
+  "en": "Did you hit your head? "
+ },
+ {
+  "k": "54",
+  "quem": "Throb (M)",
+  "en": "I didn't hear anything."
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "I must have imagined it."
+ },
+ {
+  "k": "56",
+  "quem": "Floria (F)",
+  "en": "I hear them too. Ever since we came down here."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "Alright... You sure you're okay with fighting your kids like this, Flo?"
+ },
+ {
+  "k": "58",
+  "quem": "Floria (F)",
+  "en": "They're just offspring... forced on me by Peitho. I'm fine."
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "Oh... I thought you... cared about them."
+ },
+ {
+  "k": "60",
+  "quem": "Floria (F)",
+  "en": "Can we just keep moving please?"
+ },
+ {
+  "k": "61",
+  "quem": "Jenna (F)",
+  "en": "Okay."
+ },
+ {
+  "k": "62",
+  "cena": "After Hack 4",
+  "quem": "Jenna (F)",
+  "en": "abracadabra."
+ },
+ {
+  "k": "63",
+  "cena": "After Hack Interact",
+  "quem": "Jenna (F)",
+  "en": "The fence already is deactivated."
+ },
+ {
+  "k": "64",
+  "cena": "After Hack Interact",
+  "en": "The fence is already down."
+ },
+ {
+  "k": "65",
+  "cena": "After open door",
+  "quem": "Rida (F)",
+  "en": "Door to easy."
+ },
+ {
+  "k": "66",
+  "cena": "After Open Door",
+  "quem": "Throb (M)",
+  "en": "That was easier than expected."
+ },
+ {
+  "k": "67",
+  "cena": "After reach into toilet",
+  "quem": "Jenna (F)",
+  "en": "What did I expect..."
+ },
+ {
+  "k": "68",
+  "cena": "after recon 1",
+  "en": "You're all back safe and sound, that's a relief to see. "
+ },
+ {
+  "k": "69",
+  "en": "So, what are those idiots up to in Carceburg?"
+ },
+ {
+  "k": "70",
+  "en": "It's pretty bad...the whole city is under martial law."
+ },
+ {
+  "k": "71",
+  "en": "Martial law? Tell me more details. What kind of forces are we dealing with here?"
+ },
+ {
+  "k": "72",
+  "en": "I hate to say this, but it's unlike anything we've faced before. They held a parade as well, and there was this <i>endless</i> horde of soldiers."
+ },
+ {
+  "k": "73",
+  "en": "They just kept coming, and coming, and coming..."
+ },
+ {
+  "k": "74",
+  "en": "Ugh! It makes me so frustrated just thinking about it! That and all the things they did to innocent people just for speaking their mind!"
+ },
+ {
+  "k": "75",
+  "en": "Jenna, I believe you have some prior experience dealing with these people. Is the estimate put forth by your other two friends here correct?"
+ },
+ {
+  "k": "76",
+  "en": "I'm afraid so."
+ },
+ {
+  "k": "77",
+  "en": "The entire town was crawling with guards, it's insane what lengths they've gone to so that they'd lock down Carceburg."
+ },
+ {
+  "k": "78",
+  "en": "To be completely honest with you, Lady, I'm at a bit of a loss. We're really going to need to pull a miracle to save Carceburg here."
+ },
+ {
+  "k": "79",
+  "en": "I'm afraid we're all only human. Great feats of strategy can only get us so far without endagering the lives of everyone. Our cause is only alive as long as we are."
+ },
+ {
+  "k": "80",
+  "en": "Wait, what are you saying?"
+ },
+ {
+  "k": "81",
+  "en": "I'm saying this is way worse than anything I imagined. We don't stand a chance of taking on the garrison in Carceburg now."
+ },
+ {
+  "k": "82",
+  "en": "So are we just going to leave the people of Carceburg behind to suffer like that?"
+ },
+ {
+  "k": "83",
+  "en": "For the time being, yes. We'll need to recuperate our strength further, then spread out our operations."
+ },
+ {
+  "k": "84",
+  "en": "By striking multiple different locations, hopefully we can get the enemy to thin out their forces. Even so, that'll probably take months until we're ready to operate at that level. Until then however, it's all we can do..."
+ },
+ {
+  "k": "85",
+  "en": "B-But we can't! We need to stop Wildfire!"
+ },
+ {
+  "k": "86",
+  "en": "I see what this about now. Wildfire is the Commander of the city, right?"
+ },
+ {
+  "k": "87",
+  "en": "Yes! That's exactly why we need to stop her!"
+ },
+ {
+  "k": "88",
+  "en": "No, that's exactly why <i>you</i> want to stop her. You've barely even seen the destructive nature of her capabilities. On the other hand, we have."
+ },
+ {
+  "k": "89",
+  "en": "You're asking us to go into battle against an enemy with superior numbers, superior equipment, under the leadership of one of the fiercest Commanders they have."
+ },
+ {
+  "k": "90",
+  "en": "And all because you're letting your own personal feeling get in the way of you making the right call. "
+ },
+ {
+  "k": "91",
+  "en": "What if there was a way to change things!?"
+ },
+ {
+  "k": "92",
+  "en": "Change things how exactly? Why do you insist on staying attached so badly to this futile endeavour!?"
+ },
+ {
+  "k": "93",
+  "en": "Lady, with all due respect...let's hear Jenna out. She's helped us out a lot, she might offer us something we haven't thought of ourselves..."
+ },
+ {
+  "k": "94",
+  "en": "Yeah, I hate to say it but we've been stressed as all hell. There might be some shit we missed, or something that Jenna saw on the ground there."
+ },
+ {
+  "k": "95",
+  "en": "Fine, alright...I'm open to hearing what you have to say, Jenna."
+ },
+ {
+  "k": "96",
+  "en": "I...I don't know what we could do to change things..."
+ },
+ {
+  "k": "97",
+  "en": "But I'm sure that if we put our heads together we could figure something out!"
+ },
+ {
+  "k": "98",
+  "en": "Right...I see...so you had no idea of what this change could possibly mean. Very well then. Here's how things will go down;"
+ },
+ {
+  "k": "99",
+  "en": "I'll give you a while to 'think up of something', out of respect for everything you've done for us thus far. However, we'll have to focus on our other alternatives in the meantime."
+ },
+ {
+  "k": "100",
+  "en": "If you can't figure something out, then things will have to go as I had said before."
+ },
+ {
+  "k": "101",
+  "en": "She's got a point...I really thought you had some ace up your sleeve there Jenna, but this whole situation sounds impossible..."
+ },
+ {
+  "k": "102",
+  "en": "Alright...thank you, Lady. I won't give up yet, I'll figure something out just give me some time. You guys are with me, right?"
+ },
+ {
+  "k": "103",
+  "en": "Yeah! We're never gonna abandon Carceburg."
+ },
+ {
+  "k": "104",
+  "en": "We'll exhaust every possibility. If there is a way, we'll find it."
+ },
+ {
+  "k": "105",
+  "en": "If anything, your determenation is commendable. I look forward to seeing if you manage to figure something out."
+ },
+ {
+  "k": "106",
+  "en": "fade out to next sceen"
+ },
+ {
+  "k": "107",
+  "cena": "after recon 2",
+  "en": "fade back in, the gang is in a different room all trying to figure things out. Maybe theyd be at the bar they have set up in the mansion"
+ },
+ {
+  "k": "108",
+  "en": "Ugh! This is so frustrating! None of the ideas we have end up working...!"
+ },
+ {
+  "k": "109",
+  "en": "I'm telling you! We have to seduce the people of Carceburg and get them to rise up against Wildfire!"
+ },
+ {
+  "k": "110",
+  "en": "And how are we gonna do that? The whole place is crawling with guards and Martin's bar is locked down! You planning on putting on a strip show in the street?!"
+ },
+ {
+  "k": "111",
+  "en": "Just keep thinking you guys..."
+ },
+ {
+  "k": "112",
+  "en": "Ahem...if I may offer a word of advice..."
+ },
+ {
+  "k": "113",
+  "cena": "after recon 3",
+  "en": "same as before except klaus appears now"
+ },
+ {
+  "k": "114",
+  "en": "The tunnel man!"
+ },
+ {
+  "k": "115",
+  "en": "Well, I do have a name but, that's not what I'm here to talk about now. I'm here to let you know I might be able to help you all out with your little issue."
+ },
+ {
+  "k": "116",
+  "en": "You need a way to cause a ruckus in Carceburg, right? Get the people riled up."
+ },
+ {
+  "k": "117",
+  "en": "How do you know about that?"
+ },
+ {
+  "k": "118",
+  "en": "Oh, I just <i>happened</i> to hear what you were discussing with the resistance leaders."
+ },
+ {
+  "k": "119",
+  "en": "I believe that's called 'eavesdropping'."
+ },
+ {
+  "k": "120",
+  "en": "Call it what you wanna call it, I'm here to help."
+ },
+ {
+  "k": "121",
+  "en": "Let's hear him out."
+ },
+ {
+  "k": "122",
+  "en": "The information you've gathered is mostly right, except that part about Martin's bar. It won't be closed as you've heard."
+ },
+ {
+  "k": "123",
+  "en": "That doesn't make any sense. There were guards and they had the place completely boarded up."
+ },
+ {
+  "k": "124",
+  "en": "I know that they did. I'm the one who suggested that to Wildfire before she came here."
+ },
+ {
+  "k": "125",
+  "en": "Why the hell would you do something like that?!"
+ },
+ {
+  "k": "126",
+  "en": "Hmmm...it seems you're as hot headed as she is sometimes. Were you two friends by any chance?"
+ },
+ {
+  "k": "127",
+  "en": "N-No!"
+ },
+ {
+  "k": "128",
+  "en": "Riiiight...anyway, as I was saying: I made the suggestion to Commander Wildfire because she needs to appear as a benevolent ruler. Even if she clearly isn't."
+ },
+ {
+  "k": "129",
+  "en": "The bar is locked down temporarily, but will then be opened back up to give the people some sort of relief. Make things bad, then give the people hope so they believe in your leadership."
+ },
+ {
+  "k": "130",
+  "en": "The true purpose of the operation was to sweep Martin's bar for resistance bugs and cameras and whatnot. Of course, they'll find nothing and Wildfire feels more at ease. "
+ },
+ {
+  "k": "131",
+  "en": "Wildfire feels more at ease, bar is suddenly open, people get to experience what they've been missing out on, they'll inevitably want more...and bam, there's your entry point."
+ },
+ {
+  "k": "132",
+  "en": "So if I'm not mistaken, you're saying we should-"
+ },
+ {
+  "k": "133",
+  "en": "Oh hell yeah! We're gonna put on the biggest! Baddest! Strip show this town has ever seeeeeeen!"
+ },
+ {
+  "k": "134",
+  "en": "Exactly. Use your sexual allure to lead the people of Carceburg into an uprising. Or better yet...lead them to join the resistance."
+ },
+ {
+  "k": "135",
+  "en": "Helps weaken the enemy with less people to do their manual labour, while also strengthening our own numbers here."
+ },
+ {
+  "k": "136",
+  "en": "And what about you? Carceburg's gonna go to hell when Wildfire catches wind of this."
+ },
+ {
+  "k": "137",
+  "en": "Oh, I'm very much aware but this is the only way right now. I've already bet my chips on you lot. I'll probably be moving into the resistance base and helping out here."
+ },
+ {
+  "k": "138",
+  "en": "Of course, we shouldn't use the tunnel on our way out after the riot. It'll remain a hidden point of entry to the city. I'm sure even if Wildfire's men explored my motel they wouldn't find it."
+ },
+ {
+  "k": "139",
+  "en": "I see...it's pretty crazy but it just might work..."
+ },
+ {
+  "k": "140",
+  "en": "Are you kidding, Jenna?! We're gonna <i>make</i> this work! "
+ },
+ {
+  "k": "141",
+  "en": "So when will this bar be open again?"
+ },
+ {
+  "k": "142",
+  "en": "It should be open already. I'll go on ahead of you and make sure it's open when you guys are there. In the meantime, spend as little time in Carceburg as you can."
+ },
+ {
+  "k": "143",
+  "en": "Plan for EVERYTHING ahead of time. Your dance, your speeches, everything."
+ },
+ {
+  "k": "144",
+  "en": "Now, if you'll excuse me..."
+ },
+ {
+  "k": "145",
+  "en": "fade to next"
+ },
+ {
+  "k": "146",
+  "cena": "after recon 4",
+  "en": "same as before but klaus left"
+ },
+ {
+  "k": "147",
+  "en": "I'll be totally honest, I never thought I'd be working with Klaus like this. I still don't fully trust him, but it's working out fairly well."
+ },
+ {
+  "k": "148",
+  "en": "I'm not too fond of most badge owners either, but we've got a common enemy here. We've also got a once-in-a-lifetime opportunity to to give a strip show that frees a nation!"
+ },
+ {
+  "k": "149",
+  "en": "Well...it's not exactly a nation, it's a town."
+ },
+ {
+  "k": "150",
+  "en": "It doesn't have the same ring to it, Throb!"
+ },
+ {
+  "k": "151",
+  "en": "Yeah, you're right about that much. Oh man, I remember what it was like when we first came to Carceburg, and Wildfire's men must be even worse. We're probably gonna find Martin's bar trashed."
+ },
+ {
+  "k": "152",
+  "en": "Yeah, now that you mention it, we'll probably have to help him fix it up after they've scoured through it. Doubt those meatheads are willing to put stuff back where they found it when they're done."
+ },
+ {
+  "k": "153",
+  "en": "Alright, then! The sooner we get going the better! Back to Carceburg?"
+ },
+ {
+  "k": "154",
+  "en": "You know it!"
+ },
+ {
+  "k": "155",
+  "en": "Back to Carceburg."
+ },
+ {
+  "k": "156",
+  "en": "end scene"
+ },
+ {
+  "k": "157",
+  "cena": "After rescue done",
+  "quem": "Jenna (F)",
+  "en": "This is the last one. "
+ },
+ {
+  "k": "158",
+  "quem": "Jenna (F)",
+  "en": "I should find a way to go up the tower."
+ },
+ {
+  "k": "159",
+  "cena": "After rescue done",
+  "en": "I think that's the last one. "
+ },
+ {
+  "k": "160",
+  "en": "I should find a way upstairs."
+ },
+ {
+  "k": "161",
+  "cena": "After Sceen with Florian Dialogue 2",
+  "quem": "Florian Hooker (F)",
+  "en": "Do you <color=perversion>want to go for another round?</color>"
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "Sorry I have other things to do."
+ },
+ {
+  "k": "163",
+  "quem": "Florian Hooker (F)",
+  "en": "Come back if you change your <color=perversion>mind.</color>"
+ },
+ {
+  "k": "164",
+  "cena": "After Scene",
+  "quem": "Man (M)",
+  "en": "That felt really great, you are a natural."
+ },
+ {
+  "k": "165",
+  "cena": "After Scene with Florian Dialogue 1",
+  "quem": "Florian Hooker (F)",
+  "en": "We should repeat <color=perversion>this</color>.You know where you find me."
+ },
+ {
+  "k": "166",
+  "cena": "After spanking dialogue",
+  "quem": "Lexi (F)",
+  "en": "You are welcome to join my next little party if you want but I have some other things to do now."
+ },
+ {
+  "k": "167",
+  "cena": "After spanking dialogue 2",
+  "quem": "Lexi (F)",
+  "en": "I will send someone to let you know."
+ }
+]

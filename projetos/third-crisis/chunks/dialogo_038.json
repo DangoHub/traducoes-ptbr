@@ -1,0 +1,1555 @@
+[
+ {
+  "k": "1",
+  "cena": "FF_Hub_Floria_SecondFight_Win_Abstain",
+  "quem": "Jenna (F)",
+  "en": "I uhm... I think I'm just gonna give you guys some time."
+ },
+ {
+  "k": "2",
+  "quem": "Jewel (F)",
+  "en": "Alright, blue. I erm... Sorry."
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "It's alright. It needs to be done. I just don't wanna be part of it."
+ },
+ {
+  "k": "4",
+  "quem": "Jewel (F)",
+  "en": "Okay, hun."
+ },
+ {
+  "k": "5",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_2",
+  "quem": "Jenna (F)",
+  "en": "Not Karen... please... This can't be happening..."
+ },
+ {
+  "k": "6",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_3",
+  "quem": "Jenna (F)",
+  "en": "I-I'm sorry, Karen... Please!"
+ },
+ {
+  "k": "7",
+  "quem": "Karen (F)",
+  "en": "Sorry won't fix what you've done to me."
+ },
+ {
+  "k": "8",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_5",
+  "quem": "Karen (F)",
+  "en": "What's the matter, 'little hero'? Does the truth hurt too much?"
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "K-Karen... This can't be real..."
+ },
+ {
+  "k": "10",
+  "quem": "Karen (F)",
+  "en": "Oh it's real alright. I've got the scars to prove it."
+ },
+ {
+  "k": "11",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_6",
+  "quem": "Jenna (F)",
+  "en": "W-Why didn't you tell me who you were earlier?"
+ },
+ {
+  "k": "12",
+  "quem": "Karen (F)",
+  "en": "Because tormenting you was so much more satisfying."
+ },
+ {
+  "k": "13",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_7",
+  "quem": "Jenna (F)",
+  "en": "Please Karen! I'm so sorry..."
+ },
+ {
+  "k": "14",
+  "quem": "Karen (F)",
+  "en": "It's much too late for that, you little cunt."
+ },
+ {
+  "k": "15",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_8",
+  "quem": "Jenna (F)",
+  "en": "W-What did they do to you?"
+ },
+ {
+  "k": "16",
+  "quem": "Karen (F)",
+  "en": "They showed me the truth..."
+ },
+ {
+  "k": "17",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_9",
+  "quem": "Jenna (F)",
+  "en": "T-They lied!"
+ },
+ {
+  "k": "18",
+  "quem": "Karen (F)",
+  "en": "Did they? Were they lying about you going after them..."
+ },
+ {
+  "k": "19",
+  "quem": "Karen (F)",
+  "en": "... WITHOUT EVEN PUTTING ON A MASK?!"
+ },
+ {
+  "k": "20",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_10",
+  "quem": "Karen (F)",
+  "en": "Were they lying about your need to be the one in the spotlight?"
+ },
+ {
+  "k": "21",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_11",
+  "quem": "Karen (F)",
+  "en": "Were they lying about how you left me all alone in a closet?"
+ },
+ {
+  "k": "22",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_12",
+  "quem": "Karen (F)",
+  "en": "WERE THEY LYING ABOUT HOW I TOLD YOU NOT TO FUCKING GO AFTER THEM?!"
+ },
+ {
+  "k": "23",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_13",
+  "quem": "Jenna (F)",
+  "en": "I-I..."
+ },
+ {
+  "k": "24",
+  "quem": "Karen (F)",
+  "en": "You what?! What's your fucking excuse, huh?!"
+ },
+ {
+  "k": "25",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_14",
+  "quem": "Karen (F)",
+  "en": "That's what I thought... Nothing will excuse you from the suffering I have planned for you."
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "Please... don't..."
+ },
+ {
+  "k": "27",
+  "quem": "Karen (F)",
+  "en": "SHUT THE FUCK UP!"
+ },
+ {
+  "k": "28",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_15",
+  "quem": "Jenna (F)",
+  "en": "I-I can help you... Please let me..."
+ },
+ {
+  "k": "29",
+  "quem": "Karen (F)",
+  "en": "You can't even help yourself."
+ },
+ {
+  "k": "30",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_16",
+  "quem": "Karen (F)",
+  "en": "I'm trapped..."
+ },
+ {
+  "k": "31",
+  "quem": "Karen (F)",
+  "en": "And soon you will be too..."
+ },
+ {
+  "k": "32",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_17",
+  "quem": "Karen (F)",
+  "en": "In the deepest depths of hell..."
+ },
+ {
+  "k": "33",
+  "quem": "Karen (F)",
+  "en": "WHERE <B>SCUM</B> LIKE YOU BELONG!"
+ },
+ {
+  "k": "34",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_18",
+  "quem": "Jenna (F)",
+  "en": "K-Karen... Please... I... I love you..."
+ },
+ {
+  "k": "35",
+  "quem": "Karen (F)",
+  "en": "IF YOU LOVED ME, YOU WOULDN'T HAVE FUCKING DONE WHAT YOU DID TO ME!"
+ },
+ {
+  "k": "36",
+  "quem": "Karen (F)",
+  "en": "You never loved me... and now I fucking <b>hate</b> you."
+ },
+ {
+  "k": "37",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_19",
+  "quem": "Jenna (F)",
+  "en": "W-What about everything we've been through?"
+ },
+ {
+  "k": "38",
+  "quem": "Karen (F)",
+  "en": "We?"
+ },
+ {
+  "k": "39",
+  "quem": "Karen (F)",
+  "en": "YOU HAVEN'T BEEN THROUGH SHIT!"
+ },
+ {
+  "k": "40",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_20",
+  "quem": "Karen (F)",
+  "en": "You got to skip the past few years..."
+ },
+ {
+  "k": "41",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_21",
+  "quem": "Karen (F)",
+  "en": "But I've had to live it all out... Every. Excrutiating. Second."
+ },
+ {
+  "k": "42",
+  "cena": "FF_Hub_Floria_ThirdFight_Heartbroken_22",
+  "quem": "Karen (F)",
+  "en": "... and now I'm going to fill you in on the pain you've missed."
+ },
+ {
+  "k": "43",
+  "cena": "FF_Hub_Floria_ThirdFight_Intro_1",
+  "quem": "Jenna (F)",
+  "en": "Agh! Fuck! What was that!?"
+ },
+ {
+  "k": "44",
+  "quem": "Rida (F)",
+  "en": "Demon took remote from Rida!"
+ },
+ {
+  "k": "45",
+  "quem": "Jenna (F)",
+  "en": "Wildfire?! Oh shit... We can't shut her off now..."
+ },
+ {
+  "k": "46",
+  "quem": "Wildfire (F)",
+  "en": "No more strings..."
+ },
+ {
+  "k": "47",
+  "quem": "Narrador",
+  "en": "<i>She crushes the power limiter in her fist, tossing it aside like garbage.</i>"
+ },
+ {
+  "k": "48",
+  "quem": "Wildfire (F)",
+  "en": "Distracted by sex... That'll be the last mistake you make. Now I'm going to-"
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "Do your evil monologue?"
+ },
+ {
+  "k": "50",
+  "quem": "Wildfire (F)",
+  "en": "I'm going to enjoy burning you to a crisp, Vibe."
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "Oh yeah?"
+ },
+ {
+  "k": "52",
+  "cena": "FF_Hub_Floria_ThirdFight_Intro_2",
+  "quem": "Narrador",
+  "en": "<i>I throw punch after punch at her. She's fast... dodging or blocking each one.</i>"
+ },
+ {
+  "k": "53",
+  "quem": "Jenna (F)",
+  "en": "Gagh!"
+ },
+ {
+  "k": "54",
+  "quem": "Wildfire (F)",
+  "en": "Enough of this bullshit. Time to put you down."
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "Is that really the best you can do in the one-liner department, Wildfire?"
+ },
+ {
+  "k": "56",
+  "quem": "Wildfire (F)",
+  "en": "Shut the fuck up, you fucking cunt."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "A-Agh! Ever hear what the hand said to the face?"
+ },
+ {
+  "k": "58",
+  "quem": "Narrador",
+  "en": "<i>My hand starts to vibrate with energy, prepping up the bitch slap of a lifetime aimed right at her mask.</i>"
+ },
+ {
+  "k": "59",
+  "quem": "Wildfire (F)",
+  "en": "... What...?"
+ },
+ {
+  "k": "60",
+  "quem": "Narrador",
+  "en": "<b><i>CLUNK!</i></b>"
+ },
+ {
+  "k": "61",
+  "quem": "Narrador",
+  "en": "<i>Her mask flies off from the sheer force of the hit.</i>"
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "K-Karen...?"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "Oh god! Karen! Karen, it's you! I found you... You're okay!"
+ },
+ {
+  "k": "64",
+  "cena": "FF_Hub_Floria_ThirdFight_Intro_3",
+  "quem": "Karen (F)",
+  "en": "SHUT THE FUCK UP! STOP CALLING ME THAT!"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "W-What?! Karen, it's me! It's Jenna!"
+ },
+ {
+  "k": "66",
+  "quem": "Karen (F)",
+  "en": "I know who you are."
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "I'm your g-girlfriend, Karen..."
+ },
+ {
+  "k": "68",
+  "quem": "Karen (F)",
+  "en": "You <b>LEFT</b> me!"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "N-No... I..."
+ },
+ {
+  "k": "70",
+  "quem": "Karen (F)",
+  "en": "Everything they did to me... This miserable existance..."
+ },
+ {
+  "k": "71",
+  "quem": "Karen (F)",
+  "en": "<b>IT'S ALL YOUR FAULT!</b>"
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "No! Karen... It was Peitho..."
+ },
+ {
+  "k": "73",
+  "quem": "Karen (F)",
+  "en": "PEITHO?! YOU WENT TO <B>THEM</B>! YOU JUST HAD TO GO AND BE A HERO, DIDN'T YOU?!"
+ },
+ {
+  "k": "74",
+  "quem": "Jenna (F)",
+  "en": "I-I..."
+ },
+ {
+  "k": "75",
+  "quem": "Karen (F)",
+  "en": "ALL YOU HAD TO DO WAS KEEP YOUR HEAD DOWN!"
+ },
+ {
+  "k": "76",
+  "quem": "Karen (F)",
+  "en": "But no... You chose to poke the hornet's nest..."
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "I-I didn't mean t-"
+ },
+ {
+  "k": "78",
+  "quem": "Karen (F)",
+  "en": "AND LOOK WHERE THAT GOT US! <b>YOU BROUGHT THEM TO OUR HOME!</b>"
+ },
+ {
+  "k": "79",
+  "quem": "Karen (F)",
+  "en": "<b>YOU DIDN'T CARE ABOUT WHAT WOULD HAPPEN!</b>"
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "K-Karen..."
+ },
+ {
+  "k": "81",
+  "quem": "Karen (F)",
+  "en": "Now I'm going to make you feel just a <b>SHRED</b> of the torment you've put me through... before I end you."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "N-No... Karen..."
+ },
+ {
+  "k": "83",
+  "quem": "Karen (F)",
+  "en": "<b>I SAID STOP CALLING ME THAT!</b>"
+ },
+ {
+  "k": "84",
+  "cena": "FF_Hub_Floria_ThirdFight_Intro_4",
+  "quem": "Jewel (F)",
+  "en": "Jenna! Get out of the way!"
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "N-No... Karen... please..."
+ },
+ {
+  "k": "86",
+  "quem": "Throb (M)",
+  "en": "Jenna! Move!"
+ },
+ {
+  "k": "87",
+  "quem": "Jewel (F)",
+  "en": "She's not listening!"
+ },
+ {
+  "k": "88",
+  "quem": "Throb (M)",
+  "en": "Time to improvise."
+ },
+ {
+  "k": "89",
+  "cena": "FF_Hub_Floria_ThirdFight_Victory_1",
+  "quem": "Karen (F)",
+  "en": "G-Gah... Fuck!"
+ },
+ {
+  "k": "90",
+  "quem": "Jewel (F)",
+  "en": "Easy."
+ },
+ {
+  "k": "91",
+  "quem": "Throb (M)",
+  "en": "Phew... Good job, Jewel."
+ },
+ {
+  "k": "92",
+  "quem": "Jewel (F)",
+  "en": "Nothin' to it, stud!"
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "K... Karen..."
+ },
+ {
+  "k": "94",
+  "quem": "Karen (F)",
+  "en": "<b>S-SHUT UP! STOP!</b> "
+ },
+ {
+  "k": "95",
+  "quem": "Rida (F)",
+  "en": "Carcens do good. Rida handle demon now."
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "What do you mean handle? You can't take her away!"
+ },
+ {
+  "k": "97",
+  "quem": "Rida (F)",
+  "en": "Can't? Rida can. Rida will."
+ },
+ {
+  "k": "98",
+  "quem": "Karen (F)",
+  "en": "Fuck off, you bumbling piece of shit."
+ },
+ {
+  "k": "99",
+  "quem": "Rida (F)",
+  "en": "Demon no talk to Rida like that."
+ },
+ {
+  "k": "100",
+  "quem": "Narrador",
+  "en": "<i>She gives Karen a quick zap with her staff, knocking her out instantly.</i>"
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "NO! What the fuck!? Don't you fucking touch her!"
+ },
+ {
+  "k": "102",
+  "quem": "Jewel (F)",
+  "en": "Blue... We can't be picking fights with the tribe..."
+ },
+ {
+  "k": "103",
+  "quem": "Rida (F)",
+  "en": "What Carcen say?"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "... didn't say anything..."
+ },
+ {
+  "k": "107",
+  "quem": "Narrador",
+  "en": "<i>She gives a firm dominant nod and lifts Karen up onto her shoulder, carrying her away. It's only then that I notice Floria on her other shoulder."
+ },
+ {
+  "k": "108",
+  "quem": "Rida (F)",
+  "en": "Rida take care of monster girl and demon girl!"
+ },
+ {
+  "k": "109",
+  "quem": "Throb (M)",
+  "en": "Mhm..."
+ },
+ {
+  "k": "110",
+  "quem": "Narrador",
+  "en": "<i>Rida walks off with my two friends... Well... I guess only one friend now... Or... maybe no friends...</i>"
+ },
+ {
+  "k": "111",
+  "quem": "Jewel (F)",
+  "en": "Blue..."
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "I don't want to talk about it..."
+ },
+ {
+  "k": "113",
+  "quem": "Jewel (F)",
+  "en": "Are you sure? We're here for you if you want to vent. You seem like you need it."
+ },
+ {
+  "k": "114",
+  "quem": "Throb (M)",
+  "en": "We should probably... Take care of that guy Floria was banging..."
+ },
+ {
+  "k": "115",
+  "quem": "Jewel (F)",
+  "en": "Oh! I totally forgot about him."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "Mhm..."
+ },
+ {
+  "k": "117",
+  "quem": "Jewel (F)",
+  "en": "Heh..."
+ },
+ {
+  "k": "118",
+  "quem": "Throb (M)",
+  "en": "Where did he run off to anyway?"
+ },
+ {
+  "k": "119",
+  "quem": "Jewel (F)",
+  "en": "Maybe he ran back to his girlie."
+ },
+ {
+  "k": "120",
+  "quem": "Throb (M)",
+  "en": "Let's go then."
+ },
+ {
+  "k": "121",
+  "cena": "FF_Hub_Guard_1",
+  "quem": "Fiend",
+  "en": "No let Touched through barrier! Hurt tribe if do!"
+ },
+ {
+  "k": "122",
+  "cena": "FF_Hub_Guard_2",
+  "quem": "Fiend",
+  "en": "Me guard barrier. No let Touched in. Rida trusting us! No let Rida down."
+ },
+ {
+  "k": "123",
+  "cena": "FF_Hub_Guard_3",
+  "quem": "Fiend",
+  "en": "No Touched get past barrier. Won't let tribe down."
+ },
+ {
+  "k": "124",
+  "cena": "FF_Hub_Guard_4",
+  "quem": "Fiend",
+  "en": "Rida, Mina, Rot strong. They fought Touched and won! None won fight with Touched but them. Hope no Touched come this way. Me scared of fight them."
+ },
+ {
+  "k": "125",
+  "cena": "FF_Hub_Mina_Default",
+  "quem": "Mina (F)",
+  "en": "Go away."
+ },
+ {
+  "k": "126",
+  "cena": "FF_Hub_PrisonTent_Examine_Cum",
+  "quem": "Jenna (F)",
+  "en": "<i>(Hmm... Looks like we weren't the first ones to be in here...)</i>"
+ },
+ {
+  "k": "127",
+  "cena": "FF_Hub_PrisonTent_Floria_Default",
+  "quem": "Floria (F)",
+  "en": "What brings you here?"
+ },
+ {
+  "k": "128",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "129",
+  "tipo": "escolha",
+  "en": "Talk about something."
+ },
+ {
+  "k": "130",
+  "cena": "FF_Hub_PrisonTent_Floria_Default_Talk",
+  "quem": "Jenna (F)",
+  "en": "Do you wanna talk about something?"
+ },
+ {
+  "k": "131",
+  "quem": "Floria (F)",
+  "en": "Not really. Why are you even showing interest in me?"
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "Because we're friends, Flo..."
+ },
+ {
+  "k": "133",
+  "quem": "Floria (F)",
+  "en": "We're not friends."
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "<i>(... They both hate me...)</i>"
+ },
+ {
+  "k": "135",
+  "cena": "FF_Hub_PrisonTent_Gob_Default",
+  "quem": "Gob (M)",
+  "en": "Gob guarding!"
+ },
+ {
+  "k": "136",
+  "cena": "FF_Hub_PrisonTent_Wildfire_CumReaction",
+  "quem": "Wildfire (F)",
+  "en": "Cum? Really, Vibe? You're more pathetic than I thought."
+ },
+ {
+  "k": "137",
+  "cena": "FF_Hub_PrisonTent_Wildfire_ErrandGirl",
+  "quem": "Wildfire (F)",
+  "en": "Run along, errand bitch."
+ },
+ {
+  "k": "138",
+  "cena": "FF_Hub_PrisonTent_Wildfire_PostHQ",
+  "quem": "Jenna (F)",
+  "en": "What's the matter, Wildfire? Having trouble wiggling your way out of this one?"
+ },
+ {
+  "k": "139",
+  "quem": "Wildfire (F)",
+  "en": "Shut your fucking mouth!"
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "Gonna tell me where Karen is yet?"
+ },
+ {
+  "k": "141",
+  "quem": "Wildfire (F)",
+  "en": "I'm not out of this cage. Why would I tell you anything?"
+ },
+ {
+  "k": "142",
+  "quem": "Wildfire (F)",
+  "en": "How does it feel to have such a lack of control? To be at everyone's mercy, and not be in control of your own destiny?"
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "The hell is that supposed to mean?"
+ },
+ {
+  "k": "144",
+  "quem": "Wildfire (F)",
+  "en": "All you can do is obey everyone else's wishes. You're holding none of the cards."
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "I'm holding cards..."
+ },
+ {
+  "k": "146",
+  "quem": "Wildfire (F)",
+  "en": "And when you've exhausted your usefulness, you'll be cast aside by all these allies of yours. I can't wait to see that."
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "Where are you gonna be seeing that from? Oh, a cell? Good luck with that, bitch."
+ },
+ {
+  "k": "148",
+  "quem": "Wildfire (F)",
+  "en": "Cocky as ever. It'll be a pleasure to wipe that fucking smirk off your idiotic face."
+ },
+ {
+  "k": "149",
+  "cena": "FF_Hub_PrisonTent_Wildfire_SL2_Epilogue",
+  "quem": "Jewel (F)",
+  "en": "Jenna... Don't do this to yourself..."
+ },
+ {
+  "k": "150",
+  "quem": "Throb (M)",
+  "en": "She's not the same person."
+ },
+ {
+  "k": "151",
+  "quem": "Karen (F)",
+  "en": "Quit acting like I'm the bad guy. We both know who the real monster here is."
+ },
+ {
+  "k": "152",
+  "quem": "Jenna (F)",
+  "en": "... I-Is there... anything I can..."
+ },
+ {
+  "k": "153",
+  "quem": "Karen (F)",
+  "en": "Is that supposed to be a fucking joke?!"
+ },
+ {
+  "k": "154",
+  "quem": "Karen (F)",
+  "en": "You fucked my life up for good. The only thing you can do is come into this cell so I can beat you to a fucking pulp."
+ },
+ {
+  "k": "155",
+  "quem": "Karen (F)",
+  "en": "<b>JUST THE SIGHT OF YOU FUCKING SICKENS ME!</b>"
+ },
+ {
+  "k": "156",
+  "quem": "Gob (M)",
+  "en": "Miss Demon? Please quiet. Gob try read."
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "158",
+  "quem": "Karen (F)",
+  "en": "Come into this cell, Jenna. Do it. I'll snap your fucking neck."
+ },
+ {
+  "k": "159",
+  "quem": "Jewel (F)",
+  "en": "That doesn't seem like much of an incentive."
+ },
+ {
+  "k": "160",
+  "quem": "Throb (M)",
+  "en": "Alright, that's about enough. Jenna, come on."
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "Come on? Come where? Where do we go? What 's the point of anything anymore?"
+ },
+ {
+  "k": "162",
+  "quem": "Throb (M)",
+  "en": "We go anywhere but here... She's tearing your emotions apart."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "But... I can't just leave her again..."
+ },
+ {
+  "k": "164",
+  "quem": "Karen (F)",
+  "en": "Give me a fucking break."
+ },
+ {
+  "k": "165",
+  "quem": "Karen (F)",
+  "en": "Quit playing the victim, you piece of shit. Get in here. I'll make you a real victim."
+ },
+ {
+  "k": "166",
+  "quem": "Throb (M)",
+  "en": "Jenna. Please."
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "Karen... I'll... I'll still always love you..."
+ },
+ {
+  "k": "168",
+  "quem": "Karen (F)",
+  "en": "LOVE?! YOU CALL THIS LOVE!?"
+ },
+ {
+  "k": "169",
+  "quem": "Karen (F)",
+  "en": "All you're doing is trying to make yourself feel better about what you did. You don't give a god fucking damn about anyone but yourself."
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "I... need to go..."
+ },
+ {
+  "k": "171",
+  "quem": "Karen (F)",
+  "en": "Run away again. I'll be here paying for your actions over and over like I always do. Do everyone a favor and go find a nice hole to fucking die in."
+ },
+ {
+  "k": "172",
+  "quem": "Karen (F)",
+  "en": "Or better yet... <b>Get. In. This. Fucking. Cell.</b> Same result."
+ },
+ {
+  "k": "173",
+  "quem": "Throb (M)",
+  "en": "Jenna. Let's go."
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Yeah... I'm... Mhm..."
+ },
+ {
+  "k": "175",
+  "quem": "Throb (M)",
+  "en": "Let's go find something to do. Get your mind off of this."
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "I... I don't know what to do."
+ },
+ {
+  "k": "177",
+  "quem": "Jewel (F)",
+  "en": "Anything! Come on, blue."
+ },
+ {
+  "k": "178",
+  "cena": "FF_Hub_PrisonTent_Wildfire_SL2_Epilogue_Loop",
+  "quem": "Karen (F)",
+  "en": "Get in this cell, bitch. I'll ruin your life like you did mine."
+ },
+ {
+  "k": "179",
+  "cena": "FF_Hub_ReturnItems",
+  "quem": "Fiend",
+  "en": "Carcen! Me have you items. Rida say give back items to Carcens. I give back."
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "Oh! Thanks!"
+ },
+ {
+  "k": "181",
+  "cena": "FF_Hub_Rida_CumReaction",
+  "quem": "Rida (F)",
+  "en": "Mm... Carcen look good in cum. Carcen want some more cum?"
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "Eheh..."
+ },
+ {
+  "k": "183",
+  "cena": "FF_Hub_Rida_Default",
+  "quem": "Rida (F)",
+  "en": "What Carcens want?"
+ },
+ {
+  "k": "184",
+  "tipo": "escolha",
+  "en": "Talk about fighting the Touched."
+ },
+ {
+  "k": "185",
+  "tipo": "escolha",
+  "en": "Tell her about Sublevel Two."
+ },
+ {
+  "k": "186",
+  "tipo": "escolha",
+  "en": "Talk about something."
+ },
+ {
+  "k": "187",
+  "tipo": "escolha",
+  "en": "Cancel."
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "I just wanna talk!"
+ },
+ {
+  "k": "189",
+  "cena": "FF_Hub_Rida_TalkTo_AboutSlaves",
+  "quem": "Jenna (F)",
+  "en": "Who are these two... pleasant people?"
+ },
+ {
+  "k": "190",
+  "quem": "Rida (F)",
+  "en": "Seconds in command. Toys. Woman name Mina. Man name Rot."
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "They seem nice!"
+ },
+ {
+  "k": "192",
+  "quem": "Rot (F)",
+  "en": "Carcens only for fucking. Weak."
+ },
+ {
+  "k": "193",
+  "quem": "Mina (F)",
+  "en": "Mm. Yes."
+ },
+ {
+  "k": "194",
+  "quem": "Rida (F)",
+  "en": "Quiet."
+ },
+ {
+  "k": "195",
+  "quem": "Jenna (F)",
+  "en": "Sheesh."
+ },
+ {
+  "k": "196",
+  "quem": "Jewel (F)",
+  "en": "Real nice."
+ },
+ {
+  "k": "197",
+  "quem": "Mina (F)",
+  "en": "Rida. Why let Carcens free? No trust Carcens."
+ },
+ {
+  "k": "198",
+  "quem": "Rot (F)",
+  "en": "Carcens can't be trust."
+ },
+ {
+  "k": "199",
+  "quem": "Mina (F)",
+  "en": "That what Mina say!"
+ },
+ {
+  "k": "200",
+  "quem": "Narrador",
+  "en": "<i>Rida bares her teeth and snarls at the two of them. They both instinctively go silent and bow to their hands and knees, kissing at her feet in submission.</i>"
+ },
+ {
+  "k": "201",
+  "quem": "Rida (F)",
+  "en": "Good..."
+ },
+ {
+  "k": "202",
+  "quem": "Throb (M)",
+  "en": "Damn..."
+ },
+ {
+  "k": "203",
+  "quem": "Rida (F)",
+  "en": "Want kiss feet too, armor boy? Or kiss Rida cock?"
+ },
+ {
+  "k": "204",
+  "quem": "Throb (M)",
+  "en": "U-Uh! Me? Uh! No thank you, ma'am!"
+ },
+ {
+  "k": "205",
+  "quem": "Rida (F)",
+  "en": "Hmph. Armor boy loss."
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "Cock?"
+ },
+ {
+  "k": "207",
+  "quem": "Rida (F)",
+  "en": "Yes. Rida have cock. Problem?"
+ },
+ {
+  "k": "208",
+  "quem": "Jenna (F)",
+  "en": "Nope! No problem!"
+ },
+ {
+  "k": "209",
+  "quem": "Jewel (F)",
+  "en": "Hot."
+ },
+ {
+  "k": "210",
+  "cena": "FF_Hub_Rida_TalkTo_AskAboutTouched",
+  "quem": "Jenna (F)",
+  "en": "So these... 'Touched' things you guys keep talking about... They're sex zombies?"
+ },
+ {
+  "k": "211",
+  "quem": "Rida (F)",
+  "en": "Mm. Strongest enemy next to Creators."
+ },
+ {
+  "k": "212",
+  "quem": "Mina (F)",
+  "en": "Mina slay many Touched!"
+ },
+ {
+  "k": "213",
+  "quem": "Rot (F)",
+  "en": "Rot slay many too!"
+ },
+ {
+  "k": "214",
+  "quem": "Mina (F)",
+  "en": "Rida slay most though~!"
+ },
+ {
+  "k": "215",
+  "quem": "Rot (F)",
+  "en": "Rida so strong~!"
+ },
+ {
+  "k": "216",
+  "quem": "Rida (F)",
+  "en": "Haha... Good..."
+ },
+ {
+  "k": "217",
+  "quem": "Jewel (F)",
+  "en": "So that's it? Just sex-crazed people? Seems like a pretty easy fight."
+ },
+ {
+  "k": "218",
+  "quem": "Rida (F)",
+  "en": "No. They become monsters. Even animals affected by Creators. Plants affected by Creators. Hard to keep away from home."
+ },
+ {
+  "k": "219",
+  "quem": "Jenna (F)",
+  "en": "Jesus..."
+ },
+ {
+  "k": "220",
+  "quem": "Rida (F)",
+  "en": "Mm..."
+ },
+ {
+  "k": "221",
+  "quem": "Jenna (F)",
+  "en": "And you want us to help fight these things?"
+ },
+ {
+  "k": "222",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "223",
+  "cena": "FF_Hub_Rida_TalkTo_AskDirections",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... You don't happen to know where all the important things are in this place, do you?"
+ },
+ {
+  "k": "224",
+  "quem": "Mina (F)",
+  "en": "Why want know that?!"
+ },
+ {
+  "k": "225",
+  "quem": "Rida (F)",
+  "en": "Mina."
+ },
+ {
+  "k": "226",
+  "quem": "Mina (F)",
+  "en": "... Yes Rida..."
+ },
+ {
+  "k": "227",
+  "quem": "Rida (F)",
+  "en": "Good."
+ },
+ {
+  "k": "228",
+  "quem": "Jenna (F)",
+  "en": "Oh! I just meant like directions around."
+ },
+ {
+  "k": "229",
+  "quem": "Rot (F)",
+  "en": "Rida really tell them all about us?"
+ },
+ {
+  "k": "230",
+  "quem": "Rida (F)",
+  "en": "Prison tent bottom left room. This tent bottom right room. Arena top right. Smart Hen top left. Exit far left."
+ },
+ {
+  "k": "231",
+  "quem": "Jenna (F)",
+  "en": "Wow. That's... surprisingly concise!"
+ },
+ {
+  "k": "232",
+  "quem": "Rida (F)",
+  "en": "What that?"
+ },
+ {
+  "k": "233",
+  "quem": "Jenna (F)",
+  "en": "Oh! Uh! Means simple!"
+ },
+ {
+  "k": "234",
+  "quem": "Mina (F)",
+  "en": "Carcen call Rida simple!?"
+ },
+ {
+  "k": "235",
+  "quem": "Rida (F)",
+  "en": "No. Carcen praise Rida. Rida know this. Rida know Carcen know what happen if Carcen insult Rida..."
+ },
+ {
+  "k": "236",
+  "quem": "Jenna (F)",
+  "en": "Eheh... Yep!"
+ },
+ {
+  "k": "237",
+  "cena": "FF_Hub_Rida_TalkTo_Hub",
+  "quem": "Rida (F)",
+  "en": "What want talk about?"
+ },
+ {
+  "k": "238",
+  "tipo": "escolha",
+  "en": "Ask about her slaves."
+ },
+ {
+  "k": "239",
+  "tipo": "escolha",
+  "en": "Ask about the Touched."
+ },
+ {
+  "k": "240",
+  "tipo": "escolha",
+  "en": "Ask for directions around."
+ },
+ {
+  "k": "241",
+  "tipo": "escolha",
+  "en": "Nevermind."
+ },
+ {
+  "k": "242",
+  "cena": "FF_Hub_RidaTent_MinaRot_Intro",
+  "quem": "Mina (F)",
+  "en": "Rida! Please! Mina begs!"
+ },
+ {
+  "k": "243",
+  "quem": "Rot (F)",
+  "en": "They no good, Rida! They should not b-"
+ },
+ {
+  "k": "244",
+  "quem": "Mina (F)",
+  "en": "Rot! Shh. They here!"
+ },
+ {
+  "k": "245",
+  "quem": "Rida (F)",
+  "en": "That enough. Knees."
+ },
+ {
+  "k": "246",
+  "quem": "Mina (F)",
+  "en": "... Me... Yes, Rida..."
+ },
+ {
+  "k": "247",
+  "quem": "Rot (F)",
+  "en": "Yes Rida... Hmf..."
+ },
+ {
+  "k": "248",
+  "cena": "FF_Hub_RidaTent_MinaRot_TalkTo",
+  "quem": "Rida (F)",
+  "en": "Hello Carcens. Welcome."
+ },
+ {
+  "k": "249",
+  "quem": "Jenna (F)",
+  "en": "Thanks! What's uhh... What was all the whispering about?"
+ },
+ {
+  "k": "250",
+  "quem": "Jewel (F)",
+  "en": "We totally heard you guys."
+ },
+ {
+  "k": "251",
+  "quem": "Throb (M)",
+  "en": "Yeeah..."
+ },
+ {
+  "k": "252",
+  "quem": "Mina (F)",
+  "en": "It not your place to hear."
+ },
+ {
+  "k": "253",
+  "quem": "Rot (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "254",
+  "quem": "Jenna (F)",
+  "en": "Whatever you guys say."
+ },
+ {
+  "k": "255",
+  "cena": "FF_Hub_RidaTent_PartyMarked",
+  "quem": "Jenna (F)",
+  "en": "Erm... Seems like they're a little busy."
+ },
+ {
+  "k": "256",
+  "tipo": "escolha",
+  "en": "<color=perversion>(Futa) Watch.</color>"
+ },
+ {
+  "k": "257",
+  "tipo": "escolha",
+  "en": "Don't look."
+ },
+ {
+  "k": "258",
+  "quem": "Jewel (F)",
+  "en": "We should probably go cleanse ourselves of our marks before we talk to her anyway. Let's go win a fight, blue."
+ },
+ {
+  "k": "259",
+  "quem": "Narrador",
+  "en": "<i>I quickly turn away and cover my eyes.</i>"
+ },
+ {
+  "k": "260",
+  "quem": "Jewel (F)",
+  "en": "That's cute~ We should probably go cleanse ourselves of our marks before we talk to her anyway. Let's go win a fight, blue."
+ },
+ {
+  "k": "261",
+  "cena": "FF_Hub_RidaTent_ReportToRida",
+  "quem": "Jewel (F)",
+  "en": "Mmm~ Yuum~ They're sure having fun over there."
+ },
+ {
+  "k": "262",
+  "tipo": "escolha",
+  "en": "<color=perversion>(Futa) Watch them.</color>"
+ },
+ {
+  "k": "263",
+  "tipo": "escolha",
+  "en": "Wait for them to finish."
+ },
+ {
+  "k": "264",
+  "cena": "FF_Hub_RidaTent_ReportToRida_NoWatch",
+  "quem": "Narrador",
+  "en": "<i>I turn around and don't look.</i>"
+ },
+ {
+  "k": "265",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... Hey guys?"
+ },
+ {
+  "k": "266",
+  "quem": "Rida (F)",
+  "en": "Carcens? Carcens done?"
+ },
+ {
+  "k": "267",
+  "quem": "Jenna (F)",
+  "en": "Yep! We're all done with sublevel one."
+ },
+ {
+  "k": "268",
+  "quem": "Rida (F)",
+  "en": "Good! Rida happy!"
+ },
+ {
+  "k": "269",
+  "quem": "Jenna (F)",
+  "en": "Eheh..."
+ },
+ {
+  "k": "270",
+  "quem": "Throb (M)",
+  "en": "S-So uh... What should we do next?"
+ },
+ {
+  "k": "271",
+  "quem": "Rida (F)",
+  "en": "Hmmph... Go clear Sublevel two!"
+ },
+ {
+  "k": "272",
+  "quem": "Throb (M)",
+  "en": "Yep! Going!"
+ },
+ {
+  "k": "273",
+  "quem": "Jewel (F)",
+  "en": "Mmm... I love it when she's forceful~"
+ },
+ {
+  "k": "274",
+  "quem": "Throb (M)",
+  "en": "Okay. Come on, Jewel. Let's get going."
+ },
+ {
+  "k": "275",
+  "quem": "Jewel (F)",
+  "en": "Fiiiiine!"
+ },
+ {
+  "k": "276",
+  "cena": "FF_Hub_RidaTent_ReportToRida_Watch",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... Hey guys!"
+ },
+ {
+  "k": "277",
+  "quem": "Rida (F)",
+  "en": "Carcens? Carcens done?"
+ },
+ {
+  "k": "278",
+  "quem": "Jenna (F)",
+  "en": "Yep! We're all done with sublevel one."
+ },
+ {
+  "k": "279",
+  "quem": "Rida (F)",
+  "en": "Good! Rida happy!"
+ },
+ {
+  "k": "280",
+  "quem": "Mina (F)",
+  "en": "M-Mina <color=perversion>happy toooo~</color>"
+ },
+ {
+  "k": "281",
+  "quem": "Rida (F)",
+  "en": "Mina good girl."
+ },
+ {
+  "k": "282",
+  "quem": "Jewel (F)",
+  "en": "Yees, she is~"
+ },
+ {
+  "k": "283",
+  "quem": "Throb (M)",
+  "en": "S-So uh... What should we do next?"
+ },
+ {
+  "k": "284",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>A-Ah~</color> Wait second~"
+ },
+ {
+  "k": "285",
+  "quem": "Throb (M)",
+  "en": "Alright. Now that you're done, can we-"
+ },
+ {
+  "k": "286",
+  "quem": "Throb (M)",
+  "en": "... Or that."
+ },
+ {
+  "k": "287",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Aaaah~</color>"
+ },
+ {
+  "k": "288",
+  "quem": "Jewel (F)",
+  "en": "She's really goin' at it~ What do you think, blue?"
+ },
+ {
+  "k": "289",
+  "tipo": "escolha",
+  "en": "<color=perversion>It's hot.</color>"
+ },
+ {
+  "k": "290",
+  "tipo": "escolha",
+  "en": "I'm not interested."
+ },
+ {
+  "k": "291",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I love it~ So hot~</color>"
+ },
+ {
+  "k": "292",
+  "quem": "Jewel (F)",
+  "en": "Damn right. Maybe you and I can get a piece of that later~"
+ },
+ {
+  "k": "293",
+  "quem": "Jenna (F)",
+  "en": "It's uhm... It's not really my thing."
+ },
+ {
+  "k": "294",
+  "quem": "Jewel (F)",
+  "en": "That's okay too."
+ },
+ {
+  "k": "295",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Aaah~ Muu</color>ch better~"
+ },
+ {
+  "k": "296",
+  "quem": "Rida (F)",
+  "en": "What you Carcens still here for? Go clear Sublevel two!"
+ },
+ {
+  "k": "297",
+  "quem": "Jenna (F)",
+  "en": "Yep! Will do!"
+ },
+ {
+  "k": "298",
+  "quem": "Jewel (F)",
+  "en": "Mmm... I love it when she's forceful~ Especially while she's got her cock buried in her bitch's ass~"
+ },
+ {
+  "k": "299",
+  "quem": "Throb (M)",
+  "en": "Okay. Come on, Jewel. Let's get going."
+ },
+ {
+  "k": "300",
+  "quem": "Jewel (F)",
+  "en": "Fiiiiine!"
+ }
+]

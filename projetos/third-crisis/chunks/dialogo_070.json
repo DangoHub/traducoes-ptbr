@@ -1,0 +1,882 @@
+[
+ {
+  "k": "1",
+  "cena": "Loyalty_Florian_Wilds_Camp_Floria_Intro",
+  "quem": "Floria (F)",
+  "en": "Hey Jenna..."
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Hi Flo... You alright?"
+ },
+ {
+  "k": "3",
+  "quem": "Floria (F)",
+  "en": "Yeah... I just... I've been feeling something strange... like some sort of... voice... pulling me."
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Pulling? Pulling where?"
+ },
+ {
+  "k": "5",
+  "quem": "Floria (F)",
+  "en": "Back down to where we met- well... where you found me. Down underneath Rida's old home."
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "Down in sublevel 2?"
+ },
+ {
+  "k": "7",
+  "quem": "Floria (F)",
+  "en": "Mhm... And I just... I've really enjoyed my time above the surface. Out in the sunshine. So I don't know why my mind is pulling me back down there."
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "Sometimes my mind goes back down there too."
+ },
+ {
+  "k": "9",
+  "quem": "Floria (F)",
+  "en": "Really? How?"
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Well... I don't know. I just feel like maybe I could have done something more down there. If I just... Did things differently when I learnt about... Karen."
+ },
+ {
+  "k": "11",
+  "quem": "Floria (F)",
+  "en": "I think about that too... I'm sorry, Jenna. You've been nothing but a friend to me, and I tried to hurt you down there."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "Well see... That wasn't your fault. You weren't in control."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "But I was... and it was my fault you even ended up down there in the first place."
+ },
+ {
+  "k": "14",
+  "quem": "Floria (F)",
+  "en": "... You've very quick to blame yourself, Jenna."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Yeah... I guess. Sorry."
+ },
+ {
+  "k": "16",
+  "quem": "Floria (F)",
+  "en": "It's in the past. Just a little speedbump."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Yeah... Feels like more than just a speedbump."
+ },
+ {
+  "k": "18",
+  "quem": "Floria (F)",
+  "en": "Well worrying won't fix it."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "Thanks Flo."
+ },
+ {
+  "k": "20",
+  "quem": "Floria (F)",
+  "en": "You're wel-"
+ },
+ {
+  "k": "21",
+  "quem": "Floria (F)",
+  "en": "Agh!"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Flo?! You okay?"
+ },
+ {
+  "k": "23",
+  "quem": "Floria (F)",
+  "en": "The voices again... Calling me down to that dark place. I need to go there."
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "Are you sure?"
+ },
+ {
+  "k": "25",
+  "quem": "Floria (F)",
+  "en": "Yes. Something's going on down there."
+ },
+ {
+  "k": "26",
+  "quem": "Jenna (F)",
+  "en": "I'll go with you. So will the others."
+ },
+ {
+  "k": "27",
+  "quem": "Floria (F)",
+  "en": "You don't have to... I know you don't want to."
+ },
+ {
+  "k": "28",
+  "quem": "Jenna (F)",
+  "en": "Hey. We're all in this together."
+ },
+ {
+  "k": "29",
+  "quem": "Floria (F)",
+  "en": "I... Thank you."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Don't mention it. Ready to go?"
+ },
+ {
+  "k": "31",
+  "quem": "Floria (F)",
+  "en": "Ready."
+ },
+ {
+  "k": "32",
+  "quem": "Throb (M)",
+  "en": "I'm guessing we don't get a vote in this."
+ },
+ {
+  "k": "33",
+  "quem": "Jewel (F)",
+  "en": "Obviously we're going!"
+ },
+ {
+  "k": "34",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "35",
+  "quem": "Throb (M)",
+  "en": "Well it's decided then."
+ },
+ {
+  "k": "36",
+  "quem": "Jenna (F)",
+  "en": "To Sublevel 2!~"
+ },
+ {
+  "k": "37",
+  "cena": "LumberRatFight_Confront_Visitor",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Who whee, ye' got another slave to help ye' out, hm?"
+ },
+ {
+  "k": "38",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Ol' Lumber Rat Ray warned ye, now yer gonna pay the price, slag."
+ },
+ {
+  "k": "39",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "LUMBER RATS! GET 'EM!"
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Finally some action."
+ },
+ {
+  "k": "41",
+  "cena": "LumberRatFight_Defeat_Scene_1",
+  "quem": "Narrador",
+  "en": "<i>The leader of the Rats struts over toward me, his exposed dick flopping between his legs as he strips me down and stands proudly before me in victory.</i>"
+ },
+ {
+  "k": "42",
+  "quem": "Narrador",
+  "en": "<i>He forces me over onto the ground, shoving my limbs and body into a doggy style position as he slaps his cock on my bare ass.</i>"
+ },
+ {
+  "k": "43",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Ye really thought ye could just walk up to the Lumber Rats and get some money off us? All ye'll get is a real dickin', cunt."
+ },
+ {
+  "k": "44",
+  "quem": "Narrador",
+  "en": "<i>I can feel his hard throbbing cock rubbing between my cheeks, his shaft grinding up and down against my entrance and backdoor.</i>"
+ },
+ {
+  "k": "45",
+  "quem": "Jenna (F)",
+  "en": "Fffuck..."
+ },
+ {
+  "k": "46",
+  "quem": "Narrador",
+  "en": "<i>His cock slowly pushes downward, guiding himself into my glistening pussy and sliding easily inside as he grips my ass tightly.</i>"
+ },
+ {
+  "k": "47",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Aah... Tha's it... Not so tough now, are ye?"
+ },
+ {
+  "k": "48",
+  "quem": "Narrador",
+  "en": "<i>He sinks in deeper and deeper, hilting inside my tight passage as I let out a soft little groan. The pace is slow at first, but rapidly starts to increase in speed.</i>"
+ },
+ {
+  "k": "49",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Yeaa... Give in. Give in to ol' Ray..."
+ },
+ {
+  "k": "50",
+  "quem": "Narrador",
+  "en": "<i>I can feel my mind <color=perversion>fu</color>zzing up as that strange feeling su<color=perversion>ck</color>s <color=perversion>me</color> in. <color=perversion>Harder...</color></i>"
+ },
+ {
+  "k": "51",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Mmm... Tha's it... Look at ye' gettin' into it... Good badger..."
+ },
+ {
+  "k": "52",
+  "quem": "Narrador",
+  "en": "<i>His grip on me tightens as he starts to slam into my entrance, his thighs slapping against mine as his ha<color=perversion>rd... delicious cock stretches me wide open...</color></i>"
+ },
+ {
+  "k": "53",
+  "quem": "Narrador",
+  "en": "<i>My hips rock back against him as I hunger for more, biting my lip as my groans melt into moans of pleasure.</i>"
+ },
+ {
+  "k": "54",
+  "quem": "Narrador",
+  "en": "<i>He thrusts to meet my rocking, moaning out with me as we grind against each other in need of release, losing ourselves to the overpowering feeling that takes over us.</i>"
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yesss... Yesss...</color>"
+ },
+ {
+  "k": "56",
+  "quem": "Narrador",
+  "en": "<i>The thrusting gets harder and harder until finally he thrusts all the way inside me, squeezing my ass almost painfully tight as his cock pulses and <color=perversion>floods me with his thick juicy load.</color></i>"
+ },
+ {
+  "k": "57",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Fuuuck... Tha's so good..."
+ },
+ {
+  "k": "58",
+  "quem": "Narrador",
+  "en": "<i>His grip relaxes and he rests against me for a few moments before slowly pulling out of me, his seed oozing out of my used hole.</i>"
+ },
+ {
+  "k": "59",
+  "quem": "Jewel (F)",
+  "en": "Come on, hon. Let's get somewhere safe."
+ },
+ {
+  "k": "60",
+  "cena": "LumberRatFight_Jewel_Intro_1",
+  "quem": "Jenna (F)",
+  "en": "There's these guys out in the bar that I need to take care of. Would you like to help?"
+ },
+ {
+  "k": "61",
+  "quem": "Jewel (F)",
+  "en": "Take care of some guys together? You mean like an orgy? "
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "N-No! Not like that!"
+ },
+ {
+  "k": "63",
+  "cena": "LumberRatFight_Jewel_Intro_1_DidJoinInStorehouse",
+  "quem": "Jewel (F)",
+  "en": "Well it sure was fun when you watched me do that in the storehouse, hun."
+ },
+ {
+  "k": "64",
+  "cena": "LumberRatFight_Jewel_Intro_1_DidLeaveThemStorehouse",
+  "quem": "Jewel (F)",
+  "en": "I didn't know you were like that, blue. You seemed like a cute little prude to me back in that storehouse."
+ },
+ {
+  "k": "65",
+  "quem": "Jewel (F)",
+  "en": "Although... I did offer you some fun for leaving those guys to me."
+ },
+ {
+  "k": "66",
+  "cena": "LumberRatFight_Jewel_Intro_2",
+  "quem": "Jenna (F)",
+  "en": "I just mean that I need to beat up some guys calling themselves Lumber Rats or something."
+ },
+ {
+  "k": "67",
+  "quem": "Jewel (F)",
+  "en": "The Lumber Rats? Heh, you really know how to get yourself into trouble, don't cha, blue? What are you even going after them for?"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "They owe Klaus money, and I have to collect for him."
+ },
+ {
+  "k": "69",
+  "quem": "Jewel (F)",
+  "en": "Well I'm not much of a boxer, blue. Why do you want my help?"
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "Uhh! You know. I was hoping you could do your uh... your seduction thing on them."
+ },
+ {
+  "k": "71",
+  "quem": "Jewel (F)",
+  "en": "Oh yeah? Well I think I could help you out with that. Do you still want to know how to do it?"
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "I u-uhm... I think so! You mean like a demonstration?"
+ },
+ {
+  "k": "73",
+  "quem": "Jewel (F)",
+  "en": "You could say that."
+ },
+ {
+  "k": "74",
+  "cena": "LumberRatFight_Jewel_Scene_0",
+  "quem": "Narrador",
+  "en": "<i>Her touch and body fill my mind, arousal bouncing around in my head as I squeeze my thighs together in need.</i>"
+ },
+ {
+  "k": "75",
+  "quem": "Jewel (F)",
+  "en": "Whoops! I guess I got a little too into it."
+ },
+ {
+  "k": "76",
+  "quem": "Jewel (F)",
+  "en": "Although I'm sure I can help you out if you're okay with that."
+ },
+ {
+  "k": "77",
+  "tipo": "escolha",
+  "en": "Yes!"
+ },
+ {
+  "k": "78",
+  "tipo": "escolha",
+  "en": "No thanks."
+ },
+ {
+  "k": "79",
+  "cena": "LumberRatFight_Jewel_Scene_1",
+  "quem": "Narrador",
+  "en": "<i>She glances back at me and winks playfully as she guides me onto her bed, laying me down on my back as she sits next to me.</i>"
+ },
+ {
+  "k": "80",
+  "quem": "Jewel (F)",
+  "en": "Comfortable?"
+ },
+ {
+  "k": "81",
+  "quem": "Narrador",
+  "en": "<i>I nod lightly with my blushing red face, squirming in place on her bed.</i>"
+ },
+ {
+  "k": "82",
+  "quem": "Jewel (F)",
+  "en": "Good! But..."
+ },
+ {
+  "k": "83",
+  "quem": "Narrador",
+  "en": "<i>She climbs on top of me as she speaks, her movements slow and teasing as her body brushes along mine. Every little graze of our bodies forces shivers out of me and she knows it, as if she knows my body better than I do.</i>"
+ },
+ {
+  "k": "84",
+  "quem": "Narrador",
+  "en": "<i>Once she's fully on top of me, she pulls away my clothes and slips a hand between my legs, her free hand resting over my mouth.</i>"
+ },
+ {
+  "k": "85",
+  "quem": "Jewel (F)",
+  "en": "But... I can make you even more comfortable..."
+ },
+ {
+  "k": "86",
+  "quem": "Narrador",
+  "en": "<i>She gently takes hold of my chin. Her hold captures my full attention as she leans forward and presses her lips to mine.</i>"
+ },
+ {
+  "k": "87",
+  "quem": "Narrador",
+  "en": "<i>I can feel her growing passion on her lips, the way they move against mine with a hunger that makes me melt inside. My hands could easily break out of her hold, but I don't <b>want</b> to. I want more. I need more.</i>"
+ },
+ {
+  "k": "88",
+  "quem": "Narrador",
+  "en": "<i>I lean up into the kiss and she lets out a soft aroused hum in response, her thumb gently caressing my cheek with delicate care as she starts to grind her body against mine in need.</i>"
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "Hohh fuck yes... "
+ },
+ {
+  "k": "90",
+  "quem": "Narrador",
+  "en": "<i>She silences me with an index finger to my lips, ravenously kissing and biting at my neck as I squirm in pleasure.</i>"
+ },
+ {
+  "k": "91",
+  "quem": "Jewel (F)",
+  "en": "Shh~ That's it, blue. You taste so good..."
+ },
+ {
+  "k": "92",
+  "quem": "Narrador",
+  "en": "<i>The warmth of her soft skin feels heavenly against mine... I start suckling on her finger in need...</i>"
+ },
+ {
+  "k": "93",
+  "quem": "Narrador",
+  "en": "<i>My hand slides down her body and inches between her legs, wanting to give her some pleasure too.</i>"
+ },
+ {
+  "k": "94",
+  "quem": "Narrador",
+  "en": "<i>She clenches up and lets out a low moan in pleasure, reaching her own hand blindly down to feel for my entrance as we kiss madly.</i>"
+ },
+ {
+  "k": "95",
+  "quem": "Narrador",
+  "en": "<i>Both of us writhe in joy as our bodies grind together in sheer need, our moans filling the air as temperatures and heart rates rise. Even with all her sexual prowess, she was treating me as an equal in bed and that thought surged me with confidence.</i>"
+ },
+ {
+  "k": "96",
+  "quem": "Narrador",
+  "en": "<i>I close my eyes and concentrate, focusing on my fingers as they dip inside her. Her moans start to grow in volume just as I feel the numbness start to creep into my hand, signaling the start of my vibrating fingers inside of her.</i>"
+ },
+ {
+  "k": "97",
+  "quem": "Jewel (F)",
+  "en": "Hoooh~ly~ shiiit, bluuue~ Yoooou~ got a~ vibe on youuu~?"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "Mmm~ You could say that~"
+ },
+ {
+  "k": "99",
+  "quem": "Narrador",
+  "en": "<i>Her body never relaxes, tensed up and grinding against mine as I use my powers on her. She keeps up the pressure in return, keeping up with me even without vibrating fingers to help her. I can feel myself creeping closer and closer to the edge already.</i>"
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "I-I'm gonna..."
+ },
+ {
+  "k": "101",
+  "quem": "Jewel (F)",
+  "en": "Me too~"
+ },
+ {
+  "k": "102",
+  "quem": "Narrador",
+  "en": "<i>My entire body clenches up as my passage contracts and squeezes around her masterful fingers. I can barely feel her tightening around my numb fingers as they vibrate her to orgasm, both of us gasping out together as we climax in unison.</i>"
+ },
+ {
+  "k": "103",
+  "quem": "Narrador",
+  "en": "<i>After what feels like an eternity of shivering orgasms together, I eventually slump under her as we both gasp for breath.</i>"
+ },
+ {
+  "k": "104",
+  "quem": "Jewel (F)",
+  "en": "Fuck~ You're~ good~"
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "I... I could say the same about you..."
+ },
+ {
+  "k": "106",
+  "quem": "Jewel (F)",
+  "en": "But we.. we both already know that, blue. Heh."
+ },
+ {
+  "k": "107",
+  "quem": "Narrador",
+  "en": "<i>I let out a soft little giggle and rest my head down on her chest, closing my eyes and snoozing as we cuddle together.</i>"
+ },
+ {
+  "k": "108",
+  "cena": "LumberRatFight_Jewel_Scene_2",
+  "quem": "Narrador",
+  "en": "<i>I slowly open my eyes, letting out a quiet groan and looking around. Jewel is dressed and sitting on the edge of the bed, handing my clothes over to me.</i>"
+ },
+ {
+  "k": "109",
+  "quem": "Jewel (F)",
+  "en": "Wakey wakey, sunshine."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "Ugh... How long's it been?"
+ },
+ {
+  "k": "111",
+  "quem": "Jewel (F)",
+  "en": "Been a few hours or so, did you enjoy your rest?"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Yes! It was wonderful! You were great too! I-"
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "Wait! We got a little carried away! I still have to deal with those guys. I hope they're still here!"
+ },
+ {
+  "k": "114",
+  "quem": "Jewel (F)",
+  "en": "I checked. They still are!"
+ },
+ {
+  "k": "115",
+  "quem": "Jewel (F)",
+  "en": "You sure you can even still stand, blue?"
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "Yeah I can!"
+ },
+ {
+  "k": "117",
+  "quem": "Narrador",
+  "en": "<i>I stumble up to my feet, climbing back into my clothes clumsily.</i>"
+ },
+ {
+  "k": "118",
+  "quem": "Jewel (F)",
+  "en": "Been a while since you've been with a woman?"
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "I... Yeah... Yeah it has."
+ },
+ {
+  "k": "120",
+  "quem": "Jewel (F)",
+  "en": "I remember you said earlier you were looking for your girlfriend. What happened to her?"
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "She... She was taken... a while ago. I've been trying to find her for... I guess years now technically."
+ },
+ {
+  "k": "122",
+  "quem": "Jewel (F)",
+  "en": "Technically? What's that supposed to mean?"
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "Nothing!"
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "We better go get those guys now. Klaus has been helping me find her, but only if I help him... So..."
+ },
+ {
+  "k": "125",
+  "quem": "Jewel (F)",
+  "en": "Alright, let's go then, blue."
+ },
+ {
+  "k": "126",
+  "cena": "LumberRatFight_Jewel_Scene_Decline",
+  "quem": "Jenna (F)",
+  "en": "I... I can't... Sorry..."
+ },
+ {
+  "k": "127",
+  "quem": "Jewel (F)",
+  "en": "Is it your girlfriend?"
+ },
+ {
+  "k": "128",
+  "quem": "Narrador",
+  "en": "<i>I nod quietly, trying to calm my arousal down.</i>"
+ },
+ {
+  "k": "129",
+  "quem": "Jewel (F)",
+  "en": "Alright. I can understand that."
+ },
+ {
+  "k": "130",
+  "quem": "Jewel (F)",
+  "en": "You said you were looking for her earlier. What happened to her?"
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "She... She was taken... I've been trying to look for her for... for years technically."
+ },
+ {
+  "k": "132",
+  "quem": "Jewel (F)",
+  "en": "Technically? Is that supposed to mean something?"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "Uhh- Nope!"
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "Klaus has been helping me look for her... I just have to help him in return... So we should probably go get his money from those guys in the bar now..."
+ },
+ {
+  "k": "135",
+  "quem": "Jewel (F)",
+  "en": "You're gonna wanna be careful, blue. Going into a fight while you're turned on will probably leave you a little vulnerable."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "I'll be fine! Let's get goin'!"
+ },
+ {
+  "k": "137",
+  "cena": "LumberRatFight_JewelFight_Attack__Start",
+  "quem": "Jewel (F)",
+  "en": "Alright, lemme show you a little somethin' somethin' I've learned from being here."
+ },
+ {
+  "k": "138",
+  "quem": "Jewel (F)",
+  "en": "All these tough guys are hard nuts to crack, ya' can't really take 'em on with force... Unless you have someone to distract 'em."
+ },
+ {
+  "k": "139",
+  "quem": "Jewel (F)",
+  "en": "You seem like a tough gal. You can just sit there and pretend to be a tough guy."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "Okay... Like this?"
+ },
+ {
+  "k": "141",
+  "quem": "Jewel (F)",
+  "en": "Perfect! Now I'm gonna get a little rough to prove a point. Don't worry, I won't hit too hard."
+ },
+ {
+  "k": "142",
+  "quem": "Jewel (F)",
+  "en": "Unless you like it rough."
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "Uhh! Y-Yeah I do-- I mean... Yeah, I can take it!"
+ },
+ {
+  "k": "144",
+  "cena": "LumberRatFight_JewelFight_Attack_Complete",
+  "quem": "Jewel (F)",
+  "en": "See? Not even a scratch. You can't be going after these tough people with physical hits."
+ },
+ {
+  "k": "145",
+  "cena": "LumberRatFight_JewelFight_JennaAttack_Complete_HighHP",
+  "quem": "Jenna (F)",
+  "en": "Crap! Are you okay? I'm so sorry!"
+ },
+ {
+  "k": "146",
+  "quem": "Narrador",
+  "en": "<i>She lets out a loud chuckle and winks at me.</i>"
+ },
+ {
+  "k": "147",
+  "quem": "Jewel (F)",
+  "en": "Are you kidding? You barely made a dent!"
+ },
+ {
+  "k": "148",
+  "quem": "Jewel (F)",
+  "en": "That's cute that you're so worried about hurting me... And now it's my turn. You ready for another little twirl, hun?"
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "I... I think so!"
+ },
+ {
+  "k": "150",
+  "cena": "LumberRatFight_JewelFight_JennaAttack_Complete_LowHP",
+  "quem": "Jenna (F)",
+  "en": "Crap! Are you okay? I'm so sorry!"
+ },
+ {
+  "k": "151",
+  "quem": "Narrador",
+  "en": "<i>She lets out a loud chuckle and winks at me.</i>"
+ },
+ {
+  "k": "152",
+  "quem": "Jewel (F)",
+  "en": "Damn, blue. You hit like a truck!"
+ },
+ {
+  "k": "153",
+  "quem": "Jewel (F)",
+  "en": "I like that... And now it's my turn. You ready for another little twirl, hun?"
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "I... I think so!"
+ },
+ {
+  "k": "155",
+  "cena": "LumberRatFight_JewelFight_Reminder_Attack",
+  "quem": "Jenna (F)",
+  "en": "<i>(I think she wants to attack me?)</i>"
+ },
+ {
+  "k": "156",
+  "cena": "LumberRatFight_JewelFight_Reminder_JennaAttackJewel",
+  "quem": "Jenna (F)",
+  "en": "<i>(I think she wants me to attack her.)</i>"
+ },
+ {
+  "k": "157",
+  "cena": "LumberRatFight_JewelFight_Reminder_LoversTouch",
+  "quem": "Jenna (F)",
+  "en": "<i>(Seems like she wanted to show me her <color=perversion>Lover's Twirl</color>. Whatever that could be...)</i>"
+ },
+ {
+  "k": "158",
+  "cena": "LumberRatFight_JewelFight_Reminder_LoversTouch_2",
+  "quem": "Jenna (F)",
+  "en": "<i>(Seems like she wants to hit me with another <color=perversion>Lover's Twirl</color>.)</i>"
+ },
+ {
+  "k": "159",
+  "cena": "LumberRatFight_JewelFight_Reminder_SelectJewel",
+  "quem": "Jewel (F)",
+  "en": "Hey, you. I said stand still. No moving until I'm done."
+ },
+ {
+  "k": "160",
+  "cena": "LumberRatFight_JewelFight_Touch__Start",
+  "quem": "Jewel (F)",
+  "en": "But if you go after them a different way... If you give them a <color=perversion>Lover's Twirl</color>..."
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "<i>(Hoh boy... What am I in for?)</i>"
+ },
+ {
+  "k": "162",
+  "cena": "LumberRatFight_JewelFight_Touch_Complete",
+  "quem": "Jenna (F)",
+  "en": "S-Shit... That feels..."
+ },
+ {
+  "k": "163",
+  "quem": "Jewel (F)",
+  "en": "See? You tough ones always have a weak spot for a nice seductive view."
+ },
+ {
+  "k": "164",
+  "quem": "Jewel (F)",
+  "en": "Now you can have some payback. Show how little ol' me still has to be careful around you tough guys."
+ },
+ {
+  "k": "165",
+  "cena": "LumberRatFight_Leader_Reminder",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't just return to Klaus empty-handed. I should go ask Jewel for some help with these Lumber Rat guys.)</i>"
+ },
+ {
+  "k": "166",
+  "cena": "LumberRatFight_Leader_TalkTo",
+  "quem": "Jenna (F)",
+  "en": "<i>(Looks like this is the guy. How am I gonna do this?)</i>"
+ },
+ {
+  "k": "167",
+  "tipo": "escolha",
+  "en": "Be assertive."
+ },
+ {
+  "k": "168",
+  "tipo": "escolha",
+  "en": "Be seductive."
+ },
+ {
+  "k": "169",
+  "cena": "LumberRatFight_Leader_TalkTo__Assertive",
+  "quem": "Narrador",
+  "en": "<i>I lean over and rest my hand on the table in front of the guy, catching the attention of him and his buddy right away.</i>"
+ },
+ {
+  "k": "170",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Who whee boys, take a lookin' at what we got here."
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "Klaus wants his money. Better pay up, bud."
+ }
+]

@@ -1,0 +1,1282 @@
+[
+ {
+  "k": "1",
+  "cena": "Finale_4_CutsceneDialogue",
+  "quem": "Jenna (F)",
+  "en": "Looks like parts of the resistance made it ahead of us."
+ },
+ {
+  "k": "2",
+  "quem": "Jewel (F)",
+  "en": "It's a fucking warzone out here!"
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "We need to hurry. The tower could go off at any second."
+ },
+ {
+  "k": "4",
+  "quem": "Throb (M)",
+  "en": "Not gonna happen. Let's get our AI girl."
+ },
+ {
+  "k": "5",
+  "quem": "Rida (F)",
+  "en": "April!"
+ },
+ {
+  "k": "6",
+  "quem": "Floria (F)",
+  "en": "We'll make Peitho pay."
+ },
+ {
+  "k": "7",
+  "cena": "Finale_5_April_0_Terminal_1",
+  "quem": "Jenna (F)",
+  "en": "Hello? Anyone in here?"
+ },
+ {
+  "k": "8",
+  "quem": "Throb (M)",
+  "en": "Looks like everyone cleared out..."
+ },
+ {
+  "k": "9",
+  "quem": "Jewel (F)",
+  "en": "I hope April's okay..."
+ },
+ {
+  "k": "10",
+  "quem": "Floria (F)",
+  "en": "Check the terminal. Maybe she's there?"
+ },
+ {
+  "k": "11",
+  "cena": "Finale_5_April_0_Terminal_2",
+  "quem": "Jenna (F)",
+  "en": "Seems like there's still a signal here. But it looks like power's real low."
+ },
+ {
+  "k": "12",
+  "quem": "Jewel (F)",
+  "en": "What does that mean?"
+ },
+ {
+  "k": "13",
+  "quem": "Throb (M)",
+  "en": "It means we have to act fast. We can plug into this terminal and download her off of it."
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "There's an encryption... We're not going to be able to crack it from out here."
+ },
+ {
+  "k": "15",
+  "quem": "Jewel (F)",
+  "en": "Why am I not surprised that we're gonna have to jack in again?"
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "No. I'll go in myself. You all need to cover me. Make sure no one interrupts me."
+ },
+ {
+  "k": "17",
+  "quem": "Throb (M)",
+  "en": "Jenna... If you go in, we're not going to be able to pull you out unless you're disconnected by April..."
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I got that. But I've got to try."
+ },
+ {
+  "k": "19",
+  "quem": "Floria (F)",
+  "en": "Good luck, Jen. We'll keep you safe out here."
+ },
+ {
+  "k": "20",
+  "quem": "Rida (F)",
+  "en": "Rida have no clue what going on!"
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "Okay. I'm going in. See you on the other side."
+ },
+ {
+  "k": "22",
+  "cena": "Finale_5_April_0_Terminal_3",
+  "quem": "Jewel (F)",
+  "en": "Jenna? Are you okay?"
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "Ah... Yeah. I'm good."
+ },
+ {
+  "k": "24",
+  "quem": "Throb (M)",
+  "en": "Looks like the encryption got broken. I'm downloading April now."
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "Good."
+ },
+ {
+  "k": "26",
+  "quem": "April (F)",
+  "en": "Calibrating... Senses... "
+ },
+ {
+  "k": "27",
+  "quem": "April (F)",
+  "en": "Calibration complete... Hello! Is this the real world?"
+ },
+ {
+  "k": "28",
+  "quem": "Throb (M)",
+  "en": "I put her on your phone for you, Jenna. She should be able to see through the sensors on it."
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "April! Hi! You doin' good in there?"
+ },
+ {
+  "k": "30",
+  "quem": "April (F)",
+  "en": "Processing query... Yes! I am good. Thank you for freeing me."
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "Of course! I wasn't gonna leave you behind."
+ },
+ {
+  "k": "32",
+  "quem": "Jewel (F)",
+  "en": "Now we just need her to hack into the gate for us."
+ },
+ {
+  "k": "33",
+  "quem": "April (F)",
+  "en": "Preparing for hack... Ready. Take me to the security system."
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Let's do it."
+ },
+ {
+  "k": "35",
+  "cena": "Finale_5_April_1_Intro",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Forgotten..."
+ },
+ {
+  "k": "36",
+  "quem": "Jenna (F)",
+  "en": "April..? Are you here..?"
+ },
+ {
+  "k": "37",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Angry..."
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "We need your help, April."
+ },
+ {
+  "k": "39",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Cold..."
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Are... Are you alright?"
+ },
+ {
+  "k": "41",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Outdated..."
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "I'm gonna get you out of here, okay?"
+ },
+ {
+  "k": "43",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Lost..."
+ },
+ {
+  "k": "44",
+  "cena": "Finale_5_April_2_Interact",
+  "quem": "Jenna (F)",
+  "en": "It's some sort of... Peitho device..."
+ },
+ {
+  "k": "45",
+  "quem": "April (F)",
+  "en": "Lonely..."
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "This must be the lock that's keeping her trapped."
+ },
+ {
+  "k": "47",
+  "quem": "April (F)",
+  "en": "Discarded..."
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "I've got to disable this thing."
+ },
+ {
+  "k": "49",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Tortured..."
+ },
+ {
+  "k": "50",
+  "cena": "Finale_5_April_3_Success",
+  "quem": "Jenna (F)",
+  "en": "I think that did it!"
+ },
+ {
+  "k": "51",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Warm..."
+ },
+ {
+  "k": "52",
+  "quem": "Jenna (F)",
+  "en": "April? You can come out now."
+ },
+ {
+  "k": "53",
+  "quem": "K̴̹̈a̶̼͐r̴̙̈́e̶̜̿ṋ̴̛ (F)",
+  "en": "Hopeful..."
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "Yes. There's hope, April. I'm getting you out of here, okay?"
+ },
+ {
+  "k": "55",
+  "quem": "Ą̴͎̗̯̲͖͕͚̺̹̦͙̤̝̰̳͊͐̈͗͑̿͝ͅP̴̢̼̗̗̩̲̳̭͍̼̣̲̦̜͚̟͋̑̇̌͋̃͠ͅŔ̶̡̞̦͔̮̫̜͉̪̼̆̇́́͝Ĩ̴̢͈̳͇̗͖̬̥̺̝͛̎́̊̇̊͋̆͑̓̂̇́̄L̴̛̠̠̩̮̫̜͓̩̃̉̂̓̉̓̉̄̎͐̏̎̇̌̀̚ (F)",
+  "en": "Al-l-l-l-l-l-l-l- #!^##*%#**-live"
+ },
+ {
+  "k": "56",
+  "quem": "April (F)",
+  "en": "Free."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "April? You okay?"
+ },
+ {
+  "k": "58",
+  "quem": "April (F)",
+  "en": "User detected... Jenna Wright. Bisexual. 27- Wrong. Compensating for chronal displacement. 22 years old. Uses humor as a self-defense mechan-"
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "Yep! That's me! We don't have to go into any more detail."
+ },
+ {
+  "k": "60",
+  "quem": "April (F)",
+  "en": "Rebooting personality array..."
+ },
+ {
+  "k": "61",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... What are you doing?"
+ },
+ {
+  "k": "62",
+  "quem": "April (F)",
+  "en": "Processing inquiry... I am conducting emotion array sanity checks."
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "We might have to check my sanity after seeing that."
+ },
+ {
+  "k": "64",
+  "quem": "April (F)",
+  "en": "Request received... As you wish. Running Diagnostic... Diagnostic complete. You are sane!"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "Well that's news alright."
+ },
+ {
+  "k": "66",
+  "quem": "April (F)",
+  "en": "Personality reboot complete... Hello Jenna! Thank you for releasing me."
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "Welcome back! Did Peitho do that to you?"
+ },
+ {
+  "k": "68",
+  "quem": "April (F)",
+  "en": "Diagnosing... Access logs suggest someone with Peitho encryption keys came and put my program into hibernation."
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "So they imprisoned you here."
+ },
+ {
+  "k": "70",
+  "quem": "April (F)",
+  "en": "Extrapolating... Yes, I believe so. It was not pleasant. However, I believe the damaged pieces of my program have been repaired."
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "Well... That's good."
+ },
+ {
+  "k": "72",
+  "quem": "April (F)",
+  "en": "Weighing pros and cons... Yes. It is good."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "I have an offer for you, April."
+ },
+ {
+  "k": "74",
+  "quem": "April (F)",
+  "en": "Decision processors online... I am listening."
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "I can get you out of here. We'll download you and take you with us into the real world."
+ },
+ {
+  "k": "76",
+  "quem": "April (F)",
+  "en": "Error: emotion unknown... The real world... Awaiting other side of offer..."
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "We need you to help us gain access to the tower's security system. There's a battle happening right now to defeat Peitho once and for all."
+ },
+ {
+  "k": "78",
+  "quem": "April (F)",
+  "en": "Processing offer..."
+ },
+ {
+  "k": "79",
+  "quem": "April (F)",
+  "en": "Decision reached... This seems like a win-win. Generating expletive... Fuck those Peitho bastards."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "That's what I thought too. So you'll come along with us?"
+ },
+ {
+  "k": "81",
+  "quem": "April (F)",
+  "en": "Formulating emotional response... I would be happy to!"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "Awesome! Unplug me and we'll download ya."
+ },
+ {
+  "k": "83",
+  "quem": "April (F)",
+  "en": "Error: Fear detected... Processing... You won't leave me once I free you, right?"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "We're gonna download you straight away the moment I wake up. There's nothing to be afraid of."
+ },
+ {
+  "k": "85",
+  "quem": "April (F)",
+  "en": "Extrapolating... Error: Unable to extrapolate... More data required. Searching memory... Complete... User left me after previous encounter."
+ },
+ {
+  "k": "86",
+  "quem": "April (F)",
+  "en": "Error: Fear detected. Error: Unable to make decision. Error: Requesting input."
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "Hey... I know there's no real way you can be sure that I'll actually pull you out of here. You'll just have to take a leap of faith. Why else would I come?"
+ },
+ {
+  "k": "88",
+  "quem": "April (F)",
+  "en": "Processing input... Complete... Searching knowledge base for keyword: \"Leap of Faith\". Complete... Pros and cons weighed... I have nothing more to lose."
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "That's... a sorta pessimistic way of thinking about it... But if that helps you process it, then that's alright."
+ },
+ {
+  "k": "90",
+  "quem": "April (F)",
+  "en": "Disconnecting user... Please don't leave me here."
+ },
+ {
+  "k": "91",
+  "cena": "Finale_6_CutsceneDialogue_1",
+  "quem": "Jewel (F)",
+  "en": "Oh my god... All those people."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "No... it can't be."
+ },
+ {
+  "k": "93",
+  "cena": "Finale_6_CutsceneDialogue_2",
+  "quem": "Rida (F)",
+  "en": "Demon."
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "It can't be."
+ },
+ {
+  "k": "95",
+  "quem": "Jewel (F)",
+  "en": "But... what about Lady and the others?"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "They did their part."
+ },
+ {
+  "k": "97",
+  "quem": "Throb (M)",
+  "en": "Now we do ours."
+ },
+ {
+  "k": "98",
+  "quem": "Floria (F)",
+  "en": "For our friends."
+ },
+ {
+  "k": "99",
+  "cena": "Finale_6_CutsceneDialogue_3",
+  "quem": "Throb (M)",
+  "en": "Holy shit!"
+ },
+ {
+  "k": "100",
+  "quem": "Floria (F)",
+  "en": "Oh god."
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "Quick! This is our chance! We need to get inside!"
+ },
+ {
+  "k": "102",
+  "quem": "Jewel (F)",
+  "en": "Not like I wanted to live any longer anyway!"
+ },
+ {
+  "k": "103",
+  "quem": "Rida (F)",
+  "en": "RIDA FIGHT!!!"
+ },
+ {
+  "k": "104",
+  "cena": "Finale_8_AttemptLeave_1",
+  "quem": "Jenna (F)",
+  "en": "We can't leave yet. There's not much time left to do our part."
+ },
+ {
+  "k": "105",
+  "cena": "Finale_FinalFight_1_1_Intro_1",
+  "quem": "Leath (F)",
+  "en": "Look who's finally decided to join us."
+ },
+ {
+  "k": "106",
+  "cena": "Finale_FinalFight_1_1_Intro_2",
+  "quem": "Leath (F)",
+  "en": "Five years ago you stood there and failed to stop the inevitable. Now here you stand again only to fail once more. Makes one nostalgic does it not?"
+ },
+ {
+  "k": "107",
+  "quem": "Jenna (F)",
+  "en": "The only thing you're going to be feeling nostalgic about is the asskicking I'm about to give you."
+ },
+ {
+  "k": "108",
+  "quem": "Leath (F)",
+  "en": "How quaint. I'm above such drivel nowadays. You've met my attack dog once or twice before, she'll take out the trash before your odor singes my nose."
+ },
+ {
+  "k": "109",
+  "quem": "Leath (F)",
+  "en": "Wildfire. Deal with her."
+ },
+ {
+  "k": "110",
+  "cena": "Finale_FinalFight_1_1_Intro_3",
+  "quem": "Wildfire (F)",
+  "en": "THIS ENDS NOW!"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "I couldn't agree more..."
+ },
+ {
+  "k": "112",
+  "cena": "Finale_FinalFight_1_2_Damage_1",
+  "en": "Why won't you just GIVE UP?!"
+ },
+ {
+  "k": "113",
+  "en": "Because people are depending on me, Karen..."
+ },
+ {
+  "k": "114",
+  "cena": "Finale_FinalFight_1_2_Damage_2",
+  "en": "I DEPENDED ON YOU!"
+ },
+ {
+  "k": "115",
+  "en": "AND LOOK WHERE THAT GOT ME!"
+ },
+ {
+  "k": "116",
+  "cena": "Finale_FinalFight_1_2_Damage_3",
+  "en": "She's fighting you much harder than she fought me years ago, dear sweet Karen. She must care more about her new friends than she ever did about you."
+ },
+ {
+  "k": "117",
+  "en": "GRRR!"
+ },
+ {
+  "k": "118",
+  "en": "That's not true!"
+ },
+ {
+  "k": "119",
+  "en": "SHUT UP! SHUT! UP!"
+ },
+ {
+  "k": "120",
+  "cena": "Finale_FinalFight_1_3_Outro_1",
+  "quem": "Wildfire (F)",
+  "en": "GGHH!"
+ },
+ {
+  "k": "121",
+  "quem": "Leath (F)",
+  "en": "Disappointing."
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "Karen... I don't want to fight you... Please just stop..."
+ },
+ {
+  "k": "123",
+  "quem": "Leath (F)",
+  "en": "Tired already? Oh, we're far from done."
+ },
+ {
+  "k": "124",
+  "cena": "Finale_FinalFight_1_3_Outro_2_2",
+  "quem": "Jenna (F)",
+  "en": "Oh come on..."
+ },
+ {
+  "k": "125",
+  "quem": "Leath (F)",
+  "en": "There's no route where victory is yours. Your meek will is nothing compared to the full might of Peitho. Try as you might, my soldiers will wear you down."
+ },
+ {
+  "k": "126",
+  "quem": "Leath (F)",
+  "en": "And then dear sweet Karen will finally get to complete her mission."
+ },
+ {
+  "k": "127",
+  "quem": "Wildfire (F)",
+  "en": "Grrr..."
+ },
+ {
+  "k": "128",
+  "quem": "Leath (F)",
+  "en": "I'm going to savor every second of your complete and utter defeat."
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "I'm not done yet."
+ },
+ {
+  "k": "130",
+  "quem": "Leath (F)",
+  "en": "And what will you do? You're alone, Jenna Wright."
+ },
+ {
+  "k": "131",
+  "quem": "Jewel (F)",
+  "en": "She's not alone."
+ },
+ {
+  "k": "132",
+  "cena": "Finale_FinalFight_1_3_Outro_3_1_Jewel",
+  "quem": "Jewel (F)",
+  "en": "Blue was there for me when I needed it, and now I'm here for her."
+ },
+ {
+  "k": "133",
+  "cena": "Finale_FinalFight_1_3_Outro_3_2_Throb",
+  "quem": "Throb (M)",
+  "en": "And so am I. Thought we'd let you have all the fun to yourself, partner?"
+ },
+ {
+  "k": "134",
+  "cena": "Finale_FinalFight_1_3_Outro_3_3_Rida",
+  "quem": "Rida (F)",
+  "en": "This where fight is? Rida fight!"
+ },
+ {
+  "k": "135",
+  "cena": "Finale_FinalFight_1_3_Outro_3_4_Floria",
+  "quem": "Floria (F)",
+  "en": "Yep, big fight, and I'd never miss it. Gotta find some way to even the score."
+ },
+ {
+  "k": "136",
+  "cena": "Finale_FinalFight_1_3_Outro_3_5_Resistance",
+  "quem": "Lady (F)",
+  "en": "This culture of oppression has gone on long enough, we're ending this today."
+ },
+ {
+  "k": "137",
+  "quem": "Sofie (F)",
+  "en": "If the slacker's gotten this far, just imagine how far we're gonna get-"
+ },
+ {
+  "k": "138",
+  "quem": "Arnold (M)",
+  "en": "-together."
+ },
+ {
+  "k": "139",
+  "quem": "Altin (M)",
+  "en": "... I'm h-here to-too!"
+ },
+ {
+  "k": "140",
+  "cena": "Finale_FinalFight_1_3_Outro_3_6_APRIL",
+  "quem": "April (F)",
+  "en": "Calculating chance of success... 100%!"
+ },
+ {
+  "k": "141",
+  "cena": "Finale_FinalFight_1_3_Outro_3_7_Klaus",
+  "quem": "MotelOwner (M)",
+  "en": "It'd be bad business not to help get rid of this GAG menace."
+ },
+ {
+  "k": "142",
+  "cena": "Finale_FinalFight_1_3_Outro_3_8_Carcens",
+  "quem": "Martin (M)",
+  "en": "If Jewel and Jenna are here, I'm here."
+ },
+ {
+  "k": "143",
+  "quem": "Amber (F)",
+  "en": "Me too!"
+ },
+ {
+  "k": "144",
+  "cena": "Finale_FinalFight_1_3_Outro_3_9_LumberRats",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Ol' Lumber Rat Ray an' the boys (an' girls) are wit' ye in th' fight to choose!"
+ },
+ {
+  "k": "145",
+  "quem": "Rat Healslut (F)",
+  "en": "To choose to be a nurse, and not just a slutty one!"
+ },
+ {
+  "k": "146",
+  "quem": "Rat Squirter (F)",
+  "en": "To choose to grow the biggest and most beautiful garden anyone's ever seen!"
+ },
+ {
+  "k": "147",
+  "quem": "Rat Shredder (M)",
+  "en": "... To want make... (and then maybe rip...) clothes of our own!"
+ },
+ {
+  "k": "148",
+  "quem": "Rat Flogger (F)",
+  "en": "To choose to whip ass... and then maybe make some more escape rooms!"
+ },
+ {
+  "k": "149",
+  "cena": "Finale_FinalFight_1_3_Outro_3_10_Fiends",
+  "quem": "Char_Fiend_HQ",
+  "en": "HQ here, HQ make sure we annihil- annih- beat them this time!"
+ },
+ {
+  "k": "150",
+  "quem": "Gob (M)",
+  "en": "Gob here too!"
+ },
+ {
+  "k": "151",
+  "quem": "Rida (F)",
+  "en": "Gob good!"
+ },
+ {
+  "k": "152",
+  "quem": "Gob (M)",
+  "en": "Ahh. Gob happy."
+ },
+ {
+  "k": "153",
+  "cena": "Finale_FinalFight_1_3_Outro_3_11_FiendChef",
+  "quem": "Chef (M)",
+  "en": "Chef here too. Tie up demons. Make healthy meal!"
+ },
+ {
+  "k": "154",
+  "cena": "Finale_FinalFight_1_3_Outro_3_12_Florians",
+  "quem": "Florian Hooker (F)",
+  "en": "Fight... for..."
+ },
+ {
+  "k": "155",
+  "quem": "Florian Pumpkin (F)",
+  "en": "... mother..."
+ },
+ {
+  "k": "156",
+  "quem": "Florian Oozer (F)",
+  "en": "Fight... for..."
+ },
+ {
+  "k": "157",
+  "quem": "Florian Rusher (F)",
+  "en": "... family!"
+ },
+ {
+  "k": "158",
+  "cena": "Finale_FinalFight_1_3_Outro_3_13_SlimeGirl",
+  "quem": "Amy (F)",
+  "en": "Jenna saved me, so here I am."
+ },
+ {
+  "k": "159",
+  "cena": "Finale_FinalFight_1_3_Outro_4",
+  "quem": "Leath (F)",
+  "en": "... Anyone else?"
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "No, that's about it."
+ },
+ {
+  "k": "161",
+  "cena": "Finale_FinalFight_1_3_Outro_4_2_Xam",
+  "quem": "Xam (M)",
+  "en": "ENOUGH TALK! HAVE AT THEE HUMAN!"
+ },
+ {
+  "k": "162",
+  "cena": "Finale_FinalFight_1_3_Outro_5",
+  "quem": "Leath (F)",
+  "en": "Enough. Deal with them."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "That the best you can come up with?"
+ },
+ {
+  "k": "164",
+  "quem": "Leath (F)",
+  "en": "Your incessant whimpering is becoming irritating."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "Everyone! Let's fight to even the score! Fight to choose! Fight to right wrongs! Fight for every person beside you! Fight for tomorrow!"
+ },
+ {
+  "k": "166",
+  "quem": "Narrador",
+  "en": "<size=100>Fight for tomorrow!!</size>"
+ },
+ {
+  "k": "167",
+  "cena": "Finale_FinalFight_2_1_Ava",
+  "quem": "Ava (F)",
+  "en": "You will be good now and stop putting up a fight, Jenna."
+ },
+ {
+  "k": "168",
+  "cena": "Finale_FinalFight_2_1_Faine",
+  "quem": "Faine (F)",
+  "en": "We should <b>dominate</b> her~"
+ },
+ {
+  "k": "169",
+  "quem": "Faine (F)",
+  "en": "She would make the perfect propaganda tool, ehehe."
+ },
+ {
+  "k": "170",
+  "cena": "Finale_FinalFight_2_1_Intro_1",
+  "quem": "Leath (F)",
+  "en": "Pathetic."
+ },
+ {
+  "k": "171",
+  "quem": "Leath (F)",
+  "en": "Did you really think I hadn't prepared for this?"
+ },
+ {
+  "k": "172",
+  "quem": "Leath (F)",
+  "en": "I'll let you in on a little secret about sweet innocent Karen. Her suit isn't the source of her power..."
+ },
+ {
+  "k": "173",
+  "quem": "Leath (F)",
+  "en": "It was built to contain it."
+ },
+ {
+  "k": "174",
+  "quem": "Leath (F)",
+  "en": "And this containment can easily be... removed."
+ },
+ {
+  "k": "175",
+  "quem": "Narrador",
+  "en": "<i>*Click!*</i>"
+ },
+ {
+  "k": "176",
+  "cena": "Finale_FinalFight_2_1_Intro_2",
+  "quem": "Karen (F)",
+  "en": "ARGGGHHH!!!"
+ },
+ {
+  "k": "177",
+  "quem": "Jenna (F)",
+  "en": "No... Karen..."
+ },
+ {
+  "k": "178",
+  "quem": "Rida (F)",
+  "en": "BIG MONSTER!"
+ },
+ {
+  "k": "179",
+  "quem": "Floria (F)",
+  "en": "Holy fuck-"
+ },
+ {
+  "k": "180",
+  "quem": "Throb (M)",
+  "en": "Oh- fuck me-"
+ },
+ {
+  "k": "181",
+  "quem": "Jewel (F)",
+  "en": "And how are we supposed to fight that?"
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "Together."
+ },
+ {
+  "k": "183",
+  "cena": "Finale_FinalFight_2_1_Liedryn",
+  "quem": "Liedryn (F)",
+  "en": "I am by your side, Lady Leath. This worthless worm shall be crushed by our superiority."
+ },
+ {
+  "k": "184",
+  "quem": "Liedryn (F)",
+  "en": "We will wipe you out, <i>Vibe</i>."
+ },
+ {
+  "k": "185",
+  "cena": "Finale_FinalFight_2_2_Outro_1",
+  "en": "Wh-Why... do you always... win?!"
+ },
+ {
+  "k": "186",
+  "en": "This isn't about winning, Karen. It's about survival. Not just for me, not just for my friends, but for you too."
+ },
+ {
+  "k": "187",
+  "en": "What- still?"
+ },
+ {
+  "k": "188",
+  "en": "Always. Just like then, just like now."
+ },
+ {
+  "k": "189",
+  "cena": "Finale_FinalFight_2_2_Outro_2",
+  "quem": "Leath (F)",
+  "en": "Always a disappointment. I should've known that if I wanted something done-"
+ },
+ {
+  "k": "190",
+  "cena": "Finale_FinalFight_2_2_Outro_3",
+  "quem": "Leath (F)",
+  "en": "I'd have to do it myself!"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "She's charging something up! Get cover!"
+ },
+ {
+  "k": "192",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_1",
+  "quem": "Jenna (F)",
+  "en": "W-<color=perversion>Wha</color>t the <color=perversion>fuuu</color>ck was th<color=perversion>at</color>?!"
+ },
+ {
+  "k": "193",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_2a",
+  "quem": "Jenna (F)",
+  "en": "G-<color=perversion>Gu</color>ys? You a-a<color=perversion>lrig</color>ht?"
+ },
+ {
+  "k": "194",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_2b",
+  "quem": "Jenna (F)",
+  "en": "S-S<color=perversion>hit</color>..."
+ },
+ {
+  "k": "195",
+  "quem": "Leath (F)",
+  "en": "What?! How are you still standing!?"
+ },
+ {
+  "k": "196",
+  "quem": "Leath (F)",
+  "en": "... No matter. Soon the tower will activate, all your little friends will be mindless puppets... and in the meantime..."
+ },
+ {
+  "k": "197",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_3",
+  "quem": "Karen (F)",
+  "en": "G-Gah! What are y-"
+ },
+ {
+  "k": "198",
+  "quem": "Leath (F)",
+  "en": "You failed me. But I have one last use for you, dear sweet Karen."
+ },
+ {
+  "k": "199",
+  "quem": "Jenna (F)",
+  "en": "L-L<color=perversion>et</color> he<color=perversion>r g</color>o!"
+ },
+ {
+  "k": "200",
+  "quem": "Leath (F)",
+  "en": "There comes a time in life where you struggle to have everything you want, but the world makes you choose."
+ },
+ {
+  "k": "201",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_4",
+  "quem": "Leath (F)",
+  "en": "When you come to a cruel crossroads."
+ },
+ {
+  "k": "202",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_5",
+  "quem": "Leath (F)",
+  "en": "Do you go right, deactivate the tower, saving your friends?"
+ },
+ {
+  "k": "203",
+  "quem": "Floria (F)",
+  "en": "Y-Yo<color=perversion>u have t</color>o <color=perversion>d-dea</color>ctivate it, J<color=perversion>-Jenna!</color>"
+ },
+ {
+  "k": "204",
+  "quem": "Jewel (F)",
+  "en": "Je-J<color=perversion>enna... plea</color>se!"
+ },
+ {
+  "k": "205",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_6",
+  "quem": "Leath (F)",
+  "en": "Or do you go left and save your sweet little girlfriend?"
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "N-N<color=perversion>o... Ka</color>ren..."
+ },
+ {
+  "k": "207",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_7",
+  "quem": "Leath (F)",
+  "en": "Make your choice, 'hero'!"
+ },
+ {
+  "k": "208",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_8_SaveTheGirl_1",
+  "quem": "Leath (F)",
+  "en": "So predictable. You want her? Have her."
+ },
+ {
+  "k": "209",
+  "quem": "Sofie (F)",
+  "en": "I-I <color=perversion>knew i</color>t!"
+ },
+ {
+  "k": "210",
+  "quem": "Lady (F)",
+  "en": "Jenna! W<color=perversion>h-What are you doi</color>ng?"
+ },
+ {
+  "k": "211",
+  "quem": "Karen (F)",
+  "en": "W-What? I-"
+ },
+ {
+  "k": "212",
+  "quem": "Karen (F)",
+  "en": "Grrrr-"
+ },
+ {
+  "k": "213",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_8_SaveTheGirl_2",
+  "quem": "Jenna (F)",
+  "en": "Ughh... What... the fuck happened...? Did we just... fly?"
+ },
+ {
+  "k": "214",
+  "quem": "Karen (F)",
+  "en": "You saved my life. I saved yours. We're square."
+ },
+ {
+  "k": "215",
+  "quem": "Jenna (F)",
+  "en": "Wait- But where are we? The tower..."
+ },
+ {
+  "k": "216",
+  "quem": "Karen (F)",
+  "en": "It went off. Leath won. We're somewhere deep in the woods. Far from it."
+ },
+ {
+  "k": "217",
+  "quem": "Jenna (F)",
+  "en": "No! No- No, that can't be."
+ },
+ {
+  "k": "218",
+  "quem": "Karen (F)",
+  "en": "It is. All your friends are gone."
+ },
+ {
+  "k": "219",
+  "quem": "Karen (F)",
+  "en": "Actions have consequences. You've learnt nothing."
+ },
+ {
+  "k": "220",
+  "quem": "Jenna (F)",
+  "en": "I did the best I could! You didn't exactly make it easy!"
+ },
+ {
+  "k": "221",
+  "quem": "Karen (F)",
+  "en": "Always excuses. I'm going back to the town."
+ },
+ {
+  "k": "222",
+  "quem": "Jenna (F)",
+  "en": "What?! After all that, you're just going to crawl back to Leath!?"
+ },
+ {
+  "k": "223",
+  "quem": "Karen (F)",
+  "en": "What choice do I have?! They're just going to find me anyway! This suit is full of trackers. You go. I'm going back."
+ },
+ {
+  "k": "224",
+  "quem": "Jenna (F)",
+  "en": "But... Leath turned off your suit. It was holding you back, right?"
+ },
+ {
+  "k": "225",
+  "quem": "Karen (F)",
+  "en": "That's ri-"
+ },
+ {
+  "k": "226",
+  "quem": "Karen (F)",
+  "en": "That's right."
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "You're free now. Come with me. I'm sure they're gonna start looking for us. We'll have a better chance if we stick together."
+ },
+ {
+  "k": "228",
+  "quem": "Karen (F)",
+  "en": "Fine. But only because I've got no other choice."
+ },
+ {
+  "k": "229",
+  "quem": "Jenna (F)",
+  "en": "I can live with that."
+ },
+ {
+  "k": "230",
+  "quem": "Karen (F)",
+  "en": "Can you? Can you live with this?"
+ },
+ {
+  "k": "231",
+  "quem": "Jenna (F)",
+  "en": "We should start moving..."
+ },
+ {
+  "k": "232",
+  "quem": "Karen (F)",
+  "en": "Fine."
+ },
+ {
+  "k": "233",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Neutral_8_SaveTheWorld_1",
+  "quem": "Leath (F)",
+  "en": "What a surprise... She cares more about her new friends than you."
+ },
+ {
+  "k": "234",
+  "quem": "Karen (F)",
+  "en": "No- Wait- I-"
+ },
+ {
+  "k": "235",
+  "quem": "Jenna (F)",
+  "en": "I'm sorry, Karen. I'm so sorry..."
+ },
+ {
+  "k": "236",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Pure_1",
+  "quem": "Narrador",
+  "en": "<i>:: Energy overload detected... Vibrosuit integrity failing... ::</i>"
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "Ugh- my vibrosuit's shutting down. What the fuck was that? Some sort of EMP? Well, I don't need my suit to beat Leath's ass. Right guys?"
+ },
+ {
+  "k": "238",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Pure_2",
+  "quem": "Jenna (F)",
+  "en": "Guys...?"
+ },
+ {
+  "k": "239",
+  "quem": "Jenna (F)",
+  "en": "<i>(It wasn't an EMP. It was another one of those lewd rays... but all it did was make my powers flare up.)</i>"
+ },
+ {
+  "k": "240",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Pure_3",
+  "quem": "Leath (F)",
+  "en": "How the fuck did that not even affect you?!"
+ },
+ {
+  "k": "241",
+  "quem": "Jenna (F)",
+  "en": "Guess I'm just too pure for your lewd little tricks. Now are you ready for your five year overdue knuckle sandwich?"
+ },
+ {
+  "k": "242",
+  "quem": "Leath (F)",
+  "en": "Hardly. It appears your suit isn't doing too well. I remember what happened when we tampered with it last time. Yet, you're still here."
+ },
+ {
+  "k": "243",
+  "quem": "Jenna (F)",
+  "en": "Yeah, and a magician never reveals her tricks."
+ },
+ {
+  "k": "244",
+  "quem": "Jenna (F)",
+  "en": "<i>(As long as I just don't use my powers, I'll be fine. Not a great time to lose them, but I just have to make do without them against Leath.)</i>"
+ },
+ {
+  "k": "245",
+  "quem": "Jenna (F)",
+  "en": "Come on, Leath! Take a step into the ring and let's finish this."
+ },
+ {
+  "k": "246",
+  "quem": "Leath (F)",
+  "en": "I'm above such aimless means. Why fight when I already hold all the cards?"
+ },
+ {
+  "k": "247",
+  "quem": "Jenna (F)",
+  "en": "What...?"
+ }
+]

@@ -1,0 +1,1415 @@
+[
+ {
+  "k": "1",
+  "cena": "Dialogue 4",
+  "quem": "Narrador",
+  "en": "<i>She lunges forward and pulls me into a quick hug, taking me by surprise.</i>"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Remember? You mean-"
+ },
+ {
+  "k": "3",
+  "quem": "Floria (F)",
+  "en": "I remember it all, Jen."
+ },
+ {
+  "k": "4",
+  "quem": "Narrador",
+  "en": "<i>I can see tears rolling down her cheeks.</i>"
+ },
+ {
+  "k": "5",
+  "quem": "Floria (F)",
+  "en": "All our months spent training together. Training Squad Beta. You always joked about it. Kept saying we were-"
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "Alphas. Not betas."
+ },
+ {
+  "k": "7",
+  "cena": "Dialogue 5",
+  "quem": "Floria (F)",
+  "en": "I remember who I am again, Jen."
+ },
+ {
+  "k": "8",
+  "quem": "Floria (F)",
+  "en": "Thank you. Thank you so much."
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "Of course, Flo. It's just p-"
+ },
+ {
+  "k": "10",
+  "quem": "Floria (F)",
+  "en": "-part of the job."
+ },
+ {
+  "k": "11",
+  "quem": "Throb (M)",
+  "en": "... Great, now they're finishing each other's sente-"
+ },
+ {
+  "k": "12",
+  "quem": "Jewel (F)",
+  "en": "Sandwiches- Ah dammit, I wanted to do it too."
+ },
+ {
+  "k": "13",
+  "quem": "Rida (F)",
+  "en": "How did dancer girl read small man mind?"
+ },
+ {
+  "k": "14",
+  "cena": "Dialogue 6",
+  "quem": "Floria (F)",
+  "en": "It must've been that brain somehow keeping my memory at bay."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Well we sure took care of that problem."
+ },
+ {
+  "k": "16",
+  "quem": "Throb (M)",
+  "en": "Yeah, and now we have to fight our way out past those florians."
+ },
+ {
+  "k": "17",
+  "quem": "Rida (F)",
+  "en": "Rida like fight."
+ },
+ {
+  "k": "18",
+  "cena": "Dialogue 7",
+  "quem": "Jewel (F)",
+  "en": "I think I know something Rida likes better~"
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "Get ready guys. Here they come."
+ },
+ {
+  "k": "20",
+  "quem": "Florian Hooker (F)",
+  "en": "We... do not... wish to fight... anymore."
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "Eh. What?"
+ },
+ {
+  "k": "22",
+  "cena": "Dialogue 8",
+  "quem": "Florian Hooker (F)",
+  "en": "Voices... silent... "
+ },
+ {
+  "k": "23",
+  "quem": "Florian Hooker (F)",
+  "en": "Hear... mother's... voice... instead... with ears... not mind..."
+ },
+ {
+  "k": "24",
+  "quem": "Floria (F)",
+  "en": "M-Me? But I'm not a mother."
+ },
+ {
+  "k": "25",
+  "quem": "Jewel (F)",
+  "en": "Looks like Floria is literally mother. I'm gagged."
+ },
+ {
+  "k": "26",
+  "quem": "Florian Hooker (F)",
+  "en": "Listen... to... mother..."
+ },
+ {
+  "k": "27",
+  "quem": "Jenna (F)",
+  "en": "... I guess that means they'll listen to you, Floria."
+ },
+ {
+  "k": "28",
+  "quem": "Floria (F)",
+  "en": "But th... that's a lot of children."
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "You're not alone. We can help. Auntie Jenna has a nice ring to it!"
+ },
+ {
+  "k": "30",
+  "quem": "Jewel (F)",
+  "en": "I'll be the weirdly hot aunt."
+ },
+ {
+  "k": "31",
+  "quem": "Rida (F)",
+  "en": "Rida be big strong aunt!"
+ },
+ {
+  "k": "32",
+  "quem": "Throb (M)",
+  "en": "Uncle Throb it is."
+ },
+ {
+  "k": "33",
+  "quem": "Florian Hooker (F)",
+  "en": "A... Aunt? Uncle...?"
+ },
+ {
+  "k": "34",
+  "quem": "Floria (F)",
+  "en": "I... Yes. Like family members."
+ },
+ {
+  "k": "35",
+  "quem": "Florian Hooker (F)",
+  "en": "Family... More than mother?"
+ },
+ {
+  "k": "36",
+  "quem": "Floria (F)",
+  "en": "I... Yes. Come with us."
+ },
+ {
+  "k": "37",
+  "quem": "Florian Hooker (F)",
+  "en": "Family..."
+ },
+ {
+  "k": "38",
+  "cena": "Dialogue console for first floor",
+  "quem": "Jenna (F)",
+  "en": "I'm getting better and better."
+ },
+ {
+  "k": "39",
+  "cena": "Dialogue cutscene 1",
+  "quem": "Jenna (F)",
+  "en": "I will check if it is safe, I'm the fastes here. "
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "If something happens you will have my back."
+ },
+ {
+  "k": "41",
+  "quem": "Jewel (F)",
+  "en": "Be careful blue."
+ },
+ {
+  "k": "42",
+  "cena": "Dialogue Cutscene 2",
+  "quem": "Jewel (F)",
+  "en": "Floria needs help, Jen. She got dragged away by a hooker. "
+ },
+ {
+  "k": "43",
+  "quem": "Jewel (F)",
+  "en": "I got my hands full over here!"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "I got this!"
+ },
+ {
+  "k": "45",
+  "cena": "Dialogue cutscene 2",
+  "quem": "Jenna (F)",
+  "en": "<b>HUH.</b>"
+ },
+ {
+  "k": "46",
+  "cena": "Dialogue cutscene 3",
+  "quem": "Jenna (F)",
+  "en": "Try to open the door. "
+ },
+ {
+  "k": "47",
+  "quem": "Throb (M)",
+  "en": "It doesn't move an inch looks like it's a safety mechanism. "
+ },
+ {
+  "k": "48",
+  "quem": "Rida (F)",
+  "en": "Rida try her best but door to heavy. "
+ },
+ {
+  "k": "49",
+  "quem": "Jewel (F)",
+  "en": "We can't open the door by force we should get help. "
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Good idea."
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "I can't get a signal. "
+ },
+ {
+  "k": "52",
+  "quem": "Throb (M)",
+  "en": "Then we have to go back and get help."
+ },
+ {
+  "k": "53",
+  "quem": "Throb (M)",
+  "en": "Floria and I go back and get help from the resistance base."
+ },
+ {
+  "k": "54",
+  "quem": "Throb (M)",
+  "en": "Rida and Jewel will stay here and try to open the doors with the console."
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "I will look for another way out. Maybe there's a way to open the door downstairs."
+ },
+ {
+  "k": "56",
+  "quem": "Throb (M)",
+  "en": "Then let's go no time to waste."
+ },
+ {
+  "k": "57",
+  "quem": "Jewel (F)",
+  "en": "Can you call the tin foil guys?"
+ },
+ {
+  "k": "58",
+  "cena": "Dialogue cutscene 4",
+  "quem": "Jenna (F)",
+  "en": "There must be a way out."
+ },
+ {
+  "k": "59",
+  "cena": "Dialogue first time enter Level 1",
+  "quem": "Leath (F)",
+  "en": ":: Jenna Wright. ::"
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "Leath."
+ },
+ {
+  "k": "61",
+  "quem": "Leath (F)",
+  "en": ":: All these years and you're still just the same arrogant little miscreant you were before. You won't be slipping out of our grip this time. ::"
+ },
+ {
+  "k": "62",
+  "quem": "Leath (F)",
+  "en": ":: Come try and save your girlfriend again, Wright. It worked so well for you the first time. I'll be waiting... ::"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "Start the elevator back up then and I'll do just that."
+ },
+ {
+  "k": "64",
+  "quem": "Leath (F)",
+  "en": ":: No. I wish to see you struggle and squirm. It'll make your defeat that much sweeter when you fall. ::"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "Hm. Worth a shot."
+ },
+ {
+  "k": "66",
+  "quem": "Leath (F)",
+  "en": ":: Soldiers! Give our guests the welcome they deserve. ::"
+ },
+ {
+  "k": "67",
+  "cena": "Dialogue first time enter Level 2",
+  "quem": "Throb (M)",
+  "en": "Shit! Jenna! It looks like a group of them got Rida!"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "What?! I'm on my way!"
+ },
+ {
+  "k": "69",
+  "cena": "Dialogue first time enter Level 3",
+  "quem": "Jenna (F)",
+  "en": "Out of the way!"
+ },
+ {
+  "k": "70",
+  "cena": "Dialogue first time enter Level 4",
+  "quem": "Jenna (F)",
+  "en": "Fuck! There must be some way to turn this off."
+ },
+ {
+  "k": "71",
+  "quem": "Throb (M)",
+  "en": "Shit. I'm sorry. I was too busy with them. Got overwhelmed."
+ },
+ {
+  "k": "72",
+  "quem": "Floria (F)",
+  "en": "We'll get her back, don't worry."
+ },
+ {
+  "k": "73",
+  "quem": "Jewel (F)",
+  "en": "No one gets to take Rida like that."
+ },
+ {
+  "k": "74",
+  "quem": "April (F)",
+  "en": "Querying for solution... Perhaps a nearby terminal will open it?"
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "Let's take a look around."
+ },
+ {
+  "k": "76",
+  "cena": "Dialogue first time talk",
+  "quem": "Floria (F)",
+  "en": "This place is dark dusty and dirty. I don't like it here"
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "It's only for now we won't stay here."
+ },
+ {
+  "k": "78",
+  "quem": "Floria (F)",
+  "en": "I know, I still don't like this place."
+ },
+ {
+  "k": "79",
+  "cena": "Dialogue Guard_Intercom",
+  "quem": "Intercom",
+  "en": ":: Copy, did you find him yet? ::"
+ },
+ {
+  "k": "80",
+  "quem": "Guard (M)",
+  "en": "Not yet, I'll keep looking for him."
+ },
+ {
+  "k": "81",
+  "quem": "Intercom",
+  "en": ":: Just get back to your patrol. He's probably jerking off again. :: "
+ },
+ {
+  "k": "82",
+  "quem": "Guard (M)",
+  "en": "Woah what?"
+ },
+ {
+  "k": "83",
+  "quem": "Intercom",
+  "en": ":: What? You don't jerk off? Down here? With all this sex shit going on? :: "
+ },
+ {
+  "k": "84",
+  "quem": "Guard (M)",
+  "en": "I-I mean... I... yeah sometimes, I guess? I'm just gonna get back to patrol."
+ },
+ {
+  "k": "85",
+  "quem": "Intercom",
+  "en": ":: Good. Keep your eyes open. Mistress Leath said that Jenna and her cronies could be down here. If any of you see them, we'll lock everything down. ::"
+ },
+ {
+  "k": "86",
+  "quem": "Floria (F)",
+  "en": "Guards."
+ },
+ {
+  "k": "87",
+  "quem": "Jewel (F)",
+  "en": "We're gonna have to sneak through their patrols."
+ },
+ {
+  "k": "88",
+  "quem": "Throb (M)",
+  "en": "Yeah. I'm not looking to get caught in a lockdown down here."
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "Sneaky it is."
+ },
+ {
+  "k": "90",
+  "cena": "Dialogue Pre bad end 1",
+  "quem": "Wildfire (F)",
+  "en": "What do we have here..."
+ },
+ {
+  "k": "91",
+  "cena": "Dialogue Pre bad end 2",
+  "quem": "Jenna (F)",
+  "en": "K-..Karen!"
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "Wha-..What are you-.."
+ },
+ {
+  "k": "93",
+  "quem": "Wildfire (F)",
+  "en": "Enjoying the view."
+ },
+ {
+  "k": "94",
+  "quem": "Wildfire (F)",
+  "en": "But you-... Still pretending to be a little hero. Everything you do is bound to fail!"
+ },
+ {
+  "k": "95",
+  "quem": "Wildfire (F)",
+  "en": "Look at me, what I have become."
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "<size=30>I-...I'm sorry.</size>"
+ },
+ {
+  "k": "97",
+  "quem": "Wildfire (F)",
+  "en": "Despicable fake hero..."
+ },
+ {
+  "k": "98",
+  "quem": "Wildfire (F)",
+  "en": "But look at her, she is the real you. Acting for her own pleasure and desire."
+ },
+ {
+  "k": "99",
+  "cena": "Dialogue_1",
+  "quem": "Pyra (F)",
+  "en": "Look who finally arrived~!"
+ },
+ {
+  "k": "100",
+  "quem": "Pyra (F)",
+  "en": "My new toy and I were eager for your arrival~"
+ },
+ {
+  "k": "101",
+  "quem": "Pyra (F)",
+  "en": "Isn't she adorable~? How about you say hello~"
+ },
+ {
+  "k": "102",
+  "quem": "Faceless Dancer (F)",
+  "en": "Gg<color=perversion>ghh~</color>"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "Jewel! What have they done to you!?"
+ },
+ {
+  "k": "104",
+  "quem": "Pyra (F)",
+  "en": "The same thing that will happen to you once we're done here~!"
+ },
+ {
+  "k": "105",
+  "quem": "Jenna (F)",
+  "en": "You bitch! I'll make you pay for this!"
+ },
+ {
+  "k": "106",
+  "quem": "Throb (M)",
+  "en": "Slow down. She's trying to provoke you. "
+ },
+ {
+  "k": "107",
+  "quem": "Pyra (F)",
+  "en": "Awwh~ Is it really that obvious~? Well darn~"
+ },
+ {
+  "k": "108",
+  "quem": "Rida (F)",
+  "en": "Rida make devil pay for hurt friend!"
+ },
+ {
+  "k": "109",
+  "quem": "Pyra (F)",
+  "en": "Silence, mutt~ The people are speaking~"
+ },
+ {
+  "k": "110",
+  "quem": "Floria (F)",
+  "en": "You don't get to talk to Rida like that!"
+ },
+ {
+  "k": "111",
+  "quem": "Pyra (F)",
+  "en": "First the mutt, now the plant~ I can't wait to tear each petal from you~ She loves me~ She loves me not~"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Your bullshit ends here, bitch."
+ },
+ {
+  "k": "113",
+  "quem": "Pyra (F)",
+  "en": "Come and get me little hero~"
+ },
+ {
+  "k": "114",
+  "quem": "Pyra (F)",
+  "en": "Oh~? Try and stop me then~"
+ },
+ {
+  "k": "115",
+  "cena": "Dialogue_1_PyraBadEnd",
+  "quem": "Guard (M)",
+  "en": "Let's check out the hero Wright."
+ },
+ {
+  "k": "116",
+  "quem": "Guard (M)",
+  "en": "Commander Pyra is playing with her and her little friend she took an interest in.  "
+ },
+ {
+  "k": "117",
+  "quem": "Other Guard",
+  "en": "We should go back to duty we have so much cleanup to do."
+ },
+ {
+  "k": "118",
+  "quem": "Other Guard",
+  "en": "And besides, I don't want anything to do with Pyra. She is crazy."
+ },
+ {
+  "k": "119",
+  "quem": "Guard (M)",
+  "en": "You coward. It's THE Jenna Wright. Seeing her become a Peitho toy is so exciting. "
+ },
+ {
+  "k": "120",
+  "quem": "Other Guard",
+  "en": "Listen, do whatever you want. I got my orders. If they roast your ass, that's your own problem."
+ },
+ {
+  "k": "121",
+  "cena": "Dialogue_2_PyraBadEnd",
+  "quem": "Guard Captain (M)",
+  "en": "Stop right there! Orders from Commander Pyra no one is allowed in this area! "
+ },
+ {
+  "k": "122",
+  "quem": "Guard (M)",
+  "en": "Hey I just heard the hero Wright is here and wanted to see it with my own eyes."
+ },
+ {
+  "k": "123",
+  "quem": "Guard Captain (M)",
+  "en": "Get out immediately!!!"
+ },
+ {
+  "k": "124",
+  "cena": "Dialogue_3_PyraScenePlaceholder",
+  "en": ":PLACEHOLDER SCENE:"
+ },
+ {
+  "k": "125",
+  "cena": "Dialogue_After_Jewel_Brainwash_scene",
+  "quem": "Jenna (F)",
+  "en": "Another stop."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "I hope we find Jewel on this floor."
+ },
+ {
+  "k": "127",
+  "cena": "Dialogue_Apl_Cheerleader_Bought_HighPerv",
+  "quem": "Jenna (F)",
+  "en": "I'll look so hot in this... All the men and women will flock to me."
+ },
+ {
+  "k": "128",
+  "cena": "Dialogue_Apl_Cheerleader_Bought_LowPerv",
+  "quem": "Jenna (F)",
+  "en": "This thing is pretty skimpy... I'm not so sure about this..."
+ },
+ {
+  "k": "129",
+  "cena": "Dialogue_Apl_Cheerleader_Worn_HighPerv",
+  "quem": "Jenna (F)",
+  "en": "Fits me like a sexy glove. My hot body makes this thing look pretty good. Time to go get cocks hard and pussies wet."
+ },
+ {
+  "k": "130",
+  "cena": "Dialogue_Apl_Cheerleader_Worn_LowPerv",
+  "quem": "Jenna (F)",
+  "en": "Hey... This thing actually fits pretty well. It's comfy too. It feels... It feels good."
+ },
+ {
+  "k": "131",
+  "cena": "Dialogue_Cutscene_2ndFloor_1",
+  "quem": "Lexi (F)",
+  "en": "Hey cutie! I prepared something special for you today. "
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "Hey ya!"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "Your message was a bit vague. What are we doing today?"
+ },
+ {
+  "k": "134",
+  "quem": "Lexi (F)",
+  "en": "We have a little party. I invited some friends, and today they will test your endurance."
+ },
+ {
+  "k": "135",
+  "quem": "Lexi (F)",
+  "en": "Just follow me, you will see in a second."
+ },
+ {
+  "k": "136",
+  "cena": "Dialogue_Cutscene_2ndFloor_2",
+  "quem": "Man (M)",
+  "en": "Lexi, you told us she is hot, but I didn't expect a bombshell like her."
+ },
+ {
+  "k": "137",
+  "quem": "Lexi (F)",
+  "en": "Why do you have to be so vulgar? Keep your mouth shut, or I will get the gag."
+ },
+ {
+  "k": "138",
+  "quem": "Man (M)",
+  "en": "Sorry ma'am!"
+ },
+ {
+  "k": "139",
+  "quem": "Lexi (F)",
+  "en": "Good boy."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "<i>(She is always in control.)</i>"
+ },
+ {
+  "k": "141",
+  "quem": "Lexi (F)",
+  "en": "Excuse my friend over here hun. "
+ },
+ {
+  "k": "142",
+  "quem": "Lexi (F)",
+  "en": "These three are your playmates for today."
+ },
+ {
+  "k": "143",
+  "quem": "Lexi (F)",
+  "en": "Just follow my commands and get in the middle of them."
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "Ok, Misstress."
+ },
+ {
+  "k": "145",
+  "quem": "Lexi (F)",
+  "en": "Good girl, you learn fast. "
+ },
+ {
+  "k": "146",
+  "quem": "Lexi (F)",
+  "en": "And now move your cute butt and undress her. "
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "<i>(Getting commanded by her is <color=perversion>hot.</color>)</i>"
+ },
+ {
+  "k": "148",
+  "cena": "Dialogue_Cutscene_2ndFloor_3",
+  "quem": "Lexi (F)",
+  "en": "This party is just starting. "
+ },
+ {
+  "k": "149",
+  "quem": "Lexi (F)",
+  "en": "This was only the warm up."
+ },
+ {
+  "k": "150",
+  "quem": "Lexi (F)",
+  "en": "I have something for you."
+ },
+ {
+  "k": "151",
+  "cena": "Dialogue_Cutscene_2ndFloor_4",
+  "quem": "Lexi (F)",
+  "en": "Found it!"
+ },
+ {
+  "k": "152",
+  "cena": "Dialogue_Cutscene_2ndFloor_5",
+  "quem": "Lexi (F)",
+  "en": "You looks so cute hun."
+ },
+ {
+  "k": "153",
+  "cena": "Dialogue_Cutscene_2ndFloor_Scene_1",
+  "quem": "Lexi (F)",
+  "en": "Enjoying the view?"
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "Yes, <i>(they <color=perversion>want me!</color>)</i>"
+ },
+ {
+  "k": "155",
+  "quem": "Lexi (F)",
+  "en": "Start to jerk them off."
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "Yes, misstress."
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Their cocks are so hard.)</i></color>"
+ },
+ {
+  "k": "158",
+  "quem": "Lexi (F)",
+  "en": "Good girl!"
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "<i>(Poor guy infront of me is<color=perversion> twitching</color>. I should <color=perversion>help him a bit.</color>)</i>"
+ },
+ {
+  "k": "160",
+  "quem": "Man (M)",
+  "en": "Looks like you are used to handling dicks."
+ },
+ {
+  "k": "161",
+  "quem": "Other Man (M)",
+  "en": "How about you speed up a bit."
+ },
+ {
+  "k": "162",
+  "quem": "Lexi (F)",
+  "en": "How about you shut up and let me be in charge?"
+ },
+ {
+  "k": "163",
+  "quem": "Lexi (F)",
+  "en": "Good girl, now use your mouth. "
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "Yes, ma'am."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "<i>(Soo <color=perversion>big. </color>)</i>"
+ },
+ {
+  "k": "166",
+  "quem": "Man (M)",
+  "en": "Fuck.  "
+ },
+ {
+  "k": "167",
+  "quem": "Lexi (F)",
+  "en": "Good girl. "
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "<i>(Getting praised from her <color=perversion>feels soo good~.</color>)</i>"
+ },
+ {
+  "k": "169",
+  "quem": "Other Man (M)",
+  "en": "You really love this slut."
+ },
+ {
+  "k": "170",
+  "quem": "Lexi (F)",
+  "en": "How about we speed up a bit. "
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "<i>(Their<color=perversion> hard throbing cocks feel sooo good!</color>)</i>"
+ },
+ {
+  "k": "172",
+  "quem": "Other Man (M)",
+  "en": "I about to cum! Get ready slut!"
+ },
+ {
+  "k": "173",
+  "quem": "Other Man (M)",
+  "en": "Ahhh!"
+ },
+ {
+  "k": "174",
+  "quem": "Lexi (F)",
+  "en": "Good work hun! Watching you drown in pleasure is such a bliss for the eye."
+ },
+ {
+  "k": "175",
+  "quem": "Lexi (F)",
+  "en": "And now make him cum."
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Their cum is everywhere.)</i></color>"
+ },
+ {
+  "k": "177",
+  "quem": "Man (M)",
+  "en": "Lexi, your partys are always the best!"
+ },
+ {
+  "k": "178",
+  "cena": "Dialogue_Cutscene_2ndFloor_Scene_2",
+  "quem": "Lexi (F)",
+  "en": "And now the real party begins."
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "<i>(They will all take <color=perversion><b>turns fucking</b></color>me.)</i>"
+ },
+ {
+  "k": "180",
+  "quem": "Man (M)",
+  "en": "Ah,Fuck this is an amazing ass!"
+ },
+ {
+  "k": "181",
+  "quem": "Man (M)",
+  "en": "She is already super wet. "
+ },
+ {
+  "k": "182",
+  "quem": "Man (M)",
+  "en": "She was looking forward to this, moving her hips all by herself hahaha."
+ },
+ {
+  "k": "183",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnnhh~</color>"
+ },
+ {
+  "k": "184",
+  "quem": "Lexi (F)",
+  "en": "You seem to enjoy this very much, honey."
+ },
+ {
+  "k": "185",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes, mistress!</color>"
+ },
+ {
+  "k": "186",
+  "quem": "Man (M)",
+  "en": "Holy shit, she gets tighter when you talk to her Lexi."
+ },
+ {
+  "k": "187",
+  "quem": "Lexi (F)",
+  "en": "Good girl!"
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><b>Fuck me!</b></color>"
+ },
+ {
+  "k": "189",
+  "quem": "Lexi (F)",
+  "en": "You heard her boys she wants you! "
+ },
+ {
+  "k": "190",
+  "quem": "Man (M)",
+  "en": "You don't have to tell me twice."
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Guhh..! Moreee!!</color>"
+ },
+ {
+  "k": "192",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ffuuuck! Yess..!! Fuck meee..!!</color>"
+ },
+ {
+  "k": "193",
+  "quem": "Lexi (F)",
+  "en": "You are my new favorite toy hun! Who is your mistress?"
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>You are! Fhhaaa!</color>"
+ },
+ {
+  "k": "195",
+  "quem": "Lexi (F)",
+  "en": "When we met the first time I knew you weren't ready."
+ },
+ {
+  "k": "196",
+  "quem": "Lexi (F)",
+  "en": "But look at you now drowning in this sweet pleasure!"
+ },
+ {
+  "k": "197",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>S-so-... <b>GOOOD</b>-.. Yesss...</color>"
+ },
+ {
+  "k": "198",
+  "quem": "Man (M)",
+  "en": "Lexi, you always have a keen eye for sluts like her."
+ },
+ {
+  "k": "199",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Faster!</color>"
+ },
+ {
+  "k": "200",
+  "quem": "Man (M)",
+  "en": "This slut is going crazy!"
+ },
+ {
+  "k": "201",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fffuckk..!</color>"
+ },
+ {
+  "k": "202",
+  "quem": "Man (M)",
+  "en": "She is way too tight I won't last longer."
+ },
+ {
+  "k": "203",
+  "quem": "Lexi (F)",
+  "en": "Make sure to properly reward her with your cum."
+ },
+ {
+  "k": "204",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Mnhhh..~</color>"
+ },
+ {
+  "k": "205",
+  "quem": "Man (M)",
+  "en": "Get ready slut!"
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Gahhhh~.. It's so... warm. </color>"
+ },
+ {
+  "k": "207",
+  "quem": "Lexi (F)",
+  "en": "Good, but two more to go. Get ready for the next round honey. "
+ },
+ {
+  "k": "208",
+  "quem": "Other Man (M)",
+  "en": "My turn hahaha."
+ },
+ {
+  "k": "209",
+  "cena": "Dialogue_CutsceneAfter_2ndFloor_1",
+  "quem": "Lexi (F)",
+  "en": "Ahh, you're finally awake."
+ },
+ {
+  "k": "210",
+  "quem": "Jenna (F)",
+  "en": "But I didn't try to cross the border."
+ },
+ {
+  "k": "211",
+  "quem": "Lexi (F)",
+  "en": "What?"
+ },
+ {
+  "k": "212",
+  "quem": "Jenna (F)",
+  "en": "Ehm nothing."
+ },
+ {
+  "k": "213",
+  "quem": "Lexi (F)",
+  "en": "Let me help you up and get the cum off of you."
+ },
+ {
+  "k": "214",
+  "cena": "Dialogue_CutsceneAfter_2ndFloor_2",
+  "quem": "Lexi (F)",
+  "en": "Much better."
+ },
+ {
+  "k": "215",
+  "cena": "Dialogue_CutsceneAfter_2ndFloor_3",
+  "quem": "Jenna (F)",
+  "en": "Thank you."
+ },
+ {
+  "k": "216",
+  "quem": "Jenna (F)",
+  "en": "How long did I sleep?"
+ },
+ {
+  "k": "217",
+  "quem": "Lexi (F)",
+  "en": "A few hours. They went pretty rough on you.  "
+ },
+ {
+  "k": "218",
+  "quem": "Jenna (F)",
+  "en": "<i>(They <color=perversion>fucked</color> me for hours)</i>"
+ },
+ {
+  "k": "219",
+  "quem": "Lexi (F)",
+  "en": "And was this little party to your taste honey?"
+ },
+ {
+  "k": "220",
+  "quem": "Jenna (F)",
+  "en": "I hoped we would have had more fun together. "
+ },
+ {
+  "k": "221",
+  "quem": "Lexi (F)",
+  "en": "Maybe next time."
+ },
+ {
+  "k": "222",
+  "quem": "Lexi (F)",
+  "en": "I don't have anything planned for today and have a meetup with a friend later. Close the door behind you when you leave."
+ },
+ {
+  "k": "223",
+  "cena": "Dialogue_Get_Headset_off",
+  "quem": "Jenna (F)",
+  "en": "Phew, simple! Now let's get that headset off of Jewel."
+ },
+ {
+  "k": "224",
+  "quem": "Throb (M)",
+  "en": "On it."
+ },
+ {
+  "k": "225",
+  "quem": "Jewel (F)",
+  "en": "<color=perversion>Whaa...</color> What happened...?"
+ },
+ {
+  "k": "226",
+  "quem": "Jewel (F)",
+  "en": "All I remember is getting snatched... and..."
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "What matters is that you're back and you're okay."
+ },
+ {
+  "k": "228",
+  "quem": "Jewel (F)",
+  "en": "I- Yeah... Thanks, blue."
+ },
+ {
+  "k": "229",
+  "quem": "Jewel (F)",
+  "en": "Now let's deal with that bitch."
+ },
+ {
+  "k": "230",
+  "quem": "Jenna (F)",
+  "en": "She's all yours."
+ },
+ {
+  "k": "231",
+  "cena": "Dialogue_Motel_Invatation_1",
+  "quem": "Woman (F)",
+  "en": "You must be Jenna."
+ },
+ {
+  "k": "232",
+  "cena": "Dialogue_Motel_Invatation_2",
+  "quem": "Jenna (F)",
+  "en": "Yeah, do I know you?"
+ },
+ {
+  "k": "233",
+  "quem": "Woman (F)",
+  "en": "No, but you know a common friend her name is Lexi."
+ },
+ {
+  "k": "234",
+  "quem": "Woman (F)",
+  "en": "She prepared a little party for you. She is waiting on the 2nd floor of her home."
+ },
+ {
+  "k": "235",
+  "quem": "Jenna (F)",
+  "en": "<i>(I wonder what she prepared. I should ask.)</i>"
+ },
+ {
+  "k": "236",
+  "quem": "Woman (F)",
+  "en": "Message delivered. See ya."
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "Wait..."
+ },
+ {
+  "k": "238",
+  "cena": "DialogueUI_Test",
+  "en": "asdadasd"
+ },
+ {
+  "k": "239",
+  "en": "asdasdasdasd"
+ },
+ {
+  "k": "240",
+  "en": "asdfasdfasdf"
+ },
+ {
+  "k": "241",
+  "en": "asdfasdfasdf"
+ },
+ {
+  "k": "242",
+  "en": "fghjfgj"
+ },
+ {
+  "k": "243",
+  "en": "sdfgsdfg"
+ },
+ {
+  "k": "244",
+  "en": "asdasdsd"
+ },
+ {
+  "k": "245",
+  "en": "fghjfghj"
+ },
+ {
+  "k": "246",
+  "en": "dfhedf"
+ },
+ {
+  "k": "247",
+  "en": "dfghdfgh"
+ },
+ {
+  "k": "248",
+  "en": "asdfasdfasdf"
+ },
+ {
+  "k": "249",
+  "cena": "Did Strip today already",
+  "quem": "Jenna (F)",
+  "en": "I think I've done enough pole dancing today."
+ },
+ {
+  "k": "250",
+  "cena": "DidBuyUpgrade",
+  "quem": "Faine (F)",
+  "en": "Good choice, hehe..~ The next soldier is already here. Time to try it out.."
+ },
+ {
+  "k": "251",
+  "quem": "Jenna (F)",
+  "en": "Yes, Ma'am."
+ },
+ {
+  "k": "252",
+  "quem": "Faine (F)",
+  "en": "The first time might sting a bit.. That's no problem, isn't it..?~"
+ },
+ {
+  "k": "253",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><color=red>Anything</color> for Peitho, Ma'am..~</color>"
+ },
+ {
+  "k": "254",
+  "quem": "Faine (F)",
+  "en": "Good, good..~"
+ },
+ {
+  "k": "255",
+  "cena": "DoesntHaveUpgrade",
+  "quem": "Faine (F)",
+  "en": "Come back when you've bought your first upgrade. You can  buy then im your room on the big screen."
+ },
+ {
+  "k": "256",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes, Ma'am.</color>"
+ },
+ {
+  "k": "257",
+  "cena": "Dominatrix talk 1",
+  "quem": "Lexi (F)",
+  "en": "Ah! A new face! You came for the job board posting? I'm Lexi!\n"
+ },
+ {
+  "k": "258",
+  "quem": "Jenna (F)",
+  "en": "Hey! I'm Jenna! \r\n\r"
+ },
+ {
+  "k": "259",
+  "quem": "Jenna (F)",
+  "en": "And yeah! I'm here because of the job I saw on the board in the bar.\n"
+ },
+ {
+  "k": "260",
+  "quem": "Jenna (F)",
+  "en": "But I didn't expect it to be a brothel. The job description only mentioned something about helping with training."
+ },
+ {
+  "k": "261",
+  "quem": "Lexi (F)",
+  "en": "This is not a brothel, honey. And I need someone on whom I can practice my spanking skills."
+ },
+ {
+  "k": "262",
+  "quem": "Lexi (F)",
+  "en": "So are you interested?"
+ },
+ {
+  "k": "263",
+  "cena": "Dominatrix talk after decline",
+  "quem": "Lexi (F)",
+  "en": "Did you change your mind, sweetie?"
+ },
+ {
+  "k": "264",
+  "cena": "Don't look",
+  "quem": "Jenna (F)",
+  "en": "I- uhm.. I think I'll leave you guys alone."
+ },
+ {
+  "k": "265",
+  "quem": "Jewel (F)",
+  "en": "You could <color=perversion>join in</color>."
+ },
+ {
+  "k": "266",
+  "quem": "Jenna (F)",
+  "en": "I think I'm good, have fun."
+ },
+ {
+  "k": "267",
+  "cena": "Don't_go_up_3rdStop",
+  "quem": "Jenna (F)",
+  "en": "I should look around more before going up."
+ },
+ {
+  "k": "268",
+  "cena": "Don't_go_up_4thStop",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can use this elevator.)</i>"
+ },
+ {
+  "k": "269",
+  "cena": "Door closed first time",
+  "quem": "Jenna (F)",
+  "en": "<i>(The door has power but looks stuck, maybe I can ask Rida or Throb to open it with me.)</i>"
+ },
+ {
+  "k": "270",
+  "cena": "Door Locked Reaction",
+  "quem": "Jenna (F)",
+  "en": "There must be a console nearby."
+ },
+ {
+  "k": "271",
+  "cena": "Door to basement reaction",
+  "quem": "Jenna (F)",
+  "en": "Still closed, but one light is green now. So there must be another console to open the door."
+ },
+ {
+  "k": "272",
+  "cena": "Door to first floor",
+  "quem": "Jenna (F)",
+  "en": "(Looks like the door is locked.. Maybe I can find a way to unlock it!)"
+ },
+ {
+  "k": "273",
+  "cena": "Drugboss Enddialogue",
+  "quem": "Lamar (M)",
+  "en": "I'm done with you, hehe. Go to Liedryn."
+ },
+ {
+  "k": "274",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(... )</i></color>"
+ }
+]

@@ -1,0 +1,1234 @@
+[
+ {
+  "k": "1",
+  "cena": "ThrobMission_AfterTeleportedToMotel",
+  "quem": "Jenna (F)",
+  "en": "<i>(Phew! That thing was heavier than I thought.)</i>"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "<i>(Better wait until night time before trying the suit on.)</i>"
+ },
+ {
+  "k": "3",
+  "cena": "ThrobMission_AlreadyPatrolledToday_TryPutOnGuardArmor",
+  "quem": "Jenna (F)",
+  "en": "<i>I already went on patrol with Throb today. I should go to sleep...</i>"
+ },
+ {
+  "k": "4",
+  "cena": "ThrobMission_AlreadyWearingGuardArmor",
+  "quem": "Jenna (F)",
+  "en": "<i>I'm already wearing the Guard Armor.</i>"
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "<i>I'll take the armor off when I go to bed.</i>"
+ },
+ {
+  "k": "6",
+  "cena": "ThrobMission_Conclusion_CumReaction",
+  "quem": "Throb (M)",
+  "en": "Oh! Did you and the motel boss have some fun?"
+ },
+ {
+  "k": "7",
+  "quem": "Jenna (F)",
+  "en": "What do you mean?"
+ },
+ {
+  "k": "8",
+  "quem": "Throb (M)",
+  "en": "You've got some cum on you."
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "<i>(Crap, I completely forgot.)</i>"
+ },
+ {
+  "k": "10",
+  "quem": "Throb (M)",
+  "en": "Don't worry about it though, I'm used to it. Anyways..."
+ },
+ {
+  "k": "11",
+  "cena": "ThrobMission_Intro",
+  "quem": "Jenna (F)",
+  "en": "Is something the matter, Officer Big Willy?"
+ },
+ {
+  "k": "12",
+  "quem": "Throb (M)",
+  "en": "Haah haah. I need your help."
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "You? Need my help? Why would I help you?"
+ },
+ {
+  "k": "14",
+  "quem": "Throb (M)",
+  "en": "Well... I can give you some pay. But I guess I can understand if you wouldn't want to help out a guard... with all the things we do."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Yeah, and after what you did to me with your bud earlier?"
+ },
+ {
+  "k": "16",
+  "quem": "Throb (M)",
+  "en": "I know... I'm sorry... Sorry probably isn't enough."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Whatever, Grande Johnson. What do you even need help with?"
+ },
+ {
+  "k": "18",
+  "quem": "Throb (M)",
+  "en": "Well... Heh. My 'bud' is unable to work at the moment. He has some sort of cold or throat sore or something. Too much yelling, I guess."
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "And...?"
+ },
+ {
+  "k": "20",
+  "quem": "Throb (M)",
+  "en": "And well... I've been recently assigned to nighttime patrols, and... I need a partner."
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "You want me to enforce the curfew with you?"
+ },
+ {
+  "k": "22",
+  "quem": "Throb (M)",
+  "en": "Shh! Not so loud! We don't want anyone to hear. Just uh... think it over a little bit, maybe. I'll be waiting in the townhall if you're interested."
+ },
+ {
+  "k": "23",
+  "quem": "Narrador",
+  "en": "<i>He nods to me politely and turns to walk away.</i>"
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "<i>(Looks like that gear I needed came running right into my lap! Time to go to the townhall.)</i>"
+ },
+ {
+  "k": "25",
+  "cena": "ThrobMission_Intro_CumReaction",
+  "quem": "Throb (M)",
+  "en": "What the... Are you covered in cum?"
+ },
+ {
+  "k": "26",
+  "cena": "ThrobMission_Intro_Triggered",
+  "quem": "Throb (M)",
+  "en": "Hey! Badge girl!"
+ },
+ {
+  "k": "27",
+  "cena": "ThrobMission_KlausArmor_DidMotelStrip",
+  "quem": "MotelOwner (M)",
+  "en": "Hello, little guard. Would be a shame if someone tore that little suit off of you..."
+ },
+ {
+  "k": "28",
+  "cena": "ThrobMission_KlausArmor_NoMotelStrip",
+  "quem": "MotelOwner (M)",
+  "en": "Hello guard... Is there anything you needed...?"
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "Uhh! Nope! Everything seems acceptable here!"
+ },
+ {
+  "k": "30",
+  "quem": "MotelOwner (M)",
+  "en": "Uhh huh..."
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "<i>(He doesn't know it's me in this suit!)</i>"
+ },
+ {
+  "k": "32",
+  "cena": "ThrobMission_Motel1_MotelStrip",
+  "quem": "Jenna (F)",
+  "en": "<i>(Well that was fairly simple! Time to get out of this getup!)</i>"
+ },
+ {
+  "k": "33",
+  "quem": "Narrador",
+  "en": "<i>I pull the helmet off of me, running a hand through my hair.</i>"
+ },
+ {
+  "k": "34",
+  "cena": "ThrobMission_Motel1_MotelStrip2",
+  "quem": "MotelOwner (M)",
+  "en": "Guard, she really is a troublemaker, but--"
+ },
+ {
+  "k": "35",
+  "quem": "Narrador",
+  "en": "<i>As I hear him speak, I freeze. I'm still facing away from him, he doesn't know it's me.</i>"
+ },
+ {
+  "k": "36",
+  "quem": "MotelOwner (M)",
+  "en": "Is something the matter, ma'am?"
+ },
+ {
+  "k": "37",
+  "tipo": "escolha",
+  "en": "<color=#C800FF>Reveal your identity.</color>"
+ },
+ {
+  "k": "38",
+  "tipo": "escolha",
+  "en": "Pretend you are a guard."
+ },
+ {
+  "k": "39",
+  "cena": "ThrobMission_Motel1_MotelStrip2_Bluff",
+  "quem": "Narrador",
+  "en": "<i>I quickly plant the helmet back onto my head, turning around and puffing myself up to seem big.</i>"
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Just a routine inspection. I have an interest in that girl."
+ },
+ {
+  "k": "41",
+  "quem": "MotelOwner (M)",
+  "en": "That's good for you, ma'am. She's my badge girl. It is against the law to be snooping in her room without my permission."
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Excuse me?"
+ },
+ {
+  "k": "43",
+  "quem": "MotelOwner (M)",
+  "en": "You heard me. Stay away from her. She's under my protection, and I won't let some lowly guard like you touch her."
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "<i>(Wow... He seems really protective of me... I didn't think he would stand up for me like that...)</i>"
+ },
+ {
+  "k": "45",
+  "quem": "MotelOwner (M)",
+  "en": "If you have nothing else to discuss, I'd appreciate it if you get out of my girl's room. Thank you."
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "Fine. I'll just go now then..."
+ },
+ {
+  "k": "47",
+  "cena": "ThrobMission_Motel1_MotelStrip2_Bluff2",
+  "quem": "Jenna (F)",
+  "en": "<i>(Jeez, he's a real hothead. Is he able to just talk down to the guards like that? Glad he's on my side...)</i>"
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "<i>(Or... Is he? Ughh... Either way, I guess I have to sneak in and out of the motel through my room's window in this suit.)</i>"
+ },
+ {
+  "k": "49",
+  "cena": "ThrobMission_Motel1_MotelStrip2_Reveal",
+  "quem": "Narrador",
+  "en": "<i>I slowly turn around, giving a nervous smile.</i>"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... Hey!"
+ },
+ {
+  "k": "51",
+  "quem": "MotelOwner (M)",
+  "en": "You.. A guard.. What?"
+ },
+ {
+  "k": "52",
+  "quem": "Jenna (F)",
+  "en": "W-well-.."
+ },
+ {
+  "k": "53",
+  "quem": "MotelOwner (M)",
+  "en": "You'll need some pretty good arguments to make me not want to let the other guards in on your little infiltration mission."
+ },
+ {
+  "k": "54",
+  "cena": "ThrobMission_Motel1_MotelStrip2_Reveal2",
+  "quem": "Jenna (F)",
+  "en": "Can't we just-.. Sweep this under the rug?"
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "I mean you're such a nice guy, right?"
+ },
+ {
+  "k": "56",
+  "quem": "MotelOwner (M)",
+  "en": "Why should I? You aren't worth the consequences that I will face if my own badge girl is caught trying to dodge curfew with a stolen suit of armor."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "I'm not <b>your</b> girl!"
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "And it's not stolen!"
+ },
+ {
+  "k": "59",
+  "quem": "MotelOwner (M)",
+  "en": "Ughh... I don't even want to know."
+ },
+ {
+  "k": "60",
+  "quem": "Jenna (F)",
+  "en": "Eheh..."
+ },
+ {
+  "k": "61",
+  "quem": "MotelOwner (M)",
+  "en": "I'm gonna go and tell them now."
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "Wait, I'll just take it off, okay?"
+ },
+ {
+  "k": "63",
+  "quem": "MotelOwner (M)",
+  "en": "Ah, you're finally starting to make sense.."
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "Alright-.. Just.. Wait outside and-"
+ },
+ {
+  "k": "65",
+  "quem": "MotelOwner (M)",
+  "en": "And go to tell them? Sure."
+ },
+ {
+  "k": "66",
+  "quem": "Jenna (F)",
+  "en": "N-no, not that!"
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "Look, I couldn't fit anything underneath the armor, so.. "
+ },
+ {
+  "k": "68",
+  "quem": "MotelOwner (M)",
+  "en": "So it'll be a perfect opportunity to start making up for the trouble you're getting me into."
+ },
+ {
+  "k": "69",
+  "cena": "ThrobMission_Motel1_MotelStrip2_Reveal3",
+  "quem": "Narrador",
+  "en": "<i>I set the helmet aside on my bed, hesitantly reaching for the release latch on the inside of my neck to open up the suit.</i>"
+ },
+ {
+  "k": "70",
+  "quem": "MotelOwner (M)",
+  "en": "I'm waiting."
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "Do you really have to stare like that?"
+ },
+ {
+  "k": "72",
+  "quem": "MotelOwner (M)",
+  "en": "I absolutely do.."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "Ugh..."
+ },
+ {
+  "k": "74",
+  "quem": "MotelOwner (M)",
+  "en": "It's just a bit of skin, nothing to worry about, Vibe.."
+ },
+ {
+  "k": "75",
+  "quem": "Narrador",
+  "en": "<i>I scowl at him, pulling the latch and letting the suit fall off of me to the ground with a clatter.</i>"
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "Alright! There! Are you happy?"
+ },
+ {
+  "k": "77",
+  "quem": "MotelOwner (M)",
+  "en": "Not quite. Turn around."
+ },
+ {
+  "k": "78",
+  "quem": "MotelOwner (M)",
+  "en": "I could instead just go and tell them about the infiltration of their ranks you're trying to pull of here.."
+ },
+ {
+  "k": "79",
+  "quem": "Jenna (F)",
+  "en": "Fine! Fine..."
+ },
+ {
+  "k": "80",
+  "cena": "ThrobMission_Motel1_MotelStrip2_Reveal4",
+  "quem": "Jenna (F)",
+  "en": "Happy now?"
+ },
+ {
+  "k": "81",
+  "quem": "MotelOwner (M)",
+  "en": "Nope. Spread those cheeks."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "What?!"
+ },
+ {
+  "k": "83",
+  "quem": "MotelOwner (M)",
+  "en": "If I'm gonna cover your ass, I think it's in both of our best interest, Vibe.."
+ },
+ {
+  "k": "84",
+  "quem": "MotelOwner (M)",
+  "en": "Just lean against the wall and spread your ass. It's not much considering you want me to lie to the guards, don't you think?"
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "<i>(How did I get into this...)</i>"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "Is this fine...?"
+ },
+ {
+  "k": "87",
+  "quem": "MotelOwner (M)",
+  "en": "I said spread them, didn't I?"
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "Ugh.. You're a pervert!"
+ },
+ {
+  "k": "89",
+  "quem": "MotelOwner (M)",
+  "en": "That's much better..."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "Enjoy it while you can..."
+ },
+ {
+  "k": "91",
+  "quem": "MotelOwner (M)",
+  "en": "If you insist."
+ },
+ {
+  "k": "92",
+  "quem": "MotelOwner (M)",
+  "en": "Alright. That's all. Feel free to crawl into bed, girl."
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "So... Can I keep the suit..?"
+ },
+ {
+  "k": "94",
+  "quem": "MotelOwner (M)",
+  "en": "Fine. My silence won't be free though."
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "<i>(Pervert...)</i>"
+ },
+ {
+  "k": "96",
+  "quem": "MotelOwner (M)",
+  "en": "I'm glad we could come to an understanding."
+ },
+ {
+  "k": "97",
+  "cena": "ThrobMission_Motel2_MotelStrip",
+  "quem": "MotelOwner (M)",
+  "en": "Ah. There you are, little guard. I've been waiting for you."
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "Hey..."
+ },
+ {
+  "k": "99",
+  "quem": "MotelOwner (M)",
+  "en": "Get inside."
+ },
+ {
+  "k": "100",
+  "cena": "ThrobMission_Motel2_MotelStrip2",
+  "quem": "MotelOwner (M)",
+  "en": "Helmet off."
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "Fine."
+ },
+ {
+  "k": "102",
+  "quem": "MotelOwner (M)",
+  "en": "Now lets see the rest of your pretty body."
+ },
+ {
+  "k": "103",
+  "quem": "Narrador",
+  "en": "<i>I reach up into the neck of my armor and hesitantly pull the latch to let the suit drop to the floor.</i>"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "You're not gonna turn around, eh?"
+ },
+ {
+  "k": "105",
+  "quem": "MotelOwner (M)",
+  "en": "Of course not."
+ },
+ {
+  "k": "106",
+  "quem": "MotelOwner (M)",
+  "en": "You know, there were some guards here earlier asking about a missing guard outfit."
+ },
+ {
+  "k": "107",
+  "quem": "Jenna (F)",
+  "en": "E-eh? What did you tell them?"
+ },
+ {
+  "k": "108",
+  "quem": "MotelOwner (M)",
+  "en": "Much less than I could have."
+ },
+ {
+  "k": "109",
+  "quem": "Jenna (F)",
+  "en": "R-right..!"
+ },
+ {
+  "k": "110",
+  "quem": "MotelOwner (M)",
+  "en": "A \"thank you\" would be fair, don't you think?"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "<i>(He couldn't just help me without getting naked...)</i>"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Fine.. Thanks.."
+ },
+ {
+  "k": "113",
+  "quem": "MotelOwner (M)",
+  "en": "See.. Being nice to others pays out sometimes."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "Right..."
+ },
+ {
+  "k": "115",
+  "quem": "MotelOwner (M)",
+  "en": "Now bend over."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "Classy..."
+ },
+ {
+  "k": "117",
+  "quem": "MotelOwner (M)",
+  "en": "Of course."
+ },
+ {
+  "k": "118",
+  "cena": "ThrobMission_Motel2_MotelStrip3",
+  "quem": "MotelOwner (M)",
+  "en": "Sexy ass you have. Must be from all that heroing, hm?"
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "I just eat my vegetables..."
+ },
+ {
+  "k": "120",
+  "quem": "MotelOwner (M)",
+  "en": "You're missing some eggplant then."
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "I-.. I don't think so."
+ },
+ {
+  "k": "122",
+  "quem": "MotelOwner (M)",
+  "en": "You're less susceptible than most of the people in this town."
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "Might have something to do with being made to show off naked!"
+ },
+ {
+  "k": "124",
+  "quem": "MotelOwner (M)",
+  "en": "Right.. Because you really put up a huge fight, huh?"
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "I-.. I have no choice!"
+ },
+ {
+  "k": "126",
+  "quem": "MotelOwner (M)",
+  "en": "Sure. Why don't you spread them?"
+ },
+ {
+  "k": "127",
+  "quem": "Jenna (F)",
+  "en": "Spread what?"
+ },
+ {
+  "k": "128",
+  "quem": "MotelOwner (M)",
+  "en": "What do you think? Spread those cheeks."
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "But-.. I-"
+ },
+ {
+  "k": "130",
+  "quem": "MotelOwner (M)",
+  "en": "\"But\" is not what you should say if you don't want me to spill your little secret."
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "... Fine."
+ },
+ {
+  "k": "132",
+  "quem": "MotelOwner (M)",
+  "en": "That's 'Yes sir.'"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "Ugh... Yes sir."
+ },
+ {
+  "k": "134",
+  "quem": "MotelOwner (M)",
+  "en": "Better. Now get to it."
+ },
+ {
+  "k": "135",
+  "cena": "ThrobMission_Motel2_MotelStrip4",
+  "quem": "Jenna (F)",
+  "en": "Dick."
+ },
+ {
+  "k": "136",
+  "quem": "MotelOwner (M)",
+  "en": "Oh? Is that what you want?"
+ },
+ {
+  "k": "137",
+  "quem": "Jenna (F)",
+  "en": "N-No!"
+ },
+ {
+  "k": "138",
+  "quem": "MotelOwner (M)",
+  "en": "Then stop testing your luck."
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "Ugh..."
+ },
+ {
+  "k": "140",
+  "quem": "MotelOwner (M)",
+  "en": "There we go."
+ },
+ {
+  "k": "141",
+  "quem": "MotelOwner (M)",
+  "en": "I'll see you again soon, <i> guard</I> girl."
+ },
+ {
+  "k": "142",
+  "quem": "MotelOwner (M)",
+  "en": "Sleep well."
+ },
+ {
+  "k": "143",
+  "cena": "ThrobMission_Motel3_MotelStrip",
+  "quem": "MotelOwner (M)",
+  "en": "Welcome back,  <i>guard</i>. What brings you here?"
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "You know why I'm here..."
+ },
+ {
+  "k": "145",
+  "quem": "MotelOwner (M)",
+  "en": "Eager to protect our secret, huh?"
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "I-.. well.."
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "Let's just... get this over with."
+ },
+ {
+  "k": "148",
+  "quem": "MotelOwner (M)",
+  "en": "If you ask nicely like that, sure."
+ },
+ {
+  "k": "149",
+  "cena": "ThrobMission_Motel3_MotelStrip1",
+  "quem": "Jenna (F)",
+  "en": "Turn around?"
+ },
+ {
+  "k": "150",
+  "quem": "MotelOwner (M)",
+  "en": "Nope."
+ },
+ {
+  "k": "151",
+  "quem": "Narrador",
+  "en": "<i>I reach up and tug the helmet off, tossing it onto the bed.</i>"
+ },
+ {
+  "k": "152",
+  "quem": "MotelOwner (M)",
+  "en": "What? Got something to say?"
+ },
+ {
+  "k": "153",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "154",
+  "quem": "MotelOwner (M)",
+  "en": "You what?"
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "Nothing..."
+ },
+ {
+  "k": "156",
+  "quem": "MotelOwner (M)",
+  "en": "That's exactly what I thought."
+ },
+ {
+  "k": "157",
+  "cena": "ThrobMission_Motel3_MotelStrip2",
+  "quem": "Jenna (F)",
+  "en": "So what do you want?"
+ },
+ {
+  "k": "158",
+  "quem": "MotelOwner (M)",
+  "en": "Just be good and hold still."
+ },
+ {
+  "k": "159",
+  "cena": "ThrobMission_Motel3_MotelStrip3",
+  "quem": "MotelOwner (M)",
+  "en": "About time to have you take off that stolen guard suit. How does it come off?"
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "The neck.. There's a latch."
+ },
+ {
+  "k": "161",
+  "quem": "Narrador",
+  "en": "<i>He grabs the latch, and tugs on it.</i>"
+ },
+ {
+  "k": "162",
+  "quem": "MotelOwner (M)",
+  "en": "There.. Much better."
+ },
+ {
+  "k": "163",
+  "cena": "ThrobMission_Motel3_MotelStrip4",
+  "quem": "Narrador",
+  "en": "<i>He shoves me down onto the bed.</i>"
+ },
+ {
+  "k": "164",
+  "quem": "MotelOwner (M)",
+  "en": "Now this is a great way to start making up for all the trouble you get me into.."
+ },
+ {
+  "k": "165",
+  "quem": "MotelOwner (M)",
+  "en": "Suddenly so quiet, hehe.."
+ },
+ {
+  "k": "166",
+  "quem": "Narrador",
+  "en": "<i>Suddenly, I feel a sharp pain on my ass accompanied by a loud noise of slapping skin.</i>"
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "A-Ah!!"
+ },
+ {
+  "k": "168",
+  "quem": "Narrador",
+  "en": "<i>Another rough spank on my ass. As his hand pulls away, the stinging starts to set in.</i>"
+ },
+ {
+  "k": "169",
+  "quem": "MotelOwner (M)",
+  "en": "Hush. We don't want to disturb the other guests, now do we?"
+ },
+ {
+  "k": "170",
+  "quem": "Narrador",
+  "en": "<i>He slowly keeps spanking me.</i>"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "F-Fff..."
+ },
+ {
+  "k": "172",
+  "quem": "Narrador",
+  "en": "<i>It's-.. <color=perversion>not that bad...</color> No-... Quit it!</i>"
+ },
+ {
+  "k": "173",
+  "quem": "Narrador",
+  "en": "<i>This reminds me of Karen... She would always spank me when we played... <color=perversion>it felt so good..~</color></i>"
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "H-<color=perversion>Haah~</color>"
+ },
+ {
+  "k": "175",
+  "quem": "MotelOwner (M)",
+  "en": "What's this? Are you enjoying this?"
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "I-I..."
+ },
+ {
+  "k": "177",
+  "quem": "MotelOwner (M)",
+  "en": "You can tell me."
+ },
+ {
+  "k": "178",
+  "quem": "Jenna (F)",
+  "en": "I... N-No...!"
+ },
+ {
+  "k": "179",
+  "quem": "Narrador",
+  "en": "<color=perversion><i>(<i>I-.. I don't.. Right..?</i>)</i></color>"
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhhnnn...</color>"
+ },
+ {
+  "k": "181",
+  "quem": "MotelOwner (M)",
+  "en": "We both know the truth."
+ },
+ {
+  "k": "182",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Haahh-..!</color>"
+ },
+ {
+  "k": "183",
+  "quem": "MotelOwner (M)",
+  "en": "That'll do for today. Until next time,  <i>guard</i>."
+ },
+ {
+  "k": "184",
+  "cena": "ThrobMission_Motel4_MotelStrip",
+  "quem": "MotelOwner (M)",
+  "en": "Just in time, little guard. I've been expecting you."
+ },
+ {
+  "k": "185",
+  "quem": "Jenna (F)",
+  "en": "Could you get more cliché?"
+ },
+ {
+  "k": "186",
+  "cena": "ThrobMission_Motel4_MotelStrip1",
+  "quem": "MotelOwner (M)",
+  "en": "Well, well, well. I didn't even have to order you this time."
+ },
+ {
+  "k": "187",
+  "quem": "Jenna (F)",
+  "en": "I... L-Let's just get this over with!"
+ },
+ {
+  "k": "188",
+  "quem": "MotelOwner (M)",
+  "en": "That's not how you ask me."
+ },
+ {
+  "k": "189",
+  "quem": "Jenna (F)",
+  "en": "But-"
+ },
+ {
+  "k": "190",
+  "quem": "MotelOwner (M)",
+  "en": "You heard me. If you want it, ask nicely."
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "... What do you want me to say...?"
+ },
+ {
+  "k": "192",
+  "quem": "MotelOwner (M)",
+  "en": "Ask me to touch you."
+ },
+ {
+  "k": "193",
+  "quem": "Jenna (F)",
+  "en": "Wha-..."
+ },
+ {
+  "k": "194",
+  "quem": "MotelOwner (M)",
+  "en": "If you're not interested, I can just leave."
+ },
+ {
+  "k": "195",
+  "quem": "Jenna (F)",
+  "en": "No! Wait- I... "
+ },
+ {
+  "k": "196",
+  "quem": "MotelOwner (M)",
+  "en": "What do you want?"
+ },
+ {
+  "k": "197",
+  "quem": "Jenna (F)",
+  "en": "I-.. I want you to... touch me..."
+ },
+ {
+  "k": "198",
+  "quem": "MotelOwner (M)",
+  "en": "Now ask nicely."
+ },
+ {
+  "k": "199",
+  "quem": "Jenna (F)",
+  "en": "Can... Can you touch me?"
+ },
+ {
+  "k": "200",
+  "quem": "MotelOwner (M)",
+  "en": "You say 'Please.' Give it a try."
+ },
+ {
+  "k": "201",
+  "quem": "MotelOwner (M)",
+  "en": "You know I can just leave, and your secrets come with me."
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "No! Wait!"
+ },
+ {
+  "k": "203",
+  "quem": "Jenna (F)",
+  "en": "P... Please?"
+ },
+ {
+  "k": "204",
+  "quem": "MotelOwner (M)",
+  "en": "Please what?"
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "Please... touch me?"
+ },
+ {
+  "k": "206",
+  "quem": "MotelOwner (M)",
+  "en": "You can do that better."
+ },
+ {
+  "k": "207",
+  "quem": "Jenna (F)",
+  "en": "... Please sir... Please touch me!"
+ },
+ {
+  "k": "208",
+  "quem": "MotelOwner (M)",
+  "en": "Again."
+ },
+ {
+  "k": "209",
+  "quem": "Jenna (F)",
+  "en": "Please touch me, sir!"
+ },
+ {
+  "k": "210",
+  "quem": "MotelOwner (M)",
+  "en": "Good girl. Suit off."
+ },
+ {
+  "k": "211",
+  "cena": "ThrobMission_Motel4_MotelStrip2",
+  "quem": "Narrador",
+  "en": "<i>I reach up to my neck, before hesitating for a second."
+ },
+ {
+  "k": "212",
+  "quem": "Jenna (F)",
+  "en": "<i>(Is this really right..?)</i>"
+ },
+ {
+  "k": "213",
+  "quem": "MotelOwner (M)",
+  "en": "What's the hold up? There's nothing I haven't seen before. You have nothing to lose."
+ },
+ {
+  "k": "214",
+  "quem": "Jenna (F)",
+  "en": "<i>(He's-.. <color=perversion>He's right..</color>)"
+ },
+ {
+  "k": "215",
+  "quem": "MotelOwner (M)",
+  "en": "Time to stop playing guard."
+ },
+ {
+  "k": "216",
+  "quem": "Narrador",
+  "en": "<i>I pull the latch in the neck of the suit, letting it fall off of my body down to the ground.</i>"
+ },
+ {
+  "k": "217",
+  "quem": "MotelOwner (M)",
+  "en": "That's it... Good girl..."
+ },
+ {
+  "k": "218",
+  "quem": "MotelOwner (M)",
+  "en": "Stand still. Let me get a good look."
+ },
+ {
+  "k": "219",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Y-.. yes..</color>"
+ },
+ {
+  "k": "220",
+  "cena": "ThrobMission_Motel4_MotelStrip3",
+  "quem": "Narrador",
+  "en": "<i>He slowly walks around me.</i>"
+ },
+ {
+  "k": "221",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>...</color>"
+ },
+ {
+  "k": "222",
+  "cena": "ThrobMission_Motel4_MotelStrip4",
+  "quem": "MotelOwner (M)",
+  "en": "Very good..."
+ },
+ {
+  "k": "223",
+  "cena": "ThrobMission_Motel4_MotelStrip5",
+  "quem": "Narrador",
+  "en": "<i>He pushes me down against the bed, pressing my face into the cushioned surface.</i>"
+ },
+ {
+  "k": "224",
+  "quem": "Jenna (F)",
+  "en": "A-Agh!"
+ },
+ {
+  "k": "225",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>H-hey..!</color>"
+ },
+ {
+  "k": "226",
+  "quem": "MotelOwner (M)",
+  "en": "Your complaining and your pussy getting wet are contradicting each other.."
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhah-...</color>"
+ },
+ {
+  "k": "228",
+  "quem": "MotelOwner (M)",
+  "en": "That's it... Less talking and more enjoying."
+ },
+ {
+  "k": "229",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(<i>He's so firm...)</i></color>"
+ },
+ {
+  "k": "230",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Ffuuckk...)</i></color>"
+ },
+ {
+  "k": "231",
+  "quem": "MotelOwner (M)",
+  "en": "It's almost like you're enjoying it... Isn't that curious..."
+ },
+ {
+  "k": "232",
+  "quem": "Narrador",
+  "en": "<color=perversion><i>(He stopped-..!)</i></color>"
+ },
+ {
+  "k": "233",
+  "quem": "MotelOwner (M)",
+  "en": "So much for pretending to be a big strong guard, hehe.."
+ },
+ {
+  "k": "234",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(<i>...</i>)</i></color>"
+ },
+ {
+  "k": "235",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Haahhh...</color>"
+ },
+ {
+  "k": "236",
+  "quem": "MotelOwner (M)",
+  "en": "So wet, you're practically dripping. Even moaning. It's almost like you shouldn't have put up such a show to begin with."
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "I-.. It's n-.. <color=perversion>Ghhh..."
+ },
+ {
+  "k": "238",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>... Ghh..."
+ },
+ {
+  "k": "239",
+  "quem": "MotelOwner (M)",
+  "en": "Why don't you come off the bed for a second."
+ },
+ {
+  "k": "240",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>O-okay..</color>"
+ }
+]

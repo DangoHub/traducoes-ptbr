@@ -1,0 +1,848 @@
+[
+ {
+  "k": "1",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Pure_4",
+  "quem": "Karen (F)",
+  "en": "Agh- What the fuc-"
+ },
+ {
+  "k": "2",
+  "quem": "Leath (F)",
+  "en": "Silence, mutt."
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "Let her go, Leath!"
+ },
+ {
+  "k": "4",
+  "quem": "Leath (F)",
+  "en": "I've seen nations rise and fall. I've enslaved entire races, eradicated others. My subjects worship me as a goddess."
+ },
+ {
+  "k": "5",
+  "quem": "Leath (F)",
+  "en": "You are nothing to me. Nothing but a minor footnote in my long story of conquest. Nothing but a creature infected with 'love'."
+ },
+ {
+  "k": "6",
+  "quem": "Leath (F)",
+  "en": "That illusion that seems so strong, yet is so easily broken."
+ },
+ {
+  "k": "7",
+  "quem": "Karen (F)",
+  "en": "Wait-"
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "No! Don't hurt her!"
+ },
+ {
+  "k": "9",
+  "quem": "Jenna (F)",
+  "en": "<i>(I have to dash to stop her. I have to.)</i>"
+ },
+ {
+  "k": "10",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Pure_5",
+  "quem": "Karen (F)",
+  "en": "AGH-"
+ },
+ {
+  "k": "11",
+  "cena": "Finale_FinalFight_2_2_Outro_4_Pure_6",
+  "quem": "Narrador",
+  "en": "<i>I stop short and look down in horror to see Leath's fist punched through Karen's chest. This can't be happening...</i>"
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "No. No, no, no. Karen..."
+ },
+ {
+  "k": "13",
+  "quem": "Leath (F)",
+  "en": "Goodbye, Wildfire. Happy trails, Jenna. I'll see you in the future."
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "NO! YOU MOTHERFU-"
+ },
+ {
+  "k": "15",
+  "cena": "Finale_FinalFight_2_Firestorm_1",
+  "quem": "Jenna (F)",
+  "en": "Heads up!"
+ },
+ {
+  "k": "16",
+  "quem": "Karen (F)",
+  "en": "GRRR!!"
+ },
+ {
+  "k": "17",
+  "cena": "Finale_Pure_AfterChronal_1",
+  "quem": "Leath (F)",
+  "en": "That illusion that seems so strong, yet is so easily brok-"
+ },
+ {
+  "k": "18",
+  "cena": "Finale_Pure_AfterChronal_2",
+  "quem": "Leath (F)",
+  "en": "What?!"
+ },
+ {
+  "k": "19",
+  "quem": "Karen (F)",
+  "en": "W-What?"
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "It worked! Karen, you're okay!"
+ },
+ {
+  "k": "21",
+  "quem": "Karen (F)",
+  "en": "But- you disappeared... Did you... come back for me?"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Always."
+ },
+ {
+  "k": "23",
+  "quem": "Leath (F)",
+  "en": "Enough of this. Wildfire, destroy her."
+ },
+ {
+  "k": "24",
+  "quem": "Karen (F)",
+  "en": "You were going to kill me. I'm done being your fucking attack dog, you mouthy purple bitch!"
+ },
+ {
+  "k": "25",
+  "quem": "Leath (F)",
+  "en": "Have you really forgotten these past few years? I own you."
+ },
+ {
+  "k": "26",
+  "cena": "Finale_Pure_AfterChronal_3",
+  "quem": "Narrador",
+  "en": "<i>Click...                                     Click...                          Click Click Click."
+ },
+ {
+  "k": "27",
+  "quem": "Leath (F)",
+  "en": "What?!"
+ },
+ {
+  "k": "28",
+  "quem": "Karen (F)",
+  "en": "What's the matter? Did your little control chip get burnt out? You don't own shit anymore."
+ },
+ {
+  "k": "29",
+  "cena": "Finale_Pure_AfterChronal_4",
+  "quem": "Jenna (F)",
+  "en": "Hey, you wanna... team up?"
+ },
+ {
+  "k": "30",
+  "quem": "Karen (F)",
+  "en": "Let's just beat her ass already."
+ },
+ {
+  "k": "31",
+  "cena": "Finale_Pure_AfterChronal_5",
+  "quem": "Jenna (F)",
+  "en": "That's gonna hurt her in the morning. Hey, nice hit, 'Wildfire'. You been workin' out? Wanna get some coffee later?"
+ },
+ {
+  "k": "32",
+  "quem": "Karen (F)",
+  "en": "We're not there yet."
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "Maybe some-"
+ },
+ {
+  "k": "34",
+  "quem": "Jenna (F)",
+  "en": "Wait- Yet?"
+ },
+ {
+  "k": "35",
+  "quem": "Narrador",
+  "en": "<i>:: MAIN CONTROL PANEL DISRUPTED, INITIATING SHUTDOWN PROTOCOL! ::"
+ },
+ {
+  "k": "36",
+  "cena": "Finale_Pure_AfterChronal_6",
+  "quem": "Jenna (F)",
+  "en": "Phew! Almost forgot about that."
+ },
+ {
+  "k": "37",
+  "quem": "Karen (F)",
+  "en": "So that's it then... It's finally over..."
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "That's right. It's over. You're free."
+ },
+ {
+  "k": "39",
+  "quem": "Karen (F)",
+  "en": "Wow. I need to... need to get some air..."
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Okay, I'll-"
+ },
+ {
+  "k": "41",
+  "cena": "Finale_Pure_AfterChronal_7",
+  "quem": "Jenna (F)",
+  "en": "-see you around, I guess?"
+ },
+ {
+  "k": "42",
+  "cena": "Finale_Stop5_Hall_1",
+  "quem": "Jenna (F)",
+  "en": "<i>(This is it... homestretch.)</i>"
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "<i>(For the sake of my friends, I might have to kill Ka- I can't think about it.)"
+ },
+ {
+  "k": "44",
+  "cena": "Finale_Stop5_Hall_2",
+  "quem": "Jenna (F)",
+  "en": "<i>(But if I can't do it... all my friends... the whole world... gone...)</i>"
+ },
+ {
+  "k": "45",
+  "cena": "Finale_Stop5_Hall_3",
+  "quem": "Jenna (F)",
+  "en": "<i>(Either way, I can't let this tower get activated.)</i>"
+ },
+ {
+  "k": "46",
+  "cena": "finding_patrol_1",
+  "en": "(plays when the group gets near the ambushed patrol)"
+ },
+ {
+  "k": "47",
+  "en": "This must be it."
+ },
+ {
+  "k": "48",
+  "en": "These guys got destroyed. Whoever we're dealing with here, they're not messing around."
+ },
+ {
+  "k": "49",
+  "en": "Found tracks! Found footpr...foot...ground sign!"
+ },
+ {
+  "k": "50",
+  "en": "Well, at least we've got a lead."
+ },
+ {
+  "k": "51",
+  "en": "If I could make a suggestion. Me and Rida could try and catch their trail, while you guys stay here and investigate the site."
+ },
+ {
+  "k": "52",
+  "en": "We won't wander too far off, just to see in what direction this trail goes to and try to get an idea of how many people we're dealing with."
+ },
+ {
+  "k": "53",
+  "en": "Sounds good to me. What do you say, Blue?"
+ },
+ {
+  "k": "54",
+  "en": "Same here. Let's meet back here in five. We'll gather all the data we can in the meantime."
+ },
+ {
+  "k": "55",
+  "en": "(fade out, players have control. now players have to investigate or interact with 3 different objects to progress. The payload or the cargo vehicle carrying peitho supplies that got ambushed, one of the defeated guards, and one of the arrows left behind on the floor)"
+ },
+ {
+  "k": "56",
+  "cena": "finding_patrol_2_payload",
+  "en": "There's a hole blown right through the side. The people who did this must've had access to some serious firepower."
+ },
+ {
+  "k": "57",
+  "en": "I checked through the contents of the supplies. This is exactly like Lady had said."
+ },
+ {
+  "k": "58",
+  "en": "Any areas slots in the cargo area that would be used to carry weapons, armors and ammunition are thoroughly plundered. Everything else is left behind."
+ },
+ {
+  "k": "59",
+  "en": "Let's just hope whoever this group is arming with the stolen weapons aren't gonna be like Peitho."
+ },
+ {
+  "k": "60",
+  "en": "You can say that again. These people are definitely better armed than we were as guards in Carceburg."
+ },
+ {
+  "k": "61",
+  "cena": "finding_patrol_3_guards",
+  "en": "Yep, these guys are out. Have any of you guys seen any bodies that <i>weren't</i> Peitho or something?"
+ },
+ {
+  "k": "62",
+  "en": "Nope. You, Throb?"
+ },
+ {
+  "k": "63",
+  "en": "I got nothing either. It's all Peitho goons."
+ },
+ {
+  "k": "64",
+  "en": "Talk about a well executed ambush. By the time they knew what hit them, it must've been too late."
+ },
+ {
+  "k": "65",
+  "en": "Which means we should be on our guard when we get to tracking these people. We wouldn't want to be the victims of a similar ambush."
+ },
+ {
+  "k": "66",
+  "en": "Right. We've gotta keep an eye out for even the slightest unusual rustling of leaves. If these guys get the jump on us, we're history."
+ },
+ {
+  "k": "67",
+  "cena": "finding_patrol_4_arrows",
+  "en": "Are these...arrows?"
+ },
+ {
+  "k": "68",
+  "en": "Talk about old fashioned. We've got bowmen runnning through the woods fighting Peitho."
+ },
+ {
+  "k": "69",
+  "en": "Yeah but these aren't just sharp stones on the end of a stick. Look at them. These look high tech, and I'm willing to bet the bow that shoots them does too."
+ },
+ {
+  "k": "70",
+  "en": "I suppose this rules out us dealing with a bunch of common thugs like the Lumber Rats here. "
+ },
+ {
+  "k": "71",
+  "en": "This arrow looks like it's got some kind of slot for a vial inside it."
+ },
+ {
+  "k": "72",
+  "en": "Poison, probably. One of the arrows I found is completely blown apart on one end, likely the result of an explosive tip."
+ },
+ {
+  "k": "73",
+  "en": "Let's make sure to ask Floria about it, she'd likely be able to pick up traces of residue of a subtance in that vial cartridge."
+ },
+ {
+  "k": "74",
+  "en": "Man, seeing these kinds of weapons makes me wish we had something like this at AIRSHIP...oh well."
+ },
+ {
+  "k": "75",
+  "cena": "finding_patrol_5",
+  "en": "(plays after player interacts with all 3 objects. Group meets up again, alll huddled around in a circle to discuss their findings and possible theories)"
+ },
+ {
+  "k": "76",
+  "en": "Alright, let's start from the top. What do we know so far?"
+ },
+ {
+  "k": "77",
+  "en": "We've established this mysterious group has got access to some pretty good tech. They can cut through the plating on the convoy here, and they've got some kind of unique, high tech bow weaponry that they use."
+ },
+ {
+  "k": "78",
+  "en": "All of that ties rather well into the fact that they're likelly very good at operating stealthily. A bow makes practically no noise when compared to a gun, and they've managed to eliminate the patrol suffering no casualties."
+ },
+ {
+  "k": "79",
+  "en": "We found some fairly impressive stuff ourselves. There's actually a bunch of different trails, all very cleverly masked and hidden. "
+ },
+ {
+  "k": "80",
+  "en": "Strange as it may sound however, after me and Rida took a closer look and put our minds together, we've come to the conclusion only <i>one</i> is actually real."
+ },
+ {
+  "k": "81",
+  "en": "So these people are good at covering up their tracks and even leaving false ones behind. Could be the reason behind why they haven't been caught yet."
+ },
+ {
+  "k": "82",
+  "en": "By the way, take a look at this, Floria. Look inside this arrow, there seems to be some kind of vial. Can you tell what was inside."
+ },
+ {
+  "k": "83",
+  "en": "Probably. Let me take a look."
+ },
+ {
+  "k": "84",
+  "en": "<i>(Floria brings the arrow close to her face. She studies it with her eyes, then gives it a sniff. She quirks an eyebrow, perplexed, and brings up the arrow to her lips, running her tongue across it.)</i>"
+ },
+ {
+  "k": "85",
+  "en": "Ughhhhhh...! "
+ },
+ {
+  "k": "86",
+  "en": "Floria! Is everything okay!?"
+ },
+ {
+  "k": "87",
+  "en": "Yeah...ugh...disgusting...but I'll be fine..."
+ },
+ {
+  "k": "88",
+  "en": "Can you tell what was in the vial before?"
+ },
+ {
+  "k": "89",
+  "en": "Poison, definitely poison. There's not a single doubt in my mind. And a strong poison at that too, if it managed to rattle me like that."
+ },
+ {
+  "k": "90",
+  "en": "Are you sure you're gonna be okay?"
+ },
+ {
+  "k": "91",
+  "en": "Yeah, my body's got plenty of toxic resistance, but I'm fairly sure this thing is lethal in way smaller doses than what's in the arrow. These goons stood no chance."
+ },
+ {
+  "k": "92",
+  "en": "Damn...we better hope we don't get hit with that."
+ },
+ {
+  "k": "93",
+  "en": "I could probably extract it from quite a few of you before it incapacitates me, but it wouldn't be pleasant. I'm inclined to agree we should avoid being hit."
+ },
+ {
+  "k": "94",
+  "en": "Alright. Now that we've got a better idea of what kind of people we're after, we should get going."
+ },
+ {
+  "k": "95",
+  "en": "I've managed to identify and mark the trail that's most likely to be the real one. We follow it and it should lead us straight to these people."
+ },
+ {
+  "k": "96",
+  "en": "(i was thinking it would be hard to describe where the player needs to go, so I figured it would be cool if floria used her plant body to spread some kind of pheromones or something that would 'light the way' for the party in the form of footprints on the ground that are  made very obvious)"
+ },
+ {
+  "k": "97",
+  "cena": "Finish",
+  "quem": "Intercom",
+  "en": ":: Decontamination complete. ::"
+ },
+ {
+  "k": "98",
+  "cena": "First Button after hack",
+  "quem": "Jenna (F)",
+  "en": "Easy peasy. "
+ },
+ {
+  "k": "99",
+  "cena": "First Dialouge",
+  "quem": "Floria (F)",
+  "en": "I don't like this place it's so dark."
+ },
+ {
+  "k": "100",
+  "quem": "Jewel (F)",
+  "en": "I could help you lighten up a bit."
+ },
+ {
+  "k": "101",
+  "quem": "Jenna (F)",
+  "en": "Hehe."
+ },
+ {
+  "k": "102",
+  "quem": "Throb (M)",
+  "en": "Common guys this is not the time to joke around like that."
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "Ok Dad."
+ },
+ {
+  "k": "104",
+  "cena": "First Enter",
+  "quem": "Narrador",
+  "en": "After being picked up by a Peitho Airship and flown to one of their bases, I enter through the main Gate."
+ },
+ {
+  "k": "105",
+  "quem": "Peitho Official (M)",
+  "en": "This will be your new home during your training."
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes, Sir. I can't wait for it to begin, so I can serve <color=red>Peitho</color> to my full potential.</color>"
+ },
+ {
+  "k": "107",
+  "quem": "Peitho Official (M)",
+  "en": "Very good. I've assigned your trainer personally. She will bring out your strength."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>When can I meet her, Sir?</color>"
+ },
+ {
+  "k": "109",
+  "quem": "Peitho Official (M)",
+  "en": "She will arrive here tomorrow. Until then, get yourself familiar with your new surroundings. When you're done, go to your room through the west exit and wait for her arrival."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "Yes, Sir."
+ },
+ {
+  "k": "111",
+  "quem": "Peitho Official (M)",
+  "en": "Her name is Faine. She will find you tomorrow."
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Faine.. Yes, Sir.</color>"
+ },
+ {
+  "k": "113",
+  "quem": "Peitho Official (M)",
+  "en": "She has proven herself with Airship affiliates."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><color=red>Good</color>.. Then she will know just how to make me <b>stronger</b>...</color>"
+ },
+ {
+  "k": "115",
+  "quem": "Peitho Official (M)",
+  "en": "<b>That</b> she will."
+ },
+ {
+  "k": "116",
+  "cena": "First Enter - 1",
+  "quem": "Jenna (F)",
+  "en": "<i>(Wh-.. What is this place...?)</i>"
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "<i>(What am I getting into..?)</i>"
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "Guhh-..! Hh-.. <color=perversion>Hnnfffhhh..</color>"
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Where's-.. Liedry-.. She must have-.. <b>more</b>...)</i></color>"
+ },
+ {
+  "k": "120",
+  "cena": "First Enter - 2 - Clean",
+  "quem": "Liedryn (F)",
+  "en": "Now look who's come into Peitho's arms...~"
+ },
+ {
+  "k": "121",
+  "quem": "Liedryn (F)",
+  "en": "Even cleaned up for the occasion. You didn't look this clean last time I saw you, <i>Vibe</i>...~"
+ },
+ {
+  "k": "122",
+  "quem": "Liedryn (F)",
+  "en": "Too bad.. The stench was fitting, don't you think?"
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(...)</i></color>"
+ },
+ {
+  "k": "124",
+  "cena": "First Enter - 2 - Dirty",
+  "quem": "Liedryn (F)",
+  "en": "You're dripping, <i>Vibe</i>..."
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(... Her cum, it's still-..)</i></color>"
+ },
+ {
+  "k": "126",
+  "quem": "Liedryn (F)",
+  "en": "Liked it so much that you wanted to keep it, hmm?"
+ },
+ {
+  "k": "127",
+  "quem": "Liedryn (F)",
+  "en": "Don't worry, I'm not done with you yet..."
+ },
+ {
+  "k": "128",
+  "cena": "First Enter - 3",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Do-.. Do you have some-...</color>"
+ },
+ {
+  "k": "129",
+  "quem": "Liedryn (F)",
+  "en": "Desparate for your dose, hmm?~"
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>I-.. I want to feel it again-...</color>"
+ },
+ {
+  "k": "131",
+  "quem": "Liedryn (F)",
+  "en": "<size=25>I'm sure Wildfire would be interested to see you like this, hehehe..."
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>C-can I-..</color>"
+ },
+ {
+  "k": "133",
+  "quem": "Liedryn (F)",
+  "en": "Can you <b>what</b>?~"
+ },
+ {
+  "k": "134",
+  "quem": "Liedryn (F)",
+  "en": "More of your Peitho sex drugs?"
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Y-yessss...!</color>"
+ },
+ {
+  "k": "136",
+  "quem": "Liedryn (F)",
+  "en": "Of course, <b><i>Vibe</i></b>...~ Peitho gives you what you <b>truly</b> want, hehehe..."
+ },
+ {
+  "k": "137",
+  "quem": "Narrador",
+  "en": "<i>She pours the liquid straight onto my tongue.</i>"
+ },
+ {
+  "k": "138",
+  "quem": "Liedryn (F)",
+  "en": "There you go, slut...~ Swallow your treat."
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Ungh-... Ghaaahhh...</color>"
+ },
+ {
+  "k": "140",
+  "quem": "Liedryn (F)",
+  "en": "Now... have a seat."
+ },
+ {
+  "k": "141",
+  "quem": "Narrador",
+  "en": "<i>My gaze falls onto the machine in the middle of the room. I climb onto it. Just as I'm near enough, it suddenly snaps restraints around my limbs and holds me in place."
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hahh!</color>"
+ },
+ {
+  "k": "143",
+  "quem": "Liedryn (F)",
+  "en": "This is my new toy. But don't worry. A nasty slut like <i>Vibe</i> might even enjoy it, hehehe..~"
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhh-..</color>"
+ },
+ {
+  "k": "145",
+  "quem": "Liedryn (F)",
+  "en": "Step one of your modification procedure requires your libido to be stretched past its current limit..."
+ },
+ {
+  "k": "146",
+  "quem": "Liedryn (F)",
+  "en": "Seeing your state this requires some additional <i>Equipment</i>."
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Guuuuhhhhhh-...~</color>"
+ },
+ {
+  "k": "148",
+  "quem": "Liedryn (F)",
+  "en": "But don't you worry.. Equipment to solve that problem is what Peitho engineers exceed at."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hhhhaaahhh... Yeessss-... Moooreee...</color>"
+ },
+ {
+  "k": "150",
+  "quem": "Liedryn (F)",
+  "en": "Greedy..~"
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghaaaahhh-..!!!</color>"
+ },
+ {
+  "k": "152",
+  "quem": "Liedryn (F)",
+  "en": "The famous Vibe-.. Dressed up as a streetwhore..."
+ },
+ {
+  "k": "153",
+  "quem": "Liedryn (F)",
+  "en": "-... Willingly walking into Peitho's arms just to get the sex drugs she so desparately wants-..."
+ },
+ {
+  "k": "154",
+  "quem": "Liedryn (F)",
+  "en": "Turning you into a Peitho agent without you even realizing it was the best idea I've had since joining Peitho, hehehe...~"
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>S-soo-.. Ghooddd-... Fghhh-.. Fffuuuckckkk-...</color>"
+ },
+ {
+  "k": "156",
+  "quem": "Liedryn (F)",
+  "en": "Once your body has exceeded its limits, your pussy will be unable to reject the tracking spike..."
+ },
+ {
+  "k": "157",
+  "quem": "Liedryn (F)",
+  "en": "From then on, we'll be able to track anyone dumb enough to fuck you..."
+ },
+ {
+  "k": "158",
+  "quem": "Liedryn (F)",
+  "en": "Considering your current occupation, that will make tracking down the resistance members all too easy...~"
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nghh Fghh Guhh-..</color>"
+ },
+ {
+  "k": "160",
+  "quem": "Liedryn (F)",
+  "en": "Enough talk-..."
+ },
+ {
+  "k": "161",
+  "quem": "Liedryn (F)",
+  "en": "Why don't you tell me how desparate you are for finally getting fucked by your favorite new cock, hmm..?~"
+ },
+ {
+  "k": "162",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Fuck me, please!!! Fuck my nasty whore pussy!! Please! I need your cock, please!!</color>"
+ },
+ {
+  "k": "163",
+  "quem": "Liedryn (F)",
+  "en": "Good slut."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes, yes, yesss!!!</color>"
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Guhhh-..!! Yess-..!! Fuck mee!!</color>"
+ },
+ {
+  "k": "166",
+  "quem": "Liedryn (F)",
+  "en": "This is just where you belong, <i>Vibe</i>...~"
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Guhhhh-... Yessss-...!!</color>"
+ },
+ {
+  "k": "168",
+  "quem": "Liedryn (F)",
+  "en": "Heheheh... Nasty drugged slut..."
+ },
+ {
+  "k": "169",
+  "quem": "Liedryn (F)",
+  "en": "You're almost ready now-...~"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes-.. <b>Yess-..!~</b> <size=55><b>Yessss!!!</b></size></color>"
+ },
+ {
+  "k": "171",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><size=55><b>Gaaaahhh!!! Yesssss-...!!!!~</b></size></color>"
+ },
+ {
+  "k": "172",
+  "quem": "Liedryn (F)",
+  "en": "Good-... You're ready now, hehehe...~"
+ },
+ {
+  "k": "173",
+  "quem": "Narrador",
+  "en": "<i>Liedryn leaves shortly before returning with a small pill-like device.</i>"
+ },
+ {
+  "k": "174",
+  "quem": "Narrador",
+  "en": "<i>My vision turns black as she inserts the device into my cum-filled pussy...</i>"
+ }
+]

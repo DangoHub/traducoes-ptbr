@@ -1,0 +1,1248 @@
+[
+ {
+  "k": "1",
+  "cena": "FF_Sublevel1_Guard_1",
+  "quem": "Fiend",
+  "en": "Wow! You strong! You push Touched back? Thank!"
+ },
+ {
+  "k": "2",
+  "cena": "FF_Sublevel1_Guard_2",
+  "quem": "Fiend",
+  "en": "Thank for clear this place! Had friends lost. Thank much!"
+ },
+ {
+  "k": "3",
+  "cena": "FF_Sublevel1_Guard_3",
+  "quem": "Fiend",
+  "en": "Still need guard for Touched. Won't let past. Thank for help though."
+ },
+ {
+  "k": "4",
+  "cena": "FF_Sublevel1_Guard_4",
+  "quem": "Fiend",
+  "en": "You fought Touched and won?! Rida, Mina and Rot not only ones to do that now! You strong! Must fuck lots!"
+ },
+ {
+  "k": "5",
+  "cena": "FF_Sublevel_2_Epilogue_JessJames_1",
+  "quem": "Jewel (F)",
+  "en": "Oh! Looks like you two found each other!"
+ },
+ {
+  "k": "6",
+  "quem": "Jess (F)",
+  "en": "Yes! Omg! Thank you like so much!"
+ },
+ {
+  "k": "7",
+  "quem": "Throb (M)",
+  "en": "... Did she really just say 'o m g' out loud?"
+ },
+ {
+  "k": "8",
+  "quem": "James (M)",
+  "en": "Haha. Yes, she's a real doll like that."
+ },
+ {
+  "k": "9",
+  "quem": "Jess (F)",
+  "en": "Oh stop, James! Heheh. I'm just happy you're okay!"
+ },
+ {
+  "k": "10",
+  "quem": "James (M)",
+  "en": "Me too, babe. It's good to be back with my honey! Haha."
+ },
+ {
+  "k": "11",
+  "quem": "Jess (F)",
+  "en": "Erm... Is something... wrong?"
+ },
+ {
+  "k": "12",
+  "quem": "Jewel (F)",
+  "en": "She's just uh... dealing with-"
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "With a bad stomach ache! Ouch. My stomach."
+ },
+ {
+  "k": "14",
+  "quem": "Jess (F)",
+  "en": "... Oh. Well I hope that gets better soon."
+ },
+ {
+  "k": "15",
+  "quem": "James (M)",
+  "en": "Thank you again for saving me. I don't know how we can repay you."
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "Just... keep loving each other. Don't screw it up."
+ },
+ {
+  "k": "17",
+  "quem": "Throb (M)",
+  "en": "Welp, look at the time. I think we should get going. Lots of hero stuff to do."
+ },
+ {
+  "k": "18",
+  "quem": "Throb (M)",
+  "en": "Come on partner, let's get you some fresh air."
+ },
+ {
+  "k": "19",
+  "quem": "James (M)",
+  "en": "Oh! Okay, well. Thanks again!"
+ },
+ {
+  "k": "20",
+  "quem": "Jess (F)",
+  "en": "Yes! Thank you! We should really get going too. We've got places to explore after all."
+ },
+ {
+  "k": "21",
+  "quem": "Jenna (F)",
+  "en": "See ya."
+ },
+ {
+  "k": "22",
+  "cena": "FF_TouchedFight_PostLoss",
+  "quem": "Jenna (F)",
+  "en": "Uggh..."
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "W-... Where are we?"
+ },
+ {
+  "k": "24",
+  "quem": "Char_Fiend_HQ",
+  "en": "Jenna! Jenna okay?"
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "I... Yeah, I think so."
+ },
+ {
+  "k": "26",
+  "quem": "Char_Fiend_HQ",
+  "en": "HQ helped. HQ brought you back with Rida help."
+ },
+ {
+  "k": "27",
+  "quem": "Jenna (F)",
+  "en": "Wow... Thanks, bud."
+ },
+ {
+  "k": "28",
+  "quem": "Jewel (F)",
+  "en": "Yeah. Thanks a bunch."
+ },
+ {
+  "k": "29",
+  "quem": "Throb (M)",
+  "en": "Mhm... Thank you."
+ },
+ {
+  "k": "30",
+  "quem": "Char_Fiend_HQ",
+  "en": "Friends of Jenna is friends of HQ!"
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "You didn't uhh... Happen to see much, did you?"
+ },
+ {
+  "k": "32",
+  "quem": "Rida (F)",
+  "en": "We saw lots, Carcen."
+ },
+ {
+  "k": "33",
+  "quem": "Jewel (F)",
+  "en": "You're free to see a lot more, muscles."
+ },
+ {
+  "k": "34",
+  "quem": "Rida (F)",
+  "en": "Rida like slutty girl."
+ },
+ {
+  "k": "35",
+  "quem": "Jewel (F)",
+  "en": "Jewel like you too, sexy."
+ },
+ {
+  "k": "36",
+  "quem": "Throb (M)",
+  "en": "Are you just gonna hit on everyone you see?"
+ },
+ {
+  "k": "37",
+  "quem": "Jewel (F)",
+  "en": "Of course!"
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "Eheh! We should uh... We should probably get back to it."
+ },
+ {
+  "k": "39",
+  "quem": "Jewel (F)",
+  "en": "Back to getting fucked?"
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Back to fighting of course!"
+ },
+ {
+  "k": "41",
+  "quem": "Jewel (F)",
+  "en": "Oooh, so that's what that was."
+ },
+ {
+  "k": "42",
+  "cena": "FF_TouchedFight_PostLoss_Other",
+  "quem": "Jenna (F)",
+  "en": "Uggh..."
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "... Dammit!"
+ },
+ {
+  "k": "44",
+  "quem": "Throb (M)",
+  "en": "That's #LossCount# times we've lost now..."
+ },
+ {
+  "k": "45",
+  "cena": "FF_TouchedFight_PostLoss_Special",
+  "quem": "Jenna (F)",
+  "en": "Mmf..."
+ },
+ {
+  "k": "46",
+  "quem": "Jewel (F)",
+  "en": "If I didn't know better, I'd say you're <b>trying</b> to get us fucked over and over again."
+ },
+ {
+  "k": "47",
+  "quem": "Jewel (F)",
+  "en": "You must really love being forced, you little slut~"
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "E-Erm..."
+ },
+ {
+  "k": "49",
+  "quem": "Throb (M)",
+  "en": "Let's just get back to it."
+ },
+ {
+  "k": "50",
+  "quem": "Jewel (F)",
+  "en": "You hear that, blue? Back to getting fucked like a little submissive bitch~"
+ },
+ {
+  "k": "51",
+  "cena": "FF_TouchedFight_Subleve1_FirstFightWon",
+  "quem": "Jenna (F)",
+  "en": "Simple! These Touched guys aren't too tough after all!"
+ },
+ {
+  "k": "52",
+  "quem": "Jewel (F)",
+  "en": "We've still got a lot more to go, blue."
+ },
+ {
+  "k": "53",
+  "quem": "Jenna (F)",
+  "en": "We'll be fine, guys. Just stick with me!"
+ },
+ {
+  "k": "54",
+  "cena": "FF_TouchedFight_Sublevel1_Conclusion",
+  "quem": "Jenna (F)",
+  "en": "Phew! Simple!"
+ },
+ {
+  "k": "55",
+  "quem": "Jewel (F)",
+  "en": "Awesome job, guys! We did it!"
+ },
+ {
+  "k": "56",
+  "quem": "Throb (M)",
+  "en": "We did! We're a hell of a team together."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "Damn right. We should head back to Rida now to let her know that we cleared out this sublevel. Come on!"
+ },
+ {
+  "k": "58",
+  "cena": "FF_TouchedFight_Sublevel1_DoorLocked",
+  "quem": "Jenna (F)",
+  "en": "Damn. It's locked!"
+ },
+ {
+  "k": "59",
+  "quem": "Throb (M)",
+  "en": "We should probably focus on fixing this first sublevel anyways."
+ },
+ {
+  "k": "60",
+  "quem": "Jewel (F)",
+  "en": "Yeah! Come on, blue. Let's get to it!"
+ },
+ {
+  "k": "61",
+  "cena": "FF_TouchedFight_Sublevel1_Intro_1",
+  "quem": "Jenna (F)",
+  "en": "That wasn't too bad!"
+ },
+ {
+  "k": "62",
+  "quem": "Jewel (F)",
+  "en": "We only just walked down the stairs, blue!"
+ },
+ {
+  "k": "63",
+  "quem": "Throb (M)",
+  "en": "But I mean... she is right. It wasn't that bad at all."
+ },
+ {
+  "k": "64",
+  "quem": "Jenna (F)",
+  "en": "See? Throb knows!"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "Now let's keep an eye out for the Touched. We don't want to get caught by surprise."
+ },
+ {
+  "k": "66",
+  "quem": "Jewel (F)",
+  "en": "Uhhh... Look over there, blue."
+ },
+ {
+  "k": "67",
+  "cena": "FF_TouchedFight_Sublevel1_Intro_2",
+  "quem": "Touched (M)",
+  "en": "<color=perversion>hHh...</color>"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "Oh! Well there we go."
+ },
+ {
+  "k": "69",
+  "quem": "Throb (M)",
+  "en": "Looks like they're wearing the same sort of garb that the fiends wear."
+ },
+ {
+  "k": "70",
+  "quem": "Jenna (F)",
+  "en": "I guess these are the members of the tribe that Rida talked about... The ones that lost themselves to sex."
+ },
+ {
+  "k": "71",
+  "quem": "Jewel (F)",
+  "en": "I mean... There's worse things you could lose yourself to."
+ },
+ {
+  "k": "72",
+  "quem": "Throb (M)",
+  "en": "Doubtful."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "Alright guys. Let's go take them on. Faster we take care of them, faster I find Karen."
+ },
+ {
+  "k": "74",
+  "quem": "Jewel (F)",
+  "en": "Lead the way, babe!"
+ },
+ {
+  "k": "75",
+  "cena": "FF_TouchedFight_Sublevel1_Loss",
+  "quem": "Narrador",
+  "en": "<i>I sink down to my feet, gasping out in defeat.</i>"
+ },
+ {
+  "k": "76",
+  "quem": "Jenna (F)",
+  "en": "C-Crap..."
+ },
+ {
+  "k": "77",
+  "quem": "Narrador",
+  "en": "<i>One of my opponents fills my view with his... his huge cock... I can't see the rest of my group.</i>"
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "E-Erm... Maybe you and I can come to some sort of... compromise?"
+ },
+ {
+  "k": "79",
+  "quem": "Narrador",
+  "en": "<i>He doesn't seem too interested in a compromise. I find myself quickly forced against the wall, too weak to resist. I can feel his big pulsing cock slap between my cheeks.</i>"
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "<i>(Oh boy.)</i>"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "C-Come on! No need to be so anal about this!"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "G-Gah! I s-shouldn't have said that!"
+ },
+ {
+  "k": "83",
+  "quem": "Narrador",
+  "en": "<i>His cock pops out of my ass. Is he done?!</i>"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "Eep!"
+ },
+ {
+  "k": "85",
+  "quem": "Narrador",
+  "en": "<i>His cock is pushing so deep... It feels... <color=perversion>It feels good...</color></i>"
+ },
+ {
+  "k": "86",
+  "quem": "Narrador",
+  "en": "<i>What am I thinking? I... I... <color=perversion>I want more~</color></i>"
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>M-Mooore~</color>"
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "Ffffhah~"
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "I-I'm gonna..."
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Cuuuuum~</color>"
+ },
+ {
+  "k": "91",
+  "quem": "Narrador",
+  "en": "<i>My entire body quivers in orgasm, forcing little whimpers out of me while he keeps slamming his cock deep into my clenching hole.</i>"
+ },
+ {
+  "k": "92",
+  "quem": "Narrador",
+  "en": "<i>He doesn't seem to be anywhere near done with me, but I'm already so... drained... Something about the way he's fucking me seems to be making my muscles tire so quickly.</i>"
+ },
+ {
+  "k": "93",
+  "quem": "Narrador",
+  "en": "<i>Getting... hard to keep eyes... open...</i>"
+ },
+ {
+  "k": "94",
+  "cena": "FF_TouchedFight_Sublevel1_ReturnToRida_1",
+  "quem": "Jenna (F)",
+  "en": "Heya Rida! Got good news-"
+ },
+ {
+  "k": "95",
+  "quem": "Narrador",
+  "en": "<i>I pause in surprise, realizing that Rida and Mina are at it again.</i>"
+ },
+ {
+  "k": "96",
+  "tipo": "escolha",
+  "en": "<color=perversion>[Futa] Watch them.</color>"
+ },
+ {
+  "k": "97",
+  "tipo": "escolha",
+  "en": "Look away and wait for them to finish."
+ },
+ {
+  "k": "98",
+  "cena": "FF_TouchedFight_Sublevel1_ReturnToRida_1_LookAway",
+  "quem": "Jenna (F)",
+  "en": "Agh! Jeez!"
+ },
+ {
+  "k": "99",
+  "quem": "Jewel (F)",
+  "en": "Awh, you're so adorably prude, blue!"
+ },
+ {
+  "k": "100",
+  "quem": "Throb (M)",
+  "en": "... Phew..."
+ },
+ {
+  "k": "101",
+  "quem": "Narrador",
+  "en": "<i>I turn away and wait patiently for them to finish, trying to ignore the sounds of their constant moaning and groaning.</i>"
+ },
+ {
+  "k": "102",
+  "cena": "FF_TouchedFight_Sublevel1_ReturnToRida_1_Watch",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Mina good girl~</color>"
+ },
+ {
+  "k": "103",
+  "quem": "Mina (F)",
+  "en": "<color=perversion>M-Mina goood~</color>"
+ },
+ {
+  "k": "104",
+  "quem": "Jewel (F)",
+  "en": "Mmmmm~"
+ },
+ {
+  "k": "105",
+  "quem": "Throb (M)",
+  "en": "... Phew..."
+ },
+ {
+  "k": "106",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Rida not done yet though~</color>"
+ },
+ {
+  "k": "107",
+  "quem": "Mina (F)",
+  "en": "<color=perversion>Rida not donee~</color>"
+ },
+ {
+  "k": "108",
+  "quem": "Mina (F)",
+  "en": "<color=perversion>H-Haaah~</color>"
+ },
+ {
+  "k": "109",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Mmm~ Mina such tight girl~</color>"
+ },
+ {
+  "k": "110",
+  "quem": "Mina (F)",
+  "en": "<color=perversion>M-Mina happy~</color>"
+ },
+ {
+  "k": "111",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Mina good~</color>"
+ },
+ {
+  "k": "112",
+  "quem": "Mina (F)",
+  "en": "<color=perversion>Mina goood~ Mmmm~!</color>"
+ },
+ {
+  "k": "113",
+  "quem": "Rida (F)",
+  "en": "<color=perversion>Aaah~ Mina so good~</color>"
+ },
+ {
+  "k": "114",
+  "quem": "Mina (F)",
+  "en": "<color=perversion>Thank Ridaaa~</color>"
+ },
+ {
+  "k": "115",
+  "quem": "Narrador",
+  "en": "<i>The two soon notice us, scrambling to their feet.</i>"
+ },
+ {
+  "k": "116",
+  "cena": "FF_TouchedFight_Sublevel1_ReturnToRida_2",
+  "quem": "Rida (F)",
+  "en": "Aah... That good. Oh- Carcens. Rida not notice you."
+ },
+ {
+  "k": "117",
+  "quem": "Jewel (F)",
+  "en": "You did seem a little busy."
+ },
+ {
+  "k": "118",
+  "quem": "Rida (F)",
+  "en": "You want get busy too, Carcen? Rida make you strong, put meat on you bones~"
+ },
+ {
+  "k": "119",
+  "quem": "Jewel (F)",
+  "en": "I'd rather you put some meat IN my bones, babe."
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "Uhhh... I don't think that makes too much sense."
+ },
+ {
+  "k": "121",
+  "quem": "Jewel (F)",
+  "en": "Damn. Oh well, I tried."
+ },
+ {
+  "k": "122",
+  "quem": "Rida (F)",
+  "en": "Rida hear sublevel one ours again. Hear people rescued from Touched. Tribe already fixing sublevel one."
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "Yepper! We cleared out that sublevel like you said. Was fairly easy."
+ },
+ {
+  "k": "124",
+  "quem": "Rida (F)",
+  "en": "Good! Rida happy!"
+ },
+ {
+  "k": "125",
+  "quem": "Mina (F)",
+  "en": "Carcens... They beat Touched...?"
+ },
+ {
+  "k": "126",
+  "quem": "Rot (F)",
+  "en": "They stronger than we thought..."
+ },
+ {
+  "k": "127",
+  "quem": "Mina (F)",
+  "en": "Or they trick us."
+ },
+ {
+  "k": "128",
+  "quem": "Rida (F)",
+  "en": "Quiet."
+ },
+ {
+  "k": "129",
+  "quem": "Rida (F)",
+  "en": "Carcens. Rida want you head back down. We quaran... quarant... We separated rescued Touched to tents in sublevel one."
+ },
+ {
+  "k": "130",
+  "quem": "Rida (F)",
+  "en": "Rida want you go to tents and help with reha-..."
+ },
+ {
+  "k": "131",
+  "quem": "Rida (F)",
+  "en": "Rehabi...-"
+ },
+ {
+  "k": "132",
+  "quem": "Rida (F)",
+  "en": "Rida want you help!"
+ },
+ {
+  "k": "133",
+  "quem": "Rida (F)",
+  "en": "Rida meet you there."
+ },
+ {
+  "k": "134",
+  "cena": "FF_TouchedFight_Sublevel1_TryUseLockedDoor",
+  "quem": "Jenna (F)",
+  "en": "Locked. Damn."
+ },
+ {
+  "k": "135",
+  "quem": "Throb (M)",
+  "en": "Huh... Looks like there's a few slots here for keycards. Two of them."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "Keycards? Now that's old school!"
+ },
+ {
+  "k": "137",
+  "cena": "FiendBreakout_Bar_1",
+  "quem": "Jenna (F)",
+  "en": "I just... I just don't know what to do..."
+ },
+ {
+  "k": "138",
+  "quem": "Jewel (F)",
+  "en": "I'm sorry, blue... "
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "She w-was the reason I came this far... I was s-so focused on finding her... but now I have n-nothing to fight for..."
+ },
+ {
+  "k": "140",
+  "quem": "Jewel (F)",
+  "en": "It always hurts at first, but you just have to find a way to move forward. Focus on you, y'know? Time will heal the pain."
+ },
+ {
+  "k": "141",
+  "quem": "Throb (M)",
+  "en": "What about standing up to GAG? You need to hold onto hope... Don't give up now when she's so close..."
+ },
+ {
+  "k": "142",
+  "quem": "Jewel (F)",
+  "en": "Have you seen how she treats her, Throb? She's anything but close."
+ },
+ {
+  "k": "143",
+  "quem": "Jewel (F)",
+  "en": "Jenna can't just keep putting herself through the emotional meat grinder, it's gonna tear her apart. She needs to heal."
+ },
+ {
+  "k": "144",
+  "quem": "Throb (M)",
+  "en": "Really, Jewel? There is so much at stake...  and she's a hero! She can do it because she's the strongest of us there is."
+ },
+ {
+  "k": "145",
+  "quem": "Jewel (F)",
+  "en": "She's not a machine, she's a human being."
+ },
+ {
+  "k": "146",
+  "quem": "Throb (M)",
+  "en": "What's so wrong with being a machine? Andros are people too."
+ },
+ {
+  "k": "147",
+  "quem": "Jewel (F)",
+  "en": "Don't start with the andro shit now. They're the reason the world is even in this whole mess in the first place."
+ },
+ {
+  "k": "148",
+  "quem": "Jenna (F)",
+  "en": "She was the only r-relationship I've ever had... Knew her since the s-seventh grade of school..."
+ },
+ {
+  "k": "149",
+  "quem": "Throb (M)",
+  "en": "That's why you can't give up now. All those years will be wasted..."
+ },
+ {
+  "k": "150",
+  "quem": "Jewel (F)",
+  "en": "Breakups happen, Throb. It doesn't mean she has to throw her whole life away just to go after this girl who wants to kill her."
+ },
+ {
+  "k": "151",
+  "quem": "Jewel (F)",
+  "en": "Jenna... Listen... You don't have to be trapped in this whole hero gig. You can give yourself attention... and cope with this."
+ },
+ {
+  "k": "152",
+  "quem": "Throb (M)",
+  "en": "How would she cope, Jewel? Don't say large amounts of sex..."
+ },
+ {
+  "k": "153",
+  "quem": "Jewel (F)",
+  "en": "Large amounts of sex!"
+ },
+ {
+  "k": "154",
+  "quem": "Throb (M)",
+  "en": "You can't just bury your problems in sex..."
+ },
+ {
+  "k": "155",
+  "quem": "Jewel (F)",
+  "en": "It's worked well for me so far."
+ },
+ {
+  "k": "156",
+  "quem": "Throb (M)",
+  "en": "What problems could you possibly have, Jewel? Everyone in the town loves you. You bang everyone in sight..."
+ },
+ {
+  "k": "157",
+  "quem": "Throb (M)",
+  "en": "You don't know what suffering is like."
+ },
+ {
+  "k": "158",
+  "quem": "Jewel (F)",
+  "en": "I've lost people too! Do you see me letting it control my life? NO! I'm making do with the cards that were fucking dealt to me!"
+ },
+ {
+  "k": "159",
+  "quem": "Jewel (F)",
+  "en": "You're really gonna try and pull me down just because I try to make the world fun?"
+ },
+ {
+  "k": "160",
+  "quem": "Throb (M)",
+  "en": "You're acting like everything is lost."
+ },
+ {
+  "k": "161",
+  "quem": "Jewel (F)",
+  "en": "Look around you, Throb. The world hit a brick fucking wall five years ago. Let's just make the best of it we can."
+ },
+ {
+  "k": "162",
+  "quem": "Jewel (F)",
+  "en": "Sex is fun! Being with people and flirting with them is wonderful! Stick with people that love you, not hate you!"
+ },
+ {
+  "k": "163",
+  "quem": "Throb (M)",
+  "en": "Sometimes you don't have a choice..."
+ },
+ {
+  "k": "164",
+  "quem": "Jewel (F)",
+  "en": "Exactly, but Jenna does right now."
+ },
+ {
+  "k": "165",
+  "quem": "Jewel (F)",
+  "en": "What do you think, blue? Having some fun will get it off your mind until it's fully healed. Then you don't have to hurt."
+ },
+ {
+  "k": "166",
+  "quem": "Throb (M)",
+  "en": "Partner... Please don't give up. There are so many people counting on you. Karen is still in there. The hurt will be worth it."
+ },
+ {
+  "k": "167",
+  "tipo": "escolha",
+  "en": "<color=perversion>Give up on Karen and be a slut in Carceburg.</color>"
+ },
+ {
+  "k": "168",
+  "tipo": "escolha",
+  "en": "<color=pure>Continue fighting for Karen.</color>"
+ },
+ {
+  "k": "169",
+  "cena": "FiendBreakout_Bar_Lewd",
+  "quem": "Jenna (F)",
+  "en": "<i>(Sorry, Karen...)</i>"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "I can't do this anymore..."
+ },
+ {
+  "k": "171",
+  "quem": "Throb (M)",
+  "en": "Jenna..."
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "No. It's over. She's... She's gone. I need to move on."
+ },
+ {
+  "k": "173",
+  "quem": "Jewel (F)",
+  "en": "With large amounts of sex?"
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Yeah... exactly."
+ },
+ {
+  "k": "175",
+  "quem": "Throb (M)",
+  "en": "No! You can't do this!"
+ },
+ {
+  "k": "176",
+  "quem": "Jewel (F)",
+  "en": "You don't tell her what she can and can't do."
+ },
+ {
+  "k": "177",
+  "quem": "Throb (M)",
+  "en": "... Fine... I thought we were going to make a difference, but you're just going to go with the flow like the rest of the town."
+ },
+ {
+  "k": "178",
+  "quem": "Jewel (F)",
+  "en": "Life sucks, Throb. Might as well make the most of it and have a good time. You should find your buddy and have some fun too."
+ },
+ {
+  "k": "179",
+  "quem": "Throb (M)",
+  "en": "Alright... I'm going to go then... Sorry..."
+ },
+ {
+  "k": "180",
+  "cena": "FiendBreakout_Bar_Lewd_1",
+  "quem": "Jewel (F)",
+  "en": "Things are gonna be better for you now, Jenna. I promise. You just gotta have as much fun as you can with as much people as you can."
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "That... doesn't sound too bad."
+ },
+ {
+  "k": "182",
+  "quem": "Jewel (F)",
+  "en": "Right~? You should ask Martin for some work if you haven't already. Lotsa hungry boys to have fun with during the nightshift."
+ },
+ {
+  "k": "183",
+  "quem": "Jenna (F)",
+  "en": "Sounds good!"
+ },
+ {
+  "k": "184",
+  "quem": "Jewel (F)",
+  "en": "And come to me if you wanna hang out."
+ },
+ {
+  "k": "185",
+  "quem": "Jenna (F)",
+  "en": "Will do!"
+ },
+ {
+  "k": "186",
+  "quem": "Narrador",
+  "en": "<i>She gives me a quick pat on the butt.</i>"
+ },
+ {
+  "k": "187",
+  "quem": "Jewel (F)",
+  "en": "Atta girl.. And don't worry about Throb, I'm sure he'll come back around someday."
+ },
+ {
+  "k": "188",
+  "quem": "Jenna (F)",
+  "en": "Yeah..."
+ },
+ {
+  "k": "189",
+  "quem": "Jewel (F)",
+  "en": "Chin up! You've got a ton of fucking ahead of you! I can see it in your future."
+ },
+ {
+  "k": "190",
+  "quem": "Jenna (F)",
+  "en": "Fucking sounds <color=perversion>reaallly good...</color>"
+ },
+ {
+  "k": "191",
+  "cena": "FiendBreakout_Bar_Pure",
+  "quem": "Jenna (F)",
+  "en": "I can't give up on her... I'm gonna keep trying."
+ },
+ {
+  "k": "192",
+  "quem": "Jewel (F)",
+  "en": "Blue..."
+ },
+ {
+  "k": "193",
+  "quem": "Jenna (F)",
+  "en": "I know... I know... but I just wouldn't be able to live with myself unless I knew I did everything I possibly can."
+ },
+ {
+  "k": "194",
+  "quem": "Throb (M)",
+  "en": "Thank you, Jenna..."
+ },
+ {
+  "k": "195",
+  "quem": "Jewel (F)",
+  "en": "Alright, hun... I'll stick it out with ya then."
+ },
+ {
+  "k": "196",
+  "quem": "Throb (M)",
+  "en": "Me too!"
+ },
+ {
+  "k": "197",
+  "quem": "Jenna (F)",
+  "en": "Thanks guys... Let's just... get back to the prison tent. I wanna keep trying to get through to her."
+ },
+ {
+  "k": "198",
+  "quem": "Throb (M)",
+  "en": "Sounds like a plan. I've got your back, partner."
+ },
+ {
+  "k": "199",
+  "quem": "Jewel (F)",
+  "en": "Will be nice to see her again, honestly. She's a hottie even though she's got a temper. You've got good taste, blue."
+ },
+ {
+  "k": "200",
+  "quem": "Jenna (F)",
+  "en": "Heh..."
+ },
+ {
+  "k": "201",
+  "cena": "FiendBreakout_CaveIntro_1",
+  "quem": "Arnold (M)",
+  "en": "You came!"
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "Do you always say that with such surprise?"
+ },
+ {
+  "k": "203",
+  "quem": "Arnold (M)",
+  "en": "Huh? Oh- Pffft. I don't know what you're talking about, the ladies love me!"
+ },
+ {
+  "k": "204",
+  "quem": "Jenna (F)",
+  "en": "Suure they do. Now are you going to tell me who you guys are and what you want?"
+ },
+ {
+  "k": "205",
+  "quem": "Arnold (M)",
+  "en": "In time... But the others want you to prove yourself... Just in case you're... somehow working with the GAG."
+ },
+ {
+  "k": "206",
+  "quem": "Jenna (F)",
+  "en": "I'm not..."
+ },
+ {
+  "k": "207",
+  "quem": "Jenna (F)",
+  "en": "<i>(I'm only hiding one of them away... and she's my girlfriend...)</i>"
+ },
+ {
+  "k": "208",
+  "quem": "Arnold (M)",
+  "en": "So there's nothing to worry about! Come on, I'll light the way. You just gotta squeeze in through this hole we dug ou- I mean errr... this hole that we found."
+ },
+ {
+  "k": "209",
+  "quem": "Jenna (F)",
+  "en": "It's not a trap, right?"
+ },
+ {
+  "k": "210",
+  "quem": "Arnold (M)",
+  "en": "I promise it's not."
+ },
+ {
+  "k": "211",
+  "quem": "Jenna (F)",
+  "en": "Alright then."
+ },
+ {
+  "k": "212",
+  "quem": "Narrador",
+  "en": "<i>He pulls out a little lamp and turns it on, lighting up the hole. With his help I'm able to see my way through, and he follows in after me.</i>"
+ },
+ {
+  "k": "213",
+  "cena": "FiendBreakout_Escape_Complete",
+  "quem": "Jenna (F)",
+  "en": "Phew! That was a close one! Good job, HQ!"
+ },
+ {
+  "k": "214",
+  "quem": "Char_Fiend_HQ",
+  "en": "HQ thanks!"
+ },
+ {
+  "k": "215",
+  "quem": "Jenna (F)",
+  "en": "You too, Floria. That holdout saved our asses."
+ },
+ {
+  "k": "216",
+  "quem": "Floria (F)",
+  "en": "Thank you, Jenna!"
+ },
+ {
+  "k": "217",
+  "quem": "Throb (M)",
+  "en": "So now what?"
+ },
+ {
+  "k": "218",
+  "quem": "Karen (F)",
+  "en": "Now we follow the tunnel, dumbass."
+ },
+ {
+  "k": "219",
+  "quem": "Throb (M)",
+  "en": "Oh... that makes sense..."
+ },
+ {
+  "k": "220",
+  "cena": "FiendBreakout_Exit_AbandonedHouse",
+  "quem": "Jenna (F)",
+  "en": "<i>(Can't leave just yet. Still got things to do here...)</i>"
+ },
+ {
+  "k": "221",
+  "cena": "FiendBreakout_Exit_Fiends",
+  "quem": "Jenna (F)",
+  "en": "<i>(We can't go back this way... The fiends will get us...)</i>"
+ },
+ {
+  "k": "222",
+  "cena": "FiendBreakout_FirstLightTap_Complete",
+  "quem": "Char_Fiend_HQ",
+  "en": "Ah! HQ have control now!"
+ },
+ {
+  "k": "223",
+  "quem": "Jenna (F)",
+  "en": "Crap! You scared me!"
+ },
+ {
+  "k": "224",
+  "quem": "Char_Fiend_HQ",
+  "en": "Oh- HQ sorry. HQ have commun- communi... HQ have talking thing in signal finder!"
+ },
+ {
+  "k": "225",
+  "quem": "Jenna (F)",
+  "en": "Gotcha. So is my work done out here?"
+ },
+ {
+  "k": "226",
+  "quem": "Char_Fiend_HQ",
+  "en": "All done! HQ turn lights down now!"
+ },
+ {
+  "k": "227",
+  "cena": "FiendBreakout_Hub_Door_Initial",
+  "quem": "Jenna (F)",
+  "en": "It's locked! Shit!"
+ },
+ {
+  "k": "228",
+  "quem": "Jewel (F)",
+  "en": "Crap..."
+ },
+ {
+  "k": "229",
+  "quem": "Throb (M)",
+  "en": "We're toast..."
+ },
+ {
+  "k": "230",
+  "quem": "Karen (F)",
+  "en": "There's another way out, idiots."
+ },
+ {
+  "k": "231",
+  "quem": "Jenna (F)",
+  "en": "How do you know?"
+ },
+ {
+  "k": "232",
+  "quem": "Karen (F)",
+  "en": "I know because you left me in this place years ago. Remember, bitch?!"
+ },
+ {
+  "k": "233",
+  "quem": "Jenna (F)",
+  "en": "Right..."
+ },
+ {
+  "k": "234",
+  "quem": "Karen (F)",
+  "en": "On the lower floor. Let's go."
+ },
+ {
+  "k": "235",
+  "quem": "Jewel (F)",
+  "en": "We go deeper into the place to get out? That doesn't make sense."
+ },
+ {
+  "k": "236",
+  "quem": "Karen (F)",
+  "en": "How about you leave the directions to me, and you stick to sucking dick. Sound good, whore?"
+ },
+ {
+  "k": "237",
+  "quem": "Jenna (F)",
+  "en": "Let's just get out of here."
+ },
+ {
+  "k": "238",
+  "cena": "FiendBreakout_Hub_Door_Reminder",
+  "quem": "Karen (F)",
+  "en": "Yes, stupid. It's still locked. Want me to hold your fucking hand down to the lower floor?"
+ },
+ {
+  "k": "239",
+  "quem": "Jenna (F)",
+  "en": "Actually- yeah I do."
+ },
+ {
+  "k": "240",
+  "cena": "FiendBreakout_HubIntro_1",
+  "quem": "Mina (F)",
+  "en": "Carcens kidnap Rida! Stop Carcens!"
+ },
+ {
+  "k": "241",
+  "quem": "Fiend",
+  "en": "Carcens... bad?"
+ },
+ {
+  "k": "242",
+  "quem": "Mina (F)",
+  "en": "Yes! Carcens hurt tribe! Stop Carcens!"
+ },
+ {
+  "k": "243",
+  "quem": "Fiend",
+  "en": "Carcens bad!"
+ }
+]

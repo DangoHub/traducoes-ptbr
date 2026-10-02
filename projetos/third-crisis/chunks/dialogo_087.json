@@ -1,0 +1,930 @@
+[
+ {
+  "k": "1",
+  "cena": "OuterSH_IntroCombat",
+  "quem": "Jenna (F)",
+  "en": "<i>(Well well well. Guess I'm on the right track!)</i>"
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "HQ, can you read me?"
+ },
+ {
+  "k": "3",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: This is HQ, I can hear you loud and clear ::"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "There's Peitho soldiers in the forest. They're definitely here. Time to show them why you don't mess with us heroes!"
+ },
+ {
+  "k": "5",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: Alright, but be careful. ::"
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "You know me, HQ. Careful's my middle name!"
+ },
+ {
+  "k": "7",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: Jennifer 'Careful' Wright..? ::"
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "... It sounded better in my head."
+ },
+ {
+  "k": "9",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: Duly noted. Now remember, your vibrosuit is still having diagnostics done after our last engagement. It's in low power mode so you need to make do without dashing with it. ::"
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "I think I can handle these chumps without it. Thanks, big guy! "
+ },
+ {
+  "k": "11",
+  "cena": "OuterSH_IntroCombat2",
+  "quem": "Jenna (F)",
+  "en": "Heya! You all got a bad guy gathering permit?"
+ },
+ {
+  "k": "12",
+  "quem": "Soldier (M)",
+  "en": "Wha-- Who are you?"
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "What? I'm Jenna! The globetrotting adventurer and hero...?"
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "Really? You haven't heard of me?"
+ },
+ {
+  "k": "15",
+  "quem": "Narrador",
+  "en": "<i>The soldiers shrug and shake their heads, looking at each other in confusion.</i>"
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "Ugh... I'm... I'm Vibe!"
+ },
+ {
+  "k": "17",
+  "quem": "Soldier (M)",
+  "en": "Shit, that's Vibe! The globetrotting adventurer and hero!"
+ },
+ {
+  "k": "18",
+  "quem": "Jenna (F)",
+  "en": "Yep... that's me."
+ },
+ {
+  "k": "19",
+  "cena": "OuterSH_JokeTrigger",
+  "quem": "Jenna (F)",
+  "en": "Don't have time to catch monsters for battle, better keep moving."
+ },
+ {
+  "k": "20",
+  "cena": "OuterSH_LandingpadInvestigation",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: Come in Jenna, HQ here. I just finished the calibrations on your vibrosuit and I'm reading a lot of chronal vibrations going on with you right now. ::"
+ },
+ {
+  "k": "21",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: The suit is keeping them under control, but you need to be careful. Make sure the suit doesn't get damaged or who knows where you're going to end up. ::"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "I'll keep that in mind. Thanks, Henry!"
+ },
+ {
+  "k": "23",
+  "quem": "Jenna (F)",
+  "en": "I just wish I could control these time vibes of mine... Maybe I could go back and stop Karen from even getting in danger because of me."
+ },
+ {
+  "k": "24",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: Even if you could, there's no telling what could happen from just a simple change like that. You can't risk being lost to time. We'll get her back, Jenna. I promise. ::"
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "I know. I just..."
+ },
+ {
+  "k": "26",
+  "quem": "Narrador",
+  "en": "<i>I let out a soft sigh, before giving my head a quick shake.</i>"
+ },
+ {
+  "k": "27",
+  "quem": "Jenna (F)",
+  "en": "Anyways! I'll get back to you when I have something, bud! Jenna out!"
+ },
+ {
+  "k": "28",
+  "cena": "OuterSH_LandingpadInvestigation2",
+  "quem": "Jenna (F)",
+  "en": "Whoooa, they have an evil lair? That's so awesome!"
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "Hey HQ, I think I've found a base of some kind! It's got some kind of cave entrance and everything!"
+ },
+ {
+  "k": "30",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: That was fast. Wait for backup. We're on the way. ::"
+ },
+ {
+  "k": "31",
+  "quem": "Jenna (F)",
+  "en": "You know I can't just lay back and let them make Karen into a mind-controlled andro. I'm going in."
+ },
+ {
+  "k": "32",
+  "quem": "AIRSHIP_HQ",
+  "en": ":: No. You don't know how many there are in there. ::"
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "Backup might get here too late, HQ. Nothing's going to stop me from freeing my girlfriend. Jenna out!"
+ },
+ {
+  "k": "34",
+  "cena": "OuterSH_LookIntoAbandonedBuilding",
+  "quem": "Narrador",
+  "en": "<i>I peek around the room cautiously, greeted with nothing interesting.</i>"
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "<i>(Whoever used to live here is long gone now.)</i>"
+ },
+ {
+  "k": "36",
+  "cena": "OuterSH_LoveSigns",
+  "quem": "Jenna (F)",
+  "en": "I really love reading signs. Not like they're gonna say anything new."
+ },
+ {
+  "k": "37",
+  "cena": "OuterSH_OutroCombat",
+  "quem": "Karen (F)",
+  "en": "I'm not worried, just a little tied up at the moment."
+ },
+ {
+  "k": "38",
+  "quem": "Jenna (F)",
+  "en": "Not for long you're not. Not if I have anything to say about it."
+ },
+ {
+  "k": "39",
+  "quem": "???",
+  "en": "We'll see."
+ },
+ {
+  "k": "40",
+  "quem": "Narrador",
+  "en": "<i>Click!</i>"
+ },
+ {
+  "k": "41",
+  "quem": "Jenna (F)",
+  "en": "Karen? You still there, love?"
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Right then, back to business it is."
+ },
+ {
+  "k": "43",
+  "cena": "OuterSH_PressButton",
+  "quem": "Narrador",
+  "en": "<i>I approach the cliffside, resting my hand on the hard rock and taking a deep breath to utter the ancient passcode passed down through the generations.</i>"
+ },
+ {
+  "k": "44",
+  "quem": "Jenna (F)",
+  "en": "… Open sesame!"
+ },
+ {
+  "k": "45",
+  "quem": "Narrador",
+  "en": "<i>The rocks stay still, not even budging. I cross my arms at it in mild frustration.</i>"
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "Open! Uhh.. move!"
+ },
+ {
+  "k": "47",
+  "quem": "Narrador",
+  "en": "<i>I lean into the rocks, pressing my shoulder into them and trying to push at them with all my might.</i>"
+ },
+ {
+  "k": "48",
+  "quem": "Narrador",
+  "en": "<i>They don’t budge.</i>"
+ },
+ {
+  "k": "49",
+  "quem": "Jenna (F)",
+  "en": "Ugh.. maybe it needs a password?"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "Password!"
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "One two three?"
+ },
+ {
+  "k": "52",
+  "quem": "Jenna (F)",
+  "en": "Alpha - Bravo - Charlie - Delta!"
+ },
+ {
+  "k": "53",
+  "quem": "Jenna (F)",
+  "en": "Oooh, I got it. 123.. 4!"
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "<i>(This is soo going well.)</i>"
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "Peitho rules?"
+ },
+ {
+  "k": "56",
+  "quem": "Jenna (F)",
+  "en": "Gah, I don’t know..."
+ },
+ {
+  "k": "57",
+  "quem": "Jenna (F)",
+  "en": "Just let me in, will ya?!"
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "I'm in."
+ },
+ {
+  "k": "59",
+  "cena": "OuterSH_Sign",
+  "quem": "Narrador",
+  "en": "<b>Private Property. Do not enter.</b>"
+ },
+ {
+  "k": "60",
+  "cena": "OuterSH_SmellsCoffee",
+  "quem": "Narrador",
+  "en": "<i>I lean over the barrel, wrinkling my nose in disgust.</i>"
+ },
+ {
+  "k": "61",
+  "quem": "Jenna (F)",
+  "en": "<i>(Eugh! It's his compost, smells like rotting coffee.)</i>"
+ },
+ {
+  "k": "62",
+  "cena": "OuterSH_StartCoffee",
+  "quem": "Narrador",
+  "en": "<i>(After getting the coffee maker all setup, I press the power button and watch as the cup slowly fills with coffee)</i>"
+ },
+ {
+  "k": "63",
+  "quem": "Jenna (F)",
+  "en": "<i>(I guess he likes coffee black, no sugar or cream to be found.)</i>"
+ },
+ {
+  "k": "64",
+  "cena": "OuterSH_Stumped",
+  "quem": "Jenna (F)",
+  "en": "This place really has me..."
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "... stumped!"
+ },
+ {
+  "k": "66",
+  "cena": "OuterSH_WoodStack",
+  "quem": "Jenna (F)",
+  "en": "<i>(Looks like the owner of this house has to cut his own firewood. Makes sense out here in the deep forest.)</i>"
+ },
+ {
+  "k": "67",
+  "cena": "OuterSHD_Intro",
+  "quem": "Jenna (F)",
+  "en": "<i>(Great... Rain. Just got my outfit back and now it's gonna be ruined!)</i>"
+ },
+ {
+  "k": "68",
+  "quem": "Jenna (F)",
+  "en": "<i>(Wait a minute... How long was I out? It wasn't even close to night time when I came here...)</i>"
+ },
+ {
+  "k": "69",
+  "cena": "OuterSHD_LookAtDoor",
+  "quem": "Jenna (F)",
+  "en": "<i>(Well then. Guess that's what this building was used for. Makes a nice hidden exit.)</i>"
+ },
+ {
+  "k": "70",
+  "cena": "OuterSHD_MissingBra",
+  "quem": "Jenna (F)",
+  "en": "<i>(Guess I'm just going to have to make do without underwear.)</i>"
+ },
+ {
+  "k": "71",
+  "cena": "OuterSHD_SignJoke",
+  "quem": "Narrador",
+  "en": "<i>I bend over, peering down at the sign and noticing a heart carved into it.</i>"
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "<i>(Not even a day goes by and you're already cheating on me? For shame! I should have never trusted my heart to a sign!)</i>"
+ },
+ {
+  "k": "73",
+  "cena": "OutskirtsAfterPrologue_LookAtDoor",
+  "en": "<i>(There used to be a door here... It must have closed somehow.)</i>"
+ },
+ {
+  "k": "74",
+  "cena": "OutskirtsAfterPrologue_ReturnVictimHome",
+  "quem": "Woman (F)",
+  "en": "Let goooo!"
+ },
+ {
+  "k": "75",
+  "quem": "Jenna (F)",
+  "en": "Where do you live?"
+ },
+ {
+  "k": "76",
+  "quem": "Woman (F)",
+  "en": "Lemme goooo! I'll go there myself! Let goooo, biatch!"
+ },
+ {
+  "k": "77",
+  "quem": "Jenna (F)",
+  "en": "Sheesh. Fine. You're welcome by the way."
+ },
+ {
+  "k": "78",
+  "cena": "OutskirtsAfterPrologue_TalkToWoman",
+  "quem": "Jenna (F)",
+  "en": "Hey! Are you alright?!"
+ },
+ {
+  "k": "79",
+  "quem": "Woman (F)",
+  "en": "Haaah... So biiig..."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "Huh? What are you talking about?"
+ },
+ {
+  "k": "81",
+  "quem": "Woman (F)",
+  "en": "Mmmm..."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "<i>(She seems a little out of it...)</i>"
+ },
+ {
+  "k": "83",
+  "quem": "Woman (F)",
+  "en": "Sooo... many... sooo primal... haaah..."
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "Alright... Let's get you out of here..."
+ },
+ {
+  "k": "85",
+  "quem": "Woman (F)",
+  "en": "Wish they... take meee... with them... mmmm~"
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "Come on, ma'am. Let's get back to town."
+ },
+ {
+  "k": "87",
+  "cena": "Painting reaction",
+  "quem": "Jenna (F)",
+  "en": "There is cum on the painting."
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "Someone must have really liked it."
+ },
+ {
+  "k": "89",
+  "cena": "Party Event 1",
+  "en": "right after the player 'interacts' with whatever it is that sets off the party evenn, screen fades to black"
+ },
+ {
+  "k": "90",
+  "en": "We began to set up preparations for the event, while Throb snuck out to give the word the event was starting."
+ },
+ {
+  "k": "91",
+  "en": "Slowly but surely, the venue began to fill up as people poured in, eager to experience some kind of relief after Peitho's oppressive measures took hold."
+ },
+ {
+  "k": "92",
+  "en": "<i>(Wow...I had no idea this place could fit so many people...)</i>"
+ },
+ {
+  "k": "93",
+  "cena": "Party Event 2",
+  "en": "fade in, jenna and jewel on stage with MASSIVE audience looking at them"
+ },
+ {
+  "k": "94",
+  "en": "Thank you all so much coming! Sapphire and I are both excited to see you all here!"
+ },
+ {
+  "k": "95",
+  "en": "We're ready to give it our all and put on the best show ever in the history of Carceburg!"
+ },
+ {
+  "k": "96",
+  "en": "Are...you...ready?!"
+ },
+ {
+  "k": "97",
+  "en": "Yeah!"
+ },
+ {
+  "k": "98",
+  "en": "I don't think I heard them very clearly, Jewel."
+ },
+ {
+  "k": "99",
+  "en": "What was that? Are you ready?!"
+ },
+ {
+  "k": "100",
+  "en": "Yeaaaaaaaaaaaaaaaaaaaah!"
+ },
+ {
+  "k": "101",
+  "en": "Now that's more like it!"
+ },
+ {
+  "k": "102",
+  "en": "Cue the music!"
+ },
+ {
+  "k": "103",
+  "en": "start dance event"
+ },
+ {
+  "k": "104",
+  "cena": "Party Event 3",
+  "en": "plays after the dance is over"
+ },
+ {
+  "k": "105",
+  "en": "Once we finish our dance, the crowd erupts into cheers asking us for more. Its this kind of enthusiasm that we've been gambling on to get us the support we need."
+ },
+ {
+  "k": "106",
+  "en": "Encore! Encore! Encore!"
+ },
+ {
+  "k": "107",
+  "en": "I think we can go another round before we break the big question to them."
+ },
+ {
+  "k": "108",
+  "en": "I guess, but we shouldn't take too long."
+ },
+ {
+  "k": "109",
+  "en": "Why not, we should butter them up as best we can before we go for it. That way we'll get as many as possible on our side."
+ },
+ {
+  "k": "110",
+  "en": "I'm just worried about-"
+ },
+ {
+  "k": "111",
+  "en": "knocking sound effects "
+ },
+ {
+  "k": "112",
+  "en": "What's going on in there! We've had reports of illegal activity! Open this door right now!"
+ },
+ {
+  "k": "113",
+  "en": "That, for one!"
+ },
+ {
+  "k": "114",
+  "en": "Grrrr...No, we're not gonna back down. Now is when we give the people of Carceburg a <i>real</i> reason to join us."
+ },
+ {
+  "k": "115",
+  "cena": "Party Event 4",
+  "en": "guards break in, probably 1 guard captain and 4 normal soldiers.they split up the crowd and make their way to the stage."
+ },
+ {
+  "k": "116",
+  "en": "<i>(Shit! This is bad!)</i>"
+ },
+ {
+  "k": "117",
+  "en": "What can we do for you officers?"
+ },
+ {
+  "k": "118",
+  "en": "We're gonna need to see a pass for the activity going on here and- wait...that other dancer!"
+ },
+ {
+  "k": "119",
+  "en": "She's the one Commander Wildfire wants arrested!"
+ },
+ {
+  "k": "120",
+  "en": "See! This is the future your leaders want, people of Carceburg! They want to deny from you the ability to witness our dance performances! They want to take away that right from you! "
+ },
+ {
+  "k": "121",
+  "en": "We're gonna show you that this kind of rule is nothing worth living under! We're gonna show you it's possible to fight against these odds and win!"
+ },
+ {
+  "k": "122",
+  "en": "Yeah! We don't wanna live under these conditions anymore!"
+ },
+ {
+  "k": "123",
+  "en": "Yeah, fuck Wildfire and fuck GAG too! We want our freedom back!"
+ },
+ {
+  "k": "124",
+  "en": "Quiet down all of you, scum! We can put you all under arrest in a heartbeat! "
+ },
+ {
+  "k": "125",
+  "en": "And now's our chance to play the heroes, Jenna."
+ },
+ {
+  "k": "126",
+  "en": "Well, us who aren't heroes already, that is."
+ },
+ {
+  "k": "127",
+  "en": "Let's show the people of Carceburg which side they really ought to be on!"
+ },
+ {
+  "k": "128",
+  "en": "You got it! Throb, Rida, Floria! Now! "
+ },
+ {
+  "k": "129",
+  "en": "Shit! We've been set up! It's an ambush! Call for reinforcements!"
+ },
+ {
+  "k": "130",
+  "en": "begin fighting segment"
+ },
+ {
+  "k": "131",
+  "cena": "Party Event 5",
+  "en": "after fighting segment is over, jenna and team are in the middle with all the ko'ed gag soldiers around"
+ },
+ {
+  "k": "132",
+  "en": "Woah...they actually did it..."
+ },
+ {
+  "k": "133",
+  "en": "It's crazy...they beat like a ton of those soldiers...hey, maybe these guys can actually save us!"
+ },
+ {
+  "k": "134",
+  "en": "We can save you! That's why we're here! We want to free Carceburg from the iron grip of those who hold it, but we can't do it alone! "
+ },
+ {
+  "k": "135",
+  "en": "That's right! If we're gonna rise up and free Carceburg, then we're gonna need your help!"
+ },
+ {
+  "k": "136",
+  "en": "Us? What are we supposed to do?"
+ },
+ {
+  "k": "137",
+  "en": "We're gonna need you all to rise up and join us in the fight! We want you to join the resistance movement and help us put an end to GAG!"
+ },
+ {
+  "k": "138",
+  "en": "Instantly, silence."
+ },
+ {
+  "k": "139",
+  "en": "The crowd murmered among themselves, and from what I could hear, it wasn't good stuff."
+ },
+ {
+  "k": "140",
+  "en": "Can we really do it...?"
+ },
+ {
+  "k": "141",
+  "en": "It's too dangerous...we're just gonna end up getting killed..."
+ },
+ {
+  "k": "142",
+  "en": "That Wildfire looks really dangerous, I don't wanna be on the other side of a battlefield against her..."
+ },
+ {
+  "k": "143",
+  "en": "Shit...this isn't good..."
+ },
+ {
+  "k": "144",
+  "en": "But that's not all! We wouldn't be asking you to risk your lives like that if we weren't going to offer something pretty great in return! Everyone who joins...and I mean <i>everyone</i> who joins...!"
+ },
+ {
+  "k": "145",
+  "en": "WILL GET TO HAVE SEX WITH ME!"
+ },
+ {
+  "k": "146",
+  "en": "screenshake and then if we can, a sound of people cheering"
+ },
+ {
+  "k": "147",
+  "en": "Jewel?!"
+ },
+ {
+  "k": "148",
+  "en": "Watch and learn, Blue."
+ },
+ {
+  "k": "149",
+  "en": "I always wanted to have sex with Jewel! "
+ },
+ {
+  "k": "150",
+  "en": "Yeah, me too! We can get rid of those bastards and fuck someone as hot as her? Count me in!"
+ },
+ {
+  "k": "151",
+  "en": "And me!"
+ },
+ {
+  "k": "152",
+  "en": "Me too!"
+ },
+ {
+  "k": "153",
+  "en": "One by one, the members of the crowd pledged their allegiance to our cause, completely enthralled by Jewel's undoubtebly powerful offer."
+ },
+ {
+  "k": "154",
+  "en": "Alright, all new Resistance Recruits! We're gonna make our way back to your base! Trample every enemy soldier that gets in our way underfoot! "
+ },
+ {
+  "k": "155",
+  "en": "When we arrive there, I'm gonna show you all a night you'll never forget!"
+ },
+ {
+  "k": "156",
+  "en": "another screenshake"
+ },
+ {
+  "k": "157",
+  "en": "Yeaaaaaaaaaaaaaaaaah!"
+ },
+ {
+  "k": "158",
+  "en": "fade to black"
+ },
+ {
+  "k": "159",
+  "cena": "Party Event 6",
+  "en": "black"
+ },
+ {
+  "k": "160",
+  "en": "Jewel was picked up by the crowd and carried out triumphantly on their shoulders as we all made our exit from the bar."
+ },
+ {
+  "k": "161",
+  "en": "Hey you! Stop right there, you damn rioters! Stop!"
+ },
+ {
+  "k": "162",
+  "en": "Sir! They're not stopping! They're heading straight for us!"
+ },
+ {
+  "k": "163",
+  "en": "Stop I say! Stop!"
+ },
+ {
+  "k": "164",
+  "en": "Ahhhhhhhhhhhhhhhhhh!"
+ },
+ {
+  "k": "165",
+  "en": "Jewel seemed to have been talking rather literally when she said we should trample them underfoot. A rather measly barricade was set up to stop us but the crowd just rammed right through it."
+ },
+ {
+  "k": "166",
+  "en": "Even though the guards were armed, they stood no chance against our superior numbers. Before they knew what hit them, a stampede had completely overwhelmed them."
+ },
+ {
+  "k": "167",
+  "en": "And with that, we made our escape into the woods. Thankfully, with Floria's attunement with nature and Rida's natural tracking skills, we found our way back too the base in no time."
+ },
+ {
+  "k": "168",
+  "en": "fade in to next scene. either player can control jenna and you have to talk to lady, or it cuts straight to that"
+ },
+ {
+  "k": "169",
+  "cena": "Peitho armor",
+  "quem": "Jenna (F)",
+  "en": "<i>(This looks like Peitho equipment... Are we in a Peitho outpost?)</i>"
+ },
+ {
+  "k": "170",
+  "cena": "Peitho intro keycards Dialogue 1",
+  "quem": "Guard (M)",
+  "en": "Did you hear that?"
+ },
+ {
+  "k": "171",
+  "quem": "Other Guard",
+  "en": "Hear what? You keep saying you hear shit, but all I hear are fucking voices, dude."
+ },
+ {
+  "k": "172",
+  "quem": "Guard (M)",
+  "en": "Sounded like a door opening."
+ },
+ {
+  "k": "173",
+  "quem": "Other Guard",
+  "en": "Dude. That's what doors do, you paranoid moron. Try not to drop your damn keycard again getting freaked out at every little sound."
+ },
+ {
+  "k": "174",
+  "quem": "Guard (M)",
+  "en": "Bro, that was one time. Why do you have to keep bringing it up?"
+ },
+ {
+  "k": "175",
+  "quem": "Jenna (F)",
+  "en": "Peitho."
+ },
+ {
+  "k": "176",
+  "quem": "Floria (F)",
+  "en": "Of course Peitho is behind this. Bastards."
+ },
+ {
+  "k": "177",
+  "quem": "Throb (M)",
+  "en": "This complicates things."
+ },
+ {
+  "k": "178",
+  "quem": "Other Guard",
+  "en": "I don't get paid enough to deal with your shit. "
+ },
+ {
+  "k": "179",
+  "cena": "Peitho intro keycards Dialogue 2",
+  "quem": "Guard (M)",
+  "en": "Wait, you get paid?"
+ },
+ {
+  "k": "180",
+  "quem": "Other Guard",
+  "en": "Uhm. Duh? You think I'm gonna be stuck down here for free?"
+ },
+ {
+  "k": "181",
+  "quem": "Guard (M)",
+  "en": "... I should really evaluate my life decisions."
+ },
+ {
+  "k": "182",
+  "quem": "Other Guard",
+  "en": "What you should be evaluating is your hearing."
+ },
+ {
+  "k": "183",
+  "quem": "Guard (M)",
+  "en": "Dude, I swear I heard something before!"
+ },
+ {
+  "k": "184",
+  "quem": "Other Guard",
+  "en": "Listen. I'm not gonna get my ass kicked because of you. You're holding one of the four fucking keycards to get to the control room. Stop hearing shit."
+ },
+ {
+  "k": "185",
+  "quem": "Other Guard",
+  "en": "Let's get back to patrol."
+ },
+ {
+  "k": "186",
+  "quem": "Jenna (F)",
+  "en": "Control room? That sounds important. We should be heading wherever that is."
+ },
+ {
+  "k": "187",
+  "quem": "Throb (M)",
+  "en": "And four keycards to collect in order to get in."
+ },
+ {
+  "k": "188",
+  "cena": "Peitho intro keycards Dialogue 3",
+  "quem": "Other Guard",
+  "en": "Move your ass. We have to fill out our report."
+ },
+ {
+  "k": "189",
+  "quem": "Guard (M)",
+  "en": "Ok you won, but I swear I heard something. "
+ },
+ {
+  "k": "190",
+  "cena": "Peitho intro keycards Dialogue 4",
+  "quem": "Jenna (F)",
+  "en": "So we need to find four keycards to get to some sort of control room. I bet we'll be able to stop whatever Peitho's up to in there."
+ },
+ {
+  "k": "191",
+  "quem": "Floria (F)",
+  "en": "And that guard has one of them."
+ },
+ {
+  "k": "192",
+  "quem": "Rida (F)",
+  "en": "Rida handle one guard."
+ },
+ {
+  "k": "193",
+  "quem": "Jewel (F)",
+  "en": "Let's get him then."
+ },
+ {
+  "k": "194",
+  "cena": "Peitho keycard intro 2 Dialogue 1",
+  "quem": "Guard (M)",
+  "en": "Bro come on, I told you I'd catch up in a sec. Just let me jerk it a little."
+ },
+ {
+  "k": "195",
+  "quem": "Guard (M)",
+  "en": "I'll just take a little long-.."
+ }
+]

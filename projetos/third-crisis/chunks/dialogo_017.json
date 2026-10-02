@@ -1,0 +1,1030 @@
+[
+ {
+  "k": "1",
+  "cena": "Bartend_questline_Night_FinishedNight_PostEvent24",
+  "quem": "Martin (M)",
+  "en": "H-Here's your pay..."
+ },
+ {
+  "k": "2",
+  "quem": "Jenna (F)",
+  "en": "Thanks, sweetie~"
+ },
+ {
+  "k": "3",
+  "quem": "Martin (M)",
+  "en": "Y-Yeah! No problem, Jen-Jenna."
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I can hear it in his voice... He wants to <b>fuck</b> me so bad.)</i></color>"
+ },
+ {
+  "k": "5",
+  "cena": "Bartend_questline_Night_HaventDoneDay1Yet",
+  "quem": "Martin (M)",
+  "en": "Come back during daytime, so I can show you the basics of mixing drinks."
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "Alright!"
+ },
+ {
+  "k": "7",
+  "cena": "Bartend_questline_Night_RemindOfTable",
+  "quem": "Jenna (F)",
+  "en": "What table was this for again?"
+ },
+ {
+  "k": "8",
+  "quem": "Martin (M)",
+  "en": "It's for table <b>#TableNum#</b>."
+ },
+ {
+  "k": "9",
+  "cena": "Bartend_questline_Night_TooLateToWork",
+  "quem": "Martin (M)",
+  "en": "It's too late to work now. You should go home."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "Alright."
+ },
+ {
+  "k": "11",
+  "cena": "Bartend_questline_Night_WrongTableGeneric",
+  "quem": "Jenna (F)",
+  "en": "Whoops, wrong table."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "<i>(I think Martin wanted me to bring it to table <b>#TableNum#</b>)</i>"
+ },
+ {
+  "k": "13",
+  "cena": "Bartend_questline_Night_WrongTableGeneric2",
+  "quem": "Customer (M)",
+  "en": "That isn't my order."
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "<i>(I think Martin wanted me to bring it to table <b>#TableNum#</b>)</i>"
+ },
+ {
+  "k": "15",
+  "cena": "Bartend_questline_Night_WrongTableGeneric3",
+  "en": "The order's not for this table."
+ },
+ {
+  "k": "16",
+  "en": "<i>(I think Martin wanted me to bring it to table <b>#TableNum#</b>)</i>"
+ },
+ {
+  "k": "17",
+  "cena": "Bartend_questline_NotEnoughForOutfit",
+  "quem": "Jenna (F)",
+  "en": "I uhh... I don't have enough."
+ },
+ {
+  "k": "18",
+  "quem": "Martin (M)",
+  "en": "No problem. Come back when you do."
+ },
+ {
+  "k": "19",
+  "cena": "Bartend_questline_RemindToWearOutfit",
+  "en": "You should change into your waitress outfit, young lady."
+ },
+ {
+  "k": "20",
+  "en": "Oh, right!"
+ },
+ {
+  "k": "21",
+  "cena": "Bartend_questline_SuccessDrink1",
+  "quem": "Martin (M)",
+  "en": "Good work. Now let's mix it up with a second drink, #drink#. You can do it.\r"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Got it!"
+ },
+ {
+  "k": "23",
+  "cena": "Bartend_questline_TooLate",
+  "en": "You should come by earlier, lady.\r"
+ },
+ {
+  "k": "24",
+  "en": "It's almost curfew. Go sleep, because there's gonna be no customers here and you can't sleep here.\r"
+ },
+ {
+  "k": "25",
+  "en": "It <i>is</i> pretty late... rats.\r"
+ },
+ {
+  "k": "26",
+  "en": "Go back to the inn?"
+ },
+ {
+  "k": "27",
+  "cena": "BaseAssault_Base_0_BottomRight_0",
+  "quem": "Lady (F)",
+  "en": "They're really here..."
+ },
+ {
+  "k": "28",
+  "quem": "Lady (F)",
+  "en": "Alright, people. We've trained for this. Split up and rescue everyone you can."
+ },
+ {
+  "k": "29",
+  "quem": "Sofie (F)",
+  "en": "After we've put these stinkin' traitors in the dirt?!"
+ },
+ {
+  "k": "30",
+  "quem": "Lady (F)",
+  "en": "This wasn't their fault."
+ },
+ {
+  "k": "31",
+  "quem": "Arnold (M)",
+  "en": "We can speculate about all this later. Right now we gotta focus on saving everyone. Come on, Sofie! Let's go!"
+ },
+ {
+  "k": "32",
+  "quem": "Lady (F)",
+  "en": "Jenna. We're splitting up. Save as many people as you can. We're relying on you."
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "You got it. Come on Throb and Rida. Let's save the day."
+ },
+ {
+  "k": "34",
+  "quem": "Rida (F)",
+  "en": "Rida like fighting."
+ },
+ {
+  "k": "35",
+  "cena": "BaseAssault_Base_0_BottomRight_1",
+  "quem": "Jenna (F)",
+  "en": "Hey dickheads! Pick on someone your own size!"
+ },
+ {
+  "k": "36",
+  "quem": "Soldier (M)",
+  "en": "I-Is that Vibe?"
+ },
+ {
+  "k": "37",
+  "quem": "Soldier (M)",
+  "en": "Lady Pyra said we'd find her here... We'd be so popular if we took the bitch down!"
+ },
+ {
+  "k": "38",
+  "quem": "Soldier (M)",
+  "en": "Let's get her!"
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "I'd like to see you try."
+ },
+ {
+  "k": "40",
+  "cena": "BaseAssault_Base_0_BottomRight_Victory_0",
+  "quem": "Jenna (F)",
+  "en": "Get out of here! We'll cover your back!"
+ },
+ {
+  "k": "41",
+  "quem": "Resistance Member (M)",
+  "en": "T-Thank you!"
+ },
+ {
+  "k": "42",
+  "cena": "BaseAssault_Base_1_Middle_0",
+  "quem": "Karen (F)",
+  "en": "About time you got here."
+ },
+ {
+  "k": "43",
+  "quem": "Jenna (F)",
+  "en": "Let her go, Karen."
+ },
+ {
+  "k": "44",
+  "quem": "Karen (F)",
+  "en": "No, I don't think I will."
+ },
+ {
+  "k": "45",
+  "quem": "Floria (F)",
+  "en": "Jenna! Don't listen to her! I can take her!"
+ },
+ {
+  "k": "46",
+  "quem": "Karen (F)",
+  "en": "Ever had grilled lettuce? I hear it's quite good."
+ },
+ {
+  "k": "47",
+  "quem": "Jenna (F)",
+  "en": "Wait! Karen, please don't!"
+ },
+ {
+  "k": "48",
+  "quem": "Wildfire (F)",
+  "en": "Say goodbye to the vegetable, Vibe."
+ },
+ {
+  "k": "49",
+  "quem": "Lady (F)",
+  "en": "Now!"
+ },
+ {
+  "k": "50",
+  "cena": "BaseAssault_Base_1_Middle_1",
+  "quem": "Wildfire (F)",
+  "en": "Agh! Fucking water!"
+ },
+ {
+  "k": "51",
+  "cena": "BaseAssault_Base_1_Middle_2",
+  "quem": "Jenna (F)",
+  "en": "No! Karen! Wait! Please don't go!"
+ },
+ {
+  "k": "52",
+  "quem": "Sofie (F)",
+  "en": "The bitch knows Wildfire? I knew they were traitors!"
+ },
+ {
+  "k": "53",
+  "quem": "Lady (F)",
+  "en": "Shut it! Focus on the rescue effort all of you! We took care of Wildfire, but there are still more!"
+ },
+ {
+  "k": "54",
+  "cena": "BaseAssault_Base_1_Middle_3",
+  "quem": "Soldier (M)",
+  "en": "Hey! It's Vibe! Get her!"
+ },
+ {
+  "k": "55",
+  "quem": "Jenna (F)",
+  "en": "You fuckers..."
+ },
+ {
+  "k": "56",
+  "quem": "Floria (F)",
+  "en": "Let's take 'em, Jenna. Together."
+ },
+ {
+  "k": "57",
+  "quem": "Rida (F)",
+  "en": "Yay! Fight time!"
+ },
+ {
+  "k": "58",
+  "cena": "BaseAssault_Base_1_Middle_Victory_0",
+  "quem": "Throb (M)",
+  "en": "You okay, Jenna?"
+ },
+ {
+  "k": "59",
+  "quem": "Jenna (F)",
+  "en": "Let's just get everyone to safety first."
+ },
+ {
+  "k": "60",
+  "quem": "Rida (F)",
+  "en": "Plant girl! Rida happy see!"
+ },
+ {
+  "k": "61",
+  "quem": "Floria (F)",
+  "en": "Nice to see you too, Rida."
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "You alright, Floria?"
+ },
+ {
+  "k": "63",
+  "quem": "Floria (F)",
+  "en": "Better than I have in a while."
+ },
+ {
+  "k": "64",
+  "quem": "Floria (F)",
+  "en": "This... This feels right. Is this the sort of thing we would do?"
+ },
+ {
+  "k": "65",
+  "quem": "Jenna (F)",
+  "en": "Heh... Yeah. Yeah, it was."
+ },
+ {
+  "k": "66",
+  "quem": "Floria (F)",
+  "en": "Then let's keep doing it until we've taken care of all these baddies."
+ },
+ {
+  "k": "67",
+  "quem": "Rida (F)",
+  "en": "Rida like that idea!"
+ },
+ {
+  "k": "68",
+  "cena": "BaseAssault_Base_2_BottomLeft_Victory_0",
+  "quem": "Floria (F)",
+  "en": "Yeah! Take that, you monsters!"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "We sure showed them."
+ },
+ {
+  "k": "70",
+  "quem": "Rida (F)",
+  "en": "Mm."
+ },
+ {
+  "k": "71",
+  "quem": "Resistance Member (M)",
+  "en": "Thank you so much!"
+ },
+ {
+  "k": "72",
+  "cena": "BaseAssault_Base_3_FarLeft_0",
+  "quem": "Jenna (F)",
+  "en": "We cleared the way for you guys, make a run for it!"
+ },
+ {
+  "k": "73",
+  "quem": "Resistance Member (M)",
+  "en": "Vibe! Thank you! Let's get out of here!"
+ },
+ {
+  "k": "74",
+  "cena": "BaseAssault_Base_4_TopLeft_0",
+  "quem": "Jenna (F)",
+  "en": "Time to go! We're getting you out of here!"
+ },
+ {
+  "k": "75",
+  "quem": "Resistance Member (M)",
+  "en": "It's Vibe! We're saved!"
+ },
+ {
+  "k": "76",
+  "cena": "BaseAssault_Mines_Intro_0",
+  "quem": "Resistance Member (M)",
+  "en": "They found us! They're here!"
+ },
+ {
+  "k": "77",
+  "quem": "Lady (F)",
+  "en": "Are you hurt? Help us rescue the others!"
+ },
+ {
+  "k": "78",
+  "quem": "Resistance Member (M)",
+  "en": "N-No! We have to run! I can't get caught... Not again..."
+ },
+ {
+  "k": "79",
+  "quem": "Lady (F)",
+  "en": "Wait..."
+ },
+ {
+  "k": "80",
+  "cena": "BaseAssault_Pyra_Outro_0",
+  "quem": "Pyra (F)",
+  "en": "There's our 'Sapphire'~ "
+ },
+ {
+  "k": "81",
+  "quem": "Jewel (F)",
+  "en": "J-Je<color=perversion>nna...</color>"
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "Don't you dare hurt her, Pyra."
+ },
+ {
+  "k": "83",
+  "quem": "Pyra (F)",
+  "en": "Hurt her~? I'm only just getting to <i>know</i> her~ Stay back, and it'll stay that way~"
+ },
+ {
+  "k": "84",
+  "quem": "Rida (F)",
+  "en": "Rida like dance girl! Let dance girl go!"
+ },
+ {
+  "k": "85",
+  "quem": "Pyra (F)",
+  "en": "SIlence, ape~ The people are talking~"
+ },
+ {
+  "k": "86",
+  "quem": "Throb (M)",
+  "en": "Let her go now before we run through you like we did your pals."
+ },
+ {
+  "k": "87",
+  "quem": "Pyra (F)",
+  "en": "Wow~ Growing a spine are we, Throb~? Bit of a late bloomer~"
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "How about we skip the talking and get to blasting? Let her go and we'll settle this fair and square."
+ },
+ {
+  "k": "89",
+  "quem": "Pyra (F)",
+  "en": "How tempting~"
+ },
+ {
+  "k": "90",
+  "quem": "Pyra (F)",
+  "en": "Though I'm surprised you would all be so willing to save someone who sold you out~ She told me every dirty little secret of yours~"
+ },
+ {
+  "k": "91",
+  "quem": "Pyra (F)",
+  "en": "Didn't even try resisting~ This little sex fiend was begging for more~"
+ },
+ {
+  "k": "92",
+  "quem": "Pyra (F)",
+  "en": "And now I know every juicy little detail about you and your firey little girlfriend~ Too bad about the rain~ But we've already recovered her~"
+ },
+ {
+  "k": "93",
+  "quem": "Jenna (F)",
+  "en": "Don't you dare talk about her..."
+ },
+ {
+  "k": "94",
+  "quem": "Pyra (F)",
+  "en": "I was the one that broke her in, you know~ Would you like to know how long she lasted~?"
+ },
+ {
+  "k": "95",
+  "quem": "Throb (M)",
+  "en": "Jenna. She's trying to get into your head."
+ },
+ {
+  "k": "96",
+  "quem": "Pyra (F)",
+  "en": "She kept going on and on about you~ \"Oh~ Jenna will save me~ She'll make you all pay~\""
+ },
+ {
+  "k": "97",
+  "quem": "Pyra (F)",
+  "en": "Gonna make me pay, Jenna~? Are ya~?"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "You fucking bitch..."
+ },
+ {
+  "k": "99",
+  "quem": "Floria (F)",
+  "en": "Don't listen to her, Jenna."
+ },
+ {
+  "k": "100",
+  "quem": "Pyra (F)",
+  "en": "Oh, the breeding bitch speaks~ I remember my time with you too, sweet Floria~"
+ },
+ {
+  "k": "101",
+  "quem": "Floria (F)",
+  "en": "Yeah? Must've been a bad lay since I sure don't remember you."
+ },
+ {
+  "k": "102",
+  "quem": "Pyra (F)",
+  "en": "What do you remember~? Do you remember anything~? No~?"
+ },
+ {
+  "k": "103",
+  "quem": "Pyra (F)",
+  "en": "Isn't it cute how I know more about you than you know about yourself~? What must it be like to have no identity, I wonder~? I would looove to find out~"
+ },
+ {
+  "k": "104",
+  "quem": "Pyra (F)",
+  "en": "Don't you want to know more about yourself~? I can tell you~"
+ },
+ {
+  "k": "105",
+  "quem": "Lady (F)",
+  "en": "Jenna, don't move. Altin, cut the water and kill the lights."
+ },
+ {
+  "k": "106",
+  "quem": "Altin (M)",
+  "en": "L-Lights off i-in 3... 2... 1..."
+ },
+ {
+  "k": "107",
+  "cena": "BaseAssault_Pyra_Outro_1",
+  "quem": "Pyra (F)",
+  "en": "How dull~ Turning the lights off~? I can see in the dark, you know~"
+ },
+ {
+  "k": "108",
+  "quem": "Pyra (F)",
+  "en": "You can't stop me, I'll- W-What... are those...?"
+ },
+ {
+  "k": "109",
+  "quem": "Narrador",
+  "en": "<i>I lunge forward and grab Jewel while Pyra and the soldiers are distracted by the dark ones.</i>"
+ },
+ {
+  "k": "110",
+  "quem": "Jewel (F)",
+  "en": "J-Je<color=perversion>nna...</color> It's y-<color=perversion>you.</color>"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "In the flesh. But let's keep it down okay? We still have to get out of here."
+ },
+ {
+  "k": "112",
+  "quem": "Jewel (F)",
+  "en": "O-O<color=perversion>kay...</color>"
+ },
+ {
+  "k": "113",
+  "quem": "Altin (M)",
+  "en": "Your t-tracker should l-lead you t-to the e-escape route w-we made for t-this sort of o-occasion!"
+ },
+ {
+  "k": "114",
+  "quem": "Lady (F)",
+  "en": "Make sure you mind the tracker and stop moving when they get too close. We can't lose you now. Get moving!"
+ },
+ {
+  "k": "115",
+  "quem": "Sofie (F)",
+  "en": "I say let the dark ones feast on 'em!"
+ },
+ {
+  "k": "116",
+  "quem": "Arnold (M)",
+  "en": "Hush, Sofie! Not on the radio!"
+ },
+ {
+  "k": "117",
+  "quem": "Sofie (F)",
+  "en": "Nnn!"
+ },
+ {
+  "k": "118",
+  "cena": "BaseAssault_RidaFight_Intro_0",
+  "quem": "Jenna (F)",
+  "en": "Rida!"
+ },
+ {
+  "k": "119",
+  "quem": "Rida (F)",
+  "en": "Carcen! Rida talk to demon soldier."
+ },
+ {
+  "k": "120",
+  "quem": "Rida (F)",
+  "en": "With spear."
+ },
+ {
+  "k": "121",
+  "quem": "Soldier (M)",
+  "en": "Stand down and surrender!"
+ },
+ {
+  "k": "122",
+  "quem": "Rida (F)",
+  "en": "Rida no give up."
+ },
+ {
+  "k": "123",
+  "quem": "Rida (F)",
+  "en": "Rida strong."
+ },
+ {
+  "k": "124",
+  "cena": "BaseAssault_RidaFight_Lose_0",
+  "quem": "Rida (F)",
+  "en": "R-Rida... not strong?"
+ },
+ {
+  "k": "125",
+  "cena": "BaseAssault_RidaFight_Victory_0",
+  "quem": "Jenna (F)",
+  "en": "Hey! Nice job!"
+ },
+ {
+  "k": "126",
+  "quem": "Rida (F)",
+  "en": "Mm. Carcen. They take flower girl and demon girl."
+ },
+ {
+  "k": "127",
+  "quem": "Jenna (F)",
+  "en": "No! Shit!"
+ },
+ {
+  "k": "128",
+  "quem": "Lady (F)",
+  "en": "You're friends with another fiend? Who is she talking about?"
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "Errr..."
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "I uh... can explain later?"
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "I'm glad! But we gotta head out. Come on, Rida. You're with us."
+ },
+ {
+  "k": "132",
+  "quem": "Sofie (F)",
+  "en": "Better have a good fuckin' excuse, twinkle toes!"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "Later. Rida. You're with us. You too, HQ."
+ },
+ {
+  "k": "134",
+  "quem": "Rida (F)",
+  "en": "Mm. Finally."
+ },
+ {
+  "k": "135",
+  "cena": "bdsm scene 1_1",
+  "en": "Quite the sturdy looking thing."
+ },
+ {
+  "k": "136",
+  "en": "<color=perversion><i>(I've never been one to shy away from a little bondage either.)</i></color>"
+ },
+ {
+  "k": "137",
+  "en": "The restraints look rather well made too. I'm sure this could keep someone in place even through some very rigorous sex."
+ },
+ {
+  "k": "138",
+  "en": "You know what I'm gonna say, don't you, Jenna?"
+ },
+ {
+  "k": "139",
+  "en": "You want me to get on and you'll play the part of the Mistress?"
+ },
+ {
+  "k": "140",
+  "en": "Well, I figured I wouldn't hog all the fun myself, and let someone else take first dibs. If anyone is interested that i-"
+ },
+ {
+  "k": "141",
+  "en": "Me! Me! Rida wanna fuck first!"
+ },
+ {
+  "k": "142",
+  "en": "It would be a nice way to test the limits of this cross if someone as <i>vigorous</i> as Rida were to fuck you on it."
+ },
+ {
+  "k": "143",
+  "en": "What big word means?"
+ },
+ {
+  "k": "144",
+  "en": "It's a compliment. She's saying you know how to fuck."
+ },
+ {
+  "k": "145",
+  "en": "Yeah! I do! Rida knows how to fuck!"
+ },
+ {
+  "k": "146",
+  "en": "Come on Jenna! Wanna try this with me?"
+ },
+ {
+  "k": "147",
+  "cena": "bdsm scene 1_1.5",
+  "en": "(plays if the player rejects the first time, but comes back again for another session)"
+ },
+ {
+  "k": "148",
+  "en": "Change your mind about spending some time with Rida on the cross, Jenna?"
+ },
+ {
+  "k": "149",
+  "en": "Please say yes!"
+ },
+ {
+  "k": "150",
+  "cena": "bdsm scene 1_1.5accept",
+  "en": "Yeah! I knew you make the right choice eventually!"
+ },
+ {
+  "k": "151",
+  "en": "Now Rida show you a really good time!"
+ },
+ {
+  "k": "152",
+  "en": "fade to black and go to sex cg with rida"
+ },
+ {
+  "k": "153",
+  "cena": "bdsm scene 1_1.5decline",
+  "en": "Alright, let's not put too much pressure on our girl, people."
+ },
+ {
+  "k": "154",
+  "en": "back to overworld"
+ },
+ {
+  "k": "155",
+  "cena": "bdsm scene 1_1accept",
+  "en": "Oh yeah! We gonna have a lot of fun together!"
+ },
+ {
+  "k": "156",
+  "en": "She's already hard as a rock."
+ },
+ {
+  "k": "157",
+  "en": "That's how you know she's gonna be a good fuck."
+ },
+ {
+  "k": "158",
+  "en": "This is gonna be good."
+ },
+ {
+  "k": "159",
+  "cena": "bdsm scene 1_1decline",
+  "en": "Really? Awwww...."
+ },
+ {
+  "k": "160",
+  "en": "Well, let Rida know if Jenna change her mind."
+ },
+ {
+  "k": "161",
+  "en": "back to overworld"
+ },
+ {
+  "k": "162",
+  "cena": "bdsm scene 5_1",
+  "en": "overworld, party only"
+ },
+ {
+  "k": "163",
+  "en": "I hate to be the bearer of bad sexual news, but I think we've tried all the tools we have at our disposal."
+ },
+ {
+  "k": "164",
+  "en": "The horror!"
+ },
+ {
+  "k": "165",
+  "en": "You know, personally I'm feeling more surprised than anything else that Jewel hasn't come up with a way to repurpose some of those tools yet."
+ },
+ {
+  "k": "166",
+  "en": "I'm not a sex witch! I can't just make th-"
+ },
+ {
+  "k": "167",
+  "en": "Actually I wanna think about the prospects of being a sex witch rather than answer that question."
+ },
+ {
+  "k": "168",
+  "en": "Well, we could always just do more of what we did before. Sure, it doesn't have the adventurous appeal of experimenting with new tools, but that doesn't mean we can't have fun!"
+ },
+ {
+  "k": "169",
+  "en": "Yeah, you're probably right. I guess now all that's left to do is to figure out what exactly we want to do."
+ },
+ {
+  "k": "170",
+  "en": "<i>(As we discuss the prospects of our next sexcapade, we find ourselves interrupted by our special guest from last time.)</i>"
+ },
+ {
+  "k": "171",
+  "en": "Hey! Are you all down there in the dungeon again?!"
+ },
+ {
+  "k": "172",
+  "en": "Is that Sophie?"
+ },
+ {
+  "k": "173",
+  "en": "You mean you can't tell by the attitude?"
+ },
+ {
+  "k": "174",
+  "en": "Good point"
+ },
+ {
+  "k": "175",
+  "en": "fade out then fade in to next overworld scene"
+ },
+ {
+  "k": "176",
+  "cena": "bdsm scene 5_2",
+  "en": "overworld, sophie arrives at the door, everyone is facing her"
+ },
+ {
+  "k": "177",
+  "en": "Were you guys about to get down and dirty in here again?"
+ },
+ {
+  "k": "178",
+  "en": "What else do people do in a sex dungeon?"
+ },
+ {
+  "k": "179",
+  "en": "Also, don't go acting like you didn't have <i>a lot</i> of fun with us last time! 'Cus you definitely did!"
+ },
+ {
+  "k": "180",
+  "en": "Ghhh..!"
+ },
+ {
+  "k": "181",
+  "en": "It's nice to see you too, Sophie."
+ },
+ {
+  "k": "182",
+  "en": "Y-Yeah! Nice to see you all as well! But we need your help upstairs!"
+ },
+ {
+  "k": "183",
+  "en": "Sure! How can we help?"
+ },
+ {
+  "k": "184",
+  "en": "Well, simple stuff. Lady just said we needed some extra muscle around to move some stuff."
+ },
+ {
+  "k": "185",
+  "en": "We don't need you all, just the dude in the armor, the fiend and...I wanna say...Floria, was your name?"
+ },
+ {
+  "k": "186",
+  "en": "Yep."
+ },
+ {
+  "k": "187",
+  "en": "Yeah, we just need you three."
+ },
+ {
+  "k": "188",
+  "en": "Hey! Rida have name too."
+ },
+ {
+  "k": "189",
+  "en": "I'm pretty sure she's just bad with names, Rida. She <i>did</i> call me 'the dude in the armor' too."
+ },
+ {
+  "k": "190",
+  "en": "Don't you have a weird name?"
+ },
+ {
+  "k": "191",
+  "en": "Uhhh yeah, it's uhhh...Throb."
+ },
+ {
+  "k": "192",
+  "en": "Yeah, it is a weird name, that's for sure."
+ },
+ {
+  "k": "193",
+  "en": "You wouldn't be calling it weird if you saw what he's packing."
+ },
+ {
+  "k": "194",
+  "en": "Jewel!"
+ },
+ {
+  "k": "195",
+  "en": "I know! I know! I'm just standing up for you, big guy."
+ },
+ {
+  "k": "196",
+  "en": "Right. Well, we should get going or else Lady's gonna chew me out."
+ },
+ {
+  "k": "197",
+  "en": "I'd like to <i>chew</i> you out."
+ },
+ {
+  "k": "198",
+  "en": "I don't think the invitation extended to us two, Jewel."
+ },
+ {
+  "k": "199",
+  "en": "Think of it as an opportunity to stay down here and...continue whatever it is you were doing."
+ },
+ {
+  "k": "200",
+  "en": "Huh. Would you look at that. All of a sudden, I don't feel so left out anymore."
+ },
+ {
+  "k": "201",
+  "en": "Have fun you two."
+ },
+ {
+  "k": "202",
+  "en": "fade to black"
+ },
+ {
+  "k": "203",
+  "cena": "bdsm scene 5_3",
+  "en": "overworld, only jenna and jewel left behind, facing each other"
+ },
+ {
+  "k": "204",
+  "en": "Well, looks like it's just us two now, Jenna."
+ },
+ {
+  "k": "205",
+  "en": "Yup. I believe we were in the process of deciding what exactly we were gonna do on the cross."
+ },
+ {
+  "k": "206",
+  "en": "Yes we were~"
+ },
+ {
+  "k": "207",
+  "en": "You look like you've got some ideas."
+ },
+ {
+  "k": "208",
+  "en": "And what if I do?"
+ },
+ {
+  "k": "209",
+  "en": "<color=perversion>Well then, I think you know what you need to do.</color>"
+ },
+ {
+  "k": "210",
+  "en": "fade to black"
+ },
+ {
+  "k": "211",
+  "cena": "bdsm scene 5_4",
+  "en": "black"
+ },
+ {
+  "k": "212",
+  "en": "<i>(I climb onto the cross and let Jewel strap me in.)</i>"
+ },
+ {
+  "k": "213",
+  "en": "Oh, I'm gonna enjoy this."
+ },
+ {
+  "k": "214",
+  "en": "<i>(I wait with anticipation as Jewel teases me with her words while she gets me properly restrained.)</i>"
+ },
+ {
+  "k": "215",
+  "en": "<color=perversion><i>(Whatever you've got in mind, I'm sure I'll enjoy it too.)</i></color>"
+ },
+ {
+  "k": "216",
+  "en": "fade in to jenna on cross cg"
+ }
+]

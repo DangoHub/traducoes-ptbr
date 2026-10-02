@@ -1,0 +1,803 @@
+[
+ {
+  "k": "1",
+  "cena": "Job_FuckBadgePartner_TalkAtTownhall",
+  "quem": "Badge Girl (F)",
+  "en": "You! Are you interested in the job I posted?"
+ },
+ {
+  "k": "2",
+  "tipo": "escolha",
+  "en": "<color=perversion>Of course.</color>"
+ },
+ {
+  "k": "3",
+  "tipo": "escolha",
+  "en": "No."
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Erm! No thanks!"
+ },
+ {
+  "k": "5",
+  "quem": "Badge Girl (F)",
+  "en": "Then why did you take it? Whatever. See you later. Or not."
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "I guess I am!"
+ },
+ {
+  "k": "7",
+  "quem": "Badge Girl (F)",
+  "en": "Good. Come with me, hun."
+ },
+ {
+  "k": "8",
+  "cena": "Keycard Aquired",
+  "quem": "Intercom",
+  "en": ":: Keycard scan successful. Welcome, Dr. Anderson. ::"
+ },
+ {
+  "k": "9",
+  "cena": "Keycard Required",
+  "quem": "Intercom",
+  "en": ":: Keycard required ::"
+ },
+ {
+  "k": "10",
+  "cena": "KeyCardLab",
+  "quem": "Intercom",
+  "en": ":: Keycard scan successful. Welcome, Dr. Weber. ::"
+ },
+ {
+  "k": "11",
+  "cena": "Klaus NoBadge Notice",
+  "quem": "MotelOwner (M)",
+  "en": "What happened to my Badge?"
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "I-.. I still have it!"
+ },
+ {
+  "k": "13",
+  "quem": "MotelOwner (M)",
+  "en": "Ah.. You don't want to wear it anymore, huh? Your choice, hehehe..."
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(... )</i></color>"
+ },
+ {
+  "k": "15",
+  "cena": "Klaus_DayConclusion",
+  "quem": "MotelOwner (M)",
+  "en": "Took you a while to get back. Did you get lost?"
+ },
+ {
+  "k": "16",
+  "quem": "Narrador",
+  "en": "<i>I stick my tongue out at him, crossing my arms.</i>"
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Ran into a couple snags, no big deal."
+ },
+ {
+  "k": "18",
+  "quem": "MotelOwner (M)",
+  "en": "Did you at least find the girl you were looking for?"
+ },
+ {
+  "k": "19",
+  "quem": "Narrador",
+  "en": "<i>I shake my head slowly, letting out a soft sigh.</i>"
+ },
+ {
+  "k": "20",
+  "quem": "Jenna (F)",
+  "en": "Nope, it wasn't her. Just a girl that works at the bar."
+ },
+ {
+  "k": "21",
+  "quem": "MotelOwner (M)",
+  "en": "Well I'm sorry to hear that. I can keep an ear open for anymore information about this redheaded girl of yours. What's her name again?"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "Her name is Karen, and what's the catch?"
+ },
+ {
+  "k": "23",
+  "quem": "MotelOwner (M)",
+  "en": "No catch. Just be good and I'll keep you informed."
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "\"Just be good\", I'll keep that in mind."
+ },
+ {
+  "k": "25",
+  "quem": "MotelOwner (M)",
+  "en": "Good. If you get me enough money, I'll even consider letting you use the motel's shower. You seem like you need a place to clean all that mess off of you."
+ },
+ {
+  "k": "26",
+  "quem": "MotelOwner (M)",
+  "en": "No badge girl of mine is going to be walking around all dirty, unless she's showing off of course."
+ },
+ {
+  "k": "27",
+  "quem": "Jenna (F)",
+  "en": "I'm not yours, cut that out. I'm only wearing this damn thing to keep the guards off my back."
+ },
+ {
+  "k": "28",
+  "quem": "MotelOwner (M)",
+  "en": "Fine, fine. I left you a bucket in your room. You can use that to clean off until you prove yourself enough for the shower."
+ },
+ {
+  "k": "29",
+  "quem": "Jenna (F)",
+  "en": "Gee thanks."
+ },
+ {
+  "k": "30",
+  "quem": "MotelOwner (M)",
+  "en": "The guards have this place locked down, there's no getting out. I have a feeling that you wouldn't want to leave without that girl of yours anyways."
+ },
+ {
+  "k": "31",
+  "quem": "MotelOwner (M)",
+  "en": "So you need to start playing along. Might as well make your stay a little easier on yourself."
+ },
+ {
+  "k": "32",
+  "quem": "Jenna (F)",
+  "en": "Thanks for the tip. I'm going to my room."
+ },
+ {
+  "k": "33",
+  "quem": "MotelOwner (M)",
+  "en": "Enjoy the bucket, little hero."
+ },
+ {
+  "k": "34",
+  "quem": "Narrador",
+  "en": "<i>I flip him the bird as he steps aside, causing him to chuckle at me.</i>"
+ },
+ {
+  "k": "35",
+  "cena": "Klaus_DayConclusionReminder",
+  "quem": "MotelOwner (M)",
+  "en": "I thought you were going to your room?"
+ },
+ {
+  "k": "36",
+  "quem": "Jenna (F)",
+  "en": "Yeah yeah..."
+ },
+ {
+  "k": "37",
+  "cena": "Labcoat",
+  "quem": "Jenna (F)",
+  "en": "Where are the people?"
+ },
+ {
+  "k": "38",
+  "cena": "lady_robbin_brief_1",
+  "en": "player gets a quest to go see lady, scene triggers right when they enter the room. Lady is talking to two resistance scouts."
+ },
+ {
+  "k": "39",
+  "en": "And you're absolutely <i>certain</i> that's what you saw?"
+ },
+ {
+  "k": "40",
+  "en": "Yes ma'am. No doubt about it."
+ },
+ {
+  "k": "41",
+  "en": "And you're sure this isn't some miscommunication between you guys and some other members. You're sure it wasn't Arnold or Sophie, right?"
+ },
+ {
+  "k": "42",
+  "en": "Ma'am, we've confirmed with both of them multiple times."
+ },
+ {
+  "k": "43",
+  "en": "Sophie even threatened to shoot me because we 'wouldn't stop bothering her.'"
+ },
+ {
+  "k": "44",
+  "en": "I see. Very well then. Return to your stations and write a more detailed report. I'll see what will be done about it."
+ },
+ {
+  "k": "45",
+  "en": "Ninja lady say about impor...imp...big thing."
+ },
+ {
+  "k": "46",
+  "en": "Yeah. Whatever they're talking about, it definitely sounds important."
+ },
+ {
+  "k": "47",
+  "en": "You called for us, Lady?"
+ },
+ {
+  "k": "48",
+  "en": "Oh, you're here already. I'll be with you in a second."
+ },
+ {
+  "k": "49",
+  "en": "fade out"
+ },
+ {
+  "k": "50",
+  "cena": "lady_robbin_brief_2",
+  "en": "fade back in, scouts are gone"
+ },
+ {
+  "k": "51",
+  "en": "You sounded pretty serious back there."
+ },
+ {
+  "k": "52",
+  "en": "We've stumbled upon a most perplexing situation..."
+ },
+ {
+  "k": "53",
+  "en": "The scouts who just left came in to report that they've found "
+ },
+ {
+  "k": "54",
+  "en": "The supplies were thoroughly raided, though only certain things were taken. Armor, weapons, ammunitions, medical kits, anything that could be used for combat and other combat-related things."
+ },
+ {
+  "k": "55",
+  "en": "Food, building materials and even some rather important Peitho schematics that our scouts managed to find were left completely untouched."
+ },
+ {
+  "k": "56",
+  "en": "I don't see what's wrong with all of this. Just means that Peitho's got another enemy, and this group's doing a damn good job at hitting 'em hard!"
+ },
+ {
+  "k": "57",
+  "en": "Unfortunately, we can't afford to be so blindly optimistic."
+ },
+ {
+  "k": "58",
+  "en": "Given the nature of their looting, they're looking for weapons and armor, things to arm people with."
+ },
+ {
+  "k": "59",
+  "en": "Maybe there's another resistance cell forming somewhere else! They're taking weapons and armor to arm the ordinary people so they can resist Peitho too!"
+ },
+ {
+  "k": "60",
+  "en": "While that is possible, this may be a group of people who just want to take power away from Peitho and then take their place. Not all enemies of our enemies are necessarily our friends."
+ },
+ {
+  "k": "61",
+  "en": "There were other resistance cells before the failed coup as well, and we had secret channels we used to keep in communication. If another resistance cell would have formed, I'm sure they'd know how to get in touch with us."
+ },
+ {
+  "k": "62",
+  "en": "That is why I'm inclined to believe this is not the work of fellow resistance members. "
+ },
+ {
+  "k": "63",
+  "en": "So we're just gonna automatically assume they're enemies?"
+ },
+ {
+  "k": "64",
+  "en": "No. All we can assume is that they're not <i>necessarily</i> on our side. For beyond that, that's where we need <i>your</i> help."
+ },
+ {
+  "k": "65",
+  "en": "Your mission, should you choose to accept it, is to go out and try to trace back this mysterious group's identity."
+ },
+ {
+  "k": "66",
+  "en": "I hate to ask more of you, but if you could find out anything like the location of some kind of hideout, or who their leader is, that would make our jobs a lot easier too..."
+ },
+ {
+  "k": "67",
+  "en": "Our hands are unfortunately already full trying to deal with Peitho as is."
+ },
+ {
+  "k": "68",
+  "en": "We can do it, right guys?"
+ },
+ {
+  "k": "69",
+  "en": "Where exactly did this Peitho unit get ambushed, again?"
+ },
+ {
+  "k": "70",
+  "en": "In the forest nearby, not too far from our outpost actually. However, the perpetrators seemed to have disappeared deep into the forest."
+ },
+ {
+  "k": "71",
+  "en": "A good hiding place for most people, but not when you've got me hunting you. If they're hiding somewhere in the forest, we'll find them for sure!"
+ },
+ {
+  "k": "72",
+  "en": "Rida hunter too!"
+ },
+ {
+  "k": "73",
+  "en": "It's not much compared to the other two, but I was given some basic tracking training when I was trained to be a guard. "
+ },
+ {
+  "k": "74",
+  "en": "Seems like we're fairly well equipped for the mission then!"
+ },
+ {
+  "k": "75",
+  "en": "I'm relieved to hear all this. Your assistance is once again, very much appreciated."
+ },
+ {
+  "k": "76",
+  "en": "I leave this mission in your capable hands."
+ },
+ {
+  "k": "77",
+  "en": "Consider it done!"
+ },
+ {
+  "k": "78",
+  "en": "(player has control again, new objective 'Find the ambushed Peitho patrol')"
+ },
+ {
+  "k": "79",
+  "cena": "LeftDialogue 1",
+  "en": "<color=perversion><i>(She's all chained up... She's a weaking, unlike <color=red>me</color>, hehehe...)</i></color>"
+ },
+ {
+  "k": "80",
+  "en": "<color=perversion><i>(I wish I could go in and show her how good it feels to obey... That'd be hot...)</i></color>"
+ },
+ {
+  "k": "81",
+  "cena": "Leila Less Than 10 Perversion Talk",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Starting to enjoy having the guards eyes on you, hmm..?~</color>"
+ },
+ {
+  "k": "82",
+  "quem": "Leila (F)",
+  "en": "N-no.. That's not tr-"
+ },
+ {
+  "k": "83",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Is that why you've showed off to them twice now..?~</color>"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hehehe... That's what I thought..~</color>"
+ },
+ {
+  "k": "85",
+  "cena": "Leila Less Than 20 Perversion Talk",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Stop resisting your urge to enjoy yourself already..~</color>"
+ },
+ {
+  "k": "86",
+  "quem": "Leila (F)",
+  "en": "But-.. It's not right to-.."
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>It's not right to feel good..?</color>"
+ },
+ {
+  "k": "88",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>We both know that that's not how it works..~</color>"
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>It feels too <color=red>good</color>, doesn't it..?~</color>"
+ },
+ {
+  "k": "90",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hehehehe...~</color>"
+ },
+ {
+  "k": "91",
+  "cena": "Leila_Private_AnalTraining",
+  "quem": "Leila (F)",
+  "en": "M-.. Ma'am.."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Hey there sweetheart..~</color>"
+ },
+ {
+  "k": "93",
+  "quem": "Leila (F)",
+  "en": "Is it time for-.. More..?"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Look at that... This slut is already longing for more, hehehe... Maybe it's time for something more-... drastic.)</i></color>"
+ },
+ {
+  "k": "95",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>It is...~ We'll have a look at your ass today. Though today we will be a little more-... <b>Invasive</b>.</color>"
+ },
+ {
+  "k": "96",
+  "quem": "Leila (F)",
+  "en": "M-my ass.. R-right.."
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Get down, Leila. Face down, ass up and spread your cheeks nice and wide.</color>"
+ },
+ {
+  "k": "98",
+  "quem": "Leila (F)",
+  "en": "Like-..Like this..?"
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Yes... Very good, sweetheart.</color>"
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Your ass looks so hot, slut... But I know how we can make it even <b>hotter</b>, hehehe...~</color>"
+ },
+ {
+  "k": "101",
+  "quem": "Leila (F)",
+  "en": "R-right.."
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>It's a good thing fun toys like this are easy to find around here, hehehe...</color>"
+ },
+ {
+  "k": "103",
+  "quem": "Leila (F)",
+  "en": "Hhhh-..!"
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Trust me... The men will love this, hehehe...~</color>"
+ },
+ {
+  "k": "105",
+  "quem": "Leila (F)",
+  "en": "Ghhhhmnnn-...!"
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>See..~ You'll get used to enjoying having your ass stretched, hehehe... </color>"
+ },
+ {
+  "k": "107",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(If for nothing else, for <b>my</b> pleasure...~)</i></color>"
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>How does it feel to have a toy in your ass, slut?</color>"
+ },
+ {
+  "k": "109",
+  "quem": "Leila (F)",
+  "en": "Ghh-.. It's-.. It's n-nice, Ma'am..."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Of course, hehe... After being brain washed for so long, your body must be aching to finally be used right.</color>"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Time for some fun then, hehe..~</color>"
+ },
+ {
+  "k": "112",
+  "quem": "Leila (F)",
+  "en": "Mnnghhhh...!"
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Your ass is doing very well, slut..~</color>"
+ },
+ {
+  "k": "114",
+  "quem": "Leila (F)",
+  "en": "Thank y-..! Ghaaa...!"
+ },
+ {
+  "k": "115",
+  "quem": "Leila (F)",
+  "en": "S-so deep-.. M-ma'am.."
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Deep?! There's much more to go inside you, slut!</color>"
+ },
+ {
+  "k": "117",
+  "quem": "Leila (F)",
+  "en": "Mnghhhhh-..! Fhhaaa..."
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>See..~ </color>"
+ },
+ {
+  "k": "119",
+  "quem": "Leila (F)",
+  "en": "I-.. I can feel it so-.. so deep inside of me-...!"
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>We're almost there, slut...~</color>"
+ },
+ {
+  "k": "121",
+  "quem": "Leila (F)",
+  "en": "Ghhhh-....!"
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Perfect, hehehe... The toy is all the way inside your ass, slut...~</color>"
+ },
+ {
+  "k": "123",
+  "quem": "Leila (F)",
+  "en": "All the way-... Mghhh... So deep-... Fghhh..."
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>And now for the real fun, ehehe...~</color>"
+ },
+ {
+  "k": "125",
+  "quem": "Leila (F)",
+  "en": "<b>Fghhhhhhmnnn...!!!"
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Fuck that's hot.)</i></color>"
+ },
+ {
+  "k": "127",
+  "quem": "Leila (F)",
+  "en": "Ghhhhh-..."
+ },
+ {
+  "k": "128",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Feeling empty, slut?~</color>"
+ },
+ {
+  "k": "129",
+  "quem": "Leila (F)",
+  "en": "I-.. Fghhh... I-"
+ },
+ {
+  "k": "130",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Don't worry, we'll fill you right back up...~</color>"
+ },
+ {
+  "k": "131",
+  "quem": "Leila (F)",
+  "en": "Hhhh..! Ghhh-..! Fghhhh...!!"
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(Time to show this slut that she's beneath me, ehehehe...)</i></color>"
+ },
+ {
+  "k": "133",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>This is more fitting for you, anal slut, hahaha..~</color>"
+ },
+ {
+  "k": "134",
+  "quem": "Leila (F)",
+  "en": "Ghhhh...."
+ },
+ {
+  "k": "135",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>In it goes..!</color>"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Filthy <b>slut</b>...~ All that's left for you to do is moan, eh?~</color>"
+ },
+ {
+  "k": "137",
+  "quem": "Leila (F)",
+  "en": "Mnnghhhh... Haaaahhhh-... Yesss-... M-ma'am...!"
+ },
+ {
+  "k": "138",
+  "quem": "Leila (F)",
+  "en": "Mmmmmmmhhhhhhh...! Yeesssss...!"
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>That's right, slut... Your body <b>needs</b> this, hehehe... It needs <b>me</b>...~</color>"
+ },
+ {
+  "k": "140",
+  "quem": "Leila (F)",
+  "en": "Yesss... M-ma'am...."
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Now-... Keep that toy inside you.</color>"
+ },
+ {
+  "k": "142",
+  "quem": "Leila (F)",
+  "en": "Ma'am..?"
+ },
+ {
+  "k": "143",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>You heard me, slut. I know you want to push it out again. It feels good. But you will keep it all the way inside you until I say otherwise, understood?!</color>"
+ },
+ {
+  "k": "144",
+  "quem": "Leila (F)",
+  "en": "Hhh... I-.. Y-yes..."
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>You look so hot down there with my boot pressing you down...~</color>"
+ },
+ {
+  "k": "146",
+  "quem": "Leila (F)",
+  "en": "Ghhhnn... Th-thank y-you.. Ma-am..."
+ },
+ {
+  "k": "147",
+  "quem": "Guard (M)",
+  "en": "Look at that, hahaha."
+ },
+ {
+  "k": "148",
+  "quem": "Leila (F)",
+  "en": "..! Ghh..!!"
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Nice view, hmm?~</color>"
+ },
+ {
+  "k": "150",
+  "quem": "Guard (M)",
+  "en": "Sluts in training are always nice to look at. But having an ex AIRSHIP hero stepping onto her brings it on another level."
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Why don't you join us next time?~</color>"
+ },
+ {
+  "k": "152",
+  "quem": "Leila (F)",
+  "en": "M-.. Ma'am..!!"
+ },
+ {
+  "k": "153",
+  "quem": "Guard (M)",
+  "en": "Who would say no to that?"
+ },
+ {
+  "k": "154",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Sounds about right, ehehe..~</color>"
+ },
+ {
+  "k": "155",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Why don't you give our visitor a show, anal slut? Push it out.</color>"
+ },
+ {
+  "k": "156",
+  "quem": "Leila (F)",
+  "en": "I-.. Ghh..! Fghhh... He-.. He's watching..?"
+ },
+ {
+  "k": "157",
+  "quem": "Guard (M)",
+  "en": "You show off your ass all the time to the guards, bitch, hahaha! Stop pretending this isn't turning you on."
+ },
+ {
+  "k": "158",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Do as you're told, slut!</color>"
+ },
+ {
+  "k": "159",
+  "quem": "Leila (F)",
+  "en": "Nghhh...!"
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Come on, useless slut! Push that toy out of your untrained ass!</color>"
+ },
+ {
+  "k": "161",
+  "quem": "Leila (F)",
+  "en": "Ghhhhh....!"
+ },
+ {
+  "k": "162",
+  "quem": "Guard (M)",
+  "en": "Damn, this slut is quite something, hahaha."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>She <b>is</b>, hehehe...~</color>"
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>Well done, slut... That will do for today, hehehe...~</color>"
+ },
+ {
+  "k": "165",
+  "quem": "Leila (F)",
+  "en": "Hhh... Yes-... Ma'am..."
+ },
+ {
+  "k": "166",
+  "quem": "Leila (F)",
+  "en": "<i>(My ass feels-... Good... Fghhh...)</i>"
+ }
+]

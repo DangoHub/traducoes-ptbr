@@ -1,0 +1,600 @@
+[
+ {
+  "k": "1",
+  "cena": "Sophie_after_raid_1",
+  "en": "Woah....! You actually got them! For real this time...!"
+ },
+ {
+  "k": "2",
+  "en": "<i>(Sophie takes a while just marvelling at the gift we got for her. She's examined it thouroughly plenty of times, so it's rather safe to assume we won't have a mishap like last time happen again.)</i>"
+ },
+ {
+  "k": "3",
+  "en": "Alright. Fair enough. You guys have won me over. I honestly never expected to get my hands on something like this."
+ },
+ {
+  "k": "4",
+  "en": "Glad we could finally get to this point."
+ },
+ {
+  "k": "5",
+  "en": "Well, this is a little bit rare for me, so don't count on it happening again but..."
+ },
+ {
+  "k": "6",
+  "en": "You did go out of your way for me twice. Well, one and a half times since half of it this time around was just doing a good deed but ANYWAY!"
+ },
+ {
+  "k": "7",
+  "en": "For the first and last time, an apology is in order. I'm sorry, guys."
+ },
+ {
+  "k": "8",
+  "en": "Well I'll be damned. I never thought I'd hear that coming from you."
+ },
+ {
+  "k": "9",
+  "en": "Well you better not get used to it 'cus it's not happening again!"
+ },
+ {
+  "k": "10",
+  "en": "<i>(That's definitely more 'Sophie'.)</i>"
+ },
+ {
+  "k": "11",
+  "en": "Say, Jenna. Could you stay behind for a bit? I'd like to talk to you in private, if you will."
+ },
+ {
+  "k": "12",
+  "en": "Just, you know. 'Express my feelings' a little bit better. "
+ },
+ {
+  "k": "13",
+  "tipo": "escolha",
+  "en": "Accept Sophie's offer (perversion)"
+ },
+ {
+  "k": "14",
+  "tipo": "escolha",
+  "en": "Decline Sophie's offer"
+ },
+ {
+  "k": "15",
+  "cena": "sophie_ambush_1",
+  "en": "Characters are lying in wait, preparing to ambush a conoy, whenever it passes by."
+ },
+ {
+  "k": "16",
+  "en": "We are working too hard for that little brat."
+ },
+ {
+  "k": "17",
+  "en": "Yeah, we might be. But we came so far, we might as well. I mean, she's probably got her reasons to be like that. Everyone deals with it differently."
+ },
+ {
+  "k": "18",
+  "en": "Well, we're trying to <i>help</i> her, Blue. She shouldn't treat us like that."
+ },
+ {
+  "k": "19",
+  "en": "Let's just give her another chance. We came all the way out here after all, plus we're helping out the resistance as a whole by doing this."
+ },
+ {
+  "k": "20",
+  "en": "I guess..."
+ },
+ {
+  "k": "21",
+  "en": "I'm fairly confident in saying that good deeds don't go to waste. I'm sure this'll come back and benefit us in more ways than we can see now down the line."
+ },
+ {
+  "k": "22",
+  "en": "Bad guys come! Bad guys come! "
+ },
+ {
+  "k": "23",
+  "en": "Alright everyone, let's give 'em hell!"
+ },
+ {
+  "k": "24",
+  "en": "battle starts)"
+ },
+ {
+  "k": "25",
+  "cena": "sophie_ambush_2",
+  "en": "(after battle ends, players are examining the convoy)"
+ },
+ {
+  "k": "26",
+  "en": "Wow. There's a lot of stuff in here."
+ },
+ {
+  "k": "27",
+  "en": "Look for the bullets everyone. That's what we're here for!"
+ },
+ {
+  "k": "28",
+  "en": "Rida find shiny!"
+ },
+ {
+  "k": "29",
+  "en": "'Officer's badge'...? No, Rida. This isn't what we need."
+ },
+ {
+  "k": "30",
+  "en": "We should keep it. Who knows what we can do with it?"
+ },
+ {
+  "k": "31",
+  "en": "Aaaaaaand here! I found the bullets guys!"
+ },
+ {
+  "k": "32",
+  "en": "Yep, this is our stuff. Let's get it and head back."
+ },
+ {
+  "k": "33",
+  "cena": "Sophie_cheerful_1",
+  "en": "What's up Jenna? Came to compare your little peashooters to my guns?"
+ },
+ {
+  "k": "34",
+  "en": "<i>(I suppose it was a little naive to think she'd stop the teasing, wasn't it?)</i>"
+ },
+ {
+  "k": "35",
+  "en": "Relax, I'm just messing with you. "
+ },
+ {
+  "k": "36",
+  "en": "What's up?"
+ },
+ {
+  "k": "37",
+  "tipo": "escolha",
+  "en": "Found a chance to use that ammo we got you yet?"
+ },
+ {
+  "k": "38",
+  "tipo": "escolha",
+  "en": "When did you discover your love for guns?"
+ },
+ {
+  "k": "39",
+  "tipo": "escolha",
+  "en": "We were just passing by"
+ },
+ {
+  "k": "40",
+  "cena": "Sophie_cheerful_2_question1",
+  "en": "Use it?! No, no, no! I couldn't possibly use that kind of ammo right now!"
+ },
+ {
+  "k": "41",
+  "en": "You just have bullets lying around that you don't use?"
+ },
+ {
+  "k": "42",
+  "en": "Of course I do! That ammo is rare even for Peitho's standards. If we destroy their facilities before we get the design schematic, that ammo might go completely extinct!"
+ },
+ {
+  "k": "43",
+  "en": "<i>(Go extinct...?)</i>"
+ },
+ {
+  "k": "44",
+  "en": "Like I said, I'm a collector of ammo! I have to own some unused ones for all the different types in my collection!"
+ },
+ {
+  "k": "45",
+  "en": "I couldn't even imagine using something as rare as what you brought me on some of those small fries we're fighting right now!"
+ },
+ {
+  "k": "46",
+  "en": "But...you no do fighting...?"
+ },
+ {
+  "k": "47",
+  "en": "It is unfortunately the case, I haven't seen a proper battle in what feels like ages and it's starting to piss me off as well. I'm not gonna rest until I get back at those guys personally for what they did to our old base!"
+ },
+ {
+  "k": "48",
+  "en": "But until then I have to be here to help guard our new one while you guys are out doing your thing."
+ },
+ {
+  "k": "49",
+  "en": "Trust me, first chance I get, I'm gonna be out there fighting with you and those guys'll have more holes than swiss cheese."
+ },
+ {
+  "k": "50",
+  "en": "Anything else you need?"
+ },
+ {
+  "k": "51",
+  "cena": "Sophie_cheerful_3_question2",
+  "en": "Huh...that was so long ago it's actually kinda hard to tell at this point. I think I just always knew."
+ },
+ {
+  "k": "52",
+  "en": "A well made, high power gun can make just about anyone a threat to be taken seriously! Not even Peitho's elite can look down a 50 cal' barrel and act cocky."
+ },
+ {
+  "k": "53",
+  "en": "So I just happened to start collecting them, breaking them down and opening them up, learning everything I could about them whenever I could find one."
+ },
+ {
+  "k": "54",
+  "en": "And when Peitho came to attack the town I was from, they got way more than they bargained for!"
+ },
+ {
+  "k": "55",
+  "en": "I mean, I couldn't hold them off forever, they still ended up getting through with reinforcements, but everyone had evacuated by then."
+ },
+ {
+  "k": "56",
+  "en": "So then I just joined the resistance, and I brought <i>all</i> my expertise with me. I do miss the fighting though, haven't gotten a chance to see some real action for a while."
+ },
+ {
+  "k": "57",
+  "en": "Anything else you need?"
+ },
+ {
+  "k": "58",
+  "cena": "Sophie_cheerful_4_end",
+  "en": "See you guys around then!"
+ },
+ {
+  "k": "59",
+  "en": "See ya!"
+ },
+ {
+  "k": "60",
+  "cena": "Sophie_dealer_1motel",
+  "en": "What can I do for you, back looking for goods to buy? You planning on blowin' up that damn Wildfire? She's turned this whole city into a hellhole."
+ },
+ {
+  "k": "61",
+  "en": "Ummmm, no, we're not looking to blow up any Peitho officials this time around."
+ },
+ {
+  "k": "62",
+  "en": "But we are looking to buy somme 'Firebird' rounds if you've got any!"
+ },
+ {
+  "k": "63",
+  "en": "Firebird rounds, huh? You guys are really after some top quality stuff."
+ },
+ {
+  "k": "64",
+  "en": "I'll tell you, it's not gonna be easy. The house I kept in some of my inventory got raided. I barely managed to escape them myself, that's why I'm hiding out here now."
+ },
+ {
+  "k": "65",
+  "en": "But, my supply stash has been totally plundered. I wasn't sure if I had any to begin with, but even if I did, then I sure as hell don't anymore."
+ },
+ {
+  "k": "66",
+  "cena": "Sophie_dealer_1resbase",
+  "en": "Hey, we kinda need your help with something. "
+ },
+ {
+  "k": "67",
+  "en": "If you're looking for more bombs to blow up some Peitho official, I'm all out at the moment."
+ },
+ {
+  "k": "68",
+  "en": "Well, thankfully we're <i>not</i> on the hunt for bombs. "
+ },
+ {
+  "k": "69",
+  "en": "We're looking for 'Firebird' rounds. Have you ever heard of them?"
+ },
+ {
+  "k": "70",
+  "en": "Hmmm, you guys are after the good stuff then, aren't you?"
+ },
+ {
+  "k": "71",
+  "en": "Would've been a lot easier if you came to me before the whole riot thing went down."
+ },
+ {
+  "k": "72",
+  "en": "As you can see, I don't exactly have access to my previous inventory. I can't even hide out in the motel anymore, I got chased out to this base here."
+ },
+ {
+  "k": "73",
+  "cena": "Sophie_dealer_2final",
+  "en": "But. There is something I can do to help you."
+ },
+ {
+  "k": "74",
+  "en": "I was hoping you'd say something like that. "
+ },
+ {
+  "k": "75",
+  "en": "Honestly, it was a matter of time until everything went to shit around here. No one in their right mind would keep all their inventory in one place."
+ },
+ {
+  "k": "76",
+  "en": "So you've got these bullets stored somewhere else?"
+ },
+ {
+  "k": "77",
+  "en": "You got it. But when you're in my line of work, you can't exactly rent out a warehouse and store all your things there. Especially when your main clients are resistance groups rebelling against the world government."
+ },
+ {
+  "k": "78",
+  "en": "So I prefer to bury my goods and then unearth them whenever I need to sell."
+ },
+ {
+  "k": "79",
+  "en": "Well that's just great! When do you think you can get them?"
+ },
+ {
+  "k": "80",
+  "en": "I can get them whenever you can escort me to the location."
+ },
+ {
+  "k": "81",
+  "en": "Wait what?"
+ },
+ {
+  "k": "82",
+  "en": "What? Everywhere you go its crawling with soldiers now! If I run into a patrol while I'm out there I can't fight them off. That's where you come in."
+ },
+ {
+  "k": "83",
+  "en": "It's only fair right? You want your goods, you help me get to them."
+ },
+ {
+  "k": "84",
+  "en": "I'm guessing there's no discounnt for our us doing our part, is there...?"
+ },
+ {
+  "k": "85",
+  "en": "Desperate times, desperate measures. This isn't as easy as back when you asked me for those bombs. You want the ammo or not?"
+ },
+ {
+  "k": "86",
+  "en": "Oh, and I only take money as payment. I'm not interested in sexual favors."
+ },
+ {
+  "k": "87",
+  "en": "Dammit..."
+ },
+ {
+  "k": "88",
+  "en": "Fine, we're in. "
+ },
+ {
+  "k": "89",
+  "en": "I'm not excited to be digging up material that could get me thrown in some dungeon in the middle of enemy territory either, but that's business."
+ },
+ {
+  "k": "90",
+  "en": "Follow me."
+ },
+ {
+  "k": "91",
+  "cena": "Sophie_Jenna_sex_1",
+  "en": "fade to black"
+ },
+ {
+  "k": "92",
+  "en": "<i>(Once everyone was gone, Sophie quickly grabbed my arm and rushed over to an empty room nearby.)</i>"
+ },
+ {
+  "k": "93",
+  "en": "We can't talk out in the hallway?"
+ },
+ {
+  "k": "94",
+  "en": "Not for the kinda talking I wanna do."
+ },
+ {
+  "k": "95",
+  "en": "(thud sound effect, sophie pushing Jenna to the floor and down naked in front of her)"
+ },
+ {
+  "k": "96",
+  "cena": "Sophie_Jenna_sex_2",
+  "en": "(idle part of the cg)"
+ },
+ {
+  "k": "97",
+  "en": "So, Jenna? Like what you see?"
+ },
+ {
+  "k": "98",
+  "en": "<color=perversion>Yeah...</color>"
+ },
+ {
+  "k": "99",
+  "en": "I was hoping you'd say that. Why don't we celebrate our newfound trust in each other by having a little bit of one on one fun?"
+ },
+ {
+  "k": "100",
+  "en": "I've been so busy lately I couldn't even get some time to play with myself and blow off some stress. Why don't you help me with that?"
+ },
+ {
+  "k": "101",
+  "en": "(jenna begins to rub sophie)"
+ },
+ {
+  "k": "102",
+  "en": "Haaaah...mmmm...! That's it...!"
+ },
+ {
+  "k": "103",
+  "en": "<color=perversion><i>(As I rubbed Sophie's pussy with my hand, I could feel her getting wetter and wetter. Horny as she was however, she still managed to keep an air of dominance about her)</i></color>"
+ },
+ {
+  "k": "104",
+  "en": "Oooooh yeah...don't you stick your fingers in yet! I want to enjoy you servicing me...! Don't you dare rush me...! Ahhhh...!"
+ },
+ {
+  "k": "105",
+  "en": "<color=perversion>Of course...as you wish...</color>"
+ },
+ {
+  "k": "106",
+  "en": "<color=perversion><i>(She really knows how to bring out my submissive side, doesn't she...? Fuck...I wanna play with myself as well...!)</i></color>"
+ },
+ {
+  "k": "107",
+  "en": "(jenna continues to rub sophie for a bit)"
+ },
+ {
+  "k": "108",
+  "en": "You really wanna...haaaah...do more, don't you? I can feel it in the way you're moving...struggling ever so hard to please me...! Mmmm...!"
+ },
+ {
+  "k": "109",
+  "en": "<color=perversion>Y...Yes...!</color>"
+ },
+ {
+  "k": "110",
+  "en": "<color=perversion><i>(She can read me like a book? I guess I'm just that horny and desperate...! With her ass like that in my face though, I can't help it...fgggh...! I just want to eat her out!)</i></color>"
+ },
+ {
+  "k": "111",
+  "en": "Not yet, be a good girl and you'll get your reward...haaaah...! Use your fingers for now!"
+ },
+ {
+  "k": "112",
+  "en": "(jenna starts to finger sophie)"
+ },
+ {
+  "k": "113",
+  "en": "<color=perversion>Is...is this good...?</color>"
+ },
+ {
+  "k": "114",
+  "en": "How am I supposed to tell from now? Keep going and I might...mmmm...! I might tell you when I'm satisfied...!"
+ },
+ {
+  "k": "115",
+  "en": "<color=perversion>Y-Yes...</color>"
+ },
+ {
+  "k": "116",
+  "en": "<color=perversion><i>(When did I get so submissive out of nowhere...we were coming here ready to confront Sophie if she wasn't happy with her second gift...)</i></color>"
+ },
+ {
+  "k": "117",
+  "en": "<color=perversion><i>(Nnnnngh...she's practically made me her bitch in a matter of seconds...!)</i></color>"
+ },
+ {
+  "k": "118",
+  "en": "(jenna rubs sophie for a while longer)"
+ },
+ {
+  "k": "119",
+  "en": "Haaaaah...! That's it...! Don't stop but...use your tongue too! "
+ },
+ {
+  "k": "120",
+  "en": "(jenna inches closer, a bit unsure, continuing to finger sophie)"
+ },
+ {
+  "k": "121",
+  "en": "What are you waiting for...?! Nnnnnghaaaah! Eat my ass, you slut!"
+ },
+ {
+  "k": "122",
+  "en": "(jenna starts to eat out Sophie's ass)"
+ },
+ {
+  "k": "123",
+  "en": "<color=perversion><i>(I didn't miss a beat to follow Sophie's order. I buried my face into her ass and began to poke my tongue inside.)</i></color>"
+ },
+ {
+  "k": "124",
+  "en": "Haaaaaah...fuaaaaah...! Deeper! Shove your tongue deeper into my ass!"
+ },
+ {
+  "k": "125",
+  "en": "<color=perversion>Haaaah...! Ahhhhh...!</color>"
+ },
+ {
+  "k": "126",
+  "en": "<color=perversion><i>(Fuck...! I can't get enough..! More...! Nnnnngh...! I want more...!)</i></color>"
+ },
+ {
+  "k": "127",
+  "en": "J-Jenna...! Waiiiii...! Wait...! Haaaah! If you keep going like that...!"
+ },
+ {
+  "k": "128",
+  "en": "(jenna starts licking and fingering faster)"
+ },
+ {
+  "k": "129",
+  "en": "Nnnnnnngh...! Fuuuuuuuck...! You're gonna make me cum...! Oh fuck....! Haaaaah!"
+ },
+ {
+  "k": "130",
+  "en": "<color=perversion><i>(I'm gonna make you cum...! That's it...! Ffffgh...! I'll eat your ass until you cum!)</i></color>"
+ },
+ {
+  "k": "131",
+  "en": "Ghaaaaaaaaah...! I'm cumming...! I'm cummiiiiiiiiiiiiiing...!"
+ },
+ {
+  "k": "132",
+  "en": "(sophie squirts out, jenna continues to finger her)"
+ },
+ {
+  "k": "133",
+  "en": "Nghaaaaaaaaaaaaaaaaaaaah~! Ahhhhhhhhhhhhhhhh...!"
+ },
+ {
+  "k": "134",
+  "en": "(scene plays out, continue once Sophie is finished squirting, jenna stops fingering and eating as well)"
+ },
+ {
+  "k": "135",
+  "en": "Haaaaaah...haaah...."
+ },
+ {
+  "k": "136",
+  "en": "<color=perversion>Not bad, huh? It looked like you came pretty hard back there.</color>"
+ },
+ {
+  "k": "137",
+  "en": "Yeah just...haaaah...give me a moment..."
+ },
+ {
+  "k": "138",
+  "en": "Take your time."
+ },
+ {
+  "k": "139",
+  "en": "<color=perversion>Oh, and I do hope this further solidifies our bond and trust with each other.</color>"
+ },
+ {
+  "k": "140",
+  "en": "It...haaaah...it does...yes it does...haaah..."
+ },
+ {
+  "k": "141",
+  "en": "(fade to black)"
+ },
+ {
+  "k": "142",
+  "cena": "Sophie_Jenna_sex_3",
+  "en": "black"
+ },
+ {
+  "k": "143",
+  "en": "<i>(I allowed Sophie to catch her breath, clearly she wasn't expecting such a performance from me.)</i>"
+ },
+ {
+  "k": "144",
+  "en": "<i>(I really did mean what I said though. I genuinely hope this gets her to actually see us as the allies we're trying to be. Well, me at least. I'm the one she was suspicious of.)</i>"
+ },
+ {
+  "k": "145",
+  "en": "fade in"
+ }
+]

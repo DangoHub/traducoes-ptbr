@@ -1,0 +1,869 @@
+[
+ {
+  "k": "1",
+  "cena": "ISH_PreFinalBattle",
+  "quem": "Jenna (F)",
+  "en": "What’s the matter, Leath? Fighting too much of a strain for you?"
+ },
+ {
+  "k": "2",
+  "quem": "Leath (F)",
+  "en": "Dealing with an aimless child is beneath me. You may think you have the upper hand, but that ignorant assumption is gravely mistaken. I will enjoy watching you fall."
+ },
+ {
+  "k": "3",
+  "quem": "Jenna (F)",
+  "en": "Sheesh, I always knew you cared."
+ },
+ {
+  "k": "4",
+  "quem": "Leath (F)",
+  "en": "Though I must say. Your resolve is commendable. Not many can walk these halls without succumbing to their desires. No matter, for you shall fall soon enough."
+ },
+ {
+  "k": "5",
+  "quem": "Jenna (F)",
+  "en": "Are we gonna talk or <color=perversion>fuck</color>-"
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "Fight! I meant fight!"
+ },
+ {
+  "k": "7",
+  "cena": "ISH_PreFirstBattle",
+  "quem": "Jenna (F)",
+  "en": "<i>(Looks like now's as good a time as any to see if HQ's work paid off. Time for speedy Jenna!)</i>"
+ },
+ {
+  "k": "8",
+  "cena": "ISH_SecondEngineer",
+  "quem": "Narrador",
+  "en": "<i>Just like the first, the second man falls to the ground while jerking himself off in sudden need, causing my cheeks to light up red.</i>"
+ },
+ {
+  "k": "9",
+  "quem": "Leath (F)",
+  "en": "Embarrassed of what your actions caused? Embrace it, Wright. This is all you're good for."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "What, kicking your ass?"
+ },
+ {
+  "k": "11",
+  "quem": "Leath (F)",
+  "en": "Amusing..."
+ },
+ {
+  "k": "12",
+  "cena": "ISH_SoldierIntro",
+  "quem": "Jenna (F)",
+  "en": "<i>(These guys seem to be a little more tough, still no match for me of course!)</i>"
+ },
+ {
+  "k": "13",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>(I wonder how their cocks taste...)</color></i>"
+ },
+ {
+  "k": "14",
+  "quem": "Jenna (F)",
+  "en": "What the fuck is wrong with me!?"
+ },
+ {
+  "k": "15",
+  "quem": "Soldier (M)",
+  "en": "Uh... Everything? You're the bad guy after all."
+ },
+ {
+  "k": "16",
+  "quem": "Jenna (F)",
+  "en": "No you! Oh shut it! Let's fight!"
+ },
+ {
+  "k": "17",
+  "cena": "ISH_SuperSoldierIntro",
+  "en": "<i>That guy's got some serious armor on him! I wonder if he remembered to cover his <b><color=red>back</color></b>...</i>"
+ },
+ {
+  "k": "18",
+  "cena": "ISH_ThirdEngineer",
+  "quem": "Narrador",
+  "en": "<i>I keep my eyes away from the man this time, knowing what's coming as the laser lights up on him.</i>"
+ },
+ {
+  "k": "19",
+  "quem": "Jenna (F)",
+  "en": "<i>(Al<color=perversion>mos</color>t there, just <color=perversion>one mor</color>e guy and she's <color=perversion>min</color>e!)</i>"
+ },
+ {
+  "k": "20",
+  "quem": "Leath (F)",
+  "en": "Time is running out for you, Wright. Choose your next moves carefully."
+ },
+ {
+  "k": "21",
+  "cena": "ISH_TV1",
+  "quem": "Jenna (F)",
+  "en": "<i>(W-what the...?! They must have forced her...)</i>"
+ },
+ {
+  "k": "22",
+  "quem": "Jenna (F)",
+  "en": "<i>(I have to get Karen out of here!)</i>"
+ },
+ {
+  "k": "23",
+  "cena": "ISH_TV2",
+  "quem": "Jenna (F)",
+  "en": "<i>(What is that..?!)</i>"
+ },
+ {
+  "k": "24",
+  "quem": "Jenna (F)",
+  "en": "<i>(It looks slimy...)</i>"
+ },
+ {
+  "k": "25",
+  "cena": "ItemPickup",
+  "quem": "Narrador",
+  "en": "<i>You acquired #ItemName#!</i>"
+ },
+ {
+  "k": "26",
+  "cena": "ItemTaken",
+  "quem": "Narrador",
+  "en": "<i>You lost #ItemName#!</i>"
+ },
+ {
+  "k": "27",
+  "cena": "Jenna and Altin Dialogue",
+  "en": "How is it going Altin?"
+ },
+ {
+  "k": "28",
+  "en": "These b-bandanas are ma-marvelous to put it e-easy, they use\r \nan m-microchip that is con-connected to a data c-cloud that p-projects the faces on the b-bandana. \n"
+ },
+ {
+  "k": "29",
+  "en": "N-not only th-that, but if y-you share the s-same fre-frequency then\r\nthe ba-bandanas d-detect that, a-and you can s-see through th-them!\r"
+ },
+ {
+  "k": "30",
+  "en": "That… sounds... fascinating?   \r\n"
+ },
+ {
+  "k": "31",
+  "en": "Y-Yes! The t-technology that goes i-into these devices are n-nothing short of a m-marvel! A-And the software! D-Do you k-know the sheer i-ingenuity that w-went into it?\n"
+ },
+ {
+  "k": "32",
+  "en": "I’m sure you’ll tell me all about it… Later!\r\n"
+ },
+ {
+  "k": "33",
+  "en": "Mhhhh..."
+ },
+ {
+  "k": "34",
+  "cena": "Jenna and Lady Dialogue",
+  "en": "Hey... I just wanted to say that I'm grateful for all you've done for us so far. Things were on the decline and it's been a huge morale boost to have a real hero around."
+ },
+ {
+  "k": "35",
+  "en": "Don’t mention it! It’s my job to help out!\r"
+ },
+ {
+  "k": "36",
+  "en": "You're not just helping. You're a new hope for us. "
+ },
+ {
+  "k": "37",
+  "en": "I understood that reference!\n"
+ },
+ {
+  "k": "38",
+  "en": "… What? \r\n"
+ },
+ {
+  "k": "39",
+  "en": "Eheh… Never mind. \r\n"
+ },
+ {
+  "k": "40",
+  "en": "Well that being said-... I have to prepare. Get some rest. Tomorrow is an important day.\n"
+ },
+ {
+  "k": "41",
+  "cena": "Jenna and Sofie Dialogue1",
+  "en": "Are you ready for the raid? \r\n"
+ },
+ {
+  "k": "42",
+  "en": "Why don't you leave me alone, twinkle toes? I have to get the fuckin' guns ready. Or do you know anything about weapons? I guess not. \r\n"
+ },
+ {
+  "k": "43",
+  "en": "Hey, I just wanted to check on you, no need for this hostility. We are on the same team.\n"
+ },
+ {
+  "k": "44",
+  "en": "Whaddya want? You helped us and you think we are besties now? \r\n"
+ },
+ {
+  "k": "45",
+  "en": "No... \r\n"
+ },
+ {
+  "k": "46",
+  "en": "Fuckin' right leave me alone, I have a job to do.\n"
+ },
+ {
+  "k": "47",
+  "cena": "Jenna and Sofie Dialogue2",
+  "en": "Hey, just wanted to check how's it going.   \n"
+ },
+ {
+  "k": "48",
+  "en": "Fuckin' great, twinkle toes. Got some new sweet stuff from Altin to modify my little toys. With those bad boys, we can bring those fuckers hell. \n"
+ },
+ {
+  "k": "49",
+  "en": "Sounds a bit too harsh, we don't wanna destroy the storehouse we wanna get some supplies out of there.   "
+ },
+ {
+  "k": "50",
+  "en": "You are like your little toy guns you are just too soft and don't get the job done.   \n"
+ },
+ {
+  "k": "51",
+  "en": "...We are the good guys, we can't just destroy things.\n"
+ },
+ {
+  "k": "52",
+  "en": "Like I said you're fuckin' soft, twinkle toes. You don't know what we have been through!  \n"
+ },
+ {
+  "k": "53",
+  "en": "Seems like you have nothing left to say, leave me alone now I have to prepare. \n"
+ },
+ {
+  "k": "54",
+  "cena": "Jenna Ask Strip",
+  "quem": "Jenna (F)",
+  "en": "Should I put the pole to some use?"
+ },
+ {
+  "k": "55",
+  "tipo": "escolha",
+  "en": "<color=perversion>Use the pole.</color>"
+ },
+ {
+  "k": "56",
+  "tipo": "escolha",
+  "en": "Leave."
+ },
+ {
+  "k": "57",
+  "cena": "Jenna before cutscene",
+  "quem": "Jenna (F)",
+  "en": "<b> Hey guys the door is open! </b>"
+ },
+ {
+  "k": "58",
+  "cena": "Jenna before cutscene Rida",
+  "quem": "Jenna (F)",
+  "en": "<b> Hey guys the door is open and get Rida she is still on the first floor! </b>"
+ },
+ {
+  "k": "59",
+  "cena": "Jenna before cutscene throb",
+  "quem": "Jenna (F)",
+  "en": "<b> Hey guys the door is open and get Throb he is still on the first floor! </b>"
+ },
+ {
+  "k": "60",
+  "cena": "Jenna Enter Room First Time",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(So this is my room... Not quite what I <color=red>deserve</color>..)</i></color>"
+ },
+ {
+  "k": "61",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion><i>(I'm sure, I will have <color=red>nicer</color> things soon, hehehe..)</i></color>"
+ },
+ {
+  "k": "62",
+  "cena": "Jenna Outpost Mission 1_3",
+  "en": "Hey! What the hell's going on here, who let these guys in?!"
+ },
+ {
+  "k": "63",
+  "en": "It's the resistance! No! It's the AIRSHIP hero!"
+ },
+ {
+  "k": "64",
+  "en": "Wha...What the hell are they doing here?! Where's our patrol unit?!"
+ },
+ {
+  "k": "65",
+  "en": "Central still hasn't sent us a replacement!"
+ },
+ {
+  "k": "66",
+  "en": "<i>(These guys are...comedically underprepared...)</i>"
+ },
+ {
+  "k": "67",
+  "en": "Someone start destroying the research files and our supplies! Everyone else prepare to fight, we can't let them pillage the base!"
+ },
+ {
+  "k": "68",
+  "en": "Oh no you don't! Everyone, let's put these Peitho thugs in their place!"
+ },
+ {
+  "k": "69",
+  "en": "We beat them down in no time!"
+ },
+ {
+  "k": "70",
+  "en": "Let's get this done quick before they manage to get reinforcemments!"
+ },
+ {
+  "k": "71",
+  "en": "(maybe we can have a very liberal timer here, to add some 'action' to the fight. Like X turns before peitho supplies self destruct, so the players feel some more pressure other than just a regualr old encounter)"
+ },
+ {
+  "k": "72",
+  "cena": "Jenna Outpost Mission 1_4",
+  "en": "Well, that was certainly easier than anything I'd have expected."
+ },
+ {
+  "k": "73",
+  "en": "These guys clearly look like they were depending on the base to stay hidden. They weren't expecting to be raided. We have Lady to thank for finding their location."
+ },
+ {
+  "k": "74",
+  "en": "We came to pick up stuff, right? Everything around still?"
+ },
+ {
+  "k": "75",
+  "en": "Seems like it, didn't sound like anything self destructed yet, so we should be good."
+ },
+ {
+  "k": "76",
+  "en": "Alright then, there's plenty of us, so let's split the work out between us. Everybody go collect some supplies."
+ },
+ {
+  "k": "77",
+  "en": "We'll be ready to head out on your signal, Jenna."
+ },
+ {
+  "k": "78",
+  "en": "You got it."
+ },
+ {
+  "k": "79",
+  "cena": "Jenna Outpost Mission 1_5",
+  "en": "Everything done?"
+ },
+ {
+  "k": "80",
+  "en": "Are we ready to head out?"
+ },
+ {
+  "k": "81",
+  "cena": "Jenna Outpost Mission 1_5accept",
+  "en": "Alright, we've all gathered our batches of supplies, right?"
+ },
+ {
+  "k": "82",
+  "en": "Right!"
+ },
+ {
+  "k": "83",
+  "en": "We're off, then!"
+ },
+ {
+  "k": "84",
+  "en": "fade to black and teleport player back to resistance base. I think you said something about a control room?)"
+ },
+ {
+  "k": "85",
+  "cena": "Jenna Outpost Mission 1_5decline",
+  "en": "Let's all make sure we've gathered everything we need before we leave. We're likely not coming back here again."
+ },
+ {
+  "k": "86",
+  "en": "You heard the man."
+ },
+ {
+  "k": "87",
+  "en": "player can continue to roam around in the base"
+ },
+ {
+  "k": "88",
+  "cena": "Jenna Outpost Mission 1_6",
+  "en": "H-How incredible! There's e-e-even more in these supplies than we had initially anticipated! This is amazing!"
+ },
+ {
+  "k": "89",
+  "en": "Did anybody check if Wildfire tailed these guys back here?"
+ },
+ {
+  "k": "90",
+  "en": "I think if she did we'd all be cinders right now."
+ },
+ {
+  "k": "91",
+  "en": "You really need to stop worrying so much about them, Sophie. They're trying to help, if you don't want to show gratitude, then at least don't insult them."
+ },
+ {
+  "k": "92",
+  "en": "Fine, I suppose you guys did a good job after all."
+ },
+ {
+  "k": "93",
+  "en": "Well gee, it sure means a lot coming from you! Hope we can start working together on friendly terms from now on."
+ },
+ {
+  "k": "94",
+  "en": "Yeah, whatever. You're still gonna have to keep up with me with those little pea shooters."
+ },
+ {
+  "k": "95",
+  "en": "Sophie!"
+ },
+ {
+  "k": "96",
+  "en": "Okay, okay, I'll can it."
+ },
+ {
+  "k": "97",
+  "en": "As I was saying, we're all, including Sophie, very grateful for your efforts. The supplies you've brought us will breathe new life into the resistance."
+ },
+ {
+  "k": "98",
+  "en": "This is the start of a new era, and you have helped us begin our journey down that path."
+ },
+ {
+  "k": "99",
+  "en": "No problem. And we're always happy to help out some more if needed."
+ },
+ {
+  "k": "100",
+  "en": "Say, you did mention earlier there were a bunch of other bases around. Where are those located?"
+ },
+ {
+  "k": "101",
+  "en": "Those aren't our priority right now, so make sure you don't needlessly tire yourselves out pursuing them."
+ },
+ {
+  "k": "102",
+  "en": "However, should you find that you have some time to go on another mission, let me know and I'll give you the coordinates."
+ },
+ {
+  "k": "103",
+  "en": "Now, we have to begin the rebuilding process. Sophie, get the members working as soon as possible."
+ },
+ {
+  "k": "104",
+  "en": "You got it!"
+ },
+ {
+  "k": "105",
+  "en": "Everyone else, back to your usual stations. Make sure the efforts of our comrades don't go to waste! Let's get this base back up and running!"
+ },
+ {
+  "k": "106",
+  "en": "(players now free to roam about again)"
+ },
+ {
+  "k": "107",
+  "cena": "Jenna Practice Strip 1",
+  "quem": "Narrador",
+  "en": "<i>(Approaching the pole, I suddenly realize just how different stage dancing is from this...)</i>"
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "<i>(Come on Jenna...! You can't make a fool of yourself now! Think, think, think...!)</i>"
+ },
+ {
+  "k": "109",
+  "quem": "Jenna (F)",
+  "en": "<i>(Maybe I can make use of all the stretching practice I did at AIRSHIP...)</i>"
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "<i>(Maybe just stretching around on the pole doesn't look too bad...)</i>"
+ },
+ {
+  "k": "111",
+  "quem": "Jenna (F)",
+  "en": "How's this?"
+ },
+ {
+  "k": "112",
+  "quem": "Throb (M)",
+  "en": "Wow, you're really flexible. I guess I should expect that from a hero, huh?"
+ },
+ {
+  "k": "113",
+  "quem": "Rida (F)",
+  "en": "Rida like flex."
+ },
+ {
+  "k": "114",
+  "quem": "Jewel (F)",
+  "en": "Pose is great, but don't leave it at that. It's called 'pole dancing' after all. Not 'pole posing.'"
+ },
+ {
+  "k": "115",
+  "quem": "Jenna (F)",
+  "en": "R...Right...! Heh- hehe..."
+ },
+ {
+  "k": "116",
+  "quem": "Narrador",
+  "en": "<i>I slowly start to test the limits of how much I can move my body on the pole.</i>"
+ },
+ {
+  "k": "117",
+  "quem": "Jewel (F)",
+  "en": "Come on Jenna, you're gonna put the audience to sleep moving like that."
+ },
+ {
+  "k": "118",
+  "quem": "Rida (F)",
+  "en": "Rida see, Jenna no sure how..."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "<i>(Am I that transparent...?)</i>"
+ },
+ {
+  "k": "120",
+  "quem": "Jewel (F)",
+  "en": "She's probably just nervous. Stage fright and all that."
+ },
+ {
+  "k": "121",
+  "quem": "Jewel (F)",
+  "en": "Use your dominant hand to find balance, Jen. No point trying to spread the weight equally like that."
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "<i>(Thank you Jewel, you're a lifesaver!)</i>"
+ },
+ {
+  "k": "123",
+  "quem": "Jewel (F)",
+  "en": "Don't forget, your main grip on the pole should be beneath your knee, that's where you'll get the best friction."
+ },
+ {
+  "k": "124",
+  "quem": "Jenna (F)",
+  "en": "Alright-... I can do this..!"
+ },
+ {
+  "k": "125",
+  "quem": "Jewel (F)",
+  "en": "There you go, girl! That's the stuff!"
+ },
+ {
+  "k": "126",
+  "quem": "Rida (F)",
+  "en": "Jenna smarts fast!"
+ },
+ {
+  "k": "127",
+  "quem": "Floria (F)",
+  "en": "Let's not work her to death, guys. Take it at your own pace, Jenna."
+ },
+ {
+  "k": "128",
+  "quem": "Narrador",
+  "en": "<i>(I continue to practice according to the advice Jewel gave me and thankfully I find that I'm getting the hang of this quite well)</i>"
+ },
+ {
+  "k": "129",
+  "quem": "Narrador",
+  "en": "<i>(Rida's lustful gaze is more than enough proof of that, and so is that beaming look of pride on Jewel's.)</i>"
+ },
+ {
+  "k": "130",
+  "quem": "Narrador",
+  "en": "<i>(Suddenly, a sharp pain jolts my attention away from my thoughts.)</i>"
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "Ahhh!"
+ },
+ {
+  "k": "132",
+  "quem": "Rida (F)",
+  "en": "Jenna!"
+ },
+ {
+  "k": "133",
+  "quem": "Throb (M)",
+  "en": "Jenna! Are you alright?!"
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "Owwww...."
+ },
+ {
+  "k": "135",
+  "quem": "Rida (F)",
+  "en": "Jenna hurt?!"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "I'm fine...owwww....just ended up getting a cramp out of nowhere..."
+ },
+ {
+  "k": "137",
+  "quem": "Jewel (F)",
+  "en": "Aww, sorry blue. I should have asked you to stretch your lovely body before you started."
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "No, no, hehehe...owwwww...Don't beat yourself up too much over it. It was pretty stupid of me as well to forget to do some stretches before something like this."
+ },
+ {
+  "k": "139",
+  "quem": "Throb (M)",
+  "en": "Well, at the very least Jenna looks to be okay. I don't think you should practice anymore today."
+ },
+ {
+  "k": "140",
+  "quem": "Jewel (F)",
+  "en": "Overly cautious as he may be sometimes, I'm inclined to agree with Throb on this one. Take some time and rest if you wanna do this again."
+ },
+ {
+  "k": "141",
+  "quem": "Jenna (F)",
+  "en": "Yeah...it's probably for the best. I think we'll call it quits for today."
+ },
+ {
+  "k": "142",
+  "quem": "Rida (F)",
+  "en": "Practice tomorrow again?!"
+ },
+ {
+  "k": "143",
+  "quem": "Floria (F)",
+  "en": "Don't rush her, Rida. Jenna will practice again when she's ready. It's not like you won't be around to see it."
+ },
+ {
+  "k": "144",
+  "quem": "Jenna (F)",
+  "en": "Thanks for the support either way, guys. I'm sure I'll do better next time!"
+ },
+ {
+  "k": "145",
+  "cena": "Jenna Practice Strip 2",
+  "quem": "Jewel (F)",
+  "en": "Feeling like giving the pole another go, Jen?"
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "Yeah, I can do this!"
+ },
+ {
+  "k": "147",
+  "quem": "Floria (F)",
+  "en": "Don't forget your stretching this time!"
+ },
+ {
+  "k": "148",
+  "quem": "Narrador",
+  "en": "<i>(I stretch on my own for a bit, and Jewel ends up joining in to help me.)</i>"
+ },
+ {
+  "k": "149",
+  "quem": "Jewel (F)",
+  "en": "There we go, I think you're ready now. Ready to conquer our hearts!"
+ },
+ {
+  "k": "150",
+  "quem": "Rida (F)",
+  "en": "Excite!"
+ },
+ {
+  "k": "151",
+  "quem": "Narrador",
+  "en": "<i>(Calming my nerves, I climb onto the pole and begin to move.)</i>"
+ },
+ {
+  "k": "152",
+  "quem": "Narrador",
+  "en": "<i>(Thanks to Jewel's tips from the last session, it's way easier to get the hang of this on my second attempt.)</i>"
+ },
+ {
+  "k": "153",
+  "quem": "Jewel (F)",
+  "en": "That's what I'm talking about, girl! Shake your stuff!"
+ },
+ {
+  "k": "154",
+  "quem": "Throb (M)",
+  "en": "She's pretty good."
+ },
+ {
+  "k": "155",
+  "quem": "Rida (F)",
+  "en": "Jenna sexy..."
+ },
+ {
+  "k": "156",
+  "quem": "Narrador",
+  "en": "<i>(The encouraging words of my friends give me more confidence to move about freely and without worry.)</i>"
+ },
+ {
+  "k": "157",
+  "quem": "Rida (F)",
+  "en": "Ooooooh! Rida wanna get up there and jam cock in between Jenna's tits!"
+ },
+ {
+  "k": "158",
+  "quem": "Jewel (F)",
+  "en": "Easy there, girl. You'll knock her off balance. Let her get some practice before you go doing crazy stuff like that."
+ },
+ {
+  "k": "159",
+  "quem": "Narrador",
+  "en": "<i>(I continue to put on a show for my friends until my body feels like it's nearing it's limits.)</i>"
+ },
+ {
+  "k": "160",
+  "quem": "Jenna (F)",
+  "en": "<i>(No need to repeat last time's fiasco!)</i>"
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "So! How's that for some pole dancing, guys?"
+ },
+ {
+  "k": "162",
+  "quem": "Throb (M)",
+  "en": "You were great, Jenna!"
+ },
+ {
+  "k": "163",
+  "quem": "Jewel (F)",
+  "en": "Done like a pro!"
+ },
+ {
+  "k": "164",
+  "quem": "Rida (F)",
+  "en": "Rida hard..."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "Awww, thank you guys!"
+ },
+ {
+  "k": "166",
+  "quem": "Narrador",
+  "en": "<i>(I climb off the pole and get back down on my feet.)</i>"
+ },
+ {
+  "k": "167",
+  "quem": "Jenna (F)",
+  "en": "So, that's that I guess, huh? I'm ready to entertain our friends!"
+ },
+ {
+  "k": "168",
+  "quem": "Jewel (F)",
+  "en": "And I'm sure they're more than ready to be entertained by you!"
+ },
+ {
+  "k": "169",
+  "quem": "Rida (F)",
+  "en": "Jenna give Rida dance?"
+ },
+ {
+  "k": "170",
+  "quem": "Floria (F)",
+  "en": "Jenna is the star of the show, and we're doing this to raise morale, Rida. You can't hog her all to yourself."
+ },
+ {
+  "k": "171",
+  "quem": "Rida (F)",
+  "en": "Hog?"
+ },
+ {
+  "k": "172",
+  "quem": "Floria (F)",
+  "en": "Never mind."
+ },
+ {
+  "k": "173",
+  "quem": "Jenna (F)",
+  "en": "We can arrange something down the line, Rida. Don't worry about it. But like Floria said, we need to focus on getting up the morale of our fellow resistance fighters for now!"
+ },
+ {
+  "k": "174",
+  "quem": "Rida (F)",
+  "en": "Rida will remember!"
+ },
+ {
+  "k": "175",
+  "quem": "Jewel (F)",
+  "en": "Man, that girl is hornier than me sometimes."
+ },
+ {
+  "k": "176",
+  "quem": "Throb (M)",
+  "en": "Impossible as that may sound, I'm inclined to agree."
+ },
+ {
+  "k": "177",
+  "cena": "Jenna React after Watch",
+  "quem": "Jenna (F)",
+  "en": "<color=perversion>She really took one for the team! hehe</color>"
+ },
+ {
+  "k": "178",
+  "cena": "Jenna Reaction",
+  "quem": "Jenna (F)",
+  "en": "Shit!"
+ },
+ {
+  "k": "179",
+  "quem": "Jenna (F)",
+  "en": "You think we can talk this out maybe?"
+ },
+ {
+  "k": "180",
+  "quem": "Mina (F)",
+  "en": "Carcen pay now for make tribe weaker!"
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "I guess that's a no."
+ },
+ {
+  "k": "182",
+  "cena": "Jenna reaction",
+  "quem": "Jenna (F)",
+  "en": "Where am I? What is this place?\r"
+ }
+]

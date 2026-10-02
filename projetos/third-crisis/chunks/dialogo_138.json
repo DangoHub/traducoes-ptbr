@@ -1,0 +1,928 @@
+[
+ {
+  "k": "1",
+  "cena": "VIPVRCenter_Motel_AskForAccessCard_Accept",
+  "quem": "Jenna (F)",
+  "en": "Alright, fine. I'll do it."
+ },
+ {
+  "k": "2",
+  "quem": "MotelOwner (M)",
+  "en": "I'm waiting, my dear badge girl."
+ },
+ {
+  "k": "3",
+  "quem": "Narrador",
+  "en": "<i>I let out a heavy sigh and do my best to make a slutty face, my cheeks flashing a bright embarrassed red.</i>"
+ },
+ {
+  "k": "4",
+  "quem": "Jenna (F)",
+  "en": "Like this...?"
+ },
+ {
+  "k": "5",
+  "quem": "MotelOwner (M)",
+  "en": "You can do better than that, little hero. Are you sure you want the weapons?"
+ },
+ {
+  "k": "6",
+  "quem": "Jenna (F)",
+  "en": "Asshole!"
+ },
+ {
+  "k": "7",
+  "quem": "MotelOwner (M)",
+  "en": "That's not a slutty face..."
+ },
+ {
+  "k": "8",
+  "quem": "Jenna (F)",
+  "en": "Fine..."
+ },
+ {
+  "k": "9",
+  "quem": "MotelOwner (M)",
+  "en": "Mmm... That's much better... Very good girl."
+ },
+ {
+  "k": "10",
+  "quem": "Jenna (F)",
+  "en": "There. Is that enough?"
+ },
+ {
+  "k": "11",
+  "quem": "MotelOwner (M)",
+  "en": "For now... I'm sure you know how to use brass knuckles."
+ },
+ {
+  "k": "12",
+  "quem": "Jenna (F)",
+  "en": "I know some hand to hand... But why are they called Grav Knuckles?"
+ },
+ {
+  "k": "13",
+  "quem": "MotelOwner (M)",
+  "en": "They use some gravity mumbo jumbo to put extra power in your punches. That force will cause anyone you hit to be pushed backwards."
+ },
+ {
+  "k": "14",
+  "quem": "MotelOwner (M)",
+  "en": "Even your little girly arms will cause a huge punch with these babies."
+ },
+ {
+  "k": "15",
+  "quem": "Jenna (F)",
+  "en": "Fuck off. I could kick your ass if I wanted, even without these things."
+ },
+ {
+  "k": "16",
+  "quem": "MotelOwner (M)",
+  "en": "Then why won't you? Ah yes, it's because I hold all the cards. You're not going to do anything with your little hero strength, and that makes this all the more sweet."
+ },
+ {
+  "k": "17",
+  "quem": "Jenna (F)",
+  "en": "Whatever... I'm going to the bar and getting your damn money."
+ },
+ {
+  "k": "18",
+  "quem": "MotelOwner (M)",
+  "en": "Good girl."
+ },
+ {
+  "k": "19",
+  "cena": "VIPVRCenter_Motel_AskForAccessCard_Decline",
+  "quem": "Jenna (F)",
+  "en": "Not a chance. I'll take my chances."
+ },
+ {
+  "k": "20",
+  "quem": "MotelOwner (M)",
+  "en": "Suit yourself, little hero."
+ },
+ {
+  "k": "21",
+  "quem": "MotelOwner (M)",
+  "en": "I'll be waiting for my money, run along to the bar now."
+ },
+ {
+  "k": "22",
+  "cena": "VIPVRCenter_Motel_ReceiveAccessCard",
+  "quem": "Jenna (F)",
+  "en": "Here's your fB, Klaus. Now can you give me that access card?"
+ },
+ {
+  "k": "23",
+  "quem": "Narrador",
+  "en": "<i>He nods and takes the offered package of fuckbucks, setting it aside and smirking at me.</i>"
+ },
+ {
+  "k": "24",
+  "quem": "MotelOwner (M)",
+  "en": "Too ashamed to say what they're called, Miss fB?"
+ },
+ {
+  "k": "25",
+  "quem": "Jenna (F)",
+  "en": "It's just a stupid name."
+ },
+ {
+  "k": "26",
+  "quem": "Jewel (F)",
+  "en": "Hey! I kinda like it!"
+ },
+ {
+  "k": "27",
+  "quem": "MotelOwner (M)",
+  "en": "Haha, I see you've made a new friend, little hero. Hello, Jewel. How are things at the bar?"
+ },
+ {
+  "k": "28",
+  "quem": "Jewel (F)",
+  "en": "They're good, hun. Haven't seen you around in a while. Why's that?"
+ },
+ {
+  "k": "29",
+  "quem": "MotelOwner (M)",
+  "en": "Well, I've been... investing in a recent acquisition of mine."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Uh huh..."
+ },
+ {
+  "k": "31",
+  "quem": "Jewel (F)",
+  "en": "Oh, you mean blue? Hehe... She is a real sweetheart."
+ },
+ {
+  "k": "32",
+  "quem": "MotelOwner (M)",
+  "en": "She is. Though she can be a little... difficult sometimes."
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "Bite me! I just want the damn VR card, Klaus."
+ },
+ {
+  "k": "34",
+  "quem": "MotelOwner (M)",
+  "en": "Alright, alright. Here it is. Enjoy, little hero."
+ },
+ {
+  "k": "35",
+  "cena": "VIPVRCenter_Motel_RemindToCompleteAlcohol",
+  "quem": "MotelOwner (M)",
+  "en": "Nuh uh! Before you say anything... I've given you enough help. Go make a friend or something."
+ },
+ {
+  "k": "36",
+  "cena": "VIPVRCenter_VR_1_Intro_1",
+  "quem": "Technician (M)",
+  "en": "Shit! Shit! Shit!"
+ },
+ {
+  "k": "37",
+  "quem": "Technician (M)",
+  "en": "What the fuck is wrong with this stupid thing?!"
+ },
+ {
+  "k": "38",
+  "cena": "VIPVRCenter_VR_1_Intro_2",
+  "quem": "Jenna (F)",
+  "en": "<i>(What's up with that guy?)</i>"
+ },
+ {
+  "k": "39",
+  "quem": "Bouncer (M)",
+  "en": "Hold up, badge girl. Do you have an access card?"
+ },
+ {
+  "k": "40",
+  "quem": "Jenna (F)",
+  "en": "Yep! Got it right here!"
+ },
+ {
+  "k": "41",
+  "quem": "Bouncer (M)",
+  "en": "Huh. Well good for you. Looks like you've got a generous owner."
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Uh huh..."
+ },
+ {
+  "k": "43",
+  "cena": "VIPVRCenter_VR_1_Intro_3",
+  "quem": "Technician (M)",
+  "en": "Agh! Dammit! Stupid machine!"
+ },
+ {
+  "k": "44",
+  "cena": "VIPVRCenter_VR_1_Intro_4",
+  "quem": "Jenna (F)",
+  "en": "Seems like that guy is being conveniently noticable about his problems."
+ },
+ {
+  "k": "45",
+  "quem": "Bouncer (M)",
+  "en": "Huh? Oh that's one of our technicians. Something going on with the systems or something."
+ },
+ {
+  "k": "46",
+  "quem": "Jenna (F)",
+  "en": "Huh. Maybe I could help with that!"
+ },
+ {
+  "k": "47",
+  "quem": "Bouncer (M)",
+  "en": "Sure. Knock yourself out."
+ },
+ {
+  "k": "48",
+  "cena": "VIPVRCenter_VR_1_Intro_DoorLocked",
+  "quem": "Jenna (F)",
+  "en": "<i>(I can't leave just yet. I need to go lay on the bed to save those people!)</i>"
+ },
+ {
+  "k": "49",
+  "cena": "VIPVRCenter_VR_2_Intro_Tech_1",
+  "quem": "Technician (M)",
+  "en": "What?!"
+ },
+ {
+  "k": "50",
+  "quem": "Jenna (F)",
+  "en": "You seem pretty visibly distressed over here, bud."
+ },
+ {
+  "k": "51",
+  "quem": "Technician (M)",
+  "en": "No shit! Don't you have some guy to suck off or some shit, badge bitch? I'm a little fucking busy at the moment!"
+ },
+ {
+  "k": "52",
+  "quem": "Jewel (F)",
+  "en": "We're just tryin' to help, ye prick!"
+ },
+ {
+  "k": "53",
+  "quem": "Technician (M)",
+  "en": "Help? How could you two bimbos help with this?!"
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "What's even happening?"
+ },
+ {
+  "k": "55",
+  "quem": "Technician (M)",
+  "en": "... Fuck it. Fine. All of our guests are locked in Horizon. I can't get them out, and I don't know what the fuck is going on."
+ },
+ {
+  "k": "56",
+  "quem": "Jenna (F)",
+  "en": "Horizon...?"
+ },
+ {
+  "k": "57",
+  "quem": "Jewel (F)",
+  "en": "It's what the inside of the VR thing is called, blue."
+ },
+ {
+  "k": "58",
+  "quem": "Jenna (F)",
+  "en": "And people are trapped in there? We have to help them!"
+ },
+ {
+  "k": "59",
+  "quem": "Technician (M)",
+  "en": "Yes... I can't get them out from here, but..."
+ },
+ {
+  "k": "60",
+  "cena": "VIPVRCenter_VR_2_Intro_Tech_2",
+  "quem": "Technician (M)",
+  "en": "Maybe I can..."
+ },
+ {
+  "k": "61",
+  "cena": "VIPVRCenter_VR_2_Intro_Tech_3",
+  "quem": "Technician (M)",
+  "en": "You two. You said you wanted to help?"
+ },
+ {
+  "k": "62",
+  "quem": "Jenna (F)",
+  "en": "Of course we wanna help!"
+ },
+ {
+  "k": "63",
+  "quem": "Technician (M)",
+  "en": "I think I can send you two into Horizon with a combat loadout profile so you can free everyone from inside the program."
+ },
+ {
+  "k": "64",
+  "quem": "Technician (M)",
+  "en": "There's some sort of... oddity causing them to be trapped, and I'm seeing lots of corruption between the guard's combat protocols and the standard recreation protocols for everyone else."
+ },
+ {
+  "k": "65",
+  "quem": "Jewel (F)",
+  "en": "What in the... What is that supposed to mean?"
+ },
+ {
+  "k": "66",
+  "quem": "Technician (M)",
+  "en": "It means there's virtual soldiers and other strange things terrorizing the people in Horizon, stopping them from leaving."
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "Well... Why can't they just leave?"
+ },
+ {
+  "k": "68",
+  "quem": "Technician (M)",
+  "en": "Ugh... Do I really have to explain this all to you?"
+ },
+ {
+  "k": "69",
+  "quem": "Jewel (F)",
+  "en": "Do you want us to help you or not?"
+ },
+ {
+  "k": "70",
+  "quem": "Technician (M)",
+  "en": "Fucks sake..."
+ },
+ {
+  "k": "71",
+  "quem": "Technician (M)",
+  "en": "The system holds the mind in a tight entanglement. You can't just untangle it from the outside. The consciousness needs to naturally exit in a way that makes sense to the user."
+ },
+ {
+  "k": "72",
+  "quem": "Jenna (F)",
+  "en": "... Uhh... Huh?"
+ },
+ {
+  "k": "73",
+  "quem": "Technician (M)",
+  "en": "You need to go to sleep to leave the simulation..."
+ },
+ {
+  "k": "74",
+  "quem": "Jenna (F)",
+  "en": "Oh! Well why didn't you just open with that? We'll just forget about any convoluted nonsense explanation anyways!"
+ },
+ {
+  "k": "75",
+  "quem": "Technician (M)",
+  "en": "Whatever. Just lay down in the bed over there and I'll strap you in."
+ },
+ {
+  "k": "76",
+  "cena": "VIPVRCenter_VR_2_Intro_Tech_Reminder",
+  "quem": "Technician (M)",
+  "en": "I told you to go lay in the bed. Get to it, girl."
+ },
+ {
+  "k": "77",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_1",
+  "quem": "Technician (M)",
+  "en": "Alright. Calibrations are done."
+ },
+ {
+  "k": "78",
+  "quem": "Jewel (F)",
+  "en": "Is it time to get me jacked off?"
+ },
+ {
+  "k": "79",
+  "quem": "Jenna (F)",
+  "en": "Don't you mean 'jacked in'?"
+ },
+ {
+  "k": "80",
+  "quem": "Jewel (F)",
+  "en": "Hm? Do you want me 'in', sweetie?"
+ },
+ {
+  "k": "81",
+  "quem": "Jenna (F)",
+  "en": "Heheh..."
+ },
+ {
+  "k": "82",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_2",
+  "quem": "Technician (M)",
+  "en": "Are you two done hitting on each other?"
+ },
+ {
+  "k": "83",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_3",
+  "quem": "Technician (M)",
+  "en": "Here. Put this on."
+ },
+ {
+  "k": "84",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_4",
+  "quem": "Jewel (F)",
+  "en": "Hmm... Love the sleepy feeling, blue..."
+ },
+ {
+  "k": "85",
+  "quem": "Technician (M)",
+  "en": "It's a normal part of the procedure. The mind needs to slip into unconsciousness so that it may awake in the virtual world."
+ },
+ {
+  "k": "86",
+  "quem": "Jenna (F)",
+  "en": "Alright, Mr. Scientific Exposition. Just hurry it up."
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "We've gotta get into this 'Horizontal' place so we can save those people!"
+ },
+ {
+  "k": "88",
+  "quem": "Technician (M)",
+  "en": "It's called Horizon..."
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "That's what I said!"
+ },
+ {
+  "k": "90",
+  "quem": "Jewel (F)",
+  "en": "Drugging me up~ Heheh..."
+ },
+ {
+  "k": "91",
+  "quem": "Jenna (F)",
+  "en": "Is she going to be okay?"
+ },
+ {
+  "k": "92",
+  "quem": "Technician (M)",
+  "en": "Yes, yes. Of course. The system just relaxes the mind to ease them into the virtual world. Just give her a moment."
+ },
+ {
+  "k": "93",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_5",
+  "quem": "Technician (M)",
+  "en": "There we go... Brain signals are nice... She's in Horizon now."
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "Awesome!"
+ },
+ {
+  "k": "95",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_6",
+  "quem": "Jenna (F)",
+  "en": "Uhh... What the hell are you doing?"
+ },
+ {
+  "k": "96",
+  "quem": "Narrador",
+  "en": "<i>He bites his lip as he rubs at Jewel's body, squeezing her breasts and pressing his hand between her legs.</i>"
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "Dickhead! What's the big idea?!"
+ },
+ {
+  "k": "98",
+  "quem": "Technician (M)",
+  "en": "Just taking a quick uh... Making sure her vitals are okay..."
+ },
+ {
+  "k": "99",
+  "quem": "Jenna (F)",
+  "en": "The hell you are! You're just trying to cop a feel!"
+ },
+ {
+  "k": "100",
+  "quem": "Technician (M)",
+  "en": "What harm will it do? She goes around fucking everyone anyways."
+ },
+ {
+  "k": "101",
+  "quem": "Technician (M)",
+  "en": "Just let me have my fun. Times are tough around here with this whole situation... Or I could just feel you up while you're in there 'saving' people."
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "<i>(I'm sure Jewel would appreciate me looking out for her... but then he'll feel me up, and I can't just fight this guy without dooming those people to be forever trapped in there.)</i>"
+ },
+ {
+  "k": "103",
+  "quem": "Jenna (F)",
+  "en": "<i>(I'm gonna have to choose...)</i>"
+ },
+ {
+  "k": "104",
+  "tipo": "escolha",
+  "en": "Let him grope Jewel to avoid getting felt up yourself."
+ },
+ {
+  "k": "105",
+  "tipo": "escolha",
+  "en": "Stop him and accept that he'll grope you."
+ },
+ {
+  "k": "106",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_6_GropeJenna",
+  "quem": "Jenna (F)",
+  "en": "I don't care. Get your damn hands off of her."
+ },
+ {
+  "k": "107",
+  "quem": "Technician (M)",
+  "en": "Alright, girl. If that's what you wish. Let's get you all strapped in... Then the real fun can begin."
+ },
+ {
+  "k": "108",
+  "cena": "VIPVRCenter_VR_3_Jewel_Bed_6_GropeJewel",
+  "quem": "Jenna (F)",
+  "en": "Fine. Just hurry it up and let us help those people."
+ },
+ {
+  "k": "109",
+  "quem": "Technician (M)",
+  "en": "Mmm... Good choice, girl. She feels so soft..."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "Let's just get this over with. Come on."
+ },
+ {
+  "k": "111",
+  "quem": "Technician (M)",
+  "en": "You're right. Lives are at stake here... I can enjoy her while you two are in there. Let's get you strapped in."
+ },
+ {
+  "k": "112",
+  "cena": "VIPVRCenter_VR_4_Jenna_Bed_1",
+  "quem": "Technician (M)",
+  "en": "Here, put this on."
+ },
+ {
+  "k": "113",
+  "quem": "Jenna (F)",
+  "en": "Alright. Let's have at it."
+ },
+ {
+  "k": "114",
+  "cena": "VIPVRCenter_VR_4_Jenna_Bed_2",
+  "quem": "Jenna (F)",
+  "en": "Phew! It's a little sweaty in here. Who the hell was using this thing before me?"
+ },
+ {
+  "k": "115",
+  "quem": "Technician (M)",
+  "en": "Just don't worry about it, you won't be feeling it for too much longer."
+ },
+ {
+  "k": "116",
+  "quem": "Technician (M)",
+  "en": "... That sounded a little more ominous than I wanted it to."
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "Just get me in there."
+ },
+ {
+  "k": "118",
+  "cena": "VIPVRCenter_VR_4_Jenna_Bed_2_GropeJenna",
+  "quem": "Technician (M)",
+  "en": "You sure are eager to have my hands on you. You know what's going to happen when you're in there."
+ },
+ {
+  "k": "119",
+  "quem": "Jenna (F)",
+  "en": "Just get me in there already. I won't be feeling anything."
+ },
+ {
+  "k": "120",
+  "quem": "Technician (M)",
+  "en": "Well... You'll be feeling something. You'll be fine, I'll take care of you..."
+ },
+ {
+  "k": "121",
+  "quem": "Jenna (F)",
+  "en": "Fine, whatever. Just get on with it."
+ },
+ {
+  "k": "122",
+  "cena": "VIPVRCenter_VR_4_Jenna_Bed_2_GropeJewel",
+  "quem": "Technician (M)",
+  "en": "Alright... I'll be having fun with your friend soon enough."
+ },
+ {
+  "k": "123",
+  "quem": "Jenna (F)",
+  "en": "Asshole..."
+ },
+ {
+  "k": "124",
+  "cena": "VIPVRCenter_VR_4_Jenna_Bed_3",
+  "quem": "Technician (M)",
+  "en": "Relax... Let your mind slip into Horizon."
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "You're making it a little... little difficult..."
+ },
+ {
+  "k": "126",
+  "quem": "Technician (M)",
+  "en": "That's it... Drift away..."
+ },
+ {
+  "k": "127",
+  "quem": "Jenna (F)",
+  "en": "I..."
+ },
+ {
+  "k": "128",
+  "cena": "VIPVRCenter_VR_Tech_Talk",
+  "quem": "Technician (M)",
+  "en": "Yeah, yeah. Thanks for helping and all that."
+ },
+ {
+  "k": "129",
+  "cena": "VRHouse_Bouncer_Default",
+  "quem": "Bouncer (M)",
+  "en": "Enjoy the center, badge girl."
+ },
+ {
+  "k": "130",
+  "cena": "VRHouse_CannotEnter",
+  "en": "Excuse me. Do you have an access card, badge girl?"
+ },
+ {
+  "k": "131",
+  "en": "Erm... Access card?"
+ },
+ {
+  "k": "132",
+  "en": "I'll take that as a no. If you don't have an access card, you don't get in."
+ },
+ {
+  "k": "133",
+  "en": "Go ask your owner about it or something, badge girl. Maybe he'll toss you a 'bone'."
+ },
+ {
+  "k": "134",
+  "en": "<i>(Dickhead...)</i>"
+ },
+ {
+  "k": "135",
+  "en": "<i>(Time to go ask Klaus then.)</i>"
+ },
+ {
+  "k": "136",
+  "cena": "VRHouse_CannotEnter_Repeat",
+  "quem": "Bouncer (M)",
+  "en": "You need an access card to enter... Beat it."
+ },
+ {
+  "k": "137",
+  "quem": "Jenna (F)",
+  "en": "<i>(I probably shouldn't be here...)</i>"
+ },
+ {
+  "k": "138",
+  "cena": "What happend",
+  "quem": "Jewel (F)",
+  "en": "What happend?"
+ },
+ {
+  "k": "139",
+  "quem": "Jenna (F)",
+  "en": "Mina hit Rida with a taser."
+ },
+ {
+  "k": "140",
+  "quem": "Throb (M)",
+  "en": "Is Rida able to fight Mina?"
+ },
+ {
+  "k": "141",
+  "quem": "Rida (F)",
+  "en": "Rida fight, Rida must!"
+ },
+ {
+  "k": "142",
+  "quem": "Jenna (F)",
+  "en": "You heard her."
+ },
+ {
+  "k": "143",
+  "cena": "wildfire_epilogue 1",
+  "en": "overworld, wildfire's hq, two guards standing outside."
+ },
+ {
+  "k": "144",
+  "en": "You know,  I ran into Greg while I was on my way to the shift. I could practically see him white as a ghost through his helmet's visor. The guy's trembling could've caused a bloody earthquake!"
+ },
+ {
+  "k": "145",
+  "en": "Yeah, can't say I blame the guy. You know that weird shit that went down in that bar?"
+ },
+ {
+  "k": "146",
+  "en": "Oh no...don't tell me he's the one who has to report the news to the Commander."
+ },
+ {
+  "k": "147",
+  "en": "You bet."
+ },
+ {
+  "k": "148",
+  "en": "Ugh, I was hoping that asshat Jake would've been the one to get an earful."
+ },
+ {
+  "k": "149",
+  "en": "Oh, so you're the new guy around here, right?"
+ },
+ {
+  "k": "150",
+  "en": "Yeah, what gave it away?"
+ },
+ {
+  "k": "151",
+  "en": "Commander Wildfire gives out a lot more than 'earfuls' when she gets pissed off."
+ },
+ {
+  "k": "152",
+  "en": "Oh...sounds rough. Have you seen it before?"
+ },
+ {
+  "k": "153",
+  "en": "Yuuuuuup. And soon, so will you."
+ },
+ {
+  "k": "154",
+  "en": "But we're out here on shift? How am I supposed to see?"
+ },
+ {
+  "k": "155",
+  "en": "You'll see. It'll come any second now."
+ },
+ {
+  "k": "156",
+  "en": "fade to black"
+ },
+ {
+  "k": "157",
+  "cena": "wildfire_epilogue 2",
+  "en": "fade in to next scene, wildfire's office, she's sitting behind a desk or something, two guards are facing her from opposite the desk"
+ },
+ {
+  "k": "158",
+  "en": "Alright then...the two of you requested a meeting with me..."
+ },
+ {
+  "k": "159",
+  "en": "Be quicks about it, will you? I don't have fucking time to waste. The only reason I agreed to see you was because you flagged this as urgent!"
+ },
+ {
+  "k": "160",
+  "en": "What the hell's the matter with you two?! Why are none of you saying anything!?"
+ },
+ {
+  "k": "161",
+  "en": "Say something or I'll burn you both to fucking cinders!"
+ },
+ {
+  "k": "162",
+  "en": "Alright, well...my <i>subordinate here</i> will explain to you what has happened, Commander!"
+ },
+ {
+  "k": "163",
+  "en": "O-Of course, I would love to give you the briefing of the situation, Commander. That being said, my <i>superior officer</i> here has a much better understanding of the situation. If he were to brief you instead, I'm sure it'd be better!"
+ },
+ {
+  "k": "164",
+  "en": "Deep breaths...deep breaths...deep fucki-"
+ },
+ {
+  "k": "165",
+  "en": "Alright, listen here! I don't know WHAT the FUCK is going on right now, but one of you two better start FUCKING TALKING! "
+ },
+ {
+  "k": "166",
+  "en": "Okay! Okay! So...you see Commander, there was this unexpected...ummm...gathering...?"
+ },
+ {
+  "k": "167",
+  "en": "A gathering huh? Okay. okay. And what about this 'gathering' in question REQUIRES YOU TO DISTURB ME WHILE I'M FUCKING WORKING?! "
+ },
+ {
+  "k": "168",
+  "en": "Well...perhaps 'gathering' isn't the correct word to use. It was more like, well, an...uprising?"
+ },
+ {
+  "k": "169",
+  "en": "Oh, I see what this is about. Yeah, I see..."
+ },
+ {
+  "k": "170",
+  "en": "<i>*gulp*</i>"
+ },
+ {
+  "k": "171",
+  "en": "<i>*gulp*</i>"
+ },
+ {
+  "k": "172",
+  "en": "Yeah, that's right. Now I see."
+ },
+ {
+  "k": "173",
+  "en": "You'll both be <i>real</i> fuckin' sorry about disturbing me with something like this."
+ },
+ {
+  "k": "174",
+  "en": "You know, this is why we're not getting anywhere with quashing that resistance movement that's springing up!"
+ },
+ {
+  "k": "175",
+  "en": "Because when you bumbling fucking IDIOTS put down an uprising, instead of chasing them and routing their base, you come here to me hoping you're gonna get some kind of reward!"
+ },
+ {
+  "k": "176",
+  "en": "Huh? Why are you both silent all of a sudden? Is that not the reason you're here?"
+ },
+ {
+  "k": "177",
+  "en": "Oh...wait...I had been noticing the town was getting quieter. As if a whole fuckton of people just got up and left..."
+ },
+ {
+  "k": "178",
+  "en": "No...fucking...way. Now, you two gentlemen correct me if I'm wrong on this...but, you didn't come here to tell me that an uprising happened and you <i>didn't</i> manage to put it down, did you?"
+ },
+ {
+  "k": "179",
+  "en": "fade out"
+ },
+ {
+  "k": "180",
+  "cena": "wildfire_epilogue 3",
+  "en": "fade out, back outside with the two guards on patrol"
+ },
+ {
+  "k": "181",
+  "en": "Hey, is it me or is it starting to get kinda hot...?"
+ },
+ {
+  "k": "182",
+  "en": "Yep. It's starting to get hot alright. Seems like news of the uprising has been delivered to the Commander."
+ },
+ {
+  "k": "183",
+  "en": "And now? What happens next? "
+ },
+ {
+  "k": "184",
+  "en": "Like I said before, you'll see. Soon you're gonna see what Commadner Wildfire's idea of an 'earful' is like."
+ },
+ {
+  "k": "185",
+  "en": "Any second now....any second now..."
+ },
+ {
+  "k": "186",
+  "en": "RAAAAAAAAAAAAAAAAARGH!"
+ },
+ {
+  "k": "187",
+  "en": "explosion sound effect with screen shake and a thud for when the captain gets blasted by wildfire and hits the wall  of the room"
+ },
+ {
+  "k": "188",
+  "en": "She definitely got the news alright."
+ },
+ {
+  "k": "189",
+  "en": "fade in to next scene"
+ }
+]

@@ -1,0 +1,1190 @@
+[
+ {
+  "k": "1",
+  "cena": "Loyalty_Carcens_Bar_Backroom_4",
+  "quem": "Martin (M)",
+  "en": "Err... Hello, sir- uh madam. Ahem... How can I help you?"
+ },
+ {
+  "k": "2",
+  "quem": "Pyra (F)",
+  "en": "Hello, dearie~ You wouldn't happen to have seen a few suspicious individuals around here, would you~?"
+ },
+ {
+  "k": "3",
+  "quem": "Narrador",
+  "en": "<i>When I hear Pyra's voice, I glance over at Jewel. Her eyes are wide and her body is shaking. She returns my gaze with a fearful look.</i>"
+ },
+ {
+  "k": "4",
+  "quem": "Martin (M)",
+  "en": "Pfft. I'd have known if someone walked into my bar."
+ },
+ {
+  "k": "5",
+  "quem": "Pyra (F)",
+  "en": "Oh, you would~? Well that's very comforting~"
+ },
+ {
+  "k": "6",
+  "quem": "Narrador",
+  "en": "<i>I wrap an arm around Jewel, holding her close and rubbing her arm lightly. She leans into me and I can feel the shaking slow down a bit.</i>"
+ },
+ {
+  "k": "7",
+  "quem": "Pyra (F)",
+  "en": "You see~ The last time I visited this... 'lovely' establishment, I had a nice visit with your prized little dancer~ Cute girl~"
+ },
+ {
+  "k": "8",
+  "quem": "Narrador",
+  "en": "<i>I give Jewel a reassuring squeeze, silently letting her know that Pyra's gonna have to get through me before she can get to her again.</i>"
+ },
+ {
+  "k": "9",
+  "quem": "Pyra (F)",
+  "en": "She told me that you've been interacting with these sweet little miscreants quite a lot~ It's almost like you're friends with the little band of traitors~"
+ },
+ {
+  "k": "10",
+  "quem": "Narrador",
+  "en": "<i>There's a creak on the bar above us as Pyra leans forward on it, causing Jewel to hide her face against my shoulder. I can feel tears dampening my skin.</i>"
+ },
+ {
+  "k": "11",
+  "quem": "Pyra (F)",
+  "en": "Where are they, Martin~?"
+ },
+ {
+  "k": "12",
+  "quem": "Martin (M)",
+  "en": "W-Well erm..."
+ },
+ {
+  "k": "13",
+  "quem": "Pyra (F)",
+  "en": "I can see it in your eyes~ You know~"
+ },
+ {
+  "k": "14",
+  "quem": "Narrador",
+  "en": "<i>I nod to the others to get ready to fight.</i>"
+ },
+ {
+  "k": "15",
+  "quem": "Martin (M)",
+  "en": "Okay! I'll tell you! They said they were heading about a day's walk up north. Something about a camp or something like that."
+ },
+ {
+  "k": "16",
+  "quem": "Narrador",
+  "en": "<i>There's an air of silent confusion in our hidden group. He was lying for us. I shake my head for the others to stand down and give Jewel a squeeze.</i>"
+ },
+ {
+  "k": "17",
+  "quem": "Pyra (F)",
+  "en": "You wouldn't be lying to me, would you~?"
+ },
+ {
+  "k": "18",
+  "quem": "Martin (M)",
+  "en": "Of course not, madam."
+ },
+ {
+  "k": "19",
+  "quem": "Pyra (F)",
+  "en": "That's good~ Because if you were lying~ Well that would be very very bad for you~ Would you like to know why~?"
+ },
+ {
+  "k": "20",
+  "quem": "Pyra (F)",
+  "en": "<b>I. Fucking. Hate. Liars.</b>"
+ },
+ {
+  "k": "21",
+  "quem": "Pyra (F)",
+  "en": "So if I go up north to this nice little camp of theirs and there's nothing there~?"
+ },
+ {
+  "k": "22",
+  "quem": "Pyra (F)",
+  "en": "Well~ I'll tear that cute little face clean off your skull~"
+ },
+ {
+  "k": "23",
+  "quem": "Pyra (F)",
+  "en": "So~ They still up north~?"
+ },
+ {
+  "k": "24",
+  "quem": "Martin (M)",
+  "en": "They're still north."
+ },
+ {
+  "k": "25",
+  "quem": "Pyra (F)",
+  "en": "Whole day's walk, hm~?"
+ },
+ {
+  "k": "26",
+  "quem": "Martin (M)",
+  "en": "Yes madam. That's what they said."
+ },
+ {
+  "k": "27",
+  "quem": "Pyra (F)",
+  "en": "Mmhm~ Good boy~"
+ },
+ {
+  "k": "28",
+  "cena": "Loyalty_Carcens_Bar_Backroom_5",
+  "quem": "Narrador",
+  "en": "<i>Once Pyra's gone, we peek our heads out from under the bar.</i>"
+ },
+ {
+  "k": "29",
+  "quem": "Jewel (F)",
+  "en": "Hey err... Thanks, blue."
+ },
+ {
+  "k": "30",
+  "quem": "Jenna (F)",
+  "en": "Anytime. We're in this together. I've got your back."
+ },
+ {
+  "k": "31",
+  "quem": "Jewel (F)",
+  "en": "Heh... Yeah."
+ },
+ {
+  "k": "32",
+  "cena": "Loyalty_Carcens_Bar_Backroom_6",
+  "quem": "Martin (M)",
+  "en": "Fuck, fuck, fuck."
+ },
+ {
+  "k": "33",
+  "quem": "Jenna (F)",
+  "en": "Hey... Thank you."
+ },
+ {
+  "k": "34",
+  "quem": "Martin (M)",
+  "en": "I'm fucking dead."
+ },
+ {
+  "k": "35",
+  "quem": "Jenna (F)",
+  "en": "No, you're not. Listen. We need to do this plan now before she gets back."
+ },
+ {
+  "k": "36",
+  "quem": "Martin (M)",
+  "en": "No... We need to get things ready first. Did you find those lights?"
+ },
+ {
+  "k": "37",
+  "quem": "Jenna (F)",
+  "en": "There weren't any lights back there."
+ },
+ {
+  "k": "38",
+  "quem": "Martin (M)",
+  "en": "Fuck... Alright, err... Recently I've been having thefts of inventory."
+ },
+ {
+  "k": "39",
+  "quem": "Jenna (F)",
+  "en": "Thefts?"
+ },
+ {
+  "k": "40",
+  "quem": "Martin (M)",
+  "en": "Ever since things got worse around here... I've been losing supplies and food..."
+ },
+ {
+  "k": "41",
+  "quem": "Throb (M)",
+  "en": "The Lumber Rats. They're probably stealing those supplies."
+ },
+ {
+  "k": "42",
+  "quem": "Jenna (F)",
+  "en": "Let's go pay ol' Lumber Rat Ray a visit then."
+ },
+ {
+  "k": "43",
+  "quem": "Martin (M)",
+  "en": "Just hurry please..."
+ },
+ {
+  "k": "44",
+  "cena": "Loyalty_Carcens_Bar_Lights_1",
+  "quem": "Throb (M)",
+  "en": "These things are all smashed..."
+ },
+ {
+  "k": "45",
+  "quem": "Jenna (F)",
+  "en": "Jeez..."
+ },
+ {
+  "k": "46",
+  "quem": "Rida (F)",
+  "en": "Easy smash. Rida show."
+ },
+ {
+  "k": "47",
+  "quem": "Floria (F)",
+  "en": "I don't think we need another demonstration."
+ },
+ {
+  "k": "48",
+  "quem": "Jenna (F)",
+  "en": "You alright, Jewel?"
+ },
+ {
+  "k": "49",
+  "quem": "Jewel (F)",
+  "en": "Just... Let's just keep moving."
+ },
+ {
+  "k": "50",
+  "quem": "Throb (M)",
+  "en": "... Well... We're gonna need replacements of some kind... Maybe Martin has some spares laying around?"
+ },
+ {
+  "k": "51",
+  "quem": "Jenna (F)",
+  "en": "Let's go ask him."
+ },
+ {
+  "k": "52",
+  "cena": "Loyalty_Carcens_Bar_Martin_1_1",
+  "quem": "Jenna (F)",
+  "en": "Martin! We need to talk to you abou-"
+ },
+ {
+  "k": "53",
+  "quem": "Martin (M)",
+  "en": "Let me just... stop you right there."
+ },
+ {
+  "k": "54",
+  "quem": "Jenna (F)",
+  "en": "Huh?"
+ },
+ {
+  "k": "55",
+  "quem": "Martin (M)",
+  "en": "Look... This place wasn't all that great to begin with, but now with all the shit going on outside? I don't want to get involved in whatever plans you've got."
+ },
+ {
+  "k": "56",
+  "quem": "Jenna (F)",
+  "en": "Right..."
+ },
+ {
+  "k": "57",
+  "quem": "Jewel (F)",
+  "en": "Martin. Listen to her."
+ },
+ {
+  "k": "58",
+  "quem": "Martin (M)",
+  "en": "Jewel! Oh my god, are you okay? I thought that they... I thought I wouldn't see you again."
+ },
+ {
+  "k": "59",
+  "quem": "Jewel (F)",
+  "en": "I'm fine, Martin. Really."
+ },
+ {
+  "k": "60",
+  "quem": "Martin (M)",
+  "en": "Well... I'm glad... but I really can't risk what little I've got left for-"
+ },
+ {
+  "k": "61",
+  "quem": "Jewel (F)",
+  "en": "You remember that dream you kept telling me about, Martin? How you wanted to-"
+ },
+ {
+  "k": "62",
+  "quem": "Martin (M)",
+  "en": "-run a real restaurant... I remember."
+ },
+ {
+  "k": "63",
+  "quem": "Jewel (F)",
+  "en": "Well this place isn't really what you had in mind, is it?"
+ },
+ {
+  "k": "64",
+  "quem": "Martin (M)",
+  "en": "... You know it isn't, Jewel. I'm just sitting here serving rations and watered down 'beer'. The only reason people come here is for you... You know that."
+ },
+ {
+  "k": "65",
+  "quem": "Jewel (F)",
+  "en": "Well... What if we changed that?"
+ },
+ {
+  "k": "66",
+  "quem": "Martin (M)",
+  "en": "... I... We can't, Jewel. We have to give the people what they want. No one wants real food these days, it's just sex, sex, sex..."
+ },
+ {
+  "k": "67",
+  "quem": "Jenna (F)",
+  "en": "Listen... This isn't living. If we all band together, we can change this. You can finally live your dream. We just need to put on the biggest show yet."
+ },
+ {
+  "k": "68",
+  "quem": "Martin (M)",
+  "en": "W-... Then what?"
+ },
+ {
+  "k": "69",
+  "quem": "Jenna (F)",
+  "en": "When we've got everyone's attention, we show them all that they can fight for their dreams. If we all band together with the resistance, we can push-"
+ },
+ {
+  "k": "70",
+  "quem": "Martin (M)",
+  "en": "The what!? Keep your voice down! Christ!"
+ },
+ {
+  "k": "71",
+  "quem": "Jenna (F)",
+  "en": "... It's either that or keep living like this."
+ },
+ {
+  "k": "72",
+  "quem": "Martin (M)",
+  "en": "Ugh... Dammit. Listen. The place was trashed when those... people came for Jewel. The stage lights aren't working from here. Go check them out."
+ },
+ {
+  "k": "73",
+  "quem": "Jenna (F)",
+  "en": "So you'll do it?"
+ },
+ {
+  "k": "74",
+  "quem": "Martin (M)",
+  "en": "... I'll think about it... You're lucky I don't just call the guards on you... I wouldn't do that to Jewel."
+ },
+ {
+  "k": "75",
+  "quem": "Jewel (F)",
+  "en": "Thanks, Martin."
+ },
+ {
+  "k": "76",
+  "quem": "Martin (M)",
+  "en": "Mhm... Go check the lights."
+ },
+ {
+  "k": "77",
+  "cena": "Loyalty_Carcens_Bar_Martin_2_1",
+  "quem": "Jenna (F)",
+  "en": "Martin. Looks like those lights are definitely smashed up. We couldn't do much up there without any replacements."
+ },
+ {
+  "k": "78",
+  "quem": "Martin (M)",
+  "en": "Ugh... Well... Maybe try looking in the back room? I think we've got some replacement lights back there."
+ },
+ {
+  "k": "79",
+  "quem": "Throb (M)",
+  "en": "I'll keep watch out here."
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "Sounds good. Let's get back there."
+ },
+ {
+  "k": "81",
+  "cena": "Loyalty_Carcens_Bar_PostMainFight_0",
+  "quem": "Narrador",
+  "en": "<i>She's breathing heavily with a smile on her face as the song comes to a close. After a moment of silence, the crowd suddenly erupts into applause.</i>"
+ },
+ {
+  "k": "82",
+  "quem": "Man (M)",
+  "en": "Woo!"
+ },
+ {
+  "k": "83",
+  "quem": "Other Man (M)",
+  "en": "Yeah, Jewel!"
+ },
+ {
+  "k": "84",
+  "quem": "Jewel (F)",
+  "en": "Listen up, everyone! That tower that the GAG is building? It's going to fry our brains and take away what little we've got left."
+ },
+ {
+  "k": "85",
+  "quem": "Jewel (F)",
+  "en": "So we all gotta band together and fight while we still can. They can be defeated. We can kick them out of OUR town!"
+ },
+ {
+  "k": "86",
+  "quem": "Jewel (F)",
+  "en": "My dream is to keep singing and dancing. To live my life on my own terms. Not for anyone else..."
+ },
+ {
+  "k": "87",
+  "quem": "Narrador",
+  "en": "<i>She looks over at me and smiles.</i>"
+ },
+ {
+  "k": "88",
+  "quem": "Jewel (F)",
+  "en": "But for me."
+ },
+ {
+  "k": "89",
+  "quem": "Jewel (F)",
+  "en": "I'm gonna fight for that dream, and I'm willing to bet that you're all gonna fight for yours as well. So come join the resistance and fight!"
+ },
+ {
+  "k": "90",
+  "quem": "Man (M)",
+  "en": "Errr..."
+ },
+ {
+  "k": "91",
+  "quem": "Other Man (M)",
+  "en": "I dunno..."
+ },
+ {
+  "k": "92",
+  "quem": "Jewel (F)",
+  "en": "I'll be staying with them~ Singing and dancing to my heart's content~"
+ },
+ {
+  "k": "93",
+  "quem": "Man (M)",
+  "en": "... For the resistance!"
+ },
+ {
+  "k": "94",
+  "quem": "Other Man (M)",
+  "en": "We're with you, Jewel!"
+ },
+ {
+  "k": "95",
+  "quem": "Narrador",
+  "en": "<i>The crowd starts erupting into cheers once more, all voicing their support and approval of the jewel shining up on stage. She glances over at me and winks.</i>"
+ },
+ {
+  "k": "96",
+  "quem": "Jewel (F)",
+  "en": "Let's go show Lady our new friends."
+ },
+ {
+  "k": "97",
+  "quem": "Jenna (F)",
+  "en": "I'm so proud!!"
+ },
+ {
+  "k": "98",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_0",
+  "quem": "Jenna (F)",
+  "en": "Hah! That'll teach you guys to try and crash someone's party!"
+ },
+ {
+  "k": "99",
+  "quem": "Throb (M)",
+  "en": "There's gonna be more of them, we gotta stay on our toes."
+ },
+ {
+  "k": "100",
+  "quem": "Rida (F)",
+  "en": "More fight! Rida want more!"
+ },
+ {
+  "k": "101",
+  "quem": "Floria (F)",
+  "en": "Don't worry, Rida. Seems like that's exactly what we'll be getting."
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "If we can hold this entrance, they won't be able to funnel in."
+ },
+ {
+  "k": "103",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_1",
+  "quem": "Throb (M)",
+  "en": "Jenna..."
+ },
+ {
+  "k": "104",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_2",
+  "quem": "Jenna (F)",
+  "en": "Hmm?"
+ },
+ {
+  "k": "105",
+  "quem": "Throb (M)",
+  "en": "Look!"
+ },
+ {
+  "k": "106",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_3",
+  "quem": "Man (M)",
+  "en": "It's Jewel! She's back!"
+ },
+ {
+  "k": "107",
+  "quem": "Jewel (F)",
+  "en": "Hey everyone..."
+ },
+ {
+  "k": "108",
+  "quem": "Other Man (M)",
+  "en": "We missed you!"
+ },
+ {
+  "k": "109",
+  "quem": "Man (M)",
+  "en": "And we missed that booty too!"
+ },
+ {
+  "k": "110",
+  "quem": "Jewel (F)",
+  "en": "Heh, missed you guys too. We're uh..."
+ },
+ {
+  "k": "111",
+  "quem": "Narrador",
+  "en": "<i>She looks over at me as if looking for support. I give her a reassuring nod.</i>"
+ },
+ {
+  "k": "112",
+  "quem": "Jewel (F)",
+  "en": "We're gonna do something a little different tonight."
+ },
+ {
+  "k": "113",
+  "quem": "Man (M)",
+  "en": "Aww!"
+ },
+ {
+  "k": "114",
+  "quem": "Jewel (F)",
+  "en": "This song is dedicated to my mom, Ela Patel."
+ },
+ {
+  "k": "115",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_4",
+  "quem": "Jenna (F)",
+  "en": "She's gonna do it! Wooo! Go Jewel!"
+ },
+ {
+  "k": "116",
+  "quem": "Rida (F)",
+  "en": "What dancer girl do?"
+ },
+ {
+  "k": "117",
+  "quem": "Jenna (F)",
+  "en": "You'll see."
+ },
+ {
+  "k": "118",
+  "quem": "Throb (M)",
+  "en": "Jenna, we've got company."
+ },
+ {
+  "k": "119",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_5",
+  "quem": "Soldier (M)",
+  "en": "There they are! Get them!"
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "Anyone getting deja vu?"
+ },
+ {
+  "k": "121",
+  "cena": "Loyalty_Carcens_Bar_PreMainFight_6",
+  "quem": "Jewel (F)",
+  "en": "DJ, hit it!"
+ },
+ {
+  "k": "122",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_0",
+  "quem": "Jenna (F)",
+  "en": "We've got the supplies, Martin."
+ },
+ {
+  "k": "123",
+  "quem": "Martin (M)",
+  "en": "Excellent! I'll start getting everything ready!"
+ },
+ {
+  "k": "124",
+  "quem": "Jewel (F)",
+  "en": "I'll... go get ready, I guess."
+ },
+ {
+  "k": "125",
+  "quem": "Jenna (F)",
+  "en": "I'll keep you company!"
+ },
+ {
+  "k": "126",
+  "quem": "Jewel (F)",
+  "en": "Thanks, blue."
+ },
+ {
+  "k": "127",
+  "quem": "Throb (M)",
+  "en": "I'll get the lights fixed."
+ },
+ {
+  "k": "128",
+  "quem": "Rida (F)",
+  "en": "Rida go with dancer girl!"
+ },
+ {
+  "k": "129",
+  "quem": "Throb (M)",
+  "en": "Uhhh... How about you help with the lights, Rida?"
+ },
+ {
+  "k": "130",
+  "quem": "Floria (F)",
+  "en": "That sounds like a great idea, Throb! Come on, Rida. Let's help out."
+ },
+ {
+  "k": "131",
+  "quem": "Rida (F)",
+  "en": "Hmph..."
+ },
+ {
+  "k": "132",
+  "quem": "Jenna (F)",
+  "en": "Thanks, guys."
+ },
+ {
+  "k": "133",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_1",
+  "quem": "Jewel (F)",
+  "en": "Blue?"
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "Hm?"
+ },
+ {
+  "k": "135",
+  "quem": "Jewel (F)",
+  "en": "Do you think you can take my spot?"
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "Wh- You mean like dance on stage instead of you?"
+ },
+ {
+  "k": "137",
+  "quem": "Jewel (F)",
+  "en": "I'm just... Not feeling up to it..."
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "What do you mean? You love dancing!"
+ },
+ {
+  "k": "139",
+  "quem": "Jewel (F)",
+  "en": "I know."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "The plan is to have you dance so we can recruit everyone..."
+ },
+ {
+  "k": "141",
+  "quem": "Jewel (F)",
+  "en": "I know..."
+ },
+ {
+  "k": "142",
+  "quem": "Jewel (F)",
+  "en": "I'm probably gonna regret this... Just like I regret telling that bitch where everyone was... Just like I regret not siding with my... mom... before she..."
+ },
+ {
+  "k": "143",
+  "quem": "Jewel (F)",
+  "en": "I'm sorry, blue... I don't know what's wrong with me... It should be so easy to go out there, but it's just... It's just not..."
+ },
+ {
+  "k": "144",
+  "quem": "Jewel (F)",
+  "en": "Everyone's counting on me, and I'm letting them down..."
+ },
+ {
+  "k": "145",
+  "quem": "Jenna (F)",
+  "en": "What if you sang?"
+ },
+ {
+  "k": "146",
+  "quem": "Jewel (F)",
+  "en": "I- Wha?"
+ },
+ {
+  "k": "147",
+  "quem": "Jenna (F)",
+  "en": "I saw you eyeing up a microphone in the back room of the bar when we were looking for the lights. Figured you were thinking of singing."
+ },
+ {
+  "k": "148",
+  "quem": "Jewel (F)",
+  "en": "Caught that, huh? You're observant..."
+ },
+ {
+  "k": "149",
+  "quem": "Jenna (F)",
+  "en": "So do you like singing?"
+ },
+ {
+  "k": "150",
+  "quem": "Jewel (F)",
+  "en": "Yeah, maybe a little."
+ },
+ {
+  "k": "151",
+  "quem": "Jenna (F)",
+  "en": "So why not sing for everyone?"
+ },
+ {
+  "k": "152",
+  "quem": "Jewel (F)",
+  "en": "Because that's not what everyone wants."
+ },
+ {
+  "k": "153",
+  "quem": "Jenna (F)",
+  "en": "W- Huh? You don't know that."
+ },
+ {
+  "k": "154",
+  "quem": "Jewel (F)",
+  "en": "Of course I do. They just want to see me get up on stage and shake my ass with my tits out."
+ },
+ {
+  "k": "155",
+  "quem": "Jewel (F)",
+  "en": "That's all they want from me..."
+ },
+ {
+  "k": "156",
+  "quem": "Jenna (F)",
+  "en": "Isn't that what you want too? I thought you enjoyed it."
+ },
+ {
+  "k": "157",
+  "quem": "Jewel (F)",
+  "en": "Yes... but... It's just... I don't know."
+ },
+ {
+  "k": "158",
+  "quem": "Jewel (F)",
+  "en": "It's not working like it used to. Like my brain's disconnected from my body. Just doesn't want to work anymore."
+ },
+ {
+  "k": "159",
+  "quem": "Jenna (F)",
+  "en": "Seems like it's still connected to your lips though."
+ },
+ {
+  "k": "160",
+  "quem": "Jewel (F)",
+  "en": "... Thanks...?"
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "So sing."
+ },
+ {
+  "k": "162",
+  "quem": "Jewel (F)",
+  "en": "Blue..."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "Don't think about what they want. Think about what you want."
+ },
+ {
+  "k": "164",
+  "quem": "Jenna (F)",
+  "en": "They love you. They'll be happy to see you perform no matter what you do, because it's you, and you're amazing. I know I'll be rooting for you."
+ },
+ {
+  "k": "165",
+  "quem": "Jewel (F)",
+  "en": "I don't know what to say, blue..."
+ },
+ {
+  "k": "166",
+  "quem": "Jenna (F)",
+  "en": "Say yes, of course."
+ },
+ {
+  "k": "167",
+  "quem": "Jewel (F)",
+  "en": "I don't want to do something I'll regret..."
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "You'll regret not doing it. The Jewel I know doesn't care what people think."
+ },
+ {
+  "k": "169",
+  "quem": "Jewel (F)",
+  "en": "What if I'm not the Jewel you know anymore?"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "You are. I'm sure of it. That star is still there."
+ },
+ {
+  "k": "171",
+  "quem": "Throb (M)",
+  "en": "Jenna! Guards are coming! Need your help!"
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "Crap!"
+ },
+ {
+  "k": "173",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_2",
+  "quem": "Jenna (F)",
+  "en": "Just gonna leave this here. I'm rooting for you. You've got this."
+ },
+ {
+  "k": "174",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_3",
+  "quem": "Jewel (F)",
+  "en": "Fuck..."
+ },
+ {
+  "k": "175",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_5",
+  "quem": "Throb (M)",
+  "en": "Just in time. Thought you were gonna miss the party."
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "Never. I'm the life of the party."
+ },
+ {
+  "k": "177",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_6",
+  "quem": "Soldier (M)",
+  "en": "Party's over! You're all violating gathering laws! Clear the building now or you will be punished!"
+ },
+ {
+  "k": "178",
+  "quem": "Jenna (F)",
+  "en": "I'll take care of this."
+ },
+ {
+  "k": "179",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_7",
+  "quem": "Jenna (F)",
+  "en": "Who do you guys think you are, the party police?"
+ },
+ {
+  "k": "180",
+  "quem": "Soldier (M)",
+  "en": "... Yes?"
+ },
+ {
+  "k": "181",
+  "quem": "Jenna (F)",
+  "en": "Tough luck! We're not going anywhere!"
+ },
+ {
+  "k": "182",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_8",
+  "quem": "Soldier (M)",
+  "en": "Then we're going to kick your ass and drag all of you out."
+ },
+ {
+  "k": "183",
+  "quem": "Jenna (F)",
+  "en": "Hah! You and what army?"
+ },
+ {
+  "k": "184",
+  "quem": "Soldier (M)",
+  "en": "You'll see. Last warning."
+ },
+ {
+  "k": "185",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_9",
+  "quem": "Floria (F)",
+  "en": "We really need to work on your diplomacy skills."
+ },
+ {
+  "k": "186",
+  "quem": "Rida (F)",
+  "en": "Rida think Carcen did good diplo- dipl- talk!"
+ },
+ {
+  "k": "187",
+  "quem": "Throb (M)",
+  "en": "We're fucked..."
+ },
+ {
+  "k": "188",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_10",
+  "quem": "Man (M)",
+  "en": "Err... I'm n-not so sure about this."
+ },
+ {
+  "k": "189",
+  "quem": "Woman (F)",
+  "en": "The guards are b-blocking the only exit!"
+ },
+ {
+  "k": "190",
+  "cena": "Loyalty_Carcens_Bar_ReturnToMartin_11",
+  "quem": "Throb (M)",
+  "en": "This isn't working. How's our secret weapon doing?"
+ },
+ {
+  "k": "191",
+  "quem": "Jenna (F)",
+  "en": "Errr... She's doing... She's definitely doing, that's for sure."
+ },
+ {
+  "k": "192",
+  "quem": "Throb (M)",
+  "en": "Shit... Everyone's gonna turn and run the moment they can. We can't do this without her."
+ },
+ {
+  "k": "193",
+  "quem": "Jenna (F)",
+  "en": "First things first, we gotta take these guards on before they hurt someone."
+ },
+ {
+  "k": "194",
+  "quem": "Jenna (F)",
+  "en": "Time to kick some ass."
+ },
+ {
+  "k": "195",
+  "cena": "Loyalty_Carcens_Camp_Final_0",
+  "quem": "Lady (F)",
+  "en": "Wh- What is this?"
+ },
+ {
+  "k": "196",
+  "quem": "Jenna (F)",
+  "en": "We found a few recruits for you, Lady."
+ },
+ {
+  "k": "197",
+  "quem": "Lady (F)",
+  "en": "A few? It's like you dragged the whole town down here!"
+ },
+ {
+  "k": "198",
+  "quem": "Jenna (F)",
+  "en": "All thanks to Jewel."
+ },
+ {
+  "k": "199",
+  "quem": "Jewel (F)",
+  "en": "I had backup."
+ },
+ {
+  "k": "200",
+  "quem": "Jenna (F)",
+  "en": "I guess it was a team effort."
+ },
+ {
+  "k": "201",
+  "quem": "Lady (F)",
+  "en": "I see... Well... This is good. Good job. We'll see to it that these recruits are welcomed and put to good use."
+ },
+ {
+  "k": "202",
+  "quem": "Jenna (F)",
+  "en": "Awesome."
+ },
+ {
+  "k": "203",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Place ain' bad, ol' Ray an' th' boys (an' girls) migh' like it 'ere."
+ },
+ {
+  "k": "204",
+  "quem": "Lady (F)",
+  "en": "What are they doing here?"
+ },
+ {
+  "k": "205",
+  "quem": "Jenna (F)",
+  "en": "Err... They helped!"
+ },
+ {
+  "k": "206",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Tha's righ' wee lass, ol Ray an' th' boys (an' girls) ain' gonna sit 'round an' let 'em fuckers up in th' tower take our dreams away."
+ },
+ {
+  "k": "207",
+  "quem": "Lady (F)",
+  "en": "And we're supposed to just take you thugs in because you suddenly just decide to be good?"
+ },
+ {
+  "k": "208",
+  "quem": "Jenna (F)",
+  "en": "Lady... We need all the help we can get..."
+ },
+ {
+  "k": "209",
+  "quem": "Lady (F)",
+  "en": "Fine. They can stay. They make their own corner though."
+ },
+ {
+  "k": "210",
+  "quem": "Lumber Rat Ray (M)",
+  "en": "Aye. Come on then boys (an' girls), let's make our new home away from home."
+ },
+ {
+  "k": "211",
+  "cena": "Loyalty_Carcens_Camp_Final_1",
+  "quem": "Jewel (F)",
+  "en": "Hey blue?"
+ },
+ {
+  "k": "212",
+  "quem": "Jenna (F)",
+  "en": "Yeah?"
+ },
+ {
+  "k": "213",
+  "quem": "Jewel (F)",
+  "en": "... Thank you."
+ },
+ {
+  "k": "214",
+  "quem": "Jenna (F)",
+  "en": "Don't mention it! Did you enjoy yourself?"
+ },
+ {
+  "k": "215",
+  "quem": "Jewel (F)",
+  "en": "It was wonderful, blue! Did ya hear me up there? I nailed it!"
+ },
+ {
+  "k": "216",
+  "quem": "Jenna (F)",
+  "en": "I heard the whole thing!"
+ },
+ {
+  "k": "217",
+  "quem": "Jewel (F)",
+  "en": "I couldn't have done it without you, blue."
+ },
+ {
+  "k": "218",
+  "quem": "Jenna (F)",
+  "en": "Nah, you had it in you the whole time. It was all you."
+ },
+ {
+  "k": "219",
+  "quem": "Jewel (F)",
+  "en": "Thanks, hun."
+ },
+ {
+  "k": "220",
+  "quem": "Jenna (F)",
+  "en": "So how are you feeling now?"
+ },
+ {
+  "k": "221",
+  "quem": "Jewel (F)",
+  "en": "... Fulfilled."
+ },
+ {
+  "k": "222",
+  "quem": "Jenna (F)",
+  "en": "That sounds good! I'm glad you're doing better! Even if you weren't, I'd have your back no matter what."
+ },
+ {
+  "k": "223",
+  "quem": "Jewel (F)",
+  "en": "Thanks, hun."
+ },
+ {
+  "k": "224",
+  "quem": "Jewel (F)",
+  "en": "Ya know, I may have to give you a little something something as 'thanks'."
+ },
+ {
+  "k": "225",
+  "quem": "Jenna (F)",
+  "en": "Oh! Yep, you're definitely back to your old self again."
+ },
+ {
+  "k": "226",
+  "quem": "Jewel (F)",
+  "en": "Heheh! I feel better than my old self."
+ },
+ {
+  "k": "227",
+  "quem": "Jenna (F)",
+  "en": "I'm so proud!"
+ },
+ {
+  "k": "228",
+  "quem": "Jewel (F)",
+  "en": "You're adorable. I'm gonna head over to that little bar area in the mansion. Wanna come with?"
+ },
+ {
+  "k": "229",
+  "quem": "Jenna (F)",
+  "en": "Sounds like a good time!"
+ },
+ {
+  "k": "230",
+  "quem": "Jewel (F)",
+  "en": "Damn right."
+ },
+ {
+  "k": "231",
+  "cena": "Loyalty_Carcens_Final",
+  "quem": "Jenna (F)",
+  "en": "<i>(Been a few days now. I think the Lumber Rats and the Carcens have completed their new parts of the camp.)</i>"
+ },
+ {
+  "k": "232",
+  "quem": "Jenna (F)",
+  "en": "<i>(Still can't believe we've got them on our side now. If we can get them on our side, I'm sure Rida's old tribe will help too. I should talk to her.)</i>"
+ }
+]

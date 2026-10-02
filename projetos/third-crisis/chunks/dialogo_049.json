@@ -1,0 +1,955 @@
+[
+ {
+  "k": "1",
+  "cena": "Fixing Lights 3",
+  "en": "plays after player has collected all the spare parts"
+ },
+ {
+  "k": "2",
+  "en": "Alright, that should be more than enough to get those lights fixed."
+ },
+ {
+  "k": "3",
+  "en": "The greatest show awaits us!"
+ },
+ {
+  "k": "4",
+  "en": "players either have to walk or are teleported back to henry"
+ },
+ {
+  "k": "5",
+  "cena": "Fixing Lights 4",
+  "en": "*players are back with henry, either by being teleported there or by walking to him and interacting with him*"
+ },
+ {
+  "k": "6",
+  "en": "Hey Henry, mind if we trouble you with something real quick?"
+ },
+ {
+  "k": "7",
+  "en": "It's real important. More important than anything you're doing right now."
+ },
+ {
+  "k": "8",
+  "en": "Sure, what Jenna need?"
+ },
+ {
+  "k": "9",
+  "en": "You see, we just gotta get these lights fixed up, that's all. It should be a breeze for you. Look, we even gathered some scraps you can use!"
+ },
+ {
+  "k": "10",
+  "en": "Jenna decorating room?"
+ },
+ {
+  "k": "11",
+  "en": "No, not exactly, but we still need them! It'll take a while to explain the reason."
+ },
+ {
+  "k": "12",
+  "en": "You can fix it, right? Jenna always goes on about how smart you are."
+ },
+ {
+  "k": "13",
+  "en": "Yeah. Smart Hen do this no problem. Give lights here."
+ },
+ {
+  "k": "14",
+  "en": "fade to black, then fade back into next scene"
+ },
+ {
+  "k": "15",
+  "cena": "Fixing Lights 5",
+  "en": "same scene as before, characters and layout wise"
+ },
+ {
+  "k": "16",
+  "en": "And...that's that! Good like new! Almost like new at least."
+ },
+ {
+  "k": "17",
+  "en": "Smart Hen did it! Rida always knew keeping Smart Hen alive good idea!"
+ },
+ {
+  "k": "18",
+  "en": "Thanks a bunch, Henry. We really owe you one."
+ },
+ {
+  "k": "19",
+  "en": "Give thanks by getting rid of...curse, when you can."
+ },
+ {
+  "k": "20",
+  "en": "We're working on it. This is actually helping us get one step further towards that."
+ },
+ {
+  "k": "21",
+  "en": "Say, you look pretty smart. I mean, if you could fix those lights up in a heartbeat in this state, who knows what you'll be able to accomplish when you're back to normal?"
+ },
+ {
+  "k": "22",
+  "en": "Smart Hen no like to boast, but Smart Hen was always very busy machine making person before."
+ },
+ {
+  "k": "23",
+  "en": "Machine making person, huh?"
+ },
+ {
+  "k": "24",
+  "en": "Think you can put together a nice fuck machine for me? I'll pay you back <i>real</i> good."
+ },
+ {
+  "k": "25",
+  "en": "*Ahem* We have some more pressing matters at hand now, Jewel."
+ },
+ {
+  "k": "26",
+  "en": "I'm just letting him know! He probably needs time to get started on the schematics or whatever they're called!"
+ },
+ {
+  "k": "27",
+  "en": "players now have to go back to the bar and apply the fix"
+ },
+ {
+  "k": "28",
+  "cena": "Fixing Lights 6",
+  "en": "players interact with lights to apply the  fix"
+ },
+ {
+  "k": "29",
+  "en": "There we go. I think that should be it. On the count of three..."
+ },
+ {
+  "k": "30",
+  "en": "One..."
+ },
+ {
+  "k": "31",
+  "en": "Five..."
+ },
+ {
+  "k": "32",
+  "en": "Three...!"
+ },
+ {
+  "k": "33",
+  "en": "*lights come on, same scene*"
+ },
+ {
+  "k": "34",
+  "en": "Hahaha, yeah, baby!"
+ },
+ {
+  "k": "35",
+  "en": "I don't believe it! You guys actually did it!"
+ },
+ {
+  "k": "36",
+  "en": "Oh, Martin. You ain't seen nothing yet from the things we can do!"
+ },
+ {
+  "k": "37",
+  "en": "We can't spend too long celebrating now. Let's save that for after we manage to do what we came here to do."
+ },
+ {
+  "k": "38",
+  "en": "You never know when Wildfire's men are gonna kick that door down. The sooner we get done, the better."
+ },
+ {
+  "k": "39",
+  "en": "I'm with the stud on this one, mainly because I can't wait to start the dance show!"
+ },
+ {
+  "k": "40",
+  "en": "Hmmm...how are people gonna know to come though?"
+ },
+ {
+  "k": "41",
+  "en": "I don't really think we have much of a choice on that. Dangerous as it may be, I think our only option is to sneak out and let them know without getting caught."
+ },
+ {
+  "k": "42",
+  "en": "A little bit of adrenaline right before the show!"
+ },
+ {
+  "k": "43",
+  "en": "Whatever gets you motivated, Jewel."
+ },
+ {
+  "k": "44",
+  "en": "Can't think of any other options myself, so we might as well. Clock's ticking guys! Let's get to it!"
+ },
+ {
+  "k": "45",
+  "en": "*players now have to go around carceburg and tell the locals about the show*"
+ },
+ {
+  "k": "46",
+  "cena": "FlashTits1",
+  "en": "I reluctantly zip down my jacket, revealing my chest to my enemies. <i> I can't believe I'm doing this.. </i> I think to myself, my cheeks a blistering bright red."
+ },
+ {
+  "k": "47",
+  "cena": "FlashTits2",
+  "en": "I unzip my jacket, my cheeks red in embarassment as I give my chest a light bounce, giving my enemies a great view of my rack. \"What do you think of these, loves?\""
+ },
+ {
+  "k": "48",
+  "cena": "FlashTits3",
+  "en": "I bite my lip as I unzip my jacket, running my fingers through my hair with one hand as I cup one of my breasts with the other. \"Like what you see~?\""
+ },
+ {
+  "k": "49",
+  "cena": "FlashTits4",
+  "en": "I smile lightly as I unzip my jacket, winking seductively at my enemies. \"Mmm~\" I moan gently, something inside me purring in delight at exposing myself like this."
+ },
+ {
+  "k": "50",
+  "cena": "FlashTits5",
+  "en": "I nearly tear my jacket off of me in desire, wanting to be naked in front of anyone who can see me. \"Mmm, please fuck my tits~\" I moan whorishly, my face and chest red in arousal."
+ },
+ {
+  "k": "51",
+  "cena": "Flavour_Shelf",
+  "quem": "Jenna (F)",
+  "en": "<i>(Nothing in here... Why is this shelf even here?)</i>"
+ },
+ {
+  "k": "52",
+  "cena": "Floria x Rida Sublevel 3",
+  "quem": "Floria (F)",
+  "en": "Time to wake uupp..~"
+ },
+ {
+  "k": "53",
+  "quem": "Floria (F)",
+  "en": "I've always wanted a pet with your assets, ehehe..~"
+ },
+ {
+  "k": "54",
+  "quem": "Rida (F)",
+  "en": "Haahh..!"
+ },
+ {
+  "k": "55",
+  "quem": "Floria (F)",
+  "en": "Shhh~ No need to worry, my vines will not harm you...~"
+ },
+ {
+  "k": "56",
+  "quem": "Rida (F)",
+  "en": "Nghh.."
+ },
+ {
+  "k": "57",
+  "quem": "Floria (F)",
+  "en": "That's right, little pet, I'll have some fun with you now, ehehe..~"
+ },
+ {
+  "k": "58",
+  "quem": "Rida (F)",
+  "en": "Ha-..! Hahhh..."
+ },
+ {
+  "k": "59",
+  "quem": "Floria (F)",
+  "en": "My little seedlings around you have such a strong desire for you..."
+ },
+ {
+  "k": "60",
+  "quem": "Floria (F)",
+  "en": "Can you feel it?~"
+ },
+ {
+  "k": "61",
+  "quem": "Rida (F)",
+  "en": "Nghhhh!~"
+ },
+ {
+  "k": "62",
+  "quem": "Floria (F)",
+  "en": "Mmmhhh... That's right my little pet... My vines <b>love</b> your cock..."
+ },
+ {
+  "k": "63",
+  "quem": "Rida (F)",
+  "en": "Hahhhh...~ Nghhhh...~"
+ },
+ {
+  "k": "64",
+  "quem": "Floria (F)",
+  "en": "Maybe I'll keep you down here with me forever... You'd surely make a good pet..."
+ },
+ {
+  "k": "65",
+  "quem": "Floria (F)",
+  "en": "It'll be so much fun, ehehe!"
+ },
+ {
+  "k": "66",
+  "quem": "Rida (F)",
+  "en": "Ghhh!"
+ },
+ {
+  "k": "67",
+  "quem": "Floria (F)",
+  "en": "Ehehe! Just like that, little pet... Enjoy the pleasure of my plants."
+ },
+ {
+  "k": "68",
+  "quem": "Rida (F)",
+  "en": "Hnf-..! Hnf-..! Hnf-..!"
+ },
+ {
+  "k": "69",
+  "quem": "Floria (F)",
+  "en": "Ohhh..~ Is my pet getting close to shooting her seeds, hmm?"
+ },
+ {
+  "k": "70",
+  "quem": "Floria (F)",
+  "en": "My plants love being covered in seeds... They want it all the time...~"
+ },
+ {
+  "k": "71",
+  "quem": "Floria (F)",
+  "en": "They can't ever get enough... "
+ },
+ {
+  "k": "72",
+  "quem": "Floria (F)",
+  "en": "Mmmhh... Yesss..."
+ },
+ {
+  "k": "73",
+  "quem": "Rida (F)",
+  "en": "Hahhhh..."
+ },
+ {
+  "k": "74",
+  "quem": "Floria (F)",
+  "en": "Good pet..."
+ },
+ {
+  "k": "75",
+  "cena": "FloriaFlashback_1_0",
+  "quem": "Jenna (F)",
+  "en": "We were in AIRSHIP training together... She was a friend..."
+ },
+ {
+  "k": "76",
+  "cena": "FloriaFlashback_1_1",
+  "quem": "Jenna (F)",
+  "en": "Floria! How was training? Hopefully that grumpy ol' instructor wasn't too hard on you!"
+ },
+ {
+  "k": "77",
+  "quem": "Floria (F)",
+  "en": "Oh! Eheh... He wasn't too bad this time. How about you?"
+ },
+ {
+  "k": "78",
+  "quem": "Jenna (F)",
+  "en": "Passed with flying colors!"
+ },
+ {
+  "k": "79",
+  "quem": "Floria (F)",
+  "en": "Flying colors? Weren't you struggling to keep up with some of the others these past couple days?"
+ },
+ {
+  "k": "80",
+  "quem": "Jenna (F)",
+  "en": "Okay, okay! More like crashing, burning, and barely scraping across the finish line."
+ },
+ {
+  "k": "81",
+  "quem": "Floria (F)",
+  "en": "Eheh... You never were into strategy."
+ },
+ {
+  "k": "82",
+  "quem": "Jenna (F)",
+  "en": "Hey! You're talking like we've known each other more than just a few months, Flo! Although it does feel like ancient times since training began back then."
+ },
+ {
+  "k": "83",
+  "quem": "Floria (F)",
+  "en": "Well now we're done and we'll be getting our first assignments soon, Agent Jenna!"
+ },
+ {
+  "k": "84",
+  "quem": "Jenna (F)",
+  "en": "Agent Jenna. Sounds like some sorta spy name from a movie."
+ },
+ {
+  "k": "85",
+  "quem": "Jenna (F)",
+  "en": "What sorta assignment were you hoping for, Miss Agent Floria?"
+ },
+ {
+  "k": "86",
+  "quem": "Floria (F)",
+  "en": "Hopefully something involving climate control or rainforest preservation."
+ },
+ {
+  "k": "87",
+  "quem": "Jenna (F)",
+  "en": "Bet you'd be a big help with th-"
+ },
+ {
+  "k": "88",
+  "quem": "Intercom",
+  "en": "All agents in Training Squad Beta report to the briefing room for assignment!"
+ },
+ {
+  "k": "89",
+  "quem": "Jenna (F)",
+  "en": "Hey! That's us! Let's get over there, Floria."
+ },
+ {
+  "k": "90",
+  "quem": "Floria (F)",
+  "en": "Sounds good, Jen."
+ },
+ {
+  "k": "91",
+  "cena": "FloriaFlashback_2_0",
+  "quem": "Jenna (F)",
+  "en": "After Peitho had AIRSHIP shut down, I was angry... I wanted revenge..."
+ },
+ {
+  "k": "92",
+  "quem": "Jenna (F)",
+  "en": "Still do... Even more so, now."
+ },
+ {
+  "k": "93",
+  "cena": "FloriaFlashback_2_1",
+  "quem": "AIRSHIP_HQ",
+  "en": "Jenna... Why is this not something we could talk about at your place?"
+ },
+ {
+  "k": "94",
+  "quem": "Jenna (F)",
+  "en": "Sorry about the secrecy, bud. This is pretty important."
+ },
+ {
+  "k": "95",
+  "quem": "AIRSHIP_HQ",
+  "en": "Alright... Is Karen fine?"
+ },
+ {
+  "k": "96",
+  "quem": "Jenna (F)",
+  "en": "Perfectly fine! We had dinner just an hour or so before I came to get you."
+ },
+ {
+  "k": "97",
+  "quem": "AIRSHIP_HQ",
+  "en": "So... What's this all about, Jen?"
+ },
+ {
+  "k": "98",
+  "quem": "Jenna (F)",
+  "en": "I'm going after Peitho, Henry. I need some backup for it though."
+ },
+ {
+  "k": "99",
+  "quem": "AIRSHIP_HQ",
+  "en": "W- Huh? Is this another April Fool's joke?! I hate today. Everyone always pulling pranks..."
+ },
+ {
+  "k": "100",
+  "quem": "Jenna (F)",
+  "en": "It's no joke, HQ. I'm going to track them down and then take them all in."
+ },
+ {
+  "k": "101",
+  "quem": "AIRSHIP_HQ",
+  "en": "You can't be serious, Jenna... Listen. It's over, AIRSHIP is gone. The second crisis massacre happened. Going after Peitho isn't going to bring it back."
+ },
+ {
+  "k": "102",
+  "quem": "Jenna (F)",
+  "en": "So we're just gonna let them walk free after tearing our family apart? After what happened to my friends?"
+ },
+ {
+  "k": "103",
+  "quem": "AIRSHIP_HQ",
+  "en": "I'm sorry about what you experienced at that horrible massacre, but we're just not allowed to act as AIRSHIP heroes anymore, Jen... It's time to move on. Let's just go get Karen and grab a nice dinner."
+ },
+ {
+  "k": "104",
+  "quem": "Jenna (F)",
+  "en": "I won't just stand by while those criminals keep doing whatever the hell it is bad guys do when there's no heroes to stop them."
+ },
+ {
+  "k": "105",
+  "quem": "AIRSHIP_HQ",
+  "en": "God, Jenna. Come on..."
+ },
+ {
+  "k": "106",
+  "quem": "Jenna (F)",
+  "en": "We swore an oath, don't you remember? \"To safeguard humanity-\""
+ },
+ {
+  "k": "107",
+  "quem": "AIRSHIP_HQ",
+  "en": "\"-augmented or not.\" Yes, yes. I know."
+ },
+ {
+  "k": "108",
+  "quem": "Jenna (F)",
+  "en": "So why should we turn our backs on that now? Just because some people say we can't?"
+ },
+ {
+  "k": "109",
+  "quem": "AIRSHIP_HQ",
+  "en": "Some people? You mean every government on the planet."
+ },
+ {
+  "k": "110",
+  "quem": "Jenna (F)",
+  "en": "We can do it, HQ. We can still save lives. We shouldn't be sitting down on our asses doing nothing with our lives when we have the power to make a difference."
+ },
+ {
+  "k": "111",
+  "quem": "AIRSHIP_HQ",
+  "en": "With great power comes great-"
+ },
+ {
+  "k": "112",
+  "quem": "Jenna (F)",
+  "en": "Oh shut it, you."
+ },
+ {
+  "k": "113",
+  "quem": "AIRSHIP_HQ",
+  "en": "Haha...  Alright... Alright, Jen. I'll do it."
+ },
+ {
+  "k": "114",
+  "quem": "Jenna (F)",
+  "en": "Thank you, Hen. I'm glad to have you."
+ },
+ {
+  "k": "115",
+  "quem": "AIRSHIP_HQ",
+  "en": "But we have to be discreet!"
+ },
+ {
+  "k": "116",
+  "quem": "Jenna (F)",
+  "en": "I'm discreet!"
+ },
+ {
+  "k": "117",
+  "quem": "AIRSHIP_HQ",
+  "en": "The hell you are."
+ },
+ {
+  "k": "118",
+  "quem": "Jenna (F)",
+  "en": "So how do you think we should do this, HQ? You're always the man with a plan."
+ },
+ {
+  "k": "119",
+  "quem": "AIRSHIP_HQ",
+  "en": "Why am I not surprised that you were thinking of taking Peitho on without a plan?"
+ },
+ {
+  "k": "120",
+  "quem": "Jenna (F)",
+  "en": "I knew you'd wanna help, bud!"
+ },
+ {
+  "k": "121",
+  "quem": "AIRSHIP_HQ",
+  "en": "Okay... First off, I think we need to gather a team."
+ },
+ {
+  "k": "122",
+  "quem": "Jenna (F)",
+  "en": "Just like old times?"
+ },
+ {
+  "k": "123",
+  "quem": "AIRSHIP_HQ",
+  "en": "Just like old times."
+ },
+ {
+  "k": "124",
+  "cena": "FloriaFlashback_3_1",
+  "quem": "Floria (F)",
+  "en": "So what's this all about, Jen? Why couldn't you just tell me over a call?"
+ },
+ {
+  "k": "125",
+  "quem": "AIRSHIP_HQ",
+  "en": "That's what I said..."
+ },
+ {
+  "k": "126",
+  "quem": "Jenna (F)",
+  "en": "It's not exactly something you talk about over a call, Flo."
+ },
+ {
+  "k": "127",
+  "quem": "Floria (F)",
+  "en": "Why do I have the feeling you're up to something?"
+ },
+ {
+  "k": "128",
+  "quem": "AIRSHIP_HQ",
+  "en": "Because she is."
+ },
+ {
+  "k": "129",
+  "quem": "Jenna (F)",
+  "en": "WE are, yeah."
+ },
+ {
+  "k": "130",
+  "quem": "Floria (F)",
+  "en": "Uh huuh? I'm in suspense."
+ },
+ {
+  "k": "131",
+  "quem": "Jenna (F)",
+  "en": "HQ and I are gonna go after Peitho. We need a team. I figured you'd love to get back at those perverts."
+ },
+ {
+  "k": "132",
+  "quem": "Floria (F)",
+  "en": "Heh... Hoh boy, Jen... You realize AIRSHIP is gone right? It's illegal to do the sorta thing you're talking about."
+ },
+ {
+  "k": "133",
+  "quem": "AIRSHIP_HQ",
+  "en": "I told her that too."
+ },
+ {
+  "k": "134",
+  "quem": "Jenna (F)",
+  "en": "Flo... You saw what they were responsible for. The massacre... You were there with me. Don't you want to make them pay for what they did?"
+ },
+ {
+  "k": "135",
+  "quem": "Floria (F)",
+  "en": "I... I do want to get even with them. How will you even find them? All you have is a name and a will."
+ },
+ {
+  "k": "136",
+  "quem": "Jenna (F)",
+  "en": "We also have one of the smartest people in the world. That sure helps."
+ },
+ {
+  "k": "137",
+  "quem": "AIRSHIP_HQ",
+  "en": "I'm flattered, Jen..."
+ },
+ {
+  "k": "138",
+  "quem": "Jenna (F)",
+  "en": "We're gonna find them, Flo. Do you wanna be with us when we do?"
+ },
+ {
+  "k": "139",
+  "quem": "Floria (F)",
+  "en": "I... Yeah. Yeah, I do."
+ },
+ {
+  "k": "140",
+  "quem": "Jenna (F)",
+  "en": "Perfect! Glad to have you aboar-"
+ },
+ {
+  "k": "141",
+  "cena": "FloriaFlashback_3_2",
+  "quem": "Karen (F)",
+  "en": "I'm home, hun~! Where are ya-"
+ },
+ {
+  "k": "142",
+  "cena": "FloriaFlashback_3_3",
+  "quem": "Jenna (F)",
+  "en": "I can explain."
+ },
+ {
+  "k": "143",
+  "quem": "Karen (F)",
+  "en": "I didn't know you were having friends over, babe. Heya Henry!"
+ },
+ {
+  "k": "144",
+  "quem": "AIRSHIP_HQ",
+  "en": "Hello, Karen! How was work?"
+ },
+ {
+  "k": "145",
+  "quem": "Karen (F)",
+  "en": "Same old, same old. Just another day at the office."
+ },
+ {
+  "k": "146",
+  "quem": "Jenna (F)",
+  "en": "Oh! Uh! Karen, this is Floria. Flo, Karen."
+ },
+ {
+  "k": "147",
+  "quem": "Karen (F)",
+  "en": "Nice to meet you, Floria. I heard about you a bunch from this one over here."
+ },
+ {
+  "k": "148",
+  "quem": "Floria (F)",
+  "en": "Haha. I know about you from her too. She likes to gush sometimes."
+ },
+ {
+  "k": "149",
+  "quem": "Karen (F)",
+  "en": "Boy, does she ever."
+ },
+ {
+  "k": "150",
+  "quem": "Jenna (F)",
+  "en": "Eheh..."
+ },
+ {
+  "k": "151",
+  "quem": "Floria (F)",
+  "en": "Wow. I've never seen her that red before."
+ },
+ {
+  "k": "152",
+  "quem": "Karen (F)",
+  "en": "I know her buttons very well. She's fun to tease."
+ },
+ {
+  "k": "153",
+  "quem": "Karen (F)",
+  "en": "Can I get you two anything?"
+ },
+ {
+  "k": "154",
+  "quem": "AIRSHIP_HQ",
+  "en": "Ah, I think we were just heading out. Thank you, Karen."
+ },
+ {
+  "k": "155",
+  "quem": "Karen (F)",
+  "en": "Alrighty! Good to see you again, Henry. Nice to meet you, Floria."
+ },
+ {
+  "k": "156",
+  "cena": "FloriaFlashback_3_4",
+  "quem": "Karen (F)",
+  "en": "So what was that all about, sexy?"
+ },
+ {
+  "k": "157",
+  "quem": "Jenna (F)",
+  "en": "U-Uh, we were just talking about the good ol' days."
+ },
+ {
+  "k": "158",
+  "quem": "Karen (F)",
+  "en": "Mhm. I can see right through you, sub. What were you talking about?"
+ },
+ {
+  "k": "159",
+  "quem": "Karen (F)",
+  "en": "Oh. I see."
+ },
+ {
+  "k": "160",
+  "quem": "Karen (F)",
+  "en": "You better not be trying any vigilante stuff, hun. We talked about this."
+ },
+ {
+  "k": "161",
+  "quem": "Jenna (F)",
+  "en": "I know..."
+ },
+ {
+  "k": "162",
+  "quem": "Karen (F)",
+  "en": "You promised."
+ },
+ {
+  "k": "163",
+  "quem": "Jenna (F)",
+  "en": "I know I did..."
+ },
+ {
+  "k": "164",
+  "quem": "Karen (F)",
+  "en": "Hun..."
+ },
+ {
+  "k": "165",
+  "quem": "Jenna (F)",
+  "en": "I know..."
+ },
+ {
+  "k": "166",
+  "quem": "Karen (F)",
+  "en": "You say you know, but I can hear it in your voice. You're planning something."
+ },
+ {
+  "k": "167",
+  "quem": "Karen (F)",
+  "en": "I don't want you to get in trouble, or worse. We have it nice here. What's worth risking this?"
+ },
+ {
+  "k": "168",
+  "quem": "Jenna (F)",
+  "en": "I just... I just can't rest knowing that those monsters are still out there. I can do something about it. I don't want another crisis to happen."
+ },
+ {
+  "k": "169",
+  "quem": "Karen (F)",
+  "en": "You, You, You. What about what I want, huh? What if I just want my girlfriend to be safe and sound with me? What if I don't want you to go out and get yourself killed?!"
+ },
+ {
+  "k": "170",
+  "quem": "Jenna (F)",
+  "en": "Karen... I'm sorry... but I have to... I wouldn't be able to live with myself if I didn't at least try."
+ },
+ {
+  "k": "171",
+  "quem": "Karen (F)",
+  "en": "Fine. Fine. You win."
+ },
+ {
+  "k": "172",
+  "quem": "Jenna (F)",
+  "en": "I sure don't feel like a winner... I'm sorry, babe..."
+ },
+ {
+  "k": "173",
+  "quem": "Karen (F)",
+  "en": "Heh... I uh... I'll just have to get you back, I guess..."
+ },
+ {
+  "k": "174",
+  "quem": "Jenna (F)",
+  "en": "Not the paddle."
+ },
+ {
+  "k": "175",
+  "quem": "Karen (F)",
+  "en": "The paddle."
+ },
+ {
+  "k": "176",
+  "quem": "Jenna (F)",
+  "en": "Oh god, heheh... I love you, hun."
+ },
+ {
+  "k": "177",
+  "quem": "Karen (F)",
+  "en": "Love you too, little hero... Now get to bed and assume the position. I'll be in there in a bit once I get out of this suit."
+ },
+ {
+  "k": "178",
+  "quem": "Jenna (F)",
+  "en": "Yes ma'am!"
+ },
+ {
+  "k": "179",
+  "cena": "FloriaFlashback_4A_1_Intro_0",
+  "quem": "AIRSHIP_HQ",
+  "en": "Jen? Are you in position?"
+ },
+ {
+  "k": "180",
+  "quem": "Jenna (F)",
+  "en": "Juuust about!"
+ },
+ {
+  "k": "181",
+  "cena": "FloriaFlashback_4A_1_Intro_1",
+  "quem": "Jenna (F)",
+  "en": "Holy fuck, it smells <b>awful</b> in here!"
+ },
+ {
+  "k": "182",
+  "quem": "AIRSHIP_HQ",
+  "en": "What do you see?"
+ },
+ {
+  "k": "183",
+  "quem": "Jenna (F)",
+  "en": "Looks like Jackson Pollock had his way with this place."
+ },
+ {
+  "k": "184",
+  "quem": "AIRSHIP_HQ",
+  "en": "What?"
+ },
+ {
+  "k": "185",
+  "quem": "Jenna (F)",
+  "en": "He's an artis- Never mind. I'll get back to you in a sec. Got some company."
+ },
+ {
+  "k": "186",
+  "cena": "FloriaFlashback_4A_1_Intro_2",
+  "quem": "Jenna (F)",
+  "en": "Wow. You two must really like each other."
+ },
+ {
+  "k": "187",
+  "quem": "Soldier (M)",
+  "en": "Wha?!"
+ },
+ {
+  "k": "188",
+  "quem": "Soldier (M)",
+  "en": "We didn't do all this!"
+ },
+ {
+  "k": "189",
+  "quem": "Jenna (F)",
+  "en": "Coulda fooled me, but let's just cut to the chase, lover boys."
+ },
+ {
+  "k": "190",
+  "cena": "FloriaFlashback_4A_2_Fight_Lost",
+  "quem": "Narrador",
+  "en": "<i>That's when I just gave up... I dropped to the floor in surrender... I didn't care about fighting... <color=perversion>I wanted them to <b>fuck</b> me.</color></i>"
+ },
+ {
+  "k": "191",
+  "quem": "Narrador",
+  "en": "<i>They knew what they wanted... same as I did... They wanted to <color=perversion>use my little body for their own pleasure... but what they didn't know was that I loved it too...</color></i>"
+ },
+ {
+  "k": "192",
+  "quem": "Narrador",
+  "en": "<i><color=perversion>Every thrust of theirs was like a breath of fresh air... I needed this... I needed to be shown my true place... Beneath them... Just a toy for them to use...</color></i>"
+ },
+ {
+  "k": "193",
+  "quem": "Jenna (F)",
+  "en": "<i><color=perversion>It felt so good...</color></i>"
+ },
+ {
+  "k": "194",
+  "quem": "Throb (M)",
+  "en": "Uhm... Something tells me that didn't really happen."
+ },
+ {
+  "k": "195",
+  "quem": "Jewel (F)",
+  "en": "Shhh! She was just getting to the good part!"
+ },
+ {
+  "k": "196",
+  "quem": "Jenna (F)",
+  "en": "W-Wait! That's not how it went! Let me back up a bit!"
+ }
+]
