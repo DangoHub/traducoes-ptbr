@@ -95,6 +95,10 @@ jobs:
             echo "## $NOME — Tradução PT-BR ${{ inputs.versao }}"
             echo
             echo "Compatível com a versão Steam **build $BUILD**. Baixe o \`.zip\`, extraia e execute o programa da pasta \`Traducao_PTBR_...\`. O zip também traz o código-fonte e o LEIA-ME."
+            if ls assets/*SteamDeck-Linux.zip > /dev/null 2>&1; then
+              echo
+              echo "**Steam Deck / Linux:** baixe o \`..._SteamDeck-Linux.zip\`, extraia no Modo Desktop e dê dois cliques em \`Instalar.sh\` (instruções no LEIA-ME)."
+            fi
             echo
             echo "Gerado automaticamente pelo GitHub Actions a partir do commit [\`${GITHUB_SHA:0:7}\`](https://github.com/$REPO/commit/$GITHUB_SHA) — [log do build]($GITHUB_SERVER_URL/$REPO/actions/runs/$GITHUB_RUN_ID)."
             echo

@@ -6,7 +6,7 @@
     python -m kit proximos <jogo> [-n 6]
     python -m kit prompt <jogo> <lote> [<lote> ...]
     python -m kit validar <jogo> [<lote> ...]
-    python -m kit montar <jogo> [--json-only] [--steam-build=N]
+    python -m kit montar <jogo> [--json-only] [--so-linux] [--steam-build=N]
     python -m kit instalar-teste <jogo>
     python -m kit termos <jogo> [-n 150]
     python -m kit amostra <jogo> <lote> [-n 30] [--de 0]
@@ -58,6 +58,7 @@ def main(argv):
     a = sub.add_parser("validar"); a.add_argument("jogo"); a.add_argument("lotes", nargs="*")
     a = sub.add_parser("montar"); a.add_argument("jogo"); a.add_argument("--json-only", action="store_true")
     a.add_argument("--steam-build", default=None)
+    a.add_argument("--so-linux", action="store_true", help="só o zip do Steam Deck/Linux (sem PyInstaller)")
     a = sub.add_parser("instalar-teste"); a.add_argument("jogo")
     a = sub.add_parser("termos"); a.add_argument("jogo"); a.add_argument("-n", type=int, default=150)
     a = sub.add_parser("buscar"); a.add_argument("jogo"); a.add_argument("texto"); a.add_argument("-n", type=int, default=20)
@@ -92,7 +93,7 @@ def main(argv):
             total += erros
         return 1 if total else 0
     elif args.cmd == "montar":
-        montagem.montar(p, json_only=args.json_only, steam_build=args.steam_build)
+        montagem.montar(p, json_only=args.json_only, steam_build=args.steam_build, so_linux=args.so_linux)
     elif args.cmd == "termos":
         termos(p, args.n)
     elif args.cmd == "buscar":
