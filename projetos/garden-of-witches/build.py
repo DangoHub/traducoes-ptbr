@@ -6,7 +6,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
 sys.path.insert(0, os.path.dirname(ROOT))
 sys.path.insert(0, os.path.join(ROOT, "src"))
-from empacotar import empacotar
+from empacotar import empacotar, empacotar_linux
 from gow_ptbr_core import MOD_VERSION
 
 trans = {"System": {}, "Story": {}}
@@ -22,10 +22,19 @@ if "--json-only" in sys.argv:
     sys.exit(0)
 
 STEAM_BUILD = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--steam-build=")), "25225196")
-empacotar(
-    ROOT, "Traducao_PTBR_Garden_of_Witches", "Garden of Witches", MOD_VERSION,
-    dados=["traducao_ptbr.json"],
-    fontes=[("src/traducao_ptbr.json", "traducao_ptbr.json"), ("src/gow_ptbr_core.py", "gow_ptbr_core.py"),
-            ("src/instalador.py", "instalador.py"), ("GUIA_TRADUCAO.md", "GUIA_TRADUCAO.md")],
-    zip_name="Garden_of_Witches_Traducao_PTBR.zip", steam_build=STEAM_BUILD,
+APP = "Traducao_PTBR_Garden_of_Witches"
+if "--so-linux" not in sys.argv:
+    empacotar(
+        ROOT, APP, "Garden of Witches", MOD_VERSION,
+        dados=["traducao_ptbr.json"],
+        fontes=[("src/traducao_ptbr.json", "traducao_ptbr.json"), ("src/gow_ptbr_core.py", "gow_ptbr_core.py"),
+                ("src/instalador.py", "instalador.py"), ("GUIA_TRADUCAO.md", "GUIA_TRADUCAO.md")],
+        zip_name="Garden_of_Witches_Traducao_PTBR.zip", steam_build=STEAM_BUILD,
+    )
+empacotar_linux(
+    ROOT, APP, "Garden of Witches", MOD_VERSION,
+    {"PASTA_STEAM": "Garden of Witches", "VERIFICAR": "Garden of Witches_Data/resources.assets",
+     "AVISO": 'Abra o jogo e escolha "English" em Configurações > Idioma.', "PY_INSTALADOR": "instalador.py"},
+    [("src/" + f, f) for f in ("instalador.py", "gow_ptbr_core.py", "traducao_ptbr.json")],
+    "Garden_of_Witches_Traducao_PTBR_SteamDeck-Linux.zip", STEAM_BUILD,
 )

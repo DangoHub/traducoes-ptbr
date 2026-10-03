@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
 # Instalador DangoHub para Linux / Steam Deck (SteamOS).
 # Lê pacote.conf (JOGO, PASTA_STEAM, VERSAO, VERIFICAR, AVISO) e arquivos.lst ("origem<TAB>destino").
+# Com PY_INSTALADOR definido em pacote.conf, delega a instalação ao modo CLI do instalador Python do jogo
+# (--install/--uninstall/--status <pasta>), usado quando o patch precisa dos arquivos originais do jogo.
 # Uso: ./Instalar.sh  |  ./Instalar.sh --install [pasta]  |  ./Instalar.sh --uninstall [pasta]  |  ./Instalar.sh --status [pasta]
 set -u
 AQUI="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
 # shellcheck source=/dev/null
 source "$AQUI/pacote.conf"
+PY_INSTALADOR="${PY_INSTALADOR:-}"
+PY="$(command -v python3 || command -v python || true)"
 BACKUP_EXT=".dangohub-backup"
 MANIFESTO="DangoHub_PTBR.txt"
 TITULO="Tradução PT-BR - $JOGO"
@@ -83,9 +87,19 @@ achar_jogo() {
 }
 
 # ---------- instalar / desinstalar ----------
-instalado() { [ -f "$1/$MANIFESTO" ]; }
+instalado() {
+    if [ -n "$PY_INSTALADOR" ]; then
+        "$PY" "$AQUI/$PY_INSTALADOR" --status "$1" 2>/dev/null | grep -q '^instalado'
+    else
+        [ -f "$1/$MANIFESTO" ]
+    fi
+}
 
 instalar() {
+    if [ -n "$PY_INSTALADOR" ]; then
+        "$PY" "$AQUI/$PY_INSTALADOR" --install "$PASTA"
+        return
+    fi
     local origem destino alvo
     while IFS=$'\t' read -r origem destino; do
         [ -z "$origem" ] && continue
@@ -100,6 +114,10 @@ instalar() {
 }
 
 desinstalar() {
+    if [ -n "$PY_INSTALADOR" ]; then
+        "$PY" "$AQUI/$PY_INSTALADOR" --uninstall "$PASTA"
+        return
+    fi
     local origem destino alvo
     while IFS=$'\t' read -r origem destino; do
         [ -z "$origem" ] && continue
@@ -119,6 +137,11 @@ case "${1:-}" in
     *) PASTA="" ;;
 esac
 [ -n "$ACAO" ] && UI=terminal
+
+if [ -n "$PY_INSTALADOR" ] && [ -z "$PY" ]; then
+    erro "Python 3 não encontrado. No Steam Deck ele já vem instalado; em outras distribuições instale o pacote python3."
+    exit 1
+fi
 
 valida "$PASTA" || PASTA="$(achar_jogo)"
 if ! valida "$PASTA"; then
@@ -143,7 +166,7 @@ fi
 
 if [ "$ACAO" = instalar ]; then
     if instalar; then info "Tradução instalada com sucesso!\n\n$AVISO"
-    else erro "Falha ao copiar os arquivos para:\n$PASTA"; exit 1; fi
+    else erro "Falha ao instalar em:\n$PASTA\n\nFeche o jogo e tente de novo."; exit 1; fi
 else
     if instalado "$PASTA"; then desinstalar; info "Tradução removida e arquivos originais restaurados."
     else info "A tradução não está instalada nesta pasta."; fi

@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.dirname(ROOT))
 sys.path.insert(0, os.path.join(ROOT, "src"))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
 from validate import check
-from empacotar import empacotar
+from empacotar import empacotar, empacotar_linux
 from wolf_patch import MOD_VERSION
 
 lines, missing, bad = {}, 0, 0
@@ -36,11 +36,20 @@ if "--json-only" in sys.argv:
     sys.exit(0)
 
 STEAM_BUILD = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--steam-build=")), "319083")
-empacotar(
-    ROOT, "Traducao_PTBR_The_Wolf_Among_Us", "The Wolf Among Us", MOD_VERSION,
-    dados=["traducao_ptbr.json", "landb_index.json"],
-    fontes=[("src/" + f, f) for f in ("traducao_ptbr.json", "landb_index.json", "wolf_patch.py", "telltale.py",
-                                      "landb.py", "bf_const.py", "instalador.py")]
-           + [("GUIA_TRADUCAO.md", "GUIA_TRADUCAO.md")],
-    zip_name="The_Wolf_Among_Us_Traducao_PTBR.zip", steam_build=STEAM_BUILD,
+APP = "Traducao_PTBR_The_Wolf_Among_Us"
+FONTES = ("traducao_ptbr.json", "landb_index.json", "wolf_patch.py", "telltale.py", "landb.py", "bf_const.py",
+          "instalador.py")
+if "--so-linux" not in sys.argv:
+    empacotar(
+        ROOT, APP, "The Wolf Among Us", MOD_VERSION,
+        dados=["traducao_ptbr.json", "landb_index.json"],
+        fontes=[("src/" + f, f) for f in FONTES] + [("GUIA_TRADUCAO.md", "GUIA_TRADUCAO.md")],
+        zip_name="The_Wolf_Among_Us_Traducao_PTBR.zip", steam_build=STEAM_BUILD,
+    )
+empacotar_linux(
+    ROOT, APP, "The Wolf Among Us", MOD_VERSION,
+    {"PASTA_STEAM": "The Wolf Among Us", "VERIFICAR": "TheWolfAmongUs.exe",
+     "AVISO": "Pronto! Abra o jogo normalmente.", "PY_INSTALADOR": "instalador.py"},
+    [("src/" + f, f) for f in FONTES],
+    "The_Wolf_Among_Us_Traducao_PTBR_SteamDeck-Linux.zip", STEAM_BUILD,
 )

@@ -141,6 +141,7 @@ code { background: rgba(0, 0, 0, .35); padding: .1em .4em; border-radius: 4px; c
 .btn-download { background: var(--matcha); color: #0f2410; flex: 1; }
 .btn-small { background: var(--panel-2); color: var(--text); padding: 1rem; }
 .btn-vt { background: #0b4dda; color: #fff; font-size: .6rem; padding: .8rem 1rem; }
+.btn-deck { background: var(--cyan); color: #0b1f26; flex: 1; }
 
 @keyframes pulse {
   0%, 100% { box-shadow: var(--shadow), 0 0 0 0 rgba(255, 126, 182, .5); }
@@ -277,7 +278,18 @@ code { background: rgba(0, 0, 0, .35); padding: .1em .4em; border-radius: 4px; c
   background: repeating-linear-gradient(90deg, var(--matcha) 0 10px, #6fc56b 10px 12px);
 }
 
-.game-actions { display: flex; gap: .6rem; margin-top: auto; padding-top: .6rem; }
+.game-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: auto; padding-top: .6rem; }
+.game-actions .btn { white-space: nowrap; }
+
+.deck-quest {
+  margin-top: 1.6rem;
+  background: var(--panel);
+  border: 3px solid var(--cyan);
+  border-radius: 8px;
+  padding: 1rem 1.3rem;
+}
+.deck-quest h3 { font-family: var(--font-title); margin: 0 0 .4rem; font-size: 1.2rem; color: var(--cyan); }
+.deck-quest p { color: var(--muted); margin: 0; }
 .link-verify { font-size: .85rem; text-decoration: none; }
 .link-verify:hover { text-decoration: underline; }
 

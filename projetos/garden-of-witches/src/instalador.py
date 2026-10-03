@@ -3,8 +3,11 @@ import os
 import re
 import sys
 import threading
-import tkinter as tk
-from tkinter import filedialog, messagebox, scrolledtext
+try:
+    import tkinter as tk
+    from tkinter import filedialog, messagebox, scrolledtext
+except ImportError:  # Linux/Steam Deck sem Tk: só o modo --install/--uninstall/--status
+    tk = filedialog = messagebox = scrolledtext = None
 
 import gow_ptbr_core as core
 
