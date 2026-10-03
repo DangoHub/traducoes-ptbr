@@ -11,6 +11,12 @@
  "nome_idioma": "Português (Brasil)",
  "aviso_pos_instalacao": "Depois de instalar, abra o jogo e escolha \"Custom Português (Brasil)\" em Settings > Game > Language.",
  "lote_max_chars": 12000,
+ "substituir_tokens": {
+  "#Syn_Tits#": "peitos",
+  "#Syn_SerifPuns#": "não aguentei mais o trabalho com madeira, tava me moendo até o OSSO.",
+  "#Syn_Townhall_WaitingLine<nocap>#": "Finalmente juntei fuckcreds suficientes pra gozar.",
+  "#Syn_SignAddiction<nocap>#": "Olá, Sr. Placa! O que você tem pra me dizer agora?"
+ },
  "nao_traduzir": ["New Text", "Option A", "Option B", "Option C", "CategoryName (0/10)"],
  "validacao": {
   "tags": ["</?[A-Za-z]+(?:=[^<>]*)?>", "\\{[^{}]*\\}", "#\\w+#"],

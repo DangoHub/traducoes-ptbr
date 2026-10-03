@@ -80,6 +80,137 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 | the Wilderness | o Ermo | |
 | Peitho Dump | Depósito da Peitho | |
 | Liedryn (às vezes escrito "Lydrien") | igual ao original | |
+| Slave / Slave Trainer | Escrava / Treinadora de Escravas | |
+| Subject (relatórios da Peitho) | cobaia | |
+| Health / Hitpoints | Vida / Pontos de Vida | |
+| Cockblock Cat | Gato Empata-Foda | |
+| Crush Waves / Crush Laser | Ondas de Paixão / Laser de Paixão | |
+| Vibrosuit / Vibrodash | Vibrotraje / Vibroinvestida | |
+| Fuckbucks, ComradeTown | iguais | fuckbucks = a moeda (fB); manter sempre em inglês |
+| dump / dumps (escravas da Peitho) | depósito / depósitos | |
+| Outpost / Grunt | Posto Avançado / capanga | |
+| Boss (Ava e strippers falando com a Jenna) | chefe | |
+| sex drugs | droga do sexo | |
+| fuckbuck chip | ficha de fuckbuck | |
+| bucks (ex.: 20 bucks) | pratas | |
+| Free-Use Credit Kards | Cartões de Crédito de Uso Livre | |
+| Big Cups (bar / apelido) | Big Cups | nome próprio |
+| to be a dump (genérico) | ser um depósito | minúsculo; "Depósito" maiúsculo só como apelido |
+| chip (gorjeta, pagamento jogado pelo cliente) | ficha | "chip" só para chip eletrônico/implante |
+| street whore / trashy whore | puta de rua / puta lixo | |
+| cumrag | pano de porra | |
+| cumdump | depósito de porra | |
+| cumslut | vadia de porra | |
+| nasty (insulto) | nojenta / nojento | |
+| cow (apelido) | vaca | |
+| Lord Phallus | Senhor Falo | |
+| Shady Lewd Kart, Lumber Rat Ray | inalterados | nomes próprios |
+| HQ falando | português quebrado ("QG feliz ver Jenna!") | igual Rida |
+| inhalator / pull / drag | inalador / tragada | |
+| little hero | heroinazinha | |
+| Just like then, just like now | Como foi antes, como é agora | bordão |
+| Trens (droga) | Trens | nome próprio |
+| Slums / Grand Station | Favelas / Grande Estação | |
+| Forest Fiends / Demons | Monstros da Floresta / Demônios | |
+| fuckmeat | pedaço de carne | |
+| Agent Leath | Agente Leath | |
+| Lust Healing / Hybrid Damage | Cura de Tesão / Dano Híbrido | |
+| florians (substantivo comum) | florianas | o nome "Florian Hooker" fica igual |
+| Florian(s) (criaturas-planta, inimigas) | Floriana(s) | sempre feminino; o nome de falante "Florian Hooker" fica igual |
+| nomes próprios de personagens | inalterados | nunca adaptar |
+| the Hub / Stronghold / Inner Forest / Crossroads | o Hub / Fortaleza / Floresta Interior / Encruzilhada | |
+| Untouched | Intocados | |
+| Zap Pistols | Pistolas Zap | |
+| food girl / errand girl | garota-comida / garota de recados | |
+| mutt | vira-lata | |
+| bud | amigão (com o QG) / parceiro | |
+| Smart Hen, Hen, Henry | inalterados | |
+| red / green (apelidos da Jewel) | vermelhinha / verdinha | como "azulzinha" |
+| sweetie | docinho | |
+| Metalman | Homem de Metal | |
+| slacker (Sofie → Jenna) | molenga | |
+| EMP | PEM | |
+| Training Squad Beta | Esquadrão de Treinamento Beta | |
+| vigilante | justiceira / justiceiro | |
+| Carceburg Coup | Golpe de Carceburg | |
+| Byetho (trocadilho com Peitho) | Tchauitho | |
+| stud | gostosão | |
+| twinkle toes (Sophie → Jenna) | bailarina | |
+| pole / pole dancing | pole / pole dance | |
+| tipsy | alegrinha | |
+| HQ/Henry | quebrado só quando o inglês também é quebrado | no final bom fala normal |
+| Ray | sotaque caipira ("véio Ray", "mocinha") | substitui o escocês |
+| APRIL | sigla inalterada; glitch recriado no PT | |
+| stall (glory hole) | cabine | |
+| Spitroast Simulation | Simulação de Espeto | |
+| Ma'am | Senhora | |
+| cocksleeve | capa de rola | |
+| Soldier Cum | Porra de Soldado | |
+| mindcontrol waves | ondas de controle mental | |
+| relief tent | tenda do alívio | |
+| tendrils | gavinhas | |
+| keycard | cartão de acesso | |
+| painslut / ropebunny | vadiazinha da dor / coelhinha das cordas | |
+| aftercare / flogger / paddle | cuidado pós-sessão / chicote de tiras / palmatória | |
+| Armor man (Rida → Throb) | Homem armadura | |
+| Flower lady / Plant lady (Rida → Floria) | Moça flor / Moça planta | |
+| Mister Guard | Seu Guarda | |
+| badger (Ray → Jenna) | texuguinha | |
+| slag | vagabunda / vagabundinha | |
+| Lover's Twirl | Giro do Amor | |
+| matchbox (Pyra → Karen) | caixinha de fósforo | |
+| open (status, oposto de badge) | disponível | |
+| Oh wow (palavra de segurança) | Nossa, uau | sempre igual quando é a palavra de segurança; fora disso, traduzir livremente |
+| hun / hon / sweety | querida / docinho | |
+| priest / priestess / head priestess | padre / sacerdotisa / sacerdotisa-chefe | |
+| Easter Bunny (F) | coelhinha da Páscoa | |
+| storehouse raid | invasão do armazém | |
+| Holo-Bandanas / HOLOs | inalterados | |
+| titfuck / squirt | espanhola / esguichar | |
+| trocadilhos de BONE (Serif) | OSSO | |
+| slime (criatura) / slime (substância) | o slime, slimes / gosma, gosmento | |
+| arms dealer | traficante de armas | |
+| shoot (gravação pornô) | gravação | |
+| Peitho subordinate | subordinada da Peitho | |
+| Officer Big Willy / Big Johnson (Throb) | Guarda Pintão / Dom Pirocão | |
+| little guard / guard girl | guardinha / garota guarda | |
+| Red Balls (bebida) | Red Balls | marca |
+| grool / drug hole | melzinho / antro de drogas | |
+| plug / ring gag | plug / mordaça de argola | |
+| body mod | modificação corporal | |
+| Grav Knuckles / bug (espionagem) | Socos Grav / escuta | |
+| Horizon (mundo de RV) | Horizon | |
+| Ms. Flame-On / Wildgal / Vibey | Dona Chama-Acesa / Wildzinha / Vibezinha | |
+| holiday cheer / holiday hats | espírito natalino / gorros festivos | |
+| Peitho high up / gold digger | figurão da Peitho / interesseira | |
+| pussy in a can / pussycan | bucetinha enlatada | |
+| fresh meat / stable whore | carne fresca / puta de estábulo | |
+| Tailor Shop / mugshots | Alfaiataria / fotos de ficha | |
+| Limpy | Brochinha | |
+| crotch plate / booster | protetor de virilha / propulsor | |
+| Lumber Rats (fala) | sotaque caipira, como o Ray | |
+| maid / Asset (Jenna sobre si) | empregadinha / Patrimônio | |
+| blue ball | deixar na vontade | |
+| Guard Captain | capitão da guarda | |
+| cattle prod / electric prod | bastão de choque / bastão elétrico | |
+| cockslut / fuckslut / healslut | vadia de pau / vadia de foder / vadia de cura | |
+| Crush (exposure, laser) | Paixão (exposição à Paixão, Laser de Paixão) | |
+| #Syn_Tits# | manter o token; vira "peitos" na montagem | concordar no masculino plural ("meus #Syn_Tits#") |
+| CUMRAG (aparelho; acrônimo) | P.O.R.R.A. ("Protetor-Ondulatório-Refletor-de-Radiação-Antipaixão") | |
+| licky dick | chupa-rola | |
+| kitten / kitty | gatinha | |
+| Hero / Slacker of Carceburg | Heroína / Molenga de Carceburg | |
+| New Carceburg Guard / Carceburg Resistance | Nova Guarda de Carceburg / Resistência de Carceburg | |
+| cunt (insulto) | vagabunda / buceta, conforme o tom | |
+| trocadilhos | adaptar ao PT ("Karen-te", "Já vou gozar") | |
+| the dark ones | os sombrios | |
+| pet (vocativo) | bichinha | |
+| badge (vocativo) | distintivo | |
+| notas de cena ("fade to black", "back to overworld") | traduzir normalmente | |
+| big boss | chefão | |
+| sweetheart | docinho | |
+| Cocklover (apelido) | Louca por Pau | |
+| fucktoy / fuckdoll | brinquedinho de foder / boneca de foder | |
 | Commander / Captain / Lieutenant / Guard | Comandante / Capitão / Tenente / Guarda | |
 | fB (dinheiro, ex.: `[5 fB]`) | fB | não traduzir a sigla |
 | Guard Armor | Armadura de Guarda | |

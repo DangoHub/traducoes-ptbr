@@ -10,6 +10,8 @@
     python -m kit instalar-teste <jogo>
     python -m kit termos <jogo> [-n 150]
     python -m kit amostra <jogo> <lote> [-n 30] [--de 0]
+    python -m kit termos-check <jogo>     (glossario.json "termos")
+    python -m kit padronizar <jogo>       (glossario.json "trocas")
 """
 import argparse
 import json
@@ -18,6 +20,7 @@ import shutil
 import sys
 
 from kit import montagem
+from kit.consistencia import checar_termos, padronizar
 from kit.detectar import detectar
 from kit.lotes import preparar, status
 from kit.projeto import Projeto
@@ -56,6 +59,8 @@ def main(argv):
     a.add_argument("--steam-build", default=None)
     a = sub.add_parser("instalar-teste"); a.add_argument("jogo")
     a = sub.add_parser("termos"); a.add_argument("jogo"); a.add_argument("-n", type=int, default=150)
+    a = sub.add_parser("padronizar"); a.add_argument("jogo")
+    a = sub.add_parser("termos-check"); a.add_argument("jogo")
     a = sub.add_parser("amostra"); a.add_argument("jogo"); a.add_argument("lote")
     a.add_argument("-n", type=int, default=30); a.add_argument("--de", type=int, default=0)
     args = ap.parse_args(argv)
@@ -88,6 +93,10 @@ def main(argv):
         montagem.montar(p, json_only=args.json_only, steam_build=args.steam_build)
     elif args.cmd == "termos":
         termos(p, args.n)
+    elif args.cmd == "padronizar":
+        padronizar(p)
+    elif args.cmd == "termos-check":
+        checar_termos(p)
     elif args.cmd == "amostra":
         chunk = carregar_json(os.path.join(p.chunks, args.lote + ".json"), [])
         out = carregar_json(os.path.join(p.out, args.lote + ".json"), {})

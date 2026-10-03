@@ -1,0 +1,25 @@
+{
+ "termos": {
+  "Crush Waves": "Ondas de Paixão",
+  "Touched": "Tocad",
+  "badge girl": "garota do distintivo",
+  "Townhall": "Prefeitura",
+  "Sublevel": "Subnível",
+  "Commander": "Comandante",
+  "Fiend": "monstr",
+  "test subject": "cobaia"
+ },
+ "trocas": [
+  ["Ondas Crush", "Ondas de Paixão"],
+  ["ondas Crush", "ondas de paixão"],
+  ["Kartões", "Cartões"],
+  ["Kartão", "Cartão"],
+  ["Florianos", "Florianas"],
+  ["vadia da dor", "vadiazinha da dor"],
+  ["Vadia da dor", "Vadiazinha da dor"],
+  ["vadias curandeiras", "vadias de cura"],
+  ["vadia curandeira", "vadia de cura"],
+  ["mordaça de anel", "mordaça de argola"],
+  ["mordaças de anel", "mordaças de argola"]
+ ]
+}

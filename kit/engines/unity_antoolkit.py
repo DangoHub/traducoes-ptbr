@@ -253,14 +253,19 @@ class UnityANToolkit(Engine):
         if esq is None:
             raise SystemExit("src/esqueleto.json não existe; rode 'python -m kit extrair' primeiro.")
         usados = 0
+        # tokens que o jogo expande a partir de listas em inglês dentro dos assets
+        tokens = self.p.cfg.get("substituir_tokens", {})
 
         def pt(alvo, original):
             nonlocal usados
             t = traducoes.get(alvo)
             if t:
                 usados += 1
-                return t
-            return original
+            else:
+                t = original
+            for token, troca in tokens.items():
+                t = t.replace(token, troca)
+            return t
 
         for d in esq["Dialogues"]:
             for ln in d["Lines"]:
