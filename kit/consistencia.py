@@ -53,6 +53,26 @@ def padronizar(p):
     print(f"Trocas aplicadas: {total} em out/, {nb} em src/traducoes.json")
 
 
+def buscar(p, texto, limite=20):
+    """Procura `texto` (sem diferenciar maiúsculas) no inglês e na tradução de todos os lotes."""
+    alvo = texto.lower()
+    achados = 0
+    for nome in p.lotes():
+        chunk = carregar_json(os.path.join(p.chunks, nome + ".json"), [])
+        out = carregar_json(os.path.join(p.out, nome + ".json"), {})
+        for it in chunk:
+            pt = out.get(it["k"], "")
+            if alvo in it["en"].lower() or alvo in pt.lower():
+                achados += 1
+                if achados <= limite:
+                    quem = f" {it['quem']}:" if it.get("quem") else ""
+                    print(f"out/{nome}.json  \"{it['k']}\"{quem}")
+                    print(f"   EN: {it['en']}")
+                    print(f"   PT: {pt}")
+    extra = f" (mostrando {limite})" if achados > limite else ""
+    print(f"{achados} resultado(s){extra}")
+
+
 def checar_termos(p, exemplos=2):
     termos = _glossario(p)["termos"]
     pares = []

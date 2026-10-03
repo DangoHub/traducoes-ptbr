@@ -20,6 +20,7 @@ Rode sempre da raiz do repositório:
 | `python -m kit prompt <jogo> <lotes...>` | Prompt pronto para passar ao subagente. |
 | `python -m kit validar <jogo> [<lotes...>]` | Erros e avisos por item. |
 | `python -m kit amostra <jogo> <lote> [-n 30]` | Inglês e português lado a lado, para revisão rápida. |
+| `python -m kit buscar <jogo> "<texto>"` | Acha uma frase (inglês ou português) e mostra arquivo, número, original e tradução. |
 | `python -m kit termos-check <jogo>` | Itens em que um termo de `glossario.json` ("termos") não foi traduzido como combinado. |
 | `python -m kit padronizar <jogo>` | Aplica as correções de `glossario.json` ("trocas") em `out/` e no banco consolidado. |
 | `python -m kit montar <jogo> [--json-only]` | Consolida, gera os arquivos traduzidos e o zip com o instalador. |
