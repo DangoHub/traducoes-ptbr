@@ -84,19 +84,35 @@ projetos/<jogo>/
   work/                local, fora do git: contexto/, correcoes/, historico/, metricas.jsonl
 ```
 
+## Organização do código
+
+O código usa nomes em inglês; comandos, flags, chaves JSON e nomes de arquivo continuam em português.
+
+```
+kit/
+  platform/      E/S: JSON e arquivos (gravação atômica), contagem de tokens, empacotamento dos zips
+  config/        caminhos do repositório e Project (jogo.json + pastas de um projeto)
+  domain/        regras puras: unidades de tradução, validação, divisão em lotes, filtro do guia
+  application/   casos de uso: lotes, revisão, correções, contexto, glossário, montagem, detecção
+  commands/      CLI (argparse) e textos dos prompts dos subagentes
+  engines/       plugins de engine
+  installer/     instalador genérico (Windows) e Instalar.sh (Steam Deck/Linux)
+tests/           testes com um jogo falso
+```
+
 ## Plugin de engine
 
 Herde de `kit/engines/base.py` e registre a classe em `kit/engines/__init__.py`. Implemente:
 
-- `extrair()`: lê o jogo, grava em `src/` o que for preciso para montar sem o jogo e devolve as
-  unidades, no formato descrito em `base.py`. Agrupe por conversa (`grupo`, `cena`) e informe `quem`
-  sempre que der. Cada destino precisa ser único: jogos repetem ids internos, e a extração e a montagem
-  devem gerar os destinos pela mesma função.
-- `montar(traducoes, destino)`: gera os arquivos traduzidos e devolve `[(arquivo, caminho_no_jogo)]`.
-  O instalador genérico (`kit/instalador.py`) copia esses arquivos, guarda backup do original e
-  desinstala.
-- `arquivo_de_verificacao()`: caminho que existe na pasta do jogo.
+- `extract()`: lê o jogo, grava em `src/` o que for preciso para montar sem o jogo e devolve uma lista
+  de `TranslationUnit` (`kit/domain/units.py`). Agrupe por conversa (`group`, `scene`) e informe
+  `speaker` sempre que der. Cada destino precisa ser único: jogos repetem ids internos, e a extração e
+  a montagem devem gerar os destinos pela mesma função.
+- `build(translations, destination)`: gera os arquivos traduzidos e devolve
+  `[(arquivo, caminho_no_jogo)]`. O instalador genérico (`kit/installer/installer.py`) copia esses
+  arquivos, guarda backup do original e desinstala.
+- `check_path()`: caminho que existe na pasta do jogo.
 
 Plugins disponíveis: `unity_antoolkit` (Third Crisis).
 
-Testes do fluxo (com um jogo falso): `python -m unittest kit.test_kit`.
+Testes (com um jogo falso): `python -m unittest discover -s tests -t .`

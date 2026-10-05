@@ -1,0 +1,39 @@
+:root {
+  --color-bg: #120d1f;
+  --color-bg-alt: #1b1430;
+  --color-panel: #231a3d;
+  --color-panel-alt: #2d2250;
+  --color-line: #3e2f6b;
+  --color-ink: #0a0714;
+  --color-ink-soft: #0c0818;
+  --color-text: #ece6ff;
+  --color-text-dark: #1a0f22;
+  --color-muted: #a99cd0;
+  --color-pink: #ff7eb6;
+  --color-pink-light: #ff96c4;
+  --color-pink-dark: #b84d80;
+  --color-cream: #ffe9a8;
+  --color-cream-dark: #a8935a;
+  --color-matcha: #8ee08a;
+  --color-matcha-dark: #0f2410;
+  --color-cyan: #6be4ff;
+  --color-cyan-dark: #0b1f26;
+  --color-danger: #e5484d;
+  --color-danger-light: #ff8a8a;
+  --color-virustotal: #0b4dda;
+  --color-smartscreen: #0063b1;
+
+  --shadow-pixel: 0 6px 0 var(--color-ink);
+
+  --font-pixel: 'Press Start 2P', monospace;
+  --font-title: 'Pixelify Sans', 'Press Start 2P', monospace;
+  --font-body: 'Nunito', system-ui, sans-serif;
+  --font-mono: Consolas, 'Courier New', monospace;
+
+  --content-width: 1200px;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 10px;
+}

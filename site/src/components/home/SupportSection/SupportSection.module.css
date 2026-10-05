@@ -1,0 +1,42 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  align-items: start;
+  gap: 2.5rem;
+  margin-top: 2rem;
+}
+
+.text p {
+  color: var(--color-muted);
+}
+
+.text .big {
+  margin-top: 0;
+  font-family: var(--font-title);
+  font-size: 1.6rem;
+  color: var(--color-text);
+}
+
+.perks {
+  display: grid;
+  gap: 0.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.perks li {
+  padding: 0.6rem 0.9rem;
+  background: var(--color-panel);
+  border: 2px solid var(--color-line);
+  border-radius: var(--radius-md);
+}
+
+.text .freeHelp {
+  font-size: 0.95rem;
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,19 @@
+.sideQuest {
+  margin-top: 1.6rem;
+  padding: 1rem 1.3rem;
+  background: var(--color-panel);
+  border: 3px solid var(--color-cyan);
+  border-radius: var(--radius-lg);
+}
+
+.sideQuest h3 {
+  margin: 0 0 0.4rem;
+  font-family: var(--font-title);
+  font-size: 1.2rem;
+  color: var(--color-cyan);
+}
+
+.sideQuest p {
+  margin: 0;
+  color: var(--color-muted);
+}

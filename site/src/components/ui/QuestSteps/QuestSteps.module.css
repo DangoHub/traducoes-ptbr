@@ -1,0 +1,44 @@
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.2rem;
+  margin: 2rem 0 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+}
+
+.step {
+  position: relative;
+  padding: 2.4rem 1.2rem 1.2rem;
+  background: var(--color-panel);
+  border: 3px solid var(--color-line);
+  border-radius: var(--radius-lg);
+  counter-increment: step;
+}
+
+.step::before {
+  content: 'LV ' counter(step);
+  position: absolute;
+  top: -14px;
+  left: 1rem;
+  padding: 0.45rem 0.6rem;
+  font-family: var(--font-pixel);
+  font-size: 0.6rem;
+  color: var(--color-text-dark);
+  background: var(--color-pink);
+  border: 2px solid var(--color-ink);
+  border-radius: var(--radius-sm);
+}
+
+.title {
+  margin: 0 0 0.4rem;
+  font-family: var(--font-title);
+  font-size: 1.2rem;
+}
+
+.description {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--color-muted);
+}

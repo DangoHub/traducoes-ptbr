@@ -1,0 +1,16 @@
+.locked {
+  opacity: 0.75;
+}
+
+.cover {
+  display: grid;
+  place-items: center;
+  background: repeating-linear-gradient(45deg, #1a1330 0 14px, #20183a 14px 28px);
+}
+
+.lock {
+  font-family: var(--font-pixel);
+  font-size: 3rem;
+  color: var(--color-line);
+  text-shadow: 4px 4px 0 var(--color-ink);
+}

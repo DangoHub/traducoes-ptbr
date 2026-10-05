@@ -1,0 +1,41 @@
+.achievements {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+}
+
+.achievement {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  background: linear-gradient(135deg, var(--color-panel), var(--color-bg-alt));
+  border: 3px solid var(--color-line);
+  border-left: 6px solid var(--color-cream);
+  border-radius: var(--radius-lg);
+}
+
+.achievement h3 {
+  margin: 0 0 0.2rem;
+  font-family: var(--font-title);
+  font-size: 1.1rem;
+  color: var(--color-cream);
+}
+
+.achievement p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--color-muted);
+}
+
+.icon {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  font-size: 1.6rem;
+  background: var(--color-ink-soft);
+  border: 3px solid var(--color-cream);
+  border-radius: var(--radius-md);
+}
