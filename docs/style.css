@@ -547,6 +547,44 @@ code { background: rgba(0, 0, 0, .35); padding: .1em .4em; border-radius: 4px; c
 .footer p { margin: .3rem 0; }
 .disclaimer { font-size: .8rem; opacity: .75; max-width: 680px; margin: .5rem auto 0 !important; }
 
+/* ---------- página +18 ---------- */
+body.adulto { overflow: hidden; }
+.age-gate {
+  position: fixed; inset: 0; z-index: 100;
+  display: grid; place-items: center; padding: 1rem;
+  background: rgba(10, 7, 20, .97);
+}
+.age-gate[hidden] { display: none; }
+.age-box {
+  width: min(460px, 100%);
+  background: var(--panel); border: 3px solid var(--pink); border-radius: 10px;
+  box-shadow: var(--shadow); padding: 2rem 1.6rem;
+  display: flex; flex-direction: column; gap: 1rem; text-align: center;
+}
+.age-box h1 { font-family: var(--font-title); font-size: 1.8rem; margin: 0; }
+.age-box p { margin: 0; color: var(--muted); }
+.badge-18 {
+  align-self: center; font-family: var(--font-pixel); font-size: 1.1rem;
+  background: #e5484d; color: #fff; border-radius: 50%;
+  width: 4.2rem; height: 4.2rem; display: grid; place-items: center; box-shadow: var(--shadow);
+}
+.age-field { display: flex; flex-direction: column; gap: .4rem; text-align: left; font-weight: 600; }
+.age-field input {
+  font: inherit; color: var(--text); background: var(--bg); color-scheme: dark;
+  border: 3px solid var(--line); border-radius: 6px; padding: .7rem;
+}
+.age-field input:focus { outline: none; border-color: var(--cyan); }
+.age-check { display: flex; gap: .6rem; align-items: flex-start; text-align: left; font-size: .9rem; color: var(--muted); }
+.age-check input { margin-top: .25rem; accent-color: var(--pink); }
+.age-erro { color: #ff8a8a !important; font-weight: 600; }
+.age-actions { display: flex; gap: .8rem; justify-content: center; flex-wrap: wrap; }
+.age-actions .btn:disabled { opacity: .5; cursor: not-allowed; animation: none; }
+.games--one { grid-template-columns: minmax(0, 560px); }
+.badge-18-card { background: #e5484d; color: #fff; }
+.btn-off { opacity: .7; cursor: default; }
+.steps-simple { color: var(--muted); line-height: 1.8; max-width: 720px; padding-left: 1.4rem; }
+.steps-simple b { color: var(--text); }
+
 /* ---------- responsivo ---------- */
 @media (max-width: 900px) {
   .hero, .support-grid { grid-template-columns: 1fr; }
