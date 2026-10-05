@@ -18,12 +18,26 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 - **`tipo: escolha`** são ações ou falas da Jenna que o jogador escolhe. Use frase curta, no infinitivo
   ou no imperativo: "Put on the rags." → "Vestir os trapos."; "Ask about Karen." → "Perguntar sobre a
   Karen.".
-- **Rida e o povo dela falam "errado"**, como tribais ("Rida greet Carcen.", "Me scared of fight").
-  Reproduza com português quebrado equivalente: verbo no infinitivo e a pessoa falando de si na
-  terceira pessoa. Exemplos: "Rida cumprimentar Carcen.", "Eu ter medo de luta.".
-- **`Fiend`** também fala com poucas palavras ("Put clothes!" → "Põe roupa!").
 - **Falas entre `::`** são transmissões ou vozes distantes. Mantenha os `::`.
 - **Nomes com glitch** (zalgo, como `Ą̴͎̗P̴̢R̶̡I̴L̴`) vão como estão, porque são nomes.
+
+## Personagens
+
+### Rida / Carcen / Carcens
+- Rida e o povo dela falam "errado", como tribais ("Rida greet Carcen.", "Me scared of fight").
+  Reproduza com português quebrado equivalente: verbo no infinitivo e a pessoa falando de si na
+  terceira pessoa. Exemplos: "Rida cumprimentar Carcen.", "Eu ter medo de luta.".
+
+### Fiend
+- Fala com poucas palavras ("Put clothes!" → "Põe roupa!"). O gênero varia: siga o texto.
+
+### HQ / Henry / Smart Hen
+- Voz do rádio, masculino: "o QG". Fala em português quebrado ("QG feliz ver Jenna!") só quando o
+  inglês também é quebrado; no final bom, fala normal.
+
+### Ray / Lumber Rats / Lumber Rat Ray
+- Sotaque caipira ("véio Ray", "mocinha"), que substitui o escocês do original. Os Lumber Rats falam
+  com o mesmo sotaque.
 
 ## Tom
 
@@ -33,6 +47,9 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
   alongamentos ("Yesss" → "Simmm") e reticências.
 - **Interjeições:** "Mm." → "Mm."; "Ugh..." → "Argh..."; "Phew!" → "Ufa!"; "Erm" → "Hã"; "Agh!" →
   "Ai!".
+- **Nomes próprios de personagens** ficam inalterados; nunca adapte.
+- **Trocadilhos:** adapte ao português ("Karen-te", "Já vou gozar").
+- **Notas de cena** ("fade to black", "back to overworld"): traduza normalmente.
 
 ### Vocabulário explícito (padrão; ajuste pelo contexto)
 
@@ -105,7 +122,6 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 | cow (apelido) | vaca | |
 | Lord Phallus | Senhor Falo | |
 | Shady Lewd Kart, Lumber Rat Ray | inalterados | nomes próprios |
-| HQ falando | português quebrado ("QG feliz ver Jenna!") | igual Rida |
 | inhalator / pull / drag | inalador / tragada | |
 | little hero | heroinazinha | |
 | Just like then, just like now | Como foi antes, como é agora | bordão |
@@ -117,7 +133,6 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 | Lust Healing / Hybrid Damage | Cura de Tesão / Dano Híbrido | |
 | florians (substantivo comum) | florianas | o nome "Florian Hooker" fica igual |
 | Florian(s) (criaturas-planta, inimigas) | Floriana(s) | sempre feminino; o nome de falante "Florian Hooker" fica igual |
-| nomes próprios de personagens | inalterados | nunca adaptar |
 | the Hub / Stronghold / Inner Forest / Crossroads | o Hub / Fortaleza / Floresta Interior / Encruzilhada | |
 | Untouched | Intocados | |
 | Zap Pistols | Pistolas Zap | |
@@ -138,8 +153,6 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 | twinkle toes (Sophie → Jenna) | bailarina | |
 | pole / pole dancing | pole / pole dance | |
 | tipsy | alegrinha | |
-| HQ/Henry | quebrado só quando o inglês também é quebrado | no final bom fala normal |
-| Ray | sotaque caipira ("véio Ray", "mocinha") | substitui o escocês |
 | APRIL | sigla inalterada; glitch recriado no PT | |
 | stall (glory hole) | cabine | |
 | Spitroast Simulation | Simulação de Espeto | |
@@ -188,7 +201,6 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 | Tailor Shop / mugshots | Alfaiataria / fotos de ficha | |
 | Limpy | Brochinha | |
 | crotch plate / booster | protetor de virilha / propulsor | |
-| Lumber Rats (fala) | sotaque caipira, como o Ray | |
 | maid / Asset (Jenna sobre si) | empregadinha / Patrimônio | |
 | blue ball | deixar na vontade | |
 | Guard Captain | capitão da guarda | |
@@ -202,11 +214,9 @@ com a mesma intensidade, **sem suavizar, sem censurar e sem exagerar**.
 | Hero / Slacker of Carceburg | Heroína / Molenga de Carceburg | |
 | New Carceburg Guard / Carceburg Resistance | Nova Guarda de Carceburg / Resistência de Carceburg | |
 | cunt (insulto) | vagabunda / buceta, conforme o tom | |
-| trocadilhos | adaptar ao PT ("Karen-te", "Já vou gozar") | |
 | the dark ones | os sombrios | |
 | pet (vocativo) | bichinha | |
 | badge (vocativo) | distintivo | |
-| notas de cena ("fade to black", "back to overworld") | traduzir normalmente | |
 | big boss | chefão | |
 | sweetheart | docinho | |
 | Cocklover (apelido) | Louca por Pau | |

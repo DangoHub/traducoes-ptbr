@@ -3348,8 +3348,8 @@
 "Perguntar sobre o guarda alcoólatra."
 ],
 "C|48fdb551ccec3c64492efbb9edb97f87|line_0|CarcenLoyalty": [
-"Give him the supplies.",
-"Entregar os suprimentos."
+"Show him the broken lights.",
+"Mostrar as luzes quebradas."
 ],
 "C|48fdb551ccec3c64492efbb9edb97f87|line_0|RidaSex": [
 "Ask for his strongest drink.",
@@ -5175,10 +5175,6 @@
 "Continue",
 "Continuar"
 ],
-"U|abc157ec-9e26-4970-8b84-0854c886557f": [
-"Show Advanced Settings",
-"Mostrar Configurações Avançadas"
-],
 "U|6b6bf655-1822-4da7-939b-14508a8f023a": [
 "Continue",
 "Continuar"
@@ -5400,12 +5396,12 @@
 "SEGURAR"
 ],
 "U|af32b929-5862-4d10-b237-c373cc00c056": [
-"Third Crisis (1.0.0-pr) on WindowsEditor",
-"Third Crisis (1.0.0-pr) on WindowsEditor"
+"Third Crisis (0.41.1-pr) on WindowsEditor",
+"Third Crisis (0.41.1-pr) on WindowsEditor"
 ],
 "U|dd760c7a-b123-4370-a87e-5fcf9203cb14": [
-"Carceburg PureEnding",
-"Carceburg PureEnding"
+"Loyalty_Carcen_WildfireScene",
+"Loyalty_Carcen_WildfireScene"
 ],
 "U|6acdd7a1-de7f-45e8-9539-5378ba11dcf4": [
 "VICTORY",
@@ -5632,8 +5628,8 @@
 "<b>Assado no Espeto</b>"
 ],
 "U|677b7acf-1f8a-4de7-a039-a637eea40670": [
-"1.0.0-pr - (2022.3.7f1)",
-"1.0.0-pr - (2022.3.7f1)"
+"0.59.0-pr - (2022.3.7f1)",
+"0.59.0-pr - (2022.3.7f1)"
 ],
 "U|f28ab48b-e6af-401a-bbbc-6f62ad444c96": [
 "SAVE GAME",
@@ -5644,8 +5640,8 @@
 "CONTINUAR"
 ],
 "U|042b7b07-f76d-4859-9959-20d92386540c": [
-"HISTORY",
-"HISTÓRICO"
+"OPTIONS",
+"OPÇÕES"
 ],
 "U|4e739ae2-b843-4433-ad20-b28e596f3438": [
 "LOAD GAME",
@@ -5971,10 +5967,6 @@
 "Only in\npaid version",
 "Só na\nversão paga"
 ],
-"U|d03ea4e0-0600-47e5-8a8b-91ba0c0a10c5": [
-"Futa",
-"Futa"
-],
 "U|45db5d24-7aed-45d5-a63e-ac1698285467": [
 "Mission Name Here",
 "Nome da Missão Aqui"
@@ -6108,8 +6100,8 @@
 "Pular"
 ],
 "U|f39bd612-e901-4176-9834-4777d6e81723": [
-"History",
-"Histórico"
+"Auto",
+"Auto"
 ],
 "U|b4b9d6c3-8e16-4946-9475-72654d807570": [
 "Shift",
@@ -6804,8 +6796,8 @@
 "REC"
 ],
 "U|c07fa61e-e7dc-4ea4-a8e0-0b517e8ec3ca": [
-"LIVE",
-"AO VIVO"
+"REC",
+"REC"
 ],
 "U|59cec84c-719c-48ef-a3db-18a4fb39038a": [
 "REC",
@@ -7232,8 +7224,8 @@
 "Jogável na próxima versão"
 ],
 "U|9db52643-b80e-48bc-a15d-c8fa1cd97ef7": [
-"More Perversion Required",
-"Requer Mais Perversão"
+"IN DEVELOPMENT",
+"EM DESENVOLVIMENTO"
 ],
 "U|1feb340d-b669-4414-aa5b-227cd669ab72": [
 "#01 - Squeeze Tits",
@@ -7820,8 +7812,8 @@
 "Pensar num texto esperto pra colocar aqui porque pode ficar legal, tô preenchendo o espaço pra ver "
 ],
 "U|d902660c-9266-4f21-a141-2bcad60c6d15": [
-"Room #3\nOccupation: Wright",
-"Quarto #3\nOcupante: Wright"
+"Room #3\nOccupation: Wright\nRecording #35",
+"Quarto #3\nOcupante: Wright\nGravação #35"
 ],
 "U|04a48484-7ffa-47f6-8536-1aaeac5b7f13": [
 "Mod Name",
@@ -8596,8 +8588,8 @@
 "Tô dando uma pausa no treino e só relaxando. Precisam de alguma coisa?"
 ],
 "C|ba1c30601105a254794bcd6785938f3a|line_3|": [
-"We're just passing by!",
-"Só tamos de passagem!"
+"How are the mannequins?",
+"Como estão os manequins?"
 ],
 "D|bc19388f511ebe247b3db0e8cf93e026|line_0": [
 "Honestly, I'm surprised! I thought they'd be a lot more angry at me than they actually ended up being. ",
@@ -13240,8 +13232,8 @@
 "<i>(Será que eu devo mesmo....?)</i>"
 ],
 "C|f7f36cfcc28d64948b91a6f9d87a8732|line_17|Yes": [
-"I would never say such a thing! It's degrading! You are all dirty pigs!!",
-"Eu nunca diria isso! É humilhante! Vocês são uns porcos!!"
+"<color=perversion>Being-... Being a slut feels... It feels good...</color>",
+"<color=perversion>Ser-... Ser vadia é... É gostoso...</color>"
 ],
 "D|4dd2bf2faf2781f4fbae70682c51b7a0|line_0": [
 "<color=perversion>Being-... Being a slut feels... It feels so good...</color>",
@@ -13252,8 +13244,8 @@
 "Hahaha. Isso mesmo. E por que é gostoso, hein, <b>vadia</b>!?"
 ],
 "C|4dd2bf2faf2781f4fbae70682c51b7a0|line_1|Yes": [
-"It doesn't!! It feels disgusting, wrong and shameful! You are all evil! Disgusting cowards!",
-"Não é!! É nojento, errado e vergonhoso! Vocês são uns monstros! Covardes nojentos!"
+"<color=perversion>Because... I get so much money... and-...</color>",
+"<color=perversion>Porque... Eu ganho muito dinheiro... e-...</color>"
 ],
 "D|4dd2bf2faf2781f4fbae70682c51b7a0|line_2": [
 "<color=perversion>Because... I get so much money... and-...</color>",
@@ -13264,8 +13256,8 @@
 "E...?"
 ],
 "C|4dd2bf2faf2781f4fbae70682c51b7a0|line_3|Yes": [
-"<b>You should all rot in hell! Fucking perverts! Leave me alone!</b>",
-"<b>Vocês tinham que apodrecer no inferno! Tarados do caralho! Me deixem em paz!</b>"
+"<color=perversion>And... Because I love it.. When all of you look at my sexy body... It feels so <b>good</b>..</color>",
+"<color=perversion>E... Porque eu adoro.. Quando vocês olham meu corpo sexy... É tão <b>gostoso</b>..</color>"
 ],
 "D|4dd2bf2faf2781f4fbae70682c51b7a0|line_4": [
 "<color=perversion>And... Because I love it-.. when all of you look at my body... It makes me feel so <b>sexy</b>~</color>",
@@ -13276,8 +13268,8 @@
 "Pra mim, parece que você devia agradecer seus clientes que pagam tão bem, hehehe."
 ],
 "C|4dd2bf2faf2781f4fbae70682c51b7a0|line_5|Yes": [
-"I would never thank you, disgusting pigs!",
-"Eu nunca agradeceria vocês, porcos nojentos!"
+"<color=perversion>Thank you for-.. for paying me so much money. And-... for enjoying my <b>sexy</b> body.</color>",
+"<color=perversion>Obrigada por-.. por me pagarem tanto dinheiro. E-... por curtirem meu corpo <b>sexy</b>.</color>"
 ],
 "D|4dd2bf2faf2781f4fbae70682c51b7a0|line_6": [
 "<color=perversion>Thank you for-.. for paying me so much money. And-... for enjoying my <b>sexy</b> body.</color>",
@@ -13400,16 +13392,16 @@
 "<size=35>Eu vou-...</size>"
 ],
 "C|91daa767b18dcc94cbaed7b133fb9d83|line_11|Yes": [
-"No! This is <b>wrong</b>! Karen would <b>never</b> forgive me! <b>I'm leaving!</b>",
-"Não! Isso é <b>errado</b>! A Karen <b>nunca</b> ia me perdoar! <b>Tô indo embora!</b>"
+"<color=perversion>It's better business like this.</color>",
+"<color=perversion>Assim é melhor pros negócios.</color>"
 ],
 "D|91daa767b18dcc94cbaed7b133fb9d83|line_12": [
 "I'll keep it.. <color=perversion>off..</color>",
 "Vou continuar.. <color=perversion>sem..</color>"
 ],
 "C|91daa767b18dcc94cbaed7b133fb9d83|line_12|Yes": [
-"No!!! I'm a hero, not some... Sl-... ",
-"Não!!! Eu sou uma heroína, não uma... Va-... "
+"<color=perversion>The nasty customers staring at my exposed skin made me feel so... <b>desired</b>...</color>",
+"<color=perversion>Os clientes nojentos olhando minha pele exposta me fizeram sentir tão... <b>desejada</b>...</color>"
 ],
 "D|91daa767b18dcc94cbaed7b133fb9d83|line_13": [
 "<i><color=perversion>(I <b>deserve</b> the attention... <b>I'm</b> the one doing the work after all.. Why <b>should't</b> I use my hot <b>tits</b> and <b>ass</b> to my advantage?!)</color></i>",
@@ -14276,8 +14268,8 @@
 "Eu sei que você só tá tentando ajudar. Agradeço. De verdade. Mas eu não entrei nesse ramo pra administrar um harém..."
 ],
 "C|4e12fd9c24f557744a490659c7c669d4|line_3|Yes": [
-"Maybe he's... Right?",
-"Talvez ele esteja... Certo?"
+"<color=perversion>But we would lose so much money! I <b>have</b> to change his mind!...</color>",
+"<color=perversion>Mas a gente ia perder tanto dinheiro! Eu <b>tenho</b> que fazer ele mudar de ideia!...</color>"
 ],
 "D|4e12fd9c24f557744a490659c7c669d4|line_4": [
 "<i>(<color=perversion>I will <b>not</b> take a paycut just because he can't deal with me being too <b>hot</b>... But how could I convince him...? Maybe-...</color>)</i>",
@@ -14288,8 +14280,8 @@
 "Então eu tava pensando.. Talvez seja melhor se.. a gente maneirar um pouco. Tudo bem pra você?"
 ],
 "C|4e12fd9c24f557744a490659c7c669d4|line_5|Yes": [
-"Of course, Martin. You've done so much for me, I'll tone it down.",
-"Claro, Martin. Você fez tanto por mim, vou maneirar."
+"<color=perversion>Try to <b>persuade</b> him.</color>",
+"<color=perversion>Tentar <b>convencê-lo</b>.</color>"
 ],
 "D|4e12fd9c24f557744a490659c7c669d4|line_6": [
 "<color=perversion>But <i>boss</i>..~ Why won't you just let good things happen to you? I think you should.. <b>loosen up</b> a little..~</color>",
@@ -82632,16 +82624,16 @@
 "O que você quer?"
 ],
 "C|2d62c351069fff54a996bd527b98e7d2|line_0|StorehouseRaid": [
-"Warn her about Pyra.",
-"Avisar sobre a Pyra."
+"Discuss the storehouse raid.",
+"Discutir o ataque ao depósito."
 ],
 "C|2d62c351069fff54a996bd527b98e7d2|line_0|StorehouseRaid_Talk": [
 "Talk to her before the raid.",
 "Falar com ela antes do ataque."
 ],
 "C|2d62c351069fff54a996bd527b98e7d2|line_0|ResistanceIntro": [
-"Report to Lady.",
-"Se reportar à Lady."
+"Report to her.",
+"Se reportar a ela."
 ],
 "C|2d62c351069fff54a996bd527b98e7d2|line_0|Talk": [
 "Talk to her.",
@@ -92304,8 +92296,8 @@
 "Só, sabe como é. 'Expressar meus sentimentos' um pouco melhor. "
 ],
 "C|28720911d71cf04438a4a43de280b93f|line_11|": [
-"Decline Sophie's offer",
-"Recusar a proposta da Sophie"
+"Accept Sophie's offer (perversion)",
+"Aceitar a proposta da Sophie (perversão)"
 ],
 "D|dd539156c4bf7c0488581e2a7f5f7a11|line_0": [
 "Characters are lying in wait, preparing to ambush a conoy, whenever it passes by.",
@@ -92396,8 +92388,8 @@
 "O que foi?"
 ],
 "C|96ce7f63ea8a27a43a95d9d9e56ceabf|line_3|": [
-"We were just passing by",
-"A gente só tava de passagem"
+"Found a chance to use that ammo we got you yet?",
+"Já usou a munição que a gente trouxe?"
 ],
 "D|9bc0c10efb3a6094cbd9c644522f57c3|line_0": [
 "Use it?! No, no, no! I couldn't possibly use that kind of ammo right now!",
@@ -92944,24 +92936,24 @@
 "O que me diz?"
 ],
 "C|5cac8ce596751904aa3ce61f697533db|line_12|": [
-"Can't we just talk and get to trust each other like that?",
-"Não dá pra só conversar e confiar uma na outra assim?"
+"Accept Sophie's Request",
+"Aceitar o pedido da Sophie"
 ],
 "D|1fe54e7ca2f162547a250c6fc508ef0f|line_0": [
 "(plays if you've already talked to moody sophie once)",
 "(toca se você já falou com a Sophie mal-humorada uma vez)"
 ],
 "C|1fe54e7ca2f162547a250c6fc508ef0f|line_0|": [
-"I just wanna talk...",
-"Só quero conversar..."
+"Accept Sophie's Quest",
+"Aceitar a missão da Sophie"
 ],
 "D|1fe54e7ca2f162547a250c6fc508ef0f|line_1": [
 "Come to annoy me again?",
 "Veio me encher de novo?"
 ],
 "C|1fe54e7ca2f162547a250c6fc508ef0f|line_1|": [
-"We just wanna talk.",
-"A gente só quer conversar."
+"Accept Sophie's Request",
+"Aceitar o pedido da Sophie"
 ],
 "D|9056a0918679d9b4aa87889d23d8b19d|line_0": [
 "Huh?",
@@ -93368,8 +93360,8 @@
 "Ah, nada demais...só quero...conversar."
 ],
 "C|7db4bc9d6ac2e6745957758fe141713e|line_11|": [
-"Declinen Sophie's Offer",
-"Recusar a proposta da Sophie"
+"Accept Sophie's Offer (perversion)",
+"Aceitar a proposta da Sophie (perversão)"
 ],
 "D|e745d558417493346a0670332f5259b8|line_0": [
 "Hmmm...I guess that <i>does</i> help everyone. But no more taking things back, okay?",
@@ -117860,12 +117852,12 @@
 "Parece estranha, mas pode esconder minha identidade."
 ],
 "I|74063c618db6ab24cb49a8831f25ad34|Name": [
-"Sheer Swimsuit",
-"Maiô Transparente"
+"Succubus Markings",
+"Marcas de Súcubo"
 ],
 "I|74063c618db6ab24cb49a8831f25ad34|Description": [
-"A set of plate armor worn by a serpent leader from a different era.",
-"Uma armadura de placas usada por um líder serpente de outra era."
+"The markings of an ancient succubus from a different era.",
+"As marcas de uma antiga súcubo de outra era."
 ],
 "I|d8aa57ffdaa4b494dab9628db77f3ab1|Name": [
 "Collar",
@@ -117972,8 +117964,8 @@
 "Parte de Cima de Monstro Fêmea 3"
 ],
 "I|90df9ea879d744b4ba4da772278da7fc|Name": [
-"Mina Rags",
-"Trapos da Mina"
+"Fiend Female Rags",
+"Trapos de Monstro Fêmea"
 ],
 "I|0bd88169d9e88f54e87e02b3915d3231|Name": [
 "Fiend Male Rags",
@@ -118060,12 +118052,12 @@
 "Um pouco curtinha, mas bem animada também!"
 ],
 "I|57e81d82c18c8b043bd85f067639fd3a|Name": [
-"CyberCock (Standard)",
-"CiberPau (Padrão)"
+"Cheerleader Pasties",
+"Tapa-Mamilos de Líder de Torcida"
 ],
 "I|57e81d82c18c8b043bd85f067639fd3a|Description": [
-"This cybernetic cock looks and feels like the real thing, but it's detachable!",
-"Esse pau cibernético parece de verdade e dá a mesma sensação, mas é removível!"
+"Cute lil stars! They don't cover much though...",
+"Estrelinhas fofas! Mas não cobrem muita coisa..."
 ],
 "I|06140b4a77749544a80a49ff39707087|Name": [
 "Dancer Dress",
@@ -118084,12 +118076,12 @@
 "Isso aqui não cobre quase nada!"
 ],
 "I|522bb45341a67e84da3dac77fe75ab56|Name": [
-"Dress",
-"Vestido"
+"Disco Outfit",
+"Roupa Disco"
 ],
 "I|522bb45341a67e84da3dac77fe75ab56|Description": [
-"Barely an outfit. It's as skimpy as it gets.",
-"Mal dá pra chamar de roupa. Não tem como ser mais curta."
+"Shiny blue outfit with Neon Text",
+"Roupa azul brilhante com texto neon"
 ],
 "I|efae9558771da2f4a8ca4abf5efe0ff3|Name": [
 "Gothic Dress",
@@ -118136,12 +118128,12 @@
 "Um pouco reveladora, mas.. Muita liberdade de movimento!"
 ],
 "I|d7874bedb239c1648ac93b10ea6ca3fd|Name": [
-"Latex Outfit",
-"Roupa de Látex"
+"Labcoat",
+"Jaleco"
 ],
 "I|d7874bedb239c1648ac93b10ea6ca3fd|Description": [
-"Very shiny. Wait-... Is that bra see through..?",
-"Bem brilhante. Peraí-... Esse sutiã é transparente..?"
+"I think most of the slime has come off by now...",
+"Acho que a maior parte da gosma já saiu..."
 ],
 "I|788f25467481cce459193162b7081a11|Name": [
 "Maid Outfit",
@@ -118164,8 +118156,8 @@
 "Microbiquíni"
 ],
 "I|9694b55b52be2494dbbe8c40ade3426a|Name": [
-"Riot Police Sunglasses",
-"Óculos da Tropa de Choque"
+"Military Pilot Uniform",
+"Uniforme de Piloto Militar"
 ],
 "I|dfccb3f8ac5038947aa40c0f59f16f84|Name": [
 "Choker with Ring",
@@ -118420,12 +118412,12 @@
 "É um pouco curtinha, mas pelo menos dá pra trabalhar no bar!"
 ],
 "I|c412f37a997e0424d899455c2485d338|Name": [
-"Jewel's Rags",
-"Trapos da Jewel"
+"Mind Control Mask",
+"Máscara de Controle Mental"
 ],
 "I|c412f37a997e0424d899455c2485d338|Description": [
-"She looks like she could rock these.",
-"Ela parece que arrasaria com isso."
+"Something about this makes me uncomfortable...",
+"Tem algo nisso que me deixa desconfortável..."
 ],
 "I|f0c1d21c15b84694ab62e251ee254d3b|Name": [
 "Jewel's Underwear",
@@ -118472,8 +118464,8 @@
 "Buuuu!"
 ],
 "I|0e0a3c192508a604eb3d4cbe5d9b0541|Name": [
-"Demon Punk Outfit",
-"Roupa Punk Demoníaca"
+"Rida's Outfit",
+"Roupa da Rida"
 ],
 "I|0e0a3c192508a604eb3d4cbe5d9b0541|Description": [
 "Rida clothes protect good. Mm. Like good clothes. Like no clothes too. Rida no have preference.",
@@ -118680,8 +118672,8 @@
 "Parece uma pistolinha bem decente!"
 ],
 "I|5441880ce5c0c35428b5a12b4ea201dd|Name": [
-"Pulse Rifle (Enemy)",
-"Rifle de Pulso (Inimigo)"
+"Pulse Rifle",
+"Rifle de Pulso"
 ],
 "I|5441880ce5c0c35428b5a12b4ea201dd|Description": [
 "You could do some serious damage with this thing! Looks like a fancy long-ranged rifle!",
@@ -118740,8 +118732,8 @@
 "Gorro Festivo (Gato)"
 ],
 "I|d0a71589bee8f8a42a2c22c8152d6663|Name": [
-"Holiday Hat (Sofie)",
-"Gorro Festivo (Sofie)"
+"Holiday Hat (Generic)",
+"Gorro Festivo (Genérico)"
 ],
 "I|d13e7ff095761fd40b0a1659f34edddc|Name": [
 "Holiday Hat",
@@ -119386,5 +119378,377 @@
 "N|VR_Finale_Level": [
 "a dark lonely void",
 "um vazio escuro e solitário"
+],
+"C|ba1c30601105a254794bcd6785938f3a|line_3|~1": [
+"How's the morale around the base?",
+"Como tá o moral na base?"
+],
+"C|ba1c30601105a254794bcd6785938f3a|line_3|~2": [
+"We're just passing by!",
+"Só tamos de passagem!"
+],
+"C|48fdb551ccec3c64492efbb9edb97f87|line_0|CarcenLoyalty~1": [
+"Talk to him about the recruitment plan.",
+"Falar sobre o plano de recrutamento."
+],
+"C|48fdb551ccec3c64492efbb9edb97f87|line_0|CarcenLoyalty~2": [
+"Give him the supplies.",
+"Entregar os suprimentos."
+],
+"C|f7f36cfcc28d64948b91a6f9d87a8732|line_17|Yes~1": [
+"I would never say such a thing! It's degrading! You are all dirty pigs!!",
+"Eu nunca diria isso! É humilhante! Vocês são uns porcos!!"
+],
+"C|4dd2bf2faf2781f4fbae70682c51b7a0|line_1|Yes~1": [
+"It doesn't!! It feels disgusting, wrong and shameful! You are all evil! Disgusting cowards!",
+"Não é!! É nojento, errado e vergonhoso! Vocês são uns monstros! Covardes nojentos!"
+],
+"C|4dd2bf2faf2781f4fbae70682c51b7a0|line_3|Yes~1": [
+"<b>You should all rot in hell! Fucking perverts! Leave me alone!</b>",
+"<b>Vocês tinham que apodrecer no inferno! Tarados do caralho! Me deixem em paz!</b>"
+],
+"C|4dd2bf2faf2781f4fbae70682c51b7a0|line_5|Yes~1": [
+"I would never thank you, disgusting pigs!",
+"Eu nunca agradeceria vocês, porcos nojentos!"
+],
+"C|91daa767b18dcc94cbaed7b133fb9d83|line_11|Yes~1": [
+"No! This is <b>wrong</b>! Karen would <b>never</b> forgive me! <b>I'm leaving!</b>",
+"Não! Isso é <b>errado</b>! A Karen <b>nunca</b> ia me perdoar! <b>Tô indo embora!</b>"
+],
+"C|91daa767b18dcc94cbaed7b133fb9d83|line_12|Yes~1": [
+"No!!! I'm a hero, not some... Sl-... ",
+"Não!!! Eu sou uma heroína, não uma... Va-... "
+],
+"C|4e12fd9c24f557744a490659c7c669d4|line_3|Yes~1": [
+"Maybe he's... Right?",
+"Talvez ele esteja... Certo?"
+],
+"C|4e12fd9c24f557744a490659c7c669d4|line_5|Yes~1": [
+"Of course, Martin. You've done so much for me, I'll tone it down.",
+"Claro, Martin. Você fez tanto por mim, vou maneirar."
+],
+"C|2d62c351069fff54a996bd527b98e7d2|line_0|ResistanceIntro~1": [
+"Report to Lady.",
+"Se reportar à Lady."
+],
+"C|2d62c351069fff54a996bd527b98e7d2|line_0|StorehouseRaid~1": [
+"Show her the bandanas.",
+"Mostrar as bandanas."
+],
+"C|2d62c351069fff54a996bd527b98e7d2|line_0|StorehouseRaid~2": [
+"Warn her about Pyra.",
+"Avisar sobre a Pyra."
+],
+"C|28720911d71cf04438a4a43de280b93f|line_11|~1": [
+"Decline Sophie's offer",
+"Recusar a proposta da Sophie"
+],
+"C|96ce7f63ea8a27a43a95d9d9e56ceabf|line_3|~1": [
+"When did you discover your love for guns?",
+"Quando você descobriu seu amor por armas?"
+],
+"C|96ce7f63ea8a27a43a95d9d9e56ceabf|line_3|~2": [
+"We were just passing by",
+"A gente só tava de passagem"
+],
+"C|5cac8ce596751904aa3ce61f697533db|line_12|~1": [
+"Can't we just talk and get to trust each other like that?",
+"Não dá pra só conversar e confiar uma na outra assim?"
+],
+"C|1fe54e7ca2f162547a250c6fc508ef0f|line_0|~1": [
+"I just wanna talk...",
+"Só quero conversar..."
+],
+"C|1fe54e7ca2f162547a250c6fc508ef0f|line_1|~1": [
+"We just wanna talk.",
+"A gente só quer conversar."
+],
+"C|7db4bc9d6ac2e6745957758fe141713e|line_11|~1": [
+"Declinen Sophie's Offer",
+"Recusar a proposta da Sophie"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~1": [
+"Elven Leather",
+"Couro Élfico"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Description~1": [
+"An ancient preserved outfit from a different era.",
+"Uma roupa antiga preservada de outra era."
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~2": [
+"Holy Armor",
+"Armadura Sagrada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Description~2": [
+"A suit of armor that protected holy warriors from a different era.",
+"Uma armadura que protegia guerreiros sagrados de outra era."
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~3": [
+"Priestess Garb",
+"Vestes de Sacerdotisa"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Description~3": [
+"A holy outfit that used to cloth high priestesses from a different era.",
+"Uma roupa sagrada que vestia altas sacerdotisas de outra era."
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~4": [
+"Serpent Plate",
+"Placas da Serpente"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Description~4": [
+"A set of plate armor worn by a serpent leader from a different era.",
+"Uma armadura de placas usada por um líder serpente de outra era."
+],
+"I|90df9ea879d744b4ba4da772278da7fc|Name~1": [
+"Mina Rags",
+"Trapos da Mina"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~1": [
+"CyberCock (Naughty)",
+"CiberPau (Safado)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Description~1": [
+"This cybernetic cock looks and feels like the real thing, but it's detachable!",
+"Esse pau cibernético parece de verdade e dá a mesma sensação, mas é removível!"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~2": [
+"CyberCock (Pink Pounder)",
+"CiberPau (Socador Rosa)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~3": [
+"CyberCock (Turbo Tentacle)",
+"CiberPau (Tentáculo Turbo)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~4": [
+"CyberCock (Rock Brute)",
+"CiberPau (Bruto de Pedra)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~5": [
+"CyberCock (Long Lover)",
+"CiberPau (Amante Longo)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~6": [
+"CyberCock (Red Devil)",
+"CiberPau (Diabo Vermelho)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~7": [
+"CyberCock (Aqua)",
+"CiberPau (Aqua)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~8": [
+"CyberCock (Alien)",
+"CiberPau (Alienígena)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~9": [
+"CyberCock (Ribbed Alien)",
+"CiberPau (Alienígena Estriado)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~10": [
+"CyberCock (Blue Popsicle)",
+"CiberPau (Picolé Azul)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~11": [
+"CyberCock (Big)",
+"CiberPau (Grande)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~12": [
+"CyberCock (Flaccid)",
+"CiberPau (Flácido)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~13": [
+"CyberCock (Foreskin)",
+"CiberPau (Prepúcio)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~14": [
+"CyberCock (Small)",
+"CiberPau (Pequeno)"
+],
+"I|57e81d82c18c8b043bd85f067639fd3a|Name~15": [
+"CyberCock (Standard)",
+"CiberPau (Padrão)"
+],
+"I|522bb45341a67e84da3dac77fe75ab56|Name~1": [
+"Dress",
+"Vestido"
+],
+"I|522bb45341a67e84da3dac77fe75ab56|Description~1": [
+"Barely an outfit. It's as skimpy as it gets.",
+"Mal dá pra chamar de roupa. Não tem como ser mais curta."
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~5": [
+"Fishnet Suit",
+"Macacão Arrastão"
+],
+"I|d7874bedb239c1648ac93b10ea6ca3fd|Name~1": [
+"Latex Outfit",
+"Roupa de Látex"
+],
+"I|d7874bedb239c1648ac93b10ea6ca3fd|Description~1": [
+"Very shiny. Wait-... Is that bra see through..?",
+"Bem brilhante. Peraí-... Esse sutiã é transparente..?"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~6": [
+"Kinky Groupie",
+"Groupie Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~7": [
+"Kinky Bride",
+"Noiva Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~8": [
+"Kinky Bunny",
+"Coelhinha Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~9": [
+"Kinky Cat",
+"Gatinha Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~10": [
+"Kinky Elf",
+"Elfa Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~11": [
+"Kinky Lingerie",
+"Lingerie Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~12": [
+"Kinky Maid",
+"Empregada Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~13": [
+"Kinky Nun",
+"Freira Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~14": [
+"Kinky Sailor",
+"Marinheira Safada"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~15": [
+"Kinky Vibrosuit",
+"Vibrotraje Safado"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~16": [
+"Lace Kitty (Blue)",
+"Gatinha de Renda (Azul)"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~17": [
+"Lace Kitty (Pink)",
+"Gatinha de Renda (Rosa)"
+],
+"I|74063c618db6ab24cb49a8831f25ad34|Name~18": [
+"Sheer Swimsuit",
+"Maiô Transparente"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~1": [
+"Jewel's Outfit",
+"Roupa da Jewel"
+],
+"I|c412f37a997e0424d899455c2485d338|Name~1": [
+"Jewel's Rags",
+"Trapos da Jewel"
+],
+"I|c412f37a997e0424d899455c2485d338|Description~1": [
+"She looks like she could rock these.",
+"Ela parece que arrasaria com isso."
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~2": [
+"Goth Outfit",
+"Roupa Gótica"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~3": [
+"Military Uniform",
+"Uniforme Militar"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~4": [
+"Military Helmet",
+"Capacete Militar"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~5": [
+"Police Uniform",
+"Uniforme Policial"
+],
+"I|0e0a3c192508a604eb3d4cbe5d9b0541|Name~1": [
+"Demon Punk Outfit",
+"Roupa Punk Demoníaca"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~6": [
+"SpecOps Uniform",
+"Uniforme de Operações Especiais"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~7": [
+"Riot Police Uniform",
+"Uniforme da Tropa de Choque"
+],
+"I|9694b55b52be2494dbbe8c40ade3426a|Name~8": [
+"Riot Police Sunglasses",
+"Óculos da Tropa de Choque"
+],
+"I|5441880ce5c0c35428b5a12b4ea201dd|Name~1": [
+"Pulse Rifle (Enemy)",
+"Rifle de Pulso (Inimigo)"
+],
+"I|d0a71589bee8f8a42a2c22c8152d6663|Name~1": [
+"Holiday Hat (Altin)",
+"Gorro Festivo (Altin)"
+],
+"I|d0a71589bee8f8a42a2c22c8152d6663|Name~2": [
+"Holiday Hat (Lady)",
+"Gorro Festivo (Lady)"
+],
+"I|d0a71589bee8f8a42a2c22c8152d6663|Name~3": [
+"Holiday Hat (Sofie)",
+"Gorro Festivo (Sofie)"
+],
+"U|abc157ec-9e26-4970-8b84-0854c886557f~2": [
+"Continue",
+"Continuar"
+],
+"U|042b7b07-f76d-4859-9959-20d92386540c~1": [
+"HISTORY",
+"HISTÓRICO"
+],
+"U|abc157ec-9e26-4970-8b84-0854c886557f~3": [
+"RESET Animation",
+"REINICIAR Animação"
+],
+"U|abc157ec-9e26-4970-8b84-0854c886557f~1": [
+"Show Advanced Settings",
+"Mostrar Configurações Avançadas"
+],
+"U|d03ea4e0-0600-47e5-8a8b-91ba0c0a10c5~1": [
+"Futa",
+"Futa"
+],
+"U|f39bd612-e901-4176-9834-4777d6e81723~1": [
+"History",
+"Histórico"
+],
+"U|761bb858-2b89-45b6-96a8-e9e13d49c243~1": [
+"The Wright Brew",
+"The Wright Brew"
+],
+"U|9db52643-b80e-48bc-a15d-c8fa1cd97ef7~1": [
+"More Perversion Required",
+"Requer Mais Perversão"
+],
+"U|dd760c7a-b123-4370-a87e-5fcf9203cb14~1": [
+"Carceburg PureEnding",
+"Carceburg PureEnding"
+],
+"U|af32b929-5862-4d10-b237-c373cc00c056~1": [
+"Third Crisis (1.0.0-pr) on WindowsEditor",
+"Third Crisis (1.0.0-pr) on WindowsEditor"
+],
+"U|677b7acf-1f8a-4de7-a039-a637eea40670~1": [
+"1.0.0-pr - (2022.3.7f1)",
+"1.0.0-pr - (2022.3.7f1)"
+],
+"U|c07fa61e-e7dc-4ea4-a8e0-0b517e8ec3ca~1": [
+"LIVE",
+"AO VIVO"
+],
+"U|d902660c-9266-4f21-a141-2bcad60c6d15~1": [
+"Room #3\nOccupation: Wright",
+"Quarto #3\nOcupante: Wright"
 ]
 }
