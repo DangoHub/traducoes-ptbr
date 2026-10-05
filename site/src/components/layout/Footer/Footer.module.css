@@ -1,0 +1,18 @@
+.footer {
+  padding: 2rem 1rem 3rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: var(--color-muted);
+  border-top: 3px solid var(--color-line);
+}
+
+.footer p {
+  margin: 0.3rem 0;
+}
+
+.footer .disclaimer {
+  max-width: 680px;
+  margin: 0.5rem auto 0;
+  font-size: 0.8rem;
+  opacity: 0.75;
+}

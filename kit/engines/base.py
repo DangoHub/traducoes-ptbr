@@ -1,36 +1,28 @@
-"""Interface comum dos plugins de engine.
+"""Common interface of the engine plugins.
 
-Unidade de tradução (dict devolvido por extrair()):
-    en       texto original
-    alvos    lista de ids de destino (onde a tradução será gravada); mais de um = texto deduplicado.
-             Cada id precisa ser único no arquivo final, mesmo que o jogo repita ids internos.
-    cat      "dialogo" | "interface" | "textos"  (vira o prefixo do lote)
-    grupo    id da conversa/tela; lotes nunca cortam um grupo no meio, se couber
-    cena     rótulo legível do grupo (nome do diálogo, da missão...)
-    quem     quem fala, ex.: "Jenna (F)"; None se não houver
-    tipo     "fala" | "escolha" | "ui" | "nome" | "descricao" ...
-    traduzir False para textos que vão como estão (números, placeholders)
+`extract()` returns kit.domain.units.TranslationUnit objects.
 """
 
 
 class Engine:
-    nome = "base"
+    name = "base"
 
-    def __init__(self, projeto):
-        self.p = projeto
+    def __init__(self, project):
+        self.project = project
 
-    def extrair(self):
-        """Lê o jogo instalado, grava o esqueleto do arquivo final em src/ e devolve a lista de unidades."""
+    def extract(self):
+        """Read the installed game, save in src/ what the build needs and return the translation units."""
         raise NotImplementedError
 
-    def montar(self, traducoes, destino):
-        """Gera os arquivos traduzidos em `destino` a partir de src/ (sem precisar do jogo).
+    def build(self, translations, destination):
+        """Generate the translated files in `destination` from src/ (without the game).
 
-        traducoes: {id_alvo: [texto_en, texto_pt]}. Use a tradução só se texto_en for igual ao original atual
-        (senão o texto mudou no jogo e a tradução está velha). Devolve [(arquivo_gerado, caminho_no_jogo)].
+        translations: {target_id: [english, portuguese]}. Use a translation only if its English equals the
+        current original (otherwise the game text changed and the translation is stale).
+        Return [(generated_file, path_inside_the_game)].
         """
         raise NotImplementedError
 
-    def arquivo_de_verificacao(self):
-        """Caminho relativo que existe na pasta do jogo; o instalador usa para reconhecê-la."""
+    def check_path(self):
+        """Relative path that exists in the game folder; the installer uses it to recognise the folder."""
         raise NotImplementedError

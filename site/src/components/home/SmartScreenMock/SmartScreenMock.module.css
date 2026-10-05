@@ -1,0 +1,64 @@
+.dialog {
+  padding: 1rem 1.1rem;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  color: #fff;
+  background: var(--color-smartscreen);
+  border-radius: var(--radius-sm);
+  box-shadow: 6px 6px 0 var(--color-ink);
+  transform: rotate(-1deg);
+}
+
+.dialog p {
+  margin: 0 0 0.5rem;
+  color: #fff;
+}
+
+.title {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.text {
+  font-size: 0.78rem;
+  opacity: 0.9;
+}
+
+.link {
+  width: fit-content;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: underline;
+  outline: 2px dashed var(--color-cream);
+  outline-offset: 3px;
+}
+
+.pointer {
+  display: inline-block;
+  text-decoration: none;
+  animation: poke 1s ease-in-out infinite;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+.buttons span {
+  padding: 0.35rem 0.7rem;
+  font-size: 0.75rem;
+  border: 1px solid #fff;
+}
+
+.buttons .run {
+  background: rgba(255, 255, 255, 0.15);
+  outline: 2px dashed var(--color-cream);
+  outline-offset: 2px;
+}
+
+@keyframes poke {
+  50% {
+    transform: translateY(-4px);
+  }
+}

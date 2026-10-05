@@ -1,0 +1,74 @@
+@import '@fontsource/press-start-2p/400.css';
+@import '@fontsource/pixelify-sans/500.css';
+@import '@fontsource/pixelify-sans/700.css';
+@import '@fontsource/nunito/400.css';
+@import '@fontsource/nunito/600.css';
+@import '@fontsource/nunito/800.css';
+@import './tokens.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  color: var(--color-text);
+  line-height: 1.6;
+  background:
+    radial-gradient(1200px 600px at 85% -10%, rgba(255, 126, 182, 0.18), transparent 60%),
+    radial-gradient(900px 500px at -10% 30%, rgba(107, 228, 255, 0.1), transparent 60%),
+    linear-gradient(var(--color-bg), var(--color-bg-alt));
+  background-attachment: fixed;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+a {
+  color: var(--color-cyan);
+}
+
+code,
+pre {
+  font-family: var(--font-mono);
+}
+
+code {
+  padding: 0.1em 0.4em;
+  border-radius: var(--radius-sm);
+  color: var(--color-cream);
+  background: rgba(0, 0, 0, 0.35);
+}
+
+noscript {
+  display: block;
+  padding: 2rem;
+  text-align: center;
+  font-weight: 600;
+  color: var(--color-danger-light);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}

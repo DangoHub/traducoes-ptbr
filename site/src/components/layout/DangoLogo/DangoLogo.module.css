@@ -1,0 +1,44 @@
+.dango {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  padding-bottom: 8px;
+}
+
+.dango::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  z-index: -1;
+  width: 3px;
+  height: 100%;
+  background: #c79a5b;
+  border-radius: 2px;
+}
+
+.dango i {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.18);
+}
+
+.dango i:nth-child(1) {
+  background: var(--color-pink);
+}
+
+.dango i:nth-child(2) {
+  background: var(--color-cream);
+}
+
+.dango i:nth-child(3) {
+  background: var(--color-matcha);
+}
+
+.small {
+  vertical-align: middle;
+  transform: scale(0.7);
+}

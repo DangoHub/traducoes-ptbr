@@ -22,14 +22,34 @@ origem assinada e análise no VirusTotal. Veja como conferir em [VERIFICAR.md](V
 ## Estrutura do repositório
 
 ```
-docs/                     site (GitHub Pages)
+site/                     site (Vite + React + TypeScript), publicado no GitHub Pages
+  src/data/               jogos, links das releases, textos das páginas
+  src/components/         componentes por área (ui, layout, games, home, age-gate)
+  src/pages/              páginas: início e Third Crisis (+18, com verificação de idade)
+kit/                      kit de tradução em Python (veja kit/README.md)
+tests/                    testes do kit
 projetos/<jogo>/          tudo que gera a tradução de cada jogo
   GUIA_TRADUCAO.md        guia de estilo + glossário PT-BR
   chunks/  out/           texto original em lotes / traduções por lote
   src/                    instalador e patcher
   build.py                junta traduções e gera o .zip (via projetos/empacotar.py)
-.github/workflows/release.yml   build + publicação de releases
+.github/workflows/
+  release.yml             build + publicação de releases
+  pages.yml               lint, testes, build e deploy do site
 ```
+
+## Site
+
+```
+cd site
+npm install
+npm run dev        # servidor local
+npm run lint       # oxlint
+npm test           # vitest
+npm run build      # gera site/dist
+```
+
+Todo push em `main` que mexe em `site/` publica o site pelo workflow `pages.yml`.
 
 ## Publicar uma versão
 
@@ -38,7 +58,8 @@ Steam build. O workflow gera o instalador numa máquina limpa do GitHub, calcula
 atestação, envia ao VirusTotal (se o secret `VT_API_KEY` existir) e publica a release
 `<jogo>-<versão>`.
 
-Ao lançar uma versão nova, atualize os links em `docs/index.html` e neste README.
+Ao lançar uma versão nova, atualize a versão e os SHA-256 em `site/src/data/games.tsx` e os links
+neste README.
 
 ## Aviso
 

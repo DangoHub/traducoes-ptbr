@@ -1,0 +1,6 @@
+.highlight {
+  color: var(--color-pink);
+  text-shadow:
+    4px 4px 0 var(--color-ink),
+    0 0 24px rgba(255, 126, 182, 0.55);
+}
