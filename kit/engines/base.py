@@ -2,7 +2,8 @@
 
 Unidade de tradução (dict devolvido por extrair()):
     en       texto original
-    alvos    lista de ids de destino (onde a tradução será gravada); mais de um = texto deduplicado
+    alvos    lista de ids de destino (onde a tradução será gravada); mais de um = texto deduplicado.
+             Cada id precisa ser único no arquivo final, mesmo que o jogo repita ids internos.
     cat      "dialogo" | "interface" | "textos"  (vira o prefixo do lote)
     grupo    id da conversa/tela; lotes nunca cortam um grupo no meio, se couber
     cena     rótulo legível do grupo (nome do diálogo, da missão...)
@@ -25,7 +26,8 @@ class Engine:
     def montar(self, traducoes, destino):
         """Gera os arquivos traduzidos em `destino` a partir de src/ (sem precisar do jogo).
 
-        traducoes: {id_alvo: texto_pt}. Devolve [(arquivo_gerado, caminho_relativo_na_pasta_do_jogo)].
+        traducoes: {id_alvo: [texto_en, texto_pt]}. Use a tradução só se texto_en for igual ao original atual
+        (senão o texto mudou no jogo e a tradução está velha). Devolve [(arquivo_gerado, caminho_no_jogo)].
         """
         raise NotImplementedError
 

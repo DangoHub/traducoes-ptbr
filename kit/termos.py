@@ -16,6 +16,8 @@ def termos(p, limite=150):
     cont, exemplo = collections.Counter(), {}
     for nome in p.lotes():
         for it in json.load(open(os.path.join(p.chunks, nome + ".json"), encoding="utf-8")):
+            if "k" not in it:
+                continue
             texto = re.sub(r"<[^<>]+>", "", it["en"])
             for m in PALAVRA_MAIUSCULA.finditer(texto):
                 t = m.group(1)

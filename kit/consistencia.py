@@ -61,6 +61,8 @@ def buscar(p, texto, limite=20):
         chunk = carregar_json(os.path.join(p.chunks, nome + ".json"), [])
         out = carregar_json(os.path.join(p.out, nome + ".json"), {})
         for it in chunk:
+            if "k" not in it:
+                continue
             pt = out.get(it["k"], "")
             if alvo in it["en"].lower() or alvo in pt.lower():
                 achados += 1
@@ -79,7 +81,7 @@ def checar_termos(p, exemplos=2):
     for nome in p.lotes():
         chunk = carregar_json(os.path.join(p.chunks, nome + ".json"), [])
         out = carregar_json(os.path.join(p.out, nome + ".json"), {})
-        pares += [(f"{nome}#{it['k']}", it["en"], out[it["k"]]) for it in chunk if it["k"] in out]
+        pares += [(f"{nome}#{it['k']}", it["en"], out[it["k"]]) for it in chunk if it.get("k") in out]
     pares += [(alvo, en, pt) for alvo, (en, pt) in carregar_json(traducoes_path(p), {}).items()]
     falhas = collections.defaultdict(list)
     for termo_en, termo_pt in termos.items():

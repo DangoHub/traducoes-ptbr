@@ -7,6 +7,7 @@ final é sempre completo, com o inglês como reserva.
 
 Quem fala não está no JSON: vem dos assets Dialogue/Character (lidos com UnityPy + typetree das DLLs).
 """
+import collections
 import copy
 import os
 import re
@@ -67,50 +68,93 @@ class UnityANToolkit(Engine):
 
         meta = self._ler_dialogos(jogo)
         nao_traduzir = set(self.p.cfg.get("nao_traduzir", []))
+        alvos = {(id(obj), campo): alvo for alvo, obj, campo, _ in self.campos(modelo)}
         unidades = []
 
-        def add(en, alvo, cat, grupo=None, cena=None, quem=None, tipo="fala"):
+        def add(obj, campo, cat, grupo=None, cena=None, quem=None, tipo="fala"):
+            en = obj[campo]
             if not isinstance(en, str) or not en.strip():
                 return
             traduzir = not (SO_SIMBOLOS.match(en) or TOKEN_INTEIRO.match(en.strip()) or en in nao_traduzir)
-            unidades.append({"en": en, "alvos": [alvo], "cat": cat, "grupo": grupo, "cena": cena,
+            unidades.append({"en": en, "alvos": [alvos[id(obj), campo]], "cat": cat, "grupo": grupo, "cena": cena,
                              "quem": quem, "tipo": tipo, "traduzir": traduzir})
 
         for dlg in sorted(modelo["Dialogues"], key=lambda d: _ordem_natural(d["name"])):
             linhas_meta = meta.get(dlg["guid"], {})
             for ln in dlg["Lines"]:
-                quem = linhas_meta.get(ln["LineId"])
-                add(ln["originalText"], f"D|{dlg['guid']}|{ln['LineId']}", "dialogo", dlg["guid"], dlg["name"], quem)
+                add(ln, "originalText", "dialogo", dlg["guid"], dlg["name"], linhas_meta.get(ln["LineId"]))
                 for ch in ln["Choices"]:
-                    add(ch["originalText"], f"C|{dlg['guid']}|{ln['LineId']}|{ch['choiceId']}", "dialogo",
-                        dlg["guid"], dlg["name"], None, "escolha")
+                    add(ch, "originalText", "dialogo", dlg["guid"], dlg["name"], None, "escolha")
 
         for m in modelo["Missions"]:
             g = "M:" + m["Id"]
-            add(m["Name"], f"M|{m['Id']}|Name", "textos", g, m["Name"], tipo="titulo de missao")
-            add(m["Description"], f"M|{m['Id']}|Description", "textos", g, m["Name"], tipo="descricao de missao")
+            add(m, "Name", "textos", g, m["Name"], tipo="titulo de missao")
+            add(m, "Description", "textos", g, m["Name"], tipo="descricao de missao")
             for t in m["Tasks"]:
-                add(t["DisplayName"], f"T|{m['Id']}|{t['Id']}", "textos", g, m["Name"], tipo="tarefa de missao")
+                add(t, "DisplayName", "textos", g, m["Name"], tipo="tarefa de missao")
         for j in modelo["JournalEntries"]:
             g = "J:" + j["Id"]
-            add(j["Name"], f"J|{j['Id']}|Name", "textos", g, j["Name"], tipo="titulo do diario")
-            add(j["Contents"], f"J|{j['Id']}|Contents", "textos", g, j["Name"], tipo="texto do diario")
+            add(j, "Name", "textos", g, j["Name"], tipo="titulo do diario")
+            add(j, "Contents", "textos", g, j["Name"], tipo="texto do diario")
         for it in modelo["Items"]:
             g = "I:" + it["Id"]
-            add(it["Name"], f"I|{it['Id']}|Name", "textos", g, it["Name"], tipo="nome de item")
-            add(it["Description"], f"I|{it['Id']}|Description", "textos", g, it["Name"], tipo="descricao de item")
+            add(it, "Name", "textos", g, it["Name"], tipo="nome de item")
+            add(it, "Description", "textos", g, it["Name"], tipo="descricao de item")
         for a in modelo["Abilities"]:
             g = "A:" + a["Id"]
-            add(a["Name"], f"A|{a['Id']}|Name", "textos", g, a["Name"], tipo="nome de habilidade")
-            add(a["Tooltip"], f"A|{a['Id']}|Tooltip", "textos", g, a["Name"], tipo="descricao de habilidade")
+            add(a, "Name", "textos", g, a["Name"], tipo="nome de habilidade")
+            add(a, "Tooltip", "textos", g, a["Name"], tipo="descricao de habilidade")
         for s in modelo["SceneNames"]:
-            add(s["Name"], f"N|{s['Id']}", "textos", "lugares", "Nomes de lugares", tipo="nome de lugar")
+            add(s, "Name", "textos", "lugares", "Nomes de lugares", tipo="nome de lugar")
 
         for s in modelo["LocalizedStrings"]:
-            add(s["originalText"], f"S|{s['Identifier']}", "interface", cena=s["Identifier"], tipo="ui")
+            add(s, "originalText", "interface", cena=s["Identifier"], tipo="ui")
         for u in modelo["UILocalizations"]:
-            add(u["originalText"], f"U|{u['guid']}", "interface", tipo="ui")
+            add(u, "originalText", "interface", tipo="ui")
         return self._deduplicar_interface(unidades)
+
+    @staticmethod
+    def campos(dados):
+        """(alvo, objeto, campo original, campo traduzido) de cada texto, na ordem do arquivo.
+
+        O jogo repete ids (choiceId vazio, Id de item, guid de interface) para textos diferentes. Cada texto
+        distinto sob o mesmo id ganha "~n" a partir do 2º, para ter a própria tradução; repetições do mesmo
+        texto continuam no mesmo alvo.
+        """
+        textos = {}
+
+        def campo(alvo, obj, original, traduzido):
+            por_texto = textos.setdefault(alvo, {})
+            if obj[original] not in por_texto:
+                n = len(por_texto)
+                por_texto[obj[original]] = alvo if n == 0 else f"{alvo}~{n}"
+            return por_texto[obj[original]], obj, original, traduzido
+
+        for d in dados["Dialogues"]:
+            for ln in d["Lines"]:
+                yield campo(f"D|{d['guid']}|{ln['LineId']}", ln, "originalText", "text")
+                for ch in ln["Choices"]:
+                    yield campo(f"C|{d['guid']}|{ln['LineId']}|{ch['choiceId']}", ch, "originalText", "text")
+        for u in dados["UILocalizations"]:
+            yield campo(f"U|{u['guid']}", u, "originalText", "text")
+        for s in dados["LocalizedStrings"]:
+            yield campo(f"S|{s['Identifier']}", s, "originalText", "text")
+        for m in dados["Missions"]:
+            yield campo(f"M|{m['Id']}|Name", m, "Name", "TranslatedName")
+            yield campo(f"M|{m['Id']}|Description", m, "Description", "TranslatedDescription")
+            for t in m["Tasks"]:
+                yield campo(f"T|{m['Id']}|{t['Id']}", t, "DisplayName", "TranslatedDisplayName")
+        for j in dados["JournalEntries"]:
+            yield campo(f"J|{j['Id']}|Name", j, "Name", "TranslatedName")
+            yield campo(f"J|{j['Id']}|Contents", j, "Contents", "TranslatedContents")
+        for it in dados["Items"]:
+            yield campo(f"I|{it['Id']}|Name", it, "Name", "TranslatedName")
+            yield campo(f"I|{it['Id']}|Description", it, "Description", "TranslatedDescription")
+        for a in dados["Abilities"]:
+            yield campo(f"A|{a['Id']}|Name", a, "Name", "TranslatedName")
+            yield campo(f"A|{a['Id']}|Tooltip", a, "Tooltip", "TranslatedToolTip")
+        for s in dados["SceneNames"]:
+            yield campo(f"N|{s['Id']}", s, "Name", "TranslatedName")
 
     @staticmethod
     def _limpar(esqueleto):
@@ -127,17 +171,40 @@ class UnityANToolkit(Engine):
         walk(esqueleto)
 
     @staticmethod
-    def _deduplicar_interface(unidades):
-        saida, por_texto = [], {}
+    def _funcao(u):
+        """Onde o texto é usado. LocalizedStrings: grupo do identificador ("Settings.TextureQuality.High" ->
+        "Settings.TextureQuality"). UILocalizations só têm guid, então textos iguais contam como mesma função."""
+        alvo = u["alvos"][0].split("~")[0]
+        if alvo.startswith("S|"):
+            return alvo[2:].rsplit(".", 1)[0]
+        return alvo.split("|", 1)[0]
+
+    @classmethod
+    def _deduplicar_interface(cls, unidades, max_contextos=5):
+        """Junta textos iguais só quando a função é a mesma e guarda os identificadores de todos os destinos."""
+        saida, por_chave, contextos, vistos = [], {}, {}, {}
         for u in unidades:
             if u["cat"] != "interface":
                 saida.append(u)
                 continue
-            if u["en"] in por_texto:
-                por_texto[u["en"]]["alvos"] += u["alvos"]
+            chave = (u["en"], cls._funcao(u))
+            if chave in por_chave:
+                novos = [a for a in u["alvos"] if a not in vistos[chave]]
+                por_chave[chave]["alvos"] += novos
+                vistos[chave].update(novos)
             else:
-                por_texto[u["en"]] = u
+                por_chave[chave] = u
+                vistos[chave] = set(u["alvos"])
+                contextos[id(u)] = []
                 saida.append(u)
+            lista = contextos[id(por_chave[chave])]
+            if u["cena"] and u["cena"] not in lista:
+                lista.append(u["cena"])
+        for u in saida:
+            lista = contextos.get(id(u))
+            if lista:
+                extra = f" (+{len(lista) - max_contextos})" if len(lista) > max_contextos else ""
+                u["cena"] = ", ".join(lista[:max_contextos]) + extra
         return saida
 
     # ---------- quem fala (assets) ----------
@@ -258,8 +325,8 @@ class UnityANToolkit(Engine):
 
         def pt(alvo, original):
             nonlocal usados
-            t = traducoes.get(alvo)
-            if t:
+            en, t = traducoes.get(alvo, (None, None))
+            if t and en == original:
                 usados += 1
             else:
                 t = original
@@ -267,31 +334,8 @@ class UnityANToolkit(Engine):
                 t = t.replace(token, troca)
             return t
 
-        for d in esq["Dialogues"]:
-            for ln in d["Lines"]:
-                ln["text"] = pt(f"D|{d['guid']}|{ln['LineId']}", ln["originalText"])
-                for ch in ln["Choices"]:
-                    ch["text"] = pt(f"C|{d['guid']}|{ln['LineId']}|{ch['choiceId']}", ch["originalText"])
-        for u in esq["UILocalizations"]:
-            u["text"] = pt(f"U|{u['guid']}", u["originalText"])
-        for s in esq["LocalizedStrings"]:
-            s["text"] = pt(f"S|{s['Identifier']}", s["originalText"])
-        for m in esq["Missions"]:
-            m["TranslatedName"] = pt(f"M|{m['Id']}|Name", m["Name"])
-            m["TranslatedDescription"] = pt(f"M|{m['Id']}|Description", m["Description"])
-            for t in m["Tasks"]:
-                t["TranslatedDisplayName"] = pt(f"T|{m['Id']}|{t['Id']}", t["DisplayName"])
-        for j in esq["JournalEntries"]:
-            j["TranslatedName"] = pt(f"J|{j['Id']}|Name", j["Name"])
-            j["TranslatedContents"] = pt(f"J|{j['Id']}|Contents", j["Contents"])
-        for it in esq["Items"]:
-            it["TranslatedName"] = pt(f"I|{it['Id']}|Name", it["Name"])
-            it["TranslatedDescription"] = pt(f"I|{it['Id']}|Description", it["Description"])
-        for a in esq["Abilities"]:
-            a["TranslatedName"] = pt(f"A|{a['Id']}|Name", a["Name"])
-            a["TranslatedToolTip"] = pt(f"A|{a['Id']}|Tooltip", a["Tooltip"])
-        for s in esq["SceneNames"]:
-            s["TranslatedName"] = pt(f"N|{s['Id']}", s["Name"])
+        for alvo, obj, original, traduzido in list(self.campos(esq)):
+            obj[traduzido] = pt(alvo, obj[original])
 
         os.makedirs(destino, exist_ok=True)
         arq = os.path.join(destino, self.nome_arquivo)
