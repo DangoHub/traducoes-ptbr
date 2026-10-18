@@ -40,15 +40,15 @@ export const publishedGames: Game[] = [
     badge: { label: '✔ Completo', tone: 'success' },
     description: (
       <>
-        História inteira (4.022 falas), interface, Modo Destemido, trajes e conquistas. Depois de instalar, escolha{' '}
-        <b>English</b> no menu de idioma.
+        História inteira (4.022 falas), interface, Modo Destemido, trajes e conquistas. Depois de instalar, escolha <b>English</b> no menu
+        de idioma.
       </>
     ),
     progress: COMPLETE,
     release: githubRelease(
       'garden-of-witches-v1.2',
       'Garden_of_Witches_Traducao_PTBR',
-      '99da2de5d415a95da15cebe81f1c5ffe648467ca5886284fe9bfb6c40e980e60'
+      '50ecd4292ba254d3b383cf8e9c92cc9f9ce1a6ac51d671fd45d6320fb11ae706'
     ),
   },
 ];
