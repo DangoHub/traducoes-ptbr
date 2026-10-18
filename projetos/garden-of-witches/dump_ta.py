@@ -1,6 +1,6 @@
 import UnityPy, os
 GAME = r"C:\Program Files (x86)\Steam\steamapps\common\Garden of Witches\Garden of Witches_Data"
-OUT = r"C:\gow_mod\ta"
+OUT = r"C:\traducoes-ptbr\projetos\garden-of-witches\ta"
 os.makedirs(OUT, exist_ok=True)
 env = UnityPy.load(os.path.join(GAME, "resources.assets"))
 for obj in env.objects:

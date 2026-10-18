@@ -9,7 +9,8 @@
 
 | Steam build | Arquivos |
 |---|---|
-| 25225196 | [`garden-of-witches-v1.0`](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.0) |
+| 25979989 | `releases/steam-build-25979989/` (v1.2.0 — Modo Destemido, trajes, conquistas) |
+| 25225196 | [`garden-of-witches-v1.1`](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.1) |
 
 ## Fluxo
 

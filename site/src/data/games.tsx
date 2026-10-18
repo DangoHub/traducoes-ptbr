@@ -35,19 +35,20 @@ export const publishedGames: Game[] = [
     slug: 'garden-of-witches',
     title: 'Garden of Witches',
     studio: 'Unity',
-    steamBuild: '25225196',
+    steamBuild: '25979989',
     coverUrl: steamCoverUrl(2530470),
     badge: { label: '✔ Completo', tone: 'success' },
     description: (
       <>
-        História inteira (4.017 falas) e toda a interface. Depois de instalar, escolha <b>English</b> no menu de idioma.
+        História inteira (4.022 falas), interface, Modo Destemido, trajes e conquistas. Depois de instalar, escolha{' '}
+        <b>English</b> no menu de idioma.
       </>
     ),
     progress: COMPLETE,
     release: githubRelease(
-      'garden-of-witches-v1.1',
+      'garden-of-witches-v1.2',
       'Garden_of_Witches_Traducao_PTBR',
-      'd63040d97f6ea695fcdfc83a9cc06257ff2774957e9374a1b9f8dd049e603c66'
+      '99da2de5d415a95da15cebe81f1c5ffe648467ca5886284fe9bfb6c40e980e60'
     ),
   },
 ];

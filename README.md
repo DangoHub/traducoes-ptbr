@@ -10,7 +10,7 @@ Cada jogo tem instalador com um clique, desinstalação limpa e código 100% abe
 | Jogo | Versão Steam compatível | Download |
 |---|---|---|
 | The Wolf Among Us | build 319083 | [Baixar .zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/the-wolf-among-us-v1.1/The_Wolf_Among_Us_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/the-wolf-among-us-v1.1) |
-| Garden of Witches | build 25225196 | [Baixar .zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/garden-of-witches-v1.1/Garden_of_Witches_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.1) |
+| Garden of Witches | build 25979989 | [Baixar .zip](https://github.com/DangoHub/traducoes-ptbr/releases/download/garden-of-witches-v1.2/Garden_of_Witches_Traducao_PTBR.zip) · [notas e SHA-256](https://github.com/DangoHub/traducoes-ptbr/releases/tag/garden-of-witches-v1.2) |
 
 Todas as versões: [Releases](https://github.com/DangoHub/traducoes-ptbr/releases).
 

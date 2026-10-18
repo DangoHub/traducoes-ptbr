@@ -21,7 +21,7 @@ json.dump(trans, open("src/traducao_ptbr.json", "w", encoding="utf-8"), ensure_a
 if "--json-only" in sys.argv:
     sys.exit(0)
 
-STEAM_BUILD = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--steam-build=")), "25225196")
+STEAM_BUILD = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--steam-build=")), "25979989")
 APP = "Traducao_PTBR_Garden_of_Witches"
 if "--so-linux" not in sys.argv:
     empacotar(
